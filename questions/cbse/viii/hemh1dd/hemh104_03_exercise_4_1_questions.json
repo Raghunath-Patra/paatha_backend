@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "A survey was made to find the type of music that a certain group of young people liked in a city. The adjoining pie chart shows the findings of the survey (Music preference: Light 40%, Folk 30%, Classical 10%, Semi Classical 20%). From this pie chart answer the following:\n(i) If 20 people liked classical music, how many young people were surveyed?\n(ii) Which type of music is liked by the maximum number of people?\n(iii) If a cassette company were to make 1000 CDs, how many of each type would they make?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) Total surveyed = 20 / 0.10 = 200 people; (ii) Light music (40% corresponds to the highest portion); (iii) CDs distribution: Light = 40% of 1000 = 400, Folk = 30% of 1000 = 300, Classical = 10% of 1000 = 100, Semi Classical = 20% of 1000 = 200.",
+    "explanation": "Step 1: Identify the proportion for Classical music which is 10%. Since 10% of the total equals 20 people, the total is computed by 20 ÷ 0.10 = 200.\nStep 2: Review the percentages: Light (40%), Folk (30%), Classical (10%), Semi Classical (20%). The highest percentage is 40%, corresponding to Light music.\nStep 3: For making 1000 CDs, use the percentage for each type: Light = 0.40×1000 = 400, Folk = 0.30×1000 = 300, Classical = 0.10×1000 = 100, Semi Classical = 0.20×1000 = 200.\nThus, the answers follow directly from proportional reasoning using percentages.",
+    "topic": "Pie Charts, Data Interpretation, Percentages",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex001"
+  },
+  {
+    "question_text": "A group of 360 people were asked to vote for their favourite season from the three seasons: Summer, Rainy, and Winter. The votes obtained were: Summer = 90, Rainy = 120, Winter = 150.\nAnswer the following:\n(i) Which season got the most votes?\n(ii) Find the central angle of each sector in the corresponding pie chart.\n(iii) Draw a pie chart to show this information.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) Winter received the most votes (150 votes).\n(ii) Central angles: Summer = (90/360)×360 = 90°; Rainy = (120/360)×360 = 120°; Winter = (150/360)×360 = 150°.\n(iii) A pie chart should be drawn with a circle divided into sectors with angles of 90°, 120°, and 150° corresponding to Summer, Rainy, and Winter respectively.",
+    "explanation": "Step 1: Identify the highest number of votes; Winter has 150 which is the largest.\nStep 2: To calculate the central angle, use the formula: (Votes / Total Votes) × 360°. For Summer: (90/360)×360 = 90°; Rainy: (120/360)×360 = 120°; Winter: (150/360)×360 = 150°.\nStep 3: When drawing the pie chart, start by drawing a circle, then use a protractor to measure the calculated angles from a reference line to form each sector.\nThus, the data is accurately represented by the pie chart.",
+    "topic": "Pie Charts, Data Interpretation, Proportions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex002"
+  },
+  {
+    "question_text": "Draw a pie chart showing the following information about colour preferences among a group of people:\n\nColours and Number of People:\nBlue = 18, Green = 9, Red = 6, Yellow = 3 (Total = 36).\n(Note: Find the proportion of each sector; for example, Blue is 18/36 which simplifies to 1/2, and so on. Use these fractions to determine the corresponding angles.)",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For Blue: 18/36 = 1/2 → Angle = 1/2×360 = 180°; For Green: 9/36 = 1/4 → Angle = 1/4×360 = 90°; For Red: 6/36 = 1/6 → Angle = 1/6×360 = 60°; For Yellow: 3/36 = 1/12 → Angle = 1/12×360 = 30°. Draw a circle and use these angles to represent each colour's portion.",
+    "explanation": "Step 1: Calculate the fraction for each colour:\n• Blue: 18/36 = 1/2 → 1/2 of 360° = 180°.\n• Green: 9/36 = 1/4 → 1/4 of 360° = 90°.\n• Red: 6/36 = 1/6 → 1/6 of 360° = 60°.\n• Yellow: 3/36 = 1/12 → 1/12 of 360° = 30°.\nStep 2: Draw a circle and mark its center. Using a protractor, measure out the calculated central angles from a starting line to form the sectors for each colour.\nThis method accurately displays the colour preferences as indicated by the data.",
+    "topic": "Pie Charts, Fractions, Data Representation",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex003"
+  },
+  {
+    "question_text": "The adjoining pie chart represents the marks scored by a student in an examination for the subjects: Mathematics, Social Science, Science, Hindi, and English. The central angles for each subject are: Mathematics = 90°, Social Science = 65°, Science = 80°, Hindi = 70°, and English = 55°. The total marks obtained by the student are 540. Answer the following:\n(i) In which subject did the student score 105 marks? (Hint: For 540 marks, the total central angle is 360°. Find the marks corresponding to the central angle that represents 105 marks.)\n(ii) How many more marks were obtained in Mathematics than in Hindi?\n(iii) Examine whether the sum of the marks obtained in Social Science and Mathematics is more than the sum of marks in Science and Hindi.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) First, determine the conversion factor: 360° corresponds to 540 marks, so each degree represents 540/360 = 1.5 marks. For 105 marks, the corresponding angle = 105 / 1.5 = 70°. The subject with a central angle of 70° is Hindi, so the student scored 105 marks in Hindi.\n(ii) Marks in Mathematics = 90° × 1.5 = 135 marks; Marks in Hindi = 70° × 1.5 = 105 marks; Difference = 135 − 105 = 30 marks.\n(iii) Sum of Mathematics and Social Science marks = (90° + 65°)×1.5 = 155°×1.5 = 232.5 marks; Sum of Science and Hindi marks = (80° + 70°)×1.5 = 150°×1.5 = 225 marks. Therefore, the sum for Social Science and Mathematics is greater by 7.5 marks.",
+    "explanation": "Step 1: Determine the marks per degree using the total: 540 marks / 360° = 1.5 marks/degree.\nStep 2: For part (i), find the angle corresponding to 105 marks: 105 ÷ 1.5 = 70°. Since the pie chart shows Hindi with a 70° arc, the student scored 105 in Hindi.\nStep 3: For part (ii), calculate marks in Mathematics (90°×1.5 = 135) and in Hindi (70°×1.5 = 105). The difference is 30 marks.\nStep 4: For part (iii), add the central angles for Mathematics and Social Science: 90° + 65° = 155°, which corresponds to 155×1.5 = 232.5 marks. Then add for Science and Hindi: 80° + 70° = 150°, which corresponds to 150×1.5 = 225 marks. Comparing these shows that Mathematics and Social Science yield 7.5 marks more.\nThis process applies proportional reasoning and comparison of sums based on the pie chart's sectors.",
+    "topic": "Pie Charts, Proportions, Data Analysis",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex004"
+  },
+  {
+    "question_text": "The following data represents the number of students in a hostel speaking different languages:\n\nLanguages and Number of Students:\nHindi = 40, English = 12, Marathi = 9, Tamil = 7, Bengali = 4 (Total = 72).\nDisplay this data in a pie chart.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Calculate the fraction for each language and then the corresponding central angle:\n• Hindi: 40/72 → (40/72)×360 = 200°\n• English: 12/72 → (12/72)×360 = 60°\n• Marathi: 9/72 → (9/72)×360 = 45°\n• Tamil: 7/72 → (7/72)×360 = 35°\n• Bengali: 4/72 → (4/72)×360 = 20°\nDraw a circle and partition it into sectors with the above-calculated angles.",
+    "explanation": "Step 1: Determine the fraction of the total each language represents. For example, for Hindi: 40/72 simplifies to approximately 0.5556; multiply by 360° to get 200°.\nStep 2: Repeat the calculation for each language:\n- English: (12/72)×360 = 60°\n- Marathi: (9/72)×360 = 45°\n- Tamil: (7/72)×360 = 35°\n- Bengali: (4/72)×360 = 20°\nStep 3: Draw the circle and using a protractor, mark the center and draw radii to create sectors with central angles of 200°, 60°, 45°, 35°, and 20° respectively.\nThis pie chart will accurately display the language distribution among the students.",
+    "topic": "Pie Charts, Data Representation, Proportions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex005"
+  }
+]

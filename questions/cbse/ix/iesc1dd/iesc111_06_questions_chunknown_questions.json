@@ -1,0 +1,15 @@
+[
+  {
+    "question_text": "Distinguish between loudness and intensity of sound.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Sound intensity is the objective measure of the energy carried by a sound wave per unit area per unit time (measured in watts per square meter, W/m²), whereas loudness is the subjective perception of that intensity by the human ear, which also depends on the frequency of the sound.",
+    "explanation": "Intensity quantifies the physical power of a sound wave, and its unit is W/m². It is an objective measure determined by the amplitude of the wave. In contrast, loudness is how we perceive that energy; it is influenced by the sensitivity of human hearing to different frequencies. For instance, two sounds with the same intensity but different frequency content may be perceived as having different loudness. This distinction is fundamental in acoustics, as it separates the measurable properties of sound from the psychoacoustic experience.",
+    "topic": "Characteristics of Sound Waves",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic007"
+  }
+]

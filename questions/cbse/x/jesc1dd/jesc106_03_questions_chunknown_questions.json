@@ -1,0 +1,72 @@
+[
+  {
+    "question_text": "What is the difference between a reflex action and walking?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A reflex action is an involuntary, rapid response to a stimulus that is mediated by a direct reflex arc in the spinal cord, without the need for conscious thought, whereas walking is a voluntary, coordinated action controlled by higher brain centers, such as the cerebrum and cerebellum, involving conscious decision-making and learning.",
+    "explanation": "Reflex actions, such as pulling your hand away from a hot object, are mediated through a reflex arc that directly connects sensory input with motor output in the spinal cord. This minimizes reaction time and protects the body from harm. In contrast, walking requires complex processing that involves many neurons in the brain. The cerebrum is responsible for initiating the movement and planning the sequence, while the cerebellum ensures coordination, balance, and fine tuning of the movement. This distinction highlights the difference in speed and complexity between simple reflex circuits and higher-order motor control.",
+    "topic": "Nervous System - Reflex Actions vs. Voluntary Movements",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic001"
+  },
+  {
+    "question_text": "What happens at the synapse between two neurons?",
+    "type": "Long Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "At the synapse, when an electrical impulse reaches the axon terminal of the presynaptic neuron, it triggers the release of neurotransmitters into the synaptic gap. These chemical messengers then bind to specific receptor sites on the postsynaptic neuron's dendrite or cell body, thereby initiating a new electrical impulse in that neuron.",
+    "explanation": "The process involves several steps: the impulse travels along the axon to the nerve ending, where it causes vesicles to release neurotransmitters into the synaptic cleft. Once released, these chemicals diffuse across the gap and attach to receptor proteins on the postsynaptic neuron, which then open ion channels and generate a new electrical impulse. This mechanism is fundamental in neural communication and is essential for both reflex actions and more complex brain functions.",
+    "topic": "Nervous System - Neural Communication and Synaptic Transmission",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic002"
+  },
+  {
+    "question_text": "Which part of the brain maintains posture and equilibrium of the body?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correct_answer": "Cerebellum",
+    "explanation": "The cerebellum, located in the hind-brain, plays a crucial role in maintaining balance, posture, and the precision of voluntary movements. It integrates input from various sensory systems and coordinates smooth motor activity, ensuring that activities such as walking and other movements are well-balanced and controlled.",
+    "topic": "Human Brain - Cerebellum and Motor Coordination",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic003"
+  },
+  {
+    "question_text": "How do we detect the smell of an agarbatti (incense stick)?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "We detect the smell of an agarbatti through olfactory receptors located in the nasal cavity. The volatile chemical molecules released from the burning incense dissolve in the mucus lining inside the nose and bind to the olfactory receptors. This binding converts the chemical signal into an electrical impulse that is transmitted via the olfactory nerve to the fore-brain, where it is interpreted as a specific smell.",
+    "explanation": "The detection process begins when the agarbatti releases volatile compounds into the air. These compounds enter the nasal passage and interact with the mucus layer, facilitating their binding to specialized olfactory receptors. Once bound, these receptors generate an electrical impulse similar to other neural signaling processes, which is then relayed to the brain. The brain processes these signals, allowing us to perceive and distinguish the unique aroma of the incense. This process is an excellent example of sensory transduction in the olfactory system.",
+    "topic": "Sensory Systems - Olfaction",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic004"
+  },
+  {
+    "question_text": "What is the role of the brain in reflex action?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The brain is not primarily involved in the immediate execution of a reflex action, which is managed by the spinal cord via a reflex arc for rapid response. However, the brain receives the sensory information after the reflex has occurred, allowing it to become aware of the stimulus and potentially modify or inhibit subsequent reflex responses based on experience and context.",
+    "explanation": "Reflex actions are designed for speed and occur without the intervention of higher brain centers, ensuring minimal delay in response to harmful stimuli. The sensory neuron directly interfaces with motor neurons in the spinal cord, facilitating a quick reaction. Nonetheless, a parallel pathway carries the sensory information up to the brain, where the event is processed and integrated. This awareness allows for future modifications in behavior and enables the brain to exert some inhibitory control over certain reflexes if necessary. Such dual processing demonstrates the efficiency of the nervous system in dealing with both immediate and considered responses.",
+    "topic": "Nervous System - Reflex Arcs and Brain Function",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic005"
+  }
+]

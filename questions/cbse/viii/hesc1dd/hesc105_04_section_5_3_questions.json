@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which term refers to the part of the Earth that supports life by housing all living organisms?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Ecosystem",
+      "B. Biosphere",
+      "C. Atmosphere",
+      "D. Habitat"
+    ],
+    "correct_answer": "B. Biosphere – It is the region of the planet where life exists.",
+    "explanation": "The Biosphere is defined as the part of the Earth in which living organisms exist, encompassing all ecological systems.",
+    "topic": "Biosphere",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc105",
+    "section_id": "04_section_5_3",
+    "question_id": "cbse_viii_hesc1dd_c105_gen027"
+  }
+]

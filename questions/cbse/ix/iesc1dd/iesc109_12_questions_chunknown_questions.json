@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "You find your mass to be 42 kg on a weighing machine. Is your mass more or less than 42 kg?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Your mass is 42 kg. Although the weighing machine measures weight (mg) and converts it to mass using a standard value of g, any buoyant force due to air is extremely small. Thus, for all practical purposes, your mass remains 42 kg.",
+    "explanation": "A weighing machine calculates mass based on the weight of the object using the relationship W = m × g. While there is a slight buoyant force acting upward due to the displaced air, this effect is negligible compared to the gravitational force. Therefore, the true mass is effectively equal to what is measured (42 kg). This demonstrates that mass is an intrinsic property of matter and remains constant regardless of small variations in apparent weight caused by air buoyancy.",
+    "topic": "Mass, Weight and Buoyancy",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic010"
+  },
+  {
+    "question_text": "You have a bag of cotton and an iron bar, each indicating a mass of 100 kg on a weighing machine. In reality, one is heavier than the other. Which one is heavier and why?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The cotton bag is heavier. Although both indicate 100 kg on the weighing machine, the cotton bag has a much larger volume, meaning it displaces more air. The buoyant force provided by the displaced air is therefore larger for the cotton bag, requiring its true mass to be higher in order to measure the same apparent weight as the denser iron bar.",
+    "explanation": "When an object is weighed, the balance measures the net force acting on it, and this includes the buoyant force from the surrounding air. For two objects with the same indicated mass, the one with a larger volume (like a cotton bag) displaces more air and experiences a greater upward buoyant force. To still register 100 kg on the scale, the cotton bag must have a slightly higher actual mass than the iron bar. This is an application of the principle of buoyancy, where the buoyant force equals the weight of the fluid displaced (air, in this case).",
+    "topic": "Mass, Weight and Buoyancy",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic011"
+  }
+]

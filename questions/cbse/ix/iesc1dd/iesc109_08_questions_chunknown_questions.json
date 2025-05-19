@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What are the differences between the mass of an object and its weight?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Mass is the amount of matter contained in an object, measured in kilograms (kg), and it remains constant regardless of location. Weight is the force with which an object is attracted toward another body (such as the Earth) due to gravity, measured in newtons (N), and it varies with the local acceleration due to gravity.",
+    "explanation": "Mass is a scalar quantity that represents the amount of matter or inertia an object possesses. It does not change with location. Weight, on the other hand, is a vector quantity calculated by the equation W = m × g, where g is the acceleration due to gravity. While mass is constant, weight depends on g, which can vary from one celestial body to another. For example, on the Earth g is approximately 9.8 m/s², whereas on the Moon it is much lower, so objects weigh less there. This distinction is fundamental in understanding gravitational interactions in physics.",
+    "topic": "Mass and Weight; Gravitational Force",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic005"
+  },
+  {
+    "question_text": "Why is the weight of an object on the Moon 1/6th its weight on the Earth?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The weight on the Moon is 1/6th of that on Earth because the Moon has a lower mass and smaller radius than Earth, resulting in a lower gravitational acceleration (g). Since weight is directly proportional to the local value of g (W = m × g), an object experiences only about 1/6th the gravitational pull on the Moon compared to the Earth.",
+    "explanation": "Gravitational force depends on both the mass of the celestial body and the square of its radius, as given by the equation g = (G × M) / R². The Moon's mass is much smaller than Earth's and its radius is also smaller, which significantly reduces g on the Moon. Therefore, an object’s weight, which is computed using W = m × g, comes out to be roughly 1/6th of its weight on Earth. This principle reflects the universal law of gravitation and is supported by experimental results and observations, such as those from lunar missions.",
+    "topic": "Universal Law of Gravitation; Weight on Celestial Bodies",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic006"
+  }
+]

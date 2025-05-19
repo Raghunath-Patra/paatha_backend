@@ -1,0 +1,138 @@
+```json
+[
+  {
+    "question_text": "What are the products formed when ethanol reacts with sodium?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The reaction between ethanol and sodium produces sodium ethoxide (CH₃CH₂O⁻Na⁺) and hydrogen gas (H₂).",
+    "explanation": "When ethanol (CH₃CH₂OH) reacts with sodium (Na), the sodium donates an electron to the ethanol, forming sodium ethoxide and releasing hydrogen gas. The balanced chemical equation for this reaction is:\n\n2 Na + 2 CH₃CH₂OH → 2 CH₃CH₂O⁻Na⁺ + H₂",
+    "topic": "Reactions of Ethanol",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Write the balanced chemical equation for the dehydration of ethanol to produce ethene using concentrated sulphuric acid.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "CH₃CH₂OH → CH₂=CH₂ + H₂O",
+    "explanation": "The dehydration of ethanol involves the removal of a water molecule (H₂O) from ethanol to form ethene (CH₂=CH₂). Concentrated sulphuric acid acts as a dehydrating agent in this reaction. The balanced equation is:\n\nCH₃CH₂OH → CH₂=CH₂ + H₂O",
+    "topic": "Reactions of Ethanol",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Which of the following statements is true when comparing dilute ethanoic acid and dilute hydrochloric acid using a universal indicator?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "A) They both show the same pH value.",
+      "B) Hydrochloric acid shows a lower pH than ethanoic acid.",
+      "C) Ethanoic acid shows a lower pH than hydrochloric acid.",
+      "D) Both do not show any color change."
+    ],
+    "correct_answer": "B) Hydrochloric acid shows a lower pH than ethanoic acid.",
+    "explanation": "Hydrochloric acid (HCl) is a strong acid and completely ionizes in water, resulting in a higher concentration of H⁺ ions and thus a lower pH compared to ethanoic acid (CH₃COOH), which is a weak acid and only partially ionizes. Therefore, using a universal indicator, dilute HCl will exhibit a more acidic color (indicating a lower pH) than the same concentration of dilute ethanoic acid.\n\nOption A is incorrect because strong and weak acids do not have the same pH at the same concentration. Option C is incorrect as it reverses the actual relationship. Option D is incorrect because both acids will cause a color change with a universal indicator."
+    ],
+    "topic": "Properties of Ethanoic Acid",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Explain the process of saponification and provide the balanced chemical equation for the reaction involving ethanoic acid.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Saponification is the hydrolysis of an ester under basic conditions to form an alcohol and a salt of a carboxylic acid. In the context of ethanoic acid, saponification involves reacting an ethanoic acid ester with sodium hydroxide (a base) to produce ethanol and sodium ethanoate (the sodium salt of ethanoic acid).\n\nThe balanced chemical equation is:\n\nCH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa",
+    "explanation": "Saponification is a fundamental reaction in soap making. Here, ethanoic acid reacts with an alcohol (ethanol in this case) to form an ester (ethyl acetate). When this ester reacts with a strong base like sodium hydroxide (NaOH), it undergoes hydrolysis to produce ethanol and sodium ethanoate.\n\nThe step-by-step reaction is as follows:\n1. Formation of the ester:\n   CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O\n2. Saponification of the ester with NaOH:\n   CH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa\n\nOverall prominent reaction:\nCH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa\n\nThis reaction demonstrates the conversion of esters back to their constituent alcohol and carboxylate salt, which is essential in soap formation."
+    ],
+    "topic": "Saponification Reaction",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "When large quantities of ethanol are consumed, which of the following effects occur on the central nervous system?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A) Increased coordination and alertness.",
+      "B) Enhanced metabolic processes.",
+      "C) Depression of the central nervous system leading to lack of coordination.",
+      "D) No significant effect."
+    ],
+    "correct_answer": "C) Depression of the central nervous system leading to lack of coordination.",
+    "explanation": "Consumption of large quantities of ethanol leads to the depression of the central nervous system. This results in symptoms such as lack of coordination, mental confusion, drowsiness, lowering of inhibitions, and stupor. \n\nOption A is incorrect because ethanol depresses rather than enhances coordination and alertness. Option B is incorrect as ethanol slows down metabolic processes. Option D is incorrect because ethanol has significant effects on the nervous system."
+    ],
+    "topic": "Effects of Alcohol on Living Beings",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Why is ethanoic acid referred to as 'glacial acetic acid'?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Because pure ethanoic acid has a high melting point of 290 K and often freezes during winter in cold climates, resembling ice, hence the name 'glacial acetic acid'.",
+    "explanation": "The term 'glacial' refers to the crystalline, ice-like appearance of pure ethanoic acid when it solidifies at low temperatures (290 K). In cold climates, ethanoic acid can freeze, hence the name 'glacial acetic acid'.",
+    "topic": "Properties of Ethanoic Acid",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Identify the gas evolved when ethanoic acid reacts with sodium hydrogencarbonate and describe a simple test to confirm its presence.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Carbon dioxide (CO₂) is the gas evolved. To confirm its presence, the gas can be passed through lime water (Ca(OH)₂), which turns milky in the presence of CO₂.",
+    "explanation": "When ethanoic acid (CH₃COOH) reacts with sodium hydrogencarbonate (NaHCO₃), the products are sodium acetate (CH₃COONa), water (H₂O), and carbon dioxide (CO₂). The reaction is as follows:\n\nCH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂\n\nCarbon dioxide can be identified by bubbling the gas through lime water. If CO₂ is present, the lime water will turn milky due to the formation of calcium carbonate (CaCO₃).\n\nCH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂↑"
+    ],
+    "topic": "Reactions with Carbonates and Hydrogencarbonates",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which reaction demonstrates the conversion of an ester back to alcohol and the sodium salt of a carboxylic acid, and what is this process commonly called?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The reaction is CH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa, and this process is commonly called saponification.",
+    "explanation": "Saponification refers to the hydrolysis of an ester in the presence of a base to yield an alcohol and the salt of a carboxylic acid. In this case, ethyl acetate (CH₃COOC₂H₅) reacts with sodium hydroxide (NaOH) to produce ethanol (C₂H₅OH) and sodium ethanoate (CH₃COONa). The balanced equation is:\n\nCH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa",
+    "topic": "Saponification Reaction",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Why is ethanol added to petrol, and what is the primary benefit of this addition?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Ethanol is added to petrol as an additive to produce a cleaner fuel. The primary benefit is that it results in the combustion of petrol producing only carbon dioxide and water when burned with sufficient oxygen.",
+    "explanation": "Adding ethanol to petrol helps in reducing the emission of harmful pollutants. Ethanol, being a cleaner-burning fuel, ensures that the combustion process primarily yields carbon dioxide (CO₂) and water (H₂O), thereby minimizing the release of other toxic substances.",
+    "topic": "Alcohol as a Fuel",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Methanol is often added to industrial ethanol to prevent its misuse. What are two reasons for this practice?",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Methanol is added to industrial ethanol to denature it, making it poisonous to prevent consumption, and dyes are added to color the alcohol blue for easy identification.",
+    "explanation": "To prevent the misuse of industrial ethanol, which is not intended for consumption, methanol is added because it is toxic and can cause severe health issues or death if ingested. Additionally, dyes are added to give the alcohol a distinct color (commonly blue) which serves as a visual deterrent against consumption.",
+    "topic": "Denaturation of Ethanol",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "What is the product formed when ethanoic acid reacts with sodium hydroxide, and what is this compound commonly called?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The reaction between ethanoic acid and sodium hydroxide forms sodium ethanoate (CH₃COONa) and water (H₂O). Sodium ethanoate is commonly called sodium acetate.",
+    "explanation": "Ethanoic acid (CH₃COOH) reacts with the base sodium hydroxide (NaOH) in a neutralization reaction to produce sodium ethanoate and water. The balanced chemical equation is:\n\nCH₃COOH + NaOH → CH₃COONa + H₂O\n\nSodium ethanoate, CH₃COONa, is commonly referred to as sodium acetate.",
+    "topic": "Reactions with Bases",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Describe the esterification reaction between ethanoic acid and ethanol, including the name and structure of the ester formed.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The esterification reaction between ethanoic acid (CH₃COOH) and ethanol (CH₃CH₂OH) in the presence of an acid catalyst produces ethyl acetate (CH₃COOCH₂CH₃) and water (H₂O). Ethyl acetate is the ester formed, which is a sweet-smelling compound used in making perfumes and as a flavoring agent.",
+    "explanation": "Esterification is a chemical reaction between a carboxylic acid and an alcohol, typically in the presence of an acid catalyst, resulting in the formation of an ester and water. For ethanoic acid reacting with ethanol, the process is as follows:\n\nCH₃COOH + CH₃CH₂OH → CH₃COOCH₂CH₃ + H₂O\n\nHere, ethyl acetate (CH₃COOCH₂CH₃) is the ester formed. The reaction involves the removal of a water molecule as the hydroxyl group (OH) from ethanoic acid combines with the hydrogen (H) from ethanol's hydroxyl group, facilitating the formation of the ester linkage (–COO–).",
+    "topic": "Esterification Reaction",
+    "bloom_level": "Understand"
+  }
+]
+```

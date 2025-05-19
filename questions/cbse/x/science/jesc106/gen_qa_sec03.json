@@ -1,0 +1,122 @@
+[
+  {
+    "question_text": "Which hormone is responsible for increasing the heart rate and diverting blood to skeletal muscles during a stressful situation?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Insulin",
+      "Thyroxine",
+      "Adrenaline",
+      "Growth Hormone"
+    ],
+    "correct_answer": "Adrenaline",
+    "explanation": "Adrenaline, also known as epinephrine, is secreted by the adrenal glands during stressful situations. It increases heart rate, redirects blood flow to skeletal muscles, and prepares the body for 'fight or flight' responses. Insulin regulates blood sugar levels, thyroxine regulates metabolism, and growth hormone stimulates growth in organs.",
+    "topic": "Adrenaline Function",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Explain the role of iodine in the synthesis of thyroid hormones and describe the potential health consequence of iodine deficiency.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Iodine is essential for the synthesis of the thyroid hormone thyroxine (T₄). It combines with the amino acid tyrosine in the thyroid gland to form thyroxine, which regulates metabolism, growth, and development. A deficiency in iodine can lead to goitre, which is the enlargement of the thyroid gland, often resulting in a swollen neck.",
+    "explanation": "Iodine is a critical component of thyroxine. Without sufficient iodine, the thyroid cannot produce adequate amounts of this hormone, leading to impaired metabolism and growth. The thyroid gland may enlarge in an effort to capture more iodine from the bloodstream, causing goitre.",
+    "topic": "Iodine and Thyroid Hormones",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which endocrine gland secretes insulin, and what is its primary function in the body?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The pancreas secretes insulin. Its primary function is to regulate blood sugar levels by facilitating the uptake of glucose into cells, thereby lowering blood glucose concentrations.",
+    "explanation": "Insulin is produced by the beta cells of the pancreas. It helps cells absorb glucose from the blood, maintaining blood sugar levels within a narrow range. Without sufficient insulin, as seen in diabetes, blood sugar levels become elevated, leading to various health complications.",
+    "topic": "Insulin Function",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Match the following hormones to their respective endocrine glands:\n\n1. Testosterone\n2. Thyroxine\n3. Adrenaline\n4. Growth Hormone",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "1. Testosterone - Testes\n2. Thyroxine - Thyroid gland\n3. Adrenaline - Adrenal glands\n4. Growth Hormone - Pituitary gland",
+    "explanation": "Each hormone is produced by a specific endocrine gland: Testosterone by the testes, thyroxine by the thyroid gland, adrenaline by the adrenal glands, and growth hormone by the pituitary gland. This association is crucial for understanding hormone functions and their effects on the body.",
+    "topic": "Hormone and Gland Matching",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Describe the feedback mechanism involved in the regulation of insulin secretion in response to blood sugar levels.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The regulation of insulin secretion operates through a negative feedback mechanism. When blood sugar levels rise after eating, the pancreatic beta cells detect the increase and secrete insulin. Insulin facilitates the uptake of glucose by cells, lowering blood sugar levels. As blood glucose levels decrease to normal, the stimulus for insulin secretion is reduced, and insulin release is decreased accordingly.",
+    "explanation": "This negative feedback loop ensures that blood sugar levels remain within a healthy range. The pancreas continuously monitors glucose levels and adjusts insulin secretion to maintain homeostasis. If blood sugar remains high, insulin secretion continues; once levels normalize, insulin release slows, preventing hypoglycemia.",
+    "topic": "Insulin Regulation",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Why are hormones considered part of the endocrine system's control and coordination mechanism in animals?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Hormones are chemical messengers secreted by endocrine glands into the bloodstream, allowing them to reach and regulate multiple target organs and tissues throughout the body. This widespread distribution enables coordinated and controlled physiological responses, such as growth, metabolism, stress response, and reproductive functions. Unlike neural signals, which are rapid and localized, hormonal signals provide sustained and broad-reaching regulation, making them integral to the endocrine system's role in control and coordination.",
+    "explanation": "The endocrine system works alongside the nervous system to maintain homeostasis. Hormones can influence growth, energy use, and responses to environmental changes, ensuring that various body systems operate harmoniously. Their ability to affect diverse tissues simultaneously is key to effective physiological regulation.",
+    "topic": "Endocrine System Function",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "If a child has a deficiency in growth hormone during childhood, what condition might they develop, and why?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A deficiency in growth hormone during childhood can lead to dwarfism, a condition characterized by significantly shorter stature compared to average height for age and sex.",
+    "explanation": "Growth hormone, secreted by the pituitary gland, is essential for normal growth and development. Insufficient levels during critical growth periods result in stunted growth, leading to dwarfism.",
+    "topic": "Growth Hormone Deficiency",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Which hormone is primarily responsible for the development of male secondary sexual characteristics during puberty?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Oestrogen",
+      "Insulin",
+      "Testosterone",
+      "Adrenaline"
+    ],
+    "correct_answer": "Testosterone",
+    "explanation": "Testosterone, produced by the testes, is responsible for the development of male secondary sexual characteristics such as increased muscle mass, deepening of the voice, and growth of facial hair during puberty. Oestrogen is responsible for female secondary sexual characteristics, insulin regulates blood sugar, and adrenaline is involved in stress responses.",
+    "topic": "Testosterone Function",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Calculate the percentage decrease in blood flow to the digestive system if the contraction of muscles around the small arteries reduces blood flow by 30%.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "30%",
+    "explanation": "The problem states that the contraction of muscles around the small arteries in the digestive system reduces blood flow by 30%. Therefore, the percentage decrease in blood flow is directly 30%.",
+    "topic": "Adrenaline Effects on Blood Flow",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Compare and contrast the roles of adrenaline and insulin in the body's response to stress and blood sugar regulation.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Adrenaline and insulin are both hormones but serve different functions. Adrenaline, secreted by the adrenal glands during stress, prepares the body for 'fight or flight' by increasing heart rate, diverting blood to muscles, and increasing breathing rate. It mobilizes energy stores to respond to immediate threats. In contrast, insulin, produced by the pancreas, regulates blood sugar levels by facilitating the uptake of glucose into cells, thus lowering blood glucose levels. While adrenaline increases blood glucose to provide energy, insulin ensures that glucose levels remain balanced, preventing hyperglycemia.",
+    "explanation": "Adrenaline and insulin have opposing roles in energy management. Adrenaline acts to quickly increase available energy during stress, whereas insulin ensures that excess glucose is stored and blood sugar levels remain stable under normal conditions. Understanding their contrasting functions highlights the complexity of hormonal regulation in the body.",
+    "topic": "Adrenaline vs Insulin",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Why don't animals, including humans, exhibit directional growth like plants, and how do hormones contribute to maintaining body structure during growth?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Animals, including humans, do not exhibit directional growth like plants because their growth is regulated by hormones that control cell division and differentiation in specific areas, ensuring that growth occurs uniformly and maintains the body’s structure. Hormones such as growth hormone and sex hormones coordinate the development of various tissues and organs in a precise manner, preventing asymmetrical or uncontrolled growth. This hormonal regulation ensures that, unlike plants which grow towards light or in response to gravity, animal bodies grow in predetermined patterns, maintaining the overall design and functionality of the body's structures.",
+    "explanation": "Hormones provide signals that direct where and how much cells should grow and differentiate, ensuring that growth is balanced and symmetrical. This contrasts with plants that have more flexible growth in response to environmental stimuli. The endocrine system’s precise control mechanisms are essential for maintaining the organized structure of animal bodies during growth phases.",
+    "topic": "Hormonal Regulation of Growth",
+    "bloom_level": "Understand"
+  }
+]

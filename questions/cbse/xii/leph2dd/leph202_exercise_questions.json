@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "Monochromatic light of wavelength 589 nm is incident from air on a water surface. What are the wavelength, frequency and speed of (a) reflected, and (b) refracted light? The refractive index of water is 1.33.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) Reflected light: wavelength = 589 nm, frequency ≈ 5.09 × 10^14 Hz, speed ≈ 3.0 × 10^8 m/s. (b) Refracted light: wavelength ≈ 589 nm/1.33 ≈ 443 nm, frequency ≈ 5.09 × 10^14 Hz, speed ≈ 3.0 × 10^8 m/s ÷ 1.33 ≈ 2.26 × 10^8 m/s.",
+    "explanation": "For reflection, the medium does not change so the wavelength and speed remain as in the incident medium (air). The frequency remains the same in all cases. For refraction, while the frequency stays constant, the speed decreases in water to c/n and the wavelength shortens by the same factor. Here, frequency f = c/λ = 3.0×10^8 m/s ÷ 589×10^-9 m ≈ 5.09×10^14 Hz, wavelength in water = 589 nm ÷ 1.33 ≈ 443 nm, and speed = 3.0×10^8 m/s ÷ 1.33 ≈ 2.26×10^8 m/s.",
+    "topic": "Reflection and Refraction of Plane Waves (Huygens Principle)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph202",
+    "question_id": "cbse_xii_leph2dd_c202_ex001"
+  },
+  {
+    "question_text": "What is the shape of the wavefront in each of the following cases:\n(a) Light diverging from a point source.\n(b) Light emerging out of a convex lens when a point source is placed at its focus.\n(c) The portion of the wavefront of light from a distant star intercepted by the Earth.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(a) Spherical wavefront. (b) Plane wavefront. (c) Plane wavefront.",
+    "explanation": "A point source emits light uniformly in all directions which forms a set of expanding spheres. When a point source is placed at the focus of a convex lens, the emerging rays become parallel, forming a plane wavefront. Light arriving from a distant star is almost parallel and thus forms a plane wavefront over the dimensions of the Earth.",
+    "topic": "Huygens' Principle and Wavefronts",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph202",
+    "question_id": "cbse_xii_leph2dd_c202_ex002"
+  },
+  {
+    "question_text": "(a) The refractive index of glass is 1.5. What is the speed of light in glass? (Speed of light in vacuum is 3.0 × 10^8 m s⁻¹)\n(b) Is the speed of light in glass independent of the colour of light? If not, which of the two colours red and violet travels slower in a glass prism?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) Speed in glass = 3.0 × 10^8 m/s ÷ 1.5 = 2.0 × 10^8 m/s. (b) No; due to dispersion, the refractive index for violet light is generally higher than for red light, so violet travels slower in glass.",
+    "explanation": "The speed of light in a medium is given by c/n. Therefore, for glass with n = 1.5, the speed is 3.0×10^8 m/s ÷ 1.5 = 2.0×10^8 m/s. In dispersive media like glass, the refractive index varies with wavelength; typically, shorter wavelengths (violet) experience a higher refractive index than longer wavelengths (red), causing violet light to travel slower.",
+    "topic": "Refraction of Plane Waves Using Huygens Principle",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph202",
+    "question_id": "cbse_xii_leph2dd_c202_ex003"
+  },
+  {
+    "question_text": "In a Young's double-slit experiment, the slits are separated by 0.28 mm and the screen is placed 1.4 m away. The distance between the central bright fringe and the fourth bright fringe is measured to be 1.2 cm. Determine the wavelength of light used in the experiment.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Wavelength ≈ 600 nm.",
+    "explanation": "The fringe separation in a double-slit experiment is given by yₙ = nλD/d. For n = 4, y₄ = 1.2 cm = 0.012 m. Substituting the given values: λ = (y₄ × d)/(n × D) = (0.012 m × 0.28×10⁻³ m)/(4 × 1.4 m) ≈ 6.0×10⁻⁷ m, or 600 nm.",
+    "topic": "Young's Double-Slit Experiment and Interference",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph202",
+    "question_id": "cbse_xii_leph2dd_c202_ex004"
+  },
+  {
+    "question_text": "In Young's double-slit experiment using monochromatic light of wavelength λ, the intensity of light at a point on the screen where the path difference is λ is K units. What is the intensity of light at a point where the path difference is λ/3?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Intensity = K/4.",
+    "explanation": "For two coherent sources with equal amplitude, the resultant intensity is proportional to 4I₀ cos²(φ/2), where φ is the phase difference. A path difference of λ corresponds to a phase difference of 2π, giving full constructive interference (intensity = 4I₀ = K). For a path difference of λ/3, φ = (2π/λ)(λ/3) = 2π/3 and cos(π/3) = 0.5, so the intensity becomes 4I₀ × (0.5)² = I₀ = K/4.",
+    "topic": "Interference of Light Waves",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph202",
+    "question_id": "cbse_xii_leph2dd_c202_ex005"
+  },
+  {
+    "question_text": "A beam of light consisting of two wavelengths, 650 nm and 520 nm, is used to obtain interference fringes in a Young's double-slit experiment.\n(a) Find the distance of the third bright fringe on the screen from the central maximum for wavelength 650 nm.\n(b) What is the least distance from the central maximum where the bright fringes due to both wavelengths coincide?",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "(a) The position of the third bright fringe for 650 nm light is given by y₃ = (3 × 650×10⁻⁹ × D)/d. (b) The least common fringe occurs when 4 fringes of 650 nm light coincide with 5 fringes of 520 nm light; thus, the position will be y = (4 × 650×10⁻⁹ × D)/d = (5 × 520×10⁻⁹ × D)/d, which simplifies to y = (2600×10⁻⁹ × D)/d.",
+    "explanation": "The fringe position in Young's experiment is given by yₙ = (nλD)/d. For (a), using n = 3 and wavelength 650 nm, the distance is y₃ = (3 × 650×10⁻⁹ × D)/d. For (b), the overlapping condition requires mλ₁ = nλ₂. For the smallest non-zero integers, 4×650 nm = 2600 nm and 5×520 nm = 2600 nm, so the first common bright fringe appears at y = (2600×10⁻⁹ × D)/d. Here, D is the distance from the slits to the screen and d is the slit separation.",
+    "topic": "Young's Double-Slit Experiment and Interference",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "leph202",
+    "question_id": "cbse_xii_leph2dd_c202_ex006"
+  }
+]

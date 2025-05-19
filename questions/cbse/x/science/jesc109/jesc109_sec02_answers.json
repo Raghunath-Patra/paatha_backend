@@ -1,0 +1,22 @@
+[
+  {
+    "question_text": "Find the focal length of a convex mirror whose radius of curvature is 32 cm.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The focal length of the convex mirror is 16 cm.",
+    "explanation": "To find the focal length (f) of a spherical mirror, we use the relationship between the focal length and the radius of curvature (R): f = R / 2. Given that the mirror is convex, we follow the New Cartesian Sign Convention: - Radius of curvature, R = +32 cm (positive for convex mirrors). Substituting the given value: f = 32 cm / 2 = +16 cm. Therefore, the focal length of the convex mirror is +16 cm. The positive sign indicates that the focal point is located behind the mirror, which is consistent with the nature of convex mirrors.",
+    "topic": "Sign Convention and Mirror Formula",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "A concave mirror produces a three times magnified (enlarged) real image of an object placed at 10 cm in front of it. Where is the image located?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The image is located at -30 cm from the mirror.",
+    "explanation": "To determine the image distance (v) for a concave mirror, we can use the magnification formula and the mirror formula.\n\n**Given:**\n\n- Object distance, u = -10 cm (object is in front of the mirror).\n- Magnification, m = 3 (enlarged), and since the image is real, m is negative as per the sign convention:\n\n  m = -v / u\n\n  Therefore:\n\n  -3 = -v / -10\n\n  -3 = v / 10\n\n  v = -30 cm\n\n**Interpretation:**\n\n- The negative image distance v = -30 cm indicates that the image is formed on the same side as the object, which is characteristic of real images in concave mirrors.\n\n**Summary:**\n\n- Image distance, v = -30 cm\n- The negative sign denotes that the image is real and formed 30 cm in front of the mirror.",
+    "topic": "Mirror Formula and Magnification",
+    "bloom_level": "Apply"
+  }
+]

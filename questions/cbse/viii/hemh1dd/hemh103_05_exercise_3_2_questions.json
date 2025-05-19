@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "Find x in the following figures.\n(a) A triangle with exterior angles 125°, 125°, and x.\n(b) A pentagon with exterior angles 60°, 90°, 70°, x, and 90° (with one angle marked inside a right angle).",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (a): x = 360° - (125° + 125°) = 110°. For (b): x = 360° - (60° + 90° + 70° + 90°) = 50°.",
+    "explanation": "The key property used is that the sum of the exterior angles of any polygon is always 360°.\n(a) In the triangle, add the two given exterior angles: 125° + 125° = 250°. Then, x = 360° - 250° = 110°.\n(b) In the pentagon, the exterior angles sum to 360°. Adding the given angles: 60° + 90° + 70° + 90° = 310°. Then, x = 360° - 310° = 50°.",
+    "topic": "Sum of the Measures of the Exterior Angles of a Polygon",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh103",
+    "question_id": "cbse_viii_hemh1dd_c103_ex003"
+  },
+  {
+    "question_text": "Find the measure of each exterior angle of a regular polygon of:\n(i) 9 sides\n(ii) 15 sides",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For a regular polygon, the measure of each exterior angle is 360°/n. Therefore, (i) for 9 sides: 360°/9 = 40°; (ii) for 15 sides: 360°/15 = 24°.",
+    "explanation": "Since a regular polygon has all exterior angles equal and their sum is 360°, the measure of each exterior angle is calculated by dividing 360° by the number of sides, n. Thus, for n = 9 the angle is 40°, and for n = 15 the angle is 24°.",
+    "topic": "Regular Polygons and Exterior Angles",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "hemh103",
+    "question_id": "cbse_viii_hemh1dd_c103_ex004"
+  },
+  {
+    "question_text": "How many sides does a regular polygon have if the measure of an exterior angle is 24°?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The number of sides is given by n = 360°/24° = 15.",
+    "explanation": "The property of exterior angles states that their sum is 360°. For a regular polygon, each exterior angle is the same, so n = 360° divided by the given exterior angle. Thus, n = 360°/24° = 15.",
+    "topic": "Regular Polygons and Exterior Angles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh103",
+    "question_id": "cbse_viii_hemh1dd_c103_ex005"
+  },
+  {
+    "question_text": "How many sides does a regular polygon have if each of its interior angles is 165°?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For a regular polygon, each interior angle = 180° - (360°/n). Setting this equal to 165° gives:\n165° = 180° - 360°/n → 360°/n = 15° → n = 360°/15° = 24.\nThus, the polygon has 24 sides.",
+    "explanation": "For any regular polygon, the interior and exterior angles at each vertex are supplementary. Therefore, each interior angle = 180° - (exterior angle). With the sum of the exterior angles being 360°, the exterior angle is 360°/n. Setting up the equation:\n180° - (360°/n) = 165° leads to 360°/n = 15°, and hence n = 360°/15° = 24.",
+    "topic": "Interior and Exterior Angles of Regular Polygons",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh103",
+    "question_id": "cbse_viii_hemh1dd_c103_ex006"
+  },
+  {
+    "question_text": "Part (a): Is it possible to have a regular polygon with the measure of each exterior angle as 22°?\nPart (b): Can 22° be the measure of an interior angle of a regular polygon? Why?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Part (a): No, because 360° divided by 22° does not yield an integer, so a regular polygon cannot have an exterior angle of 22°. \nPart (b): No, because if 22° were the interior angle, the corresponding exterior angle would be 180° - 22° = 158°, and 360°/158° is not an integer; therefore, it cannot be the interior angle of a regular polygon.",
+    "explanation": "For part (a), a regular polygon requires that the measure of each exterior angle (which is 360°/n) be such that n is an integer. Since 360°/22° ≈ 16.36 is not an integer, a regular polygon with an exterior angle of 22° is not possible.\nFor part (b), if an interior angle were 22°, then its corresponding exterior angle would be 180° - 22° = 158°. As with part (a), 360°/158° does not yield an integer value for n, so 22° cannot be an interior angle of a regular polygon.",
+    "topic": "Properties of Regular Polygons and Angle Relationships",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh103",
+    "question_id": "cbse_viii_hemh1dd_c103_ex007"
+  },
+  {
+    "question_text": "Part (a): What is the minimum interior angle possible for a regular polygon? Why?\nPart (b): What is the maximum exterior angle possible for a regular polygon?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Part (a): The minimum interior angle of a regular polygon is 60°, which occurs in the equilateral triangle (the polygon with the fewest sides, n = 3).\nPart (b): The maximum exterior angle of a regular polygon is 120°, corresponding to the equilateral triangle since an exterior angle = 360°/n and for n = 3, 360°/3 = 120°.",
+    "explanation": "For part (a), among all regular polygons, the smallest number of sides is 3 (the triangle), and its interior angles measure 60° each. No regular polygon can have fewer than 3 sides, hence 60° is the minimum interior angle.\nFor part (b), using the relationship that each exterior angle is 360°/n, the largest possible value occurs when n is the smallest, i.e., 3. Thus, the maximum exterior angle is 360°/3 = 120°.",
+    "topic": "Interior and Exterior Angles of Regular Polygons",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "hemh103",
+    "question_id": "cbse_viii_hemh1dd_c103_ex008"
+  }
+]

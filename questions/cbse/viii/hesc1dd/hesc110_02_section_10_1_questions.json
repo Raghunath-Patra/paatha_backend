@@ -1,0 +1,227 @@
+[
+  {
+    "question_text": "Which of the following is necessary for the production of sound in the experiments described in Section 10.1?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Vibration of an object",
+      "Change in color",
+      "Increase in temperature",
+      "Release of energy as light"
+    ],
+    "correct_answer": "Vibration of an object",
+    "explanation": "Sound is produced when an object vibrates. The experiments show that when objects like a metal pan or a rubber band vibrate, sound is generated.",
+    "topic": "Sound Production and Vibration",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen001"
+  },
+  {
+    "question_text": "In the 'Jaltrang' experiment, what effect does increasing the water level in the bowls have on the pitch of the sound produced when the bowl is struck?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "It produces a higher pitch",
+      "It produces a lower pitch",
+      "It does not affect the pitch",
+      "It makes the sound louder"
+    ],
+    "correct_answer": "It produces a lower pitch",
+    "explanation": "When more water is added to a bowl, the effective mass and the way the bowl vibrates changes, leading to a lower pitch compared to a bowl with less water.",
+    "topic": "Vibration and Sound Pitch",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen002"
+  },
+  {
+    "question_text": "Which of the following musical instruments produces sound primarily due to the vibration of an air column?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Veena",
+      "Tabla",
+      "Flute",
+      "Guitar"
+    ],
+    "correct_answer": "Flute",
+    "explanation": "The flute produces sound by vibrating the air contained within its column, unlike stringed or membranophone instruments.",
+    "topic": "Musical Instruments and Sound Production",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen003"
+  },
+  {
+    "question_text": "In Activity 10.1, why does holding the pan with your hands immediately after striking it stop the sound?",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "options": [
+      "It slows down the vibrations gradually.",
+      "It dampens the vibrations abruptly.",
+      "It increases the frequency of vibration.",
+      "None of the above."
+    ],
+    "correct_answer": "It dampens the vibrations abruptly.",
+    "explanation": "When you hold the pan, your hands absorb some of the vibrational energy, effectively damping or stopping the vibrations, which in turn stops the production of sound.",
+    "topic": "Damping in Vibrating Systems",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen004"
+  },
+  {
+    "question_text": "Define vibration as explained in the science textbook. Provide your answer in one or two sentences.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Vibration is the rapid back-and-forth or to-and-fro movement of an object.",
+    "explanation": "The textbook defines vibration as the oscillatory movement of an object, which is the fundamental mechanism behind the production of sound.",
+    "topic": "Definition of Vibration",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen005"
+  },
+  {
+    "question_text": "Describe what happens when you pluck a stretched rubber band as demonstrated in Activity 10.2.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "When you pluck a stretched rubber band, it vibrates and produces sound.",
+    "explanation": "Plucking the stretched band initiates a rapid oscillatory motion (vibration), which causes the band to produce audible sound.",
+    "topic": "Vibration in Rubber Bands",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen006"
+  },
+  {
+    "question_text": "What observation in Activity 10.3 shows the link between sound and vibrations?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The appearance of visible ripples or waves on the water surface when the metal dish is struck.",
+    "explanation": "The ripples on the water surface visually demonstrate the vibrations of the dish. When the dish vibrates, these vibrations are transmitted to the water, producing observable waves.",
+    "topic": "Visualizing Vibrations",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen007"
+  },
+  {
+    "question_text": "Explain how the construction of an ektara demonstrates the principle of sound production through vibration. Include in your answer the role of the vibrating part.",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "In an ektara, the string is stretched tightly over a hollow resonating body and when plucked, the string vibrates to produce sound. This demonstrates that the vibrating part (the string) is responsible for sound production.",
+    "explanation": "The ektara is built such that a single, tightly stretched string is attached to a resonating body (like a gourd or coconut shell). When the string vibrates, it produces sound, thereby directly linking the concept of vibration to sound production.",
+    "topic": "Musical Instrument Construction and Vibration",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen008"
+  },
+  {
+    "question_text": "Discuss how changing the physical properties of an object, such as adding water to a bowl, affects the pitch of the sound it produces. Use the Jaltrang experiment as an example in your explanation.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Changing the physical properties of a vibrating object alters its mass and resonant frequency. In the Jaltrang experiment, adding water to the bowls changes the mass and the effective vibrational characteristics, which results in different pitches. Bowls with less water vibrate faster and produce higher pitches, while bowls with more water vibrate slower, producing lower pitches.",
+    "explanation": "Physical modifications such as adding or removing water change the mass and stiffness of the vibrating system. This change influences the natural frequency of vibration. In musical terms, a higher frequency corresponds to a higher pitch, and a lower frequency corresponds to a lower pitch. The Jaltrang clearly shows this relationship through the varying water levels in the bowls.",
+    "topic": "Vibration, Mass, and Sound Pitch",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen009"
+  },
+  {
+    "question_text": "Compare and contrast the processes of sound production in a metal pan, a rubber band, and a metal dish with water. In your answer, explain how vibrations in each scenario lead to sound production.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "In a metal pan, striking it causes the entire object to vibrate, producing sound; in the case of a rubber band, plucking sets it into rapid oscillatory motion, leading to sound generation; for the metal dish with water, striking the dish causes it to vibrate which in turn creates visible ripples on the water surface, showing the transmission of vibrations. While all three rely on vibrations, the manner of vibration and the medium involved differ.",
+    "explanation": "Each experiment demonstrates the general principle that sound is produced by vibrations. The metal pan shows direct mechanical vibration; the rubber band example highlights how tension and elasticity contribute to vibratory motion; and the metal dish with water reveals that vibrations can be transferred to another medium (water) where they become visible. This contrast emphasizes the universality of vibrations in producing sound despite differences in materials and configurations.",
+    "topic": "Comparative Analysis of Vibratory Systems",
+    "bloom_level": "Evaluate",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen010"
+  },
+  {
+    "question_text": "Design an experiment using everyday objects to demonstrate that different materials produce different sound pitches when they vibrate. Describe your choice of objects, your procedure, the hypothesis, and how you would measure the results.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "One possible experiment is to use metal spoons, glass jars, and plastic containers. The hypothesis is that each material, because of its unique density and structure, will produce a distinctive pitch when struck. The procedure involves suspending each object so that it can vibrate freely, striking them with a consistent force, and recording the sound using a smartphone app that measures frequency (Hz). Comparing the measured frequencies will show how material properties affect the pitch.",
+    "explanation": "The experiment is designed to illustrate how factors such as density, shape, and tension affect vibrational frequency and, thus, the pitch of the sound produced. By controlling the striking force and using a measurable frequency output, students can analyze the relationship between material properties and sound production in a scientifically rigorous way. This also encourages the creation of further investigations into the properties of materials and their acoustic behaviors.",
+    "topic": "Experimental Design in Acoustics",
+    "bloom_level": "Create",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen011"
+  },
+  {
+    "question_text": "True or False: When an object stops vibrating, it continues to produce sound.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False. When an object stops vibrating, it no longer produces sound.",
+    "explanation": "Sound is a result of vibrations. If the vibrations stop, the sound ceases immediately.",
+    "topic": "Sound Production",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen012"
+  },
+  {
+    "question_text": "True or False: Holding a vibrating instrument can affect its sound by damping its vibrations. Explain your answer.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True. Holding the instrument introduces external resistance that dampens the vibrations, reducing or stopping the sound.",
+    "explanation": "When you hold a vibrating object, your body absorbs some of the vibrational energy, thus reducing the amplitude of vibration, which either diminishes the sound or completely stops it.",
+    "topic": "Damping of Vibrations",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen013"
+  },
+  {
+    "question_text": "True or False: The phenomenon of sound production through vibration is exclusive to musical instruments and cannot be observed in other everyday objects. Provide a correction if false.",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False. The production of sound through vibration is a universal phenomenon and can be observed in many everyday objects such as a ringing telephone, a vibrating mobile phone, or even the hum of a running appliance.",
+    "explanation": "Sound production by vibrations is not limited to musical instruments. Many objects vibrate and produce sound when disturbed, demonstrating that this principle is fundamental and widely observable in daily life.",
+    "topic": "Universal Principle of Vibration",
+    "bloom_level": "Evaluate",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_viii_hesc1dd_c110_gen014"
+  }
+]

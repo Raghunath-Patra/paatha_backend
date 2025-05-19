@@ -1,0 +1,20 @@
+[
+  {
+    "question_text": "In which of the three media, air, water or iron, does sound travel fastest at a particular temperature?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Air",
+      "Water",
+      "Iron",
+      "None of the above"
+    ],
+    "correct_answer": "Iron",
+    "explanation": "Sound travels faster in solids than in liquids and gases because the particles in a solid are packed much closer together, facilitating quicker transmission of vibrational energy. In iron, which is a solid, the interparticle spacing is minimal, so the compression and rarefaction processes occur more rapidly compared to water or air. This is a direct consequence of the physical properties of materials and the principles of mechanical wave propagation.",
+    "topic": "Propagation of Sound and Medium of Transmission",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic008"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following statements best defines isomers in coordination compounds?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Compounds with different chemical formulas and similar physical properties",
+      "Compounds with the same chemical formula but different arrangements of atoms",
+      "Compounds with the same spatial arrangement of atoms and different formulas",
+      "Compounds that differ only in oxidation state of the central metal ion"
+    ],
+    "correct_answer": "Compounds with the same chemical formula but different arrangements of atoms",
+    "explanation": "Isomers are defined as compounds that have the same chemical formula but differ in the arrangement of atoms. This difference can affect their physical and chemical properties.",
+    "topic": "Isomerism in Coordination Compounds",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lech105",
+    "section_id": "06_section_5_4",
+    "question_id": "cbse_xii_lech1dd_c105_gen059"
+  }
+]

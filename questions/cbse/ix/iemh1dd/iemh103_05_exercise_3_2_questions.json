@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Write the answer of each of the following questions:\n(i) What is the name of the horizontal and the vertical lines drawn to determine the position of any point in the Cartesian plane?\n(ii) What is the name of each part of the plane formed by these two lines?\n(iii) Write the name of the point where these two lines intersect.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) The horizontal line is called the x-axis and the vertical line is called the y-axis.\n(ii) The plane is divided into four parts, known as quadrants.\n(iii) The intersection of these two lines is called the origin.",
+    "explanation": "To answer this question, recall that when two number lines are placed perpendicular to each other, the horizontal line is named the x-axis and the vertical line is named the y-axis. These axes split the plane into four equal regions, which are called quadrants (I, II, III, IV). The point where the x-axis and y-axis intersect is known as the origin, denoted by O. This concept is fundamental to understanding the Cartesian coordinate system.",
+    "topic": "Cartesian Coordinate System",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "iemh103",
+    "question_id": "cbse_ix_iemh1dd_c103_ex003"
+  },
+  {
+    "question_text": "See Fig.3.14, and write the following:\n(i) The coordinates of B.\n(ii) The coordinates of C.\n(iii) The point identified by the coordinates (–3, –5).\n(iv) The point identified by the coordinates (2, –4).\n(v) The abscissa of the point D.\n(vi) The ordinate of the point H.\n(vii) The coordinates of the point L.\n(viii) The coordinates of the point M.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Based on the given Fig.3.14: \n(i) B has coordinates (–5, 2).\n(ii) C has coordinates (5, –5).\n(iii) The point with coordinates (–3, –5) is labeled as E.\n(iv) The point with coordinates (2, –4) is labeled as G.\n(v) For point D, the abscissa (x-coordinate) is 6.\n(vi) For point H, the ordinate (y-coordinate) is –3.\n(vii) L has coordinates (0, 5).\n(viii) M has coordinates (–3, 0).",
+    "explanation": "Refer to the given coordinate labels in Fig.3.14. Identify the coordinates of each point as follows: \n(i) Point B is shown with coordinates (–5, 2).\n(ii) Point C is shown with coordinates (5, –5).\n(iii) The coordinate (–3, –5) corresponds to point E on the figure.\n(iv) The coordinate (2, –4) corresponds to point G on the figure.\n(v) For point D, since its coordinates are given as (6, 2), its abscissa (x-coordinate) is 6.\n(vi) For point H, its coordinates are (–5, –3) making its ordinate (y-coordinate) –3.\n(vii) Point L is given as (0, 5).\n(viii) Point M is given as (–3, 0).\nBy reading the graph labels, each sub-question is answered by recalling the definitions of coordinates, abscissa, and ordinate in the Cartesian plane.",
+    "topic": "Cartesian Coordinate System – Reading Coordinates",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "iemh103",
+    "question_id": "cbse_ix_iemh1dd_c103_ex004"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Name the three sub-atomic particles of an atom.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Electron, Proton, Neutron",
+    "explanation": "An atom is composed of three primary sub-atomic particles: electrons (e⁻), which carry a negative charge; protons (p⁺), which carry a positive charge; and neutrons, which are electrically neutral. These particles combine to form the basic structure of the atom and explain many of its physical and chemical properties.",
+    "topic": "Atomic Structure",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic007"
+  },
+  {
+    "question_text": "A Helium atom has an atomic mass of 4 u and two protons in its nucleus. How many neutrons does it have?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "2 neutrons",
+    "explanation": "The atomic mass of an atom is the sum of the number of protons and neutrons in its nucleus. For Helium, which has an atomic mass of 4 u and contains 2 protons, the number of neutrons is calculated as follows: 4 u - 2 protons = 2 neutrons. This demonstrates the concept of the mass number in atomic structure.",
+    "topic": "Atomic Structure and Isotopes",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic008"
+  }
+]

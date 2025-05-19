@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "A short bar magnet placed with its axis at 30° with a uniform external magnetic field of 0.25 T experiences a torque of magnitude equal to 4.5 × 10^-2 J. What is the magnitude of magnetic moment of the magnet?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "0.36 J/T",
+    "explanation": "The torque on a magnetic dipole in a uniform magnetic field is given by τ = m B sin θ. Given τ = 4.5 × 10^-2 J, B = 0.25 T, and θ = 30° (sin 30° = 0.5), we solve for m: m = τ / (B sin θ) = 0.045 / (0.25 × 0.5) = 0.045 / 0.125 = 0.36 J/T.",
+    "topic": "Torque on Magnetic Dipole",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph105",
+    "question_id": "cbse_xii_leph1dd_c105_ex001"
+  },
+  {
+    "question_text": "A short bar magnet of magnetic moment m = 0.32 J/T is placed in a uniform magnetic field of 0.15 T. If the bar is free to rotate in the plane of the field, which orientation would correspond to its (a) stable, and (b) unstable equilibrium? What is the potential energy of the magnet in each case?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) Stable equilibrium: when the magnetic moment is parallel to the magnetic field (θ = 0°) with potential energy U = -0.048 J; (b) Unstable equilibrium: when the magnetic moment is anti-parallel to the field (θ = 180°) with potential energy U = +0.048 J.",
+    "explanation": "The potential energy of a magnetic dipole in a magnetic field is U = -m B cos θ. For stable equilibrium, the dipole aligns parallel to B (θ = 0°), so U = -0.32 × 0.15 = -0.048 J. For unstable equilibrium, the dipole is anti-parallel (θ = 180°) yielding U = -0.32 × 0.15 × cos 180° = 0.048 J. The dipole naturally tends to minimize its potential energy.",
+    "topic": "Potential Energy and Equilibrium of a Magnetic Dipole",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph105",
+    "question_id": "cbse_xii_leph1dd_c105_ex002"
+  },
+  {
+    "question_text": "A closely wound solenoid of 800 turns and a cross-sectional area of 2.5 × 10^-4 m² carries a current of 3.0 A. Explain the sense in which the solenoid acts like a bar magnet. What is its associated magnetic moment?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The solenoid acts like a bar magnet because it produces a magnetic field pattern similar to that of a magnetic dipole, with field lines emerging from one end and entering the other. Its magnetic moment is given by m = N I A = 800 × 3.0 A × 2.5 × 10^-4 m² = 0.6 J/T.",
+    "explanation": "A current-carrying solenoid has field lines that resemble those of a bar magnet (a dipole). The magnetic moment of the solenoid is computed as m = N I A, where N is the total number of turns, I is the current, and A is the cross-sectional area. Substituting the given values: m = 800 × 3.0 × 2.5 × 10^-4 = 0.6 J/T. This demonstrates the analogy between the solenoid and a bar magnet.",
+    "topic": "Bar Magnet as an Equivalent Solenoid",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph105",
+    "question_id": "cbse_xii_leph1dd_c105_ex003"
+  },
+  {
+    "question_text": "If the solenoid in Exercise 5.5 is free to turn about the vertical centre allowing it to turn in a horizontal plane and a uniform horizontal magnetic field of 0.25 T is applied, what is the magnitude of the torque on the solenoid when its axis makes an angle of 30° with the direction of the applied field?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "0.075 N·m",
+    "explanation": "The torque on a magnetic dipole is given by τ = m B sin θ. Using the magnetic moment m = 0.6 J/T from the previous solenoid problem, B = 0.25 T, and angle θ = 30° (sin 30° = 0.5), the torque is τ = 0.6 × 0.25 × 0.5 = 0.075 N·m.",
+    "topic": "Torque on Magnetic Dipole",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph105",
+    "question_id": "cbse_xii_leph1dd_c105_ex004"
+  },
+  {
+    "question_text": "A bar magnet of magnetic moment 1.5 J/T lies aligned with the direction of a uniform magnetic field of 0.22 T. (a) What is the amount of work required by an external torque to turn the magnet so as to align its magnetic moment: (i) normal to the field direction, (ii) opposite to the field direction? (b) What is the torque on the magnet in cases (i) and (ii)?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) (i) Work required to rotate to 90° = 0.33 J; (ii) Work required to rotate to 180° = 0.66 J. (b) (i) Torque at 90°: 1.5 × 0.22 = 0.33 N·m; (ii) Torque at 180°: 0 N·m.",
+    "explanation": "The potential energy of a magnetic dipole is U = -m B cos θ. Initially, when aligned (θ = 0°), U_initial = -1.5 × 0.22 = -0.33 J. (i) For rotation to 90° (cos 90° = 0), U_final = 0, so work done = 0 - (-0.33) = 0.33 J. (ii) For rotation to 180° (cos 180° = -1), U_final = 1.5 × 0.22 = 0.33 J, so work done = 0.33 - (-0.33) = 0.66 J. The torque magnitude on a dipole is τ = m B sin θ. At 90°, sin 90° = 1, so τ = 1.5 × 0.22 = 0.33 N·m, and at 180°, sin 180° = 0, yielding zero torque.",
+    "topic": "Potential Energy and Torque on a Magnetic Dipole",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph105",
+    "question_id": "cbse_xii_leph1dd_c105_ex005"
+  },
+  {
+    "question_text": "A closely wound solenoid of 2000 turns and a cross-sectional area of 1.6 × 10^-4 m², carrying a current of 4.0 A, is suspended through its centre allowing it to turn in a horizontal plane. (a) What is the magnetic moment associated with the solenoid? (b) What is the force and torque on the solenoid if a uniform horizontal magnetic field of 7.5 × 10^-2 T is set up at an angle of 30° with the axis of the solenoid?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) Magnetic moment m = N I A = 2000 × 4.0 × 1.6 × 10^-4 = 1.28 J/T. (b) In a uniform magnetic field the net force on a dipole is zero; the torque is τ = m B sin 30° = 1.28 × 7.5 × 10^-2 × 0.5 ≈ 0.048 N·m.",
+    "explanation": "The magnetic moment of a solenoid is given by m = N I A. Substituting the given values: m = 2000 × 4.0 × 1.6 × 10^-4 = 1.28 J/T. A magnetic dipole in a uniform field experiences no net force, but a torque given by τ = m B sin θ. With B = 7.5 × 10^-2 T and θ = 30° (sin 30° = 0.5), τ = 1.28 × 7.5 × 10^-2 × 0.5 ≈ 0.048 N·m.",
+    "topic": "Magnetic Moment and Torque on a Current Loop",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph105",
+    "question_id": "cbse_xii_leph1dd_c105_ex006"
+  },
+  {
+    "question_text": "A short bar magnet has a magnetic moment of 0.48 J/T. Give the direction and magnitude of the magnetic field produced by the magnet at a distance of 10 cm from the centre of the magnet on (a) the axis, (b) the equatorial lines (normal bisector) of the magnet.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) On the axis: B = (2μ0 m)/(4π r³) = 9.6 × 10^-5 T in the direction along the magnet’s axis (from the north to the south pole). (b) On the equatorial line: B = (μ0 m)/(4π r³) = 4.8 × 10^-5 T in the direction opposite to the magnetic moment.",
+    "explanation": "Using the dipole field formulas: the axial magnetic field is B_axial = (μ0/(4π)) × (2m/r³) and the equatorial field is B_equatorial = (μ0/(4π)) × (m/r³), where μ0/(4π) is 10^-7 T·m/A. For r = 0.1 m and m = 0.48 J/T, we have: (a) B_axial = 10^-7 × (2 × 0.48)/(0.1³) = 10^-7 × 0.96/0.001 = 9.6 × 10^-5 T, directed along the axis (away from the north pole externally), and (b) B_equatorial = 10^-7 × (0.48)/(0.001) = 4.8 × 10^-5 T, directed opposite to the magnetic moment.",
+    "topic": "Magnetic Field of a Bar Magnet",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph105",
+    "question_id": "cbse_xii_leph1dd_c105_ex007"
+  }
+]

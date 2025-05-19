@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Differentiate between homogeneous and heterogeneous mixtures with examples.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A homogeneous mixture has a uniform composition throughout, where the individual components are not visually distinguishable (e.g., salt dissolved in water or sugar in water). In contrast, a heterogeneous mixture has non-uniform composition with visibly distinct parts (e.g., soil, salad, or a mixture of oil and water).",
+    "explanation": "A homogeneous mixture, also known as a solution, exhibits uniform properties at the particle level, meaning that even under close scrutiny, such as using a microscope, the components are evenly distributed. Examples include copper sulphate solution prepared in activities A and B and everyday mixtures like lemonade. On the other hand, a heterogeneous mixture displays regions with different properties, as seen in mixtures like soil or a suspension of salt and iron filings. This differentiation is significant in experimental procedures where identification of mixture types helps in selecting proper separation techniques such as filtration (effective for suspensions) or evaporation (used to isolate solutes in solutions).",
+    "topic": "Mixtures: Homogeneous vs Heterogeneous",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc102",
+    "question_id": "cbse_ix_iesc1dd_c102_ic003"
+  },
+  {
+    "question_text": "How are sol, solution and suspension different from each other?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "They differ primarily in particle size, appearance, stability, filterability, and the Tyndall effect. In a solution, the solute particles are less than 1 nm in size, rendering the mixture homogeneous, stable, non-filterable, and without visible light scattering. A suspension contains large particles (typically >1000 nm) that are visible to the naked eye, causing the mixture to be heterogeneous, unstable (particles settle over time), and filterable. A colloidal solution (sol) has intermediate particle sizes (1–1000 nm); it appears homogeneous but is actually heterogeneous, stable over time, non-filterable by ordinary means, and exhibits the Tyndall effect (light scattering).",
+    "explanation": "This differentiation is based on microscopic particle size and physical behavior of the mixture. In solutions, due to the very small size of particles, the light does not scatter, and the solute remains evenly dispersed. Suspensions contain larger particles that not only scatter light (often observed as a visible beam when light passes through) but also tend to settle if left undisturbed and can be filtered out. Colloids occupy a middle ground where the particles are small enough to avoid settling rapidly yet large enough to scatter light, as demonstrated by the Tyndall effect. These distinctions are crucial in applications ranging from chemical solution preparation to industrial processes such as centrifugation for colloid separation.",
+    "topic": "Types of Mixtures: Sol, Suspension, and Colloid",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc102",
+    "question_id": "cbse_ix_iesc1dd_c102_ic004"
+  },
+  {
+    "question_text": "To make a saturated solution, 36 g of sodium chloride is dissolved in 100 g of water at 293 K. Find its concentration at this temperature.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The concentration of the solution, in terms of mass percentage, is approximately 26.47%. This is calculated by dividing the mass of the solute (36 g) by the total mass of the solution (36 g + 100 g = 136 g), and multiplying by 100: (36/136) × 100 ≈ 26.47%.",
+    "explanation": "The concentration of a solution is calculated using the formula: Mass percentage = (Mass of solute / Mass of solution) × 100. Here, the mass of the solute (NaCl) is 36 g and the solvent (water) is 100 g, making the total mass of the solution 136 g. This method of determining concentration is critical for preparing solutions with precise properties in laboratory settings. This calculation reinforces concepts of solubility and saturation, illustrating how temperature and the relative amounts of solute and solvent impact the concentration of a solution.",
+    "topic": "Concentration of Solutions: Saturated Solutions",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc102",
+    "question_id": "cbse_ix_iesc1dd_c102_ic005"
+  }
+]

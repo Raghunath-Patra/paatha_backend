@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Give an example of a metal that (a) is a liquid at room temperature, (b) can be easily cut with a knife, (c) is the best conductor of heat, and (d) is a poor conductor of heat.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Liquid at room temperature: Mercury (Hg); Easily cut with a knife: Sodium (Na), Potassium (K) or Lithium (Li) (alkali metals are soft); Best conductor of heat: Silver (Ag); Poor conductor of heat: Lead (Pb) (or Mercury (Hg) can also be considered, though Mercury is unique for being liquid).",
+    "explanation": "Metals are characterized by distinct physical properties. Mercury is the only metal that is liquid at room temperature due to its weak metallic bonding. Alkali metals such as sodium, potassium, or lithium have fewer delocalized electrons and a looser structure, making them soft and easily cut. Silver, with its high electron mobility and crystalline structure, is an excellent conductor of heat. In contrast, lead, with its heavy atomic mass and denser electron cloud, conducts heat relatively poorly compared to other metals.",
+    "topic": "Physical Properties of Metals",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic001"
+  },
+  {
+    "question_text": "Explain the meanings of the terms 'malleable' and 'ductile'.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Malleable: A property of metals that enables them to be hammered or pressed into thin sheets without breaking. Ductile: A property that allows metals to be drawn out into thin wires without breaking.",
+    "explanation": "Malleability and ductility are key physical properties of metals linked to the nature of the metallic bond, which permits layers of atoms to slide over each other without disruption of the bonding electrons. Malleability is observed when a metal sample is deformed by hammering or rolling into thin sheets. Ductility is evident when a metal is pulled or stretched into long, thin wires. Both properties are essential in practical applications such as the manufacture of foils, wires and various metal components.",
+    "topic": "Metallic Properties (Malleability and Ductility)",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic002"
+  }
+]

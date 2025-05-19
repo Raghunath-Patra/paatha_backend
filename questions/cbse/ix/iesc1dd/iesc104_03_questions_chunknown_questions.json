@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What are canal rays?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Canal rays are positively charged radiations discovered by E. Goldstein in a gas discharge tube, whose observation eventually led to identifying the proton.",
+    "explanation": "Canal rays were observed in gas discharge experiments through narrow channels in the electrodes. Their positive charge indicated the existence of a subatomic particle carrying a positive charge, later named the proton. This discovery was fundamental in understanding that atoms contain charged particles that determine their properties and behavior.",
+    "topic": "Charged Particles in Matter / Subatomic Particles",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic001"
+  },
+  {
+    "question_text": "If an atom contains one electron and one proton, will it carry any charge or not?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "No, the atom will not carry any net charge because the negative charge of the electron (-1) is exactly balanced by the positive charge of the proton (+1).",
+    "explanation": "In an atom where there is one electron and one proton, the magnitude of the negative and positive charges are equal and opposite. As a result, the charges cancel each other out, rendering the atom electrically neutral. This principle underscores the basic concept of charge balance in atoms.",
+    "topic": "Atomic Structure and Electric Charge",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic002"
+  }
+]

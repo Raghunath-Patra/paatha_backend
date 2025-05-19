@@ -1,0 +1,64 @@
+[
+  {
+    "question_text": "In a reaction, 5.3 g of sodium carbonate reacted with 6 g of acetic acid. The products were 2.2 g of carbon dioxide, 0.9 g of water, and 8.2 g of sodium acetate. Show that these observations are in agreement with the law of conservation of mass using the reaction: sodium carbonate + acetic acid → sodium acetate + carbon dioxide + water.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Mass of reactants = 5.3 g + 6 g = 11.3 g; Mass of products = 8.2 g + 2.2 g + 0.9 g = 11.3 g; Since 11.3 g = 11.3 g, the observation agrees with the law of conservation of mass.",
+    "explanation": "The law of conservation of mass states that in a closed system, the mass of the reactants must equal the mass of the products. Here, before the reaction the total mass is 11.3 g and after the reaction it remains 11.3 g, confirming that no mass was lost or gained during the chemical transformation.",
+    "topic": "Law of Conservation of Mass",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic001"
+  },
+  {
+    "question_text": "Hydrogen and oxygen combine in the ratio of 1:8 by mass to form water. What mass of oxygen gas would be required to react completely with 3 g of hydrogen gas?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "24 g of oxygen gas is required.",
+    "explanation": "Using the ratio, for every 1 g of hydrogen, 8 g of oxygen are needed. Therefore, for 3 g of hydrogen, 3 × 8 = 24 g of oxygen is required. This calculation reinforces the concept of stoichiometric proportions in chemical reactions.",
+    "topic": "Law of Constant Proportions / Stoichiometry",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic002"
+  },
+  {
+    "question_text": "Which postulate of Dalton’s atomic theory is the result of the law of conservation of mass?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Atoms are indivisible and cannot be created or destroyed in a chemical reaction.",
+      "Atoms are the building blocks of matter but can be transformed during nuclear reactions.",
+      "Atoms of different elements have identical mass and properties.",
+      "Atoms combine in arbitrary ratios with no fixed proportions."
+    ],
+    "correct_answer": "Atoms are indivisible and cannot be created or destroyed in a chemical reaction.",
+    "explanation": "Dalton’s second postulate states that atoms are indivisible particles that are neither created nor destroyed during a chemical reaction. This is in direct agreement with the law of conservation of mass, which asserts that the total mass remains constant throughout a chemical reaction.",
+    "topic": "Dalton’s Atomic Theory / Law of Conservation of Mass",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic003"
+  },
+  {
+    "question_text": "Which postulate of Dalton’s atomic theory can explain the law of definite proportions?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Atoms are indivisible and cannot be created or destroyed in a chemical reaction.",
+      "Atoms of a given element are identical in mass and chemical properties.",
+      "Atoms combine in the ratio of small whole numbers to form compounds, and the relative number and kinds of atoms are constant in a given compound.",
+      "All matter is made up of atoms which can exist in various energy states."
+    ],
+    "correct_answer": "Atoms combine in the ratio of small whole numbers to form compounds, and the relative number and kinds of atoms are constant in a given compound.",
+    "explanation": "Dalton's postulate that the relative number and kinds of atoms in a given compound are constant explains the law of definite proportions. This law states that a chemical compound always contains its constituent elements in fixed ratios by mass, and Dalton’s atomic theory provided the theoretical background for this observation.",
+    "topic": "Dalton’s Atomic Theory / Law of Constant Proportions",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic004"
+  }
+]

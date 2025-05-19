@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What are the desirable characters of bee varieties suitable for honey production?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Desirable characteristics include high honey collection capacity, low tendency to sting, prolonged in-hive retention, and strong breeding ability.",
+    "explanation": "In apiculture, selecting bee varieties that collect nectar efficiently ensures a high yield of honey. A low tendency to sting reduces the risk to beekeepers and facilitates easier management of the colony. Prolonged in-hive retention allows bees to focus on gathering nectar rather than foraging elsewhere, and strong breeding ability maintains robust colony numbers for sustained production. These combined traits make a bee variety ideal for honey production.",
+    "topic": "Apiculture and Bee Behavior",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic017"
+  },
+  {
+    "question_text": "What is pasturage and how is it related to honey production?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Pasturage refers to the availability of flowering plants that provide nectar and pollen for bees. The quality and quantity of pasturage determine both the volume and the flavor profile of the honey produced.",
+    "explanation": "Pasturage is critical in apiculture as it supplies bees with the essential resources—nectar and pollen—required for honey synthesis. An abundant and diverse floral landscape allows bees to collect more nectar, which translates into a greater yield of honey, and influences its taste, aroma, and nutritional properties. This relationship links the environmental availability of blooms directly to the efficiency and quality of honey production.",
+    "topic": "Apiculture and Honey Production",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic018"
+  }
+]

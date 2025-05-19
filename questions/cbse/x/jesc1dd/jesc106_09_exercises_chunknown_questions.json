@@ -1,0 +1,173 @@
+[
+  {
+    "question_text": "Which of the following is a plant hormone?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Insulin",
+      "Thyroxin",
+      "Oestrogen",
+      "Cytokinin"
+    ],
+    "correct_answer": "Cytokinin",
+    "explanation": "Cytokinin is a class of plant hormones that promote cell division and influence growth. Unlike insulin, thyroxin, or oestrogen—which are animal hormones—cytokinin is specific to plants and plays a crucial role in regulating plant development.",
+    "topic": "Plant Hormones",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex001"
+  },
+  {
+    "question_text": "The gap between two neurons is called a",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Dendrite",
+      "Synapse",
+      "Axon",
+      "Impulse"
+    ],
+    "correct_answer": "Synapse",
+    "explanation": "The synapse is the junction between two neurons through which information is transmitted by chemical signals. Dendrites and axons, on the other hand, are parts of a neuron responsible for receiving and transmitting electrical impulses respectively, and an impulse is the electrical signal itself.",
+    "topic": "Nervous System",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex002"
+  },
+  {
+    "question_text": "The brain is responsible for",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Thinking",
+      "Regulating the heartbeat",
+      "Balancing the body",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "The brain is the central processing unit of the nervous system, responsible not only for higher cognitive functions like thinking but also for controlling vital involuntary functions such as heartbeat regulation and maintaining balance. It integrates signals from various parts of the body to produce coordinated responses.",
+    "topic": "Brain Functions",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex003"
+  },
+  {
+    "question_text": "What is the function of receptors in our body? Think of situations where receptors do not work properly. What problems are likely to arise?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Receptors are specialized structures located in sensory organs and nerve endings that detect changes in the environment (stimuli such as light, sound, heat, touch, and chemicals) and convert these stimuli into electrical signals (nerve impulses) for the central nervous system. If receptors malfunction, the body may not accurately detect stimuli, leading to issues such as impaired vision (damaged photoreceptors), hearing loss (damaged auditory receptors), inability to sense temperature (damaged thermoreceptors), and loss of smell (damaged olfactory receptors).",
+    "explanation": "Receptors are essential for environmental perception by converting external stimuli into nerve impulses. When these sensory cells are damaged by disease or injury, the corresponding senses are impaired, risking safety (e.g., failure to detect a hot object) and reducing quality of life. This problem illustrates the importance of intact and properly functioning sensory receptors, which are foundational to our ability to interact with and respond to the environment.",
+    "topic": "Sensory Reception and Signal Transduction",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex004"
+  },
+  {
+    "question_text": "Draw the structure of a neuron and explain its function.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A typical neuron structure has dendrites, a cell body (soma) containing the nucleus, an axon, and nerve endings (axon terminals). Dendrites receive incoming signals, the cell body processes these signals, the axon conducts electrical impulses (action potentials), and the nerve endings release neurotransmitters across synapses to communicate with target cells such as other neurons, muscles, or glands.",
+    "explanation": "The neuron is the basic structural and functional unit of the nervous system. In the provided diagram (similar to Fig. 6.1(a)), dendrites act as receptors of signals, the cell body integrates these signals, the axon propagates the impulse, and the nerve endings establish synaptic connections. The process of converting chemical signals into electrical impulses and then back to chemical signals is fundamental in transmitting information quickly and accurately throughout the body.",
+    "topic": "Neuronal Structure and Function",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex005"
+  },
+  {
+    "question_text": "How does phototropism occur in plants?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Phototropism is the directional growth of a plant in response to light. In shoots, light exposure causes the distribution of the hormone auxin to become uneven, with auxin accumulating on the shaded side. The higher concentration of auxin promotes cell elongation on that side, making the shoot bend toward the light source.",
+    "explanation": "In phototropism, the plant hormone auxin plays a crucial role by diffusing more on the side not directly exposed to the light. This differential growth results in the bending of the plant toward the light, which optimizes light absorption for photosynthesis. The process involves light perception by photoreceptors, hormone redistribution, and differential cell elongation. Diagrams often portray this mechanism, showing auxin gradient from the light to the shaded side.",
+    "topic": "Plant Physiology and Tropisms",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex006"
+  },
+  {
+    "question_text": "Which signals will get disrupted in case of a spinal cord injury?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A spinal cord injury disrupts both the transmission of motor signals from the brain to body parts below the injury and sensory signals from those body parts to the brain. It also can interfere with reflex arcs established in the spinal cord.",
+    "explanation": "The spinal cord serves as the main pathway for nerve impulses traveling between the brain and the peripheral body. Damage to the spinal cord blocks these signals, affecting voluntary movements, sensation (e.g., touch, pain, temperature), and the functioning of reflexes, which are typically processed at the level of the spinal cord without direct involvement of the brain.",
+    "topic": "Spinal Cord Physiology",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex007"
+  },
+  {
+    "question_text": "How does chemical coordination occur in plants?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Chemical coordination in plants takes place via plant hormones (phytohormones) such as auxins, gibberellins, cytokinins, abscisic acid, and ethylene. These hormones are produced in one part of the plant and move—often by diffusion—to other parts, where they regulate growth, development, and responses to environmental stimuli.",
+    "explanation": "Unlike animals, plants lack a nervous system but still require coordinated responses. Plant hormones are synthesized at specific sites (like shoot tips or roots) and travel through the plant to affect processes such as cell elongation, division, and differentiation. For example, auxin causes cell elongation on the shaded side of a shoot, resulting in phototropism.",
+    "topic": "Plant Hormones and Signal Transduction",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex008"
+  },
+  {
+    "question_text": "What is the need for a system of control and coordination in an organism?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A system of control and coordination is essential for integrating the functions of various body parts and ensuring a synchronized response to internal and external stimuli. It regulates growth, metabolism, movement, and homeostasis, allowing the organism to maintain balance and adapt to changing environments.",
+    "explanation": "Control and coordination systems, which include the nervous and endocrine systems, ensure that all the organs and tissues of an organism work harmoniously. They facilitate rapid responses (via nerve impulses) and sustained adjustments (via hormonal signals) necessary for survival, such as reflex actions, voluntary movements, and regulation of body functions like heart rate and digestion.",
+    "topic": "Homeostasis and Body Regulation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex009"
+  },
+  {
+    "question_text": "How are involuntary actions and reflex actions different from each other?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Reflex actions are rapid, automatic responses to a specific stimulus that are mediated by a reflex arc involving the spinal cord; these responses occur without conscious thought. In contrast, involuntary actions include ongoing processes such as heartbeat, breathing, and digestion, which are regulated by brain centers (primarily in the midbrain and hindbrain) and operate continuously without conscious input.",
+    "explanation": "Reflex actions are designed for immediate protection against harmful stimuli (like withdrawing a hand from a hot surface), while involuntary actions maintain essential life functions and homeostasis over a longer term. Both are involuntary, but reflex actions are quicker and involve simpler neural circuitry (often bypassing the brain), whereas many involuntary functions are managed by complex networks in the brain.",
+    "topic": "Neurophysiology and Autonomic Functions",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex010"
+  },
+  {
+    "question_text": "Compare and contrast nervous and hormonal mechanisms for control and coordination in animals.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Nervous mechanisms use electrical impulses transmitted by neurons for rapid, localized responses with short-lived effects, while hormonal mechanisms rely on chemical signals (hormones) released into the bloodstream, which act more slowly but have longer-lasting and widespread effects. Both systems work together to maintain homeostasis and coordinate body functions.",
+    "explanation": "The nervous system is optimized for speed and specificity, using synapses and neural networks to transmit signals quickly across defined pathways. In contrast, the endocrine system employs hormones which diffuse through blood and affect multiple tissues simultaneously, making it ideal for regulating long-term processes such as growth, metabolism, and reproduction. Their complementary roles are evident in responses like the 'fight or flight' reaction, where nervous signals and hormonal responses (e.g., adrenaline release) are integrated.",
+    "topic": "Neuroendocrinology",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex011"
+  },
+  {
+    "question_text": "What is the difference between the manner in which movement takes place in a sensitive plant and the movement in our legs?",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "In a sensitive plant like Mimosa pudica, movement occurs due to rapid changes in turgor pressure within specialized cells (pulvini) that cause the leaves to fold; this is a non-growth, nastic movement mediated by electrical-chemical signals but without specialized muscle tissue. In contrast, movement in our legs is achieved through the contraction and relaxation of muscle fibers, controlled by nerve impulses from the central nervous system, which is a process involving complex interactions between the nervous and muscular systems.",
+    "explanation": "Sensitive plants respond to touch by altering the water content in specific cells, resulting in a rapid physical change (movement) without actual growth. This mechanism is distinct from muscle contraction in animals, which involves the sliding filament theory (actin and myosin interactions) triggered by electrical impulses, often under voluntary control. The two mechanisms reflect adaptations to the different structural and functional needs of plants and animals.",
+    "topic": "Comparative Physiology: Plant Movement vs. Animal Movement",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ex012"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "name": "Physics Part I",
+  "chapters": [
+    {
+      "number": 1,
+      "name": "Electric Charges and Fields"
+    },
+    {
+      "number": 2,
+      "name": "Electrostatic Potential and Capacitance"
+    },
+    {
+      "number": 3,
+      "name": "Current Electricity"
+    },
+    {
+      "number": 4,
+      "name": "Moving Charges and Magnetism"
+    },
+    {
+      "number": 5,
+      "name": "Magnetism and Matter"
+    },
+    {
+      "number": 6,
+      "name": "Electromagnetic Induction"
+    },
+    {
+      "number": 7,
+      "name": "Alternating Current"
+    },
+    {
+      "number": 8,
+      "name": "Electromagnetic Waves"
+    }
+  ]
+}

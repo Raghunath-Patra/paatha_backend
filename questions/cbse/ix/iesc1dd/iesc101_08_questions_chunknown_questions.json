@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Convert the following temperatures to Celsius scale: a) 300 K, b) 573 K.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "a) 27 °C; b) 300 °C",
+    "explanation": "To convert Kelvin to Celsius, subtract 273 from the Kelvin temperature. Therefore, 300 K − 273 = 27 °C and 573 K − 273 = 300 °C.",
+    "topic": "Temperature Conversion, Thermal Physics",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic009"
+  },
+  {
+    "question_text": "Determine the physical state of water at the following temperatures: a) 250 °C, b) 100 °C.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "a) Gaseous state (steam) at 250 °C; b) Both liquid and gaseous states at 100 °C (boiling point conditions)",
+    "explanation": "At 250 °C, water is far above its boiling point and exists as steam. At 100 °C, which is the boiling point at 1 atm pressure, water undergoes a phase change where liquid and vapor coexist, hence both states are present.",
+    "topic": "States of Matter, Phase Transitions",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic010"
+  },
+  {
+    "question_text": "Explain why the temperature remains constant during the change of state for any substance.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The temperature remains constant because the heat energy supplied during a phase change is used as latent heat to overcome intermolecular forces rather than increasing the kinetic energy of the particles.",
+    "explanation": "During phase transitions such as melting or boiling, the supplied heat (latent heat) is absorbed to break or weaken the intermolecular bonds between particles. This energy does not increase the temperature of the substance until the entire phase change is complete. As a result, the temperature remains steady during the transition despite continuous heat input.",
+    "topic": "Phase Change, Latent Heat",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic011"
+  },
+  {
+    "question_text": "Suggest a method to liquefy atmospheric gases.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Atmospheric gases can be liquefied by applying high pressure and lowering the temperature.",
+    "explanation": "Liquefaction of gases involves compressing the gas to reduce the intermolecular spaces and simultaneously reducing the temperature to lower the kinetic energy of the particles. This combination allows the attractive forces between particles to prevail, thereby condensing the gas into a liquid. This principle is applied in industries using high-pressure cylinders and refrigeration techniques for liquefied gases such as LPG and CNG.",
+    "topic": "Gas Laws, States of Matter",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic012"
+  }
+]

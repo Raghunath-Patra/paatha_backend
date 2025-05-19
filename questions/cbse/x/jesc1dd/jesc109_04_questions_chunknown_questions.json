@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Define the principal focus of a concave mirror.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The principal focus (F) is the point on the principal axis where light rays that are initially parallel converge after reflection from a concave mirror.",
+    "explanation": "In a concave mirror, according to the law of reflection, parallel rays incident on the mirror reflect and converge at a single point on the principal axis. This point, known as the principal focus, lies at a distance equal to the focal length (f) from the pole of the mirror. Understanding this concept is fundamental for studying image formation in curved mirrors.",
+    "topic": "Image Formation by Concave Mirrors",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic001"
+  },
+  {
+    "question_text": "The radius of curvature of a spherical mirror is 20 cm. What is its focal length?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The focal length is 10 cm.",
+    "explanation": "For spherical mirrors with small apertures, the focal length (f) is given by f = R/2, where R is the radius of curvature. Therefore, if R = 20 cm, then f = 20 cm/2 = 10 cm. This result is based on the standard mirror formula used in geometric optics.",
+    "topic": "Mirror Formula",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic002"
+  },
+  {
+    "question_text": "Name a mirror that can give an erect and enlarged image of an object.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A concave mirror when the object is placed between the pole and the principal focus.",
+    "explanation": "When an object is placed between the pole (P) and the principal focus (F) of a concave mirror, the reflected rays diverge. An observer looking into the mirror perceives a virtual, erect, and magnified image. This configuration is a classic example in the study of curved mirrors and is widely observed in applications like shaving mirrors.",
+    "topic": "Image Formation by Spherical Mirrors",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic003"
+  },
+  {
+    "question_text": "Why do we prefer a convex mirror as a rear-view mirror in vehicles?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Convex mirrors produce a virtual, erect, and diminished image with a wider field of view, allowing drivers to see a larger area behind the vehicle.",
+    "explanation": "Convex mirrors diverge reflected light rays, which means that even though the images formed are diminished, they are always erect. The outward curved design provides a wider field of view compared to plane or concave mirrors. This characteristic is crucial for rear-view mirrors in vehicles, as it enables drivers to monitor a larger portion of the traffic behind them, thereby enhancing safety.",
+    "topic": "Image Formation by Convex Mirrors",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic004"
+  }
+]

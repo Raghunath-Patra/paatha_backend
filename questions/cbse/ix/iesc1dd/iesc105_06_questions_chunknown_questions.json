@@ -1,0 +1,15 @@
+[
+  {
+    "question_text": "Fill in the gaps in the following table illustrating differences between prokaryotic and eukaryotic cells.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "1. Size: Prokaryotic cells are generally small (1–10 µm) whereas eukaryotic cells are generally large (5–100 µm).\n2. Nuclear region: Prokaryotic cells have a poorly defined or undefined nuclear region known as the nucleoid, while eukaryotic cells have a well-defined nucleus enclosed by a nuclear membrane.\n3. Chromosomes: Prokaryotic cells contain a single chromosome, whereas eukaryotic cells have multiple chromosomes.\n4. Cell organelles: Prokaryotic cells lack membrane-bound organelles, whereas eukaryotic cells possess membrane-bound organelles.",
+    "explanation": "This question requires students to compare the fundamental structural differences between prokaryotic and eukaryotic cells. It tests their understanding of cell size, nuclear organization, chromosome number, and the presence or absence of membrane-bound organelles. Recognizing these differences is central to cellular biology and is often illustrated in diagrams and comparative tables in textbooks.",
+    "topic": "Cellular Biology – Prokaryotic vs Eukaryotic Cells",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic005"
+  }
+]

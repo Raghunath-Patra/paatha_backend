@@ -1,0 +1,131 @@
+```json
+[
+  {
+    "question_text": "What is the electronic configuration of a sodium cation (Na⁺)?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The electronic configuration of Na⁺ is \(1s^2 2s^2 2p^6\).",
+    "explanation": "A neutral sodium atom has 11 electrons with the configuration \(1s^2 2s^2 2p^6 3s^1\). When it loses one electron to form Na⁺, it loses the \(3s^1\) electron, resulting in 10 electrons with the configuration \(1s^2 2s^2 2p^6\), which matches the noble gas neon.",
+    "topic": "Electronic Configuration and Ion Formation",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which of the following correctly represents the formation of magnesium chloride (MgCl₂) through electron transfer?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Mg → Mg⁺ + e⁻; Cl + e⁻ → Cl⁻",
+      "Mg → Mg²⁺ + 2e⁻; 2Cl + 2e⁻ → 2Cl⁻",
+      "Mg + Cl₂ → MgCl₂",
+      "Mg²⁺ + 2Cl⁻ → MgCl₂"
+    ],
+    "correct_answer": "Mg → Mg²⁺ + 2e⁻; 2Cl + 2e⁻ → 2Cl⁻",
+    "explanation": "Magnesium loses two electrons to form Mg²⁺: \( \text{Mg} \rightarrow \text{Mg}^{2+} + 2e^- \). Each chlorine atom gains one electron to form Cl⁻: \( \text{Cl} + e^- \rightarrow \text{Cl}^- \). Since there are two chlorine atoms, the complete process is \( \text{Mg} \rightarrow \text{Mg}^{2+} + 2e^- \) and \( 2\text{Cl} + 2e^- \rightarrow 2\text{Cl}^- \).",
+    "topic": "Formation of Ionic Compounds",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Name the cation and anion present in magnesium chloride (MgCl₂).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The cation is \( \text{Mg}^{2+} \) (magnesium ion) and the anion is \( \text{Cl}^- \) (chloride ion).",
+    "explanation": "In MgCl₂, magnesium loses two electrons to form \( \text{Mg}^{2+} \), and each chlorine atom gains one electron to form two \( \text{Cl}^- \) ions. Therefore, the cation is \( \text{Mg}^{2+} \) and the anion is \( \text{Cl}^- \).",
+    "topic": "Ionic Compound Composition",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Why do ionic compounds generally have high melting and boiling points?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Ionic compounds have high melting and boiling points because a considerable amount of energy is required to break the strong electrostatic forces of attraction between the oppositely charged ions.",
+    "explanation": "The strong ionic bonds formed due to the attraction between cations and anions in ionic compounds necessitate a large amount of energy to overcome these forces, resulting in high melting and boiling points.",
+    "topic": "Properties of Ionic Compounds",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which of the following statements is true about the conductivity of ionic compounds?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Ionic compounds conduct electricity only in solid state.",
+      "Ionic compounds do not conduct electricity in any state.",
+      "Ionic compounds conduct electricity in the molten state and when dissolved in water.",
+      "Ionic compounds conduct electricity only when dissolved in non-polar solvents like kerosene."
+    ],
+    "correct_answer": "Ionic compounds conduct electricity in the molten state and when dissolved in water.",
+    "explanation": "In the solid state, ions are fixed in a lattice and cannot move, so ionic compounds do not conduct electricity. However, when molten or dissolved in water, ions are free to move, allowing the compound to conduct electricity.",
+    "topic": "Electrical Conductivity of Ionic Compounds",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Predict the product formed when aluminum reacts with oxygen and write the balanced chemical equation.",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The product is aluminum oxide (Al₂O₃). The balanced chemical equation is \( 4\text{Al} + 3\text{O}_2 \rightarrow 2\text{Al}_2\text{O}_3 \).",
+    "explanation": "Aluminum (Al) reacts with oxygen (O₂) to form aluminum oxide. Balancing the equation:
+4 Al + 3 O₂ → 2 Al₂O₃
+This ensures the number of atoms for each element is equal on both sides.",
+    "topic": "Formation of Ionic Compounds",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Explain why sodium chloride (NaCl) does not exist as discrete molecules.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Sodium chloride (NaCl) does not exist as discrete molecules because it forms an extended lattice structure of ions. In NaCl, each Na⁺ ion is surrounded by six Cl⁻ ions and each Cl⁻ ion is surrounded by six Na⁺ ions, creating a three-dimensional network. This ionic lattice is held together by strong electrostatic forces of attraction between the oppositely charged ions, rather than existing as separate molecules.",
+    "explanation": "In ionic compounds like NaCl, the electrostatic attraction between Na⁺ and Cl⁻ ions leads to the formation of an extended lattice structure rather than discrete molecules. This structure maximizes the attraction between ions and minimizes repulsion, resulting in a solid crystalline lattice where each ion is surrounded by ions of opposite charge.",
+    "topic": "Structure of Ionic Compounds",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Calculate the number of electrons in a chloride anion (Cl⁻).",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "18 electrons.",
+    "explanation": "A neutral chlorine atom has 17 electrons. When it gains one electron to become Cl⁻, the total number of electrons becomes 18.",
+    "topic": "Ion Formation",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Which of the following salts would you expect to impart a color to a flame test?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Sodium chloride (NaCl)",
+      "Magnesium chloride (MgCl₂)",
+      "Calcium chloride (CaCl₂)",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "When salts like NaCl, MgCl₂, and CaCl₂ are heated in a flame, the metal ions can emit characteristic colors. For example, sodium imparts a bright yellow color, magnesium emits a bright white flame, and calcium gives an orange-red color.",
+    "topic": "Properties of Ionic Compounds",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Describe the solubility of ionic compounds in water compared to non-polar solvents like kerosene.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Ionic compounds are generally soluble in water but insoluble in non-polar solvents like kerosene. Water, being a polar solvent, can stabilize the ions through hydration, allowing the ionic compound to dissolve. In contrast, non-polar solvents cannot stabilize the ions effectively, resulting in insolubility.",
+    "explanation": "The polarity of water molecules allows them to surround and stabilize the positive and negative ions of ionic compounds, facilitating dissolution. Non-polar solvents lack the ability to interact with and stabilize these ions, making ionic compounds insoluble in such solvents.",
+    "topic": "Solubility of Ionic Compounds",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Based on Table 3.4, which ionic compound has the highest boiling point and what is its value?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Calcium oxide (CaO) has the highest boiling point at 3120 K.",
+    "explanation": "Referring to Table 3.4, Calcium oxide (CaO) has a boiling point of 3120 K, which is higher than the boiling points of other listed ionic compounds.",
+    "topic": "Melting and Boiling Points of Ionic Compounds",
+    "bloom_level": "Remember"
+  }
+]
+```

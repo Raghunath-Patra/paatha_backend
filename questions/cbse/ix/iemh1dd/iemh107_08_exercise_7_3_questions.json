@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "∆ABC and ∆DBC are two isosceles triangles on the same base BC with vertices A and D on the same side of BC. If AD is extended to intersect BC at P, show that:\n(i) ∆ABD ≅ ∆ACD\n(ii) ∆ABP ≅ ∆ACP\n(iii) AP bisects ∠A as well as ∠D\n(iv) AP is the perpendicular bisector of BC.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "A detailed proof using congruence criteria: First, using the fact that in ∆ABC and ∆DBC the base BC is common and the given equal sides of the isosceles triangles (AB = AC and DB = DC), one can prove that triangles ABD and ACD are congruent by the SSS criterion (after showing that AD is common). From the congruence, the base angles at B and C are equal and it follows that AP (which is an extension of AD meeting BC at P) also acts as the angle bisector of ∠A and ∠D. Further, by analyzing triangles ABP and ACP, one concludes that these triangles are congruent, which implies that BP = CP and the line AP is perpendicular to BC at its midpoint. Thus all four statements are proved.",
+    "explanation": "Step 1: Recognize that the two triangles ∆ABC and ∆DBC are isosceles with AB = AC and DB = DC, respectively. \nStep 2: Since AD is common and P is the intersection of AD with BC, construct triangles ABD and ACD. With AB = AC (given), BD = DC (from the isosceles property of ∆DBC) and AD common, by SSS congruence, ∆ABD ≅ ∆ACD. This proves (i).\nStep 3: From the congruence, corresponding angles (such as ∠BAD and ∠CAD) are equal. When considering triangles ABP and ACP, the equality of sides and angles (derived from the previous step and the midpoint property of BC that follows) shows they are congruent, proving (ii).\nStep 4: The congruence further implies that AP bisects ∠A and ∠D (by CPCT - Corresponding Parts of Congruent Triangles are Equal), proving (iii).\nStep 5: Finally, since the points on BC corresponding to the endpoints of the base in the two congruent triangles are equidistant from P, the line AP not only bisects BC but also makes a 90° angle with it, thus proving (iv). \nKey theorems used: SSS Congruence, CPCT, and properties of isosceles triangles.",
+    "topic": "Triangle Congruence, Isosceles Triangles, Perpendicular Bisectors",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh107",
+    "question_id": "cbse_ix_iemh1dd_c107_ex017"
+  },
+  {
+    "question_text": "AD is an altitude of an isosceles triangle ABC in which AB = AC. Show that:\n(i) AD bisects BC\n(ii) AD bisects ∠A.",
+    "type": "Long Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Since triangle ABC is isosceles (AB = AC) and AD is the altitude from vertex A, the perpendicular from the vertex to the base in an isosceles triangle is also the median and the angle bisector. By constructing triangles ABD and ACD, one finds that they are congruent (by ASA: AB = AC, ∠ADB = ∠ADC = 90°, and AD common), which implies that BD = DC (so AD bisects BC) and ∠BAD = ∠CAD (so AD bisects ∠A).",
+    "explanation": "Step 1: In ∆ABC with AB = AC, draw altitude AD from A to base BC. This gives right angles at D (i.e., ∠ADB = ∠ADC = 90°).\nStep 2: Consider triangles ABD and ACD. We have:\n• AB = AC (given),\n• ∠ADB = ∠ADC (each = 90°), and\n• AD is common.\nStep 3: By the ASA criterion, ∆ABD ≅ ∆ACD, which implies that BD = DC and ∠BAD = ∠CAD.\nStep 4: Therefore, AD bisects both the base BC and the vertex angle ∠A.",
+    "topic": "Isosceles Triangle Properties, Altitude, Median, Angle Bisector",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh107",
+    "question_id": "cbse_ix_iemh1dd_c107_ex018"
+  },
+  {
+    "question_text": "Two sides AB and BC and the median AM of triangle ABC are respectively equal to sides PQ and QR and the median PN of triangle PQR. Show that:\n(i) ∆ABM ≅ ∆PQN\n(ii) ∆ABC ≅ ∆PQR.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "First, note that in ∆ABC, AM is a median so M is the midpoint of BC (thus BM = MC); similarly, in ∆PQR, PN is a median so N is the midpoint of QR (thus QN = NR). Given AB = PQ, BC = QR, and AM = PN, one can prove that ∆ABM and ∆PQN are congruent (by SSS). Once these sub-triangles are proven congruent, the congruence of the entire triangles ∆ABC and ∆PQR follows by considering the congruent corresponding parts and including the other halves of the triangles. Thus, both parts (i) and (ii) are established.",
+    "explanation": "Step 1: In ∆ABC, since AM is a median, M is the midpoint of BC so that BM = MC. In ∆PQR, with PN as the median, N is the midpoint of QR so that QN = NR.\nStep 2: It is given that AB = PQ, BC = QR, and AM = PN. Consider triangles ABM and PQN:\n• AB = PQ (given),\n• BM = QN (from the midpoint property),\n• AM = PN (given).\nStep 3: By the SSS congruence rule, ∆ABM ≅ ∆PQN, proving (i).\nStep 4: Using the congruence of these sub-triangles along with the equal corresponding segments from the midpoints, one can extend the congruence to the entire triangles ∆ABC and ∆PQR (using side-angle-side or by assembling the congruent parts), thereby proving (ii).\nKey principles: median properties, SSS congruence.",
+    "topic": "Triangle Congruence, Medians, SSS Criterion",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh107",
+    "question_id": "cbse_ix_iemh1dd_c107_ex019"
+  },
+  {
+    "question_text": "BE and CF are two equal altitudes of a triangle ABC. Using the RHS congruence rule, prove that triangle ABC is isosceles.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "By drawing altitudes BE and CF from vertices B and C respectively, we form two right triangles (for example, ∆ABE and ∆ACF). Given that BE = CF (equal altitudes), the right angles at E and F, and the common side (or equivalent corresponding sides determined by AP or another appropriate construction), the RHS (Right angle-Hypotenuse-Side) congruence rule can be applied to show that ∆ABE ≅ ∆ACF. This congruence implies that AB = AC, proving that triangle ABC is isosceles.",
+    "explanation": "Step 1: In ∆ABC, drop perpendiculars BE and CF to the opposite sides. These create right triangles, namely ∆ABE and ∆ACF.\nStep 2: It is given that BE = CF (the altitudes are equal), and both triangles have a right angle.\nStep 3: Identify the hypotenuse in each right triangle (for instance, AB in ∆ABE and AC in ∆ACF). With BE = CF and the common angle at A (or by constructing a common side using the altitude foot), the RHS criterion applies to establish that ∆ABE ≅ ∆ACF.\nStep 4: From CPCT, it follows that AB = AC, hence triangle ABC is isosceles.\nKey concepts: Right triangle congruence (RHS) and properties of altitudes.",
+    "topic": "Right Triangle Congruence (RHS), Isosceles Triangles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh107",
+    "question_id": "cbse_ix_iemh1dd_c107_ex020"
+  },
+  {
+    "question_text": "ABC is an isosceles triangle with AB = AC. Draw AP ⊥ BC and show that ∠B = ∠C.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "In an isosceles triangle ABC (with AB = AC), the altitude AP drawn from A to the base BC not only is perpendicular to BC but also acts as the median and the angle bisector. This means that it divides BC into two equal parts and bisects ∠A. Consequently, the base angles ∠B and ∠C are congruent.",
+    "explanation": "Step 1: In ∆ABC with AB = AC, draw the altitude AP from vertex A to base BC, so that AP ⊥ BC.\nStep 2: In isosceles triangles the altitude from the vertex angle to the base serves as the median and the angle bisector. Therefore, BP = PC and ∠BAP = ∠CAP.\nStep 3: By applying the congruence of triangles (using the right angles, the equal halves of the base, and the common side AP), it is established that ∆ABP ≅ ∆ACP via (for example) the Hypotenuse-Leg criterion.\nStep 4: From the congruence, ∠B = ∠C follows directly.\nKey property: In an isosceles triangle, the altitude from the vertex to the base bisects both the base and the vertex angle, ensuring the base angles are equal.",
+    "topic": "Isosceles Triangle Properties, Altitude, Angle Bisector",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh107",
+    "question_id": "cbse_ix_iemh1dd_c107_ex021"
+  }
+]

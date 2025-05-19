@@ -1,0 +1,227 @@
+[
+  {
+    "question_text": "Which of the following tissues is primarily responsible for the longitudinal growth of stems and roots?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Apical meristem",
+      "B. Lateral meristem",
+      "C. Intercalary meristem",
+      "D. Sclerenchyma"
+    ],
+    "correct_answer": "A. Apical meristem – This tissue is located at the tips of shoot and root and is responsible for increasing their length.",
+    "explanation": "The apical meristem contains actively dividing cells which add new cells at the tip. Without it, primary growth (extension in length) would cease.",
+    "topic": "Meristematic tissue and plant growth",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen015"
+  },
+  {
+    "question_text": "During the experiment in Activity 6.1, what is the effect of cutting the root tips of one onion bulb?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. The bulb’s roots show increased growth",
+      "B. The bulb’s roots grow at the same rate",
+      "C. The bulb’s roots stop growing significantly",
+      "D. The bulb’s roots change color"
+    ],
+    "correct_answer": "C. The bulb’s roots stop growing significantly – Removing the apical meristem halts the growth of roots from that region.",
+    "explanation": "Cutting the root tips removes the apical meristem, which is the active site of cell division. Without it, cell production ceases and root elongation is arrested.",
+    "topic": "Meristematic tissue and experimental observations",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen016"
+  },
+  {
+    "question_text": "Which of the following characteristics does NOT describe meristematic cells?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "A. Dense cytoplasm",
+      "B. Thin cell walls",
+      "C. Large vacuoles",
+      "D. Prominent nucleus"
+    ],
+    "correct_answer": "C. Large vacuoles – Meristematic cells have dense cytoplasm and lack large vacuoles, which are typical of mature, differentiated cells.",
+    "explanation": "Rapidly dividing meristematic cells require a dense cytoplasm and minimal vacuolation to facilitate active cell division, unlike mature cells that accumulate large vacuoles for storage and support.",
+    "topic": "Structure of meristematic cells",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen017"
+  },
+  {
+    "question_text": "Guard cells play a crucial role in plant physiology. Which of the following best describes their function?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "A. They secrete wax to protect the plant surface",
+      "B. They regulate gas exchange through stomata",
+      "C. They transport water and minerals",
+      "D. They provide structural support"
+    ],
+    "correct_answer": "B. They regulate gas exchange through stomata – Guard cells control the opening and closing of stomatal pores, thereby managing the exchange of gases and transpiration.",
+    "explanation": "Guard cells, by changing shape, open and close the stomata to allow entry of CO₂ for photosynthesis and to minimize water loss, playing a direct role in gas exchange and transpiration processes.",
+    "topic": "Epidermis, stomata, and guard cells",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen018"
+  },
+  {
+    "question_text": "Define meristematic tissue and explain its role in plant growth.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Meristematic tissue is composed of actively dividing cells that are responsible for producing new cells in specific regions of the plant, leading to growth. It includes various types such as apical, lateral, and intercalary meristems, which are located at the tips, along the sides, or near nodes, respectively.",
+    "explanation": "Meristematic tissues are undifferentiated cells that continuously produce new cells. These cells later differentiate into various specialized tissues (permanent tissues) as they mature, enabling both primary (length) and secondary (girth) growth in plants.",
+    "topic": "Meristematic tissue",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen019"
+  },
+  {
+    "question_text": "What is differentiation in the context of plant tissues? Briefly explain the significance of this process.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Differentiation is the process through which cells produced by the meristem become specialized to perform specific functions, forming permanent tissues with distinct shapes and roles.",
+    "explanation": "Through differentiation, unspecialized meristematic cells acquire distinct structures and functions, such as those found in parenchyma, collenchyma, and sclerenchyma. This specialization is key to forming tissues that support photosynthesis, structural integrity, transport, and protection in the plant.",
+    "topic": "Differentiation and permanent tissue",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen020"
+  },
+  {
+    "question_text": "Compare and contrast the structures and functions of parenchyma, collenchyma, and sclerenchyma tissues.",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Parenchyma cells are thin-walled, loosely arranged, and are typically involved in storage, photosynthesis, or even tissue regeneration. Collenchyma cells have irregularly thickened walls and provide flexible mechanical support to growing regions of plants. Sclerenchyma cells are dead at maturity, have thick, lignified walls, and offer structural rigidity and strength.",
+    "explanation": "Each tissue type is adapted to specific roles: Parenchyma allows for metabolic functions and storage; collenchyma offers support while still permitting growth and flexibility; sclerenchyma, due to lignification and cell death, provides hard support in regions where flexibility is less required.",
+    "topic": "Simple permanent tissues",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen021"
+  },
+  {
+    "question_text": "List two main functions of the epidermis in leaves and briefly explain their importance.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The epidermis protects the plant from mechanical injury and water loss, and it also facilitates gas exchange through structures called stomata.",
+    "explanation": "The epidermis forms a protective barrier against environmental stress, pathogens, and excessive water loss due to its waxy coating or cutin. The stomata, which are embedded within the epidermal layer, enable respiration and photosynthesis by regulating the entry of CO₂ and exit of oxygen, along with water vapor during transpiration.",
+    "topic": "Epidermal tissue and stomata",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen022"
+  },
+  {
+    "question_text": "Describe the experimental procedure outlined in Activity 6.1 and explain how cutting the root tips affects the growth of onion bulbs.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The experiment involves placing two onion bulbs in separate jars of water and monitoring the growth of their roots over several days. In one jar, root tips are cut on Day 4. The onion with intact root tips shows continued root growth, whereas the one with cut tips displays markedly reduced elongation. This difference is attributed to the removal of the apical meristem.",
+    "explanation": "Activity 6.1 demonstrates that the apical meristem, located at the root tip, is essential for cell division and subsequent root growth. By cutting off this meristematic tissue, the bulb in that jar loses its primary growing zone, which drastically reduces its ability to generate new cells required for elongation. This experiment effectively links the role of active meristematic tissue with plant growth.",
+    "topic": "Plant tissue growth and experiments",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen023"
+  },
+  {
+    "question_text": "Discuss the differences between simple and complex permanent tissues in plants, focusing on how the structure of xylem and phloem supports their respective functions.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Simple permanent tissues consist of one type of cell and include parenchyma, collenchyma, and sclerenchyma, which primarily serve roles such as storage, support, and protection. Complex permanent tissues, like xylem and phloem, are made of different cell types coordinated to perform a common function. Xylem, composed of tracheids, vessels, xylem parenchyma, and fibres, is designed for the transport of water and minerals and provides structural support, while phloem, consisting of sieve tubes, companion cells, and other specialized cells, is responsible for the distribution of nutrients and organic compounds throughout the plant.",
+    "explanation": "Simple tissues are uniform and perform basic functions, whereas complex tissues integrate multiple cell types to create efficient systems for transport. The tube-like structure of xylem cells (tracheids and vessels) facilitates the upward movement of water through transpiration pull, and the perforated sieve plates in phloem allow the flow of sugars and nutrients, highlighting the specialization required for effective plant physiology.",
+    "topic": "Permanent tissues and vascular system",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen024"
+  },
+  {
+    "question_text": "Evaluate the role of secondary growth, specifically the formation of cork in older stems, and discuss its advantages for plant survival.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Secondary growth, which includes the formation of protective cork, replaces the epidermis in older stems through the activity of a secondary meristem. Cork cells are dead, have thick cell walls impregnated with suberin, and form a barrier against water loss, mechanical damage, and pathogen invasion. This protective layer is essential for the longevity and survival of mature plants, especially in harsh environments.",
+    "explanation": "As plants age, the original epidermal layer is insufficient to protect against external stresses. The cork provides a robust, water-impermeable covering that minimizes water loss and shields internal tissues. This adaptation is crucial for terrestrial life, where fluctuations in environmental conditions demand enhanced protective mechanisms.",
+    "topic": "Secondary growth and protective tissues",
+    "bloom_level": "Evaluate",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen025"
+  },
+  {
+    "question_text": "True or False: Meristematic cells contain large vacuoles similar to mature, differentiated plant cells.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False – Meristematic cells lack large vacuoles because they require a dense cytoplasm for rapid cell division.",
+    "explanation": "Unlike mature cells that often accumulate large central vacuoles for storage and turgor maintenance, meristematic cells are packed with cytoplasm to support their active metabolic processes and cell division.",
+    "topic": "Meristematic cell structure",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen026"
+  },
+  {
+    "question_text": "True or False: Stomata are exclusively found on the leaves of plants.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False – While stomata are most commonly found on leaves, they may also be present on other aerial parts like stems where gas exchange is required.",
+    "explanation": "Stomata function in gas exchange; although leaves are the primary sites due to high photosynthetic activity, some plants have stomata on stems and even in other specialized organs, depending on their environmental adaptations.",
+    "topic": "Epidermal tissues and stomata",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen027"
+  },
+  {
+    "question_text": "True or False: In complex tissues such as the xylem, all cells become dead at maturity to facilitate transport.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False – Not all cells in xylem are dead; while tracheids and vessel elements are dead at maturity to provide hollow conduits for water transport, xylem parenchyma cells remain alive and are involved in storage and tissue repair.",
+    "explanation": "The xylem is a complex tissue with several cell types working together for water conduction and structural support. The living xylem parenchyma is essential for storage and injury repair, whereas the dead cells form the conduits needed for efficient water transport.",
+    "topic": "Xylem structure and function",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "iesc106",
+    "section_id": "04_section_6_2",
+    "question_id": "cbse_ix_iesc1dd_c106_gen028"
+  }
+]

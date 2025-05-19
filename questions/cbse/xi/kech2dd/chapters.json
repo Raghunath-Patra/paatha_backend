@@ -1,0 +1,17 @@
+{
+    "name": "Chemistry Part II",
+    "chapters": [
+      {
+        "number": 7,
+        "name": "Redox Reactions"
+      },
+      {
+        "number": 8,
+        "name": "Organic Chemistry – Some Basic Principles and Techniques"
+      },
+      {
+        "number": 9,
+        "name": "Hydrocarbons"
+      }
+    ]
+  }

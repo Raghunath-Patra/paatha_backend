@@ -1,0 +1,25 @@
+{
+    "name": "Chemistry Part I",
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Solutions"
+      },
+      {
+        "number": 2,
+        "name": "Electrochemistry"
+      },
+      {
+        "number": 3,
+        "name": "Chemical Kinetics"
+      },
+      {
+        "number": 4,
+        "name": "The d-and f-Block Elements"
+      },
+      {
+        "number": 5,
+        "name": "Coordination Compounds"
+      }
+    ]
+  }

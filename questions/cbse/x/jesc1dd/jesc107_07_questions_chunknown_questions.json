@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "How is the process of pollination different from fertilisation?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Pollination is the transfer of pollen grains, which contain the male gametes, from the anther to the stigma of a flower, whereas fertilisation is the fusion of the male gamete (from the pollen) with the female gamete (the egg cell inside the ovule) to form a zygote.",
+    "explanation": "Pollination entails the movement of pollen from the male reproductive organ (anther) to the female reproductive organ (stigma), frequently with the aid of external agents such as wind, water, or animals. In contrast, fertilisation occurs when the pollen tube grows from the germinated pollen grain down through the style to deliver the male gamete to the egg in the ovule, resulting in the formation of a zygote. This clear distinction highlights the sequential steps in sexual reproduction in flowering plants, employing specialized structures and processes.",
+    "topic": "Sexual Reproduction in Flowering Plants",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic008"
+  },
+  {
+    "question_text": "What is the role of the seminal vesicles and the prostate gland?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The seminal vesicles and the prostate gland secrete fluids that mix with sperm to form semen, providing nutrition to the sperm, neutralizing the acidic environment of the female reproductive tract, and facilitating the transport of sperm.",
+    "explanation": "In the male reproductive system, the fluid from the seminal vesicles is rich in sugars and other nutrients that offer energy for sperm, while the prostate gland contributes additional enzymes and alkaline secretions that help protect the sperm by neutralizing the acidic pH encountered in the female reproductive tract. This combination creates an optimal medium for sperm viability and motility.",
+    "topic": "Male Reproductive System",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic009"
+  },
+  {
+    "question_text": "What are the changes seen in girls at the time of puberty?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "At puberty, girls experience an increase in breast size, darkening of the nipple area, growth of hair in the armpits and genital region, widening of the hips, and the onset of menstruation.",
+    "explanation": "During puberty, hormonal changes trigger multiple physiological transformations in girls. The ovaries begin to produce estrogen, leading to the development of secondary sexual characteristics such as breast enlargement and changes in skin pigmentation. Additionally, the redistribution of body fat and growth of pubic and axillary hair occur, signaling the maturation of the reproductive system and preparing the body for potential reproduction.",
+    "topic": "Human Sexual Maturation and Puberty",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic010"
+  },
+  {
+    "question_text": "How does the embryo get nourishment inside the mother’s body?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The embryo receives nourishment through the placenta, a specialized organ that forms when the fertilised egg attaches and implants in the uterine lining. The placenta facilitates the exchange of nutrients (such as glucose) and oxygen from the mother's blood to the embryo, as well as the removal of waste products.",
+    "explanation": "After fertilisation, the zygote develops into an embryo that implants in the uterine wall. The placenta, which develops at the site of implantation, acts as the interface between the mother’s and embryo’s circulatory systems. It contains villi that increase the surface area for exchange, ensuring that essential nutrients and oxygen are delivered while metabolic wastes are removed. This process is critical for proper embryonic growth and development.",
+    "topic": "Human Reproduction and Placental Function",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic011"
+  },
+  {
+    "question_text": "If a woman is using a copper-T, will it help in protecting her from sexually transmitted diseases?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "No, a copper-T (an intrauterine contraceptive device) is designed to prevent pregnancy primarily by preventing implantation and affecting sperm viability, but it does not offer protection against sexually transmitted diseases.",
+    "explanation": "The copper-T functions by releasing copper ions that create an environment toxic to sperm and interfere with the sperm's ability to fertilize an egg. However, it does not form a physical barrier to the exchange of bodily fluids during sexual intercourse. Thus, it does not prevent the transmission of pathogens that cause diseases such as gonorrhoea, syphilis, or HIV-AIDS. For protection against sexually transmitted diseases, barrier methods like condoms are recommended.",
+    "topic": "Contraceptive Methods and Reproductive Health",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic012"
+  }
+]

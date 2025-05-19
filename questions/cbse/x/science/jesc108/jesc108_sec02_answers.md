@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "question_text": "How do Mendel’s experiments show that traits may be dominant or recessive?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Mendel’s experiments demonstrated the concepts of dominant and recessive traits through his pea plant studies. By crossing pea plants with contrasting traits, such as tall (T) and short (t) plants, Mendel observed that the first-generation (F₁) progeny displayed only the dominant trait (tall). However, when he allowed the F₁ generation to self-pollinate, the second-generation (F₂) progeny exhibited both the dominant and recessive traits in a ratio of approximately 3:1 (three tall plants for every one short plant). This segregation showed that the recessive trait (shortness) was still present in the F₁ generation but was masked by the dominant trait. The reappearance of the recessive trait in the F₂ generation provided clear evidence that traits can be dominant or recessive.",
+    "explanation": "Mendel experimented with pea plants by crossing individuals with contrasting traits. In the F₁ generation, only the dominant trait was visible, indicating that the dominant allele masks the recessive one. When F₁ individuals were self-pollinated, the recessive trait reappeared in the F₂ generation in a predictable ratio, demonstrating that both dominant and recessive alleles were inherited but the recessive ones were not expressed unless in a homozygous state (tt). This pattern of trait expression and segregation led Mendel to formulate the principles of dominance and recessiveness.",
+    "topic": "Mendel’s Contributions",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "How do Mendel’s experiments show that traits are inherited independently?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Mendel’s experiments demonstrated the independent inheritance of traits through his dihybrid crosses, where he studied the inheritance of two different traits simultaneously, such as plant height (tall or short) and seed shape (round or wrinkled). When he crossed plants that were tall with round seeds (TTYY) with plants that were short with wrinkled seeds (ttyy), all F₁ progeny were tall with round seeds, indicating that these traits did not blend but were inherited separately. Upon self-pollinating the F₁ generation, the F₂ progeny exhibited a phenotypic ratio of approximately 9:3:3:1, which included tall with round seeds, tall with wrinkled seeds, short with round seeds, and short with wrinkled seeds. This non-blending ratio indicated that the genes controlling each trait segregate independently during gamete formation, supporting Mendel’s principle of independent assortment.",
+    "explanation": "In Mendel's dihybrid experiments, he tracked the inheritance of two distinct traits at the same time. The F₂ generation exhibited new combinations of traits that were not seen in the F₁ generation, such as tall with wrinkled seeds and short with round seeds. The observed 9:3:3:1 ratio in the F₂ generation deviated from what would be expected if the traits were linked, indicating that the genes for each trait assort independently of one another during meiosis. This demonstrated that the inheritance of one trait does not affect the inheritance of another, thereby revealing the principle of independent assortment.",
+    "topic": "Mendel’s Contributions",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "A man with blood group A marries a woman with blood group O, and their daughter has blood group O. Is this information enough to tell you which of the traits—blood group A or O—is dominant? Why or why not?",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "No, the information is not sufficient to determine which trait is dominant because the daughter's blood group O could result from each parent contributing an O allele, but without knowing the man’s genotype (whether he is AA or AO), we cannot conclusively identify the dominance relationship between A and O alleles.",
+    "explanation": "To determine dominance, we need to know how the alleles interact. If the man is homozygous (AA), it would not be possible for a daughter to have blood group O. Therefore, the man must be heterozygous (AO), indicating that the O allele is recessive to A. However, the information provided does not explicitly confirm the man’s genotype, so while it suggests that A is dominant over O, it does not categorically establish the dominance relationship without additional genetic information.",
+    "topic": "Inherited Traits",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "How is the sex of the child determined in human beings?",
+    "type": "Long Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "In human beings, the sex of the child is determined by the combination of sex chromosomes inherited from the parents. Each child receives one sex chromosome from the mother (always an X chromosome) and one from the father (either an X or a Y chromosome). If the child inherits an X chromosome from the father, the resulting XX combination results in a female. If the child inherits a Y chromosome from the father, the resulting XY combination results in a male. Therefore, the sex of the child is determined by the father’s sperm carrying either an X or a Y chromosome.",
+    "explanation": "Humans have 23 pairs of chromosomes, including one pair of sex chromosomes. Females have two X chromosomes (XX), and males have one X and one Y chromosome (XY). During reproduction, the mother contributes one X chromosome to the offspring. The father contributes either an X or a Y chromosome through his sperm. If the sperm carries an X chromosome, the resulting combination is XX, which is female. If the sperm carries a Y chromosome, the resulting combination is XY, which is male. This mechanism ensures that approximately half of the offspring are male and half are female.",
+    "topic": "Sex Determination",
+    "bloom_level": "Remember"
+  }
+]
+```

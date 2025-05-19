@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Why does the colour of copper sulphate solution change when an iron nail is dipped in it?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Iron displaces copper from copper sulphate. When the iron nail is dipped into the solution, iron reacts with Cu²⁺ ions to form pale green iron(II) sulphate, while metallic copper, which is reddish-brown, is deposited. This causes the original blue colour of the copper sulphate solution to fade.",
+    "explanation": "This is a single replacement (redox) reaction where iron, being more reactive than copper, displaces copper from the compound. The copper ions (Cu²⁺) are removed from the solution as they precipitate out in metallic form, and the newly formed iron(II) sulphate imparts a pale green colour. The underlying concept is based on the activity series of metals, which predicts that a more reactive metal (Fe) can replace a less reactive metal (Cu) in a compound.",
+    "topic": "Redox Reactions / Displacement Reactions",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic009"
+  },
+  {
+    "question_text": "Give an example of a double displacement reaction other than the one given in Activity 1.10.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq)",
+    "explanation": "In a double displacement reaction, the cations and anions of two reactant compounds exchange partners to form two new compounds. In this example, silver nitrate reacts with sodium chloride to form insoluble silver chloride, which precipitates as a white solid, and soluble sodium nitrate remains in solution. This reaction illustrates the hallmark of double displacement: formation of a precipitate, gas, or weak electrolyte.",
+    "topic": "Double Displacement Reactions",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic010"
+  },
+  {
+    "question_text": "Identify the substances that are oxidised and the substances that are reduced in the following reactions: (i) 4Na(s) + O₂(g) → 2Na₂O(s) and (ii) CuO(s) + H₂(g) → Cu(s) + H₂O(l).",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "In reaction (i), sodium (Na) is oxidised (its oxidation state increases from 0 to +1) and oxygen (O₂) is reduced (its oxidation state decreases from 0 to -2). In reaction (ii), hydrogen (H₂) is oxidised (its oxidation state increases from 0 to +1 in water) and copper(II) oxide (CuO) is reduced (copper’s oxidation state decreases from +2 in CuO to 0 in metallic Cu).",
+    "explanation": "Oxidation is defined as the loss of electrons (or increase in oxidation state), while reduction is the gain of electrons (or decrease in oxidation state). In the first reaction, sodium loses electrons to form Na⁺, indicating oxidation, and oxygen gains electrons to form O²⁻, indicating reduction. In the second reaction, hydrogen is converted from H₂ (oxidation state 0) to H₂O (oxidation state +1 per hydrogen atom), meaning it is oxidised, while copper in CuO gains electrons to become elemental copper (oxidation state 0), demonstrating reduction. This analysis uses the fundamental redox concepts and oxidation number rules.",
+    "topic": "Redox Reactions",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic011"
+  }
+]

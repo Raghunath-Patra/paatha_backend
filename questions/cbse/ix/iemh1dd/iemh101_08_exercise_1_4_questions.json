@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Classify the following numbers as rational or irrational: (i) 2 – √5, (ii) (3 + √23) – √23, (iii) (2√7) / (7√7), (iv) 1/√2, (v) 2π",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) Irrational, (ii) Rational, (iii) Rational, (iv) Irrational, (v) Irrational",
+    "explanation": "• (i) 2 is rational and √5 is irrational; subtracting an irrational from a rational yields an irrational number.\n• (ii) (3 + √23) – √23 equals 3, which is rational.\n• (iii) (2√7)/(7√7) simplifies by canceling √7 to give 2/7, which is rational.\n• (iv) 1/√2 is irrational since the denominator is irrational.\n• (v) 2π is irrational because π is irrational and multiplying by a rational number (2) does not change the irrationality.",
+    "topic": "Classification of Real Numbers",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex018"
+  },
+  {
+    "question_text": "Simplify each of the following expressions: (i) (3 + √3)(2 + √2), (ii) (3 + √3)(3 – √3), (iii) (√5 + √2)², (iv) (√5 – √2)(√5 + √2)",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": " (i) 6 + 3√2 + 2√3 + √6, (ii) 9 - 3 = 6, (iii) 5 + 2√10 + 2 = 7 + 2√10, (iv) 5 - 2 = 3",
+    "explanation": "• (i) Use the distributive property: (3 + √3)(2 + √2) = 3×2 + 3×√2 + √3×2 + √3×√2 = 6 + 3√2 + 2√3 + √6.\n• (ii) Apply the difference of squares: (3 + √3)(3 – √3) = 3² - (√3)² = 9 - 3 = 6.\n• (iii) Expand the square: (√5 + √2)² = (√5)² + 2√5√2 + (√2)² = 5 + 2√10 + 2 = 7 + 2√10.\n• (iv) Again, use difference of squares: (√5 – √2)(√5 + √2) = (√5)² - (√2)² = 5 - 2 = 3.",
+    "topic": "Simplification of Radical Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex019"
+  },
+  {
+    "question_text": "Recall, π is defined as the ratio of the circumference of a circle to its diameter (π = c/d). This seems to contradict the fact that π is irrational. How will you resolve this contradiction?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "There is no contradiction. The definition of π as a ratio of two lengths does not require that the ratio be rational. π is defined geometrically and can be measured as a limit. Its irrationality simply means that π cannot be expressed as a fraction of two integers, not that it cannot represent a geometric constant.",
+    "explanation": "• The definition π = c/d comes from geometry and tells us that, for any circle, the ratio of its circumference to its diameter is constant.\n• This geometric definition does not imply that the ratio must be a rational number; it simply defines a constant.\n• Through analysis and approximation, it has been shown that π has a non-terminating, non-recurring decimal expansion, which is the property of an irrational number.\n• Therefore, the apparent contradiction is resolved by understanding that a number defined as a geometric ratio can be irrational, and the rationality of a ratio does not depend solely on its definition.",
+    "topic": "Irrational Numbers and π",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex020"
+  },
+  {
+    "question_text": "Represent √9.3 on the number line.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "To represent √9.3 on the number line, first note that √9 = 3 and √9.3 is slightly greater than 3 (approximately 3.05). Using a geometric construction or an approximate marking between 3 and the next integer, one can locate the point corresponding to √9.3.",
+    "explanation": "• Approximate the value: since 9.3 is a little more than 9, √9.3 ≈ 3.05.\n• Draw a number line marked with appropriate intervals (for instance, marking integers 0, 1, 2, 3, 4, etc.).\n• Identify the segment between 3 and 4 and mark a point approximately 0.05/1 units beyond 3 (or use a more precise geometric construction based on the method described in the chapter using a semicircle and perpendicular).\n• Label this point as √9.3.\n• This process visually demonstrates the position of √9.3 in relation to other real numbers on the number line.",
+    "topic": "Representation of Irrational Numbers on the Number Line",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex021"
+  },
+  {
+    "question_text": "Rationalise the denominators of the following: (i) 1/√7, (ii) 1/(√7 – √6), (iii) 1/(√5 + √2), (iv) 1/(√7 – 2)",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": " (i) 1/√7 = √7/7, (ii) 1/(√7 – √6) = (√7 + √6)/(7 – 6) = √7 + √6, (iii) 1/(√5 + √2) = (√5 – √2)/(5 – 2) = (√5 – √2)/3, (iv) 1/(√7 – 2) = (√7 + 2)/(7 – 4) = (√7 + 2)/3",
+    "explanation": "• (i) Multiply numerator and denominator by √7 to get: 1/√7 = (√7)/(√7×√7) = √7/7.\n• (ii) Multiply numerator and denominator by the conjugate (√7 + √6): 1/(√7 – √6) × (√7 + √6)/(√7 + √6) = (√7 + √6)/(7 - 6) = √7 + √6.\n• (iii) Multiply by the conjugate (√5 – √2): 1/(√5 + √2) × (√5 – √2)/(√5 – √2) = (√5 – √2)/(5 - 2) = (√5 – √2)/3.\n• (iv) Multiply by the conjugate (√7 + 2): 1/(√7 – 2) × (√7 + 2)/(√7 + 2) = (√7 + 2)/(7 - 4) = (√7 + 2)/3.",
+    "topic": "Rationalising Denominators",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex022"
+  }
+]

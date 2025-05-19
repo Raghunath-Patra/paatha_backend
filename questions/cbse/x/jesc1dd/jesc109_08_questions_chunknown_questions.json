@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Define 1 dioptre of power of a lens.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1 dioptre is defined as the power of a lens with a focal length of 1 metre.",
+    "explanation": "The power (P) of a lens is given by the reciprocal of its focal length (f) in metres, i.e. P = 1/f. Therefore, if f = 1 m, then the power is 1 dioptre (1 D). This simple relation is fundamental in optics and is used to determine the corrective power of lenses.",
+    "topic": "Optical Power & Lens",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic012"
+  },
+  {
+    "question_text": "A convex lens forms a real and inverted image of a needle at a distance of 50 cm from it. Where is the needle placed in front of the convex lens if the image is equal to the size of the object? Also, find the power of the lens.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The needle must be placed 50 cm in front of the lens (i.e. at 2f) and the power of the lens is +4 D.",
+    "explanation": "For a convex lens, a real and inverted image with the same size as the object implies that the magnification is +1, so the object distance (u) equals the image distance (v). Given v = 50 cm, u = 50 cm. The lens formula 1/f = 1/u + 1/v then becomes 1/f = 1/50 + 1/50 = 2/50, yielding f = 25 cm (0.25 m). The power of the lens is calculated as P = 1/f (in metres), so P = 1/0.25 = +4 D. The positive sign indicates a convex (converging) lens.",
+    "topic": "Lens Formula & Image Formation",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic013"
+  },
+  {
+    "question_text": "Find the power of a concave lens of focal length 2 m.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The power of the concave lens is -0.5 D.",
+    "explanation": "For a concave (diverging) lens, the focal length is taken as negative. Given f = -2 m, the power P is calculated using P = 1/f, therefore P = 1/(-2) = -0.5 D. The negative sign indicates diverging nature of the lens.",
+    "topic": "Lens Power & Sign Convention",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic014"
+  }
+]

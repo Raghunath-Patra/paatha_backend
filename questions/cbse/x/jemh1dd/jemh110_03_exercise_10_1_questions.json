@@ -1,0 +1,59 @@
+[
+  {
+    "question_text": "How many tangents can a circle have?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A circle has infinitely many tangents because at each point on the circle there is exactly one tangent.",
+    "explanation": "A tangent to a circle touches it at exactly one point. Since there are infinitely many points on a circle, each with its unique tangent, a circle can have infinitely many tangents.",
+    "topic": "Tangent to a Circle",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jemh110",
+    "question_id": "cbse_x_jemh1dd_c110_ex001"
+  },
+  {
+    "question_text": "Fill in the blanks:\n(i) A tangent to a circle intersects it in ______ point(s).\n(ii) A line intersecting a circle in two points is called a ______.\n(iii) A circle can have ______ parallel tangents at the most.\n(iv) The common point of a tangent to a circle and the circle is called ______.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) one, (ii) secant, (iii) two, (iv) point of contact",
+    "explanation": "A tangent touches a circle at exactly one point. A line intersecting a circle at two distinct points is known as a secant. As shown in the activity, only two tangents can be drawn parallel to a given secant at most. The point where a tangent touches the circle is called the point of contact.",
+    "topic": "Tangent to a Circle",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jemh110",
+    "question_id": "cbse_x_jemh1dd_c110_ex002"
+  },
+  {
+    "question_text": "A tangent PQ at a point P of a circle of radius 5 cm meets a line through the centre O at a point Q so that OQ = 12 cm. Length PQ is:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "12 cm",
+      "13 cm",
+      "8.5 cm",
+      "√119 cm"
+    ],
+    "correct_answer": "√119 cm",
+    "explanation": "Since PQ is a tangent at P, the radius OP is perpendicular to the tangent by Theorem 10.1. Therefore, triangle OPQ is right-angled at P with OP = 5 cm and OQ = 12 cm. By the Pythagorean theorem, PQ = √(OQ² - OP²) = √(12² - 5²) = √(144 - 25) = √119 cm.",
+    "topic": "Right Triangle Property in Circles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh110",
+    "question_id": "cbse_x_jemh1dd_c110_ex003"
+  },
+  {
+    "question_text": "Draw a circle and two lines parallel to a given line such that one is a tangent and the other, a secant to the circle.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A correct construction will show a circle with one line drawn tangent to it (touching it at exactly one point) and another line, parallel to a given reference line, which intersects the circle at two distinct points (a secant).",
+    "explanation": "Step 1: Draw a circle using a compass. Step 2: Draw a given reference line. Step 3: To construct the tangent, select a point P on the circle and draw the radius OP. Then, at P, construct a line perpendicular to OP; this line is the tangent. Step 4: To construct the secant, draw a line parallel to the given reference line such that it cuts the circle at two distinct points. Label these intersection points to show it is a secant. The construction should clearly differentiate between the tangent (touching at only one point) and the secant (cutting through the circle).",
+    "topic": "Geometrical Constructions Involving Circles",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "jemh110",
+    "question_id": "cbse_x_jemh1dd_c110_ex004"
+  }
+]

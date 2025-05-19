@@ -1,0 +1,290 @@
+[
+  {
+    "question_text": "In the cross between a pea plant with yellow seeds and one with green seeds, which trait is dominant?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Yellow is dominant over green",
+      "Green is dominant over yellow",
+      "Both are co-dominant",
+      "Neither is dominant"
+    ],
+    "correct_answer": "Yellow is dominant over green",
+    "explanation": "Mendel's experiments demonstrated that yellow seed color is dominant over green seed color in pea plants.",
+    "topic": "Inheritance of two genes",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen037"
+  },
+  {
+    "question_text": "Which of the following lists correctly represents the gametes produced by an F1 plant with genotype RrYy?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "RY, rY, Ry, ry",
+      "RR, YY, rr, yy",
+      "RY, RY, ry, ry",
+      "Rr, Yy, RR, yy"
+    ],
+    "correct_answer": "RY, rY, Ry, ry",
+    "explanation": "An F1 plant with genotype RrYy produces four types of gametes, each with a frequency of one quarter: RY, rY, Ry, and ry, due to independent assortment.",
+    "topic": "Inheritance of two genes",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen038"
+  },
+  {
+    "question_text": "What is the expected phenotypic ratio when a dihybrid cross (RrYy self-fertilized) is performed?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "9:3:3:1",
+      "3:1",
+      "1:2:1",
+      "1:1:1:1"
+    ],
+    "correct_answer": "9:3:3:1",
+    "explanation": "The F2 generation from a dihybrid cross typically shows a phenotypic ratio of 9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green.",
+    "topic": "Inheritance of two genes",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen039"
+  },
+  {
+    "question_text": "Which statement best explains the Law of Independent Assortment?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Alleles for different traits segregate independently of one another during gamete formation",
+      "Only one allele from each gene pair is present in the gamete",
+      "Genes located on the same chromosome are always inherited together",
+      "Traits blend together in the offspring"
+    ],
+    "correct_answer": "Alleles for different traits segregate independently of one another during gamete formation",
+    "explanation": "Mendel's Law of Independent Assortment states that the segregation of alleles for one trait is independent of the segregation of alleles for another trait, as observed in dihybrid crosses.",
+    "topic": "Law of Independent Assortment",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen040"
+  },
+  {
+    "question_text": "In Morgan's experiments with Drosophila, which pair of genes showed very low recombination?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "White and yellow",
+      "White and miniature wing",
+      "Brown and red",
+      "Round and green"
+    ],
+    "correct_answer": "White and yellow",
+    "explanation": "Morgan's studies revealed that the genes for white eyes and yellow body in Drosophila were very tightly linked, showing only about 1.3% recombination.",
+    "topic": "Linkage and Recombination",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen041"
+  },
+  {
+    "question_text": "Define Mendel's Law of Independent Assortment in your own words.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Alleles of different genes segregate independently during the formation of gametes.",
+    "explanation": "The answer should note that during gamete formation, the alleles for one trait segregate independently of the alleles for another trait, allowing for genetic variation.",
+    "topic": "Law of Independent Assortment",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen042"
+  },
+  {
+    "question_text": "Write the genotypes of the parental generation in the dihybrid cross described in the text.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "RRYY (round yellow) and rryy (wrinkled green)",
+    "explanation": "The parental genotypes are clearly stated in the text as RRYY for the round, yellow pea plant and rryy for the wrinkled, green pea plant.",
+    "topic": "Inheritance of two genes",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen043"
+  },
+  {
+    "question_text": "Explain in one sentence the significance of chromosome behavior during meiosis in relation to the segregation of genes.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Chromosome behavior during meiosis ensures that genes, which are located on homologous chromosomes, segregate into gametes in an orderly and independent manner.",
+    "explanation": "This emphasizes the connection between the physical separation of chromosomes and Mendel's observed patterns of gene segregation.",
+    "topic": "Chromosomal Theory of Inheritance",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen044"
+  },
+  {
+    "question_text": "Discuss how a Punnett square is used to derive the 9:3:3:1 phenotypic ratio in a dihybrid cross. Include in your answer an explanation of independent assortment.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "A Punnett square for a dihybrid cross of RrYy individuals shows all 16 possible allele combinations. Independent assortment allows each gene's alleles to segregate separately, resulting in four gamete types (RY, Ry, rY, ry) each occurring with equal frequency. When these gametes combine, the resulting offspring exhibit a phenotypic ratio of 9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green.",
+    "explanation": "Your answer should describe how the four types of gametes produced by an F1 plant combine in the Punnett square. The independent segregation of alleles leads to combinations that, when categorized by phenotype, yield the well-known 9:3:3:1 ratio.",
+    "topic": "Inheritance of two genes",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen045"
+  },
+  {
+    "question_text": "Evaluate how Morgan's experiments with Drosophila contributed to the development of the chromosomal theory of inheritance. In your answer, compare his findings with Mendel's earlier work.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Morgan's experiments with Drosophila provided physical evidence linking specific genes to chromosomes by demonstrating that genes could be mapped on chromosomes based on recombination frequencies. Unlike Mendel's work, which was purely based on phenotypic ratios from controlled crosses, Morgan's findings showed that genes located on the same chromosome were linked and did not assort independently. This realignment of genetic observations with the behavior of chromosomes during meiosis validated and extended Mendel's principles, leading to the chromosomal theory of inheritance.",
+    "explanation": "An effective answer will compare Mendel's abstract factors with Morgan's empirical mapping of genes on chromosomes, highlighting how the observation of recombination and linkage in Drosophila confirmed that genes are physically located on chromosomes.",
+    "topic": "Chromosomal Theory of Inheritance",
+    "bloom_level": "Evaluate",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen046"
+  },
+  {
+    "question_text": "True or False: In a dihybrid cross, the segregation of alleles for one gene affects the segregation of alleles for a second gene.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Depends on the trait"
+    ],
+    "correct_answer": "False",
+    "explanation": "According to Mendel's Law of Independent Assortment, the segregation of alleles for one gene is independent of the segregation of alleles for a different gene.",
+    "topic": "Law of Independent Assortment",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen047"
+  },
+  {
+    "question_text": "True or False: The genotype RrYy represents the F1 generation resulting from a cross between a plant with genotype RRYY and a plant with genotype rryy.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False",
+      "Uncertain",
+      "Only under specific conditions"
+    ],
+    "correct_answer": "True",
+    "explanation": "Crossing RRYY with rryy results in F1 hybrids that are heterozygous for both traits, with genotype RrYy.",
+    "topic": "Inheritance of two genes",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen048"
+  },
+  {
+    "question_text": "True or False: Both chromosomes and genes occur in pairs, reflecting the way genetic information is organized in the cell.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False",
+      "Not necessarily",
+      "Only in some organisms"
+    ],
+    "correct_answer": "True",
+    "explanation": "Both chromosomes and genes exist in pairs, which is fundamental to the processes of meiosis and genetic inheritance.",
+    "topic": "Chromosomal Theory of Inheritance",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen049"
+  },
+  {
+    "question_text": "True or False: The 9:3:3:1 ratio applies to both the genotypic and phenotypic ratios in an F2 generation of a dihybrid cross.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False",
+      "Partially true",
+      "Depends on the traits"
+    ],
+    "correct_answer": "False",
+    "explanation": "While the 9:3:3:1 ratio accurately describes the phenotypic distribution, there are actually 16 possible genotype combinations in the F2 generation from a dihybrid cross.",
+    "topic": "Inheritance of two genes",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen050"
+  },
+  {
+    "question_text": "True or False: Gene linkage means that genes on the same chromosome will always be inherited together with no chance for recombination.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False",
+      "Only under certain conditions",
+      "Depends on the organism"
+    ],
+    "correct_answer": "False",
+    "explanation": "While linkage refers to genes being located on the same chromosome, recombination through crossing over can result in non-parental gene combinations, meaning they are not always inherited together.",
+    "topic": "Linkage and Recombination",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen051"
+  },
+  {
+    "question_text": "Calculate the probability that an F2 plant, produced by self-fertilization of an F1 RrYy plant, will have the genotype RrYy.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "25%",
+    "explanation": "In a dihybrid cross, the probability of obtaining a heterozygote (Rr) for one trait is 1/2 and similarly 1/2 for the other trait. Multiplying these probabilities gives (1/2) x (1/2) = 1/4 or 25%.",
+    "topic": "Inheritance of two genes",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen052"
+  },
+  {
+    "question_text": "If two linked genes exhibit a recombination frequency of 1.3%, how many recombinant offspring would you expect out of 1000 total offspring?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 13 offspring",
+    "explanation": "A recombination frequency of 1.3% means that 1.3 out of every 100 gametes are recombinant. Out of 1000 offspring, about 1.3% (which is approximately 13) would be expected to show recombinant phenotypes.",
+    "topic": "Linkage and Recombination",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "lebo104",
+    "section_id": "04_section_4_3",
+    "question_id": "cbse_xii_lebo1dd_c104_gen053"
+  }
+]

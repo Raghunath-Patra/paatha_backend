@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which advantage makes natural gas particularly easy to transport compared to other fossil fuels?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. It can be transported through pipelines with high pressure.",
+      "B. It is easily transported by trucks in liquid form.",
+      "C. It requires no special storage conditions.",
+      "D. It can only be transported as a solid."
+    ],
+    "correct_answer": "A. It can be transported through pipelines with high pressure.",
+    "explanation": "Natural gas is stored under high pressure as Compressed Natural Gas (CNG), which facilitates its transport through pipelines, making it more efficient compared to other fossil fuels.",
+    "topic": "Transport of Natural Gas",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc103",
+    "section_id": "04_section_3_3",
+    "question_id": "cbse_viii_hesc1dd_c103_gen027"
+  }
+]

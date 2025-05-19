@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "In Fig. 6.13, lines AB and CD intersect at O. If ∠AOC + ∠BOE = 70° and ∠BOD = 40°, find ∠BOE and reflex ∠COE.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "∠BOE = 30° and reflex ∠COE = 250°.",
+    "explanation": "Step 1: When two lines intersect, vertical angles are equal. Since lines AB and CD intersect at O, the angle ∠AOC is vertically opposite to ∠BOD. Therefore, ∠AOC = ∠BOD = 40°.\nStep 2: The problem gives ∠AOC + ∠BOE = 70°. Substituting 40° for ∠AOC, we get:\n  40° + ∠BOE = 70° ⇒ ∠BOE = 70° − 40° = 30°.\nStep 3: To find the reflex ∠COE, first determine the smaller angle between rays OC and OE. In the diagram the rays usually occur in order. Observe that line AB and line CD form a pair of straight lines (each giving 180° at O). Using the fact that OB (a ray on line AB) and OC (a ray on line CD) form an angle of 180° − ∠AOC = 180° − 40° = 140° and that ∠BOE = 30° (the angle from OB to OE), the smaller angle between OC and OE is given by:\n  ∠(smaller COE) = 140° − 30° = 110°.\nStep 4: The reflex angle is the larger angle between the same rays, i.e.,\n  reflex ∠COE = 360° − 110° = 250°.\nThus, ∠BOE = 30° and the reflex angle ∠COE = 250°.",
+    "topic": "Intersecting Lines, Vertical Angles, Reflex Angles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex001"
+  },
+  {
+    "question_text": "In Fig. 6.14, lines XY and MN intersect at O. If ∠POY = 90° and a : b = 2 : 3, where a = ∠POM and b = ∠XOM, and c = ∠XON, find c.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "c = 126°.",
+    "explanation": "Step 1: Since ray OP is perpendicular to line XY, and assuming that P, X, and Y are collinear (with XY being the line), the angle between OP and OX is 90°. Note that ∠POM = a and ∠XOM = b lie between OP and OX. Thus:\n  a + b = 90°.\nStep 2: Given the ratio a : b = 2 : 3, let a = 2k and b = 3k. Then:\n  2k + 3k = 90° ⇒ 5k = 90° ⇒ k = 18°.\nThus, a = 36° and b = 54°.\nStep 3: Since points M and N lie on the same line MN, the rays OM and ON form a straight line. Depending on the arrangement, the angle between ray OX (which lies along line XY) and ON is the external angle of the angle between OX and OM. In this configuration, the smaller angle between OX and OM is 54° (i.e., b = 54°). Because OM and ON are opposite directions along line MN, the angle between OX and ON is the supplement of 54°:\n  c = 180° − 54° = 126°.\nThus, the required value of c is 126°.",
+    "topic": "Perpendicularity, Angle Ratios, Linear Pair",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex002"
+  },
+  {
+    "question_text": "In Fig. 6.15, given that ∠PQR = ∠PRQ, prove that ∠PQS = ∠PRT.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "In triangle PQR, since ∠PQR = ∠PRQ, by the exterior angle theorem, the exterior angle at Q (∠PQS) equals the sum of the two interior opposite angles, and similarly the exterior angle at R (∠PRT) equals the same sum. Therefore, ∠PQS = ∠PRT.",
+    "explanation": "Step 1: In triangle PQR, the given condition ∠PQR = ∠PRQ indicates that the triangle is isosceles with PQ = PR.\nStep 2: Consider the exterior angle at vertex Q. By the exterior angle theorem, ∠PQS (formed by extending side PQ) is equal to the sum of the two interior opposite angles, namely, ∠PRQ and ∠RPQ.\nStep 3: Similarly, consider the exterior angle at vertex R. The exterior angle ∠PRT (formed by extending side PR) is equal to the sum of the two interior opposite angles, namely, ∠PQR and ∠RPQ.\nStep 4: Since ∠PQR = ∠PRQ by hypothesis, it follows that:\n  ∠PQS = ∠PRQ + ∠RPQ = ∠PQR + ∠RPQ = ∠PRT.\nThus, ∠PQS equals ∠PRT, as required.",
+    "topic": "Triangle Properties, Exterior Angle Theorem, Isosceles Triangle",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex003"
+  },
+  {
+    "question_text": "In Fig. 6.16, if x + y = w + z, then prove that AOB is a line.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Since the angles around point O add up to 360° and are given as ∠BOC = x, ∠AOC = y, ∠BOD = w, and ∠AOD = z, the condition x + y = w + z implies 2(x + y) = 360°, so x + y = 180°. This shows that the non‐common rays OA and OB form a straight angle, and hence A, O, and B are collinear (i.e. AOB is a line).",
+    "explanation": "Step 1: At point O, the four angles around O (formed by rays OA, OB, OC, and OD) sum to 360°. That is:\n  x + y + z + w = 360°.\nStep 2: The given condition is x + y = w + z. Substitute into the above equation:\n  (x + y) + (x + y) = 360° ⇒ 2(x + y) = 360° ⇒ x + y = 180°.\nStep 3: The sum of the angles ∠BOC (which has measure x) and ∠AOC (which has measure y) is 180°. By the Linear Pair Axiom (or by the definition of collinearity), this means that the non‐common arms corresponding to these angles (rays OA and OB) form a straight line.\nStep 4: Therefore, A, O, and B are collinear, and AOB is a line.\nThus, the condition x + y = w + z leads to the conclusion that AOB is a straight line.",
+    "topic": "Angle Sum, Linear Pair Axiom, Collinearity",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex004"
+  },
+  {
+    "question_text": "In Fig. 6.17, POQ is a line. Ray OR is perpendicular to line PQ. OS is another ray lying between rays OP and OR. Prove that ∠ROS = (1/2)(∠QOS – ∠POS).",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "By assigning measures relative to a fixed line, we can show that if OP lies along one direction and OQ is the opposite (since POQ is a straight line), with OR ⟂ PQ, then ∠POR = 90°. Let ∠POS = θ (with OS between OP and OR). Consequently, the angle between OS and OQ is (180° − (90° + θ)) = 90° − θ, so that ∠QOS = (90° − θ) + 90° = 180° − θ. Then, (∠QOS – ∠POS) = (180° − θ − θ) = 180° − 2θ, and half of this is 90° − θ, which equals ∠ROS (the angle between OR (at 90°) and OS (at θ)). Hence, ∠ROS = 1/2 (∠QOS – ∠POS).",
+    "explanation": "Step 1: Since POQ is a line, the angle ∠POQ = 180°. Ray OR is perpendicular to PQ; assuming OP is along PQ, ∠POR = 90°.\nStep 2: Let the measure of ∠POS = θ, where OS lies between OP and OR. Then, the angle between OR and OS is ∠ROS = 90° − θ.\nStep 3: The ray OS forms with OQ (the ray opposite to OP along line PQ) an angle ∠QOS. Since OP and OQ are opposite rays, the angle between them is 180°. Knowing that ∠POS = θ and ∠POR = 90°, the measure of the smaller angle between OS and OQ is:\n  ∠QOS = 180° − (90° + θ) = 90° − θ + 90° = 180° − θ.\nStep 4: Now, compute ∠QOS − ∠POS:\n  (180° − θ) − θ = 180° − 2θ.\nTaking half of this difference gives:\n  ½(180° − 2θ) = 90° − θ,\nwhich is exactly ∠ROS.\nThus, it has been proven that ∠ROS = ½(∠QOS − ∠POS).",
+    "topic": "Perpendicular Lines, Angle Relationships, Linear Pair",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex005"
+  },
+  {
+    "question_text": "It is given that ∠XYZ = 64° and XY is produced to point P. Draw a figure from the given information. If ray YQ bisects ∠ZYP, find ∠XYQ and reflex ∠QYP.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "∠XYQ = 58° and reflex ∠QYP = 302°.",
+    "explanation": "Step 1: Since XY is produced to P, the points X, Y, and P are collinear. Thus, at point Y, the straight angle ∠ZYP formed by ray YZ and ray YP is the linear pair of ∠XYZ. Therefore:\n  ∠ZYP = 180° − ∠XYZ = 180° − 64° = 116°.\nStep 2: Ray YQ bisects ∠ZYP, so it divides 116° into two equal angles. Hence, each of the two angles is:\n  116° ÷ 2 = 58°.\nStep 3: ∠XYQ is the angle between ray YX (which is collinear with YP) and the bisector YQ. Thus, ∠XYQ = 58°.\nStep 4: The reflex angle ∠QYP is the larger angle between rays YQ and YP. Since the smaller angle between them is 58°, the reflex angle is:\n  360° − 58° = 302°.\nThus, ∠XYQ = 58° and the reflex ∠QYP = 302°.",
+    "topic": "Angle Bisectors, Linear Pair, Reflex Angles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex006"
+  }
+]

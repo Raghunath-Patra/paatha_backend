@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Which wave property determines (a) loudness and (b) pitch?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Amplitude determines loudness and frequency determines pitch.",
+    "explanation": "Loudness, or the perceived volume of a sound, depends on the amplitude of the sound wave. A greater amplitude means a stronger vibration, which produces a louder sound. On the other hand, pitch is determined by the frequency of the sound wave – how many compressions and rarefactions pass a fixed point per unit time. A higher frequency produces a higher pitch. This fundamental relationship between amplitude and loudness, and frequency and pitch, is demonstrated in the activities and diagrams provided in sections 11.1 and 11.2.",
+    "topic": "Sound Wave Properties (Amplitude and Frequency)",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic001"
+  },
+  {
+    "question_text": "Guess which sound has a higher pitch: guitar or car horn?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A guitar produces a higher pitch sound than a car horn.",
+    "explanation": "The pitch of a sound is directly related to its frequency. In most cases, the vibration frequency of guitar strings is higher than that of a car horn. This means that the guitar generates more compressions and rarefactions per second, leading to a higher pitch. This concept was highlighted when discussing how different objects vibrate to produce sound at varying frequencies.",
+    "topic": "Sound Frequency and Pitch",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic002"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Judge the equivalent resistance when the following are connected in parallel – (a) 1 Ω and 10^6 Ω, (b) 1 Ω, 10^3 Ω, and 10^6 Ω.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) For 1 Ω and 10^6 Ω in parallel: 1/Rp = 1/1 + 1/(10^6) ≈ 1 + 0.000001 = 1.000001. So, Rp ≈ 1/1.000001 Ω ≈ 0.999999 Ω (slightly less than 1 Ω).\n(b) For 1 Ω, 10^3 Ω, and 10^6 Ω in parallel: 1/Rp = 1/1 + 1/1000 + 1/(10^6) ≈ 1 + 0.001 + 0.000001 = 1.001001. So, Rp ≈ 1/1.001001 Ω ≈ 0.999 Ω (slightly less than 1 Ω).",
+    "explanation": "In parallel circuits, the total equivalent resistance is determined by the reciprocal of the sum of reciprocals of individual resistances. Since even a very high resistance (such as 10^6 Ω) contributes very little to the sum, the equivalent resistance remains close to the smallest resistance in the network. This principle is a direct consequence of the formula 1/Rp = 1/R1 + 1/R2 + ... .",
+    "topic": "Parallel Circuits and Equivalent Resistance",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic014"
+  },
+  {
+    "question_text": "An electric lamp of 100 Ω, a toaster of resistance 50 Ω, and a water filter of resistance 500 Ω are connected in parallel to a 220 V source. What is the resistance of an electric iron connected to the same source that takes as much current as all three appliances, and what is the current through it?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Calculate the individual currents: I_lamp = 220 V / 100 Ω = 2.2 A, I_toaster = 220 V / 50 Ω = 4.4 A, I_filter = 220 V / 500 Ω = 0.44 A. Total current I_total = 2.2 + 4.4 + 0.44 = 7.04 A. The equivalent resistance for the electric iron to draw the same current is R_iron = 220 V / 7.04 A ≈ 31.25 Ω.",
+    "explanation": "When different resistive appliances are connected in parallel, the voltage across each is the same (220 V in this case). The current through each device is I = V/R. The total current drawn is the sum of these individual currents. An electric iron connected to the same voltage source and drawing the same total current must have an equivalent resistance given by R = V / I_total. This process uses Ohm’s Law and the principle of current division in parallel circuits.",
+    "topic": "Parallel Circuits and Ohm’s Law",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic015"
+  },
+  {
+    "question_text": "What are the advantages of connecting electrical devices in parallel with the battery instead of connecting them in series?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Advantages of connecting devices in parallel include: (1) Each device receives the full battery voltage, ensuring proper functioning; (2) Each device can be operated independently using its own switch; (3) If one device fails (or its circuit breaks), the others continue to work; and (4) The overall circuit resistance is reduced, allowing devices to draw their required current for optimal operation.",
+    "explanation": "In a parallel connection, every device is directly connected across the voltage source, meaning they all receive the same potential difference. This arrangement provides independent control over each device, minimizes the impact of a failure in one branch on the others, and ensures that each device has access to sufficient current. These factors make parallel circuits preferable in many practical electrical systems.",
+    "topic": "Circuit Design and Parallel Connections",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic016"
+  },
+  {
+    "question_text": "How can three resistors of resistances 2 Ω, 3 Ω, and 6 Ω be connected to give a total resistance of (a) 4 Ω, (b) 1 Ω?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) To achieve a total resistance of 4 Ω, connect the 3 Ω and 6 Ω resistors in parallel. Their equivalent resistance is: 1/R_parallel = 1/3 + 1/6 = 1/2, so R_parallel = 2 Ω. Then, connect this parallel combination in series with the 2 Ω resistor: Total resistance = 2 Ω + 2 Ω = 4 Ω.\n(b) To achieve a total resistance of 1 Ω, connect all three resistors (2 Ω, 3 Ω, and 6 Ω) in parallel. Calculation: 1/R_parallel = 1/2 + 1/3 + 1/6 = (3 + 2 + 1)/6 = 6/6 = 1, so R_parallel = 1 Ω.",
+    "explanation": "For part (a), combining two resistors in parallel reduces the net resistance below the smallest individual resistor, and adding another resistor in series (which directly adds to the resistance) provides the desired value. For part (b), placing all three resistors in parallel uses the reciprocal formula to achieve a net resistance that is less than any one of them. This process illustrates the principles of combining resistances in series and parallel using Ohm's law and resistance formulas.",
+    "topic": "Combination of Resistors in Circuits",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic017"
+  },
+  {
+    "question_text": "What is (a) the highest, (b) the lowest total resistance that can be secured by combinations of four coils of resistance 4 Ω, 8 Ω, 12 Ω, and 24 Ω?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) The highest resistance is obtained by connecting all the coils in series: Total resistance = 4 Ω + 8 Ω + 12 Ω + 24 Ω = 48 Ω.\n(b) The lowest resistance is achieved by connecting all the coils in parallel. Calculation: 1/R_parallel = 1/4 + 1/8 + 1/12 + 1/24. Converting to a common denominator: 1/R_parallel = (6 + 3 + 2 + 1)/24 = 12/24 = 1/2, so R_parallel = 2 Ω.",
+    "explanation": "Series connections simply add up the resistances, resulting in the highest possible total resistance. In contrast, parallel connections use the reciprocal formula, which guarantees that the equivalent resistance is lower than the smallest individual resistor. This illustrates the basic principles of resistor combinations in electrical circuits.",
+    "topic": "Series and Parallel Resistances",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic018"
+  }
+]

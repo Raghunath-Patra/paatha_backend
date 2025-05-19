@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "The population of a place increased to 54,000 in 2003 at a rate of 5% per annum. (i) Find the population in 2001. (ii) What would be its population in 2005?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Population in 2001 = 54,000 / (1.05)^2 = 49,000 (approx); Population in 2005 = 54,000 × (1.05)^2 = 59,535 (approx)",
+    "explanation": "Step 1: Let the population in 2001 be P. From 2001 to 2003 there are 2 years, so the population in 2003 is given by P × (1.05)^2. We have: P × (1.05)^2 = 54,000. Therefore, P = 54,000 / (1.05)^2 = 54,000 / 1.1025 ≈ 49,000.\n\nStep 2: To find the population in 2005, note that from 2003 to 2005 there are 2 years. Thus, population in 2005 = 54,000 × (1.05)^2 = 54,000 × 1.1025 ≈ 59,535.\n\nKey Concepts: Compound growth applied to population, reversing and projecting compound changes.",
+    "topic": "Compound Interest / Population Growth",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh107",
+    "question_id": "cbse_viii_hemh1dd_c107_ex012"
+  },
+  {
+    "question_text": "In a Laboratory, the count of bacteria in a certain experiment was increasing at the rate of 2.5% per hour. Find the bacteria count at the end of 2 hours if the count was initially 5,06,000.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Final bacteria count = 5,06,000 × (1.025)^2 ≈ 5,31,616 (rounded to the nearest whole number)",
+    "explanation": "Step 1: The bacteria count grows by 2.5% each hour. This means after each hour the count is multiplied by 1.025.\n\nStep 2: After 2 hours, the count will be: Initial Count × (1.025)^2 = 5,06,000 × 1.050625 ≈ 5,31,616.\n\nCalculation details: 5,06,000 × 1.050625 ≈ 5,06,000 + (5,06,000 × 0.050625) ≈ 5,06,000 + 25,616.25 ≈ 5,31,616.25, which when rounded gives approximately 5,31,616.\n\nKey Concepts: Compound growth factor applied on successive time periods.",
+    "topic": "Compound Interest / Exponential Growth",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh107",
+    "question_id": "cbse_viii_hemh1dd_c107_ex013"
+  },
+  {
+    "question_text": "A scooter was bought at ₹42,000. Its value depreciated at the rate of 8% per annum. Find its value after one year.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Value after one year = ₹42,000 × (1 - 0.08) = ₹42,000 × 0.92 = ₹38,640",
+    "explanation": "Step 1: Depreciation means a reduction in value by a given percentage each year. Here, the scooter depreciates by 8% each year.\n\nStep 2: The value after one year is found by reducing the initial cost by 8%: Value = 42,000 - (8% of 42,000) = 42,000 - (0.08 × 42,000) = 42,000 × 0.92 = ₹38,640.\n\nKey Concepts: Depreciation, percentage decrease, and compound reduction (for single period, same as simple percentage decrease).",
+    "topic": "Depreciation / Compound Decrease",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh107",
+    "question_id": "cbse_viii_hemh1dd_c107_ex014"
+  }
+]

@@ -1,0 +1,165 @@
+```json
+[
+  {
+    "question_text": "A solution turns red litmus blue, its pH is likely to be:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": ["1", "4", "5", "10"],
+    "correct_answer": "10",
+    "explanation": "Red litmus paper turns blue in the presence of a base. Among the given options, a pH of 10 indicates a basic solution, which would cause red litmus to turn blue. The other options (1, 4, 5) represent acidic pH values where red litmus would remain red.",
+    "topic": "pH and Indicators",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "A solution reacts with crushed egg-shells to give a gas that turns lime-water milky. The solution contains:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": ["NaCl", "HCl", "LiCl", "KCl"],
+    "correct_answer": "HCl",
+    "explanation": "Crushed egg-shells are primarily calcium carbonate (CaCO₃). When reacted with hydrochloric acid (HCl), carbon dioxide gas (CO₂) is produced, which turns lime-water milky due to the formation of calcium carbonate. The reactions are as follows:\n\nCaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑\n\nThe other salts (NaCl, LiCl, KCl) do not react with calcium carbonate to produce CO₂.",
+    "topic": "Reactions of Acids with Carbonates",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "10 mL of a solution of NaOH is found to be completely neutralised by 8 mL of a given solution of HCl. If we take 20 mL of the same solution of NaOH, the amount of HCl solution (the same solution as before) required to neutralise it will be:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": ["4 mL", "8 mL", "12 mL", "16 mL"],
+    "correct_answer": "16 mL",
+    "explanation": "The neutralisation reaction between NaOH and HCl is: NaOH + HCl → NaCl + H₂O.\n\nFrom the first part of the question:\n10 mL NaOH is neutralised by 8 mL HCl.\nTherefore, the ratio of NaOH to HCl is 10:8 or 5:4.\n\nFor 20 mL of NaOH:\n(20 mL NaOH) × (4 mL HCl / 5 mL NaOH) = 16 mL HCl.",
+    "topic": "Neutralisation and Stoichiometry",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Which one of the following types of medicines is used for treating indigestion?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": ["Antibiotic", "Analgesic", "Antacid", "Antiseptic"],
+    "correct_answer": "Antacid",
+    "explanation": "Antacids are medicines used to neutralise excess stomach acid, thereby treating indigestion. Antibiotics treat bacterial infections, analgesics relieve pain, and antiseptics prevent infection.",
+    "topic": "Acidity and Remedies",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Write word equations and then balanced equations for the reaction taking place when:\n(a) dilute sulphuric acid reacts with zinc granules.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Word Equation:\nDilute sulphuric acid + zinc granules → zinc sulphate + hydrogen gas.\n\nBalanced Chemical Equation:\nH₂SO₄(aq) + Zn(s) → ZnSO₄(aq) + H₂(g)",
+    "explanation": "When dilute sulphuric acid reacts with zinc granules, hydrogen gas is evolved, and zinc sulphate is formed as a salt. The unbalanced equation is:\nH₂SO₄ + Zn → ZnSO₄ + H₂.\nBalancing by ensuring the number of atoms for each element is equal on both sides gives:\nH₂SO₄(aq) + Zn(s) → ZnSO₄(aq) + H₂(g).",
+    "topic": "Reactions of Acids with Metals",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Compounds such as alcohols and glucose also contain hydrogen but are not categorised as acids. Describe an activity to prove it.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Activity to Demonstrate Non-Acidic Nature of Alcohols and Glucose:\n\n1. Prepare solutions of alcohol (e.g., ethanol) and glucose in water.\n2. Set up a simple electrical conductivity test using a bulb, battery, and two electrodes connected to the solutions.\n3. Observe whether the bulb glows when current is passed through each solution.\n\nObservation:\n- The bulb will not glow for alcohol and glucose solutions, indicating that these solutions do not conduct electricity.\n- Acids like HCl when tested under the same conditions will make the bulb glow, showing they conduct electricity due to the presence of ions.\n\nConclusion:\nDespite containing hydrogen, alcohols and glucose do not ionise in water to produce H⁺ ions, and hence, do not exhibit acidic properties.",
+    "explanation": "As described in Activity 2.8, acids conduct electricity in aqueous solutions due to the presence of ions, whereas compounds like alcohols and glucose do not ionise to produce H⁺ ions and thus do not conduct electricity. This demonstrates that not all hydrogen-containing compounds are acidic.",
+    "topic": "Electrical Conductivity of Solutions",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Why does distilled water not conduct electricity, whereas rain water does?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Distilled water does not conduct electricity because it lacks free ions, making it a poor conductor. Rain water contains dissolved ions such as carbonates, nitrates, and other impurities from the atmosphere, which allow it to conduct electricity.",
+    "explanation": "Electrical conductivity in water depends on the presence of free ions. Distilled water is pure H₂O with negligible ion concentration, hence it doesn't conduct electricity effectively. Rain water, however, picks up ions from atmospheric gases and particles, providing the necessary charge carriers for electrical conductivity.",
+    "topic": "Properties of Water Solutions",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Why do acids not show acidic behaviour in the absence of water?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Acids do not show acidic behaviour in the absence of water because they rely on water molecules to ionise and release hydrogen ions (H⁺). Without water, the dissociation of acids into ions cannot occur, preventing the manifestation of acidic properties.",
+    "explanation": "In the absence of water, acids cannot dissociate into H⁺ and anions. Water acts as a solvent that stabilises the hydrogen ions as hydronium ions (H₃O⁺), which are responsible for the acidic behaviour. Without this solvation, the H⁺ ions cannot exist freely, and thus the acid does not exhibit its characteristic properties.",
+    "topic": "Ionisation of Acids",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Five solutions A, B, C, D, and E when tested with a universal indicator showed pH as 4, 1, 11, 7, and 9, respectively. Which solution is:\n(a) neutral?\n(b) strongly alkaline?\n(c) strongly acidic?\n(d) weakly acidic?\n(e) weakly alkaline?\nArrange the pH in increasing order of hydrogen-ion concentration.",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": {
+      "a": "Solution D",
+      "b": "Solution C",
+      "c": "Solution B",
+      "d": "Solution A",
+      "e": "Solution E",
+      "arranged_order": "Solution B (pH 1) < Solution A (pH 4) < Solution D (pH 7) < Solution E (pH 9) < Solution C (pH 11)"
+    },
+    "explanation": "a) Neutral solution has a pH of 7: Solution D.\n\nb) Strongly alkaline solutions have high pH values (>10): Solution C (pH 11).\n\nc) Strongly acidic solutions have low pH values (<3): Solution B (pH 1).\n\nd) Weakly acidic solutions have pH slightly below 7: Solution A (pH 4).\n\ne) Weakly alkaline solutions have pH slightly above 7: Solution E (pH 9).\n\nIncreasing order of hydrogen-ion concentration corresponds to decreasing pH values:\nSolution B (pH 1) > Solution A (pH 4) > Solution D (pH 7) > Solution E (pH 9) > Solution C (pH 11).",
+      "topic": "pH and Indicator Interpretation",
+      "bloom_level": "Analyze"
+    }
+  },
+  {
+    "question_text": "Equal lengths of magnesium ribbons are taken in test tubes A and B. Hydrochloric acid (HCl) is added to test tube A, while acetic acid (CH₃COOH) is added to test tube B. The amount and concentration taken for both the acids are the same. In which test tube will the fizzing occur more vigorously and why?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Fizzing will occur more vigorously in test tube A with hydrochloric acid (HCl) because HCl is a strong acid that completely dissociates in water, producing more hydrogen ions (H⁺) compared to acetic acid (CH₃COOH), a weak acid that partially dissociates. This leads to a faster reaction and more rapid evolution of hydrogen gas in test tube A.",
+    "explanation": "Hydrochloric acid is a strong acid and fully ionises in solution, providing more H⁺ ions for the reaction with magnesium. Acetic acid is a weak acid and only partially ionises, resulting in fewer H⁺ ions available for the reaction. Therefore, the reaction in test tube A is more vigorous, producing more hydrogen gas quickly.",
+    "topic": "Strength of Acids and Reaction Rates",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Fresh milk has a pH of 6. How do you think the pH will change as it turns into curd? Explain your answer.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "As fresh milk turns into curd, the pH decreases below 6, making it more acidic. This is because lactic acid bacteria ferment lactose (milk sugar) into lactic acid, increasing the concentration of H⁺ ions and thereby lowering the pH.",
+    "explanation": "During the conversion of milk to curd, lactic acid bacteria metabolise lactose to produce lactic acid, which increases the acidity of the milk. This results in a drop in pH from 6 to a lower value, making the curd more acidic than the fresh milk.",
+    "topic": "pH Changes in Biological Processes",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "A milkman adds a very small amount of baking soda to fresh milk.\n(a) Why does he shift the pH of the fresh milk from 6 to slightly alkaline?\n(b) Why does this milk take a long time to set as curd?",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": {
+      "a": "Baking soda (sodium bicarbonate, NaHCO₃) is a mild base. Adding it to fresh milk neutralises some of the acidity, shifting the pH from 6 to a slightly alkaline value.",
+      "b": "The slight alkalinity caused by baking soda reduces the rate of lactic acid production by inhibiting the activity of lactic acid bacteria. This slows down the fermentation process, causing the milk to take longer to set as curd."
+    },
+    "explanation": "a) Baking soda is a basic compound that reacts with the acidic components in milk, neutralising them and thereby increasing the pH to make the milk slightly alkaline.\n\nb) The increased pH inhibits the growth and metabolic activity of lactic acid bacteria, which are responsible for converting lactose into lactic acid. Reduced production of lactic acid slows the coagulation of milk proteins, delaying the formation of curd.",
+    "topic": "Effect of pH on Fermentation",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Plaster of Paris should be stored in a moisture-proof container. Explain why?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Plaster of Paris should be stored in a moisture-proof container because it reacts with moisture (water) in the air to form gypsum (CaSO₄·2H₂O), which hardens and loses its powdery consistency. Exposure to moisture prematurely triggers this reaction, rendering the plaster unusable for its intended purposes.",
+    "explanation": "Plaster of Paris (calcium sulphate hemihydrate) reacts exothermically with water to form calcium sulphate dihydrate (gypsum). If it absorbs moisture from the air, it begins to set and harden, making it ineffective for applications that require mixing with water to form casts or molds. Hence, keeping it dry preserves its reactivity and usability.",
+    "topic": "Chemical Properties of Compounds",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "What is a neutralisation reaction? Give two examples.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A neutralisation reaction is a chemical reaction between an acid and a base, resulting in the formation of a salt and water. \n\nExamples:\n1. Hydrochloric acid + Sodium hydroxide → Sodium chloride + Water\n   HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)\n\n2. Sulphuric acid + Potassium hydroxide → Potassium sulphate + Water\n   H₂SO₄(aq) + 2KOH(aq) → K₂SO₄(aq) + 2H₂O(l)",
+    "explanation": "Neutralisation reactions involve the combination of hydrogen ions (H⁺) from an acid and hydroxide ions (OH⁻) from a base to form water. Additionally, the remaining ions form a salt. The provided examples illustrate typical acid-base neutralisation resulting in the formation of salt and water.",
+    "topic": "Neutralisation Reactions",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Give two important uses of washing soda and baking soda.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Uses of Washing Soda (Sodium Carbonate, Na₂CO₃):\n1. It is used as a cleaning agent in laundering to soften water and remove grease and stains.\n2. Washing soda is also used in manufacturing glass, paper, and detergents.\n\nUses of Baking Soda (Sodium Bicarbonate, NaHCO₃):\n1. It is used as an antacid to neutralise excess stomach acid, providing relief from indigestion.\n2. Baking soda is employed as a leavening agent in baking to help dough rise by producing carbon dioxide gas.",
+    "explanation": "Washing soda and baking soda are both sodium salts with different properties and uses. Washing soda's higher alkalinity makes it effective for heavy-duty cleaning, while baking soda's mild basicity and safe ingestion make it suitable for medical and culinary applications.",
+    "topic": "Uses of Common Bases",
+    "bloom_level": "Remember"
+  }
+]
+```

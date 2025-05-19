@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Why should curd and sour substances not be kept in brass and copper vessels?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Curd and sour substances contain acids that react with copper and brass (an alloy of copper and zinc) to form potentially toxic salts, which can spoil the food and damage the vessel.",
+    "explanation": "Acidic substances, such as those found in curd and other sour items, react chemically with metals like copper and the zinc present in brass. This reaction produces metallic salts that may be harmful when ingested and also deteriorate the vessels over time. Preventing such interactions is important to avoid contamination of food and to maintain the integrity of the container.",
+    "topic": "Acid-Metal Reactions",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic001"
+  },
+  {
+    "question_text": "Which gas is usually liberated when an acid reacts with a metal? Illustrate with an example. How will you test for the presence of this gas?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Hydrogen gas (H₂) is liberated when an acid reacts with a metal. For example, zinc reacts with hydrochloric acid as follows: Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g). The presence of hydrogen gas is commonly tested by bringing a burning splinter or candle near the gas, which ignites with a characteristic 'pop' sound.",
+    "explanation": "The reaction between metals and acids typically follows the pattern: Acid + Metal → Salt + Hydrogen gas. In the provided example, zinc reacts with HCl to form zinc chloride and hydrogen. The 'pop' test is a standard laboratory method to confirm the presence of hydrogen gas, as hydrogen combusts rapidly and produces a distinct sound upon ignition.",
+    "topic": "Reaction of Acids with Metals",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic002"
+  },
+  {
+    "question_text": "Metal compound A reacts with dilute hydrochloric acid to produce effervescence. The gas evolved extinguishes a burning candle. Write a balanced chemical equation for the reaction if one of the compounds formed is calcium chloride.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The reaction involves calcium carbonate reacting with hydrochloric acid. The balanced equation is: CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g).",
+    "explanation": "Effervescence indicates the evolution of a gas—in this case, carbon dioxide (CO₂). The extinguishing of a burning candle further confirms that the gas is not flammable (as CO₂ is known to smother flames). Since calcium chloride (CaCl₂) is formed, the reacting metal carbonate must be calcium carbonate (CaCO₃). The provided equation shows the complete and balanced chemical reaction, illustrating the typical acid-carbonate reaction.",
+    "topic": "Acid-Carbonate Reactions",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic003"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "The mean and variance of eight observations are 9 and 9.25, respectively. If six of the observations are 6, 7, 10, 12, 12 and 13, find the remaining two observations.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The remaining two observations are 4 and 8.",
+    "explanation": "Step 1: Calculate the total sum of all eight observations using the mean: Total = 8 × 9 = 72.\nStep 2: Sum the six given observations: 6 + 7 + 10 + 12 + 12 + 13 = 60.\nStep 3: Therefore, the sum of the remaining two observations must be 72 − 60 = 12, i.e., if the missing values are x and y then x + y = 12.\nStep 4: For the variance (σ² = 9.25), the total sum of squared deviations from the mean is 8 × 9.25 = 74. With mean μ = 9, calculate squared deviations for the given six observations:\n (6−9)² = 9, (7−9)² = 4, (10−9)² = 1, (12−9)² = 9, (12−9)² = 9, (13−9)² = 16; Sum = 9 + 4 + 1 + 9 + 9 + 16 = 48.\nStep 5: Thus, the sum of squared deviations for the remaining two observations is 74 − 48 = 26. That is, (x − 9)² + (y − 9)² = 26.\nStep 6: Since x + y = 12, set y = 12 − x. Substitute into the squared deviations:\n (x − 9)² + ((12 − x) − 9)² = (x − 9)² + (3 − x)² = 26.\nStep 7: Expanding gives: (x² − 18x + 81) + (x² − 6x + 9) = 2x² − 24x + 90 = 26.\nStep 8: Simplify: 2x² − 24x + 64 = 0 ⇒ x² − 12x + 32 = 0.\nStep 9: Factor or use the quadratic formula: (x − 4)(x − 8) = 0, so x = 4 or x = 8. Therefore, the missing observations are 4 and 8.",
+    "topic": "Mean, Variance and Standard Deviation (Measures of Dispersion)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh113",
+    "question_id": "cbse_xi_kemh1dd_c113_ex011"
+  },
+  {
+    "question_text": "The mean and variance of 7 observations are 8 and 16, respectively. If five of the observations are 2, 4, 10, 12, 14, find the remaining two observations.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The remaining two observations are 6 and 8.",
+    "explanation": "Step 1: Compute the total sum of all 7 observations: Total = 7 × 8 = 56.\nStep 2: Sum the given five observations: 2 + 4 + 10 + 12 + 14 = 42.\nStep 3: Thus, the sum of the two missing observations is 56 − 42 = 14, i.e., if the missing values are x and y then x + y = 14.\nStep 4: For the variance σ² = 16, the total sum of squared deviations from the mean is 7 × 16 = 112. With mean μ = 8, calculate squared deviations for the five known observations:\n (2−8)² = 36, (4−8)² = 16, (10−8)² = 4, (12−8)² = 16, (14−8)² = 36; Sum = 36 + 16 + 4 + 16 + 36 = 108.\nStep 5: Therefore, for the remaining two observations, (x − 8)² + (y − 8)² = 112 − 108 = 4.\nStep 6: With x + y = 14 and setting y = 14 − x, substitute into the equation:\n (x − 8)² + ((14 − x) − 8)² = (x − 8)² + (6 − x)² = 4.\nStep 7: Expand: (x² − 16x + 64) + (x² − 12x + 36) = 2x² − 28x + 100 = 4.\nStep 8: Simplify: 2x² − 28x + 96 = 0 ⇒ x² − 14x + 48 = 0.\nStep 9: Solve: Discriminant = 196 − 192 = 4, so x = (14 ± 2) / 2 = 8 or 6. Hence, the missing numbers are 6 and 8.",
+    "topic": "Mean, Variance and Standard Deviation (Measures of Dispersion)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh113",
+    "question_id": "cbse_xi_kemh1dd_c113_ex012"
+  },
+  {
+    "question_text": "The mean and standard deviation of six observations are 8 and 4, respectively. If each observation is multiplied by 3, find the new mean and new standard deviation of the resulting observations.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The new mean is 24 and the new standard deviation is 12.",
+    "explanation": "When every observation is multiplied by a constant, the mean and standard deviation are also multiplied by that constant.\n• Original mean = 8 → New mean = 3 × 8 = 24.\n• Original standard deviation = 4 → New standard deviation = 3 × 4 = 12.",
+    "topic": "Data Transformation (Effects on Mean and Standard Deviation)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh113",
+    "question_id": "cbse_xi_kemh1dd_c113_ex013"
+  },
+  {
+    "question_text": "Given that x̄ is the mean and σ² is the variance of n observations x₁, x₂, …, xₙ, prove that the mean and variance of the observations ax₁, ax₂, …, axₙ are a·x̄ and a²·σ², respectively (a ≠ 0).",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Proof: \n1. New mean: (1/n)Σ(axᵢ) = a(1/n)Σxᵢ = a·x̄. \n2. New variance: (1/n)Σ[(axᵢ − a·x̄)²] = (1/n)Σ[a²(xᵢ − x̄)²] = a²(1/n)Σ(xᵢ − x̄)² = a²·σ².",
+    "explanation": "Step 1 (Mean):\n• Write the new set as: ax₁, ax₂, …, axₙ.\n• The mean is: x̄₍new₎ = (ax₁ + ax₂ + … + axₙ) / n = a(x₁ + x₂ + … + xₙ) / n = a·x̄.\n\nStep 2 (Variance):\n• The variance is given by: σ²₍new₎ = (1/n) Σ(axᵢ − a·x̄)².\n• Factor out a from each term: = (1/n) Σ[a²(xᵢ − x̄)²] = a²(1/n) Σ(xᵢ − x̄)² = a²·σ².\nThus, the proof is complete.",
+    "topic": "Effects of Scaling on Mean and Variance",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh113",
+    "question_id": "cbse_xi_kemh1dd_c113_ex014"
+  },
+  {
+    "question_text": "The mean and standard deviation of 20 observations are found to be 10 and 2, respectively. On rechecking, it was found that an observation 8 was incorrect. Calculate the correct mean and standard deviation in each of the following cases: (i) If the wrong item is omitted. (ii) If it is replaced by 12.",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Case (i) – When the wrong observation is omitted: Correct mean = 192/19 ≈ 10.11 and standard deviation remains 2.  Case (ii) – When 8 is replaced by 12: Correct mean = 204/20 = 10.2 and corrected standard deviation ≈ 1.99.",
+    "explanation": "Let the original total sum = 20 × 10 = 200 and the sum of squares corresponding to variance be obtained by Sₓ² = 20 × (variance + (mean)²) = 20 × (4 + 100) = 2080.\n\nCase (i): Omit the wrong observation 8.\n• New total sum = 200 − 8 = 192 with 19 observations, so new mean = 192/19 ≈ 10.11.\n• The squared deviation of the removed item (with respect to the original mean) is (8 − 10)² = 4. Removing its effect, the new sum of squared deviations becomes 80 − 4 = 76 (since original total of squared deviations was 20×4 = 80). New variance = 76/19 = 4 and new standard deviation = √4 = 2.\n\nCase (ii): Replace 8 with 12.\n• New total sum = 200 − 8 + 12 = 204; new mean = 204/20 = 10.2.\n• New total sum of squares = 2080 − (8²) + (12²) = 2080 − 64 + 144 = 2160.\n• New variance = (2160/20) − (10.2)² = 108 − 104.04 = 3.96, hence new standard deviation = √3.96 ≈ 1.99.",
+    "topic": "Mean and Standard Deviation Adjustments (Data Correction)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh113",
+    "question_id": "cbse_xi_kemh1dd_c113_ex015"
+  },
+  {
+    "question_text": "The mean and standard deviation of a group of 100 observations were found to be 20 and 3, respectively. Later on it was found that three observations were incorrect, which were recorded as 21, 21 and 18. Find the mean and standard deviation if the incorrect observations are omitted.",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "After omitting the three incorrect observations, the new mean is 20 and the new standard deviation is approximately 3.01.",
+    "explanation": "Step 1: Calculate the original total sum: 100 × 20 = 2000.\nStep 2: Subtract the sum of the three incorrect observations: 21 + 21 + 18 = 60. New total sum = 2000 − 60 = 1940.\nStep 3: The number of remaining observations = 97, so the new mean = 1940/97 = 20.\nStep 4: Calculate the original total sum of squares using the relation: Σx² = n(variance + (mean)²) = 100 × (9 + 400) = 40900.\nStep 5: Subtract the squares of the incorrect observations: 21² + 21² + 18² = 441 + 441 + 324 = 1206. New sum of squares = 40900 − 1206 = 39694.\nStep 6: New variance = (39694/97) − (20)² ≈ 409.08 − 400 = 9.08, with new standard deviation = √9.08 ≈ 3.01.",
+    "topic": "Data Correction and Its Impact on Statistical Measures",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh113",
+    "question_id": "cbse_xi_kemh1dd_c113_ex016"
+  }
+]

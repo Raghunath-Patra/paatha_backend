@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "When will you say a body is in (i) uniform acceleration? (ii) non-uniform acceleration?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Uniform acceleration occurs when an object's velocity increases or decreases by equal amounts in equal time intervals while moving in a straight line. Non-uniform acceleration occurs when the velocity changes by unequal amounts in equal intervals of time.",
+    "explanation": "In uniform acceleration, the change in velocity per unit time remains constant. This is typically observed when an object in motion moves with a constant increase or decrease in speed, such as a freely falling body (ignoring air resistance) near the Earth’s surface. In contrast, non-uniform acceleration is observed when the rate of change of velocity varies over time, often due to changes in factors like friction, varying applied forces, or changing road conditions.",
+    "topic": "Acceleration and Motion",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic011"
+  },
+  {
+    "question_text": "A bus decreases its speed from 80 km h⁻¹ to 60 km h⁻¹ in 5 s. Find the acceleration of the bus.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The acceleration of the bus is approximately -1.11 m s⁻².",
+    "explanation": "First, convert the speeds from km/h to m/s: 80 km/h = 80*(5/18) ≈ 22.22 m/s and 60 km/h = 60*(5/18) ≈ 16.67 m/s. The acceleration is calculated using the formula a = (v - u) / t, where u is the initial speed and v is the final speed. Substituting the values, we get a = (16.67 m/s - 22.22 m/s) / 5 s = -5.55 m/s / 5 s = -1.11 m/s². The negative sign indicates a reduction (deceleration) in speed.",
+    "topic": "Acceleration / Rate of Change of Velocity",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic012"
+  },
+  {
+    "question_text": "A train starting from a railway station and moving with uniform acceleration attains a speed of 40 km h⁻¹ in 10 minutes. Find its acceleration.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The acceleration of the train is approximately 0.0185 m s⁻² (or 1/54 m s⁻²).",
+    "explanation": "Begin by noting that the initial speed (u) is 0 m/s since the train starts from rest. Convert the final speed from km/h to m/s: 40 km/h = 40*(5/18) ≈ 11.11 m/s. Convert time from minutes to seconds: 10 minutes = 600 seconds. Using the formula a = (v - u) / t, we get a = (11.11 m/s - 0 m/s) / 600 s ≈ 0.0185 m/s². This small acceleration value reflects the gradual increase in speed over a relatively long time period.",
+    "topic": "Uniform Acceleration",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic013"
+  }
+]

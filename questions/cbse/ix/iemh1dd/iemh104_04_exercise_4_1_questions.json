@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "The cost of a notebook is twice the cost of a pen. Write a linear equation in two variables to represent this statement. (Take the cost of a notebook to be ₹x and that of a pen to be ₹y).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "x - 2y = 0 (or equivalently, x = 2y)",
+    "explanation": "Let the cost of the notebook be represented by x and the cost of the pen by y. The statement 'the cost of a notebook is twice the cost of a pen' can be translated into the equation x = 2y. Rearranging this equation to the standard form ax + by + c = 0 gives x - 2y = 0, where a = 1, b = -2, and c = 0.",
+    "topic": "Linear Equations in Two Variables",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh104",
+    "question_id": "cbse_ix_iemh1dd_c104_ex001"
+  },
+  {
+    "question_text": "Express the following linear equations in the form ax + by + c = 0 and indicate the values of a, b and c in each case:\n(i) 2x + 3y = 9.3̅5̅\n(ii) x – y/5 – 10 = 0\n(iii) –2x + 3y = 6\n(iv) x = 3y\n(v) 2x = –5y\n(vi) 3x + 2 = 0\n(vii) y – 2 = 0\n(viii) 5 = 2x",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Solutions for each part:\n(i) 2x + 3y - 9.3̅5̅ = 0, where a = 2, b = 3, c = -9.3̅5̅\n(ii) x - (1/5)y - 10 = 0, where a = 1, b = -1/5, c = -10\n(iii) -2x + 3y - 6 = 0, where a = -2, b = 3, c = -6\n(iv) x - 3y = 0, where a = 1, b = -3, c = 0\n(v) 2x + 5y = 0, where a = 2, b = 5, c = 0\n(vi) 3x + 0y + 2 = 0, where a = 3, b = 0, c = 2\n(vii) 0x + y - 2 = 0, where a = 0, b = 1, c = -2\n(viii) -2x + 5 = 0, where a = -2, b = 0, c = 5",
+    "explanation": "For each given equation, the goal is to rewrite it in the standard form ax + by + c = 0 by moving all terms to one side of the equation:\n\n(i) Starting with 2x + 3y = 9.3̅5̅, subtract 9.3̅5̅ from both sides to obtain 2x + 3y - 9.3̅5̅ = 0.\n\n(ii) The equation x – y/5 – 10 = 0 is already arranged in the required form with a = 1, b = -1/5, and c = -10.\n\n(iii) For -2x + 3y = 6, subtract 6 from both sides to get -2x + 3y - 6 = 0.\n\n(iv) For x = 3y, subtract 3y from both sides to obtain x - 3y = 0.\n\n(v) For 2x = -5y, add 5y to both sides to write 2x + 5y = 0.\n\n(vi) The equation 3x + 2 = 0 can be seen as 3x + 0y + 2 = 0.\n\n(vii) The equation y - 2 = 0 is rewritten as 0x + y - 2 = 0.\n\n(viii) For 5 = 2x, subtract 2x from both sides to yield -2x + 5 = 0.\n\nEach rearrangement follows the basic principle that adding or subtracting the same quantity on both sides of an equation does not change its solutions.",
+    "topic": "Form Conversion of Linear Equations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh104",
+    "question_id": "cbse_ix_iemh1dd_c104_ex002"
+  }
+]

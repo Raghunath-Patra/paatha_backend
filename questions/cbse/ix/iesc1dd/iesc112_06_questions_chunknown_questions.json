@@ -1,0 +1,59 @@
+[
+  {
+    "question_text": "Compare the use of manure and fertilizers in maintaining soil fertility.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Manures add organic matter to the soil, thereby improving its structure and water retention, and provide nutrients slowly over time while being environmentally friendly. In contrast, chemical fertilizers supply specific nutrients like nitrogen (N), phosphorus (P), and potassium (K) rapidly in a concentrated form but do not improve the soil structure; overuse can lead to pollution and harm soil microbes. Thus, manures are better for long-term fertility improvement while fertilizers offer quick yield boosts.",
+    "explanation": "Manures improve soil physical properties by enhancing porosity and moisture retention, which also supports beneficial microbial activity. Chemical fertilizers are designed to supply a precise, immediate nutrient load but may lead to nutrient runoff and soil degradation when misused. This comparison reflects an understanding of organic versus inorganic nutrient management in sustainable agriculture.",
+    "topic": "Soil Fertility and Nutrient Management",
+    "bloom_level": "Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic006"
+  },
+  {
+    "question_text": "Which of the following conditions will give the most benefits? Why?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "A) Farmers use high-quality seeds, but do not adopt irrigation or use fertilizers.",
+      "B) Farmers use ordinary seeds, adopt irrigation and use fertilizers.",
+      "C) Farmers use quality seeds, adopt irrigation, use fertilizers, and apply crop protection measures.",
+      "D) Farmers use traditional seeds with minimal use of any modern agricultural inputs."
+    ],
+    "correct_answer": "C",
+    "explanation": "Option C is the best because high-quality seeds have the potential to produce higher yields; however, they require adequate water (provided by irrigation), sufficient nutrients (from fertilizers), and protection from pests (through crop protection measures) to realize that potential. Integrating these practices helps maximize productivity and ensures a sustainable increase in crop yields.",
+    "topic": "Crop Yield Improvement and Integrated Agricultural Practices",
+    "bloom_level": "Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic007"
+  },
+  {
+    "question_text": "Why should preventive measures and biological control methods be preferred for protecting crops?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Preventive measures and biological control methods are preferred because they are more sustainable and environmentally friendly than chemical pesticides, reducing harm to beneficial organisms, lowering the risk of environmental pollution, and preventing the development of pest resistance.",
+    "explanation": "Preventive strategies such as using resistant crop varieties, crop rotation, and ensuring clean field conditions help minimize the chances of pest infestations. Biological control, which involves using natural predators or parasites of pests, maintains ecological balance and reduces reliance on chemicals that might otherwise disrupt soil and water quality. These practices are cornerstones of integrated pest management (IPM) and offer long-term benefits in sustainable agriculture.",
+    "topic": "Integrated Pest Management and Biological Control",
+    "bloom_level": "Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic008"
+  },
+  {
+    "question_text": "What factors may be responsible for losses of grains during storage?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Grain losses during storage are primarily due to biotic factors such as insects, rodents, fungi, mites, and bacteria, as well as abiotic factors like improper moisture levels and unsuitable storage temperatures.",
+    "explanation": "Biotic factors refer to living organisms that cause deterioration by feeding on or spoiling stored grains, leading to weight loss, reduced quality, and poor germinability. Abiotic factors such as high humidity or fluctuating temperatures create conditions that promote fungal growth or spoilage. Proper pre-storage treatment—including thorough cleaning, drying of produce, and fumigation—helps mitigate these losses.",
+    "topic": "Post-Harvest Management and Storage Losses",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic009"
+  }
+]

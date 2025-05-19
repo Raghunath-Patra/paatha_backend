@@ -1,0 +1,51 @@
+[
+  {
+    "question_text": "Which of the following property of a proton can change while it moves freely in a magnetic field?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Mass",
+      "Speed",
+      "Velocity",
+      "Momentum"
+    ],
+    "correct_answer": "Velocity and Momentum",
+    "explanation": "A proton moving in a magnetic field experiences a magnetic force that acts perpendicular to the velocity. This force alters the direction of the proton’s velocity without changing its speed. Since velocity is a vector quantity, any change in direction means the velocity changes. Similarly, momentum (which is the product of mass and velocity) also changes because its vector direction changes. The proton's mass remains constant, and the speed (the magnitude of the velocity) is not affected by the magnetic force.",
+    "topic": "Magnetic field effects on charged particles",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic008"
+  },
+  {
+    "question_text": "In Activity 12.7, how is the displacement of rod AB affected if (i) the current in rod AB is increased, (ii) a stronger horse-shoe magnet is used, and (iii) the length of the rod AB (within the magnetic field) is increased?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The displacement of rod AB increases in all three cases.",
+    "explanation": "The force on a current-carrying conductor in a magnetic field is given by F = BIL when the current I, magnetic field B, and length L (of the conductor within the magnetic field) are perpendicular. Increasing the current (I) increases the force, as does increasing the magnetic flux density (B) by using a stronger magnet, and increasing the effective length (L) of the rod within the magnetic field. A greater force results in a larger displacement of the rod.",
+    "topic": "Force on current-carrying conductors in a magnetic field",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic009"
+  },
+  {
+    "question_text": "A positively-charged particle (alpha-particle) projected towards the west is deflected towards the north by a magnetic field. What is the direction of the magnetic field?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Towards South",
+      "Towards East",
+      "Downward",
+      "Upward"
+    ],
+    "correct_answer": "Upward",
+    "explanation": "Using Fleming’s Left-Hand Rule for a positive charge, the thumb represents the force (direction of deflection), the forefinger indicates the magnetic field, and the middle finger represents the direction of conventional current (which is the same as the particle's velocity for a positive charge). Since the particle is projected to the west and is deflected towards the north, for the thumb (force) to point north and the middle finger (current) to point west, the forefinger (magnetic field) must point upward. This reasoning confirms that the magnetic field direction is upward.",
+    "topic": "Force on charged particles in a magnetic field",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic010"
+  }
+]

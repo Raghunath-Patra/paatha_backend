@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Find the nature of the roots of the following quadratic equations. If the real roots exist, find them: (i) 2x² – 3x + 5 = 0, (ii) 3x² – 4√3 x + 4 = 0, (iii) 2x² – 6x + 3 = 0.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (i): No real roots because discriminant = (-3)² - 4×2×5 = 9 - 40 = -31, which is <0. For (ii): Two equal real roots because discriminant = (−4√3)² - 4×3×4 = 48 - 48 = 0, so the single repeated root is x = (4√3)/(6) = (2√3)/3. For (iii): Two distinct real roots because discriminant = (-6)² - 4×2×3 = 36 - 24 = 12 > 0, and the roots are x = [6 ± √12] / (4) = [6 ± 2√3] / 4 = (3 ± √3) / 2.",
+    "explanation": "For each quadratic, we first compute the discriminant Δ = b² - 4ac. (i) For 2x² – 3x + 5 = 0, a = 2, b = -3, c = 5 so Δ = 9 - 40 = -31, which is negative; hence, no real roots. (ii) For 3x² – 4√3 x + 4 = 0, a = 3, b = -4√3, c = 4 so Δ = (4√3)² - 4×3×4 = 48 - 48 = 0; a zero discriminant implies two equal (repeated) roots given by x = -b/(2a) = (4√3)/(6) = (2√3)/3. (iii) For 2x² – 6x + 3 = 0, a = 2, b = -6, c = 3 so Δ = 36 - 24 = 12; a positive discriminant gives two distinct real roots: x = [6 ± √12]/4 = [6 ± 2√3]/4 = (3 ± √3)/2.",
+    "topic": "Quadratic Equations – Discriminant and Nature of Roots",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh104",
+    "question_id": "cbse_x_jemh1dd_c104_ex023"
+  },
+  {
+    "question_text": "Find the values of k for each of the following quadratic equations, so that they have two equal roots: (i) 2x² + kx + 3 = 0, (ii) kx(x – 2) + 6 = 0.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (i): The condition for equal roots is Δ = 0. Here, a = 2, b = k, c = 3, so k² - 4×2×3 = 0, which gives k² = 24 and hence k = ±2√6. For (ii): First, expand kx(x – 2) + 6 = kx² - 2kx + 6 = 0. Here, a = k, b = -2k, c = 6. The discriminant is Δ = (-2k)² - 4×k×6 = 4k² - 24k. Setting Δ = 0 yields 4k(k - 6) = 0. Since k = 0 would degenerate the equation (making it non-quadratic), the valid solution is k = 6.",
+    "explanation": "To have two equal roots in a quadratic ax² + bx + c = 0, the discriminant Δ = b² - 4ac must be zero. (i) For 2x² + kx + 3 = 0, setting k² - 24 = 0 results in k² = 24, so k = 2√6 or k = -2√6. (ii) For the equation written in standard form as kx² - 2kx + 6 = 0, setting the discriminant 4k² - 24k = 0 leads to k( k - 6) = 0 after factoring out 4k. Since k = 0 is not acceptable for a quadratic equation, the only valid solution is k = 6.",
+    "topic": "Quadratic Equations – Condition for Equal Roots",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh104",
+    "question_id": "cbse_x_jemh1dd_c104_ex024"
+  },
+  {
+    "question_text": "Is it possible to design a rectangular mango grove whose length is twice its breadth, and the area is 800 m²? If so, find its length and breadth.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Yes, it is possible. Let the breadth be x metres; then the length is 2x. The area is given by length × breadth = 2x² = 800. Solving, x² = 400, so x = 20. Therefore, the breadth is 20 m and the length is 2×20 = 40 m.",
+    "explanation": "Let the breadth = x m and length = 2x m. The area is given by 2x² = 800. Dividing both sides by 2, x² = 400, which implies x = 20 (since dimension must be positive). Hence, the mango grove will have a breadth of 20 m and a length of 40 m.",
+    "topic": "Applications of Quadratic Equations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh104",
+    "question_id": "cbse_x_jemh1dd_c104_ex025"
+  },
+  {
+    "question_text": "Is the following situation possible? If so, determine their present ages. The sum of the ages of two friends is 20 years. Four years ago, the product of their ages was 48.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Let the present ages be x and (20 - x). Four years ago, their ages were x - 4 and 16 - x. The equation is (x - 4)(16 - x) = 48. Expanding gives -x² + 20x - 64 = 48, or x² - 20x + 112 = 0. The discriminant of this quadratic is (20)² - 4×1×112 = 400 - 448 = -48, which is negative. Therefore, no real solution exists, and the situation is not possible.",
+    "explanation": "Let the two present ages be x and 20 - x. Four years ago, their ages become x - 4 and (20 - x - 4) = 16 - x. According to the problem, (x - 4)(16 - x) = 48. Expanding: x(16 - x) - 4(16 - x) = 16x - x² - 64 + 4x = -x² + 20x - 64, equating to 48 leads to -x² + 20x - 112 = 0, or x² - 20x + 112 = 0. The discriminant is 400 - 448 = -48, which is less than 0. This indicates there are no real solutions, so the scenario is impossible.",
+    "topic": "Quadratic Equations in Age Problems",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jemh104",
+    "question_id": "cbse_x_jemh1dd_c104_ex026"
+  },
+  {
+    "question_text": "Is it possible to design a rectangular park of perimeter 80 m and area 400 m²? If so, find its length and breadth.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Yes, it is possible. Let the length be l and breadth be b. Given the perimeter 2(l + b) = 80, so l + b = 40, and the area l×b = 400. Substituting l = 40 - b into the area equation gives (40 - b)b = 400, which simplifies to b² - 40b + 400 = 0. The discriminant of this quadratic is 40² - 4×1×400 = 1600 - 1600 = 0, hence b = 20 m and l = 20 m.",
+    "explanation": "Let l = length and b = breadth. The perimeter condition gives l + b = 40, and the area condition gives lb = 400. Replacing l with (40 - b) in the area equation yields (40 - b)b = 400, or b² - 40b + 400 = 0. The discriminant is 0, indicating a unique solution. Solving b = 40/2 = 20 m, then l = 40 - 20 = 20 m. Therefore, the park is a square with sides 20 m.",
+    "topic": "Quadratic Equations in Geometric Applications",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh104",
+    "question_id": "cbse_x_jemh1dd_c104_ex027"
+  }
+]

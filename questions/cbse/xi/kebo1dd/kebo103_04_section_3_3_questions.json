@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following vascular tissues are first found in terrestrial plants as seen in pteridophytes?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Xylem only",
+      "Phloem only",
+      "Xylem and Phloem",
+      "No vascular tissues"
+    ],
+    "correct_answer": "Xylem and Phloem",
+    "explanation": "Pteridophytes are the first terrestrial plants to possess both xylem and phloem, which are essential for water and nutrient transport.",
+    "topic": "Vascular Tissues",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "kebo103",
+    "section_id": "04_section_3_3",
+    "question_id": "cbse_xi_kebo1dd_c103_gen036"
+  }
+]

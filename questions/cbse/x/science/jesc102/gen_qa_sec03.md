@@ -1,0 +1,139 @@
+```json
+[
+  {
+    "question_text": "Why do all acids conduct electricity in aqueous solution?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Acids conduct electricity in aqueous solution because they dissociate into ions, producing H⁺(aq) and their corresponding anions, which allow the flow of electric current.",
+    "explanation": "In aqueous solution, acids dissociate into hydrogen ions and their corresponding anions. These ions are charged particles that can move freely in the solution, enabling the conduction of electric current. The movement of H⁺ ions (or more accurately, H₃O⁺ ions) and anions like Cl⁻ facilitates this process, causing the bulb to glow as observed in Activity 2.8.",
+    "topic": "Electrical Conductivity of Acids",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which of the following ions are produced when sulfuric acid (H₂SO₄) dissolves in water?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "H⁺ and Cl⁻",
+      "H⁺ and SO₄²⁻",
+      "Na⁺ and OH⁻",
+      "K⁺ and NO₃⁻"
+    ],
+    "correct_answer": "H⁺ and SO₄²⁻",
+    "explanation": "Sulfuric acid, H₂SO₄, dissociates in water to produce two hydrogen ions (H⁺) and one sulfate ion (SO₄²⁻). \n\n- **Option 1:** HCl produces H⁺ and Cl⁻, not H₂SO₄.\n- **Option 3:** NaOH produces Na⁺ and OH⁻.\n- **Option 4:** KNO₃ produces K⁺ and NO₃⁻.\n\nTherefore, only Option 2 correctly identifies the ions produced by sulfuric acid.",
+    "topic": "Ionization of Acids",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Based on Activity 2.8, why do glucose and alcohol solutions not cause the bulb to glow?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Glucose and alcohol solutions do not conduct electricity because they do not produce ions in solution.",
+    "explanation": "In Activity 2.8, when glucose and alcohol solutions are tested, the bulb does not glow, indicating no conduction of electricity. This is because glucose and alcohol do not dissociate into ions in solution; they remain as neutral molecules, so there are no charged particles to carry the electric current.",
+    "topic": "Conductivity of Non-Acidic Solutions",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which of the following bases are classified as alkalis?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Sodium hydroxide",
+      "Calcium oxide",
+      "Magnesium hydroxide",
+      "All of the above"
+    ],
+    "correct_answer": "Sodium hydroxide",
+    "explanation": "Alkalis are bases that are soluble in water.\n\n- **Sodium hydroxide (NaOH):** Highly soluble in water and classified as an alkali.\n- **Calcium oxide (CaO):** Not soluble in water and therefore not an alkali.\n- **Magnesium hydroxide (Mg(OH)₂):** Slightly soluble but generally not classified as a strong alkali.\n\nThus, only Sodium hydroxide is correctly classified as an alkali.",
+    "topic": "Definition and Classification of Alkalis",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Write the balanced chemical equation for the dissociation of potassium hydroxide (KOH) in water.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "KOH(s) → K⁺(aq) + OH⁻(aq)",
+    "explanation": "Potassium hydroxide dissociates completely in water to produce potassium ions (K⁺) and hydroxide ions (OH⁻). This dissociation is represented by the equation:\n\nKOH(s) → K⁺(aq) + OH⁻(aq)",
+    "topic": "Dissociation of Bases in Water",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "What can be concluded if the bulb does not glow when a solution is tested in Activity 2.8?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The solution does not conduct electricity, indicating it is not acidic.",
+    "explanation": "In Activity 2.8, only acidic solutions cause the bulb to glow by conducting electricity through ions. If the bulb does not glow, it implies that the solution lacks free ions capable of conducting electricity, thus it is not acidic.",
+    "topic": "Electrical Conductivity in Solutions",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "In Activity 2.9, dry HCl gas is passed over dry blue litmus paper and wet blue litmus paper. The litmus paper changes color only when?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "When dry litmus paper is used",
+      "When wet litmus paper is used",
+      "With both dry and wet litmus paper",
+      "Never changes color"
+    ],
+    "correct_answer": "When wet litmus paper is used",
+    "explanation": "Dry HCl gas does not dissociate into ions and therefore does not exhibit acidic properties. However, when HCl gas is passed over wet litmus paper, water facilitates the formation of H₃O⁺ ions, causing the litmus paper to change color, indicating acidity.\n\n- **Option 1:** Dry litmus paper does not change color because there are no free ions.\n- **Option 3:** Only wet litmus paper changes color.\n- **Option 4:** Litmus paper does change color with wet HCl gas.",
+    "topic": "Behavior of HCl Gas",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which of the following reactions represents the neutralization of an acid by a base?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "HCl + NaOH → NaCl + H₂O",
+      "CH₃COOH + H₂O → CH₃COO⁻ + H₃O⁺",
+      "NaOH → Na⁺ + OH⁻",
+      "H₂O → H⁺ + OH⁻"
+    ],
+    "correct_answer": "HCl + NaOH → NaCl + H₂O",
+    "explanation": "Neutralization reactions involve an acid reacting with a base to form a salt and water.\n\n- **Option 1:** Correctly represents the neutralization of hydrochloric acid (HCl) with sodium hydroxide (NaOH) to form sodium chloride (NaCl) and water (H₂O).\n- **Option 2:** Represents the ionization of acetic acid in water, not a neutralization reaction.\n- **Option 3:** Represents the dissociation of sodium hydroxide in water.\n- **Option 4:** Represents the autoionization of water.",
+    "topic": "Neutralization Reactions",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Explain why adding concentrated sulfuric acid to water is highly exothermic and why care must be taken during the process.",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Adding concentrated sulfuric acid to water is highly exothermic because it releases a large amount of heat upon dilution. If not done carefully, the heat can cause the mixture to splash, potentially causing burns and breaking the container due to rapid temperature increases.",
+    "explanation": "The dissolution of concentrated acids in water releases significant heat, making the process exothermic. Rapid heat generation can lead to violent reactions, splattering of the acid, and breaking of the glass container due to uneven heating. Therefore, the acid should be added slowly to water with constant stirring to safely dissipate the heat.",
+    "topic": "Thermal Effects of Diluting Acids",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "What is formed when hydrogen ions (H⁺) react with water molecules?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Hydronium ions (H₃O⁺) are formed.",
+    "explanation": "In aqueous solutions, hydrogen ions (H⁺) do not exist freely but react with water molecules to form hydronium ions (H₃O⁺), which are responsible for the acidic properties of the solution.\n\nH⁺ + H₂O → H₃O⁺",
+    "topic": "Hydrogen Ions in Aqueous Solutions",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Which of the following best describes the process of neutralization?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "An acid reacts with a base to produce a salt and water.",
+      "An acid dissociates into ions in water.",
+      "A base reacts with water to produce hydroxide ions.",
+      "A salt reacts with water to produce acid and base."
+    ],
+    "correct_answer": "An acid reacts with a base to produce a salt and water.",
+    "explanation": "Neutralization is defined as the reaction between an acid and a base to produce a salt and water.\n\n- **Option 1:** Correct definition of neutralization.\n- **Option 2:** Describes ionization of an acid, not neutralization.\n- **Option 3:** Describes a base reacting with water, not neutralization.\n- **Option 4:** Describes hydrolysis of a salt, not neutralization.",
+    "topic": "Neutralization Process",
+    "bloom_level": "Understand"
+  }
+]
+```

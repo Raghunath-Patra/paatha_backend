@@ -1,0 +1,30 @@
+[
+  {
+    "question_text": "For a reaction, A + B → Product; the rate law is given by r = k [A]^(1/2) [B]^2. What is the order of the reaction?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Overall order = 2.5",
+    "explanation": "The rate law is r = k [A]^(1/2) [B]^2. The order with respect to A is 1/2 and the order with respect to B is 2. Adding these exponents gives the overall order: 1/2 + 2 = 2.5. This concept is discussed in section 3.2.3 on the order of a reaction.",
+    "topic": "Order of a Reaction",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "05_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in003"
+  },
+  {
+    "question_text": "The conversion of molecules X to Y follows second order kinetics. If the concentration of X is increased to three times its initial value, how will it affect the rate of formation of Y?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The rate will increase by a factor of 9",
+    "explanation": "For a second order reaction, the rate is proportional to the square of the concentration. Therefore, if the concentration of X is tripled, the rate increases by (3)^2 = 9 times. This reasoning is based on the discussion of the dependence of rate on concentration in section 3.2.1.",
+    "topic": "Dependence of Rate on Concentration",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "05_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in004"
+  }
+]

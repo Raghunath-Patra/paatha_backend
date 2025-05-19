@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Would you be able to check if water is hard by using a detergent?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "No, you cannot use a detergent to check if water is hard because detergents produce lather in both soft and hard water without forming scum.",
+    "explanation": "Detergents are specially designed to work effectively in both hard and soft water. They do not form insoluble precipitates (scum) with calcium or magnesium ions found in hard water because of their molecular structure. In contrast, soap reacts with these ions to form a curdy scum. Therefore, while soap can be used to test water hardness by observing scum formation or reduced lather, detergents will produce lather consistently regardless of water hardness.",
+    "topic": "Water Chemistry; Soap vs. Detergent; Water Hardness",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic012"
+  },
+  {
+    "question_text": "People use a variety of methods to wash clothes by beating the clothes on a stone, scrubbing with a brush, or agitating in a washing machine. Why is agitation necessary to get clean clothes?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Agitation is necessary because it helps dislodge dirt and oily particles from the fabric by increasing the contact between the soap micelles and the stains, enabling the soap to encapsulate the dirt so that it can be rinsed away effectively.",
+    "explanation": "Agitation facilitates cleaning by mechanically disrupting the bond between the fabric and dirt particles. This process not only helps detach the dirt but also ensures that fresh soap solution comes into contact with the stain. The soap molecules, having a hydrophilic head and hydrophobic tail, form micelles around oily dirt, lifting them off the fabric. This combination of mechanical action and chemical emulsification improves the efficiency of the cleaning process.",
+    "topic": "Cleaning Mechanisms; Soap Micelles; Emulsification and Agitation",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic013"
+  }
+]

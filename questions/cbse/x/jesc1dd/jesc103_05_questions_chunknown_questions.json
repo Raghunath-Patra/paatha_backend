@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Why is sodium kept immersed in kerosene oil?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Sodium is kept immersed in kerosene oil to prevent it from coming into contact with air and moisture. This minimizes its risk of reacting vigorously with oxygen and water, which could lead to fire or explosion.",
+    "explanation": "Sodium is a highly reactive alkali metal and reacts very quickly with oxygen and water present in the air. Kerosene oil acts as a barrier that prevents oxygen and moisture from reaching the sodium. This safety precaution is essential to avoid hazardous reactions that may result in combustion or explosions.",
+    "topic": "Reactivity of Metals / Storage of Reactive Metals",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic003"
+  },
+  {
+    "question_text": "Write equations for the reactions of (i) iron with steam and (ii) calcium and potassium with water.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For iron with steam: 3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)\nFor calcium with water: Ca(s) + 2H2O(l) → Ca(OH)2(aq) + H2(g)\nFor potassium with water: 2K(s) + 2H2O(l) → 2KOH(aq) + H2(g) (+ heat)",
+    "explanation": "When iron reacts with steam, the reaction produces magnetite (Fe3O4) along with hydrogen gas. In the reaction of calcium with water, calcium hydroxide is formed with the evolution of hydrogen gas. Similarly, potassium reacts very vigorously with water to form potassium hydroxide and hydrogen gas, releasing heat in the process. These equations are balanced and demonstrate the reactivity of metals with water in different states (liquid water and steam).",
+    "topic": "Chemical Reactions of Metals with Water/Steam",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic004"
+  },
+  {
+    "question_text": "Samples of four metals A, B, C and D were taken and added to different salt solutions. Based on the observations: \n(i) Which is the most reactive metal? \n(ii) What would you observe if metal B is added to a solution of Copper(II) sulphate? \n(iii) Arrange the metals A, B, C and D in the order of decreasing reactivity.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "(i) Metal B is the most reactive as it displaces iron from Iron(II) sulphate, indicating it is higher in the reactivity series. \n(ii) When metal B is added to a solution of Copper(II) sulphate, a displacement reaction will occur: metal B, being more reactive, will dissolve, and copper metal will be deposited. This causes a color change in the solution as copper ions are reduced to copper metal. \n(iii) Based on the provided observations and displacement reactions, the overall order of reactivity can be deduced as: B > Fe > A > Cu > C > D.",
+    "explanation": "The displacement reactions indicate that a metal higher in the reactivity series can displace a lower reactive metal from its salt solution. Metal B's ability to displace iron from its solution confirms its high reactivity. Similarly, when metal B is used in Copper(II) sulphate, copper is displaced due to B's relatively higher reactivity. Using the outcomes of reactions with different salt solutions (Iron(II) sulphate, Copper(II) sulphate, Zinc sulphate, and Silver nitrate), the decreasing order of reactivity is established. This analysis requires careful interpretation of the experimental results and synthesis of multiple observations.",
+    "topic": "Reactivity Series and Displacement Reactions",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic005"
+  },
+  {
+    "question_text": "Which gas is produced when a reactive metal is added to dilute hydrochloric acid? Also, write the chemical reaction when iron reacts with dilute H2SO4.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The gas produced is hydrogen (H2). \nReaction for iron with dilute H2SO4: \nFe(s) + H2SO4(aq) → FeSO4(aq) + H2(g)",
+    "explanation": "When reactive metals that are above hydrogen in the reactivity series react with dilute acids like hydrochloric acid or sulfuric acid, they displace hydrogen from the acid, releasing hydrogen gas. In the reaction with dilute H2SO4, iron forms iron(II) sulfate and evolves hydrogen gas. This reaction exemplifies a typical single displacement reaction involving acids and metals.",
+    "topic": "Acid-Metal Reactions / Hydrogen Evolution",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic006"
+  },
+  {
+    "question_text": "What would you observe when zinc is added to a solution of Iron(II) sulphate? Write the chemical reaction that takes place.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "When zinc is added to Iron(II) sulphate, zinc being more reactive than iron displaces iron from the solution. This results in the gradual dissolution of zinc, fading of the green color of the Iron(II) sulphate solution, and deposition of greyish iron metal. The balanced chemical reaction is: \nZn(s) + FeSO4(aq) → ZnSO4(aq) + Fe(s)",
+    "explanation": "Zinc is situated above iron in the reactivity series and can therefore displace iron from its salt in solution. The reaction involves a displacement process where zinc metal dissolves to form zinc sulphate, while iron is deposited as a solid. The fading of the solution's color is due to the consumption of the iron(II) ions, and the deposited iron confirms the occurrence of a single displacement reaction.",
+    "topic": "Displacement Reactions / Reactivity Series",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic007"
+  }
+]

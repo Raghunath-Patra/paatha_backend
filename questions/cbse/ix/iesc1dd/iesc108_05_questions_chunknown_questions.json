@@ -1,0 +1,95 @@
+[
+  {
+    "question_text": "Which of the following has more inertia: a rubber ball or a stone of the same size?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Rubber ball",
+      "Stone",
+      "Both have the same inertia",
+      "Not enough information"
+    ],
+    "correct_answer": "Stone",
+    "explanation": "A stone is generally denser than a rubber ball of the same size, meaning it has a greater mass. Since inertia is a measure of an object’s resistance to change in motion and is directly proportional to its mass, the stone has more inertia than the rubber ball.",
+    "topic": "Inertia and Mass",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc108",
+    "question_id": "cbse_ix_iesc1dd_c108_ic001"
+  },
+  {
+    "question_text": "Which of the following has more inertia: a bicycle or a train?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Bicycle",
+      "Train",
+      "Both have the same inertia",
+      "Not enough information"
+    ],
+    "correct_answer": "Train",
+    "explanation": "A train possesses a much larger mass compared to a bicycle. As inertia is directly related to the mass of an object, the train, being more massive, shows greater resistance to changes in its state of motion.",
+    "topic": "Inertia and Mass",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc108",
+    "question_id": "cbse_ix_iesc1dd_c108_ic002"
+  },
+  {
+    "question_text": "Which of the following has more inertia: a five-rupees coin or a one-rupee coin?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Five-rupees coin",
+      "One-rupee coin",
+      "Both have the same inertia",
+      "Not enough information"
+    ],
+    "correct_answer": "Five-rupees coin",
+    "explanation": "The five-rupees coin is heavier (i.e. it has a larger mass) than the one-rupee coin. Since inertia measures the resistance to change in motion and directly depends on mass, the five-rupees coin has more inertia.",
+    "topic": "Inertia and Mass",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc108",
+    "question_id": "cbse_ix_iesc1dd_c108_ic003"
+  },
+  {
+    "question_text": "In the following example, identify the number of times the velocity of the ball changes and the agent supplying the force in each case: 'A football player kicks a football to another player of his team who kicks the football towards the goal. The goalkeeper of the opposite team collects the football and kicks it towards a player of his own team.'",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The velocity of the ball changes 4 times: 1) When the first player kicks the ball (Agent: the player's foot). 2) When the second player kicks the ball (Agent: the player's foot). 3) When the goalkeeper collects or stops the ball (Agent: the goalkeeper's hands). 4) When the goalkeeper kicks the ball (Agent: the goalkeeper's foot).",
+    "explanation": "Each interaction with the ball applies an unbalanced force causing a change in its velocity. The initial kick, the subsequent redirection by the second player, the stop by the goalkeeper, and the final kick all change the ball's state of motion. These events highlight how an external force (from the players' feet or hands) alters the ball's speed or direction.",
+    "topic": "Balanced and Unbalanced Forces",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc108",
+    "question_id": "cbse_ix_iesc1dd_c108_ic004"
+  },
+  {
+    "question_text": "Explain why some of the leaves may get detached from a tree if we vigorously shake its branch.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "When the branch is shaken, the leaves tend to remain in their state of rest due to their inertia. This resistance to change in motion creates a relative movement between the leaves and the rapidly moving branch, generating forces at the attachment points that can exceed the strength of the bond, causing the leaves to detach.",
+    "explanation": "This phenomenon is explained by the law of inertia (Newton's first law). When the branch is rapidly moved, the leaves, because of their inertia, do not immediately follow the motion. The sudden difference in motion produces stress at the juncture where the leaves are attached to the branch, leading to their detachment.",
+    "topic": "Inertia and Motion",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc108",
+    "question_id": "cbse_ix_iesc1dd_c108_ic005"
+  },
+  {
+    "question_text": "Why do you fall in the forward direction when a moving bus brakes to a stop and fall backwards when it accelerates from rest?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "When the bus brakes, it decelerates while your body, due to inertia, retains its state of motion, causing you to lurch forward. Conversely, when the bus accelerates, your feet (in contact with the bus) begin moving with it, but your upper body tends to remain at rest due to inertia, resulting in a backward fall relative to the bus.",
+    "explanation": "According to Newton's first law, an object in motion remains in motion and an object at rest stays at rest unless acted upon by an unbalanced force. In the case of braking, the bus’s deceleration is not immediately matched by your body, leading to a forward lurch. During acceleration, the lower part of your body quickly gains the new speed while the upper body, with its inertia of rest, momentarily lags behind, causing you to fall backward.",
+    "topic": "Newton's First Law of Motion",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc108",
+    "question_id": "cbse_ix_iesc1dd_c108_ic006"
+  }
+]

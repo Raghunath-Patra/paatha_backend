@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Draw a neat diagram of the digestive system of frog.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The correct answer should be a well-labelled diagram that includes the mouth, buccal cavity, pharynx, oesophagus, stomach, intestine, rectum, and cloaca. It should also depict the digestive glands such as the liver, gall bladder, and pancreas along with their connections, for example, the common bile duct joining the duodenum.",
+    "explanation": "This question tests the students' ability to recall and reproduce the structure of the frog's digestive system. A complete answer should include all the key anatomical features as described in the chapter, highlighting the short nature of the alimentary canal adapted to a carnivorous diet and showing the connection among the parts of the system.",
+    "topic": "Digestive system anatomy",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo107",
+    "question_id": "cbse_xi_kebo1dd_c107_ex001"
+  },
+  {
+    "question_text": "Mention the function of the Ureters in frog.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The ureters in frogs transport the urine from the kidneys to the cloaca. In male frogs, they function as a urinogenital duct, while in females the ureters open separately into the cloaca.",
+    "explanation": "The answer requires understanding of the excretory system in frogs. The ureters are crucial as they carry urine produced in the kidneys to the common exit point (cloaca), thereby linking the internal organ function to waste elimination.",
+    "topic": "Excretory system anatomy",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo107",
+    "question_id": "cbse_xi_kebo1dd_c107_ex002"
+  }
+]

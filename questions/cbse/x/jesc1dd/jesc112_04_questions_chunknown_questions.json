@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Draw magnetic field lines around a bar magnet.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The magnetic field lines of a bar magnet start from the north pole, curve outward and around, and then enter the south pole. Inside the magnet, the lines continue from the south pole back to the north pole, forming continuous closed loops. The lines are denser near the poles, indicating a stronger magnetic field in these regions.",
+    "explanation": "A drawing of magnetic field lines for a bar magnet should include curved lines that start at the north pole (indicating the direction of the magnetic field outside the magnet), and converge at the south pole. Inside the magnet, the field lines run from the south pole back to the north pole. This pattern clearly demonstrates that magnetic fields are continuous (closed curves) and that their density represents the strength of the magnetic field. This is consistent with the pattern shown in Figure 12.4 of the chapter.",
+    "topic": "Magnetic Field Lines of a Bar Magnet",
+    "bloom_level": "Create",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic001"
+  },
+  {
+    "question_text": "List the properties of magnetic field lines.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Magnetic field lines have the following properties: They indicate the direction of the magnetic field (the tangent at any point shows the field direction). Outside a magnet, the lines emerge from the north pole and enter the south pole, whereas inside the magnet, they travel from the south pole to the north pole. The lines form continuous closed curves, they do not intersect, and their density indicates the relative strength of the field.",
+    "explanation": "Each property of magnetic field lines reinforces our understanding of the magnetic field. The fact that they always form closed loops means that the magnetic field is continuous. Their density being higher near the poles reflects a stronger magnetic field in those regions, and the non-intersecting characteristic ensures that the magnetic field at any given point has one distinct direction. These points help in understanding the behavior of magnets and are consistent with the experimental observations provided in the chapter.",
+    "topic": "Properties of Magnetic Field Lines",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic002"
+  },
+  {
+    "question_text": "Why don’t two magnetic field lines intersect each other?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "If two magnetic field lines intersected, it would imply that at the point of intersection the magnetic field has two different directions at the same point, which is physically impossible. A compass needle placed at that point would be forced to align in two distinct directions simultaneously, violating the uniqueness of the magnetic force direction.",
+    "explanation": "The uniqueness of the magnetic field direction at any given point is fundamental to the concept of a continuous vector field. Magnetic field lines are merely a mapping tool that represents the direction of the magnetic force. If they intersected, a magnetic dipole (like a compass needle) would not have a unique direction to align with, which contradicts experimental observations and the underlying laws of magnetism. This explanation is rooted in the basic principles of vector fields in physics.",
+    "topic": "Magnetic Field Line Properties",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic003"
+  }
+]

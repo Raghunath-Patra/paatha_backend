@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Is zero a rational number? Can you write it in the form p/q, where p and q are integers and q ≠ 0?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Yes, zero is a rational number. It can be written as 0/1 (or 0 divided by any nonzero integer).",
+    "explanation": "A number r is rational if it can be written as p/q where p and q are integers and q ≠ 0. In the case of zero, we can choose p = 0 and any nonzero integer for q (commonly 1) so that 0 = 0/1. This satisfies the definition, hence zero is a rational number.",
+    "topic": "Rational Numbers",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex001"
+  },
+  {
+    "question_text": "Find six rational numbers between 3 and 4.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "One valid answer is: 22/7, 23/7, 24/7, 25/7, 26/7, 27/7.",
+    "explanation": "To find rational numbers between 3 and 4, first express 3 and 4 with a common denominator. For example, if we choose 7 as the denominator, then 3 = 21/7 and 4 = 28/7. The numbers between these are given by fractions whose numerators lie strictly between 21 and 28. Thus, the fractions 22/7, 23/7, 24/7, 25/7, 26/7, and 27/7 are all rational numbers that lie between 3 and 4.",
+    "topic": "Rational Numbers and Number Line",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex002"
+  },
+  {
+    "question_text": "Find five rational numbers between 3/5 and 4/5.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "One valid answer is: 22/35, 23/35, 24/35, 25/35, 26/35.",
+    "explanation": "To find rational numbers between 3/5 and 4/5, express both with a common denominator that creates additional numbers between them. Multiplying numerator and denominator by 7, we have 3/5 = 21/35 and 4/5 = 28/35. The fractions with numerators from 22 to 27 (excluding the endpoints) lie strictly between these two fractions. Selecting any five, we can choose 22/35, 23/35, 24/35, 25/35, and 26/35 as valid answers.",
+    "topic": "Rational Numbers and Fractions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex003"
+  },
+  {
+    "question_text": "State whether the following statements are true or false. Give reasons for your answers.\n(i) Every natural number is a whole number.\n(ii) Every integer is a whole number.\n(iii) Every rational number is a whole number.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) True; (ii) False; (iii) False.",
+    "explanation": "Explanation:\n(i) Natural numbers (1, 2, 3, …) are a subset of whole numbers (0, 1, 2, 3, …). Therefore, every natural number is indeed a whole number.\n(ii) Integers include negative numbers as well as 0 and positive numbers. Since whole numbers are defined as non-negative integers (0 and positive integers), not every integer is a whole number (for example, -1 is an integer but not a whole number).\n(iii) Rational numbers include all numbers that can be written as a fraction p/q with p and q being integers and q ≠ 0. This set includes numbers that are not whole numbers (for example, 1/2, 3/5, etc.). Hence, not every rational number is a whole number.",
+    "topic": "Number Sets (Natural Numbers, Whole Numbers, Integers, and Rational Numbers)",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex004"
+  }
+]

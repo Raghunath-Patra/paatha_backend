@@ -1,0 +1,30 @@
+[
+  {
+    "question_text": "H₂S, a toxic gas with a rotten egg–like smell, is used for qualitative analysis. If the solubility of H₂S in water at STP is 0.195 m, calculate Henry's law constant.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 289 bar",
+    "explanation": "Henry's law states that for a gas in a liquid, p = K_H × x, where p is the partial pressure and x is the mole fraction of the gas in solution. Here, solubility is given as 0.195 m, meaning 0.195 mol H₂S is dissolved per kilogram of water. Since 1 kg of water contains about 55.5 mol, the mole fraction of H₂S is x = 0.195 / (55.5 + 0.195) ≈ 0.00346. At STP, the pressure is approximately 1 bar. Thus, K_H = p / x ≈ 1 / 0.00346 ≈ 289 bar. This method uses the concepts of dissolution in a saturated solution and the dynamic equilibrium described in the chapter.",
+    "topic": "Henry's Law and Solubility of Gases",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech101",
+    "intext_id": "06_intext_questions_ch101",
+    "question_id": "cbse_xii_lech1dd_c101_in006"
+  },
+  {
+    "question_text": "Henry's law constant for CO₂ in water is 1.67×10⁸ Pa at 298 K. Calculate the quantity of CO₂ in 500 mL of soda water when packed under 2.5 atm CO₂ pressure at 298 K.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 0.042 mol of CO₂",
+    "explanation": "Using Henry's law, p = K_H × x, we first convert the given pressure: 2.5 atm × 101325 Pa/atm ≈ 253312.5 Pa. The mole fraction (x) of CO₂ in solution is then x = p / K_H = 253312.5 / (1.67×10⁸) ≈ 1.517×10⁻³. In 500 mL of water (which weighs approximately 500 g), the number of moles of water is 500 g / 18 g/mol ≈ 27.8 mol. Since the mole fraction x = n_CO₂ / (n_CO₂ + n_H₂O) and n_CO₂ is very small compared to n_H₂O, we can approximate n_CO₂ ≈ x × n_H₂O ≈ 1.517×10⁻³ × 27.8 ≈ 0.042 mol. This calculation demonstrates how Henry's law links the partial pressure of a gas to its solubility in a liquid.",
+    "topic": "Henry's Law and Solubility of Gases",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech101",
+    "intext_id": "06_intext_questions_ch101",
+    "question_id": "cbse_xii_lech1dd_c101_in007"
+  }
+]

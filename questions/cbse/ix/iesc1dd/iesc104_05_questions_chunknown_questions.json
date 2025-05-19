@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "On the basis of Thomson’s model of an atom, explain how the atom is neutral as a whole.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Thomson proposed that the atom consists of a positively charged sphere in which electrons are embedded. The total negative charge of the electrons is equal in magnitude to the total positive charge of the sphere, resulting in an electrically neutral atom.",
+    "explanation": "In Thomson’s model, the atom is analogous to a 'plum pudding' where the dispersed electrons (negatively charged) are uniformly embedded within a diffuse positive charge. This balance of charges ensures that the net charge of the atom is zero. The concept introduced the idea of subatomic charged particles and laid the foundation for modern atomic structure.",
+    "topic": "Atomic Models – Thomson’s Model",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic003"
+  },
+  {
+    "question_text": "On the basis of Rutherford’s model of an atom, which sub-atomic particle is present in the nucleus of an atom?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The proton is present in the nucleus of an atom.",
+    "explanation": "Rutherford’s scattering experiment with α-particles proved that most of an atom is empty space, while a very small, dense, positively charged nucleus exists. This nucleus is composed of protons, which carry a positive charge, and later work confirmed the existence of neutrons as well. However, based on Rutherford’s model alone, the focus is on the proton residing in the nucleus.",
+    "topic": "Atomic Models – Rutherford’s Model",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic004"
+  },
+  {
+    "question_text": "Draw a sketch of Bohr’s model of an atom with three shells.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Sketch should include a central nucleus (depicted as a small circle or dot labeled '+') and three concentric circles around it representing the electron shells. The shells should be labeled K (n=1), L (n=2), and M (n=3).",
+    "explanation": "Bohr’s model of the atom introduces the idea of discrete energy levels or shells in which electrons orbit the nucleus without radiating energy. The diagram should illustrate the nucleus at the center with three clearly labeled concentric circles indicating the K, L, and M shells. This visual representation helps in understanding electron configurations and energy quantization.",
+    "topic": "Atomic Models – Bohr’s Model",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic005"
+  },
+  {
+    "question_text": "What do you think would be the observation if the α-particle scattering experiment is carried out using a foil of a metal other than gold?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "If the α-particle scattering experiment is performed using a different metal foil, similar overall trends would be observed: most α-particles would pass through the foil with little or no deflection, some would be deflected at small angles, and a very few might rebound. However, the exact deflection angles and the fraction of α-particles deflected or rebounding would vary depending on the nuclear charge and mass of the metal, with heavier nuclei causing greater deflection due to stronger Coulombic repulsion.",
+    "explanation": "The α-particle scattering experiment relies on the repulsive interaction between the positively charged nucleus and the α-particles. While gold was chosen for its thin foil properties and high atomic number, using another metal would still reveal a small, dense nucleus. Variations in deflection angles and counts occur because different metals have different nuclear charges and masses. For instance, a metal with a higher nuclear charge can cause more pronounced deflections of the α-particles.",
+    "topic": "Atomic Models – Rutherford’s Scattering Experiment",
+    "bloom_level": "Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic006"
+  }
+]

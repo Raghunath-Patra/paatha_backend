@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "What management practices are common in dairy and poultry farming?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Proper shelter and hygiene, balanced nutrition/feed, and disease prevention (vaccination, sanitation) and control.",
+    "explanation": "Both dairy and poultry farming require the creation of an environment that minimizes disease risk and maximizes productivity. Providing proper shelter and maintaining hygiene prevent disease outbreaks, while a balanced nutritional regimen ensures that the animals receive essential vitamins, minerals, and energy. Regular disease prevention measures, such as vaccinations and strict sanitation protocols, are also vital for healthy livestock management.",
+    "topic": "Animal Husbandry, Livestock Management",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic012"
+  },
+  {
+    "question_text": "What are the differences between broilers and layers and in their management?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Broilers are raised for meat production and require a protein-rich feed with adequate fats and vitamins (such as A and K) to support rapid growth. Layers, on the other hand, are raised for egg production and need specific housing conditions (including proper lighting), along with specially formulated feeds that support consistent egg laying.",
+    "explanation": "The primary distinction lies in the end product: broilers are optimized for fast muscle development, necessitating high protein and energy diets, whereas layers are managed with dietary and environmental modifications that support reproductive efficiency and sustained egg production. Proper lighting, housing, and nutrition tailored to their distinct physiological needs are critical to achieving optimal performance in both cases.",
+    "topic": "Poultry Farming, Nutritional Management",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic013"
+  },
+  {
+    "question_text": "Discuss the implications of the statement: “It is interesting to note that poultry is India’s most efficient converter of low fibre food stuff (which is unfit for human consumption) into highly nutritious animal protein food.”",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "This statement implies that poultry farming is uniquely efficient in utilizing agricultural by-products or feed ingredients that are otherwise unsuitable for direct human consumption, converting them into high-quality, nutritious protein sources such as eggs and meat. This efficiency not only enhances the economic viability of poultry production by reducing feed costs but also contributes to environmental sustainability by minimizing waste.",
+    "explanation": "Poultry can digest and transform low fibre, less desirable food materials into valuable protein, demonstrating a high feed conversion efficiency. This process highlights a key aspect of animal nutrition and sustainable agriculture—maximizing output from minimal input. By effectively converting agricultural residues and substandard grains into animal protein, poultry farming not only offers a cost-effective solution but also plays a significant role in reducing food waste and ensuring food security. Such a system exemplifies how strategic animal husbandry practices can integrate with resource management and environmental conservation.",
+    "topic": "Poultry Farming Efficiency, Feed Conversion Efficiency",
+    "bloom_level": "Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic014"
+  }
+]

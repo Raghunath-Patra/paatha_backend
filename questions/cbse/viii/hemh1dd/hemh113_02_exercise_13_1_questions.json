@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "The following graph shows the temperature of a patient in a hospital, recorded every hour (from 9 am to 3 pm) with temperature values on the y-axis from 34°C to 39°C. (a) What was the patient’s temperature at 1 p.m.? (b) When was the patient’s temperature 38.5°C? (c) The patient’s temperature was the same two times during the period given. What were these two times? (d) What was the temperature at 1.30 p.m.? How did you arrive at your answer? (e) During which periods did the patient’s temperature show an upward trend?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) At 1 p.m., the reading on the graph shows approximately 37°C. b) The graph reaches 38.5°C between the markings for 12 p.m. and 1 p.m., approximately at 12:30 p.m. c) The graph shows the same temperature at two different times; for example, if the reading of 36.5°C occurs at both 9:30 a.m. and 2:30 p.m., then those are the two times. (The exact times depend on the plotted points on the graph.) d) At 1.30 p.m., by estimating between the plotted points at 1 p.m. and 2 p.m., the temperature is approximately 37.5°C; this is found by interpolation between the two values. e) An upward trend is seen in the periods where the graph is rising – for instance, from 9 a.m. to 10 a.m. and again from 12 p.m. to 1 p.m. (based on the visual slope of the graph.)",
+    "explanation": "To solve these subquestions, first read off the value corresponding to each time point on the graph. For (a), locate 1 p.m. on the x-axis and read the corresponding y-value. For (b), identify the point or interval where the temperature equals 38.5°C by observing where the smooth curve crosses that level. For (c), look for two distinct time points where the y-values are equal. For (d), use interpolation – if the temperature at 1 p.m. and 2 p.m. are known, estimate the value at 1:30 p.m. by averaging or using the linear path between the two points. For (e), by observing the portions of the line where the graph ascends, those intervals represent an upward trend. This problem tests your ability to interpret data from a line graph.",
+    "topic": "Graph Interpretation (Line Graphs)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex001"
+  },
+  {
+    "question_text": "The following line graph shows the yearly sales figures for a manufacturing company with the x-axis representing the years 2002 to 2006 and the y-axis representing sales in Rs Crores (from 0 to 12). (a) What were the sales in (i) 2002 and (ii) 2006? (b) What were the sales in (i) 2003 and (ii) 2005? (c) Compute the difference between the sales in 2002 and 2006. (d) In which year was there the greatest difference between the sales as compared to its previous year?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) From the graph, assume the sales in 2002 were approximately 3 Crores and in 2006 approximately 10 Crores. b) Similarly, the sales in 2003 can be read as about 5 Crores and in 2005 as about 7 Crores. c) The difference between 2002 and 2006 is 10 - 3 = 7 Crores. d) By comparing year-on-year differences, the largest jump occurs between 2005 and 2006 (i.e. a difference of 3 Crores), assuming that is the largest increment shown on the graph.",
+    "explanation": "Begin by reading the graph carefully: for each specified year, note the corresponding sales figure. For part (a) and (b), use the coordinates where the plotted points lie. For part (c), subtract the 2002 figure from the 2006 figure to obtain the absolute increase in sales. For part (d), compute the differences between each pair of consecutive years and identify which year to year change is greatest. This exercise tests the ability to extract numerical data from a line graph and perform basic arithmetic operations on the data.",
+    "topic": "Graph Interpretation (Line Graphs & Data Analysis)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex002"
+  },
+  {
+    "question_text": "For an experiment in Botany, two different plants, Plant A (dotted line) and Plant B (solid line), were grown under similar laboratory conditions and their heights (in cm, ranging from 0 to 14) were measured at the end of each week for 3 weeks. (a) How high was Plant A after (i) 2 weeks and (ii) 3 weeks? (b) How high was Plant B after (i) 2 weeks and (ii) 3 weeks? (c) How much did Plant A grow during the 3rd week? (d) How much did Plant B grow from the end of the 2nd week to the end of the 3rd week? (e) During which week did Plant A grow the most? (f) During which week did Plant B grow the least? (g) Were the two plants of the same height during any week shown here? Specify.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) By reading the graph, suppose Plant A reached 8 cm after 2 weeks and 12 cm after 3 weeks. b) For Plant B, the readings may be 10 cm after 2 weeks and 13 cm after 3 weeks. c) Growth of Plant A during the 3rd week = 12 cm - 8 cm = 4 cm. d) Growth of Plant B from week 2 to week 3 = 13 cm - 10 cm = 3 cm. e) If Plant A’s growth in week 1, 2, and 3 are determined (for example, if week 2 shows an increase from 3 cm to 8 cm, a growth of 5 cm, which is more than the other weeks), then the maximum growth occurred in the 2nd week. f) For Plant B, if the smallest increase was during week 3 (3 cm), then that is the week with the least growth. g) Both plants start at 0 cm at the beginning of the experiment; apart from the initial value, if no other point shows identical heights, then they were only equal at the start.",
+    "explanation": "Read off the heights from the graph at the end of each week for both plants. For parts (a) and (b), note the values at the 2nd and 3rd weeks. For part (c) and (d), calculate the difference in heights between consecutive weeks. For (e) and (f), compare the weekly growth increments for each plant to identify the greatest and the least increases. Finally, for (g), observe if the curves intersect at any point other than the starting point (0 cm). This question assesses your ability to interpret and analyze data from a comparative line graph.",
+    "topic": "Graph Interpretation (Comparative Line Graphs)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex003"
+  },
+  {
+    "question_text": "The following graph shows the temperature forecast and the actual temperature for each day of a week. The x-axis represents the days from Monday to Sunday and the y-axis represents temperature (from 5°C to 35°C). (a) On which days was the forecast temperature the same as the actual temperature? (b) What was the maximum forecast temperature during the week? (c) What was the minimum actual temperature during the week? (d) On which day did the actual temperature differ the most from the forecast temperature?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) By comparing the two curves (dotted for forecast and solid for actual), the temperatures coincide on, for example, Wednesday and Friday. b) The maximum forecast temperature as read from the dotted line is approximately 35°C. c) The minimum actual temperature from the solid line could be about 5°C. d) The day with the greatest difference between the forecast and actual temperatures is identified by the largest vertical gap on the graph; assume this is Monday.",
+    "explanation": "To answer these questions, compare the two plotted lines on the graph. For (a), look for points where the forecast and actual curves meet. For (b) and (c), scan the forecast and actual curves respectively to find their extreme values. For (d), measure the vertical distance between the two curves for every day and pick the day with the maximum difference. This exercise tests your skills in extracting and comparing data from overlaid line graphs.",
+    "topic": "Graph Interpretation (Overlay Comparison)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex004"
+  },
+  {
+    "question_text": "Use the tables below to draw linear graphs.\n(a) The number of days a hill side city received snow in different years:\n  Year: 2003, 2004, 2005, 2006\n  Days: 8, 10, 5, 12\n(b) Population (in thousands) of men and women in a village in different years:\n  Year: 2003, 2004, 2005, 2006, 2007\n  Number of Men: 12, 12.5, 13, 13.2, 13.5\n  Number of Women: 11.3, 11.9, 13, 13.6, 12.8\nDraw linear graphs for each dataset using appropriate scales and label the axes.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (a), plot the years (2003 to 2006) along the x-axis and the corresponding number of snowy days on the y-axis; mark the points (2003, 8), (2004, 10), (2005, 5) and (2006, 12) then connect them with straight line segments. For (b), prepare a graph with the years (2003–2007) on the x-axis and population (in thousands) on the y-axis; plot two sets of points—one for men [ (2003, 12), (2004, 12.5), (2005, 13), (2006, 13.2), (2007, 13.5) ] and one for women [ (2003, 11.3), (2004, 11.9), (2005, 13), (2006, 13.6), (2007, 12.8) ]—and join each set with a straight line. Label each graph appropriately and include a legend in (b) to indicate which line represents which gender.",
+    "explanation": "To create a linear graph from a table of values, first choose a suitable scale for both the x-axis (years) and y-axis (values such as days or population). Plot the given data points according to the table, using the scale to correctly place each point. Then, connect the points with straight lines to visualize the trend. Ensure that the axes are labelled clearly, and for multiple datasets (as in part (b)), include a legend. This question tests your ability to convert tabular data into a graphical representation.",
+    "topic": "Data Representation (Drawing Line Graphs)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex005"
+  },
+  {
+    "question_text": "A courier-person cycles from a town to a neighbouring suburban area to deliver a parcel to a merchant. The graph (with the x-axis showing Time from 8 am to 12 noon and the y-axis showing Distance from the town in km from 0 to 22) represents his journey. (a) What is the scale taken for the time axis? (b) How much time did the person take for the travel? (c) How far is the place of the merchant from the town? (d) Did the person stop on his way? Explain. (e) During which period did he ride the fastest?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) The scale on the time axis is such that each division represents 1 hour (from 8 am to 12 noon covers 4 hours). b) The total time taken for the travel is 4 hours. c) The final point on the graph shows the distance from the town to the merchant’s location, which is approximately 22 km. d) If there exists a horizontal segment in the graph (indicating no change in distance for a period of time), then the courier must have stopped; for example, a flat segment between 10 and 11 am would suggest a pause. e) The fastest riding period is indicated by the steepest segment on the graph; if the graph rises most sharply between 9 am and 10 am, that is the period during which he rode the fastest.",
+    "explanation": "Examine the graph carefully: for (a) determine how many hours are represented per division; from 8 am to 12 noon, a consistent hourly scale is assumed. For (b), subtract the start time from the end time to find the total journey time. For (c), read the final distance value from the y-axis at 12 noon. For (d), identify any segments where the line is horizontal, indicating that the distance did not change over that interval. For (e), assess the slope (steepness) of the line in different segments; the steepest slope corresponds to the highest speed. This question examines your capability to analyze motion graphs.",
+    "topic": "Graph Interpretation (Motion and Speed Analysis)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex006"
+  },
+  {
+    "question_text": "Can there be a time–temperature graph as follows? (i) A graph showing temperature increasing linearly with time. (ii) A graph showing temperature decreasing linearly with time. (iii) A graph showing temperature constant over time. (iv) A graph showing time constant while temperature changes vertically. Justify your answer for each case.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "i) Yes, a graph showing temperature increasing linearly with time is possible when the temperature rises at a constant rate over a period. ii) Yes, a graph showing temperature decreasing linearly with time is possible if the temperature falls at a constant rate. iii) Yes, a constant temperature over time can be depicted if the measured temperature remains unchanged over the duration. iv) No, a graph where time is constant while temperature changes vertically is not valid for a time–temperature graph because time must always progress along the horizontal axis; a vertical line would mean multiple temperature values at the same time, which is not realistic.",
+    "explanation": "For (i) and (ii), if the rate of increase or decrease in temperature throughout the observed period is uniform, the graph will be a straight line with a positive or negative slope respectively. For (iii), if there is no change in temperature, the graph is a horizontal line, indicating a constant value. For (iv), the x-axis of a time–temperature graph represents time and must move forward; a vertical line suggests that time is frozen while temperature changes, which contradicts the definition of a function controlling time. This problem assesses your conceptual understanding of graphing functions and the meaning of their axes.",
+    "topic": "Graph Theory and Function Representation",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex007"
+  }
+]

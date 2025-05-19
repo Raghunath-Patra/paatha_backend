@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "When a ray of light travels from a rarer medium (e.g., air) to a denser medium (e.g., water), how does its path change relative to the normal at the interface?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. It bends away from the normal",
+      "B. It bends towards the normal",
+      "C. It continues in the same line",
+      "D. It gets completely reflected"
+    ],
+    "correct_answer": "B. It bends towards the normal. When light enters a denser medium, its speed decreases, causing it to bend towards the normal line at the point of incidence.",
+    "explanation": "When light travels from a rarer medium (lower refractive index) to a denser medium (higher refractive index), its speed decreases. According to Snell’s law, this change in speed causes the light ray to bend towards the normal.",
+    "topic": "Refraction of Light",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "jesc109",
+    "section_id": "06_section_9_3",
+    "question_id": "cbse_x_jesc1dd_c109_gen027"
+  }
+]

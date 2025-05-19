@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Find the focal length of a convex mirror whose radius of curvature is 32 cm.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "f = 16 cm",
+    "explanation": "For spherical mirrors, the focal length (f) is given by f = R/2. Here, the radius of curvature (R) is provided as 32 cm. Substituting the value, we get f = 32 cm / 2 = 16 cm. In convex mirrors (using the given sign convention), the focal length is taken as positive in this context.",
+    "topic": "Spherical Mirrors (Image Formation, Focal Length)",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic005"
+  },
+  {
+    "question_text": "A concave mirror produces a three times magnified (enlarged) real image of an object placed at 10 cm in front of it. Where is the image located?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The image is located 30 cm in front of the mirror.",
+    "explanation": "For a concave mirror forming a real, enlarged image, the magnification (m) is given by the formula m = -v/u, where v is the image distance and u (given as -10 cm according to the sign conventions for mirrors) is the object distance. With m = -3, we have -3 = -v/(-10 cm), which simplifies to v = -30 cm. The negative sign indicates that the image is real and formed in front of the mirror. Thus, the image is located 30 cm from the mirror.",
+    "topic": "Image Formation by Concave Mirrors",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic006"
+  }
+]

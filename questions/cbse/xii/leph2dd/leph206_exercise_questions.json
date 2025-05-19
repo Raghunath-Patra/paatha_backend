@@ -1,0 +1,105 @@
+[
+  {
+    "question_text": "In an n-type silicon, which of the following statement is true: (a) Electrons are majority carriers and trivalent atoms are the dopants. (b) Electrons are minority carriers and pentavalent atoms are the dopants. (c) Holes are minority carriers and pentavalent atoms are the dopants. (d) Holes are majority carriers and trivalent atoms are the dopants.",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Electrons are majority carriers and trivalent atoms are the dopants.",
+      "Electrons are minority carriers and pentavalent atoms are the dopants.",
+      "Holes are minority carriers and pentavalent atoms are the dopants.",
+      "Holes are majority carriers and trivalent atoms are the dopants."
+    ],
+    "correct_answer": "Holes are minority carriers and pentavalent atoms are the dopants.",
+    "explanation": "In an n-type semiconductor, pentavalent dopants donate an extra electron. This raises the number of free electrons in the conduction band, making electrons the majority carriers. As a result, holes become the minority carriers. The correct statement is that holes are minority carriers and pentavalent atoms are the dopants.",
+    "topic": "Extrinsic Semiconductor - n-type Doping",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph206",
+    "question_id": "cbse_xii_leph2dd_c206_ex001"
+  },
+  {
+    "question_text": "Which of the statements given in Exercise 14.1 is true for p-type semiconductors?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Electrons are majority carriers and trivalent atoms are the dopants.",
+      "Electrons are minority carriers and pentavalent atoms are the dopants.",
+      "Holes are minority carriers and pentavalent atoms are the dopants.",
+      "Holes are majority carriers and trivalent atoms are the dopants."
+    ],
+    "correct_answer": "Holes are majority carriers and trivalent atoms are the dopants.",
+    "explanation": "In p-type semiconductors, trivalent dopants create a deficiency of electrons, effectively generating holes. The number of holes exceeds the number of electrons, making holes the majority carriers. Thus, the statement that holes are majority carriers and trivalent atoms are the dopants is correct.",
+    "topic": "Extrinsic Semiconductor - p-type Doping",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph206",
+    "question_id": "cbse_xii_leph2dd_c206_ex002"
+  },
+  {
+    "question_text": "Carbon, silicon and germanium have four valence electrons each. These are characterised by valence and conduction bands separated by an energy gap. Which of the following correctly represents the ordering of their energy gaps?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "(Eg for Si) < (Eg for Ge) < (Eg for C)",
+      "(Eg for C) < (Eg for Ge) > (Eg for Si)",
+      "Eg for Ge < Eg for Si < Eg for C",
+      "Eg for C = Eg for Si = Eg for Ge"
+    ],
+    "correct_answer": "Eg for Ge < Eg for Si < Eg for C",
+    "explanation": "The energy gap for germanium is about 0.7 eV, for silicon about 1.1 eV, and for carbon (diamond) about 5.4 eV. This gives the ordering: Eg for Ge is the smallest, followed by Eg for Si, and Eg for C is the largest. Option (c) correctly represents this order.",
+    "topic": "Energy Bands and Band Gap in Semiconductors",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph206",
+    "question_id": "cbse_xii_leph2dd_c206_ex003"
+  },
+  {
+    "question_text": "In an unbiased p-n junction, holes diffuse from the p-region to the n-region because:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Free electrons in the n-region attract them.",
+      "They move across the junction by the potential difference.",
+      "Hole concentration in the p-region is more as compared to the n-region.",
+      "All the above."
+    ],
+    "correct_answer": "Hole concentration in the p-region is more as compared to the n-region.",
+    "explanation": "Diffusion of charge carriers in a p-n junction is primarily driven by the concentration gradient. In a p-type material, the concentration of holes is higher than in the n-type material, which causes holes to diffuse from the p-region to the n-region. Although electric forces exist, the dominant reason for the initial diffusion is the difference in concentration.",
+    "topic": "p-n Junction Formation and Carrier Diffusion",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph206",
+    "question_id": "cbse_xii_leph2dd_c206_ex004"
+  },
+  {
+    "question_text": "When a forward bias is applied to a p-n junction, it:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Raises the potential barrier.",
+      "Reduces the majority carrier current to zero.",
+      "Lowers the potential barrier.",
+      "None of the above."
+    ],
+    "correct_answer": "Lowers the potential barrier.",
+    "explanation": "Applying a forward bias to a p-n junction reduces the built-in potential barrier across the junction. This allows carriers (electrons and holes) to more easily cross the junction, resulting in an increase in current flow. Hence, the correct answer is that forward bias lowers the potential barrier.",
+    "topic": "p-n Junction Diode Under Forward Bias",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph206",
+    "question_id": "cbse_xii_leph2dd_c206_ex005"
+  },
+  {
+    "question_text": "In half-wave rectification, what is the output frequency if the input frequency is 50 Hz? What is the output frequency of a full-wave rectifier for the same input frequency?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Half-wave output frequency is 50 Hz; full-wave output frequency is 100 Hz.",
+    "explanation": "In half-wave rectification, only one half (either positive or negative) of the input AC cycle is allowed to pass through, so the output frequency remains the same as the input frequency, which is 50 Hz. In full-wave rectification, both halves of the AC cycle are used by inverting the negative half, effectively doubling the number of pulses per second, so the output frequency becomes 100 Hz.",
+    "topic": "Rectification Using Semiconductor Diodes",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph206",
+    "question_id": "cbse_xii_leph2dd_c206_ex006"
+  }
+]

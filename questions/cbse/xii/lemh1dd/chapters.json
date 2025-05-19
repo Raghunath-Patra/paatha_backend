@@ -1,0 +1,11 @@
+{
+  "name": "Mathematics Part I",
+  "chapters": [
+    { "number": 1, "name": "Relations and Functions" },
+    { "number": 2, "name": "Inverse Trigonometric Functions" },
+    { "number": 3, "name": "Matrices" },
+    { "number": 4, "name": "Determinants" },
+    { "number": 5, "name": "Continuity and Differentiability" },
+    { "number": 6, "name": "Application of Derivatives" }
+  ]
+}

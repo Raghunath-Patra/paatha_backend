@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "A ray of light travelling in air enters obliquely into water. Does the light ray bend towards the normal or away from the normal? Why?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The light ray bends towards the normal because water is an optically denser medium than air, causing the light to slow down and change direction toward the perpendicular to the surface.",
+    "explanation": "According to Snell’s Law (n₁ sin i = n₂ sin r), when light passes from a rarer medium (air) to a denser medium (water), its speed decreases and it bends towards the normal. In this case, the refractive index of water (approximately 1.33) is greater than that of air (approximately 1.0003), causing the change in direction towards the normal. This phenomenon is a fundamental characteristic of the refraction of light.",
+    "topic": "Refraction of Light",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic007"
+  },
+  {
+    "question_text": "Light enters from air to glass having refractive index 1.50. What is the speed of light in the glass given that the speed of light in vacuum is 3 × 10⁸ m/s?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The speed of light in the glass is 2 × 10⁸ m/s.",
+    "explanation": "Using the relation between refractive index and speed of light, n = c/v, we rearrange to get v = c/n. Substituting c = 3 × 10⁸ m/s and n = 1.50 gives v = (3 × 10⁸ m/s)/1.50 = 2 × 10⁸ m/s. This shows how light slows down when entering a denser medium like glass.",
+    "topic": "Refractive Index",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic008"
+  },
+  {
+    "question_text": "From Table 9.3, identify the medium with the highest optical density and the medium with the lowest optical density.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The medium with the highest optical density is Diamond (n = 2.42) and the one with the lowest optical density is Air (n ≈ 1.0003).",
+    "explanation": "Optical density is indicated by the refractive index of a medium. According to Table 9.3, Diamond has the highest refractive index (2.42), which means it is the optically densest. Conversely, Air has a refractive index very close to 1 (approximately 1.0003), making it the optically rarest medium in the table.",
+    "topic": "Refractive Index",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic009"
+  },
+  {
+    "question_text": "You are given kerosene, turpentine, and water. In which of these does light travel fastest?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Light travels fastest in water.",
+    "explanation": "The speed of light in a medium is inversely proportional to its refractive index (v = c/n). From the provided data, water has a refractive index of 1.33, kerosene has 1.44, and turpentine has 1.47. Since water has the lowest refractive index, it allows light to travel faster compared to kerosene and turpentine.",
+    "topic": "Refraction and Refractive Index",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic010"
+  },
+  {
+    "question_text": "The refractive index of diamond is 2.42. What does this statement mean?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "It means that light travels 2.42 times slower in diamond than in air (or vacuum).",
+    "explanation": "The refractive index (n) is defined as the ratio of the speed of light in air (or vacuum) to the speed of light in the medium (n = c/v). For diamond, n = 2.42 indicates that the speed of light in diamond is c/2.42, i.e., light slows down by a factor of 2.42 when it enters diamond relative to its speed in air. This high refractive index also reflects the optical density of diamond.",
+    "topic": "Refractive Index",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ic011"
+  }
+]

@@ -1,0 +1,57 @@
+{
+    "name": "Biology",
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Sexual Reproduction in Flowering Plants"
+      },
+      {
+        "number": 2,
+        "name": "Human Reproduction"
+      },
+      {
+        "number": 3,
+        "name": "Reproductive Health"
+      },
+      {
+        "number": 4,
+        "name": "Principles of Inheritance and Variation"
+      },
+      {
+        "number": 5,
+        "name": "Molecular Basis of Inheritance"
+      },
+      {
+        "number": 6,
+        "name": "Evolution"
+      },
+      {
+        "number": 7,
+        "name": "Human Health and Disease"
+      },
+      {
+        "number": 8,
+        "name": "Microbes in Human Welfare"
+      },
+      {
+        "number": 9,
+        "name": "Biotechnology : Principles and Processes"
+      },
+      {
+        "number": 10,
+        "name": "Biotechnology and its Applications"
+      },
+      {
+        "number": 11,
+        "name": "Organisms and Populations"
+      },
+      {
+        "number": 12,
+        "name": "Ecosystem"
+      },
+      {
+        "number": 13,
+        "name": "Biodiversity and Conservation"
+      }
+    ]
+  }

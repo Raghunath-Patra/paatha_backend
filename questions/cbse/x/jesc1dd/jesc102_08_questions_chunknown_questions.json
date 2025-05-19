@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "You have two solutions, A and B. The pH of solution A is 6 and the pH of solution B is 8. Which solution has a higher hydrogen ion (H⁺) concentration? Also, state which solution is acidic and which one is basic.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Solution A (pH 6) has a higher H⁺ concentration and is acidic, while Solution B (pH 8) is basic.",
+    "explanation": "The pH scale is inversely related to the H⁺ ion concentration. A lower pH (such as 6) indicates a higher concentration of hydrogen ions, making the solution acidic. Conversely, a higher pH (like 8) indicates a lower concentration of H⁺ ions and a relatively higher concentration of hydroxide ions (OH⁻), making the solution basic.",
+    "topic": "Acid-Base Chemistry – pH and Hydrogen Ion Concentration",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic010"
+  },
+  {
+    "question_text": "What effect does the concentration of H⁺(aq) ions have on the nature of a solution?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A higher concentration of H⁺ ions makes the solution more acidic (lower pH), while a lower concentration of H⁺ ions makes the solution less acidic or more basic (higher pH).",
+    "explanation": "The acidity or basicity of a solution is determined by the concentration of hydrogen ions. As the H⁺ ion concentration increases, the pH decreases, shifting the nature of the solution towards acidity. Conversely, a lower H⁺ ion concentration results in a higher pH, indicating a basic solution. This relationship is based on the definition of the pH scale.",
+    "topic": "Acid-Base Chemistry – pH Dependence on Ion Concentration",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic011"
+  },
+  {
+    "question_text": "Do basic solutions also contain H⁺(aq) ions? If yes, then why are these solutions classified as basic?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Yes, basic solutions do contain H⁺(aq) ions, but they are classified as basic because the concentration of hydroxide ions (OH⁻) is significantly higher than the concentration of hydrogen ions, shifting the equilibrium of water (H₂O) toward more OH⁻. This imbalance is consistent with the ion product constant for water (K₍w₎ = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25 °C).",
+    "explanation": "Even in basic solutions, water undergoes autoionization, producing a small amount of H⁺ ions. However, in a basic solution the dominant species are OH⁻ ions. The basicity is determined by the fact that the OH⁻ concentration exceeds the H⁺ concentration, as dictated by the equilibrium constant (K₍w₎). This results in a pH value greater than 7, which is characteristic of basic solutions.",
+    "topic": "Acid-Base Equilibrium and Ionization of Water",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic012"
+  },
+  {
+    "question_text": "Under what soil conditions would a farmer treat his fields with quick lime (CaO), slaked lime (Ca(OH)₂), or chalk (CaCO₃)?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A farmer would treat his fields with these substances when the soil is too acidic (i.e., when the soil pH is low). These basic materials help neutralize excess acidity in the soil.",
+    "explanation": "Soil with low pH is acidic due to a high concentration of hydrogen ions. Quick lime, slaked lime, and chalk are basic in nature and react with the acids present in the soil to form salts, water, and sometimes carbon dioxide (in the case of chalk). This neutralization reaction raises the pH of the soil, thereby making it more fertile for most crops. For example, the reaction for chalk is: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂.",
+    "topic": "Soil Chemistry – Acid Neutralization",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic013"
+  }
+]

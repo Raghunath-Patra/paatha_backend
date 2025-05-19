@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "What is the nature of the distance-time graphs for uniform and non-uniform motion of an object?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For uniform motion, the distance-time graph is a straight line. For non-uniform motion, the distance-time graph is a curved (non-straight) line.",
+    "explanation": "A straight line in a distance-time graph indicates that the object covers equal distances in equal intervals of time, which implies a constant (uniform) speed. In contrast, a curved line indicates that the distance does not increase uniformly with time, showing that the object’s speed is changing (non-uniform motion). This concept is fundamental in understanding how different motions are represented graphically.",
+    "topic": "Distance–Time Graphs and Motion",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic014"
+  },
+  {
+    "question_text": "What can you say about the motion of an object whose distance-time graph is a straight line parallel to the time axis?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The object is stationary (at rest) because its distance does not change as time progresses.",
+    "explanation": "A distance-time graph that is a horizontal line (parallel to the time axis) indicates that there is no change in the position of the object over time. This means that the object is not moving and is therefore at rest. The lack of any slope further confirms the absence of motion.",
+    "topic": "Distance–Time Graphs and Motion",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic015"
+  },
+  {
+    "question_text": "What can you say about the motion of an object if its speed-time graph is a straight line parallel to the time axis?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The object is moving with a constant speed since the speed remains unchanged over time.",
+    "explanation": "A horizontal line in a speed-time graph means that the speed of the object does not vary as time passes. This constant speed indicates that there is no acceleration or deceleration occurring; hence, the object is moving uniformly.",
+    "topic": "Speed–Time Graphs",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic016"
+  },
+  {
+    "question_text": "What is the quantity which is measured by the area occupied below the velocity-time graph?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The area under the velocity-time graph represents the displacement of the object (or the distance traveled if the motion is in one direction).",
+    "explanation": "In a velocity-time graph, the vertical axis represents velocity and the horizontal axis represents time. The area under the graph (calculated as the integral of velocity with respect to time) gives the displacement. This is because displacement equals velocity multiplied by time when velocity is constant, and integration extends this concept to varying velocities.",
+    "topic": "Velocity–Time Graphs",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic017"
+  }
+]

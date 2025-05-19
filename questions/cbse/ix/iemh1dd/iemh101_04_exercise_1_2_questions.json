@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "State whether the following statements are true or false. Justify your answers.\n(i) Every irrational number is a real number.\n(ii) Every point on the number line is of the form √m, where m is a natural number.\n(iii) Every real number is an irrational number.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) True – By definition, an irrational number is a real number that cannot be expressed as a ratio of integers.\n(ii) False – Not every point on the number line can be written in the form √m; many real numbers (both rational and irrational) do not take this form.\n(iii) False – The set of real numbers includes both rational and irrational numbers.",
+    "explanation": "For (i), by the definition given in class, irrational numbers are those real numbers that cannot be represented as p/q (with integers p and nonzero q). Hence they are a subset of real numbers.\nFor (ii), the expression √m only represents numbers that come from taking the square root of a natural number. There exist many real numbers (such as 0.3, π, or negative numbers on the real line) that are not of this form.\nFor (iii), real numbers include both rationals and irrationals. Since not every real number is irrational (for example, 1/2 is rational), the statement is false.",
+    "topic": "Irrational Numbers, Real Numbers",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex005"
+  },
+  {
+    "question_text": "Are the square roots of all positive integers irrational? If not, give an example of the square root of a number that is a rational number.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "No, not all square roots of positive integers are irrational. For example, √4 = 2 is a rational number.",
+    "explanation": "A square root of a positive integer is irrational unless the integer is a perfect square. When an integer m is a perfect square (like 4, 9, 16, etc.), its square root is an integer, and hence rational (since it can be written as the ratio of two integers). In the case of √4, since 4 is a perfect square, √4 equals 2, a rational number.",
+    "topic": "Irrational Numbers, Perfect Squares",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex006"
+  },
+  {
+    "question_text": "Show how √5 can be represented on the number line.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "To represent √5 on the number line, begin by constructing a segment OB representing √2 and then extend the construction as follows: First, extend OB to form a segment corresponding to √4 (which is 2). Next, at the endpoint of the segment representing √4 (say point C), erect a perpendicular segment of unit length. Then joining the vertex (O) to the endpoint of this new segment yields the hypotenuse of a right triangle, whose length by the Pythagoras theorem is √(2² + 1²) = √5. Mark the corresponding point on the number line using a compass with center O and radius equal to the length of this hypotenuse.",
+    "explanation": "Step 1: Represent √4 (which is 2) on the number line by marking a point (say point B) at distance 2 from the origin O.\nStep 2: From point B, construct a perpendicular segment of unit length upward. Let the end of this perpendicular be point C.\nStep 3: Join point O (the origin) to point C. By the Pythagoras theorem, the length of OC equals √(2² + 1²) = √(4+1) = √5.\nStep 4: Using a compass with the distance OC, transfer this distance onto the number line, with O as the center. The intersection point represents √5.\nThis geometric construction clearly shows how √5 can be located on the number line.",
+    "topic": "Locating Irrational Numbers on the Number Line",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex007"
+  },
+  {
+    "question_text": "Classroom activity (Constructing the ‘square root spiral’): Take a large sheet of paper and construct the ‘square root spiral’ in the following fashion. Start with a point O and draw a line segment OP₁ of unit length. Draw a line segment P₁P₂ perpendicular to OP₁ of unit length. Now draw a line segment P₂P₃ perpendicular to OP₂. Then draw a line segment P₃P₄ perpendicular to OP₃. Continuing in this manner, you can draw the line segments Pₙ₋₁Pₙ by drawing a line segment of unit length perpendicular to OPₙ₋₁. In this manner, you will have created the points P₂, P₃, …, Pₙ, … and joined them to create a beautiful spiral depicting √2, √3, √4, …",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "To construct the square root spiral, follow these steps exactly:\n1. Begin with point O. Draw a segment OP₁ = 1 unit.\n2. At point P₁, construct a line segment P₁P₂ = 1 unit perpendicular to OP₁. The hypotenuse OP₂ now represents √2.\n3. At point P₂, draw a segment P₂P₃ = 1 unit perpendicular to OP₂. This forms a right triangle with hypotenuse OP₃ representing √3.\n4. Continue this process: at every new point Pₙ₋₁, draw a perpendicular segment of length 1, and join it back to O. The new hypotenuse OPₙ will represent √n.\nThis spiral visually and geometrically represents the increasing lengths corresponding to √2, √3, √4, and so on.",
+    "explanation": "Step-by-step construction:\n• Start with a point O and mark point P₁ such that OP₁ = 1 unit.\n• At P₁, draw a line perpendicular to OP₁ of 1 unit to locate point P₂. By the Pythagorean theorem, the line joining O and P₂ has length √(1²+1²) = √2.\n• Next, at point P₂, draw a perpendicular segment P₂P₃ of length 1. The segment OP₃, obtained by joining O and P₃, by the Pythagorean theorem will have length √( (√2)² +1² ) = √3.\n• Continue this iterative process. Each new right angle construction gives a triangle whose hypotenuse represents the next square root value.\nThis activity not only reinforces the properties of irrational numbers and the Pythagorean theorem but also offers a creative way to visually represent numerical concepts on paper.",
+    "topic": "Geometric Construction, Square Root Spiral, Irrational Numbers",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "iemh101",
+    "question_id": "cbse_ix_iemh1dd_c101_ex008"
+  }
+]

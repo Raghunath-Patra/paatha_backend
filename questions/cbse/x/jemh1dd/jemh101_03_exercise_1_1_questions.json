@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "Express each number as a product of its prime factors: (i) 140, (ii) 156, (iii) 3825, (iv) 5005, (v) 7429.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) 140 = 2² × 5 × 7; (ii) 156 = 2² × 3 × 13; (iii) 3825 = 3² × 5² × 17; (iv) 5005 = 5 × 7 × 11 × 13; (v) 7429 = 17 × 19 × 23.",
+    "explanation": "To express a number as a product of its prime factors, we repeatedly divide by the smallest prime until the quotient is 1. For (i) 140, dividing by 2 gives 70, dividing by 2 again gives 35, then dividing 35 by 5 gives 7, which is prime. Similarly, for (ii) 156: 156 ÷ 2 = 78, 78 ÷ 2 = 39, and then 39 = 3 × 13. For (iii) 3825: divide by 5 to get 765; 765 ÷ 3 = 255; 255 ÷ 3 = 85; and 85 = 5 × 17. For (iv) 5005, recognizing that 5 × 7 × 11 × 13 equals 5005 helps factor it immediately. For (v) 7429, dividing by 17 gives 437 and 437 factors as 19 × 23. This exercise tests your understanding of the Fundamental Theorem of Arithmetic.",
+    "topic": "Fundamental Theorem of Arithmetic / Prime Factorization",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex001"
+  },
+  {
+    "question_text": "Find the LCM and HCF of the following pairs of integers and verify that LCM × HCF = product of the two numbers: (i) 26 and 91, (ii) 510 and 92, (iii) 336 and 54.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) For 26 and 91: HCF = 13, LCM = 182; (ii) For 510 and 92: HCF = 2, LCM = 23,460; (iii) For 336 and 54: HCF = 6, LCM = 3,024.",
+    "explanation": "Step 1: Factorize each number: \n(i) 26 = 2 × 13, 91 = 7 × 13. Common prime: 13. Hence, HCF = 13 and LCM = 2 × 7 × 13 = 182. Verification: 13 × 182 = 2366, which equals 26 × 91.\n(ii) 510 = 2 × 3 × 5 × 17, 92 = 2² × 23. Common prime: 2. Thus, HCF = 2 and LCM = 2² × 3 × 5 × 17 × 23 = 23,460. Verification: 2 × 23,460 = 46,920 = 510 × 92.\n(iii) 336 = 2⁴ × 3 × 7, 54 = 2 × 3³. Common primes: 2 and 3, with smallest powers 2¹ and 3¹; hence, HCF = 2 × 3 = 6 and LCM = 2⁴ × 3³ × 7 = 3024. Verification: 6 × 3024 = 18,144, which equals 336 × 54.",
+    "topic": "HCF and LCM using Prime Factorization",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex002"
+  },
+  {
+    "question_text": "Find the LCM and HCF of the following integers by applying the prime factorisation method: (i) 12, 15, and 21; (ii) 17, 23, and 29; (iii) 8, 9, and 25.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) For 12, 15, 21: HCF = 3 and LCM = 420; (ii) For 17, 23, 29: HCF = 1 and LCM = 17 × 23 × 29 = 11,339; (iii) For 8, 9, 25: HCF = 1 and LCM = 8 × 9 × 25 = 1,800.",
+    "explanation": "For (i), factorize each number: 12 = 2² × 3, 15 = 3 × 5, 21 = 3 × 7. The only common prime is 3, so HCF = 3. For the LCM, take the highest powers of all primes: 2², 3, 5, and 7. Multiply: 4 × 3 × 5 × 7 = 420.\nFor (ii), since 17, 23, and 29 are prime numbers with no common factors, HCF = 1 and LCM = 17 × 23 × 29 = 11,339.\nFor (iii), 8 = 2³, 9 = 3², and 25 = 5² have no common primes, so HCF = 1 and LCM = 2³ × 3² × 5² = 8 × 9 × 25 = 1,800.",
+    "topic": "HCF and LCM for Multiple Numbers",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex003"
+  },
+  {
+    "question_text": "Given that HCF(306, 657) = 9, find LCM(306, 657).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "LCM(306, 657) = 22,338.",
+    "explanation": "The relationship between two numbers is given by: HCF × LCM = Product of the numbers. Here, 306 × 657 = 201,042. With HCF = 9, we have LCM = 201,042 ÷ 9 = 22,338.",
+    "topic": "HCF and LCM Relationship",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex004"
+  },
+  {
+    "question_text": "Check whether 6ⁿ can end with the digit 0 for any natural number n.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "No, 6ⁿ cannot end with the digit 0 for any natural number n.",
+    "explanation": "For a number to end with 0, its prime factorization must include both 2 and 5 because 10 = 2 × 5. The number 6ⁿ = (2 × 3)ⁿ = 2ⁿ × 3ⁿ contains only the primes 2 and 3. Since it does not include the prime factor 5, 6ⁿ cannot have a 0 as its last digit.",
+    "topic": "Properties of Exponents and Prime Factorization",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex005"
+  },
+  {
+    "question_text": "Explain why 7 × 11 × 13 + 13 and 7 × 6 × 5 × 4 × 3 × 2 × 1 + 5 are composite numbers.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "7 × 11 × 13 + 13 = 13 × (7 × 11 + 1) = 13 × 78, which is composite. Similarly, 7! + 5 = 5040 + 5 = 5045 = 5 × 1009, which is composite.",
+    "explanation": "For the first expression, factor out the common term 13: \n7 × 11 × 13 + 13 = 13 × (7 × 11 + 1) = 13 × (77 + 1) = 13 × 78. Since 78 is greater than 1, the expression is composite.\nFor the second expression, note that 7! (7 factorial) equals 5040. Therefore, 7! + 5 = 5040 + 5 = 5045. Since the last digit of 5045 is 5, the number is divisible by 5. In fact, 5045 = 5 × 1009, confirming it is composite.",
+    "topic": "Composite Numbers and Factorization",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex006"
+  },
+  {
+    "question_text": "There is a circular path around a sports field. Sonia takes 18 minutes to drive one round of the field, while Ravi takes 12 minutes for the same. Suppose they both start at the same point and at the same time, and go in the same direction. After how many minutes will they meet again at the starting point?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "They will meet again after 36 minutes.",
+    "explanation": "To determine when they will meet at the starting point again, compute the LCM of their lap times. For Sonia, 18 = 2 × 3²; for Ravi, 12 = 2² × 3. The LCM is given by taking the highest power of each prime: 2² and 3². Therefore, LCM = 4 × 9 = 36 minutes.",
+    "topic": "LCM and Time Cycles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex007"
+  }
+]

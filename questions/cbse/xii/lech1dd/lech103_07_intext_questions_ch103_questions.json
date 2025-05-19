@@ -1,0 +1,30 @@
+[
+  {
+    "question_text": "A first order reaction has a rate constant 1.15 × 10⁻³ s⁻¹. How long will 5 g of this reactant take to reduce to 3 g?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 444 seconds",
+    "explanation": "For a first order reaction the integrated rate law is ln([R]₀/[R]) = kt. Here, since mass is proportional to concentration, the ratio 5 g/3 g can be used. Therefore, t = ln(5/3) / (1.15 × 10⁻³ s⁻¹). Calculating ln(5/3) gives approximately 0.5108. Dividing 0.5108 by 1.15 × 10⁻³ yields roughly 444 s. This shows the time required for the concentration to drop from 5 g to 3 g.",
+    "topic": "Integrated Rate Equations – First Order Reactions and Half-Life",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "07_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in005"
+  },
+  {
+    "question_text": "Time required to decompose SO₂Cl₂ to half of its initial amount is 60 minutes. If the decomposition is a first order reaction, calculate the rate constant of the reaction.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Approximately 0.0116 min⁻¹",
+    "explanation": "For a first order reaction, the half-life t₁/₂ is given by t₁/₂ = 0.693/k. Rearranging gives k = 0.693/t₁/₂. Substituting t₁/₂ = 60 minutes, we obtain k = 0.693/60 ≈ 0.01155 min⁻¹ (approximately 0.0116 min⁻¹). This calculation directly uses the half-life concept introduced in the integrated rate laws section.",
+    "topic": "Integrated Rate Equations – First Order Reactions and Half-Life",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "07_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in006"
+  }
+]

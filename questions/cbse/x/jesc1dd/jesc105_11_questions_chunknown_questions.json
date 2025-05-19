@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Describe the structure and functioning of nephrons.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A nephron is the basic functional unit of the kidney and consists of a Bowman's capsule that surrounds a glomerulus (a tuft of capillaries) connected to a long, coiled renal tubule. In its functioning, blood enters the glomerulus under high pressure, which forces water, salts, glucose, amino acids, and nitrogenous wastes (like urea) to filter into the Bowman's capsule (a process called glomerular filtration). As the filtrate passes through the renal tubule, essential substances such as glucose, amino acids, and most salts are reabsorbed into the blood while water is selectively reabsorbed depending on the body's hydration. The remaining filtrate, which contains waste products and excess salts, is collected into the collecting duct, eventually forming urine.",
+    "explanation": "The nephron performs two major functions: filtration and selective reabsorption. Blood pressure in the glomerulus initiates filtration, and the tubular system processes the filtrate via reabsorption and secretion. These processes are critical for maintaining homeostasis, regulating water and electrolyte balance, and removing metabolic wastes from the body. This explanation involves understanding capillary dynamics, membrane permeability, and hormonal regulation of reabsorption.",
+    "topic": "Excretion in Human Beings – Nephron Structure and Function",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic019"
+  },
+  {
+    "question_text": "What are the methods used by plants to get rid of excretory products?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Plants eliminate their excretory products by several methods: (1) Transpiration, which releases excess water vapor through stomata; (2) Gaseous exchange, where oxygen and carbon dioxide are released through stomata and lenticels during photosynthesis and respiration; (3) Storage of waste products in cellular vacuoles or in dead tissues such as old xylem, resins, gums, and sometimes in leaves that eventually fall off; (4) Direct excretion of some waste substances into the surrounding soil.",
+    "explanation": "Unlike animals, plants do not have specialized excretory organs. Instead, they utilize existing structures like stomata for gaseous exchange and transpiration to eliminate excess water. Additionally, plants compartmentalize or store waste products in non-living tissues or vacuoles, and may even shed leaves that contain accumulated wastes. This multi-faceted approach exemplifies the adaptation of plants to remove potentially harmful by-products without a dedicated excretory system.",
+    "topic": "Excretion in Plants",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic020"
+  },
+  {
+    "question_text": "How is the amount of urine produced regulated?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The regulation of urine production is primarily controlled by the selective reabsorption of water in the renal tubules of the nephrons and by hormonal influences, particularly by Antidiuretic Hormone (ADH). When the body is dehydrated or needs to conserve water, ADH levels increase, making the walls of the collecting ducts more permeable to water, which enhances water reabsorption and reduces urine output. Conversely, when there is excess water, lower ADH levels lead to less reabsorption and a higher volume of urine is produced.",
+    "explanation": "Urine production is regulated by both physical processes and hormonal control. The kidneys filter an initial large volume of filtrate, but most water, along with essential solutes, is reabsorbed in the nephron's tubular system through osmosis driven by concentration gradients. ADH plays a critical role by modifying the permeability of the collecting ducts. This regulation is an excellent example of how the body maintains fluid balance and homeostasis in response to varying water intake and loss.",
+    "topic": "Excretion in Human Beings – Regulation of Urine Production",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic021"
+  }
+]

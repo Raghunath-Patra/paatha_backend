@@ -1,0 +1,29 @@
+{
+    "name": "Chemistry Part I",
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Some Basic Concepts of Chemistry"
+      },
+      {
+        "number": 2,
+        "name": "Structure of Atom"
+      },
+      {
+        "number": 3,
+        "name": "Classification of Elements and Periodicity in Properties"
+      },
+      {
+        "number": 4,
+        "name": "Chemical Bonding and Molecular Structure"
+      },
+      {
+        "number": 5,
+        "name": "Thermodynamics"
+      },
+      {
+        "number": 6,
+        "name": "Equilibrium"
+      }
+    ]
+  }

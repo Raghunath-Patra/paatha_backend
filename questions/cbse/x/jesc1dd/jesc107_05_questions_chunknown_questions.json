@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "How does binary fission differ from multiple fission?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Binary fission is the process where a parent cell divides into two daughter cells, as seen in organisms like Amoeba and Leishmania. In contrast, multiple fission involves the nucleus dividing repeatedly to form several nuclei first, followed by the partitioning of the cytoplasm around each nucleus, resulting in many daughter cells being produced simultaneously—for example, in Plasmodium.",
+    "explanation": "In binary fission, the division is usually symmetric, with the parent cell splitting into two nearly identical daughter cells. This process involves replication of DNA, elongation of the nucleus, and subsequent cytokinesis. Multiple fission, on the other hand, includes multiple rounds of nuclear division before cytoplasmic division, making it possible to produce many offspring at once. These differences highlight how unicellular organisms adapt their division mechanism to suit their lifestyle and environmental conditions.",
+    "topic": "Modes of Reproduction; Fission",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic003"
+  },
+  {
+    "question_text": "How will an organism be benefited if it reproduces through spores?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Reproducing through spores offers benefits such as increased survival under adverse conditions due to their thick protective walls, efficient dispersal over large areas because the spores are lightweight, and the production of large numbers of spores that increase the chances of colonizing new, suitable habitats.",
+    "explanation": "Spores are an adaptation for survival and dispersal. Their thick walls protect the genetic material from environmental stresses (extreme temperatures, dryness, etc.), and their small size allows them to be carried by wind or water, facilitating widespread distribution. This increases the likelihood that some spores will find a favorable environment to germinate and grow, ensuring the continuation of the species.",
+    "topic": "Spore Formation; Reproductive Strategies",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic004"
+  },
+  {
+    "question_text": "Can you think of reasons why more complex organisms cannot give rise to new individuals through regeneration?",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Complex organisms are composed of highly differentiated cells organized into specialized tissues and organs. Successful regeneration would require the correct reassembly and patterning of these multiple cell types into fully functional organs and systems, a process that is generally beyond the regenerative capacity of such organisms.",
+    "explanation": "In simple multicellular organisms, regeneration is feasible because most cells are similar and retain the ability to divide and differentiate into the needed structures. However, in complex organisms, the cells are specialized and organized into specific tissues and organs. The complex spatial and temporal coordination required to re-form functional organs makes complete regeneration from a small fragment extremely unlikely. This limitation underscores the importance of sexual reproduction for these organisms to create a complete offspring with a properly organized body plan.",
+    "topic": "Regeneration and Reproduction; Tissue Differentiation",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic005"
+  },
+  {
+    "question_text": "Why is vegetative propagation practised for growing some types of plants?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Vegetative propagation is practiced because it allows for the rapid and efficient production of new plants that are genetically identical to the parent. This method is particularly useful for propagating plants that have lost the ability to produce viable seeds and for ensuring consistency in desired traits, such as fruit quality and flower color. Additionally, plants produced by vegetative propagation typically mature and produce flowers or fruits faster than seed-grown plants.",
+    "explanation": "In vegetative propagation, parts of a plant such as roots, stems, or leaves can develop into new individuals. This mode of reproduction does not involve the genetic reshuffling inherent in sexual reproduction, so plants maintain the same genetic makeup as the parent. This uniformity is advantageous in agriculture and horticulture where specific traits are desired. Moreover, vegetative propagation bypasses the sometimes lengthy process of seed germination and maturation, leading to a faster turnaround in plant production.",
+    "topic": "Vegetative Propagation; Plant Reproduction",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic006"
+  },
+  {
+    "question_text": "Why is DNA copying an essential part of the process of reproduction?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "DNA copying is essential to reproduction because it ensures that the genetic blueprint which determines the characteristics and functions of an organism is accurately transmitted to its offspring. Without the precise replication of DNA, the preservation of growth, development, and the maintenance of species-specific traits would be compromised.",
+    "explanation": "The process of DNA replication is fundamental to both cellular reproduction and the maintenance of life processes. During reproduction, whether it is asexual or sexual, a consistent and accurate copy of the DNA is required so that the offspring inherits the necessary genetic information to develop properly. Faulty replication could lead to mutations, some of which may be lethal or could disrupt the normal functioning of the organism. This accurate copying mechanism is thus critical for ensuring stability and continuity of life.",
+    "topic": "DNA Replication; Genetic Inheritance",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic007"
+  }
+]

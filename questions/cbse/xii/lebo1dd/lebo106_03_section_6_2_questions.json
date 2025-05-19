@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following is NOT a connotation of the theory of special creation as described in the section?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Living organisms were created as such",
+      "The diversity of life has always remained the same",
+      "Earth is about 4000 years old",
+      "Living forms evolved gradually from common ancestors"
+    ],
+    "correct_answer": "Living forms evolved gradually from common ancestors",
+    "explanation": "The first three options are the connotations of special creation. The idea that living forms evolved gradually from common ancestors contradicts the special creation theory.",
+    "topic": "Evolution of Life Forms - A Theory",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo106",
+    "section_id": "03_section_6_2",
+    "question_id": "cbse_xii_lebo1dd_c106_gen020"
+  }
+]

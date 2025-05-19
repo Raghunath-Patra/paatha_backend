@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "How do substances like CO₂ and water move in and out of the cell? Discuss.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "CO₂ moves across the cell membrane by diffusion, which is the passive movement of molecules from a region of higher concentration to one of lower concentration. In a similar manner, water moves by osmosis—a specific type of diffusion—across a selectively permeable membrane, moving from a region of high water concentration (or low solute concentration) to a region of low water concentration (or high solute concentration).",
+    "explanation": "Diffusion is the process whereby molecules like CO₂ naturally move down their concentration gradient without energy expenditure. Osmosis, being a type of diffusion, involves the movement of water through the plasma membrane. This process is controlled by the selective permeability of the membrane, which allows water and certain molecules to pass while restricting others. Understanding these processes is crucial as they are fundamental to gas exchange in cells and the regulation of water content in biological systems.",
+    "topic": "Cell Transport – Diffusion and Osmosis",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic003"
+  },
+  {
+    "question_text": "Why is the plasma membrane called a selectively permeable membrane?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The plasma membrane is called a selectively permeable membrane because it permits the entry and exit of only certain substances while preventing others from crossing. This selectivity is due to its lipid bilayer structure interspersed with proteins that regulate transport.",
+    "explanation": "The term 'selectively permeable' highlights the property of the plasma membrane that allows specific molecules (such as oxygen, carbon dioxide, water, and nutrients) to pass through, often by passive mechanisms like diffusion or osmosis, or via active transport when energy is needed. This selective regulation enables the cell to maintain homeostasis, controlling internal conditions despite varying external environments. The membrane’s composition, including its lipid bilayer and embedded proteins, is fundamental to its function.",
+    "topic": "Cell Structure – Plasma Membrane Function",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic004"
+  }
+]

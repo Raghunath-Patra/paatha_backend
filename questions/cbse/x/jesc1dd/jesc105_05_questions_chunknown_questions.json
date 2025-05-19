@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "What are the differences between autotrophic nutrition and heterotrophic nutrition?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Autotrophic nutrition is the process by which organisms, such as green plants and some bacteria, synthesize their own food using simple inorganic materials (CO2 and H2O) and an external energy source (typically sunlight) through photosynthesis. In contrast, heterotrophic nutrition involves obtaining complex organic substances by consuming autotrophs or other heterotrophs; examples include animals and fungi.",
+    "explanation": "Autotrophs use sunlight to convert carbon dioxide and water into carbohydrates, serving both as an energy source and storage (e.g., starch), while heterotrophs rely on the ingestion and digestion of complex organic substances to obtain energy and carbon. This distinction highlights different metabolic strategies and ecological roles. The answer incorporates key scientific terms such as 'photosynthesis', 'inorganic materials', and 'enzymatic breakdown' for heterotrophs.",
+    "topic": "Nutrition: Autotrophic vs. Heterotrophic",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic005"
+  },
+  {
+    "question_text": "Where do plants get each of the raw materials required for photosynthesis?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Plants obtain carbon dioxide from the atmosphere through stomata in the leaf surface, water is absorbed from the soil by the roots, and sunlight is captured by the chlorophyll present in the chloroplasts of leaves. Additionally, essential minerals such as nitrogen (N), phosphorus (P), iron (Fe), and magnesium (Mg) are absorbed from the soil by the roots.",
+    "explanation": "For photosynthesis to occur, plants need carbon dioxide, water, and sunlight. The stomata regulate gas exchange, roots ensure water and mineral uptake, and chlorophyll in the leaf cells facilitates the conversion of light energy to chemical energy. This process is fundamental for carbohydrate synthesis and energy storage in the form of starch.",
+    "topic": "Photosynthesis and Raw Material Uptake",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic006"
+  },
+  {
+    "question_text": "What is the role of the acid in our stomach?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The acid in the stomach, primarily hydrochloric acid (HCl), creates an acidic environment that activates the enzyme pepsin for protein digestion and helps kill harmful bacteria and microorganisms that enter with food.",
+    "explanation": "Hydrochloric acid lowers the pH in the stomach, facilitating the conversion of pepsinogen to its active form pepsin, which breaks down proteins into peptides. Additionally, the acidic conditions provide a defense mechanism against ingested pathogens by denaturing their proteins, thus playing a dual role in digestion and immune protection.",
+    "topic": "Human Digestive System - Stomach Function",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic007"
+  },
+  {
+    "question_text": "What is the function of digestive enzymes?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Digestive enzymes are biological catalysts that accelerate the breakdown of complex food molecules such as carbohydrates, proteins, and fats into smaller, soluble molecules like simple sugars, amino acids, fatty acids, and glycerol, which can then be absorbed and utilized by the body.",
+    "explanation": "Enzymes like salivary amylase, pepsin, trypsin, and lipase catalyze specific reactions that reduce the energy barrier for the breakdown of macromolecules. This enzymatic action is crucial for efficient digestion and nutrient absorption. The specificity of these enzymes ensures that each type of macromolecule is digested properly, facilitating subsequent metabolic processes.",
+    "topic": "Digestion - Role of Enzymes",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic008"
+  },
+  {
+    "question_text": "How is the small intestine designed to absorb digested food?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The small intestine has an inner lining with numerous finger-like projections called villi, which markedly increase its surface area. Each villus contains a network of blood capillaries and lymphatic vessels (lacteals) that facilitate the absorption of digested nutrients into the circulatory and lymphatic systems.",
+    "explanation": "The design of the small intestine, with its large surface area due to the presence of villi and microvilli, is essential for the efficient absorption of digested food. The absorptive capacity is maximized through these structures; the thin walls allow nutrients to easily pass into the bloodstream, while the lacteals help in the absorption of fats. This anatomical adaptation is a key component of the human digestive system.",
+    "topic": "Human Digestive System - Nutrient Absorption",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic009"
+  }
+]

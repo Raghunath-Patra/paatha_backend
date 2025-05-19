@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following statements about magnet poles is correct?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Like poles attract each other.",
+      "B. Unlike poles repel each other.",
+      "C. Like poles repel each other while unlike poles attract each other.",
+      "D. Both like and unlike poles always repel each other."
+    ],
+    "correct_answer": "C. Like poles repel each other while unlike poles attract each other.",
+    "explanation": "By definition, like poles (North-North or South-South) repel and unlike poles (North-South) attract. This fundamental property of magnetism demonstrates non-contact magnetic forces.",
+    "topic": "Magnetic Force",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc108",
+    "section_id": "08_section_8_7",
+    "question_id": "cbse_viii_hesc1dd_c108_gen077"
+  }
+]

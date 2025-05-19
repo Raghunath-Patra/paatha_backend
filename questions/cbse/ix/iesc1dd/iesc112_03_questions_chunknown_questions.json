@@ -1,0 +1,20 @@
+[
+  {
+    "question_text": "What do we get from cereals, pulses, fruits and vegetables?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Cereals – carbohydrates; Pulses – proteins; Fruits and Vegetables – vitamins, minerals, some carbohydrates, proteins, and fats.",
+      "B. Cereals – proteins; Pulses – carbohydrates; Fruits and Vegetables – fats and sugars.",
+      "C. Cereals – fats; Pulses – vitamins; Fruits and Vegetables – proteins and minerals.",
+      "D. Cereals – vitamins; Pulses – minerals; Fruits and Vegetables – carbohydrates and water."
+    ],
+    "correct_answer": "A. Cereals – carbohydrates; Pulses – proteins; Fruits and Vegetables – vitamins, minerals, some carbohydrates, proteins, and fats.",
+    "explanation": "Cereals such as wheat, rice, maize, millets, and sorghum are primarily rich in carbohydrates, which serve as the body's main energy source. Pulses such as gram, peas, black gram, and others provide high-quality proteins required for growth and repair. Fruits and vegetables are sources of essential vitamins and minerals, while also containing small amounts of carbohydrates, proteins, and fats. This classification highlights the specialized nutritional contribution of each crop category to a balanced diet.",
+    "topic": "Nutrition from Crop Produce and Crop Yield Improvement",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic001"
+  }
+]

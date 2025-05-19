@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Prove that √5 is irrational.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Assume √5 = a/b where a and b are coprime integers and b ≠ 0. Squaring, we have 5 = a²/b², so a² = 5b². This implies that a² is divisible by 5, and by the Fundamental Theorem of Arithmetic (or Theorem 1.2), a must be divisible by 5. Write a = 5k for some integer k, then substitute back to obtain (5k)² = 5b² or 25k² = 5b², which simplifies to b² = 5k². Thus, b² is divisible by 5, which means b is divisible by 5. But this contradicts the assumption that a and b are coprime. Hence, √5 is irrational.",
+    "explanation": "Step 1: Assume for contradiction that √5 is rational. Then it can be written as a/b in lowest terms, where a and b are integers with no common factors and b ≠ 0. \nStep 2: Square both sides to get 5 = a²/b², so a² = 5b². \nStep 3: Since 5 divides a², by the theorem used (if a prime divides a² then it divides a), 5 must divide a. Thus, let a = 5k. \nStep 4: Substitute back to get (5k)² = 5b², which simplifies to 25k² = 5b², or equivalently, b² = 5k². \nStep 5: This shows that 5 divides b², so by the same theorem, 5 must divide b. \nStep 6: Since both a and b are divisible by 5, it contradicts the assumption that they have no common factor other than 1. \nStep 7: Therefore, our original assumption is false and √5 must be irrational.",
+    "topic": "Irrational Numbers",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex008"
+  },
+  {
+    "question_text": "Prove that 3 + 2√5 is irrational.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Assume for contradiction that 3 + 2√5 is rational, so it can be written in the form r, where r is a rational number. Then 2√5 = r - 3 is rational because the difference of two rationals is rational. Dividing both sides by 2 (a nonzero rational), √5 becomes rational. However, from the previous proof, we know that √5 is irrational. This contradiction shows that the assumption is false, and therefore 3 + 2√5 is irrational.",
+    "explanation": "Step 1: Assume that 3 + 2√5 is rational, meaning there exist integers and a fraction representation (or simply that it is a rational number). \nStep 2: Rearrange the expression: 2√5 = (3 + 2√5) - 3, which implies that 2√5 is rational because the difference of two rational numbers is rational. \nStep 3: Divide both sides of 2√5 = rational by 2 (a nonzero rational), and we find that √5 would have to be rational. \nStep 4: This contradicts the earlier proof that √5 is irrational. \nStep 5: Therefore, the original assumption that 3 + 2√5 is rational must be false, so 3 + 2√5 is irrational.",
+    "topic": "Irrational Numbers",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex009"
+  },
+  {
+    "question_text": "Prove that the following are irrationals:\n(i) 1/√2\n(ii) 7√5\n(iii) 6 + √2",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) To prove 1/√2 is irrational: Assume for contradiction that 1/√2 is rational. Then its reciprocal, √2, would be rational (since the reciprocal of a nonzero rational number is rational). But √2 is known to be irrational, leading to a contradiction. Hence, 1/√2 is irrational.\n\n(ii) To prove 7√5 is irrational: Note that 7 is rational and √5 is irrational (as proven in the first question). The product of a nonzero rational number and an irrational number is irrational. Therefore, 7√5 is irrational.\n\n(iii) To prove 6 + √2 is irrational: Here, 6 is rational and √2 is irrational. The sum of a rational number and an irrational number is always irrational. Therefore, 6 + √2 is irrational.",
+    "explanation": "For part (i): \n- Assume 1/√2 is rational. Then there exist integers a and b (with b ≠ 0) so that 1/√2 = a/b. Taking reciprocals, we obtain √2 = b/a, which implies √2 is rational, contradicting the known fact that √2 is irrational.\n\nFor part (ii): \n- Since 7 is rational and √5 is irrational (from the earlier proof), the product 7√5 is irrational because the product of a nonzero rational number and an irrational number is irrational.\n\nFor part (iii): \n- Since 6 is rational and √2 is irrational, their sum (6 + √2) must be irrational. This follows from the property that the sum (or difference) of a rational number and an irrational number is irrational.",
+    "topic": "Irrational Numbers",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jemh101",
+    "question_id": "cbse_x_jemh1dd_c101_ex010"
+  }
+]

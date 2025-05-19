@@ -1,0 +1,30 @@
+[
+  {
+    "question_text": "For the reaction R → P, the concentration of a reactant changes from 0.03 M to 0.02 M in 25 minutes. Calculate the average rate of reaction using units of time both in minutes and seconds.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Average rate = 0.0004 mol L⁻¹ min⁻¹ or 6.67 × 10⁻⁶ mol L⁻¹ s⁻¹",
+    "explanation": "The average rate for a reactant is defined as - (Δ[R]/Δt). Here, Δ[R] = 0.02 M - 0.03 M = -0.01 M. Dividing by the time interval (25 min) gives -( -0.01/25) = 0.0004 mol L⁻¹ min⁻¹. To convert to seconds, note that 25 minutes = 1500 seconds, so the rate is 0.01/1500 = 6.67 × 10⁻⁶ mol L⁻¹ s⁻¹. This calculation directly applies the concepts of average reaction rates and the use of proper units discussed in the section.",
+    "topic": "Rate of a Chemical Reaction",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "03_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in001"
+  },
+  {
+    "question_text": "In a reaction, 2A → Products, the concentration of A decreases from 0.5 mol L⁻¹ to 0.4 mol L⁻¹ in 10 minutes. Calculate the rate during this interval.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Rate = 0.005 mol L⁻¹ min⁻¹",
+    "explanation": "For reactions in which the stoichiometric coefficient is greater than one, the rate is calculated by dividing the change in concentration by both the time interval and the stoichiometric coefficient. Here, Δ[A] = 0.4 - 0.5 = -0.1 mol L⁻¹ over 10 min. The average rate for the reaction becomes - (1/2)(Δ[A]/Δt) = - (1/2)(-0.1/10) = 0.005 mol L⁻¹ min⁻¹. This method follows the approach outlined in the text on how to adjust for coefficients in the reaction rate.",
+    "topic": "Rate of a Chemical Reaction and Stoichiometry",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "03_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in002"
+  }
+]

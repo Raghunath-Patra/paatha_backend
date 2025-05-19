@@ -1,0 +1,61 @@
+{
+    "name": "Mathematics",
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Sets"
+      },
+      {
+        "number": 2,
+        "name": "Relations and Functions"
+      },
+      {
+        "number": 3,
+        "name": "Trigonometric Functions"
+      },
+      {
+        "number": 4,
+        "name": "Complex Numbers and Quadratic Equations"
+      },
+      {
+        "number": 5,
+        "name": "Linear Inequalities"
+      },
+      {
+        "number": 6,
+        "name": "Permutations and Combinations"
+      },
+      {
+        "number": 7,
+        "name": "Binomial Theorem"
+      },
+      {
+        "number": 8,
+        "name": "Sequences and Series"
+      },
+      {
+        "number": 9,
+        "name": "Straight Lines"
+      },
+      {
+        "number": 10,
+        "name": "Conic Sections"
+      },
+      {
+        "number": 11,
+        "name": "Introduction to Three Dimensional Geometry"
+      },
+      {
+        "number": 12,
+        "name": "Limits and Derivatives"
+      },
+      {
+        "number": 13,
+        "name": "Statistics"
+      },
+      {
+        "number": 14,
+        "name": "Probability"
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "When parallel rays are incident on a smooth surface, what type of reflection occurs?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Diffused reflection",
+      "B. Regular reflection",
+      "C. Total internal reflection",
+      "D. Scattered reflection"
+    ],
+    "correct_answer": "B. Regular reflection",
+    "explanation": "Smooth surfaces, like mirrors, cause incident parallel rays to reflect in a uniform direction, producing regular reflection and clear images.",
+    "topic": "Regular Reflection",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc113",
+    "section_id": "04_section_13_3",
+    "question_id": "cbse_viii_hesc1dd_c113_gen026"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Name the tissue responsible for movement in our body.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Muscular tissue",
+    "explanation": "Muscular tissue is specialized for contraction and relaxation, which produces movement. It contains contractile proteins such as actin and myosin, and is classified into various types (skeletal, smooth, and cardiac) based on structure and control. This tissue is essential for both voluntary and involuntary movements in the body.",
+    "topic": "Animal Tissues - Muscular Tissue",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic007"
+  },
+  {
+    "question_text": "What does a neuron look like?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A neuron consists of a cell body (soma) containing a nucleus and cytoplasm, several short, branched processes called dendrites, and a single long process known as the axon that ends in nerve terminals.",
+    "explanation": "Neurons are highly specialized cells of the nervous tissue. The cell body houses the nucleus and is the site of metabolic activities, while dendrites receive incoming signals from other neurons. The axon is typically long and transmits electrical impulses to target cells. This structure enables rapid communication throughout the body.",
+    "topic": "Animal Tissues - Nervous Tissue",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic008"
+  },
+  {
+    "question_text": "Give three features of cardiac muscles.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) Cardiac muscle cells are involuntary, functioning without conscious control; (ii) They are cylindrical and branched, which facilitates coordinated contraction across the heart; (iii) They are uninucleate and exhibit striations, reflecting the organized arrangement of contractile proteins.",
+    "explanation": "Cardiac muscle tissue is unique among muscle types. Its involuntary control means that it contracts automatically to maintain the heartbeat. The branched structure allows for the formation of a cohesive network via intercalated discs, ensuring that electrical impulses travel efficiently across the heart. The presence of striations indicates a regular pattern of actin and myosin necessary for contraction, while being uninucleate differentiates it from the multinucleate skeletal muscles.",
+    "topic": "Animal Tissues - Cardiac Muscle",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic009"
+  },
+  {
+    "question_text": "What are the functions of areolar tissue?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Areolar tissue fills spaces between organs, supports and cushions internal structures, aids in tissue repair, connects the skin to muscles, and surrounds blood vessels and nerves.",
+    "explanation": "Areolar connective tissue is a loose type of connective tissue that acts as a packing material in the body. Its fibrous matrix, composed of collagen and elastin fibers along with ground substance, provides flexibility and elasticity. This tissue plays an important role in supporting organs, enabling nutrient and waste exchange, and assisting in immune responses and repair processes by providing a framework for cell migration.",
+    "topic": "Animal Tissues - Connective Tissue (Areolar Tissue)",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic010"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "State the universal law of gravitation.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them, with the force acting along the line joining their centers. Mathematically, F = G (M × m) / d².",
+    "explanation": "This law, formulated by Isaac Newton, explains that the gravitational force between two objects depends on both their masses and the distance separating them. The formula F = G (M × m) / d² includes the universal gravitational constant (G), and it shows that as the distance (d) increases, the gravitational force decreases as the square of the distance. This principle applies to all objects in the universe, linking the motion of the moon around the Earth, the planets around the Sun, as well as everyday phenomena such as an apple falling from a tree.",
+    "topic": "Universal Gravitation / Newton's Law of Gravitation",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic001"
+  },
+  {
+    "question_text": "Write the formula to find the magnitude of the gravitational force between the Earth and an object on the surface of the Earth.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "F = G (Mₑ × m) / Rₑ², where F is the gravitational force, G is the universal gravitational constant, Mₑ is the mass of the Earth, m is the mass of the object, and Rₑ is the radius of the Earth.",
+    "explanation": "This formula is derived from the universal law of gravitation by considering the Earth as one of the objects. Here, Mₑ represents Earth's mass and Rₑ represents the distance from the Earth's center to its surface. The formula indicates that the gravitational force depends directly on the product of Earth's mass and the object's mass, and inversely on the square of Earth's radius. Using this formula, one can calculate the gravitational pull acting on any object at Earth's surface.",
+    "topic": "Gravitation / Newton's Law of Gravitation",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic002"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Write the electron-dot structures for sodium, oxygen, and magnesium. Show the formation of Na₂O and MgO by the transfer of electrons. What are the ions present in these compounds?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For sodium, the electron-dot structure is shown as Na•; for oxygen, as :O: (indicating the need for two electrons to complete its octet); and for magnesium, as Mg:. To form Na₂O, two sodium atoms (Na•) each lose one electron, transferring a total of two electrons to an oxygen atom, so the reaction is: 2 Na• + :O: → 2 [Na]⁺ + [O]²⁻. For MgO, magnesium loses its two valence electrons in one step: Mg: + :O: → [Mg]²⁺ + [O]²⁻. Thus, Na₂O contains Na⁺ and O²⁻ ions, and MgO contains Mg²⁺ and O²⁻ ions.",
+    "explanation": "Electron-dot structures represent the number of valence electrons in an atom. Sodium (Na) has one valence electron (shown as Na•), oxygen (O) has six electrons and needs two more to complete its octet (illustrated as :O:), and magnesium (Mg) has two valence electrons (depicted as Mg:). When forming ionic compounds, metals lose electrons to form cations and non-metals gain electrons to form anions. In Na₂O, two Na atoms each lose one electron resulting in two Na⁺ ions while oxygen gains two electrons to become O²⁻. Similarly, in MgO, magnesium loses both its electrons to yield an Mg²⁺ ion and oxygen becomes O²⁻ by gaining the two electrons. These oppositely charged ions are held together by strong electrostatic forces, leading to the formation of ionic bonds.",
+    "topic": "Ionic Compounds and Electron-Dot Structures",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic008"
+  },
+  {
+    "question_text": "Why do ionic compounds have high melting points?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Ionic compounds have high melting points because their crystal lattices are held together by strong electrostatic forces between oppositely charged ions. A significant amount of energy is required to overcome these forces, breaking the ionic bonds and allowing the compound to melt.",
+    "explanation": "In ionic compounds, the ions are arranged in a rigid, repeating crystal lattice. The strong electrostatic attraction between the positively charged cations and negatively charged anions (ionic bonds) requires a considerable amount of thermal energy to break. This is why ionic compounds such as NaCl or MgO exhibit high melting and boiling points. The concept also links to real‐world applications where high melting points indicate strong structural stability in materials used for high-temperature processes.",
+    "topic": "Physical Properties of Ionic Compounds",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic009"
+  }
+]

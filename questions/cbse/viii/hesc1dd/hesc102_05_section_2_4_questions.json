@@ -1,0 +1,196 @@
+[
+  {
+    "question_text": "Which of the following diseases is primarily transmitted through the air?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "a) Cholera",
+      "b) Tuberculosis",
+      "c) Typhoid",
+      "d) Food poisoning"
+    ],
+    "correct_answer": "b) Tuberculosis",
+    "explanation": "Tuberculosis spreads through the air when an infected person coughs or sneezes, releasing droplets that contain the bacteria.",
+    "topic": "Disease Transmission in Humans",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen041"
+  },
+  {
+    "question_text": "Which of the following acts as a carrier for the malaria parasite?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "a) Housefly",
+      "b) Female Anopheles mosquito",
+      "c) Male Aedes mosquito",
+      "d) Rat"
+    ],
+    "correct_answer": "b) Female Anopheles mosquito",
+    "explanation": "The female Anopheles mosquito carries the Plasmodium parasite that causes malaria when it bites a human.",
+    "topic": "Disease Carriers",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen042"
+  },
+  {
+    "question_text": "Which of the following practices is most effective in preventing food poisoning?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "a) Consuming food directly from an open, uncovered container",
+      "b) Preserving food to prevent spoilage",
+      "c) Allowing food to be exposed to insects",
+      "d) Not boiling drinking water"
+    ],
+    "correct_answer": "b) Preserving food to prevent spoilage",
+    "explanation": "Proper preservation of food prevents the growth of harmful microorganisms and the production of their toxins, thereby reducing the risk of food poisoning.",
+    "topic": "Food Poisoning and Prevention",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen043"
+  },
+  {
+    "question_text": "How is typhoid fever primarily transmitted?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "a) Through the air",
+      "b) By direct contact with an infected person",
+      "c) Through contaminated water",
+      "d) Via insects"
+    ],
+    "correct_answer": "c) Through contaminated water",
+    "explanation": "Typhoid fever is caused by a bacterium that is commonly transmitted through water contaminated with fecal matter.",
+    "topic": "Modes of Transmission",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen044"
+  },
+  {
+    "question_text": "Define the term 'pathogen' and provide two examples from the text.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A pathogen is a disease-causing microorganism. Examples include the bacteria that cause cholera and the viruses that cause chicken pox or measles.",
+    "explanation": "Pathogens are microorganisms like bacteria, viruses, protozoa, or fungi that can cause diseases in humans, plants, and animals.",
+    "topic": "Pathogens",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen045"
+  },
+  {
+    "question_text": "What are communicable diseases? Explain how they are transmitted.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Communicable diseases are illnesses that can be transmitted from one person to another. They are spread through routes such as air (via droplets), contaminated water or food, and by direct physical contact with an infected person.",
+    "explanation": "The ability of a disease to be transmitted through mechanisms like air, water, and contact means it can spread rapidly among populations if proper precautions aren't taken.",
+    "topic": "Communicable Diseases",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen046"
+  },
+  {
+    "question_text": "List two preventive measures to control the spread of mosquito-borne diseases like malaria and dengue.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Using mosquito nets and repellents, as well as eliminating stagnant water where mosquitoes breed, are key measures.",
+    "explanation": "Mosquito nets and repellents protect individuals from bites, while removing stagnant water from coolers, tyres, and pots prevents mosquito breeding.",
+    "topic": "Mosquito-borne Diseases",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen047"
+  },
+  {
+    "question_text": "Why is it advised to keep food covered? Discuss in the context of preventing disease spread.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Food should be kept covered to prevent contamination by insects like houseflies, which can carry pathogens from unsanitary sources to the food.",
+    "explanation": "Covering food reduces the chances of microbial contamination from external carriers, thereby lowering the risk of food poisoning.",
+    "topic": "Food Safety",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen048"
+  },
+  {
+    "question_text": "Explain the process of transmission of the common cold from an infected individual to a healthy person, and suggest effective preventive measures.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The common cold is spread by respiratory droplets produced when an infected person sneezes or coughs. These droplets, containing viruses, can remain suspended in the air and be inhaled by others. Preventive measures include covering the mouth and nose with a handkerchief when sneezing, maintaining distance from infected individuals, and practicing good hand hygiene.",
+    "explanation": "Understanding the transmission mechanism is key to prevention. By minimizing exposure to airborne droplets and maintaining strict personal hygiene, the spread of respiratory infections like the common cold can be effectively controlled.",
+    "topic": "Airborne Disease Transmission",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen049"
+  },
+  {
+    "question_text": "Discuss how microorganisms cause food poisoning. Include in your answer the role of microbial toxins and suggest strategies to prevent food spoilage.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Microorganisms such as bacteria can contaminate food and produce toxins that persist even after the food is cooked. These toxins, when ingested, disrupt normal bodily functions leading to food poisoning. Strategies to prevent food spoilage include proper storage, maintaining a cold chain for perishable items, thorough cooking, and ensuring food is covered to avoid contamination from insects and environmental debris.",
+    "explanation": "Food poisoning is not only due to the microorganisms themselves but also due to the toxins they produce during growth. Preventative strategies focus on inhibiting microbial growth through appropriate food handling, storage, and hygiene practices.",
+    "topic": "Food Safety and Microbial Toxins",
+    "bloom_level": "Evaluate",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen050"
+  },
+  {
+    "question_text": "True or False: Communicable diseases can only be transmitted through direct physical contact.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False; communicable diseases can be transmitted through air, water, food, and physical contact.",
+    "explanation": "While direct contact is one mode of transmission, many communicable diseases also spread via airborne droplets and contaminated resources.",
+    "topic": "Modes of Transmission",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen051"
+  },
+  {
+    "question_text": "True or False: Keeping water stored in open containers does not affect the breeding of mosquitoes.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False; open containers can lead to water stagnation, which creates ideal conditions for mosquito breeding.",
+    "explanation": "Open, stagnant water is a key factor in mosquito reproduction. By eliminating such water collections, the breeding of mosquitoes—and therefore the spread of diseases like malaria and dengue—can be controlled.",
+    "topic": "Mosquito Control",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "hesc102",
+    "section_id": "05_section_2_4",
+    "question_id": "cbse_viii_hesc1dd_c102_gen052"
+  }
+]

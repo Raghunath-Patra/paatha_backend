@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "ABCD is a quadrilateral in which P, Q, R and S are mid-points of the sides AB, BC, CD and DA respectively. AC is a diagonal. Show that: (i) SR ∥ AC and SR = ½ AC; (ii) PQ = SR; (iii) PQRS is a parallelogram.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Answer: (i) In triangle ADC, since R and S are the mid-points of CD and DA respectively, by the Mid-point Theorem we have SR ∥ AC and SR = ½·AC. (ii) In triangle ABC, P and Q are the mid-points of AB and BC respectively; hence, by the Mid-point Theorem, PQ ∥ AC and PQ = ½·AC, so PQ = SR. (iii) Since both pairs of opposite sides of quadrilateral PQRS are parallel and equal (PQ = SR and PS = QR, by similar arguments), PQRS is a parallelogram.",
+    "explanation": "Step 1: Consider triangle ADC. Since S and R are mid-points of AD and CD respectively, by the Mid-point Theorem, the segment SR is parallel to the third side AC and is half its length, i.e., SR = ½ AC.\\nStep 2: Similarly, in triangle ABC, P and Q being the mid-points of AB and BC imply PQ ∥ AC and PQ = ½ AC. Therefore, PQ equals SR.\\nStep 3: In quadrilateral PQRS, since both pairs of opposite sides are parallel (PQ ∥ SR and PS ∥ QR) and equal, it qualifies as a parallelogram by definition.",
+    "topic": "Mid-point Theorem; Properties of quadrilaterals formed by midpoints (Varignon Parallelogram)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh108",
+    "question_id": "cbse_ix_iemh1dd_c108_ex008"
+  },
+  {
+    "question_text": "ABCD is a rhombus and P, Q, R and S are the mid-points of the sides AB, BC, CD and DA respectively. Show that the quadrilateral PQRS is a rectangle.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Answer: In a rhombus, the diagonals are perpendicular. When we join the mid-points P, Q, R, S, we obtain a Varignon parallelogram. Using the mid-point theorem in the triangles that form the rhombus, we can show that the sides of PQRS are parallel to the diagonals of the rhombus. Since the diagonals in a rhombus are perpendicular, the sides of PQRS become perpendicular to each other. Hence, PQRS is not only a parallelogram but also has four right angles, making it a rectangle.",
+    "explanation": "Step 1: Join the mid-points of the sides of the rhombus, thus forming quadrilateral PQRS, which by Varignon’s Theorem is a parallelogram.\\nStep 2: In a rhombus, the diagonals are perpendicular bisectors. Using the Mid-point Theorem in the appropriate triangles, we see that each side of PQRS is parallel to one of the diagonals of the rhombus.\\nStep 3: Since the diagonals of a rhombus are perpendicular, the corresponding sides of PQRS are also perpendicular. Therefore, PQRS has four right angles and is a rectangle.",
+    "topic": "Properties of Rhombus; Varignon Parallelogram; Mid-point Theorem",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh108",
+    "question_id": "cbse_ix_iemh1dd_c108_ex009"
+  },
+  {
+    "question_text": "ABCD is a rectangle and P, Q, R and S are the mid-points of the sides AB, BC, CD and DA respectively. Show that the quadrilateral PQRS is a rhombus.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Answer: In any quadrilateral, joining the mid-points yields a parallelogram (Varignon’s Theorem). In a rectangle, since the opposite sides are equal and the diagonals are equal as well, the mid-segments obtained are equal in length. Therefore, in quadrilateral PQRS, all four sides are equal, making it a rhombus.",
+    "explanation": "Step 1: By Varignon’s Theorem, joining the mid-points P, Q, R, and S of any quadrilateral forms a parallelogram (PQRS).\\nStep 2: For a rectangle, adjacent sides are perpendicular and the diagonals are congruent. Using the Mid-point Theorem in the triangles within the rectangle, we find that each side of PQRS equals half the length of the diagonal of the rectangle.\\nStep 3: Because all these segments are congruent, quadrilateral PQRS has four equal sides, and by definition, it is a rhombus.",
+    "topic": "Varignon Parallelogram; Properties of Rectangles; Mid-point Theorem",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh108",
+    "question_id": "cbse_ix_iemh1dd_c108_ex010"
+  },
+  {
+    "question_text": "ABCD is a trapezium in which AB ∥ DC, BD is a diagonal and E is the mid-point of AD. A line is drawn through E parallel to AB intersecting BC at F. Show that F is the mid-point of BC.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Answer: By assigning coordinates to the vertices of the trapezium (for example, A(0,0), B(b,0), D(0,d) and C(c,d)), the mid-point E of AD is (0, d/2). A line through E parallel to AB (which is horizontal) has the equation y = d/2. The line BC joining B(b,0) and C(c,d) meets y = d/2 at t = ½, giving F = ((b+c)/2, d/2), which is the mid-point of BC.",
+    "explanation": "Step 1: Place the trapezium in the coordinate plane with AB and DC horizontal. Let A = (0, 0), B = (b, 0), D = (0, d) and C = (c, d).\\nStep 2: Since E is the mid-point of AD, its coordinates are (0, d/2). The line through E parallel to AB is horizontal, so its equation is y = d/2.\\nStep 3: The line BC passes through B (b,0) and C (c,d). Its parametric form is (b + t(c-b), 0 + t·d). Setting y = d/2 gives t = ½, and then the x-coordinate becomes b + ½(c-b) = (b+c)/2. Thus, F = ((b+c)/2, d/2), which is exactly the mid-point of BC.",
+    "topic": "Trapezium Properties; Mid-point Theorem; Coordinate Geometry",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh108",
+    "question_id": "cbse_ix_iemh1dd_c108_ex011"
+  },
+  {
+    "question_text": "In a parallelogram ABCD, E and F are the mid-points of sides AB and CD respectively. Show that the line segments AF and EC trisect the diagonal BD.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Answer: Let AF and EC intersect the diagonal BD at points P and Q respectively. By applying the Mid-point Theorem and properties of similar triangles in the parallelogram, one can show that BP = PQ = QD. This implies that the segments AF and EC divide BD into three equal parts (trisect it).",
+    "explanation": "Step 1: Draw parallelogram ABCD with E the midpoint of AB and F the midpoint of CD. Join A to F and E to C, and let these lines cut the diagonal BD at P and Q respectively.\\nStep 2: Consider triangle ABD. E, as the midpoint of AB, and the intersection point P on BD due to the line AF imply, through the Mid-point Theorem and properties of similar triangles, that P divides BD in a specific ratio.\\nStep 3: Similarly, in triangle BCD, using F as the midpoint of CD and line EC, the intersection point Q divides BD in the same ratio. Detailed geometric analysis or a vector approach using coordinate geometry will show that BP = PQ = QD, thus confirming that AF and EC trisect BD.",
+    "topic": "Parallelogram Geometry; Mid-point Theorem; Division of a Segment in a Given Ratio",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh108",
+    "question_id": "cbse_ix_iemh1dd_c108_ex012"
+  },
+  {
+    "question_text": "ABC is a triangle right angled at C. A line through the mid-point M of the hypotenuse AB and parallel to BC intersects AC at D. Show that (i) D is the mid-point of AC; (ii) MD ⊥ AC; (iii) CM = MA = ½ AB.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Answer: (i) In triangle ABC, since M is the midpoint of hypotenuse AB, drawing a line through M parallel to BC will cut AC at its midpoint D by using the Mid-point Theorem. (ii) In a right-angled triangle, the midpoint of the hypotenuse is equidistant from all vertices; hence, line MD is perpendicular to AC. (iii) Because M is the circumcenter of the right triangle, CM = MA = MB and each equals ½ AB.",
+    "explanation": "Step 1: In the right triangle ABC (∠C = 90°), M is the midpoint of the hypotenuse AB. Draw a line through M parallel to BC; by the converse of the Mid-point Theorem, its intersection D with AC is the midpoint of AC.\\nStep 2: In a right triangle, the midpoint of the hypotenuse is equidistant from all three vertices, hence CM = MA. Moreover, drawing MD parallel to BC and using properties of circles (since M is the circumcenter) shows that MD is perpendicular to AC.\\nStep 3: Because M is equidistant from A, B, and C, we have CM = MA, and given that AB is the hypotenuse, each of CM and MA is ½ AB.",
+    "topic": "Right Triangle Geometry; Mid-point Theorem; Properties of Circles in Right Triangles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh108",
+    "question_id": "cbse_ix_iemh1dd_c108_ex013"
+  }
+]

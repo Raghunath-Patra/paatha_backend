@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "What is power?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Power is the rate at which work is done or energy is transferred.",
+    "explanation": "Power quantifies how fast work is completed. In physics, it is defined as the work done (W) divided by the time (t) taken, expressed mathematically as P = W/t. This concept is critical in comparing how quickly different agents or machines transfer energy or perform work.",
+    "topic": "Rate of Doing Work / Power",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic010"
+  },
+  {
+    "question_text": "Define 1 watt of power.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1 watt is defined as the rate of energy transfer when 1 joule of work is done in 1 second.",
+    "explanation": "This definition comes directly from the formula for power, P = W/t. When a device uses 1 joule of energy in 1 second, its power output is 1 watt. This unit is essential for quantifying the performance of electrical appliances and machinery.",
+    "topic": "Rate of Doing Work / Power",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic011"
+  },
+  {
+    "question_text": "A lamp consumes 1000 J of electrical energy in 10 s. What is its power?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The power of the lamp is 100 watts.",
+    "explanation": "Power is calculated using the formula P = Energy / time. Here, P = 1000 J / 10 s, which equals 100 W. This computation shows how energy consumed over time translates into a power rating, indicating the lamp is using energy at a rate of 100 joules per second.",
+    "topic": "Rate of Doing Work / Power Calculation",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic012"
+  },
+  {
+    "question_text": "Define average power.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Average power is the total work done or energy consumed divided by the total time taken to do that work.",
+    "explanation": "Average power provides an overall rate of energy transfer or work done over a time interval. When energy consumption or work performed is not constant, the average is calculated by dividing the total energy (or work) by the total time elapsed. This helps in comparing and understanding performance over extended periods.",
+    "topic": "Rate of Doing Work / Average Power",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic013"
+  }
+]

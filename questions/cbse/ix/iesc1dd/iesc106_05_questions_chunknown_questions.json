@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Name types of simple tissues.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Parenchyma, Collenchyma, and Sclerenchyma",
+    "explanation": "Simple permanent tissues in plants are made up of a single type of cells. Parenchyma cells are unspecialized, typically involved in storage and photosynthesis; collenchyma cells provide flexibility and support due to their unevenly thickened walls; and sclerenchyma cells have thick lignified walls that render them hard and provide rigidity, as seen in structures such as the coconut husk.",
+    "topic": "Plant Tissues - Simple Permanent Tissue",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic003"
+  },
+  {
+    "question_text": "Where is the apical meristem found?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "At the growing tips of stems and roots.",
+    "explanation": "The apical meristem is a region of actively dividing cells located at the tips of stems and roots. This tissue is responsible for the primary growth in plants, increasing in length. Its strategic position allows for the elongation necessary for the plant’s upward and downward growth.",
+    "topic": "Plant Tissues - Meristematic Tissue",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic004"
+  },
+  {
+    "question_text": "Which tissue makes up the husk of a coconut?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Sclerenchyma",
+    "explanation": "The husk of a coconut is composed of sclerenchyma tissue. Sclerenchyma cells have thick, lignified walls that provide a hard and rigid structure, making them ideally suited for protective functions such as those required by the coconut husk.",
+    "topic": "Plant Tissues - Simple Permanent Tissue",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic005"
+  },
+  {
+    "question_text": "What are the constituents of phloem?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Sieve tubes, companion cells, phloem parenchyma, and phloem fibres",
+    "explanation": "Phloem is a complex permanent tissue responsible for transporting food substances within the plant. Its structure is composed of several cell types: sieve tubes (tubular cells with perforated walls for translocation of nutrients), companion cells (which assist the sieve tubes metabolically), phloem parenchyma (involved in storage and lateral transport), and phloem fibres (which provide structural support). This collaboration of cells ensures effective distribution of photosynthates throughout the plant.",
+    "topic": "Plant Tissues - Complex Permanent Tissue",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic006"
+  }
+]

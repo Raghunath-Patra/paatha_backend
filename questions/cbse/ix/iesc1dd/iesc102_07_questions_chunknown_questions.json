@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Classify the following as chemical or physical changes: cutting of trees, melting of butter in a pan, rusting of almirah, boiling of water to form steam, passing of electric current through water causing its decomposition into hydrogen and oxygen gases, dissolving common salt in water, making a fruit salad with raw fruits, burning of paper and wood.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Cutting of trees – Physical; Melting of butter in a pan – Physical; Rusting of almirah – Chemical; Boiling of water to form steam – Physical; Passing of electric current through water causing its breakdown into hydrogen and oxygen gases – Chemical; Dissolving common salt in water – Physical; Making a fruit salad with raw fruits – Physical (the fruits undergo physical changes when cut and mixed); Burning of paper and wood – Chemical.",
+    "explanation": "In physical changes, the substance’s chemical identity remains unchanged. Cutting trees, melting butter, boiling water, dissolving salt, and mixing fruits result in changes in form, state, or physical properties without altering chemical composition. In contrast, rusting of almirah and burning of paper and wood involve chemical reactions that produce new substances with different chemical properties. The process of electrolysis (passing electric current) causes the water to decompose into hydrogen and oxygen, which is also a chemical change.",
+    "topic": "Physical and Chemical Changes",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc102",
+    "question_id": "cbse_ix_iesc1dd_c102_ic006"
+  },
+  {
+    "question_text": "Segregate the things around you as pure substances or mixtures. (For example, pure substances include water, sugar, salt, iron, gold; mixtures include air, soil, milk, lemonade, steel, brass.)",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Pure substances are materials that contain only one kind of matter and have fixed properties (e.g., water, sugar, salt, iron, gold). Mixtures consist of two or more substances combined physically, such as air (a mix of gases), soil (a mix of organic matter and minerals), milk (an emulsion/colloidal system), lemonade (a solution with dissolved sugar and flavoring), steel (an alloy of iron and carbon, among other elements), and brass (an alloy of copper and zinc).",
+    "explanation": "A pure substance has a uniform composition and fixed properties and cannot be separated into other materials by physical means. In contrast, mixtures contain a combination of two or more components whose individual properties remain intact and can be separated by physical methods. The provided examples illustrate that substances like water or gold show consistent behavior, whereas mixtures, such as air or soil, consist of multiple components that can be observed, separated, or identified individually.",
+    "topic": "Mixtures and Pure Substances",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc102",
+    "question_id": "cbse_ix_iesc1dd_c102_ic007"
+  }
+]

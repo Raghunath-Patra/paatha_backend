@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "How do Mendel’s experiments show that traits may be dominant or recessive?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Mendel crossed pure-breeding tall pea plants (TT) with pure-breeding short pea plants (tt). All F1 offspring were tall (Tt), demonstrating that the tallness trait masked the shortness trait. When the F1 plants were self-pollinated, the F2 generation exhibited a 3:1 ratio with some plants being short (tt), proving that tallness is dominant and shortness is recessive.",
+    "explanation": "Mendel’s experiment revealed that even though F1 generation pea plants showed the dominant trait (tallness) due to having one dominant allele (T), the recessive trait (shortness) reappeared in the F2 generation. This indicates that each plant carries two alleles for each trait, and the recessive trait (t) can only be expressed when an individual inherits two copies of it. This fundamental idea of allele dominance is critical in understanding inheritance patterns.",
+    "topic": "Genetics – Dominance and Recessiveness",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ic003"
+  },
+  {
+    "question_text": "How do Mendel’s experiments show that traits are inherited independently?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Mendel performed dihybrid crosses using pea plants with contrasting traits such as seed shape and seed color. He crossed plants with Round Yellow seeds (RRYY) with those having Wrinkled Green seeds (rryy). The F1 generation was uniformly Round Yellow (RrYy), but upon self-pollination, the F2 generation exhibited four different phenotypes (Round Yellow, Round Green, Wrinkled Yellow, and Wrinkled Green) in a 9:3:3:1 ratio. This outcome demonstrated the independent assortment of the two traits.",
+    "explanation": "The appearance of new combinations in the F2 generation, different from the parental combinations, indicates that the gene controlling seed shape segregates independently from the gene controlling seed color. This independent inheritance confirms that different traits are passed on separately according to Mendel’s law of independent assortment.",
+    "topic": "Genetics – Independent Assortment",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ic004"
+  },
+  {
+    "question_text": "A man with blood group A marries a woman with blood group O and their daughter has blood group O. Is this information enough to tell you which of the traits – blood group A or O – is dominant? Why or why not?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Yes, the information is sufficient. Blood group O is determined by the genotype ii (recessive), while blood group A can be either IAIA or IAi. Since the daughter is blood group O (ii), she must have received an i allele from each parent. This indicates that the father, who is blood group A, must be heterozygous (IAi), meaning the A trait (IA allele) is dominant over the O trait (i allele).",
+    "explanation": "The inheritance pattern of blood groups in this example relies on the fact that a child inherits one allele from each parent. The daughter having blood group O (ii) shows she acquired an i allele from both parents. Thus, even though the father displays blood group A, his genotype must be IAi. This demonstrates that the presence of a dominant A allele (IA) masks the presence of the recessive i allele in the phenotypic expression of blood group A.",
+    "topic": "Genetics – Inheritance of Blood Groups",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ic005"
+  },
+  {
+    "question_text": "How is the sex of the child determined in human beings?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Sex in human beings is determined by the combination of sex chromosomes inherited from the parents. Females have two X chromosomes (XX) and produce eggs that contain one X chromosome. Males have one X and one Y chromosome (XY) and produce sperm with either an X or a Y chromosome. If a sperm carrying an X chromosome fertilizes the egg, the resulting embryo is female (XX); if a sperm carrying a Y chromosome fertilizes the egg, the embryo is male (XY).",
+    "explanation": "The mechanism of sex determination in humans is based on the unequal sex chromosomes. While all children inherit an X chromosome from their mother, the sex of the child is determined solely by the type of sperm the father contributes. This difference is a clear demonstration of genetic sex determination, where the differing characteristics of the X and Y chromosomes are responsible for directing the developmental pathway toward a male or female phenotype.",
+    "topic": "Genetics – Sex Determination",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ic006"
+  }
+]

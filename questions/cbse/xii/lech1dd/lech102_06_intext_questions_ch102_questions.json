@@ -1,0 +1,44 @@
+[
+  {
+    "question_text": "Calculate the potential of a hydrogen electrode in contact with a solution whose pH is 10.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "–0.59 V (approximately)",
+    "explanation": "For the hydrogen electrode, the half-reaction is H⁺(aq) + e⁻ → ½ H₂(g) with a standard potential of 0 V. Using the Nernst equation at 298 K, E = E° + (0.0591 V) log[H⁺]. Since pH = 10, [H⁺] = 10⁻¹⁰ M, so log[H⁺] = –10. Thus, E = 0 + 0.0591 × (–10) = –0.591 V, which is approximately –0.59 V.",
+    "topic": "Electrochemical Cells – Nernst Equation and Electrode Potentials",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "06_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in004"
+  },
+  {
+    "question_text": "Calculate the emf of the cell for the reaction: Ni(s) + 2Ag⁺ (0.002 M) → Ni²⁺ (0.160 M) + 2Ag(s). Given that the standard cell potential E°cell is 1.05 V.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 0.91 V",
+    "explanation": "The cell reaction is Ni(s) + 2Ag⁺(aq) → Ni²⁺(aq) + 2Ag(s) with n = 2 electrons transferred. The reaction quotient is Q = [Ni²⁺] / [Ag⁺]² = 0.160 / (0.002)² = 40000. The Nernst equation for the cell is: Ecell = E°cell – (0.0592/2) log Q. Substituting the values: Ecell = 1.05 V – (0.0296 × log(40000)). Since log(40000) ≈ 4.6021, the potential drop is about 0.136 V, and so Ecell ≈ 1.05 V – 0.136 V = 0.914 V (approximately 0.91 V).",
+    "topic": "Galvanic Cells – Nernst Equation",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "06_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in005"
+  },
+  {
+    "question_text": "For the cell reaction 2Fe³⁺(aq) + 2I⁻(aq) → 2Fe²⁺(aq) + I₂(s) with a standard cell potential E°cell of 0.236 V at 298 K, calculate the standard Gibbs energy change (ΔrG°) and the equilibrium constant (K) for the reaction.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "ΔrG° ≈ –45.5 kJ and K ≈ 9.35 × 10⁷",
+    "explanation": "The number of electrons transferred in the reaction is 2 (each Fe³⁺ to Fe²⁺ gains one electron). Using ΔrG° = –n F E°cell, we have ΔrG° = –2 × 96487 C/mol × 0.236 V ≈ –45533 J/mol, or approximately –45.5 kJ/mol. The equilibrium constant is related by E°cell = (0.0592 V/n) log K (at 298 K). Thus, log K = (2 × 0.236 V) / 0.0592 V ≈ 7.97, meaning K ≈ 10^7.97 ≈ 9.35 × 10⁷.",
+    "topic": "Electrochemical Cells – Gibbs Energy and Equilibrium Constants",
+    "bloom_level": "Evaluate",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "06_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in006"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Can you name the two organelles we have studied that contain their own genetic material?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Mitochondria and Plastids (Chloroplasts)",
+    "explanation": "Mitochondria and plastids (specifically chloroplasts in plant cells) are unique because they contain their own genetic material (mtDNA and cpDNA, respectively). This feature supports the endosymbiotic theory, which proposes that these organelles once existed as free-living prokaryotes that were engulfed by ancestral eukaryotic cells.",
+    "topic": "Cell Organelles & Genetic Material",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic006"
+  },
+  {
+    "question_text": "If the organisation of a cell is destroyed due to some physical or chemical influence, what will happen?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The cell will not be able to perform its basic functions and ultimately it will die.",
+    "explanation": "The organization of a cell, including the integrity of its nucleus, organelles, and membrane systems, is essential for its proper functioning. Disruption of this organization impairs processes such as respiration, metabolism, and waste removal. In many cases, physical or chemical damage can cause lysosomes to burst, releasing enzymes that digest cellular components, leading to cell death.",
+    "topic": "Cell Structure and Function",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic007"
+  },
+  {
+    "question_text": "Why are lysosomes known as suicide bags?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Because when the cell is damaged, lysosomes may burst, releasing potent digestive enzymes that can digest the cell's own components, leading to self-destruction.",
+    "explanation": "Lysosomes contain powerful hydrolytic enzymes that are normally sequestered in a membrane-bound compartment. If the lysosomal membrane is compromised—say, due to cellular injury—these enzymes can leak out and begin digesting cellular components. This destructive process is why lysosomes have earned the nickname 'suicide bags'.",
+    "topic": "Cell Organelles: Lysosomes",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic008"
+  },
+  {
+    "question_text": "Where are proteins synthesized inside the cell?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Proteins are synthesized in the ribosomes.",
+    "explanation": "Ribosomes are the cellular organelles responsible for protein synthesis. They decode messenger RNA (mRNA) sequences to assemble amino acids into polypeptide chains, forming proteins. Ribosomes can be found floating freely in the cytoplasm or attached to the rough endoplasmic reticulum, highlighting their key role in cell function.",
+    "topic": "Protein Synthesis & Ribosomes",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic009"
+  }
+]

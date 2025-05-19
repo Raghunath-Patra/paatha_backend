@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "The mass per unit volume of a substance is called density (density = mass/volume). Arrange the following in order of increasing density – air, exhaust from chimneys, honey, water, chalk, cotton, and iron.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Air < Exhaust from chimneys < Cotton < Water < Honey < Chalk < Iron",
+    "explanation": "Density, defined as mass per unit volume, depends on how tightly the particles are packed. Gases like air have particles that are far apart, giving them the lowest density. Exhaust, having additional particles from combustion, is denser than air. Cotton, a loosely packed solid, comes next, followed by water and then honey which are liquids with intermediate densities. Chalk, a porous solid, is denser than liquids and is surpassed by iron, which is highly compact and exhibits a very high density. This ordering is based on the microscopic arrangement and the typical mass per unit volume of each substance.",
+    "topic": "Density and Properties of Matter",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic005"
+  },
+  {
+    "question_text": "Tabulate the differences in the characteristics of the three states of matter and comment upon the following properties: rigidity, compressibility, fluidity, ability to fill a gas container, shape, kinetic energy, and density.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The answer should include a table that contrasts solids, liquids, and gases on properties such as shape, volume, rigidity/fluidity, compressibility, interparticle distance, interparticle force, kinetic energy, and diffusion rate. For example:\n\n| Property            | Solid                              | Liquid                              | Gas                               |\n|---------------------|------------------------------------|-------------------------------------|-----------------------------------|\n| Shape               | Definite                           | Indefinite (takes container shape)  | Indefinite (takes container shape)|\n| Volume              | Definite                           | Definite                            | Indefinite (fills container)      |\n| Rigidity/Fluidity   | Rigid                              | Fluid                               | Fluid                             |\n| Compressibility     | Negligible                         | Almost Negligible                   | Highly Compressible               |\n| Interparticle Space | Minimum                            | Intermediate                        | Maximum                           |\n| Interparticle Force | Maximum                            | Intermediate                        | Minimum                           |\n| Kinetic Energy      | Minimum                            | Intermediate                        | Maximum                           |\n| Diffusion Rate      | Very Slow                          | Slow                                | Very Fast                         |\n\nIn commenting on the listed properties:\n- Rigidity: Solids resist deformation while liquids and gases flow.\n- Compressibility: Gases can be compressed significantly because of large spaces between particles, whereas liquids and solids are almost incompressible.\n- Fluidity: Liquids and gases flow easily due to their particle motion; solids do not exhibit fluidity.\n- Filling a Gas Container: Gases completely fill the container owing to their high kinetic energy and random motion.\n- Shape: Solids maintain a fixed shape; liquids and gases adapt to the shape of their containers.\n- Kinetic Energy: Increases from solids to liquids to gases; higher temperature increases kinetic energy.\n- Density: Generally, solids are denser than liquids, and liquids are denser than gases (with some anomalous exceptions, like water-ice).",
+    "explanation": "This question requires a detailed comparison of the three states of matter. The table should list the physical properties of each state, and the subsequent comments should explain how these properties arise from the molecular arrangement and forces present in solids, liquids, and gases. The scientific reasoning involves understanding intermolecular forces, kinetic molecular theory, and how real-world phenomena such as compressibility and flow are demonstrated in laboratory experiments like those described in the chapter activities.",
+    "topic": "States of Matter and Their Properties",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic006"
+  },
+  {
+    "question_text": "Give reasons for the following:\n(a) A gas fills completely the vessel in which it is kept.\n(b) A gas exerts pressure on the walls of the container.\n(c) A wooden table should be called a solid.\n(d) We can easily move our hand in air, but to do the same through a solid block of wood requires significant force.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) Gas particles have high kinetic energy and move randomly in all directions, ensuring that they occupy the entire available volume. \nb) The high-speed, random motion of gas particles causes them to collide with the walls of the container frequently, exerting a force per unit area (pressure). \nc) A wooden table maintains a definite shape and volume, has distinct boundaries, is rigid, and shows negligible compressibility, which are characteristic features of solids. \nd) Air, being a gas, has widely spaced particles with weak intermolecular forces, offering little resistance to movement, whereas the tightly packed particles in a solid like wood create strong interparticle attractions, making it difficult to move an object through it.",
+    "explanation": "Each part of the question relates to the fundamental behavior of particles in different states of matter. Gas particles are characterized by high kinetic energy and weak intermolecular forces, resulting in complete filling of a volume and pressure exertion upon collision with container walls. In contrast, solids are rigid and maintain their shape because their particles are closely packed and strongly bonded, offering significant resistance to deformation or penetration. These concepts are derived from the kinetic molecular theory and are illustrated by various experimental observations described in the chapter.",
+    "topic": "Kinetic Molecular Theory and Properties of Matter",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic007"
+  },
+  {
+    "question_text": "Liquids generally have lower density compared to solids, but ice floats on water. Explain why this occurs.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Ice floats on water because, when water freezes, its molecules arrange themselves into a crystalline structure that creates a lattice with large open spaces. This structure makes the density of ice lower than that of liquid water, causing ice to float.",
+    "explanation": "Water exhibits anomalous expansion upon freezing. The hydrogen bonds in H₂O force the molecules into an open hexagonal arrangement when solid, which increases the volume without a corresponding increase in mass. Consequently, the density (mass/volume) of ice is less than that of liquid water. This property is crucial in natural phenomena such as the insulation of aquatic ecosystems during winter.",
+    "topic": "Density, Phase Changes, and Anomalous Properties of Water",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic008"
+  }
+]

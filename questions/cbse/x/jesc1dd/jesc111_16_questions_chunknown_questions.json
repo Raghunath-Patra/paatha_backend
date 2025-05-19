@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What determines the rate at which energy is delivered by a current?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Electric power determines the rate at which energy is delivered by a current. It is defined as the work done per unit time, given by the formula P = Energy / Time or equivalently P = V × I.",
+    "explanation": "The rate at which energy is delivered in an electrical circuit is measured by electric power. Power is calculated using the formula P = V × I, where V is the potential difference (volts) and I is the current (amperes). This fundamental relationship arises from the work-energy principle applied to charges moving in an electric field, and it explains how quickly energy is consumed or delivered in electrical devices. This concept relates to real-world applications such as understanding the energy consumption of appliances and devices. The scientific terminology such as voltage, current, and power, as well as the relation P = Energy / Time, are central to this explanation.",
+    "topic": "Electric Power and Energy",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic022"
+  },
+  {
+    "question_text": "An electric motor takes 5 A from a 220 V line. Determine the power of the motor and the energy consumed in 2 h.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The power of the motor is P = V × I = 220 V × 5 A = 1100 W (or 1.1 kW). The energy consumed in 2 hours is given by Energy = Power × Time = 1.1 kW × 2 h = 2.2 kWh, which is equivalent to 7,920,000 J (since 1 kWh = 3.6×10^6 J).",
+    "explanation": "To determine the power delivered by the electric motor, we use the formula P = V × I. Substituting the given values, we calculate P = 220 V × 5 A = 1100 W. Next, to find the energy consumed, we use the formula Energy = Power × Time. Converting 2 hours to the appropriate units, either by keeping kilowatt-hours, Energy = 1.1 kW × 2 h = 2.2 kWh, or by converting to joules, 2 h = 7200 s which gives Energy = 1100 W × 7200 s = 7,920,000 J. This approach uses basic principles of electrical circuits that link voltage, current, power, and energy, which is essential in applications such as calculating the cost and efficiency of electrical appliances.",
+    "topic": "Electric Power and Energy Consumption",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic023"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What is meant by a substance?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A pure substance consists of a single type of particle, has a uniform composition throughout, and possesses definite and characteristic properties.",
+    "explanation": "A pure substance is composed of only one type of matter (element or compound) in which the composition is consistent and uniform no matter how small a sample is taken. For example, water (H₂O) or sodium chloride (NaCl) are pure substances because any sample from the substance would have the same chemical and physical properties. This concept is fundamental in distinguishing substances from mixtures, where a mixture contains two or more distinct substances. Understanding this distinction is crucial in various scientific investigations, such as separation methods and property analysis.",
+    "topic": "Pure Substances and Mixtures",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc102",
+    "question_id": "cbse_ix_iesc1dd_c102_ic001"
+  },
+  {
+    "question_text": "List the points of differences between homogeneous and heterogeneous mixtures.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Homogeneous mixtures have a uniform composition where the individual components are not visibly distinguishable, and there are no distinct boundaries between them (e.g., salt dissolved in water). Heterogeneous mixtures exhibit non-uniform composition where the components are often visibly distinguishable, sometimes forming distinct layers or separate phases (e.g., sand and water).",
+    "explanation": "Homogeneous mixtures, also called solutions, display uniform physical properties and consistent appearance throughout once the solute is completely dissolved. However, the concentration of the solute can vary (as seen with different shades of a copper sulphate solution), though the mixture remains uniform. On the other hand, in heterogeneous mixtures, the individual components can be identified by observing differences in color, texture, or phase separation. The distinction is important in practical applications such as chemical separation, quality control, and industrial formulations. The answer is based on experimental observations and the theoretical distinction provided in the chapter.",
+    "topic": "Mixtures: Homogeneous vs Heterogeneous",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc102",
+    "question_id": "cbse_ix_iesc1dd_c102_ic002"
+  }
+]

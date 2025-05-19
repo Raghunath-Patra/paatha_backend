@@ -1,0 +1,160 @@
+[
+  {
+    "question_text": "Asexual reproduction takes place through budding in:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Amoeba",
+      "Yeast",
+      "Plasmodium",
+      "Leishmania"
+    ],
+    "correct_answer": "Yeast",
+    "explanation": "Yeast reproduces asexually by forming small outgrowths known as buds, which eventually separate and develop into new yeast cells. This process is a classic example of budding, a form of asexual reproduction where a new organism develops from an outgrowth of the parent organism.",
+    "topic": "Asexual reproduction; Budding",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex001"
+  },
+  {
+    "question_text": "Which of the following is not a part of the female reproductive system in human beings?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Ovary",
+      "Uterus",
+      "Vas deferens",
+      "Fallopian tube"
+    ],
+    "correct_answer": "Vas deferens",
+    "explanation": "The vas deferens is a tube that transports sperm in the male reproductive system, not in the female. The female reproductive system includes structures such as the ovary, uterus, and fallopian tubes.",
+    "topic": "Human Reproductive System; Female Anatomy",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex002"
+  },
+  {
+    "question_text": "The anther contains:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Sepals",
+      "Ovules",
+      "Pistil",
+      "Pollen grains"
+    ],
+    "correct_answer": "Pollen grains",
+    "explanation": "The anther is the part of the stamen in a flower that produces and contains pollen grains, which are the male gametophytes involved in plant sexual reproduction.",
+    "topic": "Flower Anatomy; Reproductive Structures in Angiosperms",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex003"
+  },
+  {
+    "question_text": "What are the advantages of sexual reproduction over asexual reproduction?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Sexual reproduction introduces genetic variation by combining DNA from two parents which results in novel gene combinations. This increased variability enhances a species’ ability to adapt to changing environmental conditions and improves the long-term survival prospects of the population.",
+    "explanation": "In sexual reproduction, the fusion of gametes (produced through meiosis) from two parents creates offspring with a unique genetic makeup. This combination of traits provides a wider repertoire for natural selection to act upon, facilitating adaptation to environmental changes. In contrast, asexual reproduction generally produces genetically similar offspring, which may limit adaptability.",
+    "topic": "Sexual Reproduction; Genetic Variation and Evolution",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex004"
+  },
+  {
+    "question_text": "What are the functions performed by the testis in human beings?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The testes have two main functions: (1) production of male gametes (sperm), and (2) secretion of the hormone testosterone which is crucial for sperm production and the development of secondary sexual characteristics during puberty.",
+    "explanation": "The testis is a dual-function organ in the male reproductive system. Its primary role is to produce sperms required for fertilization. Additionally, it secretes testosterone – a hormone that not only regulates the process of spermatogenesis but also induces the development of secondary sexual traits such as muscle mass, body hair, and a deeper voice.",
+    "topic": "Human Reproductive System; Male Anatomy and Physiology",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex005"
+  },
+  {
+    "question_text": "Why does menstruation occur?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Menstruation occurs when the egg released by the ovary is not fertilized. The thickened uterine lining, which was prepared to nurture a potential embryo, is shed and discharged from the body.",
+    "explanation": "Each menstrual cycle involves the ovary releasing an egg and the uterine lining (endometrium) thickening under the influence of hormones to create a suitable environment for a fertilized egg. If fertilization does not occur, hormonal levels drop and the thickened endometrium breaks down and is expelled from the body through the vagina, resulting in menstruation.",
+    "topic": "Human Reproductive System; Menstrual Cycle",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex006"
+  },
+  {
+    "question_text": "Draw a labelled diagram of the longitudinal section of a flower.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A correctly labelled diagram should include the sepals, petals, stamens (with components such as anther and filament), and the pistil/carpel (with components like stigma, style, ovary, and ovule). This corresponds to the diagram shown in Figure 7.7.",
+    "explanation": "Students should create a diagram that clearly depicts the longitudinal section of a flower. The diagram must label the protective sepals and attractive petals, the male reproductive parts (stamen, consisting of anther and filament), and the female reproductive parts (pistil or carpel, consisting of stigma, style, ovary, and ovules). This exercise tests both knowledge of flower anatomy and the ability to visually represent complex biological structures.",
+    "topic": "Plant Reproductive Structures; Flower Anatomy",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex007"
+  },
+  {
+    "question_text": "What are the different methods of contraception?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The different methods of contraception include:\n1. Barrier methods (e.g., condoms, diaphragms, cervical caps) which physically block sperm from reaching the egg.\n2. Chemical methods (e.g., oral contraceptive pills, patches, injections) that alter hormonal balances to inhibit ovulation.\n3. Intrauterine devices (IUDs) such as Copper-T and hormonal IUDs that prevent implantation of a fertilized egg or interfere with sperm movement.\n4. Surgical methods (e.g., vasectomy in males, tubal ligation in females) which permanently interrupt the transport of gametes.\n5. Natural methods (e.g., rhythm method, withdrawal) that rely on the timing of the menstrual cycle, though these are generally less reliable.",
+    "explanation": "Contraceptive methods aim to prevent unwanted pregnancies by either providing a barrier to fertilization, manipulating the hormonal cycle to prevent ovulation, or physically blocking gamete transport. Barrier methods prevent sperm-egg contact; chemical methods modify hormonal levels to inhibit ovulation; IUDs interfere with the intrauterine environment; surgical methods provide a permanent solution; and natural methods rely on behavioral modification based on an understanding of the reproductive cycle.",
+    "topic": "Reproductive Health; Contraception",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex008"
+  },
+  {
+    "question_text": "How are the modes for reproduction different in unicellular and multicellular organisms?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Unicellular organisms reproduce mainly by asexual methods such as binary fission, multiple fission, or budding (as seen in organisms like yeast). In contrast, multicellular organisms may reproduce asexually through factors like fragmentation, regeneration, budding, or vegetative propagation, but more complex multicellular organisms predominantly reproduce sexually using specialized reproductive organs and gametes. The complexity in multicellular reproduction arises due to the need for organized structures and differentiation of tissues.",
+    "explanation": "Unicellular organisms have simple body plans that allow them to reproduce via division or budding, leading directly to the formation of new cells. Multicellular organisms, on the other hand, usually have specialized cells and tissues that are not all capable of independent regeneration; therefore, they often rely on specialized reproductive organs to produce gametes for sexual reproduction or use specific mechanisms (such as vegetative propagation in plants) for asexual reproduction. This difference is primarily due to organizational complexity and the need for maintaining the body plan and tissue differentiation.",
+    "topic": "Reproduction; Unicellular vs. Multicellular Organisms",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex009"
+  },
+  {
+    "question_text": "How does reproduction help in providing stability to populations of species?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Reproduction ensures the continuity of a species by replacing individuals lost to death and helps maintain the species-specific body design suited to a particular ecological niche. Additionally, through the introduction of genetic variations (especially via sexual reproduction), populations are able to adapt to environmental changes and challenges, thereby ensuring long-term stability.",
+    "explanation": "Reproduction is essential for sustaining population numbers by replenishing the individuals in a species. While a high-fidelity process of DNA replication helps preserve functional traits needed for survival in a given niche, the genetic variations introduced—particularly through sexual reproduction—provide the raw material for natural selection. This balance between stability (via conservation of key traits) and variability (via genetic recombination) enables species to adapt to environmental stresses, ensuring population stability over time.",
+    "topic": "Population Biology; Reproductive Strategies",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex010"
+  },
+  {
+    "question_text": "What could be the reasons for adopting contraceptive methods?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Contraceptive methods are adopted for several reasons including, preventing unwanted pregnancies, facilitating family planning and controlling family size, spacing births to improve the health of both the mother and the child, and reducing the risk of sexually transmitted infections through barrier methods.",
+    "explanation": "The use of contraceptive methods is essential in managing reproductive health. Preventing unplanned pregnancies allows individuals and couples to plan for when they are ready to have children, ensuring better health outcomes. Methods such as condoms also reduce the transmission of infectious diseases, while other strategies can help manage hormonal balances or physically block gamete interaction. Collectively, these approaches contribute not only to individual well-being but also to broader social and economic stability.",
+    "topic": "Reproductive Health; Contraception and Family Planning",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ex011"
+  }
+]

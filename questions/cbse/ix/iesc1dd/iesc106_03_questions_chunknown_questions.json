@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What is a tissue?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A tissue is a group of cells that are similar in structure and work together to perform a specific function.",
+    "explanation": "In multicellular organisms, cells with similar structure and function combine to form tissues. This organization allows cells to cooperate efficiently to perform complex tasks, such as muscle contraction, nerve impulse transmission, or supporting the body structure. This concept is fundamental in understanding cellular organization in biology.",
+    "topic": "Cellular Organization and Tissues",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic001"
+  },
+  {
+    "question_text": "What is the utility of tissues in multi-cellular organisms?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Tissues enable division of labour, specialization of functions, increased efficiency, and organized structural support, all of which contribute to the survival and coordination of multicellular organisms.",
+    "explanation": "Tissues allow cells to specialize in specific functions, meaning that different tissues can perform distinct roles (e.g., epithelial tissue for protective coverings or muscle tissue for movement). This division of labour means that tasks are performed more efficiently and effectively, supporting complex processes within an organism. The specialized organization also aids in maintaining homeostasis and adaptation to environmental changes.",
+    "topic": "Division of Labour and Organization in Multicellular Organisms",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc106",
+    "question_id": "cbse_ix_iesc1dd_c106_ic002"
+  }
+]

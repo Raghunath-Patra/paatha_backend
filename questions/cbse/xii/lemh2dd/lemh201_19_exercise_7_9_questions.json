@@ -1,0 +1,142 @@
+[
+  {
+    "question_text": "Evaluate the integral: ∫₀¹ (√x + x) dx",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "7/6",
+    "explanation": "We split the integral into two parts: ∫₀¹ √x dx and ∫₀¹ x dx. Recall that ∫ √x dx = 2/3 x^(3/2) and ∫ x dx = x²/2. Evaluating from 0 to 1 gives:\n∫₀¹ √x dx = 2/3 (1)^(3/2) - 0 = 2/3,\n∫₀¹ x dx = 1²/2 - 0 = 1/2.\nThus, the total value is 2/3 + 1/2 = (4/6 + 3/6) = 7/6.",
+    "topic": "Integration by Substitution",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex150"
+  },
+  {
+    "question_text": "Evaluate the integral: ∫₀^(π/2) sin φ cos φ dφ",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1/2",
+    "explanation": "A convenient way to approach this integral is to use the substitution u = sin φ, so that du = cos φ dφ. When φ = 0, u = 0; when φ = π/2, u = 1. The integral becomes ∫₀¹ u du, which equals u²/2 evaluated from 0 to 1, giving 1/2.",
+    "topic": "Integration by Substitution",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex151"
+  },
+  {
+    "question_text": "Evaluate the integral: ∫₀¹ (sin x − x) dx",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(1 − cos 1) − 1/2",
+    "explanation": "Separate the integral into two parts. First, ∫₀¹ sin x dx = [−cos x]₀¹ = (−cos 1 + cos 0) = 1 − cos 1. Second, ∫₀¹ x dx = x²/2 evaluated from 0 to 1 = 1/2. Therefore, combining these gives (1 − cos 1) − 1/2.",
+    "topic": "Definite Integration",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex152"
+  },
+  {
+    "question_text": "Evaluate the integral: ∫₀¹ x√(x + 2) dx  (with substitution: let t² = x + 2)",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "2[( ( (√3)⁵/5 − (2(√3)³)/3 ) − ( (√2)⁵/5 − (2(√2)³)/3 )]",
+    "explanation": "Let t² = x + 2, so that x = t² − 2 and dx = 2t dt. When x = 0, t = √2; when x = 1, t = √3. The integral becomes:\n  ∫₍t=√2₎^(√3) (t² − 2) · t · 2t dt = 2 ∫₍√2₎^(√3) (t⁴ − 2t²) dt.\nIntegrate term‐by‐term:\n  ∫ t⁴ dt = t⁵/5 and ∫ t² dt = t³/3.\nThus, the evaluated integral is 2[(t⁵/5 − 2t³/3)] evaluated from t = √2 to t = √3.",
+    "topic": "Substitution in Definite Integrals",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex153"
+  },
+  {
+    "question_text": "Evaluate the integral: ∫₀¹ (sin x)/(1 + cos² x) dx",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(π/4) − arctan(cos 1)",
+    "explanation": "Use the substitution u = cos x so that du = −sin x dx. Changing the limits: when x = 0, u = cos 0 = 1; when x = 1, u = cos 1. The integral becomes:\n  −∫₍u=1₎^(cos 1) (1/(1+u²)) du = ∫₍u=cos 1₎^(1) (1/(1+u²)) du.\nThe antiderivative of 1/(1+u²) is arctan u, so the result is arctan(1) − arctan(cos 1) = (π/4) − arctan(cos 1).",
+    "topic": "Substitution in Definite Integrals",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex154"
+  },
+  {
+    "question_text": "Evaluate the integral: ∫₀⁴ (x − 2)² dx",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "16/3",
+    "explanation": "A useful substitution is u = x − 2, which gives du = dx. When x = 0, u = −2; when x = 4, u = 2. The integral becomes ∫₋₂² u² du. Since u² is an even function, this equals 2∫₀² u² du. Evaluating, ∫₀² u² du = [u³/3]₀² = 8/3, so the total is 2 × (8/3) = 16/3.",
+    "topic": "Substitution and Symmetry in Definite Integrals",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex155"
+  },
+  {
+    "question_text": "Evaluate the integral: ∫₋₁¹ (x² + 2x + 5)/e^(2x) dx",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "(9e² − 21e^(–2))/4",
+    "explanation": "First, rewrite the integrand as (x² + 2x + 5)e^(–2x). A useful change of variable is to complete the square in the numerator: x² + 2x + 5 = (x + 1)² + 4. Now let u = x + 1 so that when x = –1, u = 0 and when x = 1, u = 2. Also, e^(–2x) becomes e^(–2(u − 1)) = e² e^(–2u). The integral becomes:\n  I = e² ∫₀² (u² + 4) e^(–2u) du.\nEvaluate the two parts separately using integration by parts (or standard formulas) to find:\n  ∫₀² u² e^(–2u) du = (1/4)[1 − 13e^(–4)]  and  ∫₀² 4e^(–2u) du = 2(1 − e^(–4)).\nCombining these results, one obtains I = e²[(9 − 21e^(–4))/4] = (9e² − 21e^(–2))/4.",
+    "topic": "Integration by Substitution and Change of Variables",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex156"
+  },
+  {
+    "question_text": "Evaluate the integral: ∫₁² e^(2x)/(x − 1) dx",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "e²[Ei(2) − lim₍ε→0₊₎Ei(2ε)] (i.e. expressed in terms of the exponential integral Ei, noting that the lower limit yields an improper behavior)",
+    "explanation": "Let u = x − 1 so that x = u + 1 and dx = du. The limits change: when x = 1, u = 0; when x = 2, u = 1. The integral becomes:\n  I = ∫₀¹ e^(2(u+1))/u du = e² ∫₀¹ e^(2u)/u du.\nSince the integrand has a singularity at u = 0, the integral is evaluated as an improper integral. Its antiderivative is expressed in terms of the exponential integral function Ei. Thus, the answer is written as e²[Ei(2) − Ei(lim₍u→0₊₎(2u))]. Note that Ei(0) is divergent, so one must interpret the answer as a limit from above. In many texts the answer is left in this Ei–form.",
+    "topic": "Improper Integrals and the Exponential Integral",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex157"
+  },
+  {
+    "question_text": "The value of the integral ∫ (expression not shown) is:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "6",
+      "0",
+      "3",
+      "4"
+    ],
+    "correct_answer": "0",
+    "explanation": "Although the full expression for the integral is not given, the provided multiple‐choice answers and context suggest that the integrand is an odd function evaluated over symmetric limits. For such integrals the result is 0.",
+    "topic": "Properties of Definite Integrals (Even/Odd functions)",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex158"
+  },
+  {
+    "question_text": "If f(x) = ∫₀ˣ t sin t dt, then f'(x) is:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "cos x + x sin x",
+      "x sin x",
+      "x cos x",
+      "sin x + x cos x"
+    ],
+    "correct_answer": "x sin x",
+    "explanation": "By the Fundamental Theorem of Calculus, if f(x) = ∫₀ˣ g(t) dt then f'(x) = g(x). Here, g(t) = t sin t. Therefore, f'(x) = x sin x.",
+    "topic": "Fundamental Theorem of Calculus",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh201",
+    "question_id": "cbse_xii_lemh2dd_c201_ex159"
+  }
+]

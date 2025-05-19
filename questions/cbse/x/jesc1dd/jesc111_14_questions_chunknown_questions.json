@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Why does the cord of an electric heater not glow while the heating element does?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The heating element is made of a high-resistance material (such as nichrome), which causes a significant amount of heat to be generated according to Joule's law (H = I²Rt). In contrast, the cord is made of a low-resistance material (usually copper), so it does not produce enough heat to glow when the same current flows through it.",
+    "explanation": "In an electric heater, the heating element is specifically designed to have a high resistance so that when a current flows through it, the heat produced (H = I²Rt) is sufficient for heating purposes. The cord, however, is constructed from copper, which has a very low electrical resistance. This low resistance ensures that very little heat is generated even though the same current flows through it. This difference in material properties and corresponding resistances is why the heating element glows (or heats up) while the cord remains cool. The principle involved here is Joule's law and the concept of resistivity, which takes into account the material and dimensions of the conductor.",
+    "topic": "Heating Effect of Electric Current; Joule's Law; Resistivity",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic019"
+  },
+  {
+    "question_text": "Compute the heat generated while transferring 96000 coulombs of charge in one hour through a potential difference of 50 V.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The heat generated is 4.8 × 10^6 Joules.",
+    "explanation": "To compute the heat generated, we use the formula for electrical work done which is given by W = V × Q, where V is the potential difference and Q is the charge. Here, V = 50 V and Q = 96000 C. Therefore, W = 50 V × 96000 C = 4,800,000 J or 4.8 × 10^6 Joules. An alternate method involves first calculating the current I = Q/t, where t = 3600 s (1 hour), and then using Joule's law H = VIt, which yields the same result.",
+    "topic": "Heating Effect of Electric Current; Joule's Law",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic020"
+  },
+  {
+    "question_text": "An electric iron of resistance 20 Ω takes a current of 5 A. Calculate the heat developed in 30 s.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The heat developed is 15,000 Joules.",
+    "explanation": "The heat developed in a resistor can be calculated using Joule’s law, which is H = I² × R × t. For this electric iron, I = 5 A, R = 20 Ω, and t = 30 s. Plugging these values into the formula gives: H = (5 A)² × 20 Ω × 30 s = 25 × 20 × 30 = 15,000 J. This calculation demonstrates that the energy converted into heat in the resistor is directly proportional to the square of the current, the resistance, and the time.",
+    "topic": "Heating Effect of Electric Current; Joule's Law",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic021"
+  }
+]

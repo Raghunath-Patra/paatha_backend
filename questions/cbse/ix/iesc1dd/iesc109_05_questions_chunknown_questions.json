@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What do you mean by free fall?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Free fall is the motion of an object falling towards the Earth solely under the influence of the Earth's gravitational force, with no other forces (such as air resistance) acting on it.",
+    "explanation": "In free fall, the only force acting on the object is gravity, which imparts a uniform acceleration (approximately 9.8 m/s² near the Earth’s surface). This concept is demonstrated in experiments like dropping a stone, where the object's motion is solely governed by gravitational pull. The absence of additional resistive forces (e.g., air resistance) is key in defining free fall.",
+    "topic": "Gravitation and Free Fall",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic003"
+  },
+  {
+    "question_text": "What do you mean by acceleration due to gravity?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Acceleration due to gravity (g) is the constant acceleration that an object experiences when falling freely under the sole influence of the Earth's gravitational force. Near the Earth's surface, its value is approximately 9.8 m/s².",
+    "explanation": "The acceleration due to gravity is a crucial parameter in physics, defined as the uniform rate at which objects accelerate when in free fall. This value (g ≈ 9.8 m/s²) originates from the Earth’s mass and radius, as given by the equation g = GM/R². It appears in the equations of motion for free-falling objects (e.g., v = u + gt, s = ut + ½gt²) and remains nearly constant close to the Earth's surface, assuming negligible air resistance.",
+    "topic": "Gravitation and Free Fall",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic004"
+  }
+]

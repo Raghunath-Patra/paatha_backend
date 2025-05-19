@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Prove that: 2 cos(π/13) cos(9π/13) + cos(3π/13) + cos(5π/13) = 0",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Using the product-to-sum formula, rewrite 2cos(π/13)cos(9π/13) as cos((π/13)+(9π/13)) + cos((π/13)-(9π/13)) = cos(10π/13) + cos(-8π/13). Since cos(–θ) = cosθ, this equals cos(10π/13) + cos(8π/13). The full expression then becomes cos(10π/13) + cos(8π/13) + cos(3π/13) + cos(5π/13). Notice that cos(10π/13) = -cos(3π/13) because 10π/13 = π - 3π/13 and cos(π - θ) = -cosθ. Similarly, cos(8π/13) = -cos(5π/13) because 8π/13 = π - 5π/13. Therefore, the sum is (-cos(3π/13) + cos(3π/13)) + (-cos(5π/13) + cos(5π/13)) = 0.",
+    "explanation": "Step 1: Apply the product-to-sum identity: 2 cos A cos B = cos(A+B) + cos(A-B). Taking A = π/13 and B = 9π/13, we have 2 cos(π/13) cos(9π/13) = cos(10π/13) + cos(π/13 - 9π/13). Note that π/13 - 9π/13 = -8π/13 and since cosine is even, cos(-8π/13) = cos(8π/13).\nStep 2: Thus, the given expression becomes cos(10π/13) + cos(8π/13) + cos(3π/13) + cos(5π/13).\nStep 3: Use the identity cos(π - θ) = -cos θ. Recognize that 10π/13 = π - 3π/13 and 8π/13 = π - 5π/13, so cos(10π/13) = -cos(3π/13) and cos(8π/13) = -cos(5π/13).\nStep 4: Substitute these results back into the expression to get: -cos(3π/13) - cos(5π/13) + cos(3π/13) + cos(5π/13) = 0.\nThus, the identity is proved.",
+    "topic": "Trigonometric Identities",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex018"
+  },
+  {
+    "question_text": "Prove that: (sin 3x + sin x) sin x + (cos 3x - cos x) cos x = 0",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Rewrite the expression by expanding: sin 3x·sin x + sin^2 x + cos 3x·cos x - cos^2 x. Recognize that cos 3x cos x + sin 3x sin x is equal to cos(3x - x) = cos 2x. Also, sin^2 x - cos^2 x = - (cos^2 x - sin^2 x) = -cos 2x. Thus, the expression becomes cos 2x - cos 2x = 0.",
+    "explanation": "Step 1: Distribute and group the terms: (sin 3x + sin x) sin x = sin 3x sin x + sin^2 x, and (cos 3x - cos x) cos x = cos 3x cos x - cos^2 x.\nStep 2: Combine these to obtain: sin 3x sin x + cos 3x cos x + sin^2 x - cos^2 x.\nStep 3: Use the cosine addition formula: cos(3x - x) = cos 3x cos x + sin 3x sin x = cos 2x.\nStep 4: Also note that sin^2 x - cos^2 x = - (cos^2 x - sin^2 x) = -cos 2x (using the double-angle formula cos 2x = cos^2 x - sin^2 x).\nStep 5: Therefore, the whole expression simplifies to cos 2x - cos 2x = 0.",
+    "topic": "Trigonometric Identities",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex019"
+  },
+  {
+    "question_text": "Prove that: (cos x + cos y)² + (sin x - sin y)² = 4 cos²((x + y)/2)",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Expand the left-hand side: (cos x + cos y)² = cos² x + 2 cos x cos y + cos² y, and (sin x - sin y)² = sin² x - 2 sin x sin y + sin² y. Adding these results gives (cos² x + sin² x) + (cos² y + sin² y) + 2(cos x cos y - sin x sin y) = 1 + 1 + 2 cos(x + y) [since cos x cos y - sin x sin y = cos(x + y)]. This equals 2 + 2 cos(x + y). Using the double-angle identity 2 + 2 cos(x + y) = 4 cos²((x + y)/2) (because cos(x + y) = 2 cos²((x + y)/2) - 1), we get the required result.",
+    "explanation": "Step 1: Expand the squares: (cos x + cos y)² = cos² x + 2 cos x cos y + cos² y and (sin x - sin y)² = sin² x - 2 sin x sin y + sin² y.\nStep 2: Use the Pythagorean identity cos²θ + sin²θ = 1 for x and y. So, cos² x + sin² x = 1 and cos² y + sin² y = 1.\nStep 3: Adding the expansions gives: 1 + 1 + 2(cos x cos y - sin x sin y) = 2 + 2 cos(x + y) (since cos(x + y) = cos x cos y - sin x sin y).\nStep 4: Recognize that 2 + 2 cos(x + y) can be written as 4 cos²((x + y)/2) by using the double-angle formula for cosine: cos(x + y) = 2 cos²((x + y)/2) - 1.\nStep 5: Thus, the identity is established.",
+    "topic": "Trigonometric Identities",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex020"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following best describes a mixture?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. A pure substance",
+      "B. A combination of two or more pure substances",
+      "C. A chemical compound with fixed proportions",
+      "D. An element with unique properties"
+    ],
+    "correct_answer": "B. A combination of two or more pure substances",
+    "explanation": "A mixture consists of two or more pure substances physically combined without any chemical bonding. Each component retains its own properties.",
+    "topic": "Mixtures",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc102",
+    "section_id": "02_section_2_1",
+    "question_id": "cbse_ix_iesc1dd_c102_gen001"
+  }
+]

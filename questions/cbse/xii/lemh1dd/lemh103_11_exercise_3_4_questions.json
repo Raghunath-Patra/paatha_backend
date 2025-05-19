@@ -1,0 +1,20 @@
+[
+  {
+    "question_text": "Matrices A and B will be inverse of each other only if",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "(A) A·B (with some erroneous condition)",
+      "(B) [Not provided in the source]",
+      "(C) AB = 0, BA = I",
+      "(D) AB = BA = I"
+    ],
+    "correct_answer": "(D) AB = BA = I",
+    "explanation": "For two square matrices A and B to be inverses of each other, by definition their product in both orders must equal the identity matrix, i.e., AB = I and BA = I. Option (D) directly states this condition. Options (A) and (C) either provide erroneous conditions or do not satisfy the definition of inverse. Hence, (D) is the correct answer.",
+    "topic": "Invertible Matrices",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex045"
+  }
+]

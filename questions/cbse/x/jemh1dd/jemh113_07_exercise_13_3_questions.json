@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "The following frequency distribution gives the monthly consumption of electricity of 68 consumers of a locality. Find the median, mean and mode of the data and compare them.\n\nMonthly consumption (in units) and Number of consumers:\n65 - 85: 4\n85 - 105: 5\n105 - 125: 13\n125 - 145: 20\n145 - 165: 14\n165 - 185: 8\n185 - 205: 4",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Median ≈ 137 units, Mean ≈ 137.06 units, Mode ≈ 135.77 units. The values are very nearly equal indicating a roughly symmetric distribution.",
+    "explanation": "Step 1: Compute the total number of consumers: n = 4 + 5 + 13 + 20 + 14 + 8 + 4 = 68.\n\nStep 2: Find the cumulative frequencies:\n- 65 - 85: 4\n- 85 - 105: 4 + 5 = 9\n- 105 - 125: 9 + 13 = 22\n- 125 - 145: 22 + 20 = 42\n- 145 - 165: 42 + 14 = 56\n- 165 - 185: 56 + 8 = 64\n- 185 - 205: 64 + 4 = 68\n\nStep 3: Median:\nMedian position = n/2 = 68/2 = 34. The 34th observation falls in the 125 - 145 class (cumulative frequency goes from 22 to 42).\nUsing the grouped median formula:\nMedian = l + ((n/2 – cf) / f) × h\nHere, l = 125, cf = 22 (cumulative frequency before the median class), f = 20 (frequency of the median class), and h = 20 (class width).\nMedian = 125 + ((34 – 22) / 20) × 20 = 125 + (12/20)*20 = 125 + 12 = 137 units.\n\nStep 4: Mean:\nFirst, find the midpoint of each class:\n• 65 - 85: midpoint = 75, contribution = 4×75 = 300\n• 85 - 105: midpoint = 95, contribution = 5×95 = 475\n• 105 - 125: midpoint = 115, contribution = 13×115 = 1495\n• 125 - 145: midpoint = 135, contribution = 20×135 = 2700\n• 145 - 165: midpoint = 155, contribution = 14×155 = 2170\n• 165 - 185: midpoint = 175, contribution = 8×175 = 1400\n• 185 - 205: midpoint = 195, contribution = 4×195 = 780\n\nTotal sum = 300 + 475 + 1495 + 2700 + 2170 + 1400 + 780 = 9320.\nMean = 9320 / 68 ≈ 137.06 units.\n\nStep 5: Mode:\nThe modal class is the class with the highest frequency, which is 125 - 145 with f = 20. Let f₀ = 13 (frequency of previous class) and f₂ = 14 (frequency of next class), l = 125, and h = 20.\nMode = l + [(f – f₀) / (2f – f₀ – f₂)] × h\nMode = 125 + [(20 – 13) / (40 – 13 – 14)] × 20 = 125 + [7 / 13] × 20 ≈ 125 + 10.77 ≈ 135.77 units.\n\nComparison: The values of median, mean, and mode are very close (approximately 137, 137.06, and 135.77 respectively), indicating that the distribution is relatively symmetric.",
+    "topic": "Measures of Central Tendency - Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex016"
+  },
+  {
+    "question_text": "If the median of the distribution given below is 28.5, find the values of x and y.\n\nDistribution:\nClass intervals and Frequencies:\n0 - 10: 5\n10 - 20: x\n20 - 30: 20\n30 - 40: 15\n40 - 50: y\n50 - 60: 5\nTotal frequency = 60",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "x = 8 and y = 7.",
+    "explanation": "Step 1: Total frequency: 5 + x + 20 + 15 + y + 5 = 45 + x + y = 60, so x + y = 15.\n\nStep 2: Determine the median class. The cumulative frequencies are:\n• 0-10: 5\n• 10-20: 5 + x\n• 20-30: 5 + x + 20 = x + 25\nFor n = 60, median position is 30. To have the 30th observation in the 20–30 class, we require 5 + x < 30 and (x + 25) ≥ 30. This gives x < 25 and x ≥ 5. \n\nStep 3: Use the median formula for grouped data. Since the median is 28.5 and the median falls in the 20-30 class:\nLet l = 20, h = 10, cf (before median class) = 5 + x, f = 20, and median position = n/2 = 30.\nMedian = l + (((n/2) – cf) / f) × h\n28.5 = 20 + ((30 – (5 + x)) / 20) × 10\n28.5 = 20 + ((25 – x) / 20) × 10\n28.5 = 20 + (25 – x)/2\n(25 – x)/2 = 8.5   →   25 – x = 17   →   x = 8.\n\nStep 4: Since x + y = 15, then y = 15 – 8 = 7.",
+    "topic": "Measures of Central Tendency - Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex017"
+  },
+  {
+    "question_text": "A life insurance agent found the following data for the distribution of ages of 100 policy holders. Calculate the median age, if policies are given only to persons having age 18 years onwards but less than 60 years.\n\nData (Cumulative \"Below\" Distribution):\nBelow 20: 2\nBelow 25: 6\nBelow 30: 24\nBelow 35: 45\nBelow 40: 78\nBelow 45: 89\nBelow 50: 92\nBelow 55: 98\nBelow 60: 100",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The median age is approximately 35.76 years.",
+    "explanation": "Step 1: Since policies are for persons aged 18 or above, assume that the 'Below 20' group represents ages from 18 to 20. Adjust the frequencies for the effective age intervals:\n• 18–20: 2\n• 20–25: 6 – 2 = 4\n• 25–30: 24 – 6 = 18\n• 30–35: 45 – 24 = 21\n• 35–40: 78 – 45 = 33\n• 40–45: 89 – 78 = 11\n• 45–50: 92 – 89 = 3\n• 50–55: 98 – 92 = 6\n• 55–60: 100 – 98 = 2\n\nStep 2: Verify total frequency: 2 + 4 + 18 + 21 + 33 + 11 + 3 + 6 + 2 = 100.\n\nStep 3: Find cumulative frequencies for the adjusted classes:\n• 18–20: 2\n• 20–25: 2 + 4 = 6\n• 25–30: 6 + 18 = 24\n• 30–35: 24 + 21 = 45\n• 35–40: 45 + 33 = 78\n\nStep 4: With n = 100, the median position is the average of the 50th and 51st observations. Both lie in the 35–40 class since the cumulative frequency reaches 45 before this class and 78 after.\nUsing the median formula:\nMedian = l + (((n/2) – cf) / f) × h\nHere, for the 35–40 class, l = 35, h = 5, cf (cumulative frequency before) = 45, and f = 33.\nMedian = 35 + ((50 – 45) / 33) × 5 = 35 + (5/33)×5 ≈ 35 + 0.7576 ≈ 35.76 years.",
+    "topic": "Measures of Central Tendency - Cumulative Frequency Distribution",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex018"
+  },
+  {
+    "question_text": "The lengths of 40 leaves of a plant are measured correct to the nearest millimetre, and the data obtained is represented in the following table. Find the median length of the leaves.\n\nLength (in mm) and Number of leaves:\n118 - 126: 3\n127 - 135: 5\n136 - 144: 9\n145 - 153: 12\n154 - 162: 5\n163 - 171: 4\n172 - 180: 2\n\n(Hint: Convert the classes to continuous classes: 117.5 - 126.5, 126.5 - 135.5, …, 171.5 - 180.5.)",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The median length is approximately 146.75 mm.",
+    "explanation": "Step 1: Convert the given classes to continuous classes by subtracting/adding 0.5:\n• 117.5 - 126.5: 3\n• 126.5 - 135.5: 5\n• 135.5 - 144.5: 9\n• 144.5 - 153.5: 12\n• 153.5 - 162.5: 5\n• 162.5 - 171.5: 4\n• 171.5 - 180.5: 2\n\nStep 2: Determine the cumulative frequencies:\n• 117.5 - 126.5: 3\n• 126.5 - 135.5: 3 + 5 = 8\n• 135.5 - 144.5: 8 + 9 = 17\n• 144.5 - 153.5: 17 + 12 = 29\n• 153.5 - 162.5: 29 + 5 = 34\n• 162.5 - 171.5: 34 + 4 = 38\n• 171.5 - 180.5: 38 + 2 = 40\n\nStep 3: With n = 40, the median position is n/2 = 20. The 20th observation falls in the 144.5 - 153.5 class since the cumulative frequency just before is 17 and becomes 29 in this class.\n\nStep 4: Use the median formula:\nMedian = l + (((n/2) – cf) / f) × h\nHere, l = 144.5, cf (cumulative frequency before the median class) = 17, f = 12, and h = 9 (153.5 – 144.5).\nMedian = 144.5 + ((20 – 17) / 12) × 9 = 144.5 + (3/12)*9 = 144.5 + 2.25 = 146.75 mm.",
+    "topic": "Median of Grouped Data (Continuous Classes)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex019"
+  },
+  {
+    "question_text": "The following table gives the distribution of the life time of 400 neon lamps. Find the median life time of a lamp.\n\nLife time (in hours) and Number of lamps:\n1500 - 2000: 14\n2000 - 2500: 56\n2500 - 3000: 60\n3000 - 3500: 86\n3500 - 4000: 74\n4000 - 4500: 62\n4500 - 5000: 48",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The median life time is approximately 3407 hours.",
+    "explanation": "Step 1: Compute the cumulative frequencies:\n• 1500 - 2000: 14\n• 2000 - 2500: 14 + 56 = 70\n• 2500 - 3000: 70 + 60 = 130\n• 3000 - 3500: 130 + 86 = 216\n• 3500 - 4000: 216 + 74 = 290\n• 4000 - 4500: 290 + 62 = 352\n• 4500 - 5000: 352 + 48 = 400\n\nStep 2: With n = 400, the median position is n/2 = 200. The 200th observation falls in the 3000 - 3500 class (cumulative frequency increases from 130 to 216).\n\nStep 3: Use the median formula:\nMedian = l + (((n/2) – cf) / f) × h\nFor the 3000 - 3500 class: l = 3000, cf (before the class) = 130, f = 86, and h = 500 (3500 – 3000).\n\nMedian = 3000 + ((200 – 130) / 86) × 500 = 3000 + (70/86)×500 ≈ 3000 + 406.98 ≈ 3406.98 hours (≈ 3407 hours).",
+    "topic": "Median of Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex020"
+  },
+  {
+    "question_text": "100 surnames were randomly picked from a local telephone directory and the frequency distribution of the number of letters in the surnames was obtained as follows:\n\nNumber of letters and Number of surnames:\n1-4: 6\n4-7: 30\n7-10: 40\n10-13: 16\n13-16: 4\n16-19: 4\n\nDetermine the median number of letters, the mean number of letters, and the modal size of the surnames.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Median ≈ 8.05 letters, Mean ≈ 8.32 letters, Mode ≈ 7.88 letters.",
+    "explanation": "Step 1: Calculate cumulative frequencies:\n• 1-4: 6\n• 4-7: 6 + 30 = 36\n• 7-10: 36 + 40 = 76\n• 10-13: 76 + 16 = 92\n• 13-16: 92 + 4 = 96\n• 16-19: 96 + 4 = 100\nThe median position for n = 100 is 50th observation, which falls in the 7-10 class.\n\nStep 2: Median (using grouped data formula):\nFor the 7-10 class: l = 7, h = 3, cumulative frequency before (cf) = 36, frequency (f) = 40.\nMedian = l + (((n/2) – cf) / f) × h = 7 + ((50 – 36) / 40) × 3 = 7 + (14/40)×3 = 7 + 1.05 ≈ 8.05 letters.\n\nStep 3: Mean:\nFind the midpoint of each class:\n• 1-4: midpoint = (1+4)/2 = 2.5, contribution = 6×2.5 = 15\n• 4-7: midpoint = (4+7)/2 = 5.5, contribution = 30×5.5 = 165\n• 7-10: midpoint = (7+10)/2 = 8.5, contribution = 40×8.5 = 340\n• 10-13: midpoint = (10+13)/2 = 11.5, contribution = 16×11.5 = 184\n• 13-16: midpoint = (13+16)/2 = 14.5, contribution = 4×14.5 = 58\n• 16-19: midpoint = (16+19)/2 = 17.5, contribution = 4×17.5 = 70\nTotal sum = 15 + 165 + 340 + 184 + 58 + 70 = 832\nMean = 832 / 100 = 8.32 letters.\n\nStep 4: Mode (using the formula for grouped data):\nThe modal class is 7-10 (highest frequency, f = 40).\nLet l = 7, h = 3, f₀ = frequency of the previous class = 30, and f₂ = frequency of the next class = 16.\nMode = l + [(f – f₀) / (2f – f₀ – f₂)] × h = 7 + [(40 – 30) / (80 – 30 – 16)] × 3 = 7 + (10/34)×3 ≈ 7 + 0.882 ≈ 7.88 letters.",
+    "topic": "Measures of Central Tendency - Grouped Data (Frequency Distribution of Surnames)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex021"
+  },
+  {
+    "question_text": "The distribution below gives the weights of 30 students of a class. Find the median weight of the students.\n\nWeights (in kg) and Number of students:\n40-45: 2\n45-50: 3\n50-55: 8\n55-60: 6\n60-65: 6\n65-70: 3\n70-75: 2",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The median weight is approximately 56.67 kg.",
+    "explanation": "Step 1: Determine the cumulative frequencies:\n• 40-45: 2\n• 45-50: 2 + 3 = 5\n• 50-55: 5 + 8 = 13\n• 55-60: 13 + 6 = 19\n• 60-65: 19 + 6 = 25\n• 65-70: 25 + 3 = 28\n• 70-75: 28 + 2 = 30\n\nStep 2: With n = 30, the median position is n/2 = 15. The 15th observation falls in the 55-60 class (cumulative frequency rises from 13 to 19).\n\nStep 3: Using the median formula for grouped data:\nAssume the classes are continuous with l = 55, h = 5, cumulative frequency before = 13, and frequency f = 6.\nMedian = l + (((n/2) – (cf)) / f) × h = 55 + ((15 – 13) / 6) × 5 = 55 + (2/6)*5 = 55 + 1.67 ≈ 56.67 kg.",
+    "topic": "Median of Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex022"
+  }
+]

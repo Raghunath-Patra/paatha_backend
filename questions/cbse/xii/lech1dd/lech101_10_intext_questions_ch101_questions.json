@@ -1,0 +1,58 @@
+[
+  {
+    "question_text": "Vapour pressure of pure water at 298 K is 23.8 mm Hg. 50 g of urea (NH₂CONH₂) is dissolved in 850 g of water. Calculate the vapour pressure of water for this solution and its relative lowering.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The vapour pressure of water in the solution is approximately 23.4 mm Hg and the relative lowering is about 0.017 (or 1.7%).",
+    "explanation": "First, calculate the moles of urea by dividing its mass (50 g) by its molar mass (≈60 g/mol), which gives ≈0.83 mol. Next, calculate the moles of water from 850 g (850/18 ≈47.2 mol). The mole fraction of the nonvolatile solute (urea) is x₂ = 0.83/(0.83 + 47.2) ≈0.017. According to Raoult’s law, the vapour pressure of water in the solution is p = p⁰_water × (1 – x₂). Thus, p ≈ 23.8 mm Hg × (1 – 0.017) ≈ 23.4 mm Hg. The relative lowering Δp/p⁰ = x₂ ≈ 0.017.",
+    "topic": "Colligative Properties (Vapour Pressure Lowering)",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech101",
+    "intext_id": "10_intext_questions_ch101",
+    "question_id": "cbse_xii_lech1dd_c101_in008"
+  },
+  {
+    "question_text": "Boiling point of water at 750 mm Hg is 99.63°C. How much sucrose is to be added to 500 g of water such that it boils at 100°C.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 122 g of sucrose should be added.",
+    "explanation": "The boiling point elevation ΔT_b is 100°C – 99.63°C = 0.37°C. Using the relation ΔT_b = K_b × m, and taking K_b for water as 0.52 K·kg/mol, the required molality m = 0.37/0.52 ≈ 0.712 mol/kg. For 500 g of water (0.5 kg), the moles of sucrose needed = 0.712 × 0.5 ≈ 0.356 mol. Given that the molar mass of sucrose is approximately 342 g/mol, the mass required = 0.356 mol × 342 g/mol ≈ 122 g.",
+    "topic": "Colligative Properties (Elevation of Boiling Point)",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech101",
+    "intext_id": "10_intext_questions_ch101",
+    "question_id": "cbse_xii_lech1dd_c101_in009"
+  },
+  {
+    "question_text": "Calculate the mass of ascorbic acid (Vitamin C, C₆H₈O₆) to be dissolved in 75 g of acetic acid to lower its melting point by 1.5°C. K_f = 3.9 K kg mol⁻¹.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 5.08 g of ascorbic acid is required.",
+    "explanation": "Using the freezing point depression equation ΔT_f = K_f · m, where m is the molality (moles of solute per kg of solvent), we have m = ΔT_f/K_f = 1.5/3.9 ≈ 0.385 mol/kg. For 75 g (0.075 kg) of acetic acid, the moles of ascorbic acid needed = 0.385 × 0.075 ≈ 0.0289 mol. With the molar mass of ascorbic acid, C₆H₈O₆, being 176 g/mol, the mass required = 0.0289 × 176 ≈ 5.08 g.",
+    "topic": "Colligative Properties (Freezing Point Depression)",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech101",
+    "intext_id": "10_intext_questions_ch101",
+    "question_id": "cbse_xii_lech1dd_c101_in010"
+  },
+  {
+    "question_text": "Calculate the osmotic pressure in pascals exerted by a solution prepared by dissolving 1.0 g of a polymer of molar mass 185,000 in 450 mL of water at 37°C.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The osmotic pressure is approximately 31 Pa.",
+    "explanation": "First, determine the number of moles of the polymer: n = 1.0 g / 185,000 g/mol ≈ 5.41×10⁻⁶ mol. Convert the solution volume to cubic meters: 450 mL = 0.00045 m³. Using the formula for osmotic pressure, Π = (n/V)RT, with R = 8.314 J/(mol·K) and T = 37°C + 273 = 310 K, we get (n/V) ≈ 5.41×10⁻⁶ mol / 0.00045 m³ ≈ 0.0120 mol/m³. Therefore, Π = 0.0120 mol/m³ × 8.314 J/(mol·K) × 310 K ≈ 31 Pa.",
+    "topic": "Osmosis and Osmotic Pressure",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech101",
+    "intext_id": "10_intext_questions_ch101",
+    "question_id": "cbse_xii_lech1dd_c101_in011"
+  }
+]

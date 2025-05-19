@@ -1,0 +1,134 @@
+[
+  {
+    "question_text": "Which of the following groups contain only biodegradable items?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Grass, flowers and leather",
+      "Grass, wood and plastic",
+      "Fruit-peels, cake and lime-juice",
+      "Cake, wood and grass"
+    ],
+    "correct_answer": "Fruit-peels, cake and lime-juice (Option C)",
+    "explanation": "Fruit-peels, cake, and lime-juice are composed of organic materials that decompose relatively quickly compared to items such as leather (which biodegrades very slowly) and plastic (which is non-biodegradable). Although option D also contains only biodegradable items, option C is the best answer because the organic waste in option C decomposes faster. This illustrates the concept of biodegradability and the environmental implications of waste composition.",
+    "topic": "Biodegradability and Waste Management",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex001"
+  },
+  {
+    "question_text": "Which of the following constitute a food-chain?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Grass, wheat and mango",
+      "Grass, goat and human",
+      "Goat, cow and elephant",
+      "Grass, fish and goat"
+    ],
+    "correct_answer": "Grass, goat and human (Option B)",
+    "explanation": "A food chain is a sequence of organisms through which energy and nutrients pass. In option B, grass is a producer, the goat is a primary consumer that feeds on the grass, and the human is a secondary consumer who may consume the goat. This correctly illustrates the trophic levels in a food chain.",
+    "topic": "Food Chains and Trophic Levels",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex002"
+  },
+  {
+    "question_text": "Which of the following are environment-friendly practices?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Carrying cloth-bags while shopping",
+      "Switching off unnecessary lights and fans",
+      "Walking to school instead of getting a ride",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above (Option D)",
+    "explanation": "Each option represents an environment-friendly practice: using cloth bags reduces plastic waste, switching off unused electrical devices saves energy, and walking reduces fossil fuel consumption. Together, they illustrate sustainable practices in everyday life.",
+    "topic": "Environmental Conservation and Sustainable Practices",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex003"
+  },
+  {
+    "question_text": "What will happen if we kill all the organisms in one trophic level?",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Eliminating all organisms in one trophic level will disrupt the entire ecosystem. The consumers that rely on the affected trophic level for food may starve, while the prey organisms may experience population explosions. This imbalance can lead to a cascade effect, eventually destabilizing the nutrient cycles and energy flow in the ecosystem.",
+    "explanation": "Removing an entire trophic level interferes with the intricate balance of the food web. For example, if primary consumers (herbivores) are eliminated, the producers may overgrow or die off without the regulatory pressure of grazing. Conversely, if producers are removed, every organism dependent on primary production loses its energy source, resulting in ecosystem collapse. This concept demonstrates the interdependence of trophic levels and the importance of energy flow and nutrient cycling.",
+    "topic": "Ecosystem Dynamics and Trophic Interactions",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex004"
+  },
+  {
+    "question_text": "Will the impact of removing all the organisms in a trophic level be different for different trophic levels? Can the organisms of any trophic level be removed without causing damage to the ecosystem?",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Yes, the impact will vary depending on the trophic level removed. Removing producers, which form the base of the food chain, would lead to the collapse of the entire ecosystem. Removing top carnivores could cause an overpopulation of herbivores, and eliminating decomposers would halt nutrient recycling. No trophic level can be completely removed without causing significant ecological imbalance.",
+    "explanation": "Each trophic level plays a distinct role in maintaining the ecosystem’s stability. Producers convert solar energy into chemical energy, and consumers along with decomposers ensure energy flow and nutrient recycling. The removal of any one level disrupts these processes: a lack of producers removes the energy source for all higher levels, while the removal of decomposers prevents the breakdown and reuse of organic matter. Thus, every level is critical to the overall ecological balance.",
+    "topic": "Food Web Interdependence and Ecosystem Stability",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex005"
+  },
+  {
+    "question_text": "What is biological magnification? Will the levels of this magnification be different at different levels of the ecosystem?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Biological magnification is the process whereby the concentration of non-degradable substances, such as pesticides or heavy metals, increases at each successive trophic level in a food chain. The highest concentrations are found in organisms at the top trophic levels.",
+    "explanation": "Biomagnification occurs because these substances are not easily broken down and tend to accumulate in the tissues of organisms. As a predator consumes several prey that each contain small amounts of these toxins, the concentration increases in the predator. This phenomenon is particularly dangerous for top predators, including humans, and underscores the need for monitoring and regulating pollutants in the environment.",
+    "topic": "Pollutants and Food Chain Dynamics",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex006"
+  },
+  {
+    "question_text": "What are the problems caused by the non-biodegradable wastes that we generate?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Non-biodegradable waste causes numerous environmental problems including land pollution (accumulation in landfills and soil contamination), water pollution (leaching into water bodies affecting aquatic life), air pollution (when burned, releasing toxins), harm to wildlife (ingestion or entanglement), and overall degradation of natural landscapes.",
+    "explanation": "Non-biodegradable materials persist in the environment for long periods, interfering with natural processes. For example, plastics can take hundreds to thousands of years to decompose, disrupting ecosystems and harming organisms. The physical presence of such waste also creates unsightly and unsafe conditions, which can lead to secondary issues such as reduced water quality and biodiversity loss.",
+    "topic": "Waste Management and Environmental Pollution",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex007"
+  },
+  {
+    "question_text": "If all the waste we generate is biodegradable, will this have no impact on the environment?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "No, even if all waste were biodegradable, it could still negatively impact the environment. The decomposition of large amounts of biodegradable material, especially in anaerobic conditions, can produce methane (a potent greenhouse gas) and leachate that pollutes water sources.",
+    "explanation": "Biodegradable waste, when not managed properly, can still cause environmental harm. In landfills, for example, insufficient oxygen can lead to anaerobic decomposition, releasing methane and creating leachate that contaminates groundwater. Therefore, proper waste management practices such as composting are essential to minimize these impacts, despite the waste being biodegradable.",
+    "topic": "Waste Decomposition and Environmental Impact",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex008"
+  },
+  {
+    "question_text": "Why is damage to the ozone layer a cause for concern? What steps are being taken to limit this damage?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Damage to the ozone layer is concerning because it acts as a shield against harmful ultraviolet (UV) radiation from the sun. Increased UV exposure can lead to skin cancer, cataracts, immune system suppression, and damage to terrestrial and aquatic ecosystems. Internationally, measures such as the Montreal Protocol have been implemented to phase out ozone-depleting substances (ODS) like chlorofluorocarbons (CFCs), thereby reducing further damage and aiding in the gradual recovery of the ozone layer.",
+    "explanation": "The ozone layer’s function is critical for life as it absorbs most of the sun’s harmful UV radiation. The thinning or depletion of this layer increases the risk of UV-related health issues and environmental disturbances. The Montreal Protocol and its subsequent amendments represent successful international cooperation using scientific evidence to regulate and reduce pollutants, demonstrating a real-world application of environmental governance principles and chemical safety.",
+    "topic": "Ozone Layer Depletion and Environmental Policies",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ex009"
+  }
+]

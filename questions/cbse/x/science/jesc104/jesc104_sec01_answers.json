@@ -1,0 +1,22 @@
+[
+  {
+    "question_text": "What would be the electron dot structure of carbon dioxide which has the formula CO₂?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The electron dot structure of carbon dioxide (CO₂) is O=C=O, where the carbon atom is double bonded to each oxygen atom. Each oxygen atom has two lone pairs of electrons.",
+    "explanation": "To draw the electron dot structure of CO₂:\n\n1. **Determine the total number of valence electrons**:\n   - Carbon (C) has 4 valence electrons.\n   - Each Oxygen (O) has 6 valence electrons.\n   - Total valence electrons = 4 + (2 × 6) = 16 electrons.\n\n2. **Arrange the atoms**:\n   - Carbon is the central atom since it is less electronegative than oxygen.\n   - Place two oxygen atoms on either side of the carbon atom.\n\n3. **Form single bonds**:\n   - Create single bonds between carbon and each oxygen. This uses 4 electrons (2 bonds × 2 electrons).\n   - Remaining electrons = 16 - 4 = 12 electrons.\n\n4. **Complete the octets of the oxygen atoms**:\n   - Each oxygen needs 6 more electrons to complete its octet (since they already share 2 electrons in the bond).\n   - Assign 6 electrons (3 lone pairs) to each oxygen. This uses 12 electrons.\n\n5. **Check the carbon atom**:\n   - Carbon currently has only 4 electrons (from the two single bonds). It needs 8 electrons to complete its octet.\n   - Convert lone pairs from each oxygen into double bonds with carbon. Each double bond provides 2 more electrons to carbon.\n   - Final structure: O=C=O, with each oxygen having two lone pairs.\n\nThe final electron dot structure shows carbon double bonded to both oxygens, and each oxygen has two lone pairs, fulfilling the octet rule for all atoms involved.",
+    "topic": "Electron Dot Structures",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "What would be the electron dot structure of a molecule of sulphur which is made up of eight atoms of sulphur? (Hint: The eight atoms of sulphur are joined together in the form of a ring.)",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The electron dot structure of an S₈ molecule consists of a ring of eight sulfur atoms, each connected by single bonds to two neighboring sulfur atoms. Each sulfur atom has two lone pairs of electrons.",
+    "explanation": "To draw the electron dot structure of S₈ (a ring of eight sulfur atoms): 1. **Determine the total number of valence electrons**:  - Sulfur (S) has 6 valence electrons.   - Total valence electrons = 8 × 6 = 48 electrons. 2. **Arrange the atoms in a ring**:  - Place eight sulfur atoms in a circular arrangement forming a ring.3. **Form single bonds between adjacent sulfur atoms**:   - Each S-S bond uses 2 electrons.   - There are 8 bonds in the ring, consuming 16 electrons.   - Remaining electrons = 48 - 16 = 32 electrons. 4. **Distribute the remaining electrons as lone pairs**:   - Each sulfur atom needs to complete its octet.   - After forming two single bonds, each sulfur has 4 electrons (from bonds), needing 4 more electrons (2 lone pairs). 5. **Assign lone pairs to each sulfur atom**:   - Place two lone pairs (4 electrons) on each sulfur atom.   - Total lone pair electrons = 8 × 4 = 32 electrons, which uses up all remaining electrons. 6. **Final structure**:   - A ring of eight sulfur atoms, each connected by single bonds to two neighbors.   - Each sulfur atom has two lone pairs of electrons. This structure satisfies the octet rule for all sulfur atoms and represents the common ring form of elemental sulfur (S₈).",
+    "topic": "Electron Dot Structures",
+    "bloom_level": "Understand"
+  }
+]

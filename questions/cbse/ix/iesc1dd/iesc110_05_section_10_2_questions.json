@@ -1,0 +1,213 @@
+[
+  {
+    "question_text": "What is the SI unit of energy?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Watt (W)",
+      "B. Joule (J)",
+      "C. Newton (N)",
+      "D. Pascal (Pa)"
+    ],
+    "correct_answer": "B. Joule (J)",
+    "explanation": "Energy is measured in Joules (J), which is defined as the energy required to perform one joule of work.",
+    "topic": "Definition of Energy and Units",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen013"
+  },
+  {
+    "question_text": "Which of the following energy sources is NOT directly due to the Sun?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Fossil fuels",
+      "B. Wind energy",
+      "C. Nuclear energy",
+      "D. Hydro energy"
+    ],
+    "correct_answer": "C. Nuclear energy",
+    "explanation": "Fossil fuels, wind, and hydro are indirectly due to the Sun, while nuclear energy comes from the nucleus of an atom and is not derived from solar radiation.",
+    "topic": "Sources of Energy",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen014"
+  },
+  {
+    "question_text": "Which statement best describes kinetic energy?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Energy stored due to position",
+      "B. Energy due to an object's motion",
+      "C. Energy stored in chemical bonds",
+      "D. Energy generated during nuclear reactions"
+    ],
+    "correct_answer": "B. Energy due to an object's motion",
+    "explanation": "Kinetic energy is the energy possessed by an object owing to its motion.",
+    "topic": "Kinetic Energy",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen015"
+  },
+  {
+    "question_text": "In an experiment, a ball is dropped from different heights onto a sand bed. Increasing the height from which the ball is dropped results in:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "A. a shallower depression",
+      "B. no change in depression",
+      "C. a deeper depression",
+      "D. unpredictable effects"
+    ],
+    "correct_answer": "C. a deeper depression",
+    "explanation": "Falling from a greater height increases the velocity upon impact, hence increasing the kinetic energy; therefore, the ball makes a deeper dent in the sand.",
+    "topic": "Kinetic Energy and Work",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen016"
+  },
+  {
+    "question_text": "Define energy in terms of its capacity to do work.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Energy is the ability or capacity of an object or system to perform work.",
+    "explanation": "In physics, energy is defined by its ability to do work; an object that can produce a force or induce change by its motion, position, or configuration is said to possess energy.",
+    "topic": "Definition of Energy",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen017"
+  },
+  {
+    "question_text": "List three forms of energy as discussed in the textbook section.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Mechanical energy (potential and kinetic), chemical energy, and electrical energy.",
+    "explanation": "The textbook mentions various forms of energy including mechanical energy (which is the sum of potential and kinetic energy), heat energy, chemical energy, electrical energy, and light energy.",
+    "topic": "Forms of Energy",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen018"
+  },
+  {
+    "question_text": "Write the equation for kinetic energy and explain what each symbol represents.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Kinetic energy is given by the equation Eₖ = ½ m v², where Eₖ is the kinetic energy measured in Joules (J), m is the mass of the object in kilograms (kg), and v is its velocity in meters per second (m/s).",
+    "explanation": "This equation shows that the kinetic energy of an object depends both on its mass and the square of its velocity. An increase in either mass or velocity (especially velocity, since it is squared) results in a higher kinetic energy.",
+    "topic": "Kinetic Energy",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen019"
+  },
+  {
+    "question_text": "Describe how the potential energy of a falling mass is converted to the kinetic energy of a moving trolley in the described activity.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The potential energy stored in the elevated mass is converted into kinetic energy as the mass falls, causing the trolley to move. The falling mass exerts a force via a pulley system, accelerating the trolley, which then transfers its kinetic energy when it collides with another object (like a wooden block).",
+    "explanation": "This process demonstrates the conservation of energy: the potential energy (due to height) is converted into kinetic energy (motion) as the mass falls, and then transferred from the trolley to the block during the collision.",
+    "topic": "Energy Transformation",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen020"
+  },
+  {
+    "question_text": "Explain, with appropriate calculations, how the kinetic energy of a car changes when its speed increases from 30 km/h to 60 km/h, assuming its mass remains 1500 kg.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "First, convert the speeds to m/s: 30 km/h = 30×(5/18) m/s = 25/3 m/s; 60 km/h = 60×(5/18) m/s = 50/3 m/s. Initial kinetic energy = ½ × 1500 kg × (25/3 m/s)² and final kinetic energy = ½ × 1500 kg × (50/3 m/s)². Calculations yield initial KE ≈ 156250/3 J and final KE ≈ 625000/3 J. The work done (change in kinetic energy) is (625000/3 - 156250/3) J = 468750/3 J ≈ 156250 J.",
+    "explanation": "This demonstrates that kinetic energy increases with the square of the velocity; doubling the speed from 30 km/h to 60 km/h increases the kinetic energy by a factor of about 4, assuming the mass remains the same. The calculation shows the quantitative change in energy needed to achieve this increase in speed.",
+    "topic": "Kinetic Energy and Work",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen021"
+  },
+  {
+    "question_text": "Discuss the various ways in which energy is transferred between objects when work is done. Provide real-world examples to support your explanation.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Energy can be transferred from one object to another when work is done. For example, when a moving bullet pierces a target, its kinetic energy is transferred to the target, causing penetration. Similarly, a windmill converts the kinetic energy of the wind into mechanical energy, and then into electrical energy. In the case of a falling object, gravitational potential energy is converted into kinetic energy during the fall, which upon impact, can be transferred to another object as work.",
+    "explanation": "This answer should include the concept of energy transfer, the transformation from one form of energy to another (e.g., potential to kinetic), and cite clear examples such as the motion of a bullet, the operation of windmills, and the energy conversion in a falling mass system.",
+    "topic": "Energy Transfer and Work",
+    "bloom_level": "Evaluate",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen022"
+  },
+  {
+    "question_text": "True or False: Energy can neither be created nor destroyed; it can only be transferred or converted from one form to another.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "This statement reflects the law of conservation of energy, which states that energy cannot be created or destroyed but only transformed or transferred.",
+    "topic": "Energy Conservation",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen023"
+  },
+  {
+    "question_text": "True or False: Nuclear energy is a form of energy that originates directly from solar energy.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Nuclear energy comes from the nucleus of an atom through processes such as nuclear fission or fusion, and is not derived from solar radiation.",
+    "topic": "Energy Sources",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen024"
+  },
+  {
+    "question_text": "True or False: The kinetic energy of an object increases linearly with its speed. If this is false, state the correct relationship.",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False; the kinetic energy increases with the square of the speed.",
+    "explanation": "The kinetic energy equation (Eₖ = ½ m v²) shows that the energy is proportional to the square of the velocity, meaning if speed is doubled, the kinetic energy increases by a factor of four, not two.",
+    "topic": "Kinetic Energy and Velocity",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "iesc110",
+    "section_id": "05_section_10_2",
+    "question_id": "cbse_ix_iesc1dd_c110_gen025"
+  }
+]

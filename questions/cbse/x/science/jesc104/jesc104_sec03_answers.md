@@ -1,0 +1,24 @@
+```json
+[
+  {
+    "question_text": "Why is the conversion of ethanol to ethanoic acid an oxidation reaction?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The conversion of ethanol (CH₃CH₂OH) to ethanoic acid (CH₃COOH) involves the increase in the oxidation state of the carbon atom bonded to the hydroxyl group. During this process, ethanol loses hydrogen atoms and gains oxygen, characteristic of an oxidation reaction.",
+    "explanation": "In the oxidation of ethanol to ethanoic acid, the ethanol molecule (CH₃CH₂OH) undergoes a chemical transformation where the carbon atom in the hydroxyl group (-OH) increases its oxidation state. Specifically, ethanol loses two hydrogen atoms (dehydrogenation) and gains an additional oxygen atom, forming ethanoic acid (CH₃COOH). This change in oxidation state (increase) signifies that ethanol is being oxidized. The overall reaction can be represented as:\n\nCH₃CH₂OH + [O] → CH₃COOH + H₂O\n\nHere, [O] represents the oxidizing agent that facilitates the oxidation process.",
+    "topic": "Oxidation",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "A mixture of oxygen and ethyne is burnt for welding. Can you tell why a mixture of ethyne and air is not used?",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "A mixture of ethyne and oxygen is used for welding instead of ethyne and air because air contains nitrogen, which can react with ethyne at high temperatures to form toxic substances like cyanides and reduce the flame temperature, leading to inefficient combustion.",
+    "explanation": "When ethyne (C₂H₂) is burned, it requires a sufficient supply of oxygen to sustain a high-temperature flame necessary for welding applications. Air consists of approximately 21% oxygen and 78% nitrogen. If ethyne is burnt in air, the nitrogen present can react with ethyne or the combustion intermediates at the high temperatures involved in welding. This can lead to the formation of nitrogenous compounds such as hydrogen cyanide (HCN) and other toxic by-products, which are hazardous. Additionally, the presence of nitrogen can dilute the oxygen concentration, leading to incomplete combustion and a lower flame temperature, which is undesirable for welding. Therefore, using pure oxygen instead of air ensures a hotter and cleaner flame, enhancing the efficiency and safety of the welding process.",
+    "topic": "Combustion",
+    "bloom_level": "Analyze"
+  }
+]
+```

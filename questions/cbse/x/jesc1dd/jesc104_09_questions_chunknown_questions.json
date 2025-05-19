@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "How would you distinguish experimentally between an alcohol and a carboxylic acid?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "An alcohol can be distinguished from a carboxylic acid by performing tests such as the litmus test and the sodium carbonate/hydrogen carbonate test. When a drop of alcohol (e.g., ethanol) is applied to blue litmus paper, there is no color change as alcohols are neutral. In contrast, a carboxylic acid (e.g., ethanoic acid) will turn blue litmus red due to its acidic nature. Likewise, when treated with sodium carbonate or sodium hydrogen carbonate, a carboxylic acid produces brisk effervescence (CO₂ gas evolution) while an alcohol shows no reaction.",
+    "explanation": "Carboxylic acids are acidic because they can donate a proton (H⁺) from the –COOH group, which is sufficient to change the pH indicator (litmus) and react with bases like Na₂CO₃ to release CO₂. Alcohols, on the other hand, have a hydroxyl group (–OH) that is only weakly acidic and does not ionize significantly in water, thus showing no effect on litmus paper and no reaction with sodium carbonate under normal conditions. This distinction is crucial in organic chemistry for identifying functional groups and understanding reactivity.",
+    "topic": "Functional Groups in Organic Compounds; Chemical Properties of Carboxylic Acids and Alcohols",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic010"
+  },
+  {
+    "question_text": "What are oxidising agents?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Oxidising agents are substances that accept electrons or add oxygen to other compounds, effectively causing another species to be oxidised. They are reduced in the process. Common examples include alkaline potassium permanganate (KMnO₄), acidified potassium dichromate (K₂Cr₂O₇), oxygen (O₂), and halogens.",
+    "explanation": "In redox reactions, the oxidising agent facilitates the oxidation of another species by accepting electrons or by removing hydrogen (which is equivalent to adding oxygen). For example, in the oxidation of ethanol to ethanoic acid, alkaline KMnO₄ acts as the oxidising agent by accepting electrons from ethanol. The principle behind oxidising agents is fundamental in chemical reactions, both in laboratory experiments and industrial applications.",
+    "topic": "Redox Chemistry; Oxidising Agents",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic011"
+  }
+]

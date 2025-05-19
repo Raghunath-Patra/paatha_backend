@@ -1,0 +1,33 @@
+{
+    "name": "Physics Part I",
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Units and Measurements"
+      },
+      {
+        "number": 2,
+        "name": "Motion in a Straight Line"
+      },
+      {
+        "number": 3,
+        "name": "Motion in a Plane"
+      },
+      {
+        "number": 4,
+        "name": "Laws of Motion"
+      },
+      {
+        "number": 5,
+        "name": "Work, Energy and Power"
+      },
+      {
+        "number": 6,
+        "name": "System of Particles and Rotational Motion"
+      },
+      {
+        "number": 7,
+        "name": "Gravitation"
+      }
+    ]
+  }

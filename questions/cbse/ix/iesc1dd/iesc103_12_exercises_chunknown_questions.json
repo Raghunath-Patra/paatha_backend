@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "A 0.24 g sample of a compound containing oxygen and boron was found to contain 0.096 g of boron and 0.144 g of oxygen. Calculate the percentage composition of the compound by weight.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Percentage of Boron = 40%, Percentage of Oxygen = 60%",
+    "explanation": "Calculate the percentage composition by dividing the mass of each element by the total mass and multiplying by 100. For boron: (0.096/0.24)*100 = 40%, and for oxygen: (0.144/0.24)*100 = 60%. This demonstrates the concept of percentage composition in a compound.",
+    "topic": "Laws of Chemical Combination – Percentage Composition",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ex001"
+  },
+  {
+    "question_text": "When 3.0 g of carbon is burnt in 8.00 g of oxygen, 11.00 g of carbon dioxide is produced. What mass of carbon dioxide will be formed when 3.00 g of carbon is burnt in 50.00 g of oxygen? Which law of chemical combination governs your answer?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "11.00 g of carbon dioxide will be formed. The reaction is governed by the Law of Definite Proportions and the Law of Conservation of Mass.",
+    "explanation": "Carbon and oxygen combine in a fixed mass ratio (3 g carbon reacts with 8 g oxygen to form 11 g carbon dioxide). Even in excess oxygen, only 8.00 g reacts with 3.00 g of carbon, producing 11.00 g of CO₂. The law of definite proportions explains the fixed ratio of elements in compounds, while the law of conservation of mass ensures that the total mass remains constant.",
+    "topic": "Laws of Chemical Combination",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ex002"
+  },
+  {
+    "question_text": "What are polyatomic ions? Give examples.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Polyatomic ions are ions that consist of two or more atoms covalently bonded together, carrying a net charge. Examples include sulfate (SO₄²⁻), nitrate (NO₃⁻), and ammonium (NH₄⁺).",
+    "explanation": "Polyatomic ions are groups of atoms that behave as a single ion with an overall charge. They play an important role in forming compounds such as salts and acids. The examples provided are common polyatomic ions encountered in chemical reactions and formula writing.",
+    "topic": "Ions and Polyatomic Ions",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ex003"
+  },
+  {
+    "question_text": "Write the chemical formulae of the following compounds: (a) Magnesium chloride, (b) Calcium oxide, (c) Copper nitrate (assuming Copper(II)), (d) Aluminium chloride, and (e) Calcium carbonate.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) MgCl₂, (b) CaO, (c) Cu(NO₃)₂, (d) AlCl₃, (e) CaCO₃",
+    "explanation": "Use the criss-cross method where the valency or charges of the constituent ions balance out. For example, magnesium (Mg²⁺) combines with two chloride ions (Cl⁻) to produce MgCl₂. Applying similar balancing for each compound gives the correct formulas.",
+    "topic": "Writing Chemical Formulae",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ex004"
+  },
+  {
+    "question_text": "Give the names of the elements present in the following compounds: (a) Quick lime, (b) Hydrogen bromide, (c) Baking powder, and (d) Potassium sulphate.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) Quick lime (CaO) contains Calcium and Oxygen; (b) Hydrogen bromide (HBr) contains Hydrogen and Bromine; (c) Baking powder (commonly sodium bicarbonate, NaHCO₃) contains Sodium, Hydrogen, Carbon, and Oxygen; (d) Potassium sulphate (K₂SO₄) contains Potassium, Sulphur, and Oxygen.",
+    "explanation": "For each compound, identify the constituent elements based on its chemical formula. Quick lime (CaO) consists of Calcium and Oxygen, while hydrogen bromide (HBr) consists of Hydrogen and Bromine. Baking powder is typically sodium bicarbonate which includes Sodium, Hydrogen, Carbon, and Oxygen. Potassium sulphate (K₂SO₄) is composed of Potassium, Sulphur, and Oxygen.",
+    "topic": "Chemical Nomenclature",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ex005"
+  },
+  {
+    "question_text": "Calculate the molar mass of the following substances: (a) Ethyne (C₂H₂), (b) Sulphur molecule (S₈), (c) Phosphorus molecule (P₄ where atomic mass of P is 31), (d) Hydrochloric acid (HCl), and (e) Nitric acid (HNO₃).",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) Ethyne: 26 g/mol, (b) S₈: 256 g/mol, (c) P₄: 124 g/mol, (d) HCl: 36.5 g/mol, (e) HNO₃: 63 g/mol",
+    "explanation": "Molar mass (in g/mol) is computed by summing the atomic masses of all atoms in the molecule. For ethyne, C₂H₂: (2 × 12) + (2 × 1) = 26 g/mol. The same method applies to S₈, P₄, HCl, and HNO₃. This process reinforces the concept of molecular mass based on atomic mass units.",
+    "topic": "Molecular Mass Calculations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ex006"
+  },
+  {
+    "question_text": "Now, write the formula of sodium phosphate.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Na₃PO₄",
+    "explanation": "Sodium (Na⁺) has a +1 charge and phosphate (PO₄³⁻) has a -3 charge. Using the criss-cross method, three sodium ions are required to balance one phosphate ion, resulting in the chemical formula Na₃PO₄.",
+    "topic": "Writing Chemical Formulae",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ex007"
+  }
+]

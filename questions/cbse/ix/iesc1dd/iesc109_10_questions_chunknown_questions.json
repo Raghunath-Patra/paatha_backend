@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Why is it difficult to hold a school bag having a strap made of a thin and strong string?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "It is difficult because the thin strap provides a very small area of contact with the shoulder, resulting in a high pressure (since Pressure = Force/Area) that causes discomfort or pain.",
+    "explanation": "When a school bag is carried with a thin strap, the weight of the bag (the thrust) is distributed over a reduced area. According to the pressure equation (P = F/A), a decrease in the area (A) with the same force (F) leads to a significant increase in pressure. This high pressure on the shoulder leads to discomfort, making it hard to hold the bag.",
+    "topic": "Thrust and Pressure",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic007"
+  },
+  {
+    "question_text": "What do you mean by buoyancy?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Buoyancy is the upward force exerted by a fluid on an object immersed in it.",
+    "explanation": "Buoyancy arises because fluids (liquids and gases) exert pressure in all directions. When an object is immersed, a pressure difference occurs between its lower and upper surfaces, resulting in a net upward force. This phenomenon is described by Archimedes’ principle, which states that the buoyant force is equal to the weight of the fluid displaced by the object.",
+    "topic": "Buoyancy",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic008"
+  },
+  {
+    "question_text": "Why does an object float or sink when placed on the surface of water?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "An object floats if the buoyant force (upthrust) provided by the water is equal to or greater than its weight, which typically occurs when its density is less than or equal to that of water. It sinks if its weight exceeds the buoyant force, normally because its density is higher than that of water.",
+    "explanation": "According to Archimedes’ principle, the buoyant force on an object is equal to the weight of the water displaced by it. If the object's density is lower than or equal to the density of water, the displaced water weighs as much or more than the object, causing it to float or remain suspended. However, if the object's density is greater than water, it does not displace enough water to counterbalance its weight, and it sinks. This principle explains the differing behavior of objects like cork (which floats) and an iron nail (which sinks), even if they have the same mass.",
+    "topic": "Buoyancy and Density",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc109",
+    "question_id": "cbse_ix_iesc1dd_c109_ic009"
+  }
+]

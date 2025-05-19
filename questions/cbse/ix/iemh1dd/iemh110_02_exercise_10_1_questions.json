@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "A traffic signal board, indicating ‘SCHOOL AHEAD’, is an equilateral triangle with side ‘a’. Find the area of the signal board using Heron’s formula. If its perimeter is 180 cm, what will be the area of the signal board?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "900√3 cm²",
+    "explanation": "For an equilateral triangle with side a and perimeter 180 cm, we have a = 180/3 = 60 cm. The semiperimeter s = (60 + 60 + 60)/2 = 90 cm. Applying Heron’s formula: Area = √[s(s – a)(s – a)(s – a)] = √[90 × (90 – 60)³] = √[90 × 30³] = √(90 × 27000) = √2430000. Simplifying, note that the area of an equilateral triangle can also be expressed as (√3/4)a² = (√3/4)×3600 = 900√3 cm².",
+    "topic": "Heron’s Formula, Area of Triangles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh110",
+    "question_id": "cbse_ix_iemh1dd_c110_ex001"
+  },
+  {
+    "question_text": "The triangular side walls of a flyover are used for advertisements. The sides of the wall are 122 m, 22 m, and 120 m. The advertisements yield an earning of ₹5000 per m² per year. A company hired one of its walls for 3 months. How much rent did it pay?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "₹1,650,000",
+    "explanation": "First, compute the semiperimeter of the triangle: s = (122 + 22 + 120)/2 = 264/2 = 132 m. Then, s – a = 132 – 122 = 10 m, s – b = 132 – 22 = 110 m, and s – c = 132 – 120 = 12 m. Using Heron’s formula, the area = √(132 × 10 × 110 × 12) = √(1742400) = 1320 m². The annual rent on the wall would be ₹5000 × 1320 = ₹6,600,000. Since the wall is hired for 3 months, which is 1/4 of a year, the rent is ₹6,600,000/4 = ₹1,650,000.",
+    "topic": "Heron’s Formula, Area Calculation, Real World Applications",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh110",
+    "question_id": "cbse_ix_iemh1dd_c110_ex002"
+  },
+  {
+    "question_text": "There is a slide in a park. One of its side walls has been painted with the message “KEEP THE PARK GREEN AND CLEAN”. If the sides of the wall are 15 m, 11 m and 6 m, find the area painted in colour.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "20√2 m²",
+    "explanation": "Given the sides of the triangle are 15 m, 11 m, and 6 m, the semiperimeter s = (15 + 11 + 6)/2 = 32/2 = 16 m. Then, s – a = 16 – 15 = 1 m, s – b = 16 – 11 = 5 m, and s – c = 16 – 6 = 10 m. Using Heron’s formula, Area = √(16 × 1 × 5 × 10) = √(800) = √(16×50) = 4√50 = 4×5√2 = 20√2 m².",
+    "topic": "Heron’s Formula, Area of Triangles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh110",
+    "question_id": "cbse_ix_iemh1dd_c110_ex003"
+  },
+  {
+    "question_text": "Find the area of a triangle two sides of which are 18 cm and 10 cm and the perimeter is 42 cm.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "21√11 cm²",
+    "explanation": "Let the third side be c. Since the perimeter is 42 cm, c = 42 – (18 + 10) = 14 cm. The semiperimeter s = 42/2 = 21 cm. Then, s – a = 21 – 18 = 3 cm, s – b = 21 – 10 = 11 cm, and s – c = 21 – 14 = 7 cm. Applying Heron’s formula gives: Area = √(21 × 3 × 11 × 7) = √(4851) = 21√11 cm² (since 4851 factors as 21²×11).",
+    "topic": "Heron’s Formula, Area of Triangles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh110",
+    "question_id": "cbse_ix_iemh1dd_c110_ex004"
+  },
+  {
+    "question_text": "Sides of a triangle are in the ratio of 12 : 17 : 25 and its perimeter is 540 cm. Find its area.",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "9000 cm²",
+    "explanation": "Let the sides be 12x, 17x, and 25x. Since the perimeter is 540 cm, 12x + 17x + 25x = 54x = 540, so x = 10. The sides become 120 cm, 170 cm, and 250 cm. The semiperimeter s = 540/2 = 270 cm. Then, s – a = 270 – 120 = 150 cm, s – b = 270 – 170 = 100 cm, and s – c = 270 – 250 = 20 cm. Using Heron’s formula, the area = √(270 × 150 × 100 × 20) = √(81,000,000) = 9000 cm².",
+    "topic": "Heron’s Formula, Ratios in Triangles, Area Calculation",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh110",
+    "question_id": "cbse_ix_iemh1dd_c110_ex005"
+  },
+  {
+    "question_text": "An isosceles triangle has a perimeter of 30 cm and each of the equal sides is 12 cm. Find the area of the triangle.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "9√15 cm²",
+    "explanation": "For the isosceles triangle, the two equal sides are 12 cm each. The third side = 30 – 12 – 12 = 6 cm. The semiperimeter s = 30/2 = 15 cm. Then, s – equal side = 15 – 12 = 3 cm and s – base = 15 – 6 = 9 cm. Using Heron’s formula, Area = √(15 × 3 × 3 × 9) = √(15 × 81) = √1215. Since 1215 = 81×15 and √81 = 9, the area = 9√15 cm².",
+    "topic": "Heron’s Formula, Isosceles Triangles, Area of Triangles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh110",
+    "question_id": "cbse_ix_iemh1dd_c110_ex006"
+  }
+]

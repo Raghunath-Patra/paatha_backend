@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "MCQ 1: Which of the following best describes the medium through which sound travels?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. A substance that remains stationary while transmitting a disturbance",
+      "B. A vacuum where no particles exist",
+      "C. An object that produces sound by vibrating",
+      "D. A device that amplifies sound"
+    ],
+    "correct_answer": "A. A substance that remains stationary while transmitting a disturbance",
+    "explanation": "A medium is any material substance (solid, liquid, or gas) through which sound is transmitted by the vibration of its particles. The particles themselves oscillate about fixed positions, transmitting the sound wave, but do not travel from the source to the listener.",
+    "topic": "Propagation of Sound",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc111",
+    "section_id": "03_section_11_2",
+    "question_id": "cbse_ix_iesc1dd_c111_gen014"
+  }
+]

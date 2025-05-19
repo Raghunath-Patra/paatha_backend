@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "What are the components of the transport system in human beings? What are the functions of these components?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The human transport system comprises the heart, blood, and blood vessels. The heart acts as a pump to circulate blood throughout the body. Blood transports oxygen, carbon dioxide, nutrients, hormones, waste products, and heat; it also contains white blood cells for immune defense and platelets for clotting. Blood vessels are of three types: arteries (carry oxygenated blood away from the heart), veins (return deoxygenated blood to the heart), and capillaries (facilitate exchange of substances between blood and tissues).",
+    "explanation": "The cardiovascular system is responsible for delivering essential substances to each cell and removing wastes. The heart’s rhythmic contractions ensure continuous blood flow. Arteries have thick, elastic walls to withstand high pressure, while veins have valves preventing backflow. Capillaries, with their one-cell thick walls, allow efficient exchange by diffusion. This system is crucial for maintaining homeostasis and supporting metabolic processes.",
+    "topic": "Human Transportation System",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic014"
+  },
+  {
+    "question_text": "Why is it necessary to separate oxygenated and deoxygenated blood in mammals and birds?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Separating oxygenated and deoxygenated blood ensures that tissues receive a continuous, high concentration of oxygen, which is essential for meeting the high energy demands of endothermic (warm-blooded) mammals and birds. This maximizes the efficiency of cellular respiration and energy production.",
+    "explanation": "Mammals and birds have high metabolic rates to maintain a constant body temperature. By separating the blood streams, these animals prevent the mixing of oxygen-rich blood from the lungs with oxygen-poor blood returning from the body. This double circulation system ensures efficient oxygen delivery to tissues and effective removal of carbon dioxide, thereby supporting the high energy requirements for thermoregulation and sustained activity.",
+    "topic": "Circulatory System and Blood Separation",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic015"
+  },
+  {
+    "question_text": "What are the components of the transport system in highly organised plants?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The transport system in highly organised plants consists of vascular tissues, specifically xylem and phloem. Xylem transports water and dissolved minerals from the roots upward, and phloem transports the products of photosynthesis (such as sucrose) and other organic compounds to different parts of the plant.",
+    "explanation": "Xylem and phloem form the vascular bundle system in plants. Xylem vessels and tracheids create a continuous network that enables water movement primarily by a combination of transpiration pull and root pressure, while phloem sieve tubes facilitate the bidirectional translocation of food materials using energy-dependent mechanisms. This system effectively distributes nutrients and water throughout the plant, ensuring efficient growth and metabolic regulation.",
+    "topic": "Plant Transportation System",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic016"
+  },
+  {
+    "question_text": "How are water and minerals transported in plants?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Water and minerals are transported in plants through the xylem. The process begins with the absorption of water and dissolved minerals by root hairs. Water is then pushed upward by a combination of root pressure and, more importantly, the transpiration pull—a suction created by water evaporating from the leaf surfaces through the stomata.",
+    "explanation": "Water uptake by roots creates an ionic concentration gradient that generates osmotic pressure. Transpiration from leaves induces a negative pressure (suction) in the xylem vessels, effectively drawing water upward against gravity. This coordinated mechanism allows the movement of essential minerals along with water. The process also aids in cooling the plant and maintaining nutrient distribution over large distances, as seen in tall trees.",
+    "topic": "Xylem Transport and Transpiration",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic017"
+  },
+  {
+    "question_text": "How is food transported in plants?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Food, primarily in the form of sucrose produced during photosynthesis, is transported through the phloem tissue via a process called translocation. Sucrose is actively loaded into the phloem in source tissues (like leaves), which increases the osmotic pressure. Water enters by osmosis, generating a pressure gradient that moves the phloem sap toward sink tissues (such as roots, fruits, and growing parts) for unloading.",
+    "explanation": "Translocation in the phloem is an active, energy-dependent process that involves the loading of sugars into the sieve tubes. The resulting increase in solute concentration draws in water, creating turgor pressure. This pressure gradient is the driving force for the bidirectional flow of nutrients. The mechanism draws parallels with osmotic processes observed in biological systems, ensuring that all parts of the plant receive the energy required for growth and maintenance.",
+    "topic": "Phloem Transport and Translocation",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic018"
+  }
+]

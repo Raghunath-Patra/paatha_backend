@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "A bus starting from rest moves with a uniform acceleration of 0.1 m s⁻² for 2 minutes. Find (a) the speed acquired and (b) the distance travelled.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) Speed acquired = 12 m/s; b) Distance travelled = 720 m.",
+    "explanation": "Using the equations of uniformly accelerated motion: First, convert 2 minutes to 120 seconds. For speed, use v = u + at. With initial speed u = 0, acceleration a = 0.1 m/s², and time t = 120 s, we get v = 0 + (0.1 × 120) = 12 m/s. For distance, use s = ut + ½at². With u = 0, s = ½ × 0.1 × (120)² = 0.05 × 14400 = 720 m. This illustrates the application of kinematics equations in a real-world context.",
+    "topic": "Uniform Acceleration / Equations of Motion",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic018"
+  },
+  {
+    "question_text": "A train is travelling at a speed of 90 km h⁻¹. Brakes are applied so as to produce a uniform acceleration of –0.5 m s⁻². Find how far the train will go before it is brought to rest.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The train will travel 625 m before coming to rest.",
+    "explanation": "First, convert the speed: 90 km/h = 90 × (5/18) = 25 m/s. Since the train is decelerating uniformly (a = -0.5 m/s²) and comes to rest (v = 0), we use the equation v² = u² + 2as. Substituting, 0 = (25)² + 2(–0.5)s ⇒ 0 = 625 – s, which gives s = 625 m. This problem demonstrates deceleration and conversion of units before applying the formula.",
+    "topic": "Deceleration / Uniform Acceleration",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic019"
+  },
+  {
+    "question_text": "A trolley, while going down an inclined plane, has an acceleration of 2 cm s⁻². What will be its velocity 3 s after the start?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The velocity after 3 s will be 0.06 m/s (or 6 cm/s).",
+    "explanation": "First, convert the acceleration from centimeters per second squared to meters per second squared: 2 cm/s² = 0.02 m/s². Assuming the trolley starts from rest (u = 0), use v = u + at. So, v = 0 + (0.02 m/s² × 3 s) = 0.06 m/s, which is equivalent to 6 cm/s. This demonstrates unit conversion and the basic application of the linear motion formula.",
+    "topic": "Uniform Acceleration / Unit Conversion",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic020"
+  },
+  {
+    "question_text": "A racing car has a uniform acceleration of 4 m s⁻². What distance will it cover in 10 s after the start?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The racing car will cover 200 m in 10 s.",
+    "explanation": "Assuming the car starts from rest (u = 0), apply the distance formula: s = ut + ½at². Here, s = 0 + ½ × 4 m/s² × (10 s)² = 0.5 × 4 × 100 = 200 m. This straightforward calculation uses kinematic equations to determine the distance covered during uniformly accelerated motion.",
+    "topic": "Uniform Acceleration / Equations of Motion",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic021"
+  },
+  {
+    "question_text": "A stone is thrown vertically upward with a velocity of 5 m s⁻¹. If the acceleration of the stone during its motion is 10 m s⁻² in the downward direction, what will be the height attained by the stone and how much time will it take to reach there?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The stone attains a maximum height of 1.25 m and takes 0.5 s to reach there.",
+    "explanation": "When thrown upward, the stone decelerates due to gravity. At the maximum height, velocity becomes 0. Using v = u + at, set 0 = 5 m/s – 10 m/s² × t, which gives t = 0.5 s. Then, apply the displacement equation s = ut + ½at²: s = (5 m/s × 0.5 s) + ½ × (–10 m/s²) × (0.5 s)² = 2.5 m – 1.25 m = 1.25 m. This problem illustrates vertical motion under gravity using the equations of motion.",
+    "topic": "Projectile Motion / Vertical Motion",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic022"
+  }
+]

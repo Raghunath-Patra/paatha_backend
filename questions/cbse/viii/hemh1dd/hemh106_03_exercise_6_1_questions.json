@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Which of the following numbers are not perfect cubes? (i) 216 (ii) 128 (iii) 1000 (iv) 100 (v) 46656",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "128 and 100 are not perfect cubes.",
+    "explanation": "To determine if a number is a perfect cube, we check if its cube root is an integer. For 216, the cube root is 6 (since 6³ = 216); for 1000 it is 10 (10³ = 1000); for 46656 it is 36 (36³ = 46656). In contrast, the cube root of 128 is approximately 5.04 and that of 100 is approximately 4.64, so neither is an integer. Hence, 128 and 100 are not perfect cubes.",
+    "topic": "Perfect Cubes",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh106",
+    "question_id": "cbse_viii_hemh1dd_c106_ex001"
+  },
+  {
+    "question_text": "Find the smallest number by which each of the following numbers must be multiplied to obtain a perfect cube: (i) 243 (ii) 256 (iii) 72 (iv) 675 (v) 100",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) 3, (ii) 2, (iii) 3, (iv) 5, (v) 10",
+    "explanation": "For each number, perform prime factorization and adjust the exponents to the nearest multiple of 3:\n\n(i) 243 = 3⁵. The exponent 5 is 2 more than 3 (the nearest lower multiple). Multiplying by 3 adds one more 3 to get 3⁶ → multiplier = 3.\n(ii) 256 = 2⁸. Here, 8 mod 3 gives a remainder 2, so multiplying by 2 (i.e. 2¹) gives 2⁹ → multiplier = 2.\n(iii) 72 = 2³ × 3². Exponent of 2 is fine, while 3 appears with exponent 2. Multiplying by 3 gives 3³ → multiplier = 3.\n(iv) 675 = 3³ × 5². The factor 3 is already a cube but 5 appears only twice; multiplying by 5 yields 5³ → multiplier = 5.\n(v) 100 = 2² × 5². Both primes are short by one occurrence to reach an exponent of 3. So multiply by 2 × 5 = 10 → multiplier = 10.",
+    "topic": "Perfect Cubes and Prime Factorization",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh106",
+    "question_id": "cbse_viii_hemh1dd_c106_ex002"
+  },
+  {
+    "question_text": "Find the smallest number by which each of the following numbers must be divided to obtain a perfect cube: (i) 81 (ii) 128 (iii) 135 (iv) 192 (v) 704",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) 3, (ii) 2, (iii) 5, (iv) 3, (v) 11",
+    "explanation": "Determine the prime factorization and then remove the minimum factors so that all remaining prime exponents are multiples of 3:\n\n(i) 81 = 3⁴. Removing one 3 (i.e. dividing by 3) leaves 3³ which is a perfect cube → divisor = 3.\n(ii) 128 = 2⁷. Dividing by one 2 reduces the exponent to 6 (2⁶), which is a multiple of 3 → divisor = 2.\n(iii) 135 = 3³ × 5. The factor 5 is not in a triplet so dividing by 5 yields 3³ → divisor = 5.\n(iv) 192 = 2⁶ × 3. The 2’s are fine as 6 is a multiple of 3, but the single 3 must be removed → divisor = 3.\n(v) 704 = 2⁶ × 11. The factor 2 is in proper cube form (6 is a multiple of 3) but 11 appears only once; dividing by 11 yields a perfect cube → divisor = 11.",
+    "topic": "Perfect Cubes and Prime Factorization",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh106",
+    "question_id": "cbse_viii_hemh1dd_c106_ex003"
+  },
+  {
+    "question_text": "Parikshit makes a cuboid of plasticine of sides 5 cm, 2 cm, 5 cm. How many such cuboids will he need to form a cube?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "20 cuboids",
+    "explanation": "First, calculate the volume of one cuboid: 5 × 2 × 5 = 50 cm³. To form a cube, the total volume must be a perfect cube. Expressing 50 in prime factors gives 2 × 5². For a number to be a perfect cube, the exponents of all prime factors must be multiples of 3. The factor 2 (exponent 1) needs two more 2’s (i.e. 2² = 4) and the factor 5² needs one more 5 to have 5³. Thus, the required multiplier is 4 × 5 = 20. Multiplying 50 by 20 gives 1000 which is 10³, indicating a perfect cube. Therefore, 20 cuboids are needed.",
+    "topic": "Volume and Perfect Cubes",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh106",
+    "question_id": "cbse_viii_hemh1dd_c106_ex004"
+  }
+]

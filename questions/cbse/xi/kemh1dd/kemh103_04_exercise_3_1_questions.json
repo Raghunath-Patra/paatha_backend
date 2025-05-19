@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "Find the radian measures corresponding to the following degree measures: (i) 25° (ii) –47°30′ (iii) 240° (iv) 520°.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) 5π/36, (ii) -19π/72, (iii) 4π/3, (iv) 26π/9",
+    "explanation": "To convert degrees to radians, use the conversion factor: Radian = (π/180) × (degree measure). \n(i) 25°: 25 × (π/180) = 25π/180 which simplifies to 5π/36. \n(ii) –47°30′: First convert 47°30′ to a decimal degree: 47 + 30/60 = 47.5°. Then, –47.5 × (π/180) = –47.5π/180 = –19π/72 after simplification. \n(iii) 240°: 240 × (π/180) = 4π/3. \n(iv) 520°: 520 × (π/180) = 520π/180 which simplifies to 26π/9.",
+    "topic": "Angle Measurement and Unit Conversion (Degrees to Radians)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex001"
+  },
+  {
+    "question_text": "Find the degree measures corresponding to the following radian measures (Use π = 22/7): (i) 11/16, (ii) -4, (iii) 5π/3, (iv) 7π/6.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) (11/16) × (180/π) ≈ 39.38° (or 315/8° exactly), (ii) -4 × (180/π) ≈ -229.09°, (iii) 5π/3 × (180/π) = 300°, (iv) 7π/6 × (180/π) = 210°.",
+    "explanation": "To convert from radians to degrees, use the conversion: Degree = (180/π) × (radian measure), with π approximated by 22/7 when needed. \n(i) For 11/16 radians: (11/16) × (180 ÷ (22/7)) = (11/16) × (180×7/22) = (11×180×7)/(16×22). Simplify 11/22 to 1/2; then you get (180×7)/(32) = 1260/32 = 315/8, which is approximately 39.38°. \n(ii) For -4 radians: -4 × (180×7/22) = - (4×1260/22) = -5040/22 = -2520/11, approximately -229.09°. \n(iii) For 5π/3 radians: (5π/3) × (180/π) = 5×180/3 = 300°. \n(iv) For 7π/6 radians: (7π/6) × (180/π) = 7×180/6 = 210°.",
+    "topic": "Angle Measurement and Unit Conversion (Radians to Degrees)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex002"
+  },
+  {
+    "question_text": "A wheel makes 360 revolutions in one minute. Through how many radians does it turn in one second?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "12π radians per second",
+    "explanation": "One revolution is 2π radians. The wheel makes 360 revolutions in one minute, so total radians in one minute = 360 × 2π = 720π. Since one minute has 60 seconds, the rotation per second is 720π/60 = 12π radians.",
+    "topic": "Circular Motion and Angle Measurement",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex003"
+  },
+  {
+    "question_text": "Find the degree measure of the angle subtended at the centre of a circle of radius 100 cm by an arc of length 22 cm (Use π = 22/7).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Approximately 12.6°",
+    "explanation": "The central angle (in radians) is given by θ = arc length / radius = 22/100 = 0.22 rad. To convert to degrees, use Degree = (180/π) × θ. Substituting π = 22/7 gives: Angle = 0.22 × (180×7/22) = (0.22×1260)/22 = 1260×0.22/22 = 12.6°.",
+    "topic": "Arc Length and Angle Measurement",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex004"
+  },
+  {
+    "question_text": "In a circle of diameter 40 cm, the length of a chord is 20 cm. Find the length of the minor arc of the chord.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The length of the minor arc is (20π/3) cm (approximately 20.94 cm).",
+    "explanation": "First, note that the circle’s diameter is 40 cm so the radius r = 20 cm. For a chord of length c = 20 cm, the relationship between chord length and the subtended central angle θ is given by c = 2r sin(θ/2). \nThus, 20 = 2×20 sin(θ/2) ⇒ sin(θ/2) = 20/(40) = 0.5. \nThis implies θ/2 = 30° (or π/6 radians), so θ = 60° which is equal to π/3 radians. \nThe length of the arc is then given by l = r × θ = 20 × (π/3) = 20π/3 cm.",
+    "topic": "Chord, Arc, and Angle Relationships in a Circle",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex005"
+  },
+  {
+    "question_text": "If in two circles, arcs of the same length subtend angles 60° and 75° at the centre, find the ratio of their radii.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The ratio of the radii is 5:4.",
+    "explanation": "Let the arcs of equal length be l. For the first circle with radius r₁ and angle 60° (which is π/3 radians), l = r₁(π/3). For the second circle with radius r₂ and angle 75° (which is 75×π/180 = 5π/12 radians), l = r₂(5π/12). Setting these equal gives r₁(π/3) = r₂(5π/12). Cancel π and solve for the ratio: r₁/r₂ = (5/12) ÷ (1/3) = (5/12) × (3/1) = 5/4. Thus, the ratio of radii is 5:4.",
+    "topic": "Arc Length and Angle Relationships in Circles",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex006"
+  },
+  {
+    "question_text": "Find the angle in radian through which a pendulum swings if its length is 75 cm and the tip describes an arc of length (i) 10 cm, (ii) 15 cm, (iii) 21 cm.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) 10/75 = 0.1333 rad, (ii) 15/75 = 0.2000 rad, (iii) 21/75 = 0.2800 rad (approximately).",
+    "explanation": "The angle in radians corresponding to an arc length is given by θ = (arc length) / (radius). Here, the radius of the pendulum is 75 cm. \n(i) For an arc of 10 cm: θ = 10/75 ≈ 0.1333 rad. \n(ii) For an arc of 15 cm: θ = 15/75 = 0.2 rad. \n(iii) For an arc of 21 cm: θ = 21/75 ≈ 0.28 rad.",
+    "topic": "Arc Length and Angle Measurement in Circular Motion",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh103",
+    "question_id": "cbse_xi_kemh1dd_c103_ex007"
+  }
+]

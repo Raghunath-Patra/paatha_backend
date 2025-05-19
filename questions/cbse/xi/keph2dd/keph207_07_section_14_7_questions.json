@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following conditions is necessary for the observation of beats when two sound waves interfere?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "The waves must have exactly the same frequency.",
+      "The waves must have exactly the same amplitude and exactly equal frequencies.",
+      "The waves must have nearly equal frequencies and similar amplitudes.",
+      "The waves must have widely different frequencies."
+    ],
+    "correct_answer": "The waves must have nearly equal frequencies and similar amplitudes.",
+    "explanation": "Beats occur when two harmonic waves with nearly equal frequencies and similar amplitudes interfere. This interference produces an amplitude modulation with a frequency equal to the difference between the two frequencies.",
+    "topic": "Beats and Interference",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "keph207",
+    "section_id": "07_section_14_7",
+    "question_id": "cbse_xi_keph2dd_c207_gen107"
+  }
+]

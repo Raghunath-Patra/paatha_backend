@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What would be the electron dot structure of carbon dioxide which has the formula CO₂?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The electron dot structure of CO₂ is :O=C=O: with each oxygen forming a double bond with the carbon atom.",
+    "explanation": "Carbon has 4 valence electrons and each oxygen has 6. In CO₂, carbon shares two pairs of electrons with each oxygen, forming two double bonds. This sharing allows carbon and each oxygen to achieve a noble gas configuration. The Lewis structure can be depicted as :O=C=O: where the colons (:) represent lone pairs on oxygen. This structure reflects the covalent bonding and the arrangement of electrons that satisfy the octet rule for all atoms involved.",
+    "topic": "Covalent Bonding – Lewis Structures, Electron Dot Structures",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic001"
+  },
+  {
+    "question_text": "What would be the electron dot structure of a molecule of sulphur which is made up of eight atoms of sulphur? (Hint – The eight atoms of sulphur are joined together in the form of a ring.)",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "In an eight-membered sulphur ring, each sulphur atom forms single covalent bonds with its two adjacent sulphur atoms and retains two lone pairs. The bonding pattern is represented as a closed ring: S–S–S–S–S–S–S–S, with each S atom having two lone pairs.",
+    "explanation": "Sulphur has 6 valence electrons. In an S₈ ring, each atom bonds with its two neighboring atoms through single bonds, using one electron per bond. This bonding leaves each sulphur atom with four non-bonding electrons (or two lone pairs). The actual structure is puckered, often described as having a 'crown' shape, which minimizes repulsions between the lone pairs. Although drawing the complete structure is complex, the key concept is that every S atom is connected to two other S atoms forming a cyclic structure with single bonds.",
+    "topic": "Covalent Bonding – Electron Dot Structures, Molecular Geometry",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic002"
+  }
+]

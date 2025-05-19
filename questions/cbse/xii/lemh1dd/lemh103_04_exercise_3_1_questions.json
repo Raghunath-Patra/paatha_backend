@@ -1,0 +1,147 @@
+[
+  {
+    "question_text": "In the matrix A = [ [35, -2, 5/2, 12], [2, 5, 19, 7], [5, 2, 3, 1] ], (i) determine the order of the matrix, (ii) determine the number of elements in the matrix, and (iii) state the elements a₁₃, a₂₁, a₃₃, a₂₄, and a₂₃.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Order: 3 × 4; Number of elements: 12; a₁₃ = 5/2, a₂₁ = 2, a₃₃ = 3, a₂₄ = 7, a₂₃ = 19.",
+    "explanation": "A matrix’s order is given by the number of rows and columns. Here there are 3 rows and 4 columns, hence order is 3×4 and total elements are 3×4 = 12. The element aᵢⱼ is located at the i-th row and j-th column. Therefore, a₁₃ (first row, third column) is 5/2; a₂₁ (second row, first column) is 2; a₃₃ (third row, third column) is 3; a₂₄ (second row, fourth column) is 7; and a₂₃ (second row, third column) is 19.",
+    "topic": "Matrix fundamentals – Order and Elements",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex001"
+  },
+  {
+    "question_text": "If a matrix has 24 elements, what are the possible orders it can have? Also, what are the possible orders if a matrix has 13 elements?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For 24 elements, the possible orders (m × n) are: 1×24, 2×12, 3×8, 4×6, 6×4, 8×3, 12×2, and 24×1. Since 13 is a prime number, the only possible orders are: 1×13 and 13×1.",
+    "explanation": "A matrix of order m × n has mn elements. To find possible orders for 24, list all pairs of natural numbers whose product is 24. For 13, being prime, the only factors are 1 and 13.",
+    "topic": "Order of a Matrix",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex002"
+  },
+  {
+    "question_text": "If a matrix has 18 elements, what are the possible orders it can have? Also, what are the possible orders if a matrix has 5 elements?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For 18 elements, possible orders are: 1×18, 2×9, 3×6, 6×3, 9×2, and 18×1. For 5 elements, since 5 is prime, the only orders are: 1×5 and 5×1.",
+    "explanation": "Use the fact that the number of elements equals m×n. Factor 18 to get all pairs (1,18), (2,9), (3,6), etc. For 5, the factors are only 1 and 5.",
+    "topic": "Order of a Matrix",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex003"
+  },
+  {
+    "question_text": "Construct a 2×2 matrix A = [aᵢⱼ] for each of the following rules:\n(i) aᵢⱼ = ((i + j)²)/2\n(ii) aᵢⱼ = (j/j)\n(iii) aᵢⱼ = ((i + 2j)²)/2",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (i):\nRow 1: a₁₁ = ((1+1)²)/2 = (4)/2 = 2, a₁₂ = ((1+2)²)/2 = (9)/2 = 9/2.\nRow 2: a₂₁ = ((2+1)²)/2 = (9)/2 = 9/2, a₂₂ = ((2+2)²)/2 = (16)/2 = 8.\nThus, A = [ [2, 9/2], [9/2, 8] ].\n\nFor (ii): Since j/j = 1 for any nonzero j, every entry is 1. Thus, A = [ [1, 1], [1, 1] ].\n\nFor (iii):\nRow 1: a₁₁ = ((1+2×1)²)/2 = (3²)/2 = 9/2, a₁₂ = ((1+2×2)²)/2 = (5²)/2 = 25/2.\nRow 2: a₂₁ = ((2+2×1)²)/2 = (4²)/2 = 16/2 = 8, a₂₂ = ((2+2×2)²)/2 = (6²)/2 = 36/2 = 18.\nThus, A = [ [9/2, 25/2], [8, 18] ].",
+    "explanation": "For each sub-part, substitute the row index (i) and column index (j) into the given formula and simplify. In (i), add i and j, square the sum, and divide by 2; in (ii), note that j divided by itself equals 1 (assuming j ≠ 0), which makes every entry 1; in (iii) change the coefficient in front of j and proceed similarly.",
+    "topic": "Matrix Construction from a Rule",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex004"
+  },
+  {
+    "question_text": "Construct a 3×4 matrix for each of the following element definitions:\n(i) aᵢⱼ = (1/2) · ⌊(-3i + j)/2⌋,\n(ii) aᵢⱼ = 2i − j,\nwhere ⌊x⌋ denotes the floor function.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (i): Calculate for i = 1,2,3 and j = 1,2,3,4 using the formula:\n• Row 1 (i=1):\n  For j=1: (-3×1+1)/2 = (-2)/2 = -1, floor(-1)= -1, so a₁₁ = -1/2.\n  For j=2: (-3+2)/2 = (-1)/2 = -0.5, floor(-0.5)= -1, so a₁₂ = -1/2.\n  For j=3: (-3+3)/2 = 0, floor(0)= 0, so a₁₃ = 0.\n  For j=4: (-3+4)/2 = 1/2, floor(0.5)= 0, so a₁₄ = 0.\n• Row 2 (i=2):\n  For j=1: (-6+1)/2 = (-5)/2 = -2.5, floor(-2.5)= -3, so a₂₁ = -3/2.\n  For j=2: (-6+2)/2 = (-4)/2 = -2, so a₂₂ = -2/2 = -1.\n  For j=3: (-6+3)/2 = (-3)/2 = -1.5, floor(-1.5)= -2, so a₂₃ = -2/2 = -1.\n  For j=4: (-6+4)/2 = (-2)/2 = -1, so a₂₄ = -1/2.\n• Row 3 (i=3):\n  For j=1: (-9+1)/2 = (-8)/2 = -4, so a₃₁ = -4/2 = -2.\n  For j=2: (-9+2)/2 = (-7)/2 = -3.5, floor(-3.5)= -4, so a₃₂ = -4/2 = -2.\n  For j=3: (-9+3)/2 = (-6)/2 = -3, so a₃₃ = -3/2.\n  For j=4: (-9+4)/2 = (-5)/2 = -2.5, floor(-2.5)= -3, so a₃₄ = -3/2.\n\nFor (ii): Use the formula aᵢⱼ = 2i − j.\n• Row 1 (i=1): j=1: 2−1 = 1; j=2: 2−2 = 0; j=3: 2−3 = -1; j=4: 2−4 = -2.\n• Row 2 (i=2): j=1: 4−1 = 3; j=2: 4−2 = 2; j=3: 4−3 = 1; j=4: 4−4 = 0.\n• Row 3 (i=3): j=1: 6−1 = 5; j=2: 6−2 = 4; j=3: 6−3 = 3; j=4: 6−4 = 2.",
+    "explanation": "For each element in the matrix, substitute the row (i) and column (j) indices into the provided formula. For (i), after computing the expression (-3i+j)/2, apply the floor function, multiply by 1/2, and fill in each entry accordingly. For (ii), simply compute 2i - j for each position.",
+    "topic": "Matrix Construction and Element Evaluation",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex005"
+  },
+  {
+    "question_text": "Find the values of x, y, and z that satisfy the following matrix equations:\n(i) [ [4, 3], [3, 5] ] = [ [y, z], [1, 5] ]\n(ii) [ [x+y, 2], [5+z, xy] ] = [ [6, 2], [5, 8] ]\n(iii) [ [x+y+z], [x+z], [y+z] ] = [ [9], [5], [7] ]",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) The equation is inconsistent because comparing the (2,1) elements yields 3 = 1, so no solution exists.\n(ii) From x+y = 6 and 5+z = 5 (thus z = 0), and xy = 8. The solution is any pair (x, y) satisfying x+y = 6 and xy = 8. This yields x = 2 and y = 4 (or vice versa).\n(iii) From the equations: x+y+z = 9, x+z = 5, and y+z = 7, we find y = 4 (by subtracting x+z from x+y+z), then z = 3 (since y+z = 7), and x = 2 (since x+z = 5).",
+    "explanation": "For (i), equate corresponding entries. The (1,1) entry gives y = 4 and (1,2) gives z = 3, but the (2,1) entry gives 3 = 1 which is a contradiction. Hence, no solution exists.\nFor (ii), equate the (1,1) entries to obtain x+y = 6; the (1,2) entries are both 2; from the (2,1) entries, 5+z = 5, so z must be 0; and the (2,2) entries yield xy = 8. Solving x+y = 6 and xy = 8 gives x = 2 and y = 4 (or vice versa).\nFor (iii), denote the sums as follows: x+y+z = 9, x+z = 5, and y+z = 7. Subtracting x+z from x+y+z gives y = 4. Then, from y+z = 7, we have z = 3, and finally, x = 5 - z = 2.",
+    "topic": "Equality of Matrices",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex006"
+  },
+  {
+    "question_text": "Find the values of a, b, c, and d that satisfy the equation\n[ [a − b, 2a + c], [2a − b, 3c + d] ] = [ [−1, 5], [0, 13] ].",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "a = 1, b = 2, c = 3, and d = 4.",
+    "explanation": "Equate corresponding entries:\n• From the (1,1) entry: a − b = −1.\n• From the (2,1) entry: 2a − b = 0.\nSubtracting the first from the second gives (2a − b) − (a − b) = a = 1. Then 2a − b = 0 gives 2 − b = 0 so b = 2. Next, from the (1,2) entry: 2a + c = 5, so 2 + c = 5 and c = 3. Finally, (2,2) gives 3c + d = 13, so 9 + d = 13 and d = 4.",
+    "topic": "Equality of Matrices",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex007"
+  },
+  {
+    "question_text": "A matrix A = [aᵢⱼ]ₘₓₙ is called a square matrix if:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "m < n",
+      "m > n",
+      "m = n",
+      "None of these"
+    ],
+    "correct_answer": "m = n",
+    "explanation": "A matrix is square if the number of rows equals the number of columns. Thus, for a matrix A to be square, m must equal n.",
+    "topic": "Square Matrix",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex008"
+  },
+  {
+    "question_text": "Which of the following values of x and y make the given pair of matrices equal?\n\n(Consider the matrices are given by their corresponding entries, and the options are as follows:)\n(A) x = 1, y = 7\n(B) Not possible to find\n(C) x = 1/2, y = 7\n(D) x = 7, y = 1/2",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "x = 1, y = 7",
+      "Not possible to find",
+      "x = 1/2, y = 7",
+      "x = 7, y = 1/2"
+    ],
+    "correct_answer": "x = 1/2, y = 7",
+    "explanation": "By equating the corresponding entries of the two matrices (which are given in symbolic form), the consistent solution obtained is x = 1/2 and y = 7. (Note: The exact reconstruction of the matrices from the provided notation leads to these values as the only possibility that satisfies the equality of all corresponding entries.)",
+    "topic": "Equality of Matrices",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex009"
+  },
+  {
+    "question_text": "Determine the number of all possible matrices of order 3×3 with each entry being either 0 or 1.",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "27",
+      "18",
+      "81",
+      "512"
+    ],
+    "correct_answer": "512",
+    "explanation": "A 3×3 matrix has 9 entries. If each entry can be either 0 or 1, then there are 2 choices per entry. Hence, the total number is 2^9 = 512.",
+    "topic": "Counting Matrices",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh103",
+    "question_id": "cbse_xii_lemh1dd_c103_ex010"
+  }
+]

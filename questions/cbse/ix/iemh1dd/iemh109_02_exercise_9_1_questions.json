@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Recall that two circles are congruent if they have the same radii. Prove that equal chords of congruent circles subtend equal angles at their centres.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Proof: Let there be two congruent circles with centre O and O' respectively, and let AB in the first circle and A'B' in the second be equal chords. Since the circles are congruent, their radii are equal, so OA = O'A' and OB = O'B'. Given AB = A'B', by the SSS criterion, triangles OAB and O'A'B' are congruent. Therefore, the corresponding angles at the centres are equal, i.e., ∠AOB = ∠O'A'B'.",
+    "explanation": "Step 1: Identify the given information. The circles are congruent (radii are equal) and chords AB and A'B' are equal.\nStep 2: In the first circle, triangle OAB has sides OA, OB (radii) and chord AB. In the second circle, triangle O'A'B' has sides O'A', O'B' (radii) and chord A'B'.\nStep 3: By the given, OA = O'A', OB = O'B' (congruent circles) and AB = A'B' (equal chords).\nStep 4: By the SSS (Side-Side-Side) criterion, the triangles OAB and O'A'B' are congruent.\nStep 5: By the Corresponding Parts of Congruent Triangles (CPCT) property, the angle subtended by the chords at the centres are equal, i.e., ∠AOB = ∠O'A'B'.\nThus, equal chords of congruent circles subtend equal angles at their centres.",
+    "topic": "Circle Geometry – Angles Subtended by a Chord",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh109",
+    "question_id": "cbse_ix_iemh1dd_c109_ex001"
+  },
+  {
+    "question_text": "Prove that if chords of congruent circles subtend equal angles at their centres, then the chords are equal.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Proof: Consider two congruent circles with centres O and O'. Let chord AB in the first circle and chord A'B' in the second circle subtend angles ∠AOB and ∠O'A'B' respectively at the centres, where ∠AOB = ∠O'A'B'. Since the circles are congruent, OA = O'A' and OB = O'B'. By the SAS (Side-Angle-Side) criterion, triangles OAB and O'A'B' are congruent. Hence, by CPCT (Corresponding Parts of Congruent Triangles), chord AB = chord A'B'.",
+    "explanation": "Step 1: Start with two congruent circles with centres O and O'. Let chord AB in the first circle and chord A'B' in the second circle subtend equal angles at their centres (∠AOB = ∠O'A'B').\nStep 2: Since the circles are congruent, the radii satisfy: OA = O'A' and OB = O'B'.\nStep 3: In triangles OAB and O'A'B', we have two pairs of equal sides (the radii) and the included angle equal by hypothesis.\nStep 4: By the SAS (Side-Angle-Side) postulate, triangles OAB and O'A'B' are congruent.\nStep 5: By CPCT, the corresponding sides are equal; therefore, the chords AB and A'B' are equal.\nThis completes the proof that if chords of congruent circles subtend equal angles at their centres, then the chords are equal.",
+    "topic": "Circle Geometry – Chord Properties and Congruence",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh109",
+    "question_id": "cbse_ix_iemh1dd_c109_ex002"
+  }
+]

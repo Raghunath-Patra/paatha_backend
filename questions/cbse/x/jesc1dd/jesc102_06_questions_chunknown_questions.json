@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "Why do HCl, HNO₃, etc., show acidic characters in aqueous solutions while solutions of compounds like alcohol and glucose do not show acidic character?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "HCl and HNO₃ ionize in water to produce hydronium (H₃O⁺) ions, which impart acidic properties, whereas alcohol and glucose do not ionize to generate H₃O⁺ ions and thus do not show acidic character.",
+    "explanation": "Strong acids such as HCl and HNO₃ completely dissociate in water, releasing H⁺ ions that quickly associate with water molecules to form H₃O⁺. These mobile ions are responsible for the acid’s characteristic reactivity and ability to change indicator colour. In contrast, compounds like alcohol and glucose do not undergo significant ionization in water, so they don’t produce H₃O⁺ ions and hence remain non-acidic in their behavior.",
+    "topic": "Acid Ionization in Aqueous Solution",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic004"
+  },
+  {
+    "question_text": "Why does an aqueous solution of an acid conduct electricity?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Aqueous acid solutions conduct electricity because the acids ionize to release mobile ions, primarily H⁺ (or H₃O⁺) along with the corresponding anions, which facilitate the flow of electric current.",
+    "explanation": "The process of ionization in aqueous solutions results in charged particles (ions) such as H₃O⁺ and other anions like Cl⁻, NO₃⁻, etc. These ions move freely in solution and allow the conduction of electricity. This is a fundamental property of electrolytes and is well demonstrated in laboratory experiments using acid solutions like HCl or H₂SO₄.",
+    "topic": "Electrolytic Conduction in Acids",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic005"
+  },
+  {
+    "question_text": "Why does dry HCl gas not change the colour of the dry litmus paper?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Dry HCl gas does not change the colour of dry litmus paper because, without the presence of water, HCl does not ionize to form H⁺ ions, which are necessary to induce the colour change in the indicator.",
+    "explanation": "Litmus paper changes colour based on the availability of H⁺ ions. In the absence of moisture, HCl remains as undissociated molecules and cannot generate H₃O⁺ ions. However, when moist (wet) litmus paper is used, the water present induces the ionization of HCl, producing H₃O⁺ ions, which then turn blue litmus red.",
+    "topic": "Acid Ionization and Indicator Response",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic006"
+  },
+  {
+    "question_text": "While diluting an acid, why is it recommended that the acid should be added to water and not water to the acid?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The acid is added to water because dilution is an exothermic process; adding acid slowly to a larger volume of water allows the heat to be absorbed gradually, preventing localized overheating and splashing, which could occur if water were added to concentrated acid.",
+    "explanation": "When concentrated acid is diluted, a significant amount of heat is released. If water is added to the acid, the localized concentration of acid can cause a rapid temperature rise, leading to dangerous splashing and potential burns. Conversely, adding acid to water disperses the heat in a larger volume, ensuring a safer and more controlled temperature increase. This procedure is a well-established safety protocol in chemical laboratories.",
+    "topic": "Acid Dilution and Safety",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic007"
+  },
+  {
+    "question_text": "How is the concentration of hydronium ions (H₃O⁺) affected when a solution of an acid is diluted?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Diluting an acid does not change the total number of hydronium ions present; however, it increases the volume of the solution, thus decreasing the concentration of H₃O⁺ ions.",
+    "explanation": "Dilution involves adding solvent (usually water) to a solution, which expands the volume without altering the number of moles of the solute (in this case, the H₃O⁺ ions generated through acid ionization). Consequently, while the overall quantity of ions remains constant, their concentration (moles per liter) decreases, leading to a less acidic solution in terms of ion concentration.",
+    "topic": "Dilution and Molarity",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic008"
+  },
+  {
+    "question_text": "How is the concentration of hydroxide ions (OH⁻) affected when excess base is dissolved in a solution of sodium hydroxide?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "When excess base is dissolved in a sodium hydroxide solution, the total number of hydroxide ions increases, thereby increasing the concentration of OH⁻ ions in the solution.",
+    "explanation": "Bases such as NaOH dissociate completely in water, releasing OH⁻ ions. When additional base is added to an existing solution, it contributes more OH⁻ ions, increasing the solution’s overall ionic concentration. This results in a higher alkalinity, demonstrating the direct relationship between the amount of base added and the concentration of hydroxide ions.",
+    "topic": "Base Ionization and Concentration",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic009"
+  }
+]

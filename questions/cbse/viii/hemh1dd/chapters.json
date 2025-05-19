@@ -1,0 +1,57 @@
+{
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Rational Numbers"
+      },
+      {
+        "number": 2,
+        "name": "Linear Equations in One Variable"
+      },
+      {
+        "number": 3,
+        "name": "Understanding Quadrilaterals"
+      },
+      {
+        "number": 4,
+        "name": "Data Handling"
+      },
+      {
+        "number": 5,
+        "name": "Squares and Square Roots"
+      },
+      {
+        "number": 6,
+        "name": "Cubes and Cube Roots"
+      },
+      {
+        "number": 7,
+        "name": "Comparing Quantities"
+      },
+      {
+        "number": 8,
+        "name": "Algebraic Expressions and Identities"
+      },
+      {
+        "number": 9,
+        "name": "Mensuration"
+      },
+      {
+        "number": 10,
+        "name": "Exponents and Powers"
+      },
+      {
+        "number": 11,
+        "name": "Direct and Inverse Proportions"
+      },
+      {
+        "number": 12,
+        "name": "Factorisation"
+      },
+      {
+        "number": 13,
+        "name": "Introduction to Graphs"
+      }
+    ]
+  }
+  

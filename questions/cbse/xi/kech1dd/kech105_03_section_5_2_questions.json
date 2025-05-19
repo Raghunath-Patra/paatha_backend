@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following best describes a reversible process in thermodynamics?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A process that can be reversed only by a significant energy change",
+      "A process that proceeds quickly and is far from equilibrium",
+      "A process that proceeds infinitely slowly through a series of equilibrium states",
+      "A process that can never be reversed"
+    ],
+    "correct_answer": "A process that proceeds infinitely slowly through a series of equilibrium states",
+    "explanation": "A reversible process is defined as one that proceeds slowly, passing through a series of equilibrium states, so that an infinitesimal change can reverse the process. This ensures that the system and its surroundings are nearly in equilibrium at all times.",
+    "topic": "Reversible Processes and Work",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "kech105",
+    "section_id": "03_section_5_2",
+    "question_id": "cbse_xi_kech1dd_c105_gen017"
+  }
+]

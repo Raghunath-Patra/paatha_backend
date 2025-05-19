@@ -1,0 +1,70 @@
+[
+  {
+    "question_text": "Evaluate (i) 8! and (ii) 4! – 3!.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) 40320; (ii) 18",
+    "explanation": "For part (i): 8! means 8×7×6×5×4×3×2×1 = 40320. For part (ii): 4! = 4×3×2×1 = 24 and 3! = 3×2×1 = 6; hence, 4! – 3! = 24 – 6 = 18.",
+    "topic": "Factorial Notation",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex007"
+  },
+  {
+    "question_text": "Is 3! + 4! = 7! ?",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Compute 3! and 4!: 3! = 6 and 4! = 24. Their sum is 6 + 24 = 30. However, 7! = 5040. Since 30 ≠ 5040, the statement is false.",
+    "topic": "Factorial Calculations",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex008"
+  },
+  {
+    "question_text": "Compute 8! / (6! × 2!).",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "28",
+    "explanation": "First, calculate 8! = 40320, 6! = 720, and 2! = 2. The denominator becomes 6! × 2! = 720 × 2 = 1440. Dividing gives 40320 / 1440 = 28.",
+    "topic": "Factorial Notation and Simplification",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex009"
+  },
+  {
+    "question_text": "If 1/6! + 1/7! = x/8!, find x.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "64",
+    "explanation": "Express each term with denominator 8!: Since 8! = 40320, note that 6! = 720 and 7! = 5040. Multiply numerator and denominator appropriately: 1/6! = 40320/720×40320 = 56/40320 and 1/7! = 40320/5040×40320 = 8/40320. So, 1/6! + 1/7! = (56 + 8)/40320 = 64/40320. Equating with x/8!, we get x = 64.",
+    "topic": "Factorial Notation",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex010"
+  },
+  {
+    "question_text": "Evaluate n!/(n–r)! for (i) n = 6, r = 2 and (ii) n = 9, r = 5.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) 30; (ii) 15120",
+    "explanation": "For (i): n = 6, r = 2 so the expression is 6!/(6–2)! = 6!/4! = (720)/(24) = 30. For (ii): n = 9, r = 5, so 9!/(9–5)! = 9!/4! = (362880)/(24) = 15120.",
+    "topic": "Permutations and Factorial Calculations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex011"
+  }
+]

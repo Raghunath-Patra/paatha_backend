@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "If a and b are distinct integers, prove that (a - b) is a factor of aⁿ - bⁿ, whenever n is a positive integer. [Hint: Write aⁿ = (a - b + b)ⁿ and expand.]",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "aⁿ - bⁿ = (a - b)(aⁿ⁻¹ + aⁿ⁻²b + aⁿ⁻³b² + ... + abⁿ⁻² + bⁿ⁻¹).",
+    "explanation": "Step 1: Write aⁿ as (a - b + b)ⁿ. \nStep 2: Apply the binomial theorem: \n  (a - b + b)ⁿ = Σ (from k=0 to n) [C(n, k) (a - b)ᵏ bⁿ⁻ᵏ]. \nStep 3: Notice that when k = 0 the term is bⁿ. \nStep 4: Subtract bⁿ from both sides to get aⁿ - bⁿ = Σ (from k=1 to n) [C(n, k) (a - b)ᵏ bⁿ⁻ᵏ]. \nStep 5: Factor (a - b) out of each term in the summation: \n  aⁿ - bⁿ = (a - b)[C(n, 1) bⁿ⁻¹ + C(n, 2) (a - b) bⁿ⁻² + ... + C(n, n) (a - b)ⁿ⁻¹]. \nThis shows that (a - b) is a factor of aⁿ - bⁿ.",
+    "topic": "Binomial Theorem and Factorization",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh107",
+    "question_id": "cbse_xi_kemh1dd_c107_ex015"
+  },
+  {
+    "question_text": "Evaluate (√3 + √2)⁶ - (√3 - √2)⁶.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "396√6",
+    "explanation": "Let a = √3 and b = √2. Notice that the even-powered terms in the expansions of (a + b)⁶ and (a - b)⁶ will cancel when subtracted, leaving only twice the sum of the odd-index terms. \nUsing the binomial expansion, we have: \n  (a+b)⁶ - (a-b)⁶ = 2[ C(6,1)a⁵b + C(6,3)a³b³ + C(6,5)a b⁵ ]. \nCompute the coefficients: C(6,1)=6, C(6,3)=20, C(6,5)=6. \nNow, evaluate each term: \n  a⁵ = (√3)⁵ = 9√3,  a³ = (√3)³ = 3√3,  b⁵ = (√2)⁵ = 4√2,  b³ = (√2)³ = 2√2. \nThus, the sum becomes: \n  2[6 × 9√3 × √2 + 20 × 3√3 × 2√2 + 6 × √3 × 4√2] \n  = 2[54√6 + 120√6 + 24√6] \n  = 2[198√6] = 396√6.",
+    "topic": "Binomial Theorem and Radical Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh107",
+    "question_id": "cbse_xi_kemh1dd_c107_ex016"
+  },
+  {
+    "question_text": "Find the value of (a² + √(a² - 1))⁴ + (a² - √(a² - 1))⁴.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "16a⁸ - 16a⁴ + 2",
+    "explanation": "Let u = a² + √(a² - 1) and v = a² - √(a² - 1). Note that u and v are conjugates. \nStep 1: Observe that u + v = 2a² and u·v = a⁴ - (a² - 1) = a⁴ - a² + 1. \nStep 2: Recognize the identity for conjugate pairs: \n  uⁿ + vⁿ = 2Tₙ(a²), where Tₙ is the Chebyshev polynomial of the first kind. \nFor n = 4, T₄(x) = 8x⁴ - 8x² + 1. \nStep 3: Substitute x = a² to get: \n  T₄(a²) = 8a⁸ - 8a⁴ + 1. \nThus, (a² + √(a² - 1))⁴ + (a² - √(a² - 1))⁴ = 2(8a⁸ - 8a⁴ + 1) = 16a⁸ - 16a⁴ + 2.",
+    "topic": "Binomial Theorem and Conjugate Expressions",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh107",
+    "question_id": "cbse_xi_kemh1dd_c107_ex017"
+  },
+  {
+    "question_text": "Find an approximation of (0.99)⁵ using the first three terms of its expansion.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Approximately 0.951",
+    "explanation": "Step 1: Write 0.99 as (1 - 0.01). \nStep 2: Expand (1 - 0.01)⁵ using the binomial expansion: \n  (1 - 0.01)⁵ ≈ 1 - 5(0.01) + 10(0.01)². \nStep 3: Compute the terms: \n  First term: 1, Second term: 5 × 0.01 = 0.05, Third term: 10 × 0.0001 = 0.001. \nStep 4: Combine: 1 - 0.05 + 0.001 = 0.951.",
+    "topic": "Binomial Theorem and Approximations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh107",
+    "question_id": "cbse_xi_kemh1dd_c107_ex018"
+  },
+  {
+    "question_text": "Expand using the Binomial Theorem: (1 + x/2 - 2/x)⁴, where x ≠ 0.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The expansion is: 1 + (2x - 8/x) + ((3/2)x² - 24 + 24/x²) + ((x³/2) - 6x + 24/x - 32/x³) + (x⁴/16 - x² + 6 - 16/x² + 16/x⁴).",
+    "explanation": "Step 1: Write the given expression as 1 + (x/2 - 2/x) and recognize that the expansion is with exponent 4: \n  (1 + (x/2 - 2/x))⁴ = Σ (from k = 0 to 4) [C(4, k) · 1^(4-k) · (x/2 - 2/x)ᵏ]. \nStep 2: Expand each term: \n• k = 0: C(4, 0)·(x/2 - 2/x)⁰ = 1. \n• k = 1: C(4, 1)·(x/2 - 2/x) = 4(x/2 - 2/x) = 2x - 8/x. \n• k = 2: C(4, 2)·(x/2 - 2/x)². First, (x/2 - 2/x)² = (x²/4) - 2·(x/2)*(2/x) + (4/x²) = x²/4 - 4 + 4/x². Multiply by C(4, 2)=6 to obtain 6(x²/4 - 4 + 4/x²) = (3/2)x² - 24 + 24/x². \n• k = 3: C(4, 3)·(x/2 - 2/x)³. Compute (x/2 - 2/x)³ by writing it as u³ - 3u²v + 3uv² - v³ with u = x/2 and v = 2/x. This yields (x³/8) - (3x/2) + (6/x) - (8/x³). Multiply by 4 to get: (x³/2) - 6x + 24/x - 32/x³. \n• k = 4: C(4, 4)·(x/2 - 2/x)⁴. Using the formula for the fourth power of a binomial with u = x/2 and v = 2/x, we obtain: (x/2 - 2/x)⁴ = (x⁴/16) - x² + 6 - 16/x² + 16/x⁴. \nStep 3: Combine all the terms to yield the full expansion: \n  1 + (2x - 8/x) + ((3/2)x² - 24 + 24/x²) + ((x³/2) - 6x + 24/x - 32/x³) + (x⁴/16 - x² + 6 - 16/x² + 16/x⁴).",
+    "topic": "Binomial Theorem and Algebraic Expansion",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh107",
+    "question_id": "cbse_xi_kemh1dd_c107_ex019"
+  },
+  {
+    "question_text": "Find the expansion of (3x² + 2ax + 3a²)³ using the binomial theorem.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "27x⁶ + 54a·x⁵ + 117a²·x⁴ + 116a³·x³ + 117a⁴·x² + 54a⁵·x + 27a⁶",
+    "explanation": "Step 1: Write the expression as a sum of two terms by grouping: (3x² + 2ax + 3a²) = (3x² + 2ax) + 3a². \nStep 2: Apply the binomial expansion for the cube: \n  [(3x² + 2ax) + 3a²]³ = (3x² + 2ax)³ + 3·(3x² + 2ax)²·(3a²) + 3·(3x² + 2ax)·(3a²)² + (3a²)³. \nStep 3: Expand (3x² + 2ax)ⁿ as needed using the binomial theorem: \n• (3x² + 2ax)³ = C(3,0)(3x²)³ + C(3,1)(3x²)²(2ax) + C(3,2)(3x²)(2ax)² + C(3,3)(2ax)³ \n  = 27x⁶ + 3·9x⁴·(2ax) + 3·(3x²)·(4a²x²) + 8a³x³ \n  = 27x⁶ + 54a·x⁵ + 36a²·x⁴ + 8a³·x³. \nStep 4: Expand the remaining terms: \n• (3x² + 2ax)² = 9x⁴ + 12a·x³ + 4a²x². Multiplying by 3·(3a²) gives 81a²x⁴ + 108a³x³ + 36a⁴x². \n• Next, 3·(3x² + 2ax)·(3a²)² = 3·(3x² + 2ax)·9a⁴ = 81a⁴x² + 54a⁵x. \n• Finally, (3a²)³ = 27a⁶. \nStep 5: Combine like terms: \n  x⁶: 27x⁶ \n  x⁵: 54a·x⁵ \n  x⁴: 36a²·x⁴ + 81a²·x⁴ = 117a²·x⁴ \n  x³: 8a³·x³ + 108a³·x³ = 116a³·x³ \n  x²: 36a⁴·x² + 81a⁴·x² = 117a⁴·x² \n  x: 54a⁵·x \n  Constant: 27a⁶ \nThus, the final expanded form is: \n  27x⁶ + 54a·x⁵ + 117a²·x⁴ + 116a³·x³ + 117a⁴·x² + 54a⁵·x + 27a⁶.",
+    "topic": "Binomial Theorem and Polynomial Expansion",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh107",
+    "question_id": "cbse_xi_kemh1dd_c107_ex020"
+  }
+]

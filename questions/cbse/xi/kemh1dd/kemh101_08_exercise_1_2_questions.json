@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Which of the following are examples of the null (empty) set?\n(i) Set of odd natural numbers divisible by 2\n(ii) Set of even prime numbers\n(iii) { x : x is a natural number, x < 5 and x > 7 }\n(iv) { y : y is a point common to any two parallel lines }",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The null set is obtained in cases (i), (iii), and (iv). Explanation: (i) No natural number can be both odd and divisible by 2; (iii) The condition x < 5 and x > 7 is contradictory (no natural number satisfies both), and (iv) Two parallel lines do not intersect, so there is no common point. On the other hand, (ii) the set of even prime numbers is not empty because it contains the element 2.",
+    "explanation": "Step 1: Analyze each option:\n• (i) The condition 'odd natural numbers divisible by 2' is impossible because an odd number cannot be divisible by 2; hence, the set is empty.\n• (ii) Even prime numbers: The only even prime is 2, so the set is {2}, which is non-empty.\n• (iii) The condition 'x < 5 and x > 7' has no solution among natural numbers; hence, the set is empty.\n• (iv) Any two parallel lines do not have any point in common; therefore, the set is empty.\nStep 2: Conclude that options (i), (iii), and (iv) yield the null set.\n\nTopic: Empty (Null) Sets\nBloom Level: Understand",
+    "topic": "Empty Sets",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kemh101",
+    "question_id": "cbse_xi_kemh1dd_c101_ex007"
+  },
+  {
+    "question_text": "Which of the following sets are finite or infinite?\n(i) The set of months of a year\n(ii) {1, 2, 3, ...}\n(iii) {1, 2, 3, ...99, 100}\n(iv) The set of positive integers greater than 100\n(v) The set of prime numbers less than 99",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) Finite (12 months). (ii) Infinite (the pattern continues without end). (iii) Finite (exactly 100 elements with the first 100 positive integers). (iv) Infinite (there are infinitely many positive integers beyond 100). (v) Finite (only a limited number of prime numbers exist below 99).",
+    "explanation": "Step 1: Evaluate each option:\n• (i) A year always has 12 months, hence finite.\n• (ii) The sequence {1, 2, 3, ...} denotes an infinite set (the natural numbers continue indefinitely).\n• (iii) The set from 1 to 100 includes exactly 100 numbers, making it finite.\n• (iv) The set of positive integers greater than 100 is unbounded, so it is infinite.\n• (v) There is a fixed, finite number of prime numbers less than 99.\n\nTopic: Finite and Infinite Sets\nBloom Level: Understand",
+    "topic": "Finite and Infinite Sets",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kemh101",
+    "question_id": "cbse_xi_kemh1dd_c101_ex008"
+  },
+  {
+    "question_text": "State whether each of the following sets is finite or infinite:\n(i) The set of lines which are parallel to the x-axis\n(ii) The set of letters in the English alphabet\n(iii) The set of numbers which are multiples of 5\n(iv) The set of animals living on the earth\n(v) The set of circles passing through the origin (0, 0)",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) Infinite – every line parallel to the x-axis can be written as y = c, where c ∈ ℝ. (ii) Finite – there are 26 letters. (iii) Infinite – multiples of 5 continue indefinitely. (iv) Finite – at any given time, there is a finite number of animals. (v) Infinite – there are infinitely many circles that can pass through a fixed point.",
+    "explanation": "Step 1: Analyze each option:\n• (i) Lines parallel to the x-axis have the form y = c for any real number c; since ℝ is infinite, the set is infinite.\n• (ii) The English alphabet consists of 26 unique letters, so it is finite.\n• (iii) Multiples of 5 take the form 5n for integer n, which are infinite in number.\n• (iv) Although the total count of animals is very large, it is bounded by physical and biological constraints; hence, finite.\n• (v) A circle passing through (0, 0) can be defined with many different centers and radii, making the set infinite.\n\nTopic: Finite and Infinite Sets\nBloom Level: Understand",
+    "topic": "Finite and Infinite Sets",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kemh101",
+    "question_id": "cbse_xi_kemh1dd_c101_ex009"
+  },
+  {
+    "question_text": "In the following, state whether A = B or not:\n(i) A = { a, b, c, d } and B = { d, c, b, a }\n(ii) A = { 4, 8, 12, 16 } and B = { 8, 4, 16, 18 }\n(iii) A = { 2, 4, 6, 8, 10 } and B = { x : x is a positive even integer and x ≤ 10 }\n(iv) A = { x : x is a multiple of 10 } and B = { 10, 15, 20, 25, 30, … }",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) A = B because order does not matter in a set. (ii) A ≠ B because 12 is in A but 18 is in B. (iii) A = B because both represent the set {2, 4, 6, 8, 10}. (iv) A ≠ B because A contains all multiples of 10 while B includes elements (like 15, 25, …) that are not multiples of 10.",
+    "explanation": "Step 1: Compare the elements of each set:\n• (i) Both sets contain the same four elements {a, b, c, d}; order is irrelevant in sets, so they are equal.\n• (ii) In the first set, the elements are {4, 8, 12, 16}; in the second set, notice the element 18 instead of 12, making them unequal.\n• (iii) The set defined in B includes all positive even integers up to 10 which exactly forms the set {2, 4, 6, 8, 10} identical to A.\n• (iv) A is defined as the set of all multiples of 10, while B starts with 10 but then includes numbers like 15 which are not multiples of 10. Hence, they are not equal.\n\nTopic: Equal Sets\nBloom Level: Understand",
+    "topic": "Equal Sets",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kemh101",
+    "question_id": "cbse_xi_kemh1dd_c101_ex010"
+  },
+  {
+    "question_text": "From the sets given below, select equal sets:\nA = { 2, 4, 8, 12 }, B = { 1, 2, 3, 4 }, C = { 4, 8, 12, 14 }, D = { 3, 1, 4, 2 }, E = { -1, 1 }, F = { 0, a }, G = { 1, -1 }, H = { 0, 1 }",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The equal sets are: B and D (both equal to {1, 2, 3, 4}) and E and G (both equal to {-1, 1}). The other sets are distinct.",
+    "explanation": "Step 1: Examine each set:\n• A = {2, 4, 8, 12} has no duplicate among other sets.\n• B = {1, 2, 3, 4} and D = {3, 1, 4, 2} contain exactly the same elements; order does not matter in sets.\n• C = {4, 8, 12, 14} differs by the element 14 instead of 12 compared to A.\n• E = {-1, 1} and G = {1, -1} are equal since they have the same two elements.\n• F = {0, a} and H = {0, 1} are different because the element 'a' (a variable or symbol) is not necessarily equal to 1.\nStep 2: Conclude that the only pairs of equal sets are B = D and E = G.\n\nTopic: Equal Sets\nBloom Level: Understand",
+    "topic": "Equal Sets",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kemh101",
+    "question_id": "cbse_xi_kemh1dd_c101_ex011"
+  }
+]

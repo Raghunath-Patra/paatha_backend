@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "Why should a magnesium ribbon be cleaned before burning in air?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The magnesium ribbon should be cleaned to remove the protective magnesium oxide layer that forms on its surface, allowing the reactive underlying metal to undergo complete combustion.",
+    "explanation": "Magnesium naturally forms a thin layer of magnesium oxide when exposed to air, which can inhibit the reaction with oxygen during burning. Cleaning the ribbon removes this inert layer, ensuring that the exposed magnesium reacts efficiently with oxygen, thereby accurately demonstrating the principles of oxidation and the conservation of mass in a chemical reaction.",
+    "topic": "Chemical Reactions and Oxidation",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic001"
+  },
+  {
+    "question_text": "Write the balanced equation for the reaction: Hydrogen + Chlorine → Hydrogen chloride.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "H₂(g) + Cl₂(g) → 2HCl(g)",
+    "explanation": "The balanced equation indicates that one molecule of dihydrogen (H₂) reacts with one molecule of dichlorine (Cl₂) to form two molecules of hydrogen chloride (HCl). This ensures that the number of atoms for each element is conserved on both sides of the equation, which is in line with the law of conservation of mass.",
+    "topic": "Chemical Equations and Stoichiometry",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic002"
+  },
+  {
+    "question_text": "Write the balanced equation for the reaction: Barium chloride + Aluminium sulphate → Barium sulphate + Aluminium chloride.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "3BaCl₂(aq) + Al₂(SO₄)₃(aq) → 3BaSO₄(s) + 2AlCl₃(aq)",
+    "explanation": "In this reaction, three molecules of barium chloride react with one molecule of aluminium sulphate to produce three molecules of insoluble barium sulphate (which precipitates) and two molecules of aluminium chloride. The balancing ensures that the number of barium, chlorine, aluminium, sulphate, and oxygen atoms is equal on both sides, thereby obeying the law of conservation of mass.",
+    "topic": "Balanced Chemical Equations",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic003"
+  },
+  {
+    "question_text": "Write the balanced equation for the reaction: Sodium + Water → Sodium hydroxide + Hydrogen.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g)",
+    "explanation": "The balanced equation shows that two atoms of sodium react with two molecules of water to form two molecules of sodium hydroxide and one molecule of hydrogen gas. This adjustment of coefficients ensures the conservation of sodium, hydrogen, and oxygen atoms across the reaction, adhering to the law of conservation of mass.",
+    "topic": "Balanced Chemical Equations and Reaction Stoichiometry",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic004"
+  },
+  {
+    "question_text": "Write the balanced chemical equation with state symbols for the reaction: Solutions of barium chloride and sodium sulphate in water react to give insoluble barium sulphate and the solution of sodium chloride.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq)",
+    "explanation": "This equation incorporates state symbols to indicate that barium chloride and sodium sulphate are both in aqueous solution. When they react, the insoluble barium sulphate precipitates as a solid, and sodium chloride remains in aqueous solution. The coefficients are adjusted to conserve the number of atoms for each element, reflecting the conservation of mass.",
+    "topic": "Chemical Equations with State Symbols",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic005"
+  },
+  {
+    "question_text": "Write the balanced chemical equation with state symbols for the reaction: Sodium hydroxide solution reacts with hydrochloric acid solution to produce sodium chloride solution and water.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)",
+    "explanation": "This acid-base neutralization reaction produces sodium chloride and water. The state symbols indicate that both the reactants, sodium hydroxide and hydrochloric acid, are in aqueous solution while water is in the liquid state. The balanced equation confirms that the number of sodium, oxygen, hydrogen, and chlorine atoms are conserved, thus aligning with the conservation of mass.",
+    "topic": "Acid-Base Neutralization and Chemical Equations",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic006"
+  }
+]

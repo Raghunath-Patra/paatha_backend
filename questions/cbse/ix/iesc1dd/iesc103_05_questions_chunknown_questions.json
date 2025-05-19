@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Define the atomic mass unit.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "One atomic mass unit (u) is defined as exactly one-twelfth (1/12th) of the mass of a single carbon-12 atom.",
+    "explanation": "The atomic mass unit is a standard unit of mass that allows the comparison of atomic and molecular masses. By defining 1 u as 1/12th of the mass of a carbon-12 atom, it provides a consistent and reproducible method to express the masses of atoms. This definition, adopted by IUPAC, ensures that atomic masses can be compared and calculated accurately in chemical equations and reactions.",
+    "topic": "Atomic Mass",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic005"
+  },
+  {
+    "question_text": "Why is it not possible to see an atom with naked eyes?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "It is not possible to see an atom with the naked eye because atoms are extremely small, with sizes measured in nanometres (10⁻⁹ m), which is far below the resolution limit of human vision.",
+    "explanation": "Atoms have dimensions that are several orders of magnitude below what the human eye can resolve. The measurement of atomic radii in nanometres demonstrates that even when millions of atoms are arranged together, their combined thickness might only equal that of a sheet of paper. Specialized instruments like electron microscopes are necessary to visualize such minute structures.",
+    "topic": "Atomic Structure",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic006"
+  }
+]

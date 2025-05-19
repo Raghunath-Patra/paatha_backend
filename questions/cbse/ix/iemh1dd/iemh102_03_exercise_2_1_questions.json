@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Which of the following expressions are polynomials in one variable and which are not? State reasons for your answer. (i) 4x² – 3x + 7; (ii) y² + √2; (iii) 3√t + t√2; (iv) y + 2/y; (v) x¹⁰ + y³ + t⁵⁰",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) 4x² – 3x + 7 is a polynomial in x since all exponents (2, 1, 0) are whole numbers. (ii) y² + √2 is a polynomial in y because y² has an exponent 2 (a whole number) and √2 is a constant. (iii) 3√t + t√2 is not a polynomial in t since 3√t = 3t^(1/2) and the exponent 1/2 is not a whole number. (iv) y + 2/y is not a polynomial in y because 2/y = 2y⁻¹; the exponent -1 is not a whole number. (v) x¹⁰ + y³ + t⁵⁰ involves more than one variable; therefore, it is not a polynomial in one variable.",
+    "explanation": "To determine whether an expression is a polynomial in one variable, check that all terms are in the form (constant)×(variable)^n, where n is a whole number (non-negative integer). In (i), the exponents are 2, 1, and 0, so it qualifies. In (ii), even though √2 looks unusual, it is just a constant term. In (iii), t^(1/2) has an exponent of 1/2, which disqualifies it; similarly, in (iv), 2/y can be written as 2y⁻¹, and -1 is not a whole number. In (v), there are three different variables appearing, hence it is not a univariate (one variable) polynomial.",
+    "topic": "Polynomials in one variable",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh102",
+    "question_id": "cbse_ix_iemh1dd_c102_ex001"
+  },
+  {
+    "question_text": "Write the coefficients of x² in each of the following: (i) 2 + x² + x; (ii) 2 – x² + x³; (iii) (π/2)x² + x; (iv) √2x – 1.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) The coefficient of x² is 1, (ii) the coefficient of x² is -1, (iii) the coefficient of x² is π/2, and (iv) there is no x² term, so the coefficient is 0.",
+    "explanation": "Examine each polynomial and identify the term containing x². In (i), the term x² appears with an implicit coefficient of 1. In (ii), the term is -x² giving a coefficient of -1. In (iii), (π/2)x² explicitly provides the coefficient π/2. In (iv), since there is no x² term present, the coefficient is considered to be 0.",
+    "topic": "Coefficients in polynomials",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh102",
+    "question_id": "cbse_ix_iemh1dd_c102_ex002"
+  },
+  {
+    "question_text": "Give one example each of a binomial of degree 35, and of a monomial of degree 100.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A valid example of a binomial of degree 35 is: x³⁵ + 1. A valid example of a monomial of degree 100 is: 7x¹⁰⁰.",
+    "explanation": "A binomial contains exactly two terms and must have a highest power of 35 for it to be of degree 35; x³⁵ + 1 meets this requirement (x³⁵ is of degree 35 and 1 is a constant term). A monomial consists of a single term; 7x¹⁰⁰ is a monomial and its degree, 100, comes from the exponent on x.",
+    "topic": "Classification of polynomials",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "iemh102",
+    "question_id": "cbse_ix_iemh1dd_c102_ex003"
+  },
+  {
+    "question_text": "Write the degree of each of the following polynomials: (i) 5x³ + 4x² + 7x; (ii) 4 – y²; (iii) 5t – √7; (iv) 3.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) Degree is 3; (ii) Degree is 2; (iii) Degree is 1; (iv) Degree is 0.",
+    "explanation": "The degree of a polynomial is determined by the highest power of the variable: (i) In 5x³ + 4x² + 7x, the highest exponent is 3. (ii) In 4 – y², the term -y² indicates a degree of 2. (iii) In 5t – √7, the variable t appears with exponent 1, so the degree is 1 (√7 is a constant). (iv) The number 3 is a constant and can be thought of as 3x⁰; thus, its degree is 0.",
+    "topic": "Degree of polynomials",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh102",
+    "question_id": "cbse_ix_iemh1dd_c102_ex004"
+  },
+  {
+    "question_text": "Classify the following as linear, quadratic, and cubic polynomials: (i) x² + x; (ii) x – x³; (iii) y + y² + 4; (iv) 1 + x; (v) 3t; (vi) r²; (vii) 7x³.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) x² + x is quadratic (degree 2). (ii) x – x³ is cubic (degree 3). (iii) y + y² + 4 is quadratic (degree 2). (iv) 1 + x is linear (degree 1). (v) 3t is linear (degree 1). (vi) r² is quadratic (degree 2). (vii) 7x³ is cubic (degree 3).",
+    "explanation": "To classify the polynomials according to degree: a linear polynomial has degree 1 (e.g., 1 + x, 3t), a quadratic polynomial has degree 2 (e.g., x² + x, y + y² + 4, r²), and a cubic polynomial has degree 3 (e.g., x – x³, 7x³). The degree is determined by the highest power of the variable in each expression.",
+    "topic": "Classification of polynomials by degree",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh102",
+    "question_id": "cbse_ix_iemh1dd_c102_ex005"
+  }
+]

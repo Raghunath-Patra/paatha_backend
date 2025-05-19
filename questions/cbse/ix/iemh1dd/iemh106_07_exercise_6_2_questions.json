@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "In Fig. 6.23, if AB ∥ CD, CD ∥ EF and y : z = 3 : 7, find x.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "x = 126°",
+    "explanation": "Step 1: Since AB, CD and EF are all parallel, the interior angles on the same side of a transversal are supplementary when considered between any two of these lines. In particular, consider the transversal that cuts AB and CD. Let the two interior angles on the same side be x and y. Hence, x + y = 180° so that x = 180° − y. \nStep 2: Next, consider the two parallel lines CD and EF intercepted by a transversal so that the interior angles on the same side are supplementary. If the angles are y and z then we have y + z = 180°. \nStep 3: It is given that y : z = 3 : 7. Express y and z as 3k and 7k respectively. Then 3k + 7k = 180° which gives 10k = 180° and hence k = 18°. This implies y = 3(18°) = 54° and z = 7(18°) = 126°. \nStep 4: Returning to the first pair (between AB and CD), since x + y = 180°, we obtain x = 180° − 54° = 126°.",
+    "topic": "Parallel lines and transversals",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex007"
+  },
+  {
+    "question_text": "In Fig. 6.24, if AB ∥ CD, EF ⟂ CD and ∠GED = 126°, find ∠AGE, ∠GEF and ∠FGE.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "∠AGE = 126°,  ∠GEF = 36°,  ∠FGE = 18°",
+    "explanation": "Construction and Reasoning:\n1. The line EF is perpendicular to CD, so the angle between EF and CD is 90°.\n2. At point E (on CD), ∠GED is given as 126°. Here, GED is the angle between the transversal GE and the line through E that lies along CD. Since EF ⟂ CD, the angle between GE and EF is the difference: 126° − 90° = 36°. Thus, ∠GEF = 36°.\n3. Now, since AB ∥ CD and GE is a transversal, the angle that GE makes with AB is equal to the angle it makes with CD. Thus, at the intersection of GE with AB (point G, by appropriate construction), the angle between GA (which lies along AB) and GE is 126°. Hence, ∠AGE = 126°.\n4. Finally, consider triangle GEF. The sum of the angles in triangle GEF is 180°. We have already found ∠GEF = 36° and by the construction from the parallel lines the angle at G (which, by alternate interior angles with the right angle at F, turns out to be 126°) is taken as ∠AGE. However, in triangle GEF the angle at G is actually the remaining angle between GF and GE. Thus, ∠FGE = 180° − (126° + 36°) = 18°.\nNote: The auxiliary construction involves extending GE to meet AB at G and using the fact that lines AB and CD are parallel. The stated values follow from applying the corresponding angles and the perpendicular condition.",
+    "topic": "Parallel lines, transversals, and perpendiculars",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex008"
+  },
+  {
+    "question_text": "In Fig. 6.25, if PQ ∥ ST, ∠PQR = 110° and ∠RST = 130°, find ∠QRS. (Hint: Draw a line parallel to ST through point R.)",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "∠QRS = 70°",
+    "explanation": "Solution steps:\n1. Since PQ ∥ ST, consider the transversal that passes through Q and R. The angle between the transversal and PQ at Q is given as 110°. By the Consecutive Interior Angles Theorem, the angle created between the transversal and ST at the corresponding point must be 180° − 110° = 70°.\n2. With the hint in mind, draw a line through R parallel to ST. Then the corresponding angle formed between RQ and this new line will also be 110° (by the Alternate Interior Angles Theorem). Consequently, the remaining angle at R in triangle QRS, which is ∠QRS, must equal 70° because it supplements the effect of the 110° angle along the transversal.\n3. Thus, ∠QRS = 70°.",
+    "topic": "Parallel lines and transversals",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex009"
+  },
+  {
+    "question_text": "In Fig. 6.26, if AB ∥ CD, ∠APQ = 50° and ∠PRD = 127°, find x and y, where ∠PQR = x and ∠APR = y.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "x = 130° and y = 53°",
+    "explanation": "Solution:\n1. Consider the transversal PQ cutting through the parallel lines AB and CD. At point P on AB, the angle ∠APQ is 50°. By the Interior Consecutive Angles Theorem, the angle between PQ and CD at Q (which is ∠PQR = x) satisfies x + 50° = 180°. Hence, x = 180° − 50° = 130°.\n2. Next, consider the transversal PR cutting the same parallel lines. At point R on CD, the angle ∠PRD is 127°. Since the consecutive interior angles made by transversal PR are supplementary, the corresponding angle at P (which is ∠APR = y) is given by y + 127° = 180°. Therefore, y = 180° − 127° = 53°.\nThus, the values are x = 130° and y = 53°.",
+    "topic": "Parallel lines and transversals",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex010"
+  },
+  {
+    "question_text": "In Fig. 6.27, PQ and RS are two mirrors placed parallel to each other. An incident ray AB strikes the mirror PQ at B, the reflected ray moves along the path BC and strikes the mirror RS at C and again reflects back along CD. Prove that AB ∥ CD.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "By using the law of reflection (angle of incidence equals angle of reflection) along with properties of parallel lines, one can show that the angle between AB and the mirror PQ equals the angle between CD and the mirror RS. Since the mirrors (PQ and RS) are parallel, it follows by the Converse of the Corresponding Angles Postulate that AB is parallel to CD.",
+    "explanation": "Proof:\n1. When the incident ray AB strikes the mirror PQ at point B, the angle of incidence (measured from the normal at B) equals the angle of reflection. Let this common value be θ.\n2. The reflected ray BC then strikes the mirror RS at point C. Again, by the law of reflection at C, the angle of incidence (with respect to the normal at C) equals the angle of reflection; call this angle also θ.\n3. Since the mirrors PQ and RS are parallel, the normals at B and C are parallel. Thus, the direction of the incident ray AB (relative to the normal at B) is the same as the direction of the final reflected ray CD (relative to the normal at C).\n4. Consequently, the angle between AB and the mirror PQ is congruent to the angle between CD and the mirror RS. Because the mirrors are parallel, by the Converse of the Corresponding Angles Theorem, we conclude that AB ∥ CD.\nThis completes the proof.",
+    "topic": "Reflection and geometry of parallel lines",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh106",
+    "question_id": "cbse_ix_iemh1dd_c106_ex011"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "question_text": "Why does the conductivity of a solution decrease with dilution?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Because when a solution is diluted, the number of ions per unit volume decreases, reducing the number of charge carriers available to conduct electricity.",
+    "explanation": "Conductivity (κ) is directly related to the concentration of ions in solution. Diluting the solution lowers the ion concentration, which means fewer ions are present to carry the electric current. This decrease in ion density leads to lower conductivity. This concept is discussed in the section on electrolytic conductance where the effect of dilution on the number of ions and overall conductivity is explained.",
+    "topic": "Conductivity of Electrolytic Solutions",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "08_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in007"
+  },
+  {
+    "question_text": "Suggest a way to determine the Λₘ° value of water.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "One can determine the Λₘ° (limiting molar conductivity) of water by measuring the conductivity of ultrapure water using a calibrated conductivity cell to first determine its conductivity, and then calculate its molar conductivity using the relation Λₘ = κ/c, where c is the molar concentration of water (approximately 55.5 mol/L). Extrapolating the measured conductivity to zero impurity or ion concentration gives the limiting value.",
+    "explanation": "The approach involves using a conductivity cell with a known cell constant (determined by calibration with a standard solution such as KCl) to measure the very low conductivity of ultrapure water. Since Λₘ is defined as the conductivity of the solution per mole of substance (Λₘ = κ/V, where V is the volume containing one mole of the substance), and knowing that pure water has a concentration of about 55.5 mol/L, one can compute Λₘ. Extrapolating to the limit where impurities and self-ionization effects are minimized gives Λₘ° for water. This method is analogous to how limiting molar conductivities are determined for electrolytes.",
+    "topic": "Conductance and Molar Conductivity",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "08_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in008"
+  },
+  {
+    "question_text": "The molar conductivity of 0.025 mol L⁻¹ methanoic acid is 46.1 S cm² mol⁻¹. Calculate its degree of dissociation and dissociation constant. Given λ⁰(H⁺) = 349.6 S cm² mol⁻¹ and λ⁰(HCOO⁻) = 54.6 S cm² mol⁻¹.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Degree of dissociation (α) ≈ 0.114 (or 11.4%) and the dissociation constant Kₐ ≈ 3.67 × 10⁻⁴.",
+    "explanation": "First, calculate the limiting molar conductivity (Λₘ°) for methanoic acid using the Kohlrausch law: Λₘ° = λ⁰(H⁺) + λ⁰(HCOO⁻) = 349.6 + 54.6 = 404.2 S cm² mol⁻¹. The degree of dissociation is given by α = Λₘ / Λₘ° = 46.1 / 404.2 ≈ 0.114. Then, using the relation for weak electrolytes, the dissociation constant is Kₐ = (cα²) / (1 – α). With c = 0.025 mol L⁻¹, α² ≈ 0.012996 and (1 – α) ≈ 0.886, we get Kₐ ≈ (0.025 × 0.012996) / 0.886 ≈ 0.000367. Thus, the final values are approximately 11.4% for the degree of dissociation and 3.67 × 10⁻⁴ for Kₐ.",
+    "topic": "Electrolytic Conductance and Molar Conductivity",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "08_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in009"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "question_text": "What are the various public health measures, which you would suggest as safeguard against infectious diseases?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Measures include maintaining personal hygiene; ensuring consumption of clean drinking water, food, vegetables, and fruits; proper disposal of waste and excreta; periodic cleaning and disinfection of water reservoirs, pools, and tanks; vector control measures such as elimination of stagnant water and use of mosquito nets; and adopting standard hygiene practices in public catering.",
+    "explanation": "The chapter emphasizes that both personal and public hygiene are important in preventing infectious diseases. Personal hygiene involves keeping the body clean and ensuring safe food and water consumption, while public hygiene involves proper waste disposal and disinfection of water storage areas, along with measures to control disease vectors.",
+    "topic": "Prevention and Control Measures",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lebo107",
+    "question_id": "cbse_xii_lebo1dd_c107_ex001"
+  }
+]

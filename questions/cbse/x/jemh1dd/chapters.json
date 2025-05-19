@@ -1,0 +1,60 @@
+{
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Real Numbers"
+      },
+      {
+        "number": 2,
+        "name": "Polynomials"
+      },
+      {
+        "number": 3,
+        "name": "Pair of Linear Equations in Two Variables"
+      },
+      {
+        "number": 4,
+        "name": "Quadratic Equations"
+      },
+      {
+        "number": 5,
+        "name": "Arithmetic Progressions"
+      },
+      {
+        "number": 6,
+        "name": "Triangles"
+      },
+      {
+        "number": 7,
+        "name": "Coordinate Geometry"
+      },
+      {
+        "number": 8,
+        "name": "Introduction to Trigonometry"
+      },
+      {
+        "number": 9,
+        "name": "Some Applications of Trigonometry"
+      },
+      {
+        "number": 10,
+        "name": "Circles"
+      },
+      {
+        "number": 11,
+        "name": "Areas Related to Circles"
+      },
+      {
+        "number": 12,
+        "name": "Surface Areas and Volumes"
+      },
+      {
+        "number": 13,
+        "name": "Statistics"
+      },
+      {
+        "number": 14,
+        "name": "Probability"
+      }
+    ]
+  }

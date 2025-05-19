@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Find the angle between the lines whose direction ratios are a, b, c and (b – c, c – a, a – b).",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The lines are perpendicular so the angle between them is 90°.",
+    "explanation": "Let the direction ratios of the first line be U = (a, b, c) and of the second line be V = (b – c, c – a, a – b). The angle θ between the two lines is given by cos θ = (U · V) / (|U||V|). Compute the dot product:\n\n  U · V = a(b – c) + b(c – a) + c(a – b) = ab – ac + bc – ab + ca – bc = 0.\n\nSince the dot product is zero, cos θ = 0, which implies θ = 90°.\n\nThus, the two lines are perpendicular.",
+    "topic": "Angle Between Lines",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh205",
+    "question_id": "cbse_xii_lemh2dd_c205_ex021"
+  },
+  {
+    "question_text": "Find the equation of a line parallel to the x-axis and passing through the origin.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A possible answer is: x = t, y = 0, z = 0 (or in vector form, r = t i, where t ∈ ℝ).",
+    "explanation": "A line parallel to the x-axis has a direction vector along the x-axis, namely (1, 0, 0). Since the line passes through the origin (0, 0, 0), its vector equation is given by:\n\n  r = (0, 0, 0) + t(1, 0, 0) = t i.\n\nIn parametric form, this is: x = t, y = 0, z = 0, where t is a real parameter.",
+    "topic": "Equation of a Line in Space",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh205",
+    "question_id": "cbse_xii_lemh2dd_c205_ex022"
+  },
+  {
+    "question_text": "If the lines with direction ratios (2, 3, 1) and (2, 3, k) are perpendicular, find the value of k.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "k = -13",
+    "explanation": "Two lines are perpendicular if the dot product of their direction vectors is zero. Here the direction vectors are:\n\n  For line 1: D₁ = (2, 3, 1)\n  For line 2: D₂ = (2, 3, k)\n\nTheir dot product is:\n\n  D₁ · D₂ = 2×2 + 3×3 + 1×k = 4 + 9 + k = 13 + k.\n\nSetting this equal to zero gives:\n\n  13 + k = 0  ⇒  k = -13.",
+    "topic": "Angle Between Lines / Perpendicularity",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh205",
+    "question_id": "cbse_xii_lemh2dd_c205_ex023"
+  },
+  {
+    "question_text": "Find the shortest distance between the lines given by\n  r = (6, 2, 2) + λ (2, -2, 2)  and  r = (-4, 0, 0) + μ (3, 2, 2).",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The shortest distance between the lines is (2√42)/3.",
+    "explanation": "For skew lines given in vector form\n  L₁: r = a₁ + λ b₁  and  L₂: r = a₂ + μ b₂,\nthe shortest distance d is given by:\n\n  d = |(a₂ – a₁) · (b₁ × b₂)| / |b₁ × b₂|.\n\nHere, a₁ = (6, 2, 2), b₁ = (2, -2, 2), a₂ = (-4, 0, 0), and b₂ = (3, 2, 2).\n\nStep 1: Compute a₂ – a₁:\n  a₂ – a₁ = (-4 – 6, 0 – 2, 0 – 2) = (-10, -2, -2).\n\nStep 2: Find the cross product b₁ × b₂:\n  b₁ × b₂ = | i   j   k |\n       | 2  -2   2 |\n       | 3   2   2 |\n\nCalculate:\n  i-component: (–2 × 2 – 2 × 2) = (–4 – 4) = –8\n  j-component: –[2 × 2 – 2 × 3] = –(4 – 6) = 2\n  k-component: (2 × 2 – (–2) × 3) = (4 + 6) = 10\n\nThus, b₁ × b₂ = (–8, 2, 10).\n\nStep 3: Compute the magnitude of b₁ × b₂:\n  |b₁ × b₂| = √( (–8)² + 2² + 10² ) = √(64 + 4 + 100) = √168 = 2√42.\n\nStep 4: Compute the dot product (a₂ – a₁) · (b₁ × b₂):\n  (–10, –2, –2) · (–8, 2, 10) = (–10)(–8) + (–2)(2) + (–2)(10) = 80 – 4 – 20 = 56.\n\nStep 5: Finally, the shortest distance is:\n  d = |56| / (2√42) = 28/√42 = (28√42)/42 = (2√42)/3.",
+    "topic": "Shortest Distance Between Skew Lines",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh205",
+    "question_id": "cbse_xii_lemh2dd_c205_ex024"
+  },
+  {
+    "question_text": "Find the vector equation of the line passing through the point (1, 2, 4) and perpendicular to the two lines given by\n  (x – 8)/3 = (y + 19)/–16 = (z – 10)/7  and  (x – 15)/3 = (y – 29)/8 = (z – 5)/–5.",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The required line has the vector equation: r = (1, 2, 4) + λ (2, 3, 6).",
+    "explanation": "Step 1: Determine the direction ratios of the given lines. \n• For the first line, the direction ratios are (3, –16, 7).\n• For the second line, the direction ratios are (3, 8, –5).\n\nStep 2: A line perpendicular to both given lines must have a direction vector that is the cross product of the two direction vectors.\n\nCompute d = (3, –16, 7) × (3, 8, –5):\n\n  d = |  i    j    k  |\n    |  3  –16   7  |\n    |  3   8  –5  |\n\nFor the i-component:\n  = (–16)(–5) – (7)(8) = 80 – 56 = 24.\n\nFor the j-component (with a negative sign):\n  = –[3(–5) – 7(3)] = –(–15 – 21) = 36.\n\nFor the k-component:\n  = 3(8) – (–16)(3) = 24 + 48 = 72.\n\nThus, d = (24, 36, 72), which can be simplified by dividing each component by 12 to give (2, 3, 6).\n\nStep 3: Since the required line passes through (1, 2, 4) and has direction vector (2, 3, 6), its vector equation is:\n\n  r = (1, 2, 4) + λ (2, 3, 6),  λ ∈ ℝ.",
+    "topic": "Vector Equation of a Line and Perpendicularity",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh205",
+    "question_id": "cbse_xii_lemh2dd_c205_ex025"
+  }
+]

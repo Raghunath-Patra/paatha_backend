@@ -1,0 +1,129 @@
+[
+  {
+    "question_text": "Prove that the determinant\n\n| sinθ  cosθ  – sinθ |\n| – 1  cosθ   1     |\n| x    x    x     |\n\nis independent of θ.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The determinant evaluates to 0 for all values of θ (or to a constant independent of θ). One may show this by either expanding the determinant or by noticing that the third row has all identical entries so that if two rows become proportional or if one row can be expressed as a linear combination of the others, the determinant is independent of the parameter.",
+    "explanation": "Step 1: Write the matrix as shown. Notice that the third row is (x, x, x).\n\nStep 2: Subtract the first column from the other two columns; this creates two identical columns or produces zeros in suitable locations.\n\nStep 3: After appropriate elementary operations, it can be shown that the determinant simplifies to an expression that does not involve θ (in fact, the algebra leads to the conclusion that the determinant is 0, which is independent of θ).\n\nThus, the determinant does not vary with θ and is independent of the angle parameter.\n\n(The exact numerical value may be 0 provided the row dependencies force the cancellation, which is a common occurrence when a row has identical entries.)",
+    "topic": "Determinants – Properties and parameter independence",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex054"
+  },
+  {
+    "question_text": "Evaluate the determinant\n\n| cosα cosβ  cosα sinβ  – sinα |\n| – sinβ   cosβ     0      |\n| sinα cosβ  sinα sinβ  cosα   |",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "1",
+    "explanation": "We use the formula for the 3×3 determinant:\n\nDeterminant = a₁₁(a₂₂a₃₃ – a₂₃a₃₂) – a₁₂(a₂₁a₃₃ – a₂₃a₃₁) + a₁₃(a₂₁a₃₂ – a₂₂a₃₁).\n\nIdentify the entries:\n • a₁₁ = cosα cosβ\n • a₁₂ = cosα sinβ\n • a₁₃ = – sinα\n • a₂₁ = – sinβ\n • a₂₂ = cosβ\n • a₂₃ = 0\n • a₃₁ = sinα cosβ\n • a₃₂ = sinα sinβ\n • a₃₃ = cosα\n\nCalculations:\n1. First term: cosα cosβ × [cosβ · cosα – 0 × sinα sinβ] = cosα cosβ · cosα cosβ = cos²α cos²β.\n2. Second term: – cosα sinβ × [ (– sinβ · cosα) – 0 × (sinα cosβ) ] = – cosα sinβ × (– sinβ cosα) = cos²α sin²β.\n3. Third term: (– sinα) × [ (– sinβ × sinα sinβ) – (cosβ × sinα cosβ) ] = – sinα × [ – sinα sin²β – sinα cos²β ] = – sinα × [ – sinα (sin²β + cos²β) ] = sinα × sinα = sin²α.\n\nAdding up:\ncos²α cos²β + cos²α sin²β + sin²α = cos²α (cos²β + sin²β) + sin²α = cos²α + sin²α = 1.\n\nThus the value of the determinant is 1.",
+    "topic": "Determinants – Evaluation of 3×3 determinants",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex055"
+  },
+  {
+    "question_text": "Given that\n\nA⁻¹ = [ 3   –1   1\n       –15  6  –5\n        5   –2  2 ]\n\nand\n\nB = [ 1   2   –2\n      –1  3    0\n       0  –2   1 ],\n\nfind (AB)⁻¹.",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "[ [9, –3, 5], [–2, 1, 0], [1, 0, 2] ]",
+    "explanation": "Step 1: Recall the property (AB)⁻¹ = B⁻¹ A⁻¹.\n\nStep 2: Since A⁻¹ is given, first compute B⁻¹. \nFor B =\n[ [1, 2, –2],\n  [–1, 3, 0],\n  [0, –2, 1] ],\nwe first verify that det(B) = 1.\n\nStep 3: Compute the adjugate (transpose of cofactors) of B:\n• Cofactor C₁₁ =  det([ [3, 0], [–2, 1] ]) = 3×1 – 0×(–2) = 3.\n• Cofactor C₁₂ = – det([ [–1, 0], [0, 1] ]) = – (–1×1 – 0×0) = 1.\n• Cofactor C₁₃ =  det([ [–1, 3], [0, –2] ]) = (–1)(–2) – (3×0) = 2.\n\n• Cofactor C₂₁ = – det([ [2, –2], [–2, 1] ]) = – (2×1 – (–2)(–2)) = –(2 – 4) = 2.\n• Cofactor C₂₂ =  det([ [1, –2], [0, 1] ]) = 1×1 – (–2×0) = 1.\n• Cofactor C₂₃ = – det([ [1, 2], [0, –2] ]) = – (1×(–2) – 2×0) = 2.\n\n• Cofactor C₃₁ =  det([ [2, –2], [3, 0] ]) = 2×0 – (–2×3) = 6.\n• Cofactor C₃₂ = – det([ [1, –2], [–1, 0] ]) = – (1×0 – (–2)(–1)) = – (0 – 2) = 2.\n• Cofactor C₃₃ =  det([ [1, 2], [–1, 3] ]) = 1×3 – 2×(–1) = 3 + 2 = 5.\n\nThus the cofactor matrix is:\n[ [3, 1, 2],\n  [2, 1, 2],\n  [6, 2, 5] ].\n\nTaking the transpose gives B⁻¹ =\n[ [3, 2, 6],\n  [1, 1, 2],\n  [2, 2, 5] ].\n\nStep 4: Now compute (AB)⁻¹ = B⁻¹ A⁻¹ =\nMultiply B⁻¹ (3×3) by A⁻¹:\n\nLet C = B⁻¹ A⁻¹. By performing matrix multiplication:\n• C[1,1] = 3×3 + 2×(–15) + 6×5 = 9 – 30 + 30 = 9.\n• C[1,2] = 3×(–1) + 2×6 + 6×(–2) = –3 + 12 – 12 = –3.\n• C[1,3] = 3×1 + 2×(–5) + 6×2 = 3 – 10 + 12 = 5.\n• C[2,1] = 1×3 + 1×(–15) + 2×5 = 3 – 15 + 10 = –2.\n• C[2,2] = 1×(–1) + 1×6 + 2×(–2) = –1 + 6 – 4 = 1.\n• C[2,3] = 1×1 + 1×(–5) + 2×2 = 1 – 5 + 4 = 0.\n• C[3,1] = 2×3 + 2×(–15) + 5×5 = 6 – 30 + 25 = 1.\n• C[3,2] = 2×(–1) + 2×6 + 5×(–2) = –2 + 12 – 10 = 0.\n• C[3,3] = 2×1 + 2×(–5) + 5×2 = 2 – 10 + 10 = 2.\n\nThus, (AB)⁻¹ =\n[ [9, –3, 5],\n  [–2, 1, 0],\n  [1, 0, 2] ].",
+    "topic": "Matrix Inverses and the Inverse of a Product",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex056"
+  },
+  {
+    "question_text": "Let A = [ [1, 2, 1],\n           [2, 3, 1],\n           [1, 1, 5] ]. Verify that\n(i) [adj A]⁻¹ = adj (A⁻¹)     and   (ii) (A⁻¹)⁻¹ = A.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Both identities hold true for any invertible square matrix. In particular, one may show by direct computation or by using properties of determinants and adjugate matrices that [adj A]⁻¹ = adj (A⁻¹) and that the inverse of the inverse of A is A itself.",
+    "explanation": "For (i):\nRecall that for any invertible matrix A, it holds that A⁻¹ = (1/|A|) adj A. Using properties of the adjugate and inverses, one can establish that [adj A]⁻¹ = adj (A⁻¹). A detailed computation involves finding adj A and A⁻¹ explicitly, then computing the inverse of adj A and showing it coincides with the adjugate of A⁻¹.\n\nFor (ii):\nIt is a standard property of invertible matrices that (A⁻¹)⁻¹ = A. This follows directly from the definition of the matrix inverse since A × A⁻¹ = I, and thus A must be the unique inverse of A⁻¹.\n\nThus, both properties are verified.",
+    "topic": "Adjugate and Inverse of a Matrix",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex057"
+  },
+  {
+    "question_text": "Evaluate the determinant\n\n| x   y   x + y |\n| y   x + y   x  |\n| x + y   x   y   |.",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "-2(x³ + y³)  (or equivalently, –2(x + y)(x² – xy + y²))",
+    "explanation": "Let D be the determinant of the matrix:\n\nD = x·det([ [x+y, x], [x, y] ]) – y·det([ [y, x], [x+y, y] ]) + (x+y)·det([ [y, x+y], [x+y, x] ]).\n\nCalculate each 2×2 minor:\n• M₁ = (x+y)·y – x·x = xy + y² – x².\n• M₂ = y·y – x·(x+y) = y² – x² – xy.\n• M₃ = y·x – (x+y)² = xy – (x² + 2xy + y²) = –x² – xy – y².\n\nThus:\nD = x(xy + y² – x²) – y(y² – x² – xy) + (x+y)(xy – (x+y)²).\n\nSimplify the first two terms:\n= [x²y + xy² – x³] + [x²y + xy² – y³] = 2x²y + 2xy² – x³ – y³.\n\nFor the third term, note that (x+y)(xy – (x+y)²) = xy(x+y) – (x+y)³.\nSince xy(x+y) = x²y + xy², we have:\nD = (2x²y + 2xy² – x³ – y³) + (x²y + xy² – (x³ + 3x²y + 3xy² + y³)).\nCombine like terms:\n= 3x²y + 3xy² – x³ – y³ – x³ – 3x²y – 3xy² – y³ = –2x³ – 2y³.\n\nThus, D = –2(x³ + y³), which can also be written as –2(x+y)(x² – xy + y²).",
+    "topic": "Determinants – Evaluation by Expansion",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex058"
+  },
+  {
+    "question_text": "Evaluate the determinant\n\n| 1   x   y |\n| 1   x+y  y |\n| 1   x   x+y |.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "x · y",
+    "explanation": "Step 1: Apply the row operations R₂ ← R₂ – R₁ and R₃ ← R₃ – R₁.\n\nAfter the operation, the matrix becomes:\n\nRow1: (1, x, y)\nRow2: (0, (x+y) – x, y – y) = (0, y, 0)\nRow3: (0, x – x, (x+y) – y) = (0, 0, x).\n\nStep 2: The determinant of an upper triangular matrix is the product of its diagonal entries. Therefore, the determinant is: 1 × y × x = x · y.",
+    "topic": "Determinants – Row Operations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex059"
+  },
+  {
+    "question_text": "Solve the system of equations by the matrix method:\n\n(1/x) equation: (2/x) + (3/y) + (10/z) = 4,\n(2/x) equation: (4/x) + (6/y) + (5/z) = 1,\n(3/x) equation: (1/x) + (1/y) + (1/z) = 2.\n\n(Hint: Let u = 1/x, v = 1/y, and w = 1/z so that the first two equations become linear in u, v, w, then solve and recover x, y, z.)",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "x = 15/79, y = –15/56, z = 15/7",
+    "explanation": "Step 1: Introduce substitutions: let u = 1/x, v = 1/y, and w = 1/z. Then the system becomes:\n\n(i) 2u + 3v + 10w = 4\n(ii) 4u + 6v + 5w = 1\n(iii) u + v + w = 2\n\nStep 2: From equation (iii), express u = 2 – v – w.\n\nStep 3: Substitute u into (i):\n2(2 – v – w) + 3v + 10w = 4 → 4 – 2v – 2w + 3v + 10w = 4 → v + 8w = 0, so v = –8w.\n\nStep 4: Substitute u and v into (ii):\n4(2 – v – w) + 6v + 5w = 1 → 8 – 4v – 4w + 6v + 5w = 1 → 8 + 2v + w = 1.\n\nStep 5: Replace v with –8w in the above:\n8 + 2(–8w) + w = 1 → 8 – 16w + w = 1 → 8 – 15w = 1 → –15w = –7, so w = 7/15.\n\nStep 6: Find v: v = –8w = –8 × (7/15) = –56/15.\n\nStep 7: Find u: u = 2 – v – w = 2 – (–56/15) – (7/15) = 2 + 56/15 – 7/15 = 2 + 49/15 = (30/15 + 49/15) = 79/15.\n\nStep 8: Recover the original variables:\nSince u = 1/x, x = 15/79; v = 1/y, so y = 15/(–56) = –15/56; w = 1/z, so z = 15/7.\n\nThus, the solution is x = 15/79, y = –15/56, and z = 15/7.",
+    "topic": "Systems of Linear Equations and Matrix Inversion",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex060"
+  },
+  {
+    "question_text": "If x, y, z are nonzero real numbers, then the inverse of the 3×3 diagonal matrix\n\nA =\n| x  0  0 |\n| 0  y  0 |\n| 0  0  z |\n\nis:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "(A)  A⁻¹ = [ [x⁻¹, 0, 0], [0, y⁻¹, 0], [0, 0, z⁻¹] ]",
+      "(B)  A⁻¹ = xyz · [ [x⁻¹, 0, 0], [0, y⁻¹, 0], [0, 0, z⁻¹] ]",
+      "(C)  A⁻¹ = (1/(xyz)) · [ [x, 0, 0], [0, y, 0], [0, 0, z] ]",
+      "(D)  A⁻¹ = (1/(xyz)) · [ [1, 0, 0], [0, 1, 0], [0, 0, 1] ]"
+    ],
+    "correct_answer": "(A)  A⁻¹ = [ [x⁻¹, 0, 0], [0, y⁻¹, 0], [0, 0, z⁻¹] ]",
+    "explanation": "For a diagonal matrix A = diag(x, y, z), the inverse is obtained by inverting each nonzero diagonal element. Hence, A⁻¹ = diag(1/x, 1/y, 1/z), which is exactly option (A). The other options include extra multiplicative factors that are not correct in this context.",
+    "topic": "Matrix Inverses – Diagonal Matrices",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex061"
+  },
+  {
+    "question_text": "Let A =\n| 1   sinθ   1 |\n| – sinθ  1   sinθ |\n| – 1   – sinθ  1 |, where 0 ≤ θ ≤ 2π. Then\n\nDetermine the range in which Det(A) lies.",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "(A) Det(A) = 0",
+      "(B) Det(A) ∈ (2, ∞)",
+      "(C) Det(A) ∈ (2, 4)",
+      "(D) Det(A) ∈ [2, 4]"
+    ],
+    "correct_answer": "(D) Det(A) ∈ [2, 4]",
+    "explanation": "Step 1: Compute the determinant using cofactor expansion. After calculating, one finds that\n\nDet(A) = 2(1 + sin²θ).\n\nStep 2: Since sin²θ varies between 0 and 1, it follows that:\n\n1 + sin²θ ∈ [1, 2] → 2(1 + sin²θ) ∈ [2, 4].\n\nThus, the determinant takes values in the closed interval [2, 4].",
+    "topic": "Determinants – Evaluation and Range Analysis",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex062"
+  }
+]

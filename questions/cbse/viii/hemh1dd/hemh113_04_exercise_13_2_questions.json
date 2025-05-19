@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Draw the graph for the following table of values showing the cost of apples. Use a suitable scale on the axes.\n\nNumber of apples: 1, 2, 3, 4, 5\nCost (in ₹): 5, 10, 15, 20, 25\n\nPlot the points and join them to form the graph.",
+    "type": "Long Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The graph consists of the points (1,5), (2,10), (3,15), (4,20), (5,25) plotted on a coordinate plane with the horizontal axis representing the number of apples and the vertical axis representing the cost in rupees. The points lie on a straight line which indicates a linear relationship with the equation Cost = 5 × (Number of apples).",
+    "explanation": "Step 1: Choose a suitable scale for the axes (for example, 1 unit on the horizontal axis for each apple and 5 units on the vertical axis for every ₹5).\nStep 2: Plot the points (1,5), (2,10), (3,15), (4,20), and (5,25).\nStep 3: Join these points with a straight line. \nSince the relation is direct, the resulting graph is linear, showing that the cost is directly proportional to the number of apples.",
+    "topic": "Graphing Linear Relationships, Direct Proportion",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex008"
+  },
+  {
+    "question_text": "Draw the graph for the following table of values showing the distance travelled by a car. Use a suitable scale on the axes.\n\nTime (in hours): 6 a.m., 7 a.m., 8 a.m., 9 a.m.\nDistance (in km): 40, 80, 120, 160\n\nAfter drawing the graph, answer the following:\n(i) How much distance did the car cover during the period 7.30 a.m. to 8 a.m.?\n(ii) What was the time when the car had covered a distance of 100 km since its start?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) The car travels at a constant rate. From 7 a.m. to 8 a.m., the distance increases from 80 km to 120 km. Hence, in one hour the car covers 40 km, so in 30 minutes (half an hour) it will cover 20 km.\n(ii) The relationship between time and distance is linear. The graph shows that in one hour the car covers 40 km. To find the time when the distance reaches 100 km, note that 100 km lies midway between 80 km (at 7 a.m.) and 120 km (at 8 a.m.), therefore the car reaches 100 km at 7:30 a.m.",
+    "explanation": "Step 1: Plot the points corresponding to the given times and distances on a graph (with time on the horizontal axis and distance on the vertical axis).\nStep 2: Draw a straight line through the points since the relationship is linear.\nStep 3: (i) The graph shows that in one hour the car travels 40 km. Thus, in 30 minutes it travels half of 40 km, which is 20 km.\nStep 4: (ii) To find the time corresponding to 100 km, observe that 100 km lies halfway between 80 km (7 a.m.) and 120 km (8 a.m.), so the corresponding time is 7:30 a.m.",
+    "topic": "Graphing Linear Functions, Constant Speed, Direct Proportionality",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex009"
+  },
+  {
+    "question_text": "Draw the graph for the following table of values showing the simple interest on deposits for one year. Use a suitable scale on the axes.\n\nDeposit (in ₹): 1000, 2000, 3000, 4000, 5000\nSimple Interest (in ₹): 80, 160, 240, 320, 400\n\nAfter plotting the graph, answer the following:\n(i) Does the graph pass through the origin?\n(ii) Use the graph to find the interest on ₹2500 for a year.\n(iii) To get an interest of ₹280 per year, how much money should be deposited?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) Since the simple interest is directly proportional to the deposit, the line representing the relationship is linear and will pass through the origin (0,0) if the scale is extended, even though the table does not list 0.\n(ii) For a deposit of ₹2500, the interest is calculated using the rate, which is 80 per 1000 rupees. Thus, SI = (80/1000) × 2500 = ₹200.\n(iii) To obtain a simple interest of ₹280, using the rate (80 per 1000), the required deposit is found by (280/80) × 1000 = ₹3500.",
+    "explanation": "Step 1: Plot the points (1000,80), (2000,160), (3000,240), (4000,320), and (5000,400) using appropriate scales (e.g., horizontal: 1 unit = ₹1000, vertical: 1 unit = ₹80).\nStep 2: Join the points to form a straight line.\nStep 3: (i) Because the interest is directly proportional to the deposit, the line would start at the origin (0,0) even though the table begins at 1000.\nStep 4: (ii) Locate ₹2500 on the horizontal axis; using the proportional relationship, the corresponding interest is found to be ₹200.\nStep 5: (iii) To find the deposit required to earn ₹280 interest, set up the proportion: (Deposit/1000) = (Interest/80). Solving gives Deposit = (280/80) × 1000 = ₹3500.",
+    "topic": "Direct Proportionality, Graphical Representation, Simple Interest",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex010"
+  },
+  {
+    "question_text": "Draw a graph for each of the following cases:\n\n(i) For a square, the relationship between the side (in cm) and its perimeter (in cm) is given by:\nSide (in cm): 2, 3, 3.5, 5, 6\nPerimeter (in cm): 8, 12, 14, 20, 24\nIs the graph linear?\n\n(ii) For a square, the relationship between the side (in cm) and its area (in cm²) is given by:\nSide (in cm): 2, 3, 4, 5, 6\nArea (in cm²): 4, 9, 16, 25, 36\nIs the graph linear?",
+    "type": "Long Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) The graph of side versus perimeter is linear because the perimeter P of a square is given by P = 4 × (side), and the data confirms this linear relationship. \n\n(ii) The graph of side versus area is not linear because the area A of a square is given by A = (side)², which is a quadratic relationship, hence the plotted points lie on a parabolic curve.",
+    "explanation": "For part (i): \nStep 1: Plot the points (2,8), (3,12), (3.5,14), (5,20), and (6,24) on a graph with side length on the horizontal axis and perimeter on the vertical axis.\nStep 2: Join the points to form a straight line. This confirms that the relationship is linear as it follows the equation Perimeter = 4 × side.\n\nFor part (ii): \nStep 1: Plot the points (2,4), (3,9), (4,16), (5,25), and (6,36), with side length on the horizontal axis and area on the vertical axis.\nStep 2: Connect the points. The resulting curve is not a straight line but a parabola, indicating that the area increases as the square of the side.\nThus, the first graph is linear and the second is not.",
+    "topic": "Graphing, Linear vs Non-linear Relationships, Quadratic Functions",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh113",
+    "question_id": "cbse_viii_hemh1dd_c113_ex011"
+  }
+]

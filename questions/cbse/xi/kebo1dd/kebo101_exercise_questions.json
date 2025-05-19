@@ -1,0 +1,142 @@
+[
+  {
+    "question_text": "Why are living organisms classified?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "To organize and study the diversity of organisms and to facilitate identification, comparison, and communication about them.",
+    "explanation": "Classification groups organisms based on shared characteristics, making it easier to study and understand biological diversity, relationships, and evolutionary history.",
+    "topic": "Classification and Biodiversity",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex001"
+  },
+  {
+    "question_text": "Why are the classification systems changing every now and then?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Because new research and discoveries, including molecular and genetic studies, continually improve our understanding of the relationships between organisms.",
+    "explanation": "Advances in science provide new information about the characteristics and evolutionary relationships of organisms, necessitating updates to the classification system to keep it current and accurate.",
+    "topic": "Taxonomy and Systematics",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex002"
+  },
+  {
+    "question_text": "What different criteria would you choose to classify people that you meet often?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Possible criteria include age, occupation, cultural background, interests, behaviors, and physical characteristics.",
+    "explanation": "Unlike biological classification, classifying people involves sociological and demographic factors. The answer may vary; however, it should include various observable and measurable criteria such as age or profession that help distinguish different groups.",
+    "topic": "Classification Concepts",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex003"
+  },
+  {
+    "question_text": "What do we learn from identification of individuals and populations?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "We learn about the unique characteristics of organisms, their genetic diversity, and their relationships within and between populations.",
+    "explanation": "Identification provides detailed insights into the diversity and specific traits of individuals and groups, informing studies in evolution, adaptation, and conservation.",
+    "topic": "Identification and Taxonomy",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex004"
+  },
+  {
+    "question_text": "Given below is the scientific name of Mango. Identify the correctly written name.",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Mangifera Indica",
+      "Mangifera indica",
+      "Mangifera indica Linn.",
+      "Mangifera indica (Linn.)"
+    ],
+    "correct_answer": "Mangifera indica",
+    "explanation": "In binomial nomenclature, the genus name is capitalized and the species epithet is in lowercase. Hence, 'Mangifera indica' is correctly written.",
+    "topic": "Nomenclature",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex005"
+  },
+  {
+    "question_text": "Define a taxon. Give some examples of taxa at different hierarchical levels.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A taxon is a group or category of organisms classified together based on shared characteristics. Examples include species (Homo sapiens), genus (Panthera), family (Felidae), order (Carnivora), class (Mammalia), phylum (Chordata), and kingdom (Animalia).",
+    "explanation": "The term taxon refers to any unit in the classification hierarchy. The chapter provides examples from species up to kingdom, which organize organisms on the basis of similarity and evolutionary relationships.",
+    "topic": "Taxonomic Categories",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex006"
+  },
+  {
+    "question_text": "Can you identify the correct sequence of taxonomical categories? Choose the correct option.",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "(a) Species, Order, Phylum, Kingdom",
+      "(b) Genus, Species, Order, Kingdom",
+      "(c) Species, Genus, Order, Phylum",
+      "(d) Species, Genus, Family, Order, Class, Phylum, Kingdom"
+    ],
+    "correct_answer": "(d) Species, Genus, Family, Order, Class, Phylum, Kingdom",
+    "explanation": "The complete taxonomic hierarchy starts with species and proceeds to genus, family, order, class, phylum (or division in plants), and kingdom. Option (d) correctly represents this full sequence.",
+    "topic": "Taxonomic Hierarchy",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex007"
+  },
+  {
+    "question_text": "Try to collect all the currently accepted meanings for the word 'species'. Discuss with your teacher the meaning of species in case of higher plants and animals on one hand, and bacteria on the other hand.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The answer should include definitions such as the biological species concept, morphological species concept, and ecological species concept, highlighting differences in criteria for higher plants/animals and bacteria.",
+    "explanation": "This question encourages exploration of the various definitions of 'species' and requires thoughtful discussion about how the term is applied differently in organisms that reproduce sexually (plants and animals) compared to asexually reproducing bacteria.",
+    "topic": "Species Concept",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex008"
+  },
+  {
+    "question_text": "Define and understand the following terms: Phylum, Class, Family, Order, Genus.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Phylum: a group of related classes; Class: a group of related orders; Family: a group of related genera; Order: a group of related families; Genus: a group of related species.",
+    "explanation": "Each term represents a hierarchical level in the classification system. The definitions underline how organisms are progressively grouped into broader categories based on shared features.",
+    "topic": "Taxonomic Categories",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex009"
+  },
+  {
+    "question_text": "Illustrate the taxonomical hierarchy with suitable examples of a plant and an animal.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "For an animal (human): Species: sapiens; Genus: Homo; Family: Hominidae; Order: Primata; Class: Mammalia; Phylum: Chordata; Kingdom: Animalia. For a plant (wheat): Species: aestivum; Genus: Triticum; Family: Poaceae; Order: Poales; Class: Monocotyledonae; Phylum (Division): Angiospermae; Kingdom: Plantae.",
+    "explanation": "The answer requires outlining the full taxonomic hierarchy from species to kingdom using real examples. This demonstrates an understanding of how organisms are organized in a systematic classification based on shared characteristics.",
+    "topic": "Taxonomic Hierarchy",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "kebo101",
+    "question_id": "cbse_xi_kebo1dd_c101_ex010"
+  }
+]

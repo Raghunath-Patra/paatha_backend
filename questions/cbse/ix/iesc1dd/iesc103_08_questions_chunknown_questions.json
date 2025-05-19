@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Write down the formulae of sodium oxide, aluminium chloride, sodium sulphide, and magnesium hydroxide.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Sodium oxide: Na₂O, Aluminium chloride: AlCl₃, Sodium sulphide: Na₂S, Magnesium hydroxide: Mg(OH)₂",
+    "explanation": "This question requires students to write the chemical formulae for simple binary compounds using the principles of valency and the criss-cross method. For example, sodium (Na) has a valency of +1 and oxygen (O) has a valency of -2; hence, two sodium atoms are needed to balance one oxygen atom, yielding Na₂O. Similar reasoning applies to the other compounds.",
+    "topic": "Writing Chemical Formulae, Valency, Chemical Composition",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic007"
+  },
+  {
+    "question_text": "Write down the names of the compounds represented by the following chemical formulas: Al₂(SO₄)₃, CaCl₂, K₂SO₄, KNO₃, and CaCO₃.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Aluminium sulphate, Calcium chloride, Potassium sulphate, Potassium nitrate, Calcium carbonate",
+    "explanation": "Students need to identify the names corresponding to given chemical formulas using the rules of chemical nomenclature. For ionic compounds, the metal name is written first followed by the non-metal or the name of the polyatomic ion. For instance, Al₂(SO₄)₃ is named aluminium sulphate because the aluminium ion (Al³⁺) combines with the sulphate ion (SO₄²⁻) in the correct stoichiometric ratio.",
+    "topic": "Chemical Nomenclature, Ionic Compounds",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic008"
+  },
+  {
+    "question_text": "What is meant by the term chemical formula?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A chemical formula is a symbolic representation of the composition of a compound, showing the symbols of its constituent elements along with the number of atoms of each element.",
+    "explanation": "The chemical formula indicates both the elements present and their relative proportions in a compound. This notation is crucial for understanding the composition and predicting the properties and reactions of the substance. It is a concise way to represent chemical compounds in chemistry.",
+    "topic": "Chemical Composition, Chemical Representation",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic009"
+  },
+  {
+    "question_text": "State the total number of atoms present in a H₂S molecule and in a PO₄³⁻ ion.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "In a H₂S molecule, there are 3 atoms in total (2 hydrogen atoms and 1 sulfur atom). In a PO₄³⁻ ion, there are 5 atoms in total (1 phosphorus atom and 4 oxygen atoms).",
+    "explanation": "To determine the number of atoms in a molecule or ion, count the atoms of each element indicated by the formula. In H₂S, the subscript ₂ signifies 2 atoms of hydrogen and the absence of a subscript with S implies 1 atom. For the phosphate ion (PO₄³⁻), there is 1 phosphorus (P) atom and 4 oxygen (O) atoms, totaling 5 atoms.",
+    "topic": "Molecular Structure, Chemical Formula Interpretation",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic010"
+  }
+]

@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "question_text": "What is meant by the power of accommodation of the eye?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The power of accommodation of the eye refers to the eye's ability to change its focal length by altering the curvature of the lens, allowing it to focus on objects at varying distances.",
+    "explanation": "Accommodation involves the adjustment of the eye lens's shape by the ciliary muscles. When viewing distant objects, the lens becomes thinner, increasing its focal length. Conversely, when viewing close objects, the lens thickens, decreasing its focal length. This dynamic adjustment enables clear vision at different distances.",
+    "topic": "Power of Accommodation",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "A person with a myopic eye cannot see objects beyond 1.2 m distinctly. What type of corrective lens should be used to restore proper vision?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A concave lens should be used to correct myopia by diverging the incoming light rays, thereby shifting the image formation onto the retina.",
+    "explanation": "Myopia, or near-sightedness, occurs when the eye's focal length is too short, causing distant objects to appear blurry as their images are formed in front of the retina. A concave lens diverges light rays before they enter the eye, effectively increasing the eye's focal length and ensuring that distant objects are focused correctly on the retina.",
+    "topic": "Correction of Myopia",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "What is the far point and near point of the human eye with normal vision?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For a human eye with normal vision, the far point is at infinity, and the near point is approximately 25 centimeters.",
+    "explanation": "In a normally functioning eye, the far point, which is the maximum distance at which objects can be seen clearly, is at infinity. This means the eye can focus on objects that are very far away without any strain. The near point, the closest distance at which the eye can focus clearly, is typically around 25 cm in a young adult with normal vision. These points define the range within which the eye can comfortably and distinctly see objects.",
+    "topic": "Far Point and Near Point",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "A student has difficulty reading the blackboard while sitting in the last row. What could be the defect the child is suffering from? How can it be corrected?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The student is likely suffering from myopia (near-sightedness). This defect can be corrected by using concave lenses, which help diverge the incoming light rays so that the image of the blackboard is focused correctly on the retina.",
+    "explanation": "Difficulty in seeing distant objects clearly, such as a blackboard, is characteristic of myopia. In myopic eyes, the focal point of parallel incoming light rays lies in front of the retina instead of on it, causing distant objects to appear blurred. To correct this, concave lenses are prescribed. These lenses diverge the light rays before they enter the eye, effectively increasing the eye's focal length and ensuring that the image is formed on the retina, thus restoring clear vision for distant objects.",
+    "topic": "Myopia and Its Correction",
+    "bloom_level": "Apply"
+  }
+]
+```

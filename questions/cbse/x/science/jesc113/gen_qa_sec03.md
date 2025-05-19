@@ -1,0 +1,135 @@
+```json
+[
+  {
+    "question_text": "Calculate the total amount of waste (in kilograms) generated at home in a week if the average daily waste generation is 2.5 kg.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "17.5 kg",
+    "explanation": "Total weekly waste = daily waste × number of days = 2.5 kg/day × 7 days = 17.5 kg.",
+    "topic": "Waste Generation Calculation",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "If 60% of the daily household waste is biodegradable, how much biodegradable waste (in kg) is generated per day from the total daily waste of 3 kg?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1.8 kg",
+    "explanation": "Biodegradable waste = 60% of 3 kg = 0.60 × 3 = 1.8 kg.",
+    "topic": "Biodegradable Waste Calculation",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Which of the following is an advantage of disposable paper cups over disposable plastic cups?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Paper cups are cheaper to produce.",
+      "Paper cups are biodegradable.",
+      "Paper cups are more durable.",
+      "Paper cups have a higher thermal resistance."
+    ],
+    "correct_answer": "Paper cups are biodegradable.",
+    "explanation": "Option B is correct because paper cups can decompose naturally, reducing environmental impact. Option A is incorrect as paper cups are generally more expensive to produce. Option C is incorrect since paper cups are less durable than plastic. Option D is incorrect as both types have similar thermal resistance.",
+    "topic": "Environmental Impact of Disposable Products",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Analyze the potential environmental impact of increased use of non-biodegradable packaging materials.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The increased use of non-biodegradable packaging materials leads to greater accumulation of waste in landfills and natural environments, causing pollution and harming wildlife. These materials take hundreds of years to decompose, contributing to long-term environmental degradation. Additionally, the production and disposal of non-biodegradable materials consume more resources and energy, exacerbating the carbon footprint and contributing to climate change.",
+    "explanation": "The response should cover aspects such as waste accumulation, pollution, harm to wildlife, long decomposition times, resource and energy consumption, and contribution to climate change, demonstrating a comprehensive understanding of the environmental impacts.",
+    "topic": "Impact of Non-Biodegradable Waste",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "What percentage of total classroom waste is biodegradable if 70% of 1.5 kg daily waste is biodegradable?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1.05 kg",
+    "explanation": "Biodegradable waste = 70% of 1.5 kg = 0.70 × 1.5 = 1.05 kg.",
+    "topic": "Biodegradable Waste Calculation",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Evaluate the effectiveness of separate collection systems for biodegradable and non-biodegradable waste in reducing environmental pollution.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Separate collection systems enhance the efficiency of waste management by ensuring that biodegradable waste can be composted or otherwise processed appropriately, reducing landfill use and methane emissions. Non-biodegradable waste can be recycled or properly disposed of, minimizing pollution and conserving resources. Overall, such systems significantly reduce environmental pollution, promote recycling, and support sustainable waste management practices.",
+    "explanation": "The answer should discuss how separate collection aids in proper processing of different waste types, reduce landfill usage, decrease greenhouse gas emissions, enhance recycling rates, and contribute to overall environmental sustainability.",
+    "topic": "Waste Management Systems",
+    "bloom_level": "Evaluate"
+  },
+  {
+    "question_text": "Which of the following hazardous materials must be handled carefully when disposing of electronic items?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Lead",
+      "Biodegradable plastics",
+      "Organic waste",
+      "Water-based inks"
+    ],
+    "correct_answer": "Lead",
+    "explanation": "Option A is correct because lead is a hazardous material found in electronic waste that can contaminate the environment. Options B, C, and D are not typically considered hazardous in the context of electronic waste disposal.",
+    "topic": "Hazardous Materials in E-Waste",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Describe the recycling process of plastics and discuss its environmental impact.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The recycling process of plastics involves collection, sorting, cleaning, shredding, melting, and remolding into new products. This process reduces the need for raw materials, conserves energy, and decreases greenhouse gas emissions. However, it can also have environmental impacts such as energy consumption, potential release of pollutants during processing, and challenges with recycling certain types of plastics. Overall, recycling plastics helps mitigate pollution and resource depletion but must be managed sustainably to minimize negative impacts.",
+    "explanation": "The response should detail each step of the recycling process and critically assess both the positive and negative environmental impacts, demonstrating a balanced understanding.",
+    "topic": "Plastic Recycling",
+    "bloom_level": "Evaluate"
+  },
+  {
+    "question_text": "Using the formula for total waste generation \( W = H + C \), where \( W \) is total waste, \( H \) is household waste, and \( C \) is classroom waste, calculate the total waste generated per day if household waste is 4 kg and classroom waste is 1.5 kg.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "5.5 kg",
+    "explanation": "Total waste \( W = H + C = 4 \text{ kg} + 1.5 \text{ kg} = 5.5 \text{ kg} \).",
+    "topic": "Total Waste Calculation",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Which of the following best illustrates an Apply level question in Bloom's Taxonomy based on waste management?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "List the types of waste generated at home.",
+      "Explain the process of plastic recycling.",
+      "Calculate the biodegradable waste from 5 kg of total waste if 60% is biodegradable.",
+      "Describe the impact of non-biodegradable waste on the environment."
+    ],
+    "options": [
+      "List the types of waste generated at home.",
+      "Explain the process of plastic recycling.",
+      "Calculate the biodegradable waste from 5 kg of total waste if 60% is biodegradable.",
+      "Describe the impact of non-biodegradable waste on the environment."
+    ],
+    "correct_answer": "Calculate the biodegradable waste from 5 kg of total waste if 60% is biodegradable.",
+    "explanation": "Option C requires applying a formula to a specific scenario, aligning with the Apply level. The other options correspond to other Bloom's levels: listing (Remember), explaining (Understand), and describing (Understand).",
+    "topic": "Bloom's Taxonomy in Waste Management",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Create a plan for a community to improve their waste management system based on the principles discussed in Activity 13.7 and 13.8.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "A comprehensive waste management plan would include implementing separate collection systems for biodegradable and non-biodegradable waste, establishing local composting facilities for organic waste, setting up recycling centers for plastics and other recyclable materials, providing education and awareness programs for residents, collaborating with local authorities to ensure proper sewage treatment to prevent water pollution, and enforcing regulations for industries to manage their waste responsibly. Additionally, the plan could incorporate incentives for reducing waste generation and promoting the use of sustainable materials.",
+    "explanation": "The answer should outline actionable steps based on the activities, demonstrating the ability to synthesize information into a practical plan.",
+    "topic": "Waste Management Planning",
+    "bloom_level": "Create"
+  }
+]
+```

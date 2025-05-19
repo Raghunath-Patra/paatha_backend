@@ -1,0 +1,78 @@
+```json
+[
+  {
+    "question_text": "You have two solutions, A and B. The pH of solution A is 6 and the pH of solution B is 8. Which solution has more hydrogen ion concentration? Which of these is acidic and which one is basic?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Solution A has a higher hydrogen ion concentration and is acidic. Solution B has a lower hydrogen ion concentration and is basic.",
+    "explanation": "The pH scale is inversely related to the hydrogen ion concentration \([H^+]\) in a solution. A lower pH indicates a higher concentration of hydrogen ions. 
+
+Mathematically, pH is defined as:
+\\[ \\text{pH} = -\\log [H^+] \\]
+
+Therefore, 
+\\[ [H^+]_{\\text{Solution A}} = 10^{-6} \\, \\text{M} \\]
+\\[ [H^+]_{\\text{Solution B}} = 10^{-8} \\, \\text{M} \\]
+
+Since \\(10^{-6} > 10^{-8}\\), Solution A has more hydrogen ions. A pH less than 7 indicates an acidic solution, so Solution A is acidic. Conversely, a pH greater than 7 indicates a basic solution, making Solution B basic.",
+    "topic": "pH and Hydrogen Ion Concentration",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "What effect does the concentration of H⁺(aq) ions have on the nature of the solution?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The concentration of H⁺(aq) ions determines whether a solution is acidic, neutral, or basic. A higher concentration of H⁺ ions makes the solution acidic, while a lower concentration makes it basic.",
+    "explanation": "The nature of a solution is directly influenced by the concentration of hydrogen ions \([H^+]\):
+
+- **Acidic Solution**: \([H^+] > 1 \times 10^{-7} \, \text{M}\), pH < 7
+- **Neutral Solution**: \([H^+] = 1 \times 10^{-7} \, \text{M}\), pH = 7
+- **Basic Solution**: \([H^+] < 1 \times 10^{-7} \, \text{M}\), pH > 7
+
+Thus, as \([H^+]\) increases, the solution becomes more acidic, and as \([H^+]\) decreases, the solution becomes more basic.",
+    "topic": "pH and Solution Nature",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Do basic solutions also have H⁺(aq) ions? If yes, then why are these basic?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Yes, basic solutions do have H⁺(aq) ions, but they have a higher concentration of OH⁻ ions which reduces the concentration of H⁺ ions, making the solution basic.",
+    "explanation": "In any aqueous solution, water autoionizes to a small extent:
+\\[ H_2O \leftrightarrow H^+ + OH^- \]
+
+In basic solutions, there is an excess of hydroxide ions \([OH^-]\). According to the relation:
+\\[ [H^+][OH^-] = 1 \times 10^{-14} \]
+
+When \([OH^-]\) increases, \([H^+]\) decreases proportionally:
+\\[ [H^+] = \frac{1 \times 10^{-14}}{[OH^-]} \]
+
+Even though \([H^+]\) is present, its concentration is lower than that of \([OH^-]\), resulting in a solution with a pH greater than 7, which characterizes a basic solution.",
+    "topic": "Basic Solutions and Hydrogen Ions",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Under what soil condition do you think a farmer would treat the soil of his fields with quick lime (calcium oxide), slaked lime (calcium hydroxide), or chalk (calcium carbonate)?",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "A farmer would treat the soil with quick lime, slaked lime, or chalk when the soil is acidic (has a low pH). These substances act as liming agents to neutralize excess acidity, thereby increasing the soil pH to a more neutral level suitable for optimal plant growth.",
+    "explanation": "Soil pH plays a crucial role in nutrient availability and overall plant health. Acidic soils (\( \text{pH} < 7 \)) can inhibit the uptake of essential nutrients like nitrogen, phosphorus, and potassium, leading to poor plant growth. 
+
+Liming agents such as quick lime (\( \text{CaO} \)), slaked lime (\( \text{Ca(OH)}_2 \)), and chalk (\( \text{CaCO}_3 \)) are used to raise the pH of acidic soils:
+
+1. **Quick Lime (\( \text{CaO} \))**: Highly reactive and rapidly increases soil pH. It requires careful handling due to its caustic nature.
+
+2. **Slaked Lime (\( \text{Ca(OH)}_2 \))**: Reacts with water to form calcium hydroxide, which slowly neutralizes acidity.
+
+3. **Chalk (\( \text{CaCO}_3 \))**: Less reactive and provides a slow and gradual increase in soil pH, suitable for long-term soil management.
+
+By adding these substances, the hydrogen ion concentration \([H^+]\) in the soil decreases, resulting in a higher pH. This adjustment creates a more favorable environment for plant growth by improving nutrient availability and promoting beneficial microbial activity.",
+    "topic": "Soil pH and Liming Agents",
+    "bloom_level": "Analyze"
+  }
+]
+```

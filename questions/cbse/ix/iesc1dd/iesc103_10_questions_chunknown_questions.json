@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Calculate the molecular masses of H₂, O₂, Cl₂, CO₂, CH₄, C₂H₆, C₂H₄, NH₃, and CH₃OH.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "H₂ = 2 u; O₂ = 32 u; Cl₂ = 71 u; CO₂ = 44 u; CH₄ = 16 u; C₂H₆ = 30 u; C₂H₄ = 28 u; NH₃ = 17 u; CH₃OH = 32 u.",
+    "explanation": "To calculate the molecular mass of a compound, add together the atomic masses of all the atoms in the molecule. For example, H₂ is calculated as 2 × 1 u = 2 u; O₂ is 2 × 16 u = 32 u; Cl₂ is 2 × 35.5 u ≈ 71 u. Similar calculations for each molecule (e.g., CO₂ = 12 u + 2×16 u = 44 u) lead to the provided answers. This method follows the law of constant proportions where molecular composition is fixed.",
+    "topic": "Molecular Mass Calculation",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic011"
+  },
+  {
+    "question_text": "Calculate the formula unit masses of ZnO, Na₂O, and K₂CO₃ given the atomic masses: Zn = 65 u, Na = 23 u, K = 39 u, C = 12 u, and O = 16 u.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "ZnO = 65 u + 16 u = 81 u; Na₂O = (2 × 23 u) + 16 u = 62 u; K₂CO₃ = (2 × 39 u) + 12 u + (3 × 16 u) = 138 u.",
+    "explanation": "The formula unit mass is determined by summing the atomic masses of all elements present in the formula. For ZnO, add the mass of Zn (65 u) and O (16 u) to get 81 u. For Na₂O, multiply the mass of Na (23 u) by 2 and add the mass of O (16 u) to get 46 u + 16 u = 62 u. For K₂CO₃, calculate (2 × 39 u) for K, add 12 u for C, and (3 × 16 u) for O to obtain 78 u + 12 u + 48 u = 138 u. This approach uses the principles of stoichiometry and charge balance in ionic compounds.",
+    "topic": "Formula Unit Mass Calculation",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc103",
+    "question_id": "cbse_ix_iesc1dd_c103_ic012"
+  }
+]

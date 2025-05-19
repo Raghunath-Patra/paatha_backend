@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "A solution of a substance ‘X’ is used for whitewashing. (i) Name the substance ‘X’ and write its formula. (ii) Write the reaction of the substance ‘X’ with water.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Substance X is Calcium oxide (Quick lime) with the formula CaO. When CaO reacts with water, the reaction is: CaO(s) + H₂O(l) → Ca(OH)₂(aq) + Heat.",
+    "explanation": "Calcium oxide (CaO), when mixed with water, forms calcium hydroxide (slaked lime) through an exothermic reaction. The reaction is used in creating whitewash; the solution of slaked lime coats surfaces and, over time, reacts with carbon dioxide from air to form calcium carbonate, giving a durable finish. The chemical equation, CaO(s) + H₂O(l) → Ca(OH)₂(aq) + Heat, reflects the conservation of mass where the quick lime (CaO) is transformed into slaked lime (Ca(OH)₂) with the release of heat.",
+    "topic": "Chemical Equations – Combination Reactions",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic007"
+  },
+  {
+    "question_text": "Why is the amount of gas collected in one of the test tubes in Activity 1.7 double of the amount collected in the other? Name this gas.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The gas collected in double the amount is Hydrogen (H₂). In the electrolysis of water, the balanced equation is 2H₂O(l) → 2H₂(g) + O₂(g), which shows that for every mole of oxygen produced, two moles of hydrogen are generated.",
+    "explanation": "During the electrolysis of water, water decomposes into hydrogen and oxygen gas. According to the equation 2H₂O(l) → 2H₂(g) + O₂(g), for every two molecules of water, two molecules of hydrogen gas and one molecule of oxygen gas are produced. This stoichiometric ratio means that, under the same conditions of temperature and pressure, hydrogen occupies twice the volume of oxygen. This is why the gas collected at the cathode is in a volume double that collected at the anode.",
+    "topic": "Electrolysis and Gas Stoichiometry",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc101",
+    "question_id": "cbse_x_jesc1dd_c101_ic008"
+  }
+]

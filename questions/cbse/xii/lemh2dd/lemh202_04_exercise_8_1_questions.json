@@ -1,0 +1,64 @@
+[
+  {
+    "question_text": "Find the area of the region bounded by the ellipse x²/16 + y²/9 = 1.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "12π",
+    "explanation": "The standard form of an ellipse is x²/a² + y²/b² = 1, where the area is given by πab. In this case a² = 16 so a = 4 and b² = 9 so b = 3. Therefore, the area = π × 4 × 3 = 12π.",
+    "topic": "Area of an Ellipse",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex001"
+  },
+  {
+    "question_text": "Find the area of the region bounded by the ellipse x²/4 + y²/9 = 1.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "6π",
+    "explanation": "For the ellipse in the form x²/a² + y²/b² = 1, the area is given by πab. Here, a² = 4 so a = 2 and b² = 9 so b = 3. Thus, the area = π × 2 × 3 = 6π.",
+    "topic": "Area of an Ellipse",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex002"
+  },
+  {
+    "question_text": "Area lying in the first quadrant and bounded by the circle x² + y² = 4 and the lines x = 0 and x = 2 is:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "(A) π",
+      "(B) π/2",
+      "(C) π/3",
+      "(D) π/4"
+    ],
+    "correct_answer": "(A) π",
+    "explanation": "We consider the area under the curve in the first quadrant between x = 0 and x = 2. The circle is defined by x² + y² = 4 so that y = √(4 - x²). The area is calculated as ∫ from 0 to 2 √(4 - x²) dx. Using the standard integration formula, this integral evaluates to π. Hence, the correct answer is π.",
+    "topic": "Area under a Curve (Definite Integration)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex003"
+  },
+  {
+    "question_text": "Area of the region bounded by the curve y² = 4x, the y-axis, and the line y = 3 is:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "(A) 9/4",
+      "(B) 1/4",
+      "(C) 1/3",
+      "(D) 1/2"
+    ],
+    "correct_answer": "(A) 9/4",
+    "explanation": "The curve y² = 4x can be rewritten as x = y²/4. The region is bounded by this curve, the y-axis (x = 0) and the horizontal line y = 3. For a fixed y (with 0 ≤ y ≤ 3), the horizontal distance between the y-axis and the curve is x = y²/4. Thus, the area is obtained by integrating with respect to y: Area = ∫ from y = 0 to 3 (y²/4) dy = (1/4)[y³/3]₀³ = (1/4) × (27/3) = 9/4. Therefore, the correct answer is 9/4.",
+    "topic": "Area using Integration (Parabolic Regions)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex004"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "question_text": "Show that the function f : ℝ → ℝ defined by f(x) = 1 + x|x| is one–one and onto.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "f is injective because if 1 + x₁|x₁| = 1 + x₂|x₂| then x₁|x₁| = x₂|x₂| which implies x₁ = x₂ after considering the cases x ≥ 0 and x < 0. It is surjective because for any y ∈ ℝ one can find an x ∈ ℝ (x = √(y – 1) for y ≥ 1 and x = –√(1 – y) for y < 1) such that f(x) = y.",
+    "explanation": "Step 1: To prove injectivity, assume f(x₁) = f(x₂). That is, 1 + x₁|x₁| = 1 + x₂|x₂|. Cancel 1 to get x₁|x₁| = x₂|x₂|. Now, consider two cases:\n(a) For nonnegative x, |x| = x so the equation becomes x₁² = x₂² and since both x₁ and x₂ are nonnegative, we deduce x₁ = x₂.\n(b) For negative x, |x| = –x so the equation becomes –x₁² = –x₂², implying x₁² = x₂² and since both are negative, x₁ = x₂. Also, if one of x₁, x₂ is negative and the other nonnegative, the left–sides will have different signs, a contradiction.\nStep 2: To prove surjectivity, take any y ∈ ℝ. Notice that for x ≥ 0, f(x) = 1 + x², so if y ≥ 1, let x = √(y – 1) which yields f(x) = y. For x < 0, f(x) = 1 – x²; thus, if y < 1, set x = –√(1 – y) to obtain f(x) = y. Therefore every y ∈ ℝ has a pre–image, proving surjectivity.",
+    "topic": "Functions – Injectivity and Surjectivity",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh101",
+    "question_id": "cbse_xii_lemh1dd_c101_ex017"
+  },
+  {
+    "question_text": "Show that the function f : ℝ → ℝ given by f(x) = x³ is injective.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "f is injective because if x₁³ = x₂³ then taking cube roots (or using the fact that the cubic function is strictly increasing) one obtains x₁ = x₂.",
+    "explanation": "Assume f(x₁) = f(x₂), i.e. x₁³ = x₂³. The cubic function is strictly increasing on ℝ, so the equality implies x₁ = x₂. Hence the function is one–one.",
+    "topic": "Functions – Injectivity",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh101",
+    "question_id": "cbse_xii_lemh1dd_c101_ex018"
+  },
+  {
+    "question_text": "Given a non empty set X, consider P(X), the set of all subsets of X. Define a relation R in P(X) as follows: for subsets A, B in P(X), A R B if and only if A ⊂ B. Is R an equivalence relation on P(X)? Justify your answer.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "R is not an equivalence relation because it fails to be reflexive (since no set is a strict subset of itself) and in general fails symmetry and transitivity as required.",
+    "explanation": "An equivalence relation must be reflexive, symmetric, and transitive.\n• Reflexivity: For every A ∈ P(X), we should have A R A. However, since the relation is defined by strict subset (A ⊂ A is false), R is not reflexive.\n• Without reflexivity, R cannot be an equivalence relation. Thus, R is not an equivalence relation on P(X).",
+    "topic": "Relations – Equivalence Relations",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh101",
+    "question_id": "cbse_xii_lemh1dd_c101_ex019"
+  },
+  {
+    "question_text": "Find the number of all onto functions from the set {1, 2, 3, …, n} to itself.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The number of onto functions from a set of n elements to itself is n! (since every onto function is a bijection).",
+    "explanation": "For a function f from a finite set A to itself (with n elements) to be onto, every element of A must be mapped to; that is, f must be a bijection. The number of bijections from a set of n elements to itself is exactly n!.",
+    "topic": "Functions – Bijections",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh101",
+    "question_id": "cbse_xii_lemh1dd_c101_ex020"
+  },
+  {
+    "question_text": "Let A = {–1, 0, 1, 2} and B = {–4, –2, 0, 2}. Define the functions f, g : A → B by f(x) = x² – x and g(x) = 2|x – 1/2| – 1, for all x ∈ A. Are f and g equal? Justify your answer.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The functions f and g are equal because for every x ∈ A, f(x) and g(x) yield the same value. In particular, f(–1)=2, f(0)=0, f(1)=0, f(2)=2, and similarly g(–1)=2, g(0)=0, g(1)=0, g(2)=2.",
+    "explanation": "Calculate f(x) for each x ∈ A:\n• f(–1) = (–1)² – (–1) = 1 + 1 = 2\n• f(0) = 0² – 0 = 0\n• f(1) = 1² – 1 = 0\n• f(2) = 4 – 2 = 2\nNow calculate g(x):\n• g(–1) = 2|–1 – 1/2| – 1 = 2(1.5) – 1 = 3 – 1 = 2\n• g(0) = 2|0 – 0.5| – 1 = 2(0.5) – 1 = 1 – 1 = 0\n• g(1) = 2|1 – 0.5| – 1 = 2(0.5) – 1 = 1 – 1 = 0\n• g(2) = 2|2 – 0.5| – 1 = 2(1.5) – 1 = 3 – 1 = 2\nSince f(x) = g(x) for all x in A, the two functions are equal.",
+    "topic": "Functions – Equality of Functions",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh101",
+    "question_id": "cbse_xii_lemh1dd_c101_ex021"
+  },
+  {
+    "question_text": "Let A = {1, 2, 3}. Determine the number of relations on A that are reflexive and symmetric, contain the pairs (1,2) and (1,3), but are not transitive.",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "1",
+    "explanation": "Since the relation must be reflexive, it must contain (1,1), (2,2), and (3,3). Given that (1,2) and (1,3) are in the relation, by symmetry, (2,1) and (3,1) must also be included. The only remaining potential pair is (2,3) along with its symmetric pair (3,2). Including these would force transitivity (since (2,1) and (1,3) would then require (2,3)) resulting in an equivalence relation. To ensure the relation is not transitive, these optional pairs must be omitted. Hence, there is exactly one relation satisfying these conditions.",
+    "topic": "Relations – Properties (Reflexive, Symmetric, Transitive)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "lemh101",
+    "question_id": "cbse_xii_lemh1dd_c101_ex022"
+  },
+  {
+    "question_text": "Let A = {1, 2, 3}. Determine the number of equivalence relations on A that contain the pair (1,2).",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2",
+    "explanation": "An equivalence relation on a finite set corresponds to a partition of the set into disjoint subsets (equivalence classes). The condition that (1,2) is in the relation forces 1 and 2 to belong to the same equivalence class. For A = {1, 2, 3}, there are two possibilities: either 3 is in the same equivalence class as 1 and 2 or 3 forms its own separate class. Hence, there are 2 equivalence relations satisfying the condition.",
+    "topic": "Relations – Equivalence Relations",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh101",
+    "question_id": "cbse_xii_lemh1dd_c101_ex023"
+  }
+]

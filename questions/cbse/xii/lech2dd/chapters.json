@@ -1,0 +1,25 @@
+{
+    "name": "Chemistry Part II",
+    "chapters": [
+      {
+        "number": 6,
+        "name": "Haloalkanes and Haloarenes"
+      },
+      {
+        "number": 7,
+        "name": "Alcohols, Phenols and Ethers"
+      },
+      {
+        "number": 8,
+        "name": "Aldehydes, Ketones and Carboxylic Acids"
+      },
+      {
+        "number": 9,
+        "name": "Amines"
+      },
+      {
+        "number": 10,
+        "name": "Biomolecules"
+      }
+    ]
+  }

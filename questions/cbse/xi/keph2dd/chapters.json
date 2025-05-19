@@ -1,0 +1,33 @@
+{
+    "name": "Physics Part II",
+    "chapters": [
+      {
+        "number": 8,
+        "name": "Mechanical Properties of Solids"
+      },
+      {
+        "number": 9,
+        "name": "Mechanical Properties of Fluids"
+      },
+      {
+        "number": 10,
+        "name": "Thermal Properties of Matter"
+      },
+      {
+        "number": 11,
+        "name": "Thermodynamics"
+      },
+      {
+        "number": 12,
+        "name": "Kinetic Theory"
+      },
+      {
+        "number": 13,
+        "name": "Oscillations"
+      },
+      {
+        "number": 14,
+        "name": "Waves"
+      }
+    ]
+  }

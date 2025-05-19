@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "How do biotic and abiotic factors affect crop production?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Biotic factors such as diseases, insects, and pests, along with abiotic factors like drought, salinity, heat, cold, and floods, can reduce crop yield and quality by damaging plant tissues and disrupting physiological processes. This results in lower productivity and significant agricultural losses.",
+    "explanation": "Biotic factors refer to living organisms (e.g., insects, pathogens) that can attack and damage crops, while abiotic factors are environmental stresses (e.g., extreme temperatures, water scarcity, and excess water) that adversely affect plant growth. Both these factors interfere with photosynthesis, nutrient uptake, and water balance, ultimately compromising the plant's health and yield. Understanding these interactions helps in implementing effective crop management and protection strategies.",
+    "topic": "Crop Production and Environmental Stress Factors",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic002"
+  },
+  {
+    "question_text": "What are the desirable agronomic characteristics for crop improvements?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The desirable agronomic characteristics vary with the type of crop. For fodder crops, traits such as tallness and profuse branching are beneficial. In cereals, dwarf varieties are preferred as they prevent lodging and reduce nutrient consumption. Other important traits include high yield, enhanced quality, pest and disease resistance, appropriate maturity duration, and adaptability to diverse growing conditions.",
+    "explanation": "Different crops have specialized requirements: fodder crops need to maximize biomass and nutritional content for livestock, thus benefitting from tall, branching plants; cereals, on the other hand, are better served by dwarf varieties because they minimize the risk of lodging (falling over) and optimize the allocation of nutrients to grain production. Additionally, traits like yield, quality, and resistance to pests/diseases are crucial for long-term sustainable crop production. This comprehensive approach aligns with modern agronomic practices aimed at improving efficiency and productivity.",
+    "topic": "Crop Improvement and Agronomic Practices",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic003"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Who discovered cells, and how?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Robert Hooke discovered cells in 1665 while observing a thin slice of cork through his self-designed microscope. He noted the presence of honeycomb-like compartments which he termed 'cells'.",
+    "explanation": "Robert Hooke’s observation of a cork slice under a primitive microscope revealed distinct compartments that resembled small rooms, leading him to call them 'cells'. This discovery was crucial in establishing the cell theory, which states that all living organisms are made up of cells. His work also highlights the importance of experimental procedures and technological advancements in scientific discovery.",
+    "topic": "Cell Theory, Microscopy",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic001"
+  },
+  {
+    "question_text": "Why is the cell called the structural and functional unit of life?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The cell is termed the structural unit of life because it forms the basic building block of all living organisms. It is also called the functional unit of life because all vital processes (such as metabolism, respiration, and excretion) occur within cells through the coordinated activity of its specialized organelles.",
+    "explanation": "Each cell contains organelles that perform specific functions essential for the maintenance and survival of the organism. This dual role of cells – providing structure and carrying out necessary life functions – is demonstrated by experimental observations under the microscope (e.g., observation of the nucleus and cytoplasm) and links directly to principles in cell biology. This explanation connects the concept of cell structure with its physiological functions, underlining the cell's pivotal role in both single-celled and multicellular organisms.",
+    "topic": "Cell Structure and Function, Cell Theory",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc105",
+    "question_id": "cbse_ix_iesc1dd_c105_ic002"
+  }
+]

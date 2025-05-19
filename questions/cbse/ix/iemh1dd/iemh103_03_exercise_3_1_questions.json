@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "How will you describe the position of a table lamp on your study table to another person?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Choose fixed reference points on your study table (for example, its edges) and then describe the lamp's location by giving the distances from these reference points. For instance, you might say that the lamp is 20 cm from the left edge and 15 cm from the top edge of the table.",
+    "explanation": "Step 1: Identify clear and fixed landmarks on the study table, such as the left edge and the top edge. \nStep 2: Measure or estimate the distance of the lamp from each of these landmarks. \nStep 3: Describe the position using an ordered pair of distances, for example, (20 cm, 15 cm), which indicates that the lamp is located 20 cm from the left edge and 15 cm from the top edge. \nThis method provides precise information about the lamp’s location using a coordinate-like system.",
+    "topic": "Coordinate Geometry; Representation of Positions in a Plane",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh103",
+    "question_id": "cbse_ix_iemh1dd_c103_ex001"
+  },
+  {
+    "question_text": "Street Plan: A city has two main roads which cross each other at the centre of the city. These two roads are along the North-South direction and East-West direction. All the other streets of the city run parallel to these roads and are 200 m apart. There are 5 streets in each direction. Using 1 cm = 200 m, draw a model of the city on your notebook. Represent the roads/streets by single lines.\nThere are many cross-streets in your model. A particular cross-street is made by two streets, one running in the North–South direction and another in the East–West direction. Each cross-street is referred to in the following manner: If the 2nd street running in the North–South direction and 5th in the East–West direction meet at some crossing, then we will call this cross-street (2, 5). Using this convention, find:\n(i) How many cross-streets can be referred to as (4, 3).\n(ii) How many cross-streets can be referred to as (3, 4).",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (4, 3): There is exactly 1 cross-street defined by the 4th North–South street and the 3rd East–West street. For (3, 4): There is exactly 1 cross-street defined by the 3rd North–South street and the 4th East–West street.",
+    "explanation": "Step 1: Understand that the city is modeled with 5 streets running North–South and 5 streets running East–West, and every intersection (cross-street) corresponds to one unique ordered pair (i, j) where i denotes the North–South street number and j denotes the East–West street number. \nStep 2: For (4, 3), the notation indicates the 4th street in the North–South direction and the 3rd street in the East–West direction. This combination appears only once in the grid, hence there is exactly 1 cross-street with that designation. \nStep 3: Similarly, for (3, 4), the ordered pair represents the 3rd street in the North–South direction and the 4th street in the East–West direction. Again, this is a unique intersection, yielding exactly 1 corresponding cross-street. \nStep 4: Note the significance of the order in the notation; (4, 3) is not the same as (3, 4). \nThus, the answer to each part is that there is 1 cross-street referred to by each specific ordering.",
+    "topic": "Coordinate Geometry and Spatial Representation; Understanding Ordered Pairs",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh103",
+    "question_id": "cbse_ix_iemh1dd_c103_ex002"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "On what factors does the resistance of a conductor depend?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The resistance of a conductor depends on its length (l), its cross-sectional area (A), the nature of the material (represented by its resistivity ρ), and its temperature.",
+    "explanation": "Resistance increases with an increase in the length of the conductor because electrons have to travel a longer path, and it decreases with an increase in the cross-sectional area since a larger area provides more pathways for electrons. Additionally, different materials have different intrinsic resistivities (ρ) which determine how easily charges flow, and temperature affects resistance due to changes in the motion of electrons.",
+    "topic": "Electrical Resistance and Factors Affecting It",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic007"
+  },
+  {
+    "question_text": "Will current flow more easily through a thick wire or a thin wire of the same material, when connected to the same source? Why?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Current will flow more easily through a thick wire because it has a larger cross-sectional area, resulting in lower resistance.",
+    "explanation": "According to Ohm’s law (I = V/R), a lower resistance (R) for the same voltage (V) results in a higher current (I). Since resistance (R) is inversely proportional to the cross-sectional area (A) (R ∝ 1/A), a thick wire with a larger area offers less opposition to the flow of electrons than a thinner wire.",
+    "topic": "Ohm's Law and Resistance",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic008"
+  },
+  {
+    "question_text": "Let the resistance of an electrical component remain constant while the potential difference across its two ends decreases to half of its former value. What change will occur in the current through it?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The current through the component will decrease to half of its original value.",
+    "explanation": "By Ohm’s law, I = V/R. If the voltage (V) is reduced to half while the resistance (R) remains constant, then the current (I) will also become half of its original value since the two are directly proportional.",
+    "topic": "Ohm's Law",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic009"
+  },
+  {
+    "question_text": "Why are coils of electric toasters and electric irons made of an alloy rather than a pure metal?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "They are made of an alloy because alloys generally have higher resistivity (which enhances heat generation) and possess higher melting points. Furthermore, alloys do not oxidize or burn easily at high temperatures, making them more durable for heating applications.",
+    "explanation": "Alloys, such as those used in heating elements, are chosen for their higher resistivity compared to pure metals, ensuring they produce enough heat when current flows (as per H = I²Rt). Their high melting point and resistance to oxidation help them withstand high operating temperatures without degrading, ensuring efficient and safe operation of appliances like toasters and irons.",
+    "topic": "Electrical Heating & Material Properties",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic010"
+  },
+  {
+    "question_text": "Use the data in Table 11.2 to answer the following:\n(a) Which among iron and mercury is a better conductor?\n(b) Which material is the best conductor?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) Iron is a better conductor than mercury because it has a lower resistivity (10.0 × 10⁻⁸ Ω·m for iron compared to 94.0 × 10⁻⁸ Ω·m for mercury). (b) Silver is the best conductor among the materials listed, as it has the lowest resistivity (1.60 × 10⁻⁸ Ω·m).",
+    "explanation": "The conductivity of a material is inversely related to its resistivity. Iron’s lower resistivity means that electrons can flow more easily compared to mercury, making it a better conductor. Among the listed materials, silver has the lowest resistivity, which directly translates to a higher conductivity and thus superior conduction of electric current. This comparison is based on the resistivity values provided in Table 11.2.",
+    "topic": "Electrical Conductivity and Resistivity",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic011"
+  }
+]

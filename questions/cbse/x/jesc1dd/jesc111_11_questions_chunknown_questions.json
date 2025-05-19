@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Draw a schematic diagram of a circuit consisting of a battery of three cells of 2 V each, a 5 Ω resistor, an 8 Ω resistor, and a 12 Ω resistor, and a plug key, all connected in series.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A proper answer should include a diagram that shows a battery symbol representing three 2 V cells connected in series (giving a total of 6 V), followed by a series connection of three resistors labeled 5 Ω, 8 Ω, and 12 Ω respectively, and a plug key (switch) in the circuit. The circuit should be a single closed loop. For example:\n\n(+) --| |-| |-| |-- (-) [Battery: 3 cells, total 6 V] ---> [5 Ω resistor] ---> [8 Ω resistor] ---> [12 Ω resistor] ---> (Key closed) ---> back to battery.",
+    "explanation": "This question requires drawing the schematic of a series circuit. In a series circuit, all components are connected along a single path so that the same current flows through each component. The battery, composed of three cells (each 2 V), will provide a total voltage of 6 V. The resistors are connected one after the other and the plug key (or switch) is shown as a break in the circuit that is closed. Understanding circuit symbols and the concept of series connection (which implies that the total resistance is the sum of individual resistances) is essential. This also demonstrates the application of Ohm's law where the entire circuit current would be determined by the total resistance.",
+    "topic": "Electric circuits – Series Circuit, Schematic Diagrams",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic012"
+  },
+  {
+    "question_text": "Redraw the circuit of Question 1, inserting an ammeter to measure the current through the resistors and a voltmeter to measure the potential difference across the 12 Ω resistor. What would be the readings in the ammeter and the voltmeter?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The circuit should now show the ammeter inserted in series with the resistors and a voltmeter connected in parallel across the 12 Ω resistor. With the given configuration, the total series resistance is 5 Ω + 8 Ω + 12 Ω = 25 Ω, and the battery voltage is 6 V (3 cells × 2 V each), so the current I = 6 V / 25 Ω ≈ 0.24 A. The voltage drop across the 12 Ω resistor is V = I × 12 Ω ≈ 0.24 A × 12 Ω = 2.88 V. Thus, the ammeter reading is approximately 0.24 A and the voltmeter reading is approximately 2.88 V.",
+    "explanation": "In this modified circuit, the ammeter, which is always connected in series, measures the total current flowing through the resistors, and the voltmeter, connected in parallel across the 12 Ω resistor, measures the potential difference across it. Using Ohm’s law (V = IR), the total resistance in the circuit is calculated by summing the individual resistances (5 Ω + 8 Ω + 12 Ω = 25 Ω). With the supplied battery voltage of 6 V, the current is 6 V divided by 25 Ω, which equals approximately 0.24 A. The voltage across the 12 Ω resistor is then found by multiplying this current by 12 Ω, yielding about 2.88 V. This question reinforces concepts like series connection, placement of measuring instruments, and Ohm’s law.",
+    "topic": "Electric circuits – Series Circuit, Ohm’s Law, Circuit Measurement",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic013"
+  }
+]

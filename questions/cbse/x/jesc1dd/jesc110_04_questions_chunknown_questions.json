@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "What is meant by power of accommodation of the eye?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The power of accommodation is the ability of the eye lens to change its curvature with the help of the ciliary muscles, thereby adjusting its focal length so that light from objects at varying distances is focused clearly on the retina.",
+    "explanation": "Accommodation refers to the process by which the crystalline lens alters its shape (curvature) to focus light from objects at different distances onto the retina. When the ciliary muscles contract, the lens thickens to decrease the focal length for near objects; when they relax, the lens thins to increase the focal length for distant objects. This is similar to adjusting the focus of a camera to obtain a clear image.",
+    "topic": "Human Eye – Accommodation",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ic001"
+  },
+  {
+    "question_text": "A person with a myopic eye cannot see objects beyond 1.2 m distinctly. What type of corrective lens should be used to restore proper vision?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A concave lens should be used to correct myopia.",
+    "explanation": "Myopia, or near-sightedness, is a defect where the far point of the eye is closer than infinity, causing distant objects to be seen as blurred because their image is formed in front of the retina. A concave (diverging) lens spreads out incoming parallel rays slightly so that the eye lens can then focus them properly onto the retina. Here, using a concave lens helps shift the image back to the retina for clear distant vision.",
+    "topic": "Defects of Vision – Myopia",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ic002"
+  },
+  {
+    "question_text": "What is the far point and near point of the human eye with normal vision?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For a normal eye, the near point (least distance of distinct vision) is about 25 cm, and the far point is at infinity.",
+    "explanation": "The near point is the minimum distance at which the eye can see objects clearly, which for a normal young adult is approximately 25 cm. The far point for normal vision is at infinity because the eye can focus parallel rays (from very distant objects) onto the retina. This range of clear vision defines normal accommodative behavior of the human eye.",
+    "topic": "Human Eye – Near and Far Points",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ic003"
+  },
+  {
+    "question_text": "A student has difficulty reading the blackboard while sitting in the last row. What could be the defect the child is suffering from and how can it be corrected?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The student is likely suffering from myopia (near-sightedness), which makes distant objects appear blurry. It can be corrected by using spectacles fitted with a concave lens to diverge incoming light so that the image is properly focused on the retina.",
+    "explanation": "Difficulty in seeing distant objects, such as a blackboard in the last row, indicates myopia, in which the far point of the eye is closer than infinity. The concave lens used in corrective eyewear diverges the incoming parallel rays from distant objects slightly, allowing the eye's optical system to focus the image on the retina. This correction restores clear distance vision.",
+    "topic": "Defects of Vision – Myopia and its Correction",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ic004"
+  }
+]

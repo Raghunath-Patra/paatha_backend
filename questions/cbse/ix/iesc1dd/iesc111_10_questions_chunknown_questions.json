@@ -1,0 +1,15 @@
+[
+  {
+    "question_text": "Why are the ceilings of concert halls curved?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Curved ceilings help reflect sound waves uniformly across the hall, ensuring that sound reaches all parts of the audience evenly.",
+    "explanation": "The curved design of concert hall ceilings is based on the principles of sound reflection. When a sound wave hits a curved surface, it is dispersed in many directions rather than being reflected back in a single direction. This ensures that the sound is distributed evenly throughout the hall, reducing dead spots and ensuring that the audience receives clear and balanced acoustics. The concept is similar to the law of reflection where the angle of incidence equals the angle of reflection, but the curved structure modifies the angles so that sound is spread over a larger area. This is crucial for optimal auditory performance in large spaces.",
+    "topic": "Reflection of Sound",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic010"
+  }
+]

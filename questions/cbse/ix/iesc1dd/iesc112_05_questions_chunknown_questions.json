@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What are macro-nutrients and why are they called macro-nutrients?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Macro-nutrients are essential plant nutrients required in relatively large quantities for plant growth and metabolic processes. These include both nutrients absorbed from soil such as Nitrogen (N), Phosphorus (P), Potassium (K), Calcium (Ca), Magnesium (Mg), and Sulphur (S), and those obtained from air and water such as Carbon (C), Oxygen (O), and Hydrogen (H). They are called macro-nutrients because plants require them in significantly greater amounts compared to micro-nutrients.",
+    "explanation": "Plants rely on macro-nutrients to build key molecules like proteins, nucleic acids, and chlorophyll, all essential for growth and development. The term 'macro' signifies that these nutrients are needed in large quantities. For example, Nitrogen is critical for amino acids and chlorophyll synthesis, while Phosphorus plays a key role in energy transfer (ATP). The explanation integrates knowledge on nutrient sources—soil provides most of these nutrients, and water/air provide the rest—and connects these to essential biological functions.",
+    "topic": "Plant Nutrition / Macro-nutrients",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic004"
+  },
+  {
+    "question_text": "How do plants get nutrients?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Plants obtain nutrients through a combination of mechanisms. They absorb essential elements like Carbon (C) and Oxygen (O) directly from the air through the process of photosynthesis, and receive Hydrogen (H) from water. The remaining macro and micronutrients are absorbed from the soil through their roots.",
+    "explanation": "This explanation underscores the dual pathways of nutrient uptake in plants. While the aerial parts of the plant capture carbon dioxide and oxygen critical for photosynthesis, the roots are responsible for absorbing water and dissolved mineral nutrients. This separation of functions is crucial for understanding plant physiology and nutrient assimilation in different environmental conditions.",
+    "topic": "Plant Nutrient Uptake",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic005"
+  }
+]

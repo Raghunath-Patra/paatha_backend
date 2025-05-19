@@ -1,0 +1,72 @@
+[
+  {
+    "question_text": "Indicate the types of isomerism exhibited by K[Cr(H₂O)₂(C₂O₄)₂(NO₂)](NO₃)₂ and draw the structures for these isomers.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "This complex exhibits linkage isomerism. In the complex ion, the NO₂⁻ ligand is ambidentate and can coordinate either through nitrogen (forming a nitro linkage) or through oxygen (forming a nitrito linkage).",
+    "explanation": "K[Cr(H₂O)₂(C₂O₄)₂(NO₂)](NO₃)₂ contains an ambidentate NO₂⁻ ligand, which can bond to the metal center via either the nitrogen atom or an oxygen atom. This results in linkage isomers. The drawing should show the two different modes of attachment of NO₂⁻ to the Cr center while maintaining the octahedral coordination environment provided by two water molecules, two bidentate oxalate ligands (C₂O₄²⁻) and the NO₂⁻ ligand.",
+    "topic": "Isomerism in Coordination Compounds – Linkage Isomerism",
+    "bloom_level": "Analyze",
+    "source": "intext",
+    "chapter_id": "lech105",
+    "intext_id": "07_intext_questions_ch105",
+    "question_id": "cbse_xii_lech1dd_c105_in013"
+  },
+  {
+    "question_text": "Indicate the types of isomerism exhibited by [Co(en)₃]Cl₃ and draw the structures for these isomers.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The complex [Co(en)₃]Cl₃ exhibits optical isomerism. The [Co(en)₃]³⁺ ion is chiral, forming a pair of non‐superimposable mirror images (enantiomers), usually designated as 'd' (dextro) and 'l' (laevo).",
+    "explanation": "In [Co(en)₃]Cl₃, ethylenediamine (en) is a bidentate ligand that chelates the cobalt ion in an octahedral geometry. The spatial arrangement of the three en ligands can exist in two mirror image forms that cannot be superimposed on each other. These enantiomers rotate plane-polarized light in opposite directions. The isomer drawings should show these non-superimposable forms.",
+    "topic": "Isomerism in Coordination Compounds – Optical Isomerism",
+    "bloom_level": "Analyze",
+    "source": "intext",
+    "chapter_id": "lech105",
+    "intext_id": "07_intext_questions_ch105",
+    "question_id": "cbse_xii_lech1dd_c105_in014"
+  },
+  {
+    "question_text": "Indicate the types of isomerism exhibited by [Co(NH₃)₄Cl₂]⁺ and draw the structures for these isomers.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The complex [Co(NH₃)₄Cl₂]⁺ shows geometric (cis-trans) isomerism. In the cis isomer, the two chloride ions are adjacent to each other, and in the trans isomer, they are opposite to each other.",
+    "explanation": "For an octahedral complex such as [Co(NH₃)₄Cl₂]⁺, the four ammonia and two chloride ligands can be arranged in different spatial configurations. The two geometrical possibilities are the cis form (with the two Cl⁻ ligands adjacent) and the trans form (with the two Cl⁻ ligands opposite). The structures should clearly depict these arrangements.",
+    "topic": "Isomerism in Coordination Compounds – Geometric Isomerism",
+    "bloom_level": "Analyze",
+    "source": "intext",
+    "chapter_id": "lech105",
+    "intext_id": "07_intext_questions_ch105",
+    "question_id": "cbse_xii_lech1dd_c105_in015"
+  },
+  {
+    "question_text": "Indicate the types of isomerism exhibited by [Pt(NH₃)(H₂O)Cl₂] and draw the structures for these isomers.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The complex [Pt(NH₃)(H₂O)Cl₂] exhibits geometric (cis-trans) isomerism. There are two possible isomers: the cis isomer, where the two identical ligands (either Cl⁻ or positions with respect to each other) are adjacent, and the trans isomer, where they are opposite to each other.",
+    "explanation": "Square planar complexes like [Pt(NH₃)(H₂O)Cl₂] can exhibit geometric isomerism. The different relative positions of the identical ligands lead to cis and trans forms. Drawing the structures will involve placing the Pt center in the square plane with the ligands arranged accordingly, ensuring that in the cis isomer, the two similar ligands are on adjacent vertices and on opposite vertices in the trans isomer.",
+    "topic": "Isomerism in Coordination Compounds – Geometric Isomerism",
+    "bloom_level": "Analyze",
+    "source": "intext",
+    "chapter_id": "lech105",
+    "intext_id": "07_intext_questions_ch105",
+    "question_id": "cbse_xii_lech1dd_c105_in016"
+  },
+  {
+    "question_text": "Give evidence that [Co(NH₃)₅Cl]SO₄ and [Co(NH₃)₅(SO₄)]Cl are ionisation isomers.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The evidence lies in their different chemical behavior in solution: [Co(NH₃)₅Cl]SO₄ contains a coordinated chloride ion and a counter sulfate ion, whereas in [Co(NH₃)₅(SO₄)]Cl the sulfate group is coordinated to the cobalt and the chloride acts as a counter ion. This difference results in different ions being released in solution, which can be confirmed by conductivity measurements and by specific chemical tests, such as the formation of AgCl precipitate when treated with AgNO₃ (only free chloride ions react).",
+    "explanation": "Ionisation isomerism involves the exchange of a ligand within the coordination sphere with a counter ion. In the given pair, one complex has Cl⁻ inside the coordination sphere and SO₄²⁻ outside, while the other has SO₄²⁻ coordinated and Cl⁻ as a counter ion. The difference in the ions present in solution leads to different properties, such as electrical conductivity and precipitation reactions (e.g., silver nitrate test for Cl⁻).",
+    "topic": "Isomerism in Coordination Compounds – Ionisation Isomerism",
+    "bloom_level": "Analyze",
+    "source": "intext",
+    "chapter_id": "lech105",
+    "intext_id": "07_intext_questions_ch105",
+    "question_id": "cbse_xii_lech1dd_c105_in017"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What is the audible range of the average human ear?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Approximately 20 Hz to 20,000 Hz (20 kHz).",
+    "explanation": "The audible range for human hearing extends from around 20 Hz to 20,000 Hz. This range represents the frequencies that the average human ear can detect under normal conditions. In this range, the lower frequency limit is associated with very slow vibrations and the upper limit with rapid vibrations. This concept is crucial when considering applications such as audio equipment design and noise regulation, and demonstrates the frequency-dependent nature of sound perception.",
+    "topic": "Range of Hearing",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic011"
+  },
+  {
+    "question_text": "What is the range of frequencies associated with: (a) Infrasound? (b) Ultrasound?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(a) Infrasound: Frequencies below 20 Hz. (b) Ultrasound: Frequencies above 20 kHz.",
+    "explanation": "Infrasound comprises sound frequencies that are lower than the human hearing threshold (below 20 Hz), meaning these vibrations are too slow to be heard by most humans but can be detected by some animals. Ultrasound refers to frequencies above 20 kHz, which are too high-pitched for the average human ear to perceive but are commonly used by animals such as bats and in medical imaging. Both terms highlight how different frequency ranges can have varied applications and biological significance.",
+    "topic": "Frequency Ranges in Sound",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic012"
+  }
+]

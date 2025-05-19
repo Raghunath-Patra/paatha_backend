@@ -1,0 +1,178 @@
+[
+  {
+    "question_text": "The human eye can focus on objects at different distances by adjusting the focal length of the eye lens. This is due to:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "presbyopia",
+      "accommodation",
+      "near-sightedness",
+      "far-sightedness"
+    ],
+    "correct_answer": "accommodation",
+    "explanation": "The ability of the eye lens to change its curvature and focal length with the help of the ciliary muscles is called accommodation. This adjustment allows the eye to focus on objects at various distances.",
+    "topic": "Human Eye – Accommodation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex001"
+  },
+  {
+    "question_text": "The human eye forms the image of an object at its:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "cornea",
+      "iris",
+      "pupil",
+      "retina"
+    ],
+    "correct_answer": "retina",
+    "explanation": "Light entering the eye is focused by the lens onto the retina, which is a light-sensitive layer at the back of the eye. The retina converts light into electrical signals that are interpreted by the brain.",
+    "topic": "Human Eye – Image Formation",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex002"
+  },
+  {
+    "question_text": "The least distance of distinct vision for a young adult with normal vision is about:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "25 m",
+      "2.5 cm",
+      "25 cm",
+      "2.5 m"
+    ],
+    "correct_answer": "25 cm",
+    "explanation": "For a normal young adult, the nearest point at which objects can be seen clearly without strain (the near point) is about 25 cm. This is determined by the limit of the eye's accommodation.",
+    "topic": "Human Eye – Near Point",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex003"
+  },
+  {
+    "question_text": "The change in focal length of an eye lens is caused by the action of the:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "pupil",
+      "retina",
+      "ciliary muscles",
+      "iris"
+    ],
+    "correct_answer": "ciliary muscles",
+    "explanation": "The ciliary muscles adjust the shape of the eye lens, thereby changing its curvature and focal length. This process is known as accommodation and allows us to focus on objects at different distances.",
+    "topic": "Human Eye – Accommodation Mechanism",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex004"
+  },
+  {
+    "question_text": "A person needs a lens of power –5.5 dioptres for correcting his distant vision. For correcting his near vision he needs a lens of power +1.5 dioptres. What is the focal length of the lens required for correcting (i) distant vision, and (ii) near vision?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For distant vision: f ≈ -0.182 m; For near vision: f ≈ +0.667 m",
+    "explanation": "The focal length (f) in meters is given by f = 1/P, where P is the power in dioptres. For the distant vision lens with P = -5.5 D, f ≈ 1/(-5.5) ≈ -0.182 m (concave lens). For the near vision lens with P = +1.5 D, f ≈ 1/(+1.5) ≈ +0.667 m (convex lens). These values indicate the lens type and focusing properties required to correct the refractive errors.",
+    "topic": "Refractive Errors – Lens Calculations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex005"
+  },
+  {
+    "question_text": "The far point of a myopic person is 80 cm in front of the eye. What is the nature and power of the lens required to correct the problem?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A concave lens with a focal length of –0.8 m and power of –1.25 D is required.",
+    "explanation": "In myopia, the far point is closer than infinity. The lens should form an image of an object at infinity at the person’s far point. Using the lens formula (1/f = 1/v - 1/u) and noting that for an object at infinity 1/u is zero, we have 1/f = 1/(-0.8 m), giving f = -0.8 m and power P = 1/(-0.8) ≈ -1.25 D. The negative sign indicates a concave lens is used.",
+    "topic": "Refractive Errors – Myopia Correction",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex006"
+  },
+  {
+    "question_text": "Make a diagram to show how hypermetropia is corrected. The near point of a hypermetropic eye is 1 m. What is the power of the lens required to correct this defect? Assume that the near point of the normal eye is 25 cm.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A convex lens with a power of +3 D is required.",
+    "explanation": "For a hypermetropic (far-sighted) eye, the near point is further than the normal 25 cm. To correct this, the lens should form a virtual image of an object located at 25 cm (u = -0.25 m) at the hypermetropic near point (v = -1 m). Using the lens formula: 1/f = 1/v - 1/u = 1/(-1) - 1/(-0.25) = -1 + 4 = 3, so f = 1/3 m and power P = +3 D. A diagram similar to Fig. 10.3(c) should be drawn, showing incoming rays from an object at 25 cm, a convex lens forming a virtual image at 1 m, which the eye can then focus on.",
+    "topic": "Refractive Errors – Hypermetropia Correction",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex007"
+  },
+  {
+    "question_text": "Why is a normal eye not able to see clearly the objects placed closer than 25 cm?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Because the ciliary muscles cannot contract sufficiently to increase the curvature of the lens beyond a certain limit, the focal length cannot be reduced below the minimum value required for focusing objects closer than 25 cm.",
+    "explanation": "The eye's accommodation ability is limited by the flexibility of the lens and the maximum contraction of the ciliary muscles. This sets a minimum focal length for the lens corresponding to viewing objects at approximately 25 cm. When objects are placed closer than this near point, the lens cannot further increase its curvature, resulting in a blurred image.",
+    "topic": "Human Eye – Accommodation Limitations",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex008"
+  },
+  {
+    "question_text": "What happens to the image distance in the eye when we increase the distance of an object from the eye?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The image distance in the eye remains fixed.",
+    "explanation": "In the human eye, the retina is at a constant position relative to the lens. When the object distance increases, the eye adjusts its focal length (through accommodation) to bring the image into focus on the fixed retina.",
+    "topic": "Human Eye – Image Formation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex009"
+  },
+  {
+    "question_text": "Why do stars twinkle?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Stars twinkle due to the atmospheric refraction in the Earth's atmosphere. The continuously changing temperature and density of the air cause fluctuations in the refractive index, which in turn cause the apparent position and brightness of the star to vary.",
+    "explanation": "As starlight passes through the Earth's atmosphere, it is refracted by layers of air with varying temperatures and densities. This non-uniform refraction causes the light path to change slightly over time. Since stars are point sources of light, even small variations in the path result in noticeable twinkling.",
+    "topic": "Atmospheric Refraction – Twinkling of Stars",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex010"
+  },
+  {
+    "question_text": "Explain why the planets do not twinkle.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Planets do not twinkle because they appear as extended sources of light. The light from different parts of a planet averages out the fluctuations caused by atmospheric refraction.",
+    "explanation": "Unlike stars, which are essentially point sources, planets have a measurable angular size. The atmospheric disturbances affect different parts of a planet's image differently. When these variations are averaged over the extended area, the flickering effect is minimized, and the planet appears steady.",
+    "topic": "Atmospheric Refraction – Planetary Observation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex011"
+  },
+  {
+    "question_text": "Why does the sky appear dark instead of blue to an astronaut?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "In space, there is no atmosphere to scatter sunlight. The blue color of the sky on Earth is due to Rayleigh scattering by air molecules. Without an atmosphere, sunlight travels unscattered, and the sky appears dark.",
+    "explanation": "The blue appearance of the sky on Earth is caused by the scattering of shorter wavelength (blue) light by the molecules and fine particles in the atmosphere. In the vacuum of space, scattering does not occur, hence astronauts see a dark background when looking away from the Sun.",
+    "topic": "Light Scattering – Rayleigh Scattering",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc110",
+    "question_id": "cbse_x_jesc1dd_c110_ex012"
+  }
+]

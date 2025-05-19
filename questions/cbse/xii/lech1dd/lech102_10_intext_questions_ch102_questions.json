@@ -1,0 +1,44 @@
+[
+  {
+    "question_text": "If a current of 0.5 ampere flows through a metallic wire for 2 hours, then how many electrons would flow through the wire?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 2.25 × 10^22 electrons",
+    "explanation": "First, calculate the total charge (Q) using Q = I × t. Here, I = 0.5 A and t = 2 hours = 7200 seconds. So, Q = 0.5 A × 7200 s = 3600 C. The number of electrons is then given by dividing the total charge by the charge of one electron (1.6021 × 10⁻¹⁹ C). Therefore, Number of electrons = 3600 C ÷ 1.6021 × 10⁻¹⁹ C ≈ 2.25 × 10^22 electrons.",
+    "topic": "Electrolysis and Faraday's Laws",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "10_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in010"
+  },
+  {
+    "question_text": "Suggest a list of metals that are extracted electrolytically.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Sodium (Na), magnesium (Mg), and aluminum (Al)",
+    "explanation": "Electrolytic extraction is used for metals that cannot be reduced by chemical means because their cations are very stable. The text mentions that many metals such as sodium, magnesium, and aluminum are produced on a large scale by electrolytic reduction of their respective cations, making them typical examples of metals extracted electrolytically.",
+    "topic": "Electrolytic Cells and Electrolysis",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "10_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in011"
+  },
+  {
+    "question_text": "Consider the reaction: Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O. What is the quantity of electricity in coulombs needed to reduce 1 mol of Cr₂O₇²⁻?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 5.79 × 10^5 coulombs",
+    "explanation": "According to Faraday's laws of electrolysis, the charge required for a redox reaction is given by Q = nF, where n is the number of electrons and F is Faraday's constant (approximately 96487 C/mol). In the given reaction, 6 electrons are required to reduce 1 mol of Cr₂O₇²⁻, so Q = 6 × 96487 C ≈ 578922 C, which is approximately 5.79 × 10^5 coulombs.",
+    "topic": "Electrolysis and Faraday's Laws",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "10_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in012"
+  }
+]

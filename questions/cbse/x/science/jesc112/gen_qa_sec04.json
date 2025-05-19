@@ -1,0 +1,107 @@
+[
+  {
+    "question_text": "What is the standard potential difference between the live and neutral wires in domestic electric circuits in the given country?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "220 V",
+    "explanation": "According to the provided content, the potential difference between the live and neutral wires is 220 V.",
+    "topic": "Voltage in Domestic Circuits",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Why are appliances in separate circuits connected in parallel rather than in series?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "To ensure that each appliance receives the same potential difference, allowing them to operate correctly and independently.",
+    "explanation": "In the content, it is stated that appliances are connected in parallel to ensure each has an equal potential difference. This configuration allows each appliance to operate independently of the others, maintaining consistent voltage across all devices.",
+    "topic": "Circuit Connections",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "A high-power appliance draws a current of 15 A from a 220 V supply. Calculate the power consumed by the appliance.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The power consumed is P = V × I = 220 V × 15 A = 3300 W or 3.3 kW.",
+    "explanation": "Power (P) is calculated using the formula P = V × I, where V is the voltage and I is the current. Substituting the given values:\n\nP = 220 V × 15 A = 3300 W or 3.3 kW.",
+    "topic": "Power Calculation",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Explain the purpose of the earth wire in domestic electric circuits.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The earth wire provides a low-resistance path for current leakage to the ground, ensuring that any leakage keeps the appliance's potential equal to the earth, thereby preventing severe electric shocks.",
+    "explanation": "The earth wire is connected to the metallic parts of appliances and to a metal plate in the earth. In case of a fault or current leakage, the earth wire directs the excess current safely into the ground, maintaining the appliance at earth potential and preventing electric shocks to users.",
+    "topic": "Earth Wire Function",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "What happens to an electric fuse when the current in the circuit exceeds its rated value, and why?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The fuse melts due to Joule heating, breaking the circuit to prevent damage from overcurrent.",
+    "explanation": "When the current exceeds the fuse's rated value, excessive Joule heating occurs in the fuse's metal wire. This heating causes the metal to melt, thereby breaking the circuit and stopping the flow of excessive current, which protects the appliances and wiring from damage.",
+    "topic": "Fuse Operation",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Which of the following is NOT a possible cause of overloading in a domestic electric circuit?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Connecting too many appliances to a single socket",
+      "Accidental hike in supply voltage",
+      "Using appliances with lower power ratings",
+      "Direct contact between live and neutral wires"
+    ],
+    "correct_answer": "Using appliances with lower power ratings",
+    "explanation": "Option C is NOT a cause of overloading. Connecting too many appliances (Option A) increases the total current draw, an accidental increase in supply voltage (Option B) can raise the current beyond safe limits, and direct contact between live and neutral wires (Option D) leads to a short circuit, all of which can cause overloading. However, using appliances with lower power ratings typically reduces the current draw, thereby avoiding overloading.",
+    "topic": "Causes of Overloading",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "How does a fuse prevent damage to appliances during a short-circuit in the household electric circuit?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A fuse contains a metal wire that melts when excessive current flows through it due to a short-circuit, thereby breaking the circuit and stopping the flow of current to protect appliances.",
+    "explanation": "During a short-circuit, the current increases abruptly. The fuse's metal wire is designed to melt at a specific current threshold caused by Joule heating when excessive current flows through it. Melting the wire breaks the circuit, halting the current flow and protecting the appliances from damage.",
+    "topic": "Fuse Protection Mechanism",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Calculate the total power that can be safely drawn from a 15 A circuit at a potential difference of 220 V.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The total power is P = V × I = 220 V × 15 A = 3300 W or 3.3 kW.",
+    "explanation": "Using the power formula P = V × I, where V = 220 V and I = 15 A, we get:\n\nP = 220 V × 15 A = 3300 W or 3.3 kW. This is the maximum power that the 15 A circuit can safely handle.",
+    "topic": "Power Calculation of the Circuit",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Differentiate between the live wire, neutral wire, and earth wire in terms of their functions and color coding in domestic electric circuits.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "In domestic electric circuits:\\n\\n- **Live Wire**: Typically has a red insulation cover. It carries the positive voltage from the power supply to the appliances.\\n- **Neutral Wire**: Usually has a black insulation cover. It completes the electrical circuit by carrying the current back to the power source.\\n- **Earth Wire**: Generally has a green insulation cover. It is connected to the ground and provides a safety path for electrical current in case of a fault, preventing electric shocks by keeping the appliance's potential equal to that of the earth.",
+    "explanation": "The live wire is responsible for delivering electrical power to appliances, while the neutral wire completes the circuit by returning the current. The earth wire is a safety feature, ensuring that any stray current due to faults is safely directed into the ground, thereby protecting users from electric shocks. The distinct color coding (red for live, black for neutral, and green for earth) helps in identifying and correctly connecting the wires during installation and maintenance.",
+    "topic": "Wires in Domestic Circuits",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Multiple appliances are connected to a single 5 A circuit: a bulb (0.5 A), a fan (1 A), and a toaster (2.5 A). Calculate the total current drawn and determine if overloading occurs.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The total current drawn is 0.5 A + 1 A + 2.5 A = 4 A. Since 4 A < 5 A, overloading does not occur.",
+    "explanation": "Add the currents drawn by each appliance:\n\nTotal current = 0.5 A (bulb) + 1 A (fan) + 2.5 A (toaster) = 4 A.\n\nThe circuit is rated for 5 A, and since 4 A is less than 5 A, the circuit is operating within safe limits, and overloading does not occur.",
+    "topic": "Circuit Loading",
+    "bloom_level": "Apply"
+  }
+]

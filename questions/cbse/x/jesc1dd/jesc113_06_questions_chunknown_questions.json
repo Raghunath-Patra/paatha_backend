@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What is ozone and how does it affect any ecosystem?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Ozone (O₃) is a molecule composed of three oxygen atoms. In the stratosphere, it forms a protective layer that absorbs harmful ultraviolet (UV) radiation, thereby protecting living organisms from damage (e.g., skin cancer, cataracts, and damage to plant life). In the troposphere, however, ozone acts as a pollutant, contributing to smog and respiratory problems, and it can also damage vegetation.",
+    "explanation": "Ozone has distinct roles depending on its location in the atmosphere. In the upper atmosphere (stratosphere), the formation of ozone occurs via the reaction O₂ --(UV)--> 2O followed by O + O₂ → O₃. This ozone layer absorbs most of the Sun's harmful UV radiation, safeguarding ecosystems and human health. Conversely, near the Earth's surface (in the troposphere), ozone is produced by photochemical reactions involving industrial pollutants and sunlight. This ground-level ozone can cause respiratory issues, damage crops and other plant life, and contribute to urban smog. Understanding these dual roles is crucial for both environmental protection and public health.",
+    "topic": "Atmospheric Chemistry / Ecosystem Effects",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic010"
+  },
+  {
+    "question_text": "How can you help in reducing the problem of waste disposal? Give any two methods.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Two effective methods to reduce waste disposal issues are: (1) Reduce Consumption: Limiting purchases to what is necessary, avoiding single-use products, and selecting items with minimal packaging can greatly decrease the amount of waste produced; (2) Segregation and Recycling/Composting: By separating waste into biodegradable materials (which can be composted) and non-biodegradable materials (which can be recycled), we can ensure that waste is processed in an environmentally friendly way and minimize landfill accumulation.",
+    "explanation": "Reducing waste begins with minimizing consumption, which lowers the initial generation of waste. Effective waste management strategies involve segregating waste at the source — separating kitchen waste (biodegradable) from plastics, paper, and metals (non-biodegradable). Biodegradable materials can be composted to return valuable nutrients to the soil, while recyclables are processed to conserve raw materials and energy. This dual approach not only reduces environmental impact but also supports resource recovery and sustainable waste management practices.",
+    "topic": "Waste Management / Environmental Sustainability",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic011"
+  }
+]

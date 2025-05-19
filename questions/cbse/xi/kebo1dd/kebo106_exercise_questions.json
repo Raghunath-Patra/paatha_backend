@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "Draw illustrations to bring out the anatomical difference between (a) Monocot root and Dicot root and (b) Monocot stem and Dicot stem.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For roots: Dicot roots generally have a single, well-organized stele with a few, radially arranged vascular bundles (usually in a star-shaped arrangement) with a distinct endodermis and a small or inconspicuous pith. In contrast, Monocot roots typically have polyarch xylem with many vascular bundles, a larger and well-developed pith, and no secondary growth. For stems: Dicot stems show a ring arrangement of vascular bundles (conjoint, open bundles with a cambium enabling secondary growth) including distinct cortex and pith, while Monocot stems have scattered vascular bundles (conjoint, closed, often with a prominent sclerenchymatous hypodermis) without a clearly defined ring and lack secondary growth.",
+    "explanation": "This question requires students to illustrate and compare the key anatomical differences. In roots, differences include the arrangement and number of vascular bundles and the relative development of the pith. In stems, the arrangement of vascular bundles (ring in dicots versus scattered in monocots) and presence or absence of secondary growth are critical points. These differences are vital in plant anatomy for distinguishing between monocots and dicots.",
+    "topic": "Anatomy of Dicotyledonous and Monocotyledonous Plants (Roots and Stems)",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "kebo106",
+    "question_id": "cbse_xi_kebo1dd_c106_ex001"
+  },
+  {
+    "question_text": "Cut a transverse section of a young stem of a plant from your school garden and observe it under the microscope. How would you ascertain whether it is a monocot stem or a dicot stem? Give reasons.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Examine the arrangement of vascular bundles. In a dicot stem, vascular bundles are arranged in a ring and usually have a well-developed cortex and pith with the presence of vascular cambium that supports secondary growth. In a monocot stem, vascular bundles are scattered throughout the ground tissue, are conjoint and closed, and the stem typically lacks secondary growth.",
+    "explanation": "The answer focuses on the identification features. Dicots have a ring formation of vascular bundles with distinct regions of cortex, vascular tissue, and pith, and are capable of secondary growth due to the vascular cambium. Monocots display scattered vascular bundles with a different organization and no secondary growth. These features can be observed under a microscope in a transverse section.",
+    "topic": "Anatomy of Dicotyledonous and Monocotyledonous Plants (Stems)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kebo106",
+    "question_id": "cbse_xi_kebo1dd_c106_ex002"
+  },
+  {
+    "question_text": "The transverse section of a plant material shows the following anatomical features - (a) the vascular bundles are conjoint, scattered and surrounded by sclerenchymatous bundle sheaths; (b) phloem parenchyma is absent. What will you identify it as?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "This anatomical description is characteristic of a monocotyledonous stem.",
+    "explanation": "In monocot stems, the vascular bundles are typically scattered through the ground tissue and are conjoint (with xylem and phloem positioned together) and closed. They are often surrounded by a sclerenchymatous sheath, and the phloem parenchyma is generally absent. These features clearly differentiate monocot stems from dicot stems.",
+    "topic": "Anatomy of Dicotyledonous and Monocotyledonous Plants (Stems)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kebo106",
+    "question_id": "cbse_xi_kebo1dd_c106_ex003"
+  },
+  {
+    "question_text": "What is stomatal apparatus? Explain the structure of stomata with a labelled diagram.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The stomatal apparatus is a complex structure found in the epidermis of plant leaves, which facilitates gas exchange and regulates transpiration. It comprises the stomatal pore, which is flanked by a pair of guard cells that control the opening or closing of the pore. In some cases, subsidiary cells adjacent to the guard cells assist in enhancing the movement or function of the guard cells.",
+    "explanation": "The answer should describe that the stomatal apparatus is essential for managing water loss and gas exchange (CO2 for photosynthesis and O2 release). It should include details about the guard cells (bean-shaped in most plants and dumb-bell shaped in grasses), their thickened inner walls to control the stomatal opening, and mention the role of subsidiary cells. A labelled diagram should illustrate these components.",
+    "topic": "Epidermal Tissue System",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo106",
+    "question_id": "cbse_xi_kebo1dd_c106_ex004"
+  },
+  {
+    "question_text": "Name the three basic tissue systems in the flowering plants. Give the tissue names under each system.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The three basic tissue systems are: 1) Epidermal tissue system, which includes the epidermis, stomata, trichomes and root hairs; 2) Ground (fundamental) tissue system, which includes parenchyma, collenchyma, sclerenchyma and in the case of leaves, mesophyll; 3) Vascular (conducting) tissue system, which comprises xylem and phloem.",
+    "explanation": "This question requires recalling basic facts from the chapter. The answer categorizes the tissues based on their location and function within the plant. Each tissue system has specific tissues performing particular roles in protection, support, storage, and transport.",
+    "topic": "Tissue System in Flowering Plants",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo106",
+    "question_id": "cbse_xi_kebo1dd_c106_ex005"
+  },
+  {
+    "question_text": "How is the study of plant anatomy useful to us?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The study of plant anatomy is useful for understanding the structural organization and function of plants, aiding in the identification and classification of plants, improving agricultural practices, diagnosing plant diseases, and contributing to fields such as plant breeding and biotechnology.",
+    "explanation": "Understanding plant anatomy allows for insights into how different structures serve specific functions, how plants are adapted to their environments, and how these characteristics can be manipulated or enhanced in agricultural and research settings.",
+    "topic": "Plant Anatomy",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo106",
+    "question_id": "cbse_xi_kebo1dd_c106_ex006"
+  },
+  {
+    "question_text": "Describe the internal structure of a dorsiventral leaf with the help of labelled diagrams.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A dorsiventral leaf typically has an upper adaxial epidermis with a prominent cuticle (which may lack stomata), a palisade parenchyma layer consisting of elongated, closely arranged cells beneath the adaxial epidermis, and a loosely arranged spongy parenchyma with air spaces below. The lower abaxial epidermis usually bears more stomata. Embedded within the mesophyll are vascular bundles (veins) which are surrounded by a bundle sheath and contain xylem on the inner side and phloem on the outer side.",
+    "explanation": "The answer should detail the distinct layers of a dorsiventral leaf: the dual epidermal layers, two types of mesophyll (palisade for light absorption and spongy for gas exchange), and the arrangement of vascular bundles which support both transport and mechanical strength. Labelled diagrams help visualize the spatial organization of these tissues.",
+    "topic": "Anatomy of Dicotyledonous Leaf",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kebo106",
+    "question_id": "cbse_xi_kebo1dd_c106_ex007"
+  }
+]

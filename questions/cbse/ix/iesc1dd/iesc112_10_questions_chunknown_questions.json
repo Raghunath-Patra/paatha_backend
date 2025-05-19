@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "How are fish obtained?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Fish are obtained by two primary methods: capture fishing, where fish are caught from natural water bodies such as seas and rivers, and culture fishery (aquaculture), where fish are reared in controlled environments like ponds, tanks, or cages.",
+    "explanation": "The process of obtaining fish involves two approaches. Capture fishing relies on harvesting fish directly from their natural habitats, which requires knowledge of fish behavior and habitats. In contrast, aquaculture, also known as culture fishery, involves raising fish in man-made environments, offering a controlled setting for breeding and rearing. This dual method not only satisfies increasing market demand but also supports sustainable resource management by diversifying fish production.",
+    "topic": "Aquaculture and Capture Fishing",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic015"
+  },
+  {
+    "question_text": "What are the advantages of composite fish culture?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The main advantage of composite fish culture is that it increases the overall fish yield from a single pond by utilizing the food resources throughout different parts of the pond. Different fish species with varied feeding habits are cultured together, which minimizes direct competition and ensures efficient use of available food resources.",
+    "explanation": "Composite fish culture is a strategic method in aquaculture that involves raising multiple fish species in the same pond. Each species typically occupies a different trophic level or has different dietary requirements, which prevents competition for food. This method not only maximizes the pond's productivity by making full use of available food but also stabilizes the ecosystem by balancing different fish populations. The approach underscores sustainable farming practices by increasing yield without overloading a single species.",
+    "topic": "Composite Fish Culture",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic016"
+  }
+]

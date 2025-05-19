@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What are trophic levels? Give an example of a food chain and state the different trophic levels in it.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Trophic levels are the steps or positions that organisms occupy in a food chain, representing the flow of energy from one level to another. For example, in the food chain: Grass → Grasshopper → Frog → Snake, the trophic levels are: Grass (Producer, First Trophic Level), Grasshopper (Primary Consumer, Second Trophic Level), Frog (Secondary Consumer, Third Trophic Level), and Snake (Tertiary Consumer, Fourth Trophic Level).",
+    "explanation": "Trophic levels reflect the hierarchical positions in a food chain. Producers (autotrophs like grass) convert solar energy into chemical energy through photosynthesis. Primary consumers (herbivores such as grasshoppers) feed on producers, secondary consumers (carnivores like frogs) feed on primary consumers, and tertiary consumers (carnivores such as snakes) feed on secondary consumers. This sequence illustrates the flow of energy and the loss of energy at each step due to metabolic processes, supporting the concept of energy pyramids and ecological efficiency. Diagrams such as food chain illustrations help visualize these relationships.",
+    "topic": "Food Chains and Trophic Levels",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic001"
+  },
+  {
+    "question_text": "What is the role of decomposers in the ecosystem?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Decomposers, such as bacteria and fungi, break down dead organic matter (dead plants, animals, waste products) into simpler inorganic substances. This process releases essential nutrients back into the soil, water, and air, making them available again for producers like plants. They are critical for nutrient cycling and maintaining the balance of ecosystems.",
+    "explanation": "Decomposers perform the essential function of recycling materials in the ecosystem by decomposing dead organic matter and waste products. This biochemical process, often mediated by extracellular enzymes, converts complex organic compounds into simple inorganic nutrients (e.g., nitrogen, phosphorus) that can be taken up by plants. This nutrient cycling is vital for soil fertility and ecosystem sustainability. Without decomposers, dead matter and waste would accumulate, and the nutrient cycle would be significantly disrupted. In laboratory settings, experiments often involve measuring the rate of decomposition under controlled conditions to study these processes.",
+    "topic": "Nutrient Cycling and Decomposition",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic002"
+  }
+]

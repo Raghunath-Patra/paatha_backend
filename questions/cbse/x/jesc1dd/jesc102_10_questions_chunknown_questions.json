@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "What is the common name of the compound CaOCl₂?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Bleaching powder",
+    "explanation": "CaOCl₂ is commonly known as bleaching powder. It is widely used as a bleaching agent in the textile industry, for disinfecting water, and as a general oxidizing agent because of its ability to release chlorine when dissolved in water.",
+    "topic": "Salts and their reactions; Bleaching powder",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic014"
+  },
+  {
+    "question_text": "Name the substance which on treatment with chlorine yields bleaching powder.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Dry slaked lime (Calcium hydroxide, Ca(OH)₂)",
+    "explanation": "Dry slaked lime, chemically represented as Ca(OH)₂, reacts with chlorine to form bleaching powder (CaOCl₂). This reaction is fundamental in the production of bleaching powder, emphasising the role of calcium hydroxide as a base in forming salts with chlorine.",
+    "topic": "Chemical reactions; Formation of bleaching powder",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic015"
+  },
+  {
+    "question_text": "Name the sodium compound which is used for softening hard water.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Washing soda (Sodium carbonate, Na₂CO₃)",
+    "explanation": "Washing soda, chemically known as sodium carbonate (Na₂CO₃), is used for softening hard water. It works by precipitating calcium and magnesium salts from the water, thereby reducing water hardness.",
+    "topic": "Salts and water treatment",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic016"
+  },
+  {
+    "question_text": "What will happen if a solution of sodium hydrogencarbonate is heated? Give the equation of the reaction involved.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Upon heating, sodium hydrogencarbonate decomposes to form sodium carbonate, water, and carbon dioxide. The balanced equation is: 2NaHCO₃(s) → Na₂CO₃(s) + H₂O(l) + CO₂(g)",
+    "explanation": "When sodium hydrogencarbonate (NaHCO₃) is heated, it undergoes a thermal decomposition reaction. In this reaction, two molecules of NaHCO₃ decompose to yield one molecule of sodium carbonate (Na₂CO₃), one molecule of water (H₂O), and one molecule of carbon dioxide (CO₂). This reaction is important in understanding how heating affects chemical compounds and is frequently observed in both laboratory and industrial settings.",
+    "topic": "Thermal decomposition; Chemical reactions of salts",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic017"
+  },
+  {
+    "question_text": "Write an equation to show the reaction between Plaster of Paris and water.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O",
+    "explanation": "Plaster of Paris is calcium sulphate hemihydrate (CaSO₄·½H₂O). When water is added to Plaster of Paris, it reacts by absorbing water molecules to form gypsum (calcium sulphate dihydrate, CaSO₄·2H₂O). This hydration reaction is exothermic and is critical in the setting process used in medical casts and construction materials.",
+    "topic": "Hydration reactions; Properties of salts",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc102",
+    "question_id": "cbse_x_jesc1dd_c102_ic018"
+  }
+]

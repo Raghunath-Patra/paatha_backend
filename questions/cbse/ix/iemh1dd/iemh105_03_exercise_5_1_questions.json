@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "Which of the following statements are true and which are false? Give reasons for your answers.\n(i) Only one line can pass through a single point.\n(ii) There are an infinite number of lines which pass through two distinct points.\n(iii) A terminated line can be produced indefinitely on both the sides.\n(iv) If two circles are equal, then their radii are equal.\n(v) In Fig. 5.9, if AB = PQ and PQ = XY, then AB = XY.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) False – Through a single point, infinitely many lines can be drawn. \n(ii) False – Two distinct points determine a unique line. \n(iii) True – A terminated line (line segment) can be extended indefinitely on both sides by postulate. \n(iv) True – Equal circles must have equal radii. \n(v) True – By the transitive property of equality, if AB = PQ and PQ = XY, then AB = XY.",
+    "explanation": "For (i), note that a single point does not restrict the direction of a line, so infinitely many lines pass through it. For (ii), Euclid’s axiom (or the uniqueness of the line through two distinct points) guarantees only one line passes through any two distinct points. In (iii), Euclid’s postulate about extending a line segment (terminated line) confirms that it can be produced indefinitely. In (iv), if two circles are equal in size, they must share the same radius because the radius is the defining measure of the circle. Finally, in (v), equality is transitive; hence, if AB equals PQ and PQ equals XY, then AB equals XY.",
+    "topic": "Basic Geometric Properties and Transitive Property of Equality",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh105",
+    "question_id": "cbse_ix_iemh1dd_c105_ex001"
+  },
+  {
+    "question_text": "Give a definition for each of the following terms. Are there other terms that need to be defined first? What are they, and how might you define them?\n(i) parallel lines\n(ii) perpendicular lines\n(iii) line segment\n(iv) radius of a circle\n(v) square",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Parallel lines: Lines in the same plane that do not meet, no matter how far they are extended. \nPerpendicular lines: Lines that intersect to form right angles (90°). \nLine segment: A part of a line that is bounded by two distinct end points and contains every point on the line between them. \nRadius of a circle: A line segment from the center of the circle to any point on the circle. \nSquare: A quadrilateral with four equal sides and four right angles.\nAdditional terms that require definitions include ‘point’ (an exact location in space with no dimension), ‘line’ (an extent with length but no breadth), and ‘plane’ (a flat, two-dimensional surface extending infinitely in all directions).",
+    "explanation": "Each term is defined using fundamental geometric ideas. However, to understand these definitions fully, one must first know what is meant by a point, line, and plane. For instance, the concept of a 'line segment' assumes a prior clear concept of a line with endpoints, and defining a square assumes an understanding of quadrilaterals and angles. Hence, prerequisites such as point, line, and plane must be accepted as undefined terms or defined intuitively.",
+    "topic": "Geometric Definitions",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh105",
+    "question_id": "cbse_ix_iemh1dd_c105_ex002"
+  },
+  {
+    "question_text": "Consider two ‘postulates’ given below:\n(i) Given any two distinct points A and B, there exists a third point C which is in between A and B.\n(ii) There exist at least three points that are not on the same line.\nDo these postulates contain any undefined terms? Are these postulates consistent? Do they follow from Euclid’s postulates? Explain.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "These postulates do contain undefined terms such as 'between' and even the notion of a 'point'. They are independent assumptions that serve as additional or alternative axioms in a geometric system. They are consistent if the underlying system of geometry is consistent, and while they are compatible with Euclid’s postulates, they do not directly follow from them; rather, they serve to enrich the foundational assumptions by explicitly addressing betweenness and the non-collinearity of points.",
+    "explanation": "Undefined terms like 'point' and 'between' are inherent in any geometrical axiom system. The first postulate introduces the idea of betweenness, which cannot be defined without circular reasoning if attempted through other already undefined terms. The second postulate asserts the existence of at least three non-collinear points, a necessary condition to ensure a plane. These are independent of Euclid’s five postulates; they can be accepted as additional axioms. Their consistency is judged relative to the whole axiomatic system: if the system is free from contradictions, then these postulates are consistent.",
+    "topic": "Foundations of Geometry and Axiomatic Systems",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh105",
+    "question_id": "cbse_ix_iemh1dd_c105_ex003"
+  },
+  {
+    "question_text": "If a point C lies between two points A and B such that AC = BC, then prove that AC = (1/2) AB. Explain by drawing the figure.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Since C lies between A and B, by the segment addition postulate, AB = AC + CB. Given AC = BC, we have AB = AC + AC = 2·AC, which implies AC = (1/2)AB.",
+    "explanation": "Step 1: Recognize that if C is between A and B, then AB is the sum of AC and CB. \nStep 2: Since AC equals CB by the given, substitute to get AB = AC + AC. \nStep 3: Simplify to AB = 2·AC. \nStep 4: Divide both sides by 2 to conclude AC = (1/2)AB. \nA diagram would show a straight line with points A, C, and B in order with equal segments AC and CB.",
+    "topic": "Segment Addition and Midpoint Concept",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh105",
+    "question_id": "cbse_ix_iemh1dd_c105_ex004"
+  },
+  {
+    "question_text": "In Question 4, point C is called a mid-point of line segment AB. Prove that every line segment has one and only one mid-point.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Proof: Existence follows from the construction provided in Question 4, where a point C dividing AB into two equal parts is constructed. For uniqueness, assume there are two distinct midpoints, C and C′, on AB. Then, by definition, AC = CB and AC′ = C′B. If C ≠ C′, one of these points lies between the other and an endpoint. This would violate the additivity of segments (i.e., the sum of parts would exceed half of AB for one of the segments) or the uniqueness of the division of AB into equal parts. Hence, there can be only one unique midpoint for any line segment.",
+    "explanation": "Step 1: Using the construction method (as in Question 4), a midpoint C can be found such that AC = CB.\nStep 2: To prove uniqueness, assume there exist two distinct midpoints, C and C′. \nStep 3: Without loss of generality, assume C lies between A and C′. Then segment AC + C C′ + C′B equals AB. But since both C and C′ are midpoints, AC = CB and AC′ = C′B. This leads to a contradiction regarding the lengths of the segments, since one then has to be less than or greater than half of AB. \nStep 4: Therefore, the only possibility is that the midpoint is unique.",
+    "topic": "Midpoint Theorem and Uniqueness",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh105",
+    "question_id": "cbse_ix_iemh1dd_c105_ex005"
+  },
+  {
+    "question_text": "In Fig. 5.10, if AC = BD, then prove that AB = CD.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Since points A, B, C, D are collinear in order and AC = BD, we express AC as AB + BC and BD as BC + CD. Equating them gives AB + BC = BC + CD. Subtracting BC from both sides leads to AB = CD.",
+    "explanation": "Step 1: Write the segment addition relations: AC = AB + BC and BD = BC + CD.\nStep 2: Given AC = BD, equate them: AB + BC = BC + CD.\nStep 3: Subtract BC from both sides to get AB = CD.\nStep 4: This completes the proof showing that the segments AB and CD are equal.",
+    "topic": "Segment Addition and Equality of Line Segments",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh105",
+    "question_id": "cbse_ix_iemh1dd_c105_ex006"
+  },
+  {
+    "question_text": "Why is Axiom 5, in the list of Euclid’s axioms, considered a ‘universal truth’? (Note that the question is not about the fifth postulate.)",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Axiom 5, which states 'The whole is greater than the part', is considered a universal truth because it is a self-evident, intuitive principle that applies to all magnitudes. It underlies many results in mathematics and is accepted without proof as it reflects a basic observation about how parts relate to a whole.",
+    "explanation": "Axiom 5 is viewed as universally true because it encapsulates an obvious fact: any complete object must be larger than any of its proper parts. This principle does not require proof; instead, it is observed in everyday experiences and is used as the foundation for comparing magnitudes in geometry and arithmetic. Its intuitive nature makes it acceptable as an axiom across various domains of mathematics.",
+    "topic": "Properties of Axioms and Fundamental Truths in Geometry",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "iemh105",
+    "question_id": "cbse_ix_iemh1dd_c105_ex007"
+  }
+]

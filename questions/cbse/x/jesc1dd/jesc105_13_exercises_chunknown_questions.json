@@ -1,0 +1,191 @@
+[
+  {
+    "question_text": "The kidneys in human beings are a part of the system for:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "nutrition",
+      "respiration",
+      "excretion",
+      "transportation"
+    ],
+    "correct_answer": "excretion",
+    "explanation": "The kidneys filter the blood to remove nitrogenous wastes, producing urine. This excretory function is essential for maintaining the chemical balance in the body.",
+    "topic": "Excretory System",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex001"
+  },
+  {
+    "question_text": "The xylem in plants are responsible for:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "transport of water",
+      "transport of food",
+      "transport of amino acids",
+      "transport of oxygen"
+    ],
+    "correct_answer": "transport of water",
+    "explanation": "Xylem vessels are specialized for transporting water and dissolved minerals from the roots to the rest of the plant. They consist mainly of dead, lignified cells that form continuous tubes.",
+    "topic": "Plant Transport System",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex002"
+  },
+  {
+    "question_text": "The autotrophic mode of nutrition requires:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "carbon dioxide and water",
+      "chlorophyll",
+      "sunlight",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "explanation": "Autotrophs, such as green plants, require carbon dioxide, water, sunlight and chlorophyll for photosynthesis. These elements allow them to synthesize carbohydrates and store energy.",
+    "topic": "Autotrophic Nutrition",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex003"
+  },
+  {
+    "question_text": "The breakdown of pyruvate to give carbon dioxide, water and energy takes place in:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "cytoplasm",
+      "mitochondria",
+      "chloroplast",
+      "nucleus"
+    ],
+    "correct_answer": "mitochondria",
+    "explanation": "In aerobic respiration, pyruvate enters the mitochondria where it is completely oxidized through the Krebs cycle and electron transport chain, producing carbon dioxide, water and a significant amount of ATP.",
+    "topic": "Cellular Respiration",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex004"
+  },
+  {
+    "question_text": "How are fats digested in our bodies? Where does this process take place?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Fats are emulsified by bile salts from the liver into smaller globules in the small intestine, increasing the surface area. Then, the enzyme lipase, secreted by the pancreas and intestinal wall, breaks these emulsified fats into fatty acids and glycerol.",
+    "explanation": "The process begins with emulsification, which is necessary because fats are hydrophobic. Bile salts act like detergents to disperse the fats into tiny droplets. Lipase then hydrolyzes the triglycerides into fatty acids and glycerol for absorption in the small intestine.",
+    "topic": "Digestion and Enzymatic Breakdown",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex005"
+  },
+  {
+    "question_text": "What is the role of saliva in the digestion of food?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Saliva moistens food to facilitate chewing and swallowing, and contains the enzyme salivary amylase (ptyalin), which begins the breakdown of starch into simpler sugars such as maltose.",
+    "explanation": "Saliva not only lubricates food but also initiates the chemical digestion of carbohydrates. The enzyme salivary amylase catalyzes the hydrolysis of starch, making the food easier to digest further in the gastrointestinal tract.",
+    "topic": "Digestion",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex006"
+  },
+  {
+    "question_text": "What are the necessary conditions for autotrophic nutrition and what are its by-products?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Autotrophic nutrition requires the presence of chlorophyll, along with the availability of carbon dioxide, water, and sunlight. Through photosynthesis, these inputs are used to produce carbohydrates, with oxygen (and sometimes water) as the by-products.",
+    "explanation": "Plants convert light energy into chemical energy by using carbon dioxide and water in the presence of chlorophyll and sunlight. The overall chemical equation for photosynthesis is: 6CO₂ + 12H₂O --(Chlorophyll/Sunlight)--> C₆H₁₂O₆ + 6O₂ + 6H₂O. The oxygen produced is released as a by-product while carbohydrates are synthesized and stored.",
+    "topic": "Autotrophic Nutrition",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex007"
+  },
+  {
+    "question_text": "What are the differences between aerobic and anaerobic respiration? Name some organisms that use the anaerobic mode of respiration.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Aerobic respiration requires oxygen, occurs in the mitochondria, and completely oxidizes glucose into carbon dioxide and water, yielding approximately 38 ATP molecules per glucose molecule. Anaerobic respiration occurs in the absence of oxygen, takes place in the cytoplasm, and partially breaks down glucose into ethanol and carbon dioxide in yeast or into lactic acid in muscle cells, yielding about 2 ATP molecules per glucose. Organisms that use anaerobic respiration include yeast, certain bacteria, and human muscle cells during strenuous exercise.",
+    "explanation": "Aerobic respiration is more efficient and occurs in well-oxygenated environments, whereas anaerobic respiration is used when oxygen is scarce. The location of these processes (mitochondrial matrix vs. cytoplasm) and the by-products (CO₂ and H₂O vs. ethanol/lactic acid) are distinct. Yeast and some bacteria are adapted to anaerobic conditions, and human muscle cells switch to anaerobic glycolysis during intense physical activity, resulting in lactic acid buildup.",
+    "topic": "Cellular Respiration",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex008"
+  },
+  {
+    "question_text": "How are the alveoli designed to maximise the exchange of gases?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Alveoli are numerous, tiny, balloon-like air sacs with extremely thin (one-cell thick) walls surrounded by a dense network of capillaries. This design maximizes the total surface area available for gas exchange while minimizing the diffusion distance between alveolar air and blood.",
+    "explanation": "The structural design of alveoli enables efficient diffusion of oxygen into the blood and carbon dioxide out of the blood. A large surface area, combined with a very short diffusion path, increases the rate of gas exchange, which is critical for meeting the metabolic demands of the body.",
+    "topic": "Respiration and Gas Exchange",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex009"
+  },
+  {
+    "question_text": "What would be the consequences of a deficiency of haemoglobin in our bodies?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A deficiency of haemoglobin, as seen in anemia, would reduce the oxygen-carrying capacity of the blood, leading to insufficient oxygen delivery to tissues. This can cause fatigue, weakness, shortness of breath, dizziness, and impaired physical and cognitive performance.",
+    "explanation": "Haemoglobin is essential for binding and transporting oxygen from the lungs to the tissues. Inadequate levels of haemoglobin compromise the oxygen supply, resulting in cellular hypoxia and the associated symptoms. This condition can affect overall body function and health.",
+    "topic": "Blood and Oxygen Transport",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex010"
+  },
+  {
+    "question_text": "Describe double circulation of blood in human beings. Why is it necessary?",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Double circulation involves two distinct circuits: pulmonary circulation and systemic circulation. In pulmonary circulation, the right ventricle pumps deoxygenated blood to the lungs where gas exchange occurs, and oxygenated blood returns to the left atrium. In systemic circulation, the left ventricle pumps this oxygenated blood to the rest of the body, and deoxygenated blood returns to the right atrium. This separation ensures that the oxygen-rich blood is efficiently delivered to meet the metabolic demands of the tissues.",
+    "explanation": "The two circuits prevent the mixing of oxygenated and deoxygenated blood, which allows for a higher efficiency in oxygen delivery. This design is particularly important in warm-blooded organisms with high metabolic rates. The process is facilitated by the structure of the heart chambers and the presence of valves that ensure unidirectional blood flow.",
+    "topic": "Cardiovascular System",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex011"
+  },
+  {
+    "question_text": "What are the differences between the transport of materials in xylem and phloem?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Xylem primarily transports water and dissolved mineral nutrients from the roots to the aerial parts of the plant via dead, lignified vessel elements and tracheids, using physical forces such as transpiration pull, cohesion, and adhesion. Phloem, on the other hand, transports organic compounds like sugars, amino acids, and hormones bidirectionally from source tissues (e.g., leaves) to sink tissues (e.g., roots, fruits) through living sieve-tube elements and companion cells, utilizing energy-dependent loading and unloading processes.",
+    "explanation": "The xylem’s design, comprising dead cells with thick walls, facilitates unidirectional upward flow driven by physical forces, while the phloem consists of living cells that manage a dynamic, bidirectional flow based on osmotic gradients and active transport mechanisms. This difference in structure and function reflects the distinct types of substances being transported.",
+    "topic": "Plant Transport System",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex012"
+  },
+  {
+    "question_text": "Compare the functioning of alveoli in the lungs and nephrons in the kidneys with respect to their structure and functioning.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Both alveoli and nephrons are specialized structures optimized for exchange processes. Alveoli are small, thin-walled air sacs in the lungs that maximize gas exchange between inhaled air and blood by providing a large total surface area and a minimal diffusion distance. Nephrons are the functional units of the kidneys, consisting of a glomerulus enclosed by Bowman’s capsule followed by a series of tubules that filter blood, reabsorb essential nutrients and water, and secrete wastes, all driven by pressure gradients and selective cellular transport.",
+    "explanation": "Although both systems are designed to maximize efficiency, their purposes differ: alveoli facilitate the diffusion of gases (O₂ and CO₂) primarily through passive processes, while nephrons employ active and passive mechanisms to filter, reabsorb, and secrete substances as part of urine formation. Both rely on a high surface area and close contact with capillaries to optimize their respective exchange processes.",
+    "topic": "Comparative Physiology: Respiratory and Excretory Systems",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ex013"
+  }
+]

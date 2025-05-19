@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4 and 5 assuming that (i) repetition of the digits is allowed and (ii) repetition of the digits is not allowed?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) 125; (ii) 60",
+    "explanation": "For part (i): When repetition is allowed, each of the three places (hundreds, tens and units) can be filled in 5 ways. Total number = 5 × 5 × 5 = 125. For part (ii): When repetition is not allowed, the hundreds place can be filled in 5 ways, the tens place in 4 ways (remaining digits), and the units place in 3 ways, for a total of 5 × 4 × 3 = 60.",
+    "topic": "Fundamental Counting Principle, Permutations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex001"
+  },
+  {
+    "question_text": "How many 3-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if the digits can be repeated?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "108",
+    "explanation": "The units place must be an even digit. The even digits in the set are 2, 4, and 6, giving 3 choices for the units place. Since digits can be repeated, the hundreds and tens places can each be any of the 6 digits. Therefore, the total number of 3-digit even numbers = 6 (hundreds) × 6 (tens) × 3 (units) = 108.",
+    "topic": "Fundamental Counting Principle, Permutations with Repetition",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex002"
+  },
+  {
+    "question_text": "How many 4-letter codes can be formed using the first 10 letters of the English alphabet, if no letter can be repeated?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "5040",
+    "explanation": "The problem asks for the number of possible arrangements (permutations) of 4 letters chosen from 10 with no repetition. Therefore, the number of codes = 10 × 9 × 8 × 7 = 5040.",
+    "topic": "Fundamental Counting Principle, Permutations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex003"
+  },
+  {
+    "question_text": "How many 5-digit telephone numbers can be constructed using the digits 0 to 9 if each number starts with 67 and no digit appears more than once?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "336",
+    "explanation": "Since every telephone number must start with 67, the first two digits are fixed. That uses up the digits 6 and 7. For the remaining three digits, there are 8 digits left (from the set 0–9 excluding 6 and 7) and no repetition is allowed. Thus, the number of telephone numbers = 8 (for the third digit) × 7 (for the fourth digit) × 6 (for the fifth digit) = 336.",
+    "topic": "Fundamental Counting Principle, Permutations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex004"
+  },
+  {
+    "question_text": "A coin is tossed 3 times and the outcomes are recorded. How many possible outcomes are there?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "8",
+    "explanation": "Each toss of a coin has 2 possible outcomes: Heads (H) or Tails (T). When a coin is tossed 3 times, the total number of possible outcomes = 2 × 2 × 2 = 2³ = 8.",
+    "topic": "Counting Principles",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex005"
+  },
+  {
+    "question_text": "Given 5 flags of different colours, how many different signals can be generated if each signal requires the use of 2 flags, one below the other?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "20",
+    "explanation": "A signal is created by arranging 2 flags one below the other. The upper flag can be chosen in 5 ways, and then the lower flag can be chosen in 4 ways (since repetition is not allowed). Thus, the total number of signals = 5 × 4 = 20.",
+    "topic": "Fundamental Counting Principle, Permutations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh106",
+    "question_id": "cbse_xi_kemh1dd_c106_ex006"
+  }
+]

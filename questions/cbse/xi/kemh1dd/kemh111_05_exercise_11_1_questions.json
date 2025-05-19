@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "A point is on the x-axis. What are its y-coordinate and z-coordinates?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The y-coordinate and z-coordinate are both 0. In other words, any point on the x-axis can be represented as (x, 0, 0) where x is a real number.",
+    "explanation": "A point on the x-axis lies entirely along that axis, meaning there is no displacement in the y- or z-directions. Therefore, by definition, the y-coordinate and z-coordinate must both be 0, leaving only the x-coordinate as non-zero.",
+    "topic": "3D Coordinate System, Axes",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kemh111",
+    "question_id": "cbse_xi_kemh1dd_c111_ex001"
+  },
+  {
+    "question_text": "A point is in the XZ-plane. What can you say about its y-coordinate?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The y-coordinate is 0. Every point in the XZ-plane is of the form (x, 0, z).",
+    "explanation": "The XZ-plane is defined by the x-axis and z-axis. This means that for any point lying in this plane, there is no displacement along the y-axis. Hence, the y-coordinate must be 0.",
+    "topic": "3D Coordinate System, Coordinate Planes",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kemh111",
+    "question_id": "cbse_xi_kemh1dd_c111_ex002"
+  },
+  {
+    "question_text": "Name the octants in which the following points lie: (1, 2, 3), (4, –2, 3), (4, –2, –5), (4, 2, –5), (–4, 2, –5), (–4, 2, 5), (–3, –1, 6), (–2, –4, –7).",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "• (1, 2, 3) lies in Octant I; • (4, –2, 3) lies in Octant IV; • (4, –2, –5) lies in Octant VIII; • (4, 2, –5) lies in Octant V; • (–4, 2, –5) lies in Octant VI; • (–4, 2, 5) lies in Octant II; • (–3, –1, 6) lies in Octant III; • (–2, –4, –7) lies in Octant VII.",
+    "explanation": "Determine the signs for each coordinate of the points and match them with the standard sign conventions for octants. In 3D space, Octant I has all positive coordinates. For example, (1, 2, 3) has x > 0, y > 0, z > 0 so it is in Octant I. For (4, –2, 3), x is positive, y is negative, and z is positive which corresponds to Octant IV. Continuing in this manner by comparing the signs with the provided table, the octants are determined as specified.",
+    "topic": "3D Coordinate Geometry, Octants",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "kemh111",
+    "question_id": "cbse_xi_kemh1dd_c111_ex003"
+  },
+  {
+    "question_text": "Fill in the blanks:\n(i) The x-axis and y-axis taken together determine a plane known as _______.\n(ii) The coordinates of points in the XY-plane are of the form _______.\n(iii) Coordinate planes divide the space into ______ octants.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) XY-plane; (ii) (x, y, 0); (iii) eight.",
+    "explanation": "Explanation: (i) The x-axis and y-axis, when taken together, form the XY-plane because every point in this plane can be described by its x and y values. (ii) In the XY-plane, since there is no height component out of the plane, the z-coordinate for every point is 0, so the coordinates are in the form (x, y, 0). (iii) The three mutually perpendicular coordinate planes divide the three-dimensional space into eight distinct regions known as octants.",
+    "topic": "3D Coordinate System, Coordinate Planes, Octants",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kemh111",
+    "question_id": "cbse_xi_kemh1dd_c111_ex004"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "Distinguish between speed and velocity.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Speed is the distance travelled per unit time and is a scalar quantity, while velocity is the displacement per unit time and is a vector quantity because it includes direction.",
+    "explanation": "Speed quantifies how fast an object moves without regard to direction, whereas velocity describes both the magnitude and the direction of motion. This distinction is vital in kinematics, where vector quantities (like velocity) provide more detailed information about the motion of an object than scalars (like speed).",
+    "topic": "Motion, Kinematics",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic004"
+  },
+  {
+    "question_text": "Under what condition(s) is the magnitude of average velocity of an object equal to its average speed?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The magnitude of the average velocity is equal to the average speed when the object travels in a straight line and does not change its direction.",
+    "explanation": "When an object moves along a straight path without reversing or changing direction, the total displacement is equal to the total distance traveled. Consequently, the numerical value of the average speed is the same as the magnitude of the average velocity. This scenario typically occurs in uniform linear motion.",
+    "topic": "Motion, Kinematics",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic005"
+  },
+  {
+    "question_text": "What does the odometer of an automobile measure?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "An odometer measures the total distance travelled by the automobile.",
+    "explanation": "An odometer is an instrument specifically designed to record the cumulative distance traveled by a vehicle. It does not account for the displacement (or the direct straight-line distance) between the start and end points, but rather the entire path covered during the journey.",
+    "topic": "Measurement of Motion",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic006"
+  },
+  {
+    "question_text": "What does the path of an object look like when it is in uniform motion?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The path is a straight line.",
+    "explanation": "Uniform motion implies that an object is moving at a constant speed in a fixed direction. This results in a straight-line path. The concept highlights the relation between constant speed and unidirectional movement, fundamental in studying motion.",
+    "topic": "Motion, Kinematics",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic007"
+  },
+  {
+    "question_text": "During an experiment, a signal from a spaceship reached the ground station in five minutes. What was the distance of the spaceship from the ground station, given that the signal travels at the speed of light (3 × 10⁸ m/s)?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The distance is calculated as follows: convert 5 minutes to seconds (5 × 60 = 300 s), then use the formula distance = speed × time. Therefore, distance = 3 × 10⁸ m/s × 300 s = 9 × 10¹⁰ m.",
+    "explanation": "To determine the distance, first ensure that the units are consistent. Converting five minutes to seconds (300 s) allows us to use the speed of light directly in m/s. Multiplying 3 × 10⁸ m/s by 300 s yields 9 × 10¹⁰ meters. This calculation illustrates the application of the formula d = v × t in astrophysical measurements.",
+    "topic": "Motion, Kinematics, Measurement",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic008"
+  },
+  {
+    "question_text": "Example 7.2: The odometer of a car reads 2000 km at the start of a trip and 2400 km at the end of the trip. If the trip took 8 hours, calculate the average speed of the car in km/h and m/s.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The distance covered is 2400 km − 2000 km = 400 km. The average speed in km/h is 400 km / 8 h = 50 km/h. To convert km/h to m/s, use the conversion factor (1 km/h = 5/18 m/s). Thus, 50 km/h = 50 × (5/18) ≈ 13.9 m/s.",
+    "explanation": "This problem involves a two-step calculation. First, determine the distance covered by subtracting the initial reading from the final reading. Next, calculate the average speed by dividing the distance by the time. Finally, convert the average speed from km/h to m/s using the factor 5/18. This example reinforces concepts of unit conversion and the calculation of average speed.",
+    "topic": "Average Speed, Unit Conversion",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic009"
+  },
+  {
+    "question_text": "Example 7.3: Usha swims in a 90 m long pool. She covers 180 m in one minute by swimming from one end to the other and back along the same straight path. Find the average speed and average velocity of Usha.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Usha's total distance covered is 180 m, while her displacement is 0 m (since she returns to her starting point). Therefore, her average speed is 180 m / 60 s = 3 m/s and her average velocity is 0 m / 60 s = 0 m/s.",
+    "explanation": "Average speed is the total distance traveled divided by the time taken, which gives 3 m/s in this case. However, average velocity is defined as the displacement (the straight-line distance from the starting point to the ending point) divided by time. Since Usha ends up at her starting point, her displacement is zero, resulting in an average velocity of 0 m/s. This distinction is important in understanding vector and scalar quantities in motion.",
+    "topic": "Average Speed and Velocity, Kinematics",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic010"
+  }
+]

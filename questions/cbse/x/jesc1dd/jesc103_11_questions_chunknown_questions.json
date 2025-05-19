@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Metallic oxides of zinc, magnesium, and copper were heated with different metals. Using the reactivity series (Mg > Zn > Cu), determine in which cases displacement reactions will occur when ZnO, MgO, and CuO are each heated with zinc, magnesium, and copper.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Displacement reactions occur when a more reactive metal reduces the oxide of a less reactive metal. In this case: • ZnO: Reaction takes place when heated with magnesium (Mg + ZnO → MgO + Zn), but not with copper since Cu is less reactive than Zn. • MgO: No displacement reaction occurs when heated with either zinc or copper because magnesium is the most reactive among these metals. • CuO: Displacement reactions occur when heated with magnesium (Mg + CuO → MgO + Cu) and with zinc (Zn + CuO → ZnO + Cu).",
+    "explanation": "A displacement reaction occurs if the metal used for heating is more reactive than the metal present in the oxide. Since the reactivity series given is Mg > Zn > Cu, magnesium can displace both zinc and copper from their oxides, while zinc can displace copper from its oxide. However, the reverse is not possible; neither copper nor zinc can displace magnesium from its oxide, and copper cannot displace zinc from ZnO. This demonstrates the importance of relative metal reactivities in predicting displacement reactions.",
+    "topic": "Metal Reactivity and Displacement Reactions",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic013"
+  },
+  {
+    "question_text": "Which metals do not corrode easily?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Gold (Au) and Platinum (Pt) are metals that do not corrode easily. Silver (Ag) is also relatively resistant, though its corrosion behavior can vary under different conditions.",
+    "explanation": "Metals that are low in reactivity, such as gold and platinum, have a minimal tendency to react with environmental agents like oxygen, moisture, and sulfur compounds. Because of their position at the bottom of the reactivity series, they form stable compounds only under harsh conditions, making them highly resistant to corrosion. Silver is somewhat noble but can tarnish under certain circumstances due to the formation of silver sulfide.",
+    "topic": "Corrosion and Metal Reactivity",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic014"
+  },
+  {
+    "question_text": "What are alloys?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "An alloy is a homogeneous mixture composed of two or more elements, usually at least one metal mixed with another metal or a non-metal, that are combined by melting and mixing together. This process enhances certain properties of the component elements.",
+    "explanation": "Alloys are engineered to obtain improved or specific physical and chemical properties compared to the pure metals. They are prepared by melting the constituent elements in definite proportions and then cooling the mixture to form a uniform solid solution. For example, brass is an alloy of copper and zinc, and bronze is an alloy of copper and tin. Alloys are widely used in various applications because they often exhibit better strength, corrosion resistance, or workability than the individual metals from which they are made.",
+    "topic": "Alloys and Metallurgy",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic015"
+  }
+]

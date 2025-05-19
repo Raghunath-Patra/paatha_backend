@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Name two safety measures commonly used in electric circuits and appliances.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Electric Fuse and Earthing (Grounding).",
+    "explanation": "An electric fuse protects circuits and appliances by melting and breaking the circuit when an excessive current flows, thereby preventing damage due to overloading or short-circuiting. Earthing (grounding) provides a low-resistance path for any leakage current from a metallic appliance body to the earth, ensuring that the appliance remains at earth potential and minimizes the risk of electric shock.",
+    "topic": "Domestic Electric Circuits – Safety Measures",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic011"
+  },
+  {
+    "question_text": "An electric oven of 2 kW power rating is operated in a domestic electric circuit (220 V) that has a current rating of 5 A. What result do you expect? Explain.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The oven would draw approximately 9.09 A (since I = 2000 W / 220 V ≈ 9.09 A), which exceeds the circuit's 5 A rating. As a result, the safety fuse would blow, interrupting the circuit and preventing the oven from operating.",
+    "explanation": "To determine the current drawn by the oven, use the formula I = P/V where P = 2000 W and V = 220 V. The calculation gives I ≈ 9.09 A. This current far exceeds the circuit rating of 5 A. Domestic circuits are equipped with fuses (or MCBs) to protect against such overloading. When the current exceeds the rated value, the fuse melts (or the MCB trips) to break the circuit and prevent potential damage, meaning the oven cannot operate under these conditions.",
+    "topic": "Domestic Electric Circuits – Overloading and Fusing",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic012"
+  },
+  {
+    "question_text": "What precaution should be taken to avoid the overloading of domestic electric circuits?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "To avoid overloading, do not connect too many appliances to a single socket, avoid operating multiple high-power devices simultaneously on the same circuit, and ensure that wiring and protective devices (such as fuses or MCBs) are appropriately rated and properly installed.",
+    "explanation": "Overloading occurs when a circuit draws more current than it is rated for, which can happen if too many appliances or high-power devices (like ovens, heaters, etc.) are used simultaneously on a single circuit. Preventive measures include distributing appliances across different circuits, adhering to the current rating of the circuit, and using appropriate safety devices like correctly rated fuses or circuit breakers to protect against excess current.",
+    "topic": "Domestic Electric Circuits – Safety and Load Management",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic013"
+  }
+]

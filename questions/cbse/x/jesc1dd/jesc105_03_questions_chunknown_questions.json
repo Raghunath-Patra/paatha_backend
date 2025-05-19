@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Why is diffusion insufficient to meet the oxygen requirements of multi-cellular organisms like humans?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Diffusion is inefficient over long distances because in multi-cellular organisms, most cells are located deep inside the body and are not directly exposed to the external environment. Thus, relying solely on diffusion would not supply oxygen fast enough to meet the high metabolic demands of internal cells.",
+    "explanation": "In multi-cellular organisms, oxygen must travel from respiratory surfaces (such as the lungs) to cells located far away. Diffusion is a passive process that works effectively only over very short distances (typically a few micrometers). As body size increases, the distance between the oxygen intake site and internal cells increases, which severely limits the efficiency of oxygen transport. Therefore, specialized structures like lungs and a circulatory system are necessary to actively transport oxygen in the organism. This explanation ties into principles of mass transfer and the limitations imposed by slow diffusion processes.",
+    "topic": "Oxygen Transport and Diffusion Limitations in Multi-cellular Organisms",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic001"
+  },
+  {
+    "question_text": "What criteria do we use to decide whether something is alive?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "We decide if something is alive based on several criteria which include the ability to grow, reproduce, respond to stimuli, carry out metabolism such as respiration and nutrition, excrete waste products, and maintain an organized cellular structure.",
+    "explanation": "The criteria for life usually include visible processes (like growth or movement) and molecular processes (cellular respiration, metabolism) that require energy. Organisms must consume nutrients for energy, maintain internal conditions (homeostasis), and have complex cell organization. Although reproduction is essential for the survival of a species, the individual may not reproduce. This comprehensive set of properties distinguishes living organisms from non-living matter.",
+    "topic": "Characteristics of Life and Properties of Living Organisms",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic002"
+  },
+  {
+    "question_text": "What are outside raw materials used for by an organism?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Outside raw materials are used by organisms primarily as a source of energy and as building blocks for growth, repair, and maintenance. For example, food provides carbohydrates and fats for energy, while proteins, minerals, and water are employed in tissue growth and repair.",
+    "explanation": "Organisms obtain raw materials such as carbohydrates, fats, proteins, minerals, and water from their environment. These materials are used in two distinct ways: (1) as an energy source through metabolic processes like respiration (e.g., the oxidation of glucose, C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + energy) and (2) as components for building cellular structures for growth and repair. This dual role underlines the importance of nutrition in maintaining life.",
+    "topic": "Nutrition and Metabolism",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic003"
+  },
+  {
+    "question_text": "What processes would you consider essential for maintaining life?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The essential processes include nutrition, respiration, transportation, excretion, control and coordination, growth, and movement. Although reproduction is critical for the continuation of species, for the maintenance of individual life, the first seven processes are paramount.",
+    "explanation": "To maintain life, an organism must continuously perform several critical processes. Nutrition involves the intake and breakdown of food to obtain energy and raw materials. Respiration is the process of converting food into usable energy via chemical reactions (often involving oxygen). Transportation systems move nutrients, gases, and wastes within the body. Excretion removes harmful waste products. Control and coordination processes enable the organism to respond to stimuli, while growth and movement ensure that it can develop and interact effectively with its environment. Each of these processes works together to sustain the internal environment and functions of cells.",
+    "topic": "Life Processes and Homeostasis",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic004"
+  }
+]

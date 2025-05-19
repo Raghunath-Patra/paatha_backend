@@ -1,0 +1,44 @@
+[
+  {
+    "question_text": "How would you determine the standard electrode potential of the system Mg²⁺|Mg?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Construct a galvanic cell by coupling the Mg²⁺/Mg half‐cell with a standard hydrogen electrode (SHE) under standard conditions (1 M, 1 bar, 298 K). Measure the cell’s emf; since the SHE is assigned 0 V, the measured emf directly gives the standard electrode potential of the Mg²⁺/Mg system.",
+    "explanation": "In electrochemistry the electrode potential cannot be measured in isolation; only the potential difference between two half-cells can be determined. By using the SHE as a reference (which has a potential of 0 V) and forming a cell with the Mg²⁺/Mg half-cell, the emf of the cell equals the standard electrode potential of Mg²⁺/Mg. This process is analogous to the method described for measuring the electrode potentials for copper and zinc half-cells.",
+    "topic": "Electrochemical Cells – Measurement of Electrode Potential",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "04_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in001"
+  },
+  {
+    "question_text": "Can you store copper sulphate solutions in a zinc pot?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "No. When a zinc pot is used to store copper sulphate solution, a redox reaction occurs in which zinc (being a strong reducing agent with a very negative standard electrode potential) is oxidized to Zn²⁺ while Cu²⁺ ions are reduced to deposit copper metal on the pot.",
+    "explanation": "The standard electrode potentials indicate that the copper half-cell has a more positive potential compared to the zinc half-cell. This means copper ions have a greater tendency to be reduced while zinc is easily oxidized. As described in the section on galvanic cells, the reaction between zinc metal and copper sulphate will lead to the deposition of copper and dissolution of zinc, thereby contaminating the solution.",
+    "topic": "Galvanic Cells – Redox Reactions",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "04_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in002"
+  },
+  {
+    "question_text": "Consult the table of standard electrode potentials and suggest three substances that can oxidise ferrous ions under suitable conditions.",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Three substances that can oxidise ferrous ions (Fe²⁺) are fluorine gas (F₂), the permanganate ion (MnO₄⁻) in acidic solution, and the dichromate ion (Cr₂O₇²⁻).",
+    "explanation": "In a table of standard electrode potentials, the strength of an oxidising agent is indicated by the more positive (or highest) reduction potential. The section highlights that fluorine gas has the highest standard electrode potential, making it an excellent oxidising agent. Similarly, species like MnO₄⁻ and Cr₂O₇²⁻ possess high reduction potentials under acidic conditions, thus they can effectively oxidise Fe²⁺ to Fe³⁺ when used under suitable conditions.",
+    "topic": "Standard Electrode Potentials and Redox Reactions",
+    "bloom_level": "Analyze",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "04_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in003"
+  }
+]

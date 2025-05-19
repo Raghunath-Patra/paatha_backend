@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following equations correctly defines the average acceleration of an object in motion?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "a = (v2 - v1)/t2",
+      "a = (v2 - v1)/(t2 - t1)",
+      "a = v/t",
+      "a = t/v"
+    ],
+    "correct_answer": "a = (v2 - v1)/(t2 - t1)",
+    "explanation": "The average acceleration is defined as the change in velocity divided by the time interval, which is (v2 - v1)/(t2 - t1).",
+    "topic": "Definition of acceleration",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "keph102",
+    "section_id": "04_section_2_3",
+    "question_id": "cbse_xi_keph1dd_c102_gen088"
+  }
+]

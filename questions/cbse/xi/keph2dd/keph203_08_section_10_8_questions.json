@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following terms correctly describes the process by which a solid turns into a liquid?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Fusion",
+      "Sublimation",
+      "Vaporisation",
+      "Deposition"
+    ],
+    "correct_answer": "Fusion",
+    "explanation": "The change of state from solid to liquid is called melting or fusion. Sublimation is the transition from solid to vapor without passing through the liquid state.",
+    "topic": "Change of State",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "keph203",
+    "section_id": "08_section_10_8",
+    "question_id": "cbse_xi_keph2dd_c203_gen137"
+  }
+]

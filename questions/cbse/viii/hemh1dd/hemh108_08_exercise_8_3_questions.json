@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Carry out the multiplication of the expressions in each of the following pairs:\n(i) 4p, q + r\n(ii) ab, a – b\n(iii) a + b, 7a²b²\n(iv) a² – 9, 4a\n(v) pq + qr + rp, 0",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) 4p × (q + r) = 4pq + 4pr\n(ii) ab × (a – b) = a²b – ab²\n(iii) (a + b) × 7a²b² = 7a³b² + 7a²b³\n(iv) (a² – 9) × 4a = 4a³ – 36a\n(v) (pq + qr + rp) × 0 = 0",
+    "explanation": "To solve these, we use the distributive law to multiply each term:\n(i) Multiply 4p by q and by r: 4p×q = 4pq and 4p×r = 4pr, then add: 4pq + 4pr.\n(ii) Multiply ab by a to get a²b, and by (–b) to get –ab², then combine: a²b – ab².\n(iii) Multiply each term in (a + b) by 7a²b²: 7a²b²×a = 7a³b² and 7a²b²×b = 7a²b³.\n(iv) Multiply each term in (a² – 9) by 4a: 4a×a² = 4a³ and 4a×(–9) = –36a.\n(v) Multiplication by 0 gives 0 regardless of the other expression.",
+    "topic": "Multiplying a Monomial by a Polynomial",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex013"
+  },
+  {
+    "question_text": "Complete the table by finding the product of the given expressions:\n(i) First expression: a; Second expression: b + c + d; Product: ?\n(ii) First expression: x + y – 5; Second expression: 5xy; Product: ?\n(iii) First expression: p; Second expression: 6p² – 7p + 5; Product: ?\n(iv) First expression: 4p²q²; Second expression: p² – q²; Product: ?\n(v) First expression: a + b + c; Second expression: abc; Product: ?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) a × (b + c + d) = ab + ac + ad\n(ii) (x + y – 5) × 5xy = 5x²y + 5xy² – 25xy\n(iii) p × (6p² – 7p + 5) = 6p³ – 7p² + 5p\n(iv) 4p²q² × (p² – q²) = 4p⁴q² – 4p²q⁴\n(v) (a + b + c) × abc = a²bc + ab²c + abc²",
+    "explanation": "Using the distributive property, multiply the first expression by each term in the second expression:\n(i) a × b = ab, a × c = ac, a × d = ad.\n(ii) Multiply 5xy with each term in (x + y – 5) to get: 5xy×x = 5x²y, 5xy×y = 5xy², and 5xy×(–5) = –25xy.\n(iii) Multiply p with each term: p×6p² = 6p³, p×(–7p) = –7p², p×5 = 5p.\n(iv) Multiply 4p²q² with p² gives 4p⁴q² and with –q² gives –4p²q⁴.\n(v) Multiply abc with each term in (a + b + c): a×abc = a²bc, b×abc = ab²c, c×abc = abc².",
+    "topic": "Multiplying a Monomial by a Polynomial",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex014"
+  },
+  {
+    "question_text": "Find the product for each of the following:\n(i) (a²) × (2a²²) × (4a²⁶)\n(ii) (2/3 xy) × (–9/10 x²y²)\n(iii) (–10/3 pq³) × (6/5 p³q)\n(iv) x × x² × x³ × x⁴",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) (a²) × (2a²²) × (4a²⁶) = 8a^(2+22+26) = 8a^50\n(ii) (2/3 xy) × (–9/10 x²y²) = –(18/30)x^(1+2)y^(1+2) = –(3/5)x^3y^3\n(iii) (–10/3 pq³) × (6/5 p³q) = –(60/15)p^(1+3)q^(3+1) = –4p^4q^4\n(iv) x × x² × x³ × x⁴ = x^(1+2+3+4) = x^10",
+    "explanation": "Multiply the coefficients and add the exponents for like bases in each product:\n(i) Coefficients: 1×2×4 = 8; Exponents of a: 2 + 22 + 26 = 50, so answer is 8a^50.\n(ii) Coefficients: (2/3)×(–9/10) = –18/30 = –3/5; For x: exponent 1+2 = 3, for y: 1+2 = 3, resulting in –(3/5)x^3y^3.\n(iii) Coefficients: (–10/3)×(6/5) = –60/15 = –4; For p: 1+3 = 4 and for q: 3+1 = 4, hence –4p^4q^4.\n(iv) Add the exponents of x: 1+2+3+4 = 10 to get x^10.",
+    "topic": "Multiplying Monomials (Exponents)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex015"
+  },
+  {
+    "question_text": "a) Simplify the expression 3x(4x – 5) + 3 and evaluate it for:\n   (i) x = 3\n   (ii) x = 1/2\n\nb) Simplify the expression a(a² + a + 1) + 5 and evaluate it for:\n   (i) a = 0\n   (ii) a = 1\n   (iii) a = –1",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) 3x(4x – 5) + 3 = 12x² – 15x + 3. For x = 3: 12×9 – 15×3 + 3 = 108 – 45 + 3 = 66. For x = 1/2: 12×(1/4) – 15×(1/2) + 3 = 3 – 7.5 + 3 = -1.5.\n\nb) a(a² + a + 1) + 5 = a³ + a² + a + 5. For a = 0: 0 + 0 + 0 + 5 = 5; for a = 1: 1 + 1 + 1 + 5 = 8; for a = –1: (–1) + 1 – 1 + 5 = 4.",
+    "explanation": "a) Distribute 3x into (4x – 5): 3x×4x = 12x² and 3x×(–5) = –15x, then add 3. Substitute x = 3 and x = 1/2 into the simplified expression:\n   For x = 3: 12×9 – 15×3 + 3 = 108 – 45 + 3 = 66.\n   For x = 1/2: 12×(1/4) – 15×(1/2) + 3 = 3 – 7.5 + 3 = –1.5.\n\nb) Distribute a inside the parentheses: a × a² = a³, a × a = a², and a × 1 = a, then add 5 to obtain a³ + a² + a + 5. Substitute the given values:\n   For a = 0: 0 + 0 + 0 + 5 = 5.\n   For a = 1: 1 + 1 + 1 + 5 = 8.\n   For a = –1: (–1) + 1 – 1 + 5 = 4.",
+    "topic": "Simplification and Evaluation of Algebraic Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex016"
+  },
+  {
+    "question_text": "a) Add: p(p – q), q(q – r) and r(r – p).\n\nb) Add: 2x(z – x – y) and 2y(z – y – x).\n\nc) Subtract 3l(l – 4m + 5n) from 4l(10n – 3m + 2l).\n\nd) Subtract [3a(a + b + c) – 2b(a – b + c)] from 4c(–a + b + c).",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "a) p(p – q) + q(q – r) + r(r – p) = p² – pq + q² – qr + r² – pr = p² + q² + r² – (pq + qr + pr).\n\nb) 2x(z – x – y) + 2y(z – y – x) = [2xz – 2x² – 2xy] + [2yz – 2y² – 2xy] = 2xz + 2yz – 2x² – 2y² – 4xy.\n\nc) 4l(10n – 3m + 2l) – 3l(l – 4m + 5n) = (40ln – 12lm + 8l²) – (3l² – 12lm + 15ln) = 25ln + 5l².\n\nd) 4c(–a + b + c) – [3a(a + b + c) – 2b(a – b + c)] = (–4ac + 4bc + 4c²) – [3a² + ab + 3ac + 2b² – 2bc] = –3a² – ab – 7ac + 6bc + 4c² – 2b².",
+    "explanation": "a) First, expand each product: p(p – q) = p² – pq, q(q – r) = q² – qr, r(r – p) = r² – pr. Adding them gives p² + q² + r² – (pq + qr + pr).\n\nb) Expand 2x(z – x – y) to get 2xz – 2x² – 2xy and 2y(z – y – x) to get 2yz – 2y² – 2xy. Sum these to obtain 2xz + 2yz – 2x² – 2y² – 4xy.\n\nc) Expand 4l(10n – 3m + 2l) = 40ln – 12lm + 8l² and 3l(l – 4m + 5n) = 3l² – 12lm + 15ln. Subtracting the second from the first: (40ln – 12lm + 8l²) – (3l² – 12lm + 15ln) simplifies to (40ln – 15ln) + (8l² – 3l²) = 25ln + 5l².\n\nd) Expand 4c(–a + b + c) = –4ac + 4bc + 4c². Expand 3a(a + b + c) = 3a² + 3ab + 3ac and 2b(a – b + c) = 2ab – 2b² + 2bc. Their difference is [3a² + 3ab + 3ac] – [2ab – 2b² + 2bc] = 3a² + ab + 3ac + 2b² – 2bc. Now, subtract this entire expression from (–4ac + 4bc + 4c²) to get: –4ac + 4bc + 4c² – 3a² – ab – 3ac – 2b² + 2bc, which simplifies to –3a² – ab – 7ac + 6bc + 4c² – 2b².",
+    "topic": "Addition and Subtraction of Algebraic Expressions",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex017"
+  }
+]

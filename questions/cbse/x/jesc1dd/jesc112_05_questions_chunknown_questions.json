@@ -1,0 +1,59 @@
+[
+  {
+    "question_text": "Consider a circular loop of wire lying in the plane of the table with a current passing through it in a clockwise direction. Using the right‐hand rule, determine the direction of the magnetic field inside and outside the loop.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "When you curl the fingers of your right hand in the direction of the clockwise current, your thumb points downward. This indicates that the magnetic field inside the loop is directed downward (into the table) while the field lines outside the loop curve around and emerge upward (out of the table).",
+    "explanation": "This result follows from the right-hand grip rule. For a current loop, if the fingers follow the current direction, the thumb gives the direction of the magnetic field inside the loop. Outside the loop, the field lines form closed curves, emerging from one side and re-entering on the other, consistent with the field being a vector field. This principle is fundamental in electromagnetism and is used to predict magnetic field directions for current configurations.",
+    "topic": "Magnetic Field and Right-Hand Rule",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic004"
+  },
+  {
+    "question_text": "A given region has a uniform magnetic field. Draw a diagram to represent this magnetic field.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A uniform magnetic field is represented by a set of parallel, equidistant straight lines with arrows indicating the direction of the field. For example:\n\n  ------>\n  ------>\n  ------>\n  ------>\n\nThis diagram shows that the magnetic field has the same magnitude and direction at every point.",
+    "explanation": "In a uniform magnetic field, the strength and direction of the field do not change over the region. The depiction of parallel and evenly spaced lines with arrows gives a clear visual representation. Such diagrams are useful in visualizing fields in devices like Helmholtz coils or in regions far from magnetic sources where variations are minimal.",
+    "topic": "Magnetic Field Representation",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic005"
+  },
+  {
+    "question_text": "Choose the correct option: The magnetic field inside a long straight solenoid carrying current (is):",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A: is zero.",
+      "B: decreases as we move towards its end.",
+      "C: increases as we move towards its end.",
+      "D: is the same at all points."
+    ],
+    "correct_answer": "D: is the same at all points.",
+    "explanation": "For an ideal, infinitely long solenoid, the magnetic field inside is uniform due to the superposition of fields from each turn of the coil. In practical long solenoids (away from the ends), the field is approximately the same at all points. Although near the ends the field decreases, the correct answer applies to points well inside the solenoid where end effects are negligible.",
+    "topic": "Magnetic Field of a Solenoid",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic006"
+  },
+  {
+    "question_text": "In the experimental setup of Activity 12.7, an aluminum rod AB is suspended horizontally in an upward magnetic field (created by a horseshoe magnet with its north pole below and south pole above) and a current is passed through the rod. Why does the rod get displaced?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The rod gets displaced due to the motor effect, which is a manifestation of the Lorentz force. When current flows through the rod in the presence of a magnetic field, the rod experiences a force (F = I L × B) that is perpendicular to both the direction of the current and the magnetic field. According to Fleming's Left-Hand Rule, for the given current (flowing from B to A) in an upward magnetic field, the force acts towards the left. Reversing the current reverses the direction of the force, causing the rod to move towards the right.",
+    "explanation": "The electromagnetic force acting on a current-carrying conductor in a magnetic field is given by F = I L × B, where I is the current, L is the length vector of the conductor, and B is the magnetic field. By applying Fleming's Left-Hand Rule, one can determine the direction of the resulting force. In this setup, the displacement of the rod is a direct consequence of this force. This is a key concept in the working of electric motors, where the interaction of current and magnetic fields produces motion.",
+    "topic": "Motor Effect and Lorentz Force",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ic007"
+  }
+]

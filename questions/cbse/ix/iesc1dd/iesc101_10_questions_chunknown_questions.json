@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Why does a desert cooler cool better on a hot dry day?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "On a hot dry day, high temperature increases the kinetic energy of water particles and low humidity enhances evaporation. The pronounced evaporation from the water-soaked pads in a desert cooler absorbs latent heat, resulting in a more effective cooling process.",
+    "explanation": "In a desert cooler, water evaporates from the porous pads. On a hot day, the increased thermal energy provides water molecules the energy needed to transition into vapor. Low humidity in dry air ensures that evaporated molecules are quickly carried away, increasing the evaporation rate. This process absorbs energy (latent heat of vaporization, typically measured in kJ/kg) from the remaining water, thereby cooling the air. This is an example of evaporative cooling, a phenomenon where the phase change from liquid to gas uses heat energy from the environment.",
+    "topic": "Evaporation and Cooling",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic013"
+  },
+  {
+    "question_text": "How does the water kept in an earthen pot become cool during summer?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Water in an earthen pot cools due to the process of evaporative cooling. The porous nature of the earthen pot allows water to seep out onto its surface, which then evaporates. The evaporation process absorbs latent heat from the water remaining inside, thereby reducing its temperature.",
+    "explanation": "The pores in an earthen (matka) pot facilitate the slow seepage of water to the outer surface, where it evaporates. During evaporation, water molecules transition from the liquid to the gaseous phase by absorbing heat energy from the water inside the pot. This latent heat of vaporization (measured in kJ/kg) is drawn from the water, causing the temperature of the remaining water to drop. This cooling mechanism is commonly observed in traditional evaporative coolers and is a practical application of heat and mass transfer principles.",
+    "topic": "Evaporation and Heat Transfer",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic014"
+  },
+  {
+    "question_text": "Why does our palm feel cold when we put some acetone or petrol or perfume on it?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "When acetone, petrol, or perfume is applied to the palm, they evaporate quickly because they are volatile substances. The rapid evaporation process requires absorption of heat from the skin (latent heat of vaporization), which causes a cooling sensation on the palm.",
+    "explanation": "Volatile liquids like acetone, petrol, and perfume have high vapor pressures and low boiling points, which enable them to evaporate rapidly at room temperature. During evaporation, molecules require energy to change from the liquid to the gas phase, and this energy is drawn from the immediate environment—in this case, the skin. As heat is absorbed from the palm to overcome the attractive forces among molecules, the skin cools down, demonstrating the principle of evaporative cooling.",
+    "topic": "Evaporation and Phase Change",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic015"
+  },
+  {
+    "question_text": "Why are we able to sip hot tea or milk faster from a saucer rather than a cup?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A saucer has a larger surface area compared to a cup, which increases the rate of evaporation. Faster evaporation from the liquid’s surface removes heat more quickly, cooling the hot beverage faster and making it easier to sip.",
+    "explanation": "Evaporation is a surface phenomenon and depends on the exposed area. When you pour a hot liquid into a saucer, the increased surface area allows more molecules to escape as vapor, accelerating the cooling process. This efficient heat loss, due to latent heat of vaporization being absorbed from the liquid, results in quicker cooling compared to a cup that offers a smaller surface area. This concept is a practical demonstration of how geometry and thermodynamics interact to affect heat transfer.",
+    "topic": "Evaporation and Surface Area Effects",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic016"
+  },
+  {
+    "question_text": "What type of clothes should we wear in summer?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "We should wear light-coloured, cotton clothes during summer. Cotton clothes are breathable, absorb sweat efficiently, and their light colour helps reflect solar radiation, which promotes evaporation of perspiration and thus enhances cooling.",
+    "explanation": "Cotton is a natural fibre that is both breathable and moisture-absorbent. In hot weather, the body perspires to cool itself. Cotton absorbs this sweat and allows it to evaporate more readily, facilitating evaporative cooling. Additionally, light-coloured fabrics reflect more sunlight compared to dark colours, reducing the overall heat gain from solar radiation. This combination of properties makes cotton ideal for summer wear, linking material science with thermodynamic principles.",
+    "topic": "Heat Transfer and Material Properties",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic017"
+  }
+]

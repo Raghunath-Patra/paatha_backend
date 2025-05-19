@@ -1,0 +1,130 @@
+[
+  {
+    "question_text": "What is the electronic configuration of a carbon atom, and how many valence electrons does it possess?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The electronic configuration of a carbon atom is 1s² 2s² 2p². Carbon has four valence electrons.",
+    "explanation": "Carbon has an atomic number of 6, meaning it has 6 electrons. These electrons are distributed as 2 in the first shell (1s²) and 4 in the second shell (2s² 2p²). The valence electrons are those in the outermost shell, which are 4.",
+    "topic": "Electronic Configuration and Valency",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Which of the following best explains why carbon prefers to form covalent bonds rather than ionic bonds?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Carbon has a high electronegativity.",
+      "Carbon cannot lose or gain electrons easily.",
+      "Carbon has a complete outer shell.",
+      "Carbon has zero valence electrons."
+    ],
+    "correct_answer": "Carbon cannot lose or gain electrons easily.",
+    "explanation": "Option A is incorrect because high electronegativity typically favors covalent bonding but is not the primary reason for carbon's bonding behavior. Option B is correct because carbon has four valence electrons and it is difficult for it to lose or gain four electrons to form ions; hence, it prefers to share electrons through covalent bonds. Option C is incorrect as carbon does not have a complete outer shell naturally. Option D is incorrect because carbon has four valence electrons, not zero.",
+    "topic": "Bonding in Carbon",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Draw the electron dot structure for a molecule of chlorine gas (Cl₂) and indicate the type of bond formed between the chlorine atoms.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The electron dot structure for Cl₂ is:\n\nCl : Cl\na single covalent bond is formed between the two chlorine atoms.",
+    "explanation": "Each chlorine atom has seven valence electrons. To achieve an octet, each chlorine atom shares one electron with the other, forming a single covalent bond. This can be depicted as Cl : Cl, where the ':' represents the shared pair of electrons.",
+    "topic": "Electron Dot Structures",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Which statement correctly describes the bonding and properties of graphite compared to diamond?",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "options": [
+      "Graphite has a three-dimensional structure with each carbon bonded to four others, making it harder than diamond.",
+      "Graphite has layers of hexagonal arrays with each carbon bonded to three others, making it slippery and a good conductor of electricity.",
+      "Diamond and graphite have identical bonding structures but different physical properties due to impurities.",
+      "Graphite forms a rigid structure with high melting and boiling points, unlike diamond."
+    ],
+    "correct_answer": "Graphite has layers of hexagonal arrays with each carbon bonded to three others, making it slippery and a good conductor of electricity.",
+    "explanation": "Option A describes diamond, not graphite. Option B is correct because in graphite, each carbon atom is bonded to three others in a planar hexagonal arrangement, with layers that can slide over each other, making graphite slippery. Additionally, the delocalized electrons in graphite allow it to conduct electricity. Option C is incorrect as graphite and diamond have different bonding structures. Option D is incorrect because diamond forms a rigid three-dimensional structure with high melting and boiling points."
+  },
+  {
+    "question_text": "Explain why covalently bonded compounds generally have low melting and boiling points compared to ionic compounds.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Covalently bonded compounds generally have low melting and boiling points because the forces of attraction between their molecules, known as intermolecular forces, are relatively weak compared to the strong electrostatic forces between ions in ionic compounds. Since covalent bonds involve the sharing of electrons within molecules and do not create charged particles, less energy is required to overcome these weaker intermolecular forces during phase changes.",
+    "explanation": "Ionic compounds consist of a lattice of positively and negatively charged ions held together by strong electrostatic forces, requiring significant energy to break these bonds, resulting in high melting and boiling points. In contrast, covalently bonded compounds consist of discrete molecules held together by weaker intermolecular forces such as van der Waals forces, hydrogen bonds, or dipole-dipole interactions. These weaker forces require less energy to overcome, leading to lower melting and boiling points for covalent compounds.",
+    "topic": "Physical Properties of Covalent Compounds",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Methane (CH₄) is a simple compound of carbon. How many single covalent bonds does a carbon atom form in methane, and what is the geometry around the carbon atom?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A carbon atom forms four single covalent bonds in methane, and the geometry around the carbon atom is tetrahedral.",
+    "explanation": "Carbon has four valence electrons and forms four single covalent bonds by sharing one electron with each of four hydrogen atoms in methane. This arrangement results in a tetrahedral geometry to minimize electron pair repulsions.",
+    "topic": "Molecular Geometry and Bonding",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "What product is formed when a carbon-containing compound is burnt, and what test can confirm the presence of carbon in the compound?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "When a carbon-containing compound is burnt, carbon dioxide (CO₂) is formed. The presence of carbon can be confirmed by using the limewater test, where CO₂ turns limewater milky.",
+    "explanation": "Burning a carbon compound typically results in the formation of carbon dioxide and water. To confirm the presence of carbon, the produced carbon dioxide can be passed through limewater (calcium hydroxide solution). If carbon dioxide is present, it reacts with limewater to form calcium carbonate, making the solution appear milky.",
+    "topic": "Combustion and Chemical Tests",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Describe the difference in bonding between diamond and graphite allotropes of carbon and how this difference affects their physical properties.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "In diamond, each carbon atom is bonded to four other carbon atoms in a rigid three-dimensional tetrahedral structure, making diamond extremely hard with high melting and boiling points. In graphite, each carbon atom is bonded to three other carbon atoms in a planar hexagonal arrangement, forming layers with weak van der Waals forces between them. This makes graphite soft, slippery, and a good conductor of electricity, unlike diamond.",
+    "explanation": "Diamond's three-dimensional network of strong covalent bonds results in its exceptional hardness and high thermal conductivity. Graphite's two-dimensional layers allow them to slide over each other easily, giving graphite its lubricating properties and softness. Additionally, the delocalized electrons within graphite's layers enable it to conduct electricity, a property not found in diamond due to its lack of free electrons.",
+    "topic": "Allotropes of Carbon",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Nitrogen gas (N₂) has a triple bond between the two nitrogen atoms. How many electrons are shared in this triple bond, and what is the resulting electron dot structure?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A triple bond shares six electrons between the two nitrogen atoms. The electron dot structure is:\n\n:N≡N:\n\nwhere the triple line represents three shared pairs of electrons.",
+    "explanation": "Each nitrogen atom has five valence electrons. To achieve an octet, each nitrogen shares three electrons with the other, resulting in three shared pairs of electrons forming a triple bond. This is depicted as N≡N with three lines representing the triple bond.",
+    "topic": "Triple Bonds in Molecules",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Ammonia (NH₃) is a compound with the formula NH₃. Draw its electron dot structure and state whether it contains single, double, or triple bonds.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The electron dot structure of ammonia is:\n\n    H\n    |\nH—N—H\n\nAll bonds in NH₃ are single covalent bonds.",
+    "explanation": "Nitrogen has five valence electrons and each hydrogen has one. Nitrogen forms three single covalent bonds with three hydrogen atoms, sharing one electron with each, to complete its octet. There are no double or triple bonds in ammonia.",
+    "topic": "Electron Dot Structures and Bond Types",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Explain why graphite is a good conductor of electricity whereas other non-metals are generally poor conductors.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Graphite is a good conductor of electricity because it has delocalized electrons that can move freely within its layers, allowing electric current to pass through easily. In contrast, other non-metals typically lack such delocalized electrons, making them poor conductors of electricity.",
+    "explanation": "In graphite, each carbon atom is bonded to three others in a planar hexagonal structure, leaving one electron per carbon atom free to move across the layers. These delocalized electrons facilitate electrical conductivity. Other non-metals generally have electrons localized in their molecular or crystalline structures without free movement, resulting in poor electrical conductivity.",
+    "topic": "Electrical Conductivity of Allotropes",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Considering the low percentage of carbon in the Earth's crust (0.02%) and atmosphere (0.03%), discuss the significance of carbon in biological systems.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Despite its low abundance in the Earth's crust and atmosphere, carbon is essential in biological systems because of its unique ability to form four stable covalent bonds, allowing the formation of a vast variety of complex and stable molecules such as carbohydrates, proteins, lipids, and nucleic acids. This versatility makes carbon the backbone of all known life, enabling the diversity and complexity of living organisms.",
+    "explanation": "Carbon's tetravalency allows it to form strong covalent bonds with other carbon atoms and various elements, creating long chains and complex structures necessary for biological molecules. Its ability to form multiple stable bonding configurations (single, double, triple bonds) contributes to molecular diversity and the intricate chemistry of life, despite its relatively low natural abundance.",
+    "topic": "Biological Importance of Carbon",
+    "bloom_level": "Evaluate"
+  }
+]

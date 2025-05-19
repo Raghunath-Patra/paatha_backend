@@ -1,0 +1,59 @@
+[
+  {
+    "question_text": "A Mendelian experiment consisted of breeding tall pea plants bearing violet flowers with short pea plants bearing white flowers. The progeny all bore violet flowers, but almost half of them were short. This suggests that the genetic make‐up of the tall parent can be depicted as:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "TTWW",
+      "TTww",
+      "TtWW",
+      "TtWw"
+    ],
+    "correct_answer": "TtWW",
+    "explanation": "In this cross, the violet flower trait is dominant. Since all progeny display violet flowers, the tall parent must contribute the dominant W allele while the short parent is homozygous recessive (ww) for the white trait. The observation that nearly half the progeny are short implies that the height trait shows a 1:1 segregation; hence the tall parent must be heterozygous (Tt) for height. This results in the tall parent’s genotype as TtWW. The experiment, combining principles of dominant/recessive inheritance (Mendelian genetics) with trait segregation, supports this conclusion.",
+    "topic": "Mendelian Genetics – Inherited Traits",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ex001"
+  },
+  {
+    "question_text": "A study found that children with light-coloured eyes are likely to have parents with light-coloured eyes. On this basis, can we say anything about whether the light eye colour trait is dominant or recessive? Why or why not?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "No, based solely on this observation we cannot definitively conclude whether the light eye colour trait is dominant or recessive.",
+    "explanation": "If the trait were dominant, then children with light eyes could inherit the allele in a heterozygous form from parents who may be either homozygous dominant or heterozygous, making all offspring appear light-eyed. If the trait is recessive, then light-eyed children must be homozygous recessive, which implies that both parents provided a recessive allele. The observation that light-eyed children often have light-eyed parents is consistent with both possibilities. Therefore, additional genetic analysis or controlled breeding experiments would be needed to determine the mode of inheritance.",
+    "topic": "Heredity and Genetic Inheritance",
+    "bloom_level": "Evaluate",
+    "source": "exercise",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ex002"
+  },
+  {
+    "question_text": "Outline a project which aims to find the dominant coat colour in dogs.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The project should involve selecting a breed with two distinct coat colours, establishing pure-breeding lines through pedigree analysis, performing controlled crosses, and then analyzing the coat colour phenotypes in the progeny. For example, cross a homozygous Black (BB) dog with a homozygous Brown (bb) dog to obtain an F1 generation. If all F1 dogs are Black, Black is dominant over Brown. Further, interbreed the F1 generation (Bb x Bb) and examine the 3:1 ratio (Black:Brown) in the F2 generation to confirm the dominance.",
+    "explanation": "Step 1: Selection – Choose a breed with clearly distinguishable coat colours (e.g., Black vs. Brown in Labradors) and verify through pedigree records that these dogs are pure-breeding. \nStep 2: Parental Cross – Cross a pure-breeding Black dog (BB) with a pure-breeding Brown dog (bb). \nStep 3: F1 Generation – Observe that all offspring are Black. This indicates that the allele for Black is dominant over Brown. \nStep 4: F1 Cross – Interbreed the F1 dogs (all Bb). \nStep 5: F2 Generation – Record the coat colours of the F2 offspring. A 3:1 ratio (approximately 75% Black to 25% Brown) will confirm that Black is the dominant trait. \nThe project integrates experimental procedures, controlled breeding, and statistical analysis of phenotypic ratios to elucidate dominant traits in canine genetics.",
+    "topic": "Dominance in Genetic Inheritance and Experimental Design",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ex003"
+  },
+  {
+    "question_text": "How is the equal genetic contribution of male and female parents ensured in the progeny?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Equal genetic contribution is ensured by meiosis and fertilization. Both parents produce gametes (sperm and egg) that contain one set of chromosomes (haploid). When these gametes fuse at fertilization, the resulting zygote has two sets of chromosomes (diploid), one from each parent.",
+    "explanation": "During sexual reproduction, both male and female organisms produce gametes via meiosis, a specialized cell division that reduces the chromosome number by half. This process produces haploid gametes, each containing one allele for every gene. When the sperm and egg fuse during fertilization, they form a zygote that has a complete set of chromosomes contributed equally by both parents. This mechanism of chromosome halving and fusion ensures that the genetic material from both parents is equally represented in the offspring.",
+    "topic": "Sexual Reproduction and Genetic Contribution",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ex004"
+  }
+]

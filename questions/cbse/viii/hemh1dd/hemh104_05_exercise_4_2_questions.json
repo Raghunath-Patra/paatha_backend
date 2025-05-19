@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "List the outcomes you can see in these experiments: (a) Spinning a wheel with sectors A, B, C, D, A; (b) Tossing two coins together.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For (a), the outcomes are A, B, C, D, and A appears twice indicating that the wheel has two sectors labelled A. If we consider distinct outcomes, they are A, B, C, D. For (b), the outcomes when tossing two coins are: HH, HT, TH, TT.",
+    "explanation": "For experiment (a), list every outcome as marked on the spinner. Note that the letter A appears twice, which may be considered as two separate occurrences depending on the context. For (b), each coin has two possible outcomes (Head or Tail) and when two coins are tossed together, the total number of outcomes is 2×2 = 4. These outcomes are: HH, HT, TH, TT.",
+    "topic": "Random experiments and outcomes",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex006"
+  },
+  {
+    "question_text": "When a die is thrown, list the outcomes of an event of getting: (i) (a) a prime number, (b) not a prime number; (ii) (a) a number greater than 5, (b) a number not greater than 5.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) a. Prime numbers on a die are 2, 3, and 5; b. Not prime numbers are 1, 4, and 6. (ii) a. A number greater than 5 on a die is only 6; b. Numbers not greater than 5 are 1, 2, 3, 4, and 5.",
+    "explanation": "A standard die has six faces numbered 1 to 6. For part (i), identify the prime numbers: 2, 3 and 5 (note that 1 is not considered prime), and thus the non-prime outcomes are the remaining numbers: 1, 4, and 6. For part (ii), the only number greater than 5 is 6, so the event 'a number greater than 5' has one outcome, while the event 'a number not greater than 5' includes the outcomes 1, 2, 3, 4, and 5.",
+    "topic": "Events and outcomes in probability",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex007"
+  },
+  {
+    "question_text": "Find the following probabilities: (a) the probability of the pointer stopping on D in the spinner (from question 1-(a)); (b) the probability of getting an ace from a well shuffled deck of 52 playing cards; (c) the probability of getting a red apple from a figure showing a circle containing 4 green apples and 3 red apples.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) The probability is 1/5 because there are 5 outcomes on the spinner and only one is D. (b) The probability of getting an ace is 4/52, which simplifies to 1/13. (c) The probability of getting a red apple is 3/7, since there are 3 red apples out of a total of 7 apples.",
+    "explanation": "For (a), the spinner has 5 outcomes (noting that one sector, A, appears twice but still counts as a separate outcome instance), hence the probability for any one specified outcome (in this case D) is 1 divided by 5. For (b), in a deck of 52 cards, there are 4 aces. Therefore, the probability = 4/52 = 1/13. For (c), the total number of apples is 4 + 3 = 7. The event 'drawing a red apple' has 3 favorable outcomes. So, the probability = 3/7.",
+    "topic": "Classical probability",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex008"
+  },
+  {
+    "question_text": "Numbers 1 to 10 are written on ten separate slips and placed in a box. One slip is chosen without looking. What is the probability of: (i) getting the number 6; (ii) getting a number less than 6; (iii) getting a number greater than 6; (iv) getting a 1-digit number?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) 1/10; (ii) For numbers less than 6 (i.e., 1, 2, 3, 4, 5), probability = 5/10 = 1/2; (iii) For numbers greater than 6 (i.e., 7, 8, 9, 10), probability = 4/10 = 2/5; (iv) A 1-digit number is any number from 1 to 9, so probability = 9/10.",
+    "explanation": "There are 10 slips numbered 1 through 10. For (i), only one slip has the number 6, giving a probability of 1/10. For (ii), the numbers less than 6 are 1-5, hence 5 favorable outcomes which gives 5/10 or 1/2. For (iii), the numbers greater than 6 are 7, 8, 9, and 10, resulting in 4/10 or 2/5. For (iv), since only the number 10 is a 2-digit number, the 1-digit numbers count 9 out of 10 outcomes, so the probability is 9/10.",
+    "topic": "Basic probability with uniform outcomes",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex009"
+  },
+  {
+    "question_text": "If you have a spinning wheel with 3 green sectors, 1 blue sector, and 1 red sector, what is the probability of getting a green sector? What is the probability of getting a non blue sector?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The total number of sectors is 5. Therefore, the probability of getting a green sector is 3/5. For a non blue sector, add the green (3 sectors) and red (1 sector) outcomes to get 4, so the probability is 4/5.",
+    "explanation": "Count the total outcomes on the spinning wheel which is 3 (green) + 1 (blue) + 1 (red) = 5. The event of getting a green sector has 3 favorable outcomes, thus probability = 3/5. For a non blue outcome, there are 4 favorable sectors (green and red), which gives probability = 4/5.",
+    "topic": "Probability using equally likely outcomes",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex010"
+  },
+  {
+    "question_text": "Find the probabilities of the events given in Question 2 (i.e., for a die toss, determine: (i) probability of getting a prime number and not a prime number; (ii) probability of getting a number greater than 5 and not greater than 5).",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For a die: Total outcomes = 6. (i) Prime numbers on a die are 2, 3, and 5, so probability = 3/6 = 1/2; non prime numbers are 1, 4, 6, so probability = 3/6 = 1/2. (ii) The only number greater than 5 is 6, so probability = 1/6; numbers not greater than 5 are 1, 2, 3, 4, and 5, so probability = 5/6.",
+    "explanation": "A standard die has six faces numbered 1 to 6. For part (i), the prime outcomes are 2, 3, and 5 (3 outcomes), and the non prime outcomes are 1, 4, and 6 (3 outcomes), each giving a probability of 3/6 or 1/2. For part (ii), only 6 is greater than 5, so its probability is 1/6, while the complement (numbers 1 through 5) yields 5/6.",
+    "topic": "Events and probability calculation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "hemh104",
+    "question_id": "cbse_viii_hemh1dd_c104_ex011"
+  }
+]

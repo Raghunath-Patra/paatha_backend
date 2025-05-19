@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "What are wavelength, frequency, time period and amplitude of a sound wave?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Wavelength (λ) is the distance between two consecutive compressions or rarefactions; Frequency (ν) is the number of oscillations (or cycles) per unit time; Time period (T) is the time taken for one complete oscillation (T = 1/ν); Amplitude (A) is the magnitude of the maximum disturbance in the medium from its mean value.",
+    "explanation": "In a sound wave, the wavelength represents the spatial period of the wave, measured as the distance between similar points in consecutive cycles (such as compression to compression). Frequency is how many complete cycles pass a point in one second, measured in Hertz (Hz). The time period is the inverse of frequency, showing the duration of one cycle. Amplitude indicates the energy carried by the wave, which directly affects the sound's loudness. These parameters are key characteristics when analyzing sound waves and their propagation in a medium.",
+    "topic": "Characteristics of Sound Waves",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic003"
+  },
+  {
+    "question_text": "How are the wavelength and frequency of a sound wave related to its speed?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The speed (v) of a sound wave is given by the product of its wavelength (λ) and its frequency (ν), so v = λ × ν.",
+    "explanation": "This relationship is a fundamental wave property. The equation v = λ × ν shows that if either the wavelength or frequency increases, the speed of the sound wave will also change accordingly, assuming the medium remains constant. This helps in understanding how sound travels through different media by linking its oscillatory and spatial features.",
+    "topic": "Wave Propagation and Relationships",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic004"
+  },
+  {
+    "question_text": "Calculate the wavelength of a sound wave whose frequency is 220 Hz and speed is 440 m/s in a given medium.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The wavelength (λ) is calculated using the formula v = λ × ν. Thus, λ = v / ν = 440 m/s / 220 Hz = 2 m.",
+    "explanation": "Using the wave equation v = λν, where v is the speed of the sound wave, ν is its frequency, and λ is its wavelength, we substitute the given values (v = 440 m/s and ν = 220 Hz) to find λ = 440/220 = 2 m. This calculation demonstrates the direct relationship between wave speed, frequency, and wavelength.",
+    "topic": "Wave Calculations in Sound",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic005"
+  },
+  {
+    "question_text": "A person is listening to a tone of 500 Hz sitting at a distance of 450 m from the source of the sound. What is the time interval between successive compressions from the source?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The time interval between successive compressions is the time period (T) of the sound wave, calculated as T = 1/ν. For a frequency (ν) of 500 Hz, T = 1/500 = 0.002 seconds.",
+    "explanation": "The time period (T) represents the time for one complete cycle of oscillation. Since the compressions and rarefactions are periodic features of a sound wave, T (the inverse of frequency) gives the time interval between successive occurrences of these features. For a frequency of 500 Hz, the calculation is T = 1/500, which equals 0.002 s.",
+    "topic": "Time Period and Frequency in Sound Waves",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic006"
+  }
+]

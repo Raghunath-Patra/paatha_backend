@@ -1,0 +1,129 @@
+```json
+[
+  {
+    "question_text": "Define autotrophic nutrition and explain the role of chlorophyll in this process.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Autotrophic nutrition is the process by which organisms, known as autotrophs, synthesize their own food from inorganic substances. This process primarily occurs through photosynthesis, where chlorophyll plays a crucial role by absorbing light energy from the sun. Chlorophyll captures this light energy and facilitates the conversion of carbon dioxide and water into carbohydrates, which serve as stored energy for the plant.",
+    "explanation": "Autotrophic organisms, such as green plants and certain bacteria, undergo photosynthesis to produce their own food. Chlorophyll, the green pigment in chloroplasts, absorbs light energy, which is then used to convert carbon dioxide (CO₂) and water (H₂O) into glucose (C₆H₁₂O₆) and oxygen (O₂). This process not only provides energy for the plant but also releases oxygen into the atmosphere.",
+    "topic": "Autotrophic Nutrition",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which of the following is NOT a step in the process of photosynthesis?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Absorption of light energy by chlorophyll",
+      "Conversion of light energy to chemical energy",
+      "Splitting of water molecules into hydrogen and oxygen",
+      "Absorption of oxygen by chloroplasts"
+    ],
+    "correct_answer": "Absorption of oxygen by chloroplasts",
+    "explanation": "Option D is correct because the absorption of oxygen by chloroplasts is not a step in photosynthesis. The actual steps include absorption of light energy by chlorophyll, conversion of light energy to chemical energy, splitting of water molecules into hydrogen and oxygen, and reduction of carbon dioxide to carbohydrates. Oxygen is released as a byproduct, not absorbed.",
+    "topic": "Photosynthesis",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Explain how the presence of potassium hydroxide in Activity 5.2 affects the outcome of the starch test in the experiment.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Potassium hydroxide absorbs carbon dioxide, reducing the availability of CO₂ for photosynthesis. As a result, the plant accompanied by potassium hydroxide produces less starch compared to the control plant, indicating the importance of carbon dioxide in the photosynthesis process.",
+    "explanation": "In Activity 5.2, potassium hydroxide is used to absorb carbon dioxide, which is essential for photosynthesis. By removing CO₂, the plant placed near potassium hydroxide cannot perform photosynthesis effectively, leading to reduced starch production. The starch test will show a lack of starch in this plant, demonstrating the necessity of CO₂ for starch synthesis in plants.",
+    "topic": "Photosynthesis Experiments",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "Calculate the amount of glucose produced when 6 molecules of carbon dioxide are reduced during photosynthesis. (Assume the balanced equation for photosynthesis: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂)",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "1 molecule of glucose (C₆H₁₂O₆) is produced when 6 molecules of carbon dioxide (6CO₂) are reduced.",
+    "explanation": "According to the balanced equation for photosynthesis: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This indicates that 6 molecules of CO₂ are required to produce 1 molecule of glucose. Therefore, when 6 molecules of CO₂ are reduced, 1 molecule of glucose is formed.",
+    "topic": "Photosynthesis",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Describe the role of guard cells in regulating gas exchange in plants.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Guard cells regulate gas exchange by controlling the opening and closing of stomatal pores. When water flows into guard cells, they swell, causing the stomata to open and allowing gases like carbon dioxide to enter and oxygen to exit. Conversely, when water leaves the guard cells, they shrink, causing the stomata to close and reducing gas exchange.",
+    "explanation": "Guard cells are specialized cells that flank stomatal pores on the leaf surface. They respond to environmental conditions by altering their turgor pressure. High water availability causes guard cells to become turgid and open the stomata, facilitating gas exchange for photosynthesis. Low water availability leads to loss of turgor in guard cells, closing the stomata to conserve water.",
+    "topic": "Stomata and Guard Cells",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which of the following best explains why herbivores have longer small intestines compared to carnivores?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Herbivores require more enzymes for digestion.",
+      "Plant-based food contains more cellulose which requires longer time for digestion.",
+      "Carnivores digest food outside the body.",
+      "Herbivores absorb nutrients more efficiently."
+    ],
+    "correct_answer": "Plant-based food contains more cellulose which requires longer time for digestion.",
+    "explanation": "Option B is correct because herbivores consume plant-based diets rich in cellulose, a complex carbohydrate that is difficult to break down. A longer small intestine provides more surface area and time for the digestion and absorption of these complex substances. Options A, C, and D do not directly relate to the length of the small intestine in relation to diet.",
+    "topic": "Heterotrophic Nutrition",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Analyze the effect of heating a leaf in alcohol during Activity 5.1. What is the purpose of this step?",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Heating the leaf in alcohol decolorizes it by removing chlorophyll, making it easier to test for the presence of starch using iodine solution.",
+    "explanation": "In Activity 5.1, immersing the leaf in alcohol and heating it removes chlorophyll, which is green and can interfere with the starch test. By decolorizing the leaf, the subsequent application of iodine solution will more clearly show where starch is present, as iodine turns blue-black in the presence of starch.",
+    "topic": "Photosynthesis Experiments",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "What is the role of salivary amylase in human digestion?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Salivary amylase is an enzyme in saliva that breaks down starch into simpler sugars like maltose, initiating the digestion of carbohydrates in the mouth.",
+    "explanation": "Salivary amylase catalyzes the hydrolysis of starch into smaller sugar units such as maltose and dextrins. This process begins in the mouth during chewing, allowing for the gradual breakdown of complex carbohydrates before they reach the stomach and small intestine for further digestion and absorption.",
+    "topic": "Human Digestion",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Evaluate the relationship between autotrophs and heterotrophs in an ecosystem.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Autotrophs and heterotrophs have a dependent relationship in an ecosystem. Autotrophs, such as green plants, produce organic compounds through photosynthesis using inorganic substances, serving as the primary producers. Heterotrophs, including animals and fungi, rely on autotrophs directly or indirectly for their energy and nutrient needs by consuming the organic compounds produced by autotrophs. This interdependence forms the basis of food chains and energy flow within ecosystems.",
+    "explanation": "Autotrophs synthesize their own food and form the foundation of the food web by providing energy and organic matter. Heterotrophs depend on autotrophs for sustenance, either by consuming autotrophs directly or other heterotrophs that have consumed autotrophs. This relationship ensures the transfer of energy and nutrients through different trophic levels, maintaining ecosystem stability and biodiversity.",
+    "topic": "Autotrophic and Heterotrophic Nutrition",
+    "bloom_level": "Evaluate"
+  },
+  {
+    "question_text": "During digestion, which of the following enzymes is responsible for breaking down proteins in the stomach?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Salivary amylase",
+      "Lipase",
+      "Pepsin",
+      "Trypsin"
+    ],
+    "correct_answer": "Pepsin",
+    "explanation": "Option C is correct because pepsin is the enzyme responsible for breaking down proteins into smaller peptides in the acidic environment of the stomach. Salivary amylase breaks down starch in the mouth, lipase breaks down fats in the small intestine, and trypsin further digests proteins in the small intestine.",
+    "topic": "Human Digestion",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Compare the digestion process in fungi like bread moulds to that in human beings.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Fungi such as bread moulds perform external digestion by secreting enzymes outside their bodies to break down complex substances into simpler forms, which are then absorbed. In contrast, human digestion involves internal digestion where food is ingested, mechanically and chemically broken down within the digestive tract, and nutrients are absorbed through the intestinal walls.",
+    "explanation": "Fungi lack specialized digestive organs and instead rely on secreting digestive enzymes into their surrounding environment to decompose organic matter externally. The resulting simple molecules are then absorbed by the fungal cells. Humans, on the other hand, have a complex digestive system with organs like the mouth, stomach, and intestines that facilitate the ingestion, breakdown, and absorption of nutrients internally, ensuring efficient digestion and nutrient uptake.",
+    "topic": "Heterotrophic Nutrition",
+    "bloom_level": "Analyze"
+  }
+]
+```

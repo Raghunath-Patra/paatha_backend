@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following best describes an elastic collision?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A collision in which the colliding bodies stick together.",
+      "A collision in which both momentum and kinetic energy are conserved.",
+      "A collision in which momentum is not conserved.",
+      "A collision that transforms all kinetic energy into heat and sound."
+    ],
+    "correct_answer": "A collision in which both momentum and kinetic energy are conserved.",
+    "explanation": "In an elastic collision, by definition, not only is momentum conserved, but kinetic energy is also conserved. This distinguishes it from inelastic collisions where some kinetic energy is lost.",
+    "topic": "Elastic and Inelastic Collisions",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "keph105",
+    "section_id": "12_section_5_11",
+    "question_id": "cbse_xi_keph1dd_c105_gen386"
+  }
+]

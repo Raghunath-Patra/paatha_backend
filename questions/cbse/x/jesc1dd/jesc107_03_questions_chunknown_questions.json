@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "What is the importance of DNA copying in reproduction?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "DNA copying is crucial because it ensures that the genetic blueprint—encoded in the DNA molecules housed in the cell nucleus—is accurately replicated and passed on during cell division. This process allows organisms to transmit their inherited traits to the next generation and establish a basis for maintaining species-specific body designs.",
+    "explanation": "The process of DNA replication is fundamental to reproduction because chromosomes carry the information for assembling cellular components. When a cell divides, it must generate precise copies of its DNA to ensure that each new cell has the complete set of instructions necessary to maintain the organism’s structure and functions. Although replication is highly accurate, minor errors (mutations) can occur, leading to variations that may sometimes be neutral, harmful, or beneficial. This precise copying mechanism underpins the inheritance of traits and supports continuity in the species.",
+    "topic": "DNA replication and inheritance",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic001"
+  },
+  {
+    "question_text": "Why is variation beneficial to the species but not necessarily for the individual?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Variation is beneficial to a species because it creates a pool of different traits, increasing the chances that some members can survive environmental changes, such as temperature shifts or disease outbreaks. However, for an individual, a particular variation may not offer an advantage and could even be detrimental depending on the current environment.",
+    "explanation": "Within a population, genetic variation is generated during DNA replication through minor copying errors or mutations. This diversity is critical for evolution, as it provides the raw material for natural selection. When an environmental change occurs, individuals with advantageous variations are more likely to survive and reproduce, thereby ensuring the species' overall survival. In contrast, an individual genetic variation might not improve the organism's fitness in its present environment, and in some cases, it may impair function. Thus, while variation supports long-term species adaptability and resilience, its effects on an individual organism can be variable.",
+    "topic": "Genetic variation and evolutionary biology",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc107",
+    "question_id": "cbse_x_jesc1dd_c107_ic002"
+  }
+]

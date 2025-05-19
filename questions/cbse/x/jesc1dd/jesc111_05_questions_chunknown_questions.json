@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Name a device that helps to maintain a potential difference across a conductor.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A cell or a battery.",
+    "explanation": "A cell or battery converts chemical energy into electrical energy, maintaining a potential difference across its terminals even when no external load is connected. This potential difference is crucial in initiating and sustaining the flow of electric charge in a circuit.",
+    "topic": "Electric Potential and Potential Difference",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic004"
+  },
+  {
+    "question_text": "What is meant by saying that the potential difference between two points is 1 V?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "It means that 1 Joule of work is done in moving 1 Coulomb of electric charge between the two points.",
+    "explanation": "The potential difference is defined as the work done per unit charge (V = W/Q). Thus, when the potential difference is 1 volt, it implies that moving 1 Coulomb of charge from one point to another requires 1 Joule of work.",
+    "topic": "Electric Potential and Potential Difference",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic005"
+  },
+  {
+    "question_text": "How much energy is given to each coulomb of charge passing through a 6 V battery?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "6 Joules",
+    "explanation": "Using the relationship between potential difference and energy (E = V × Q), where V is the potential difference (6 V) and Q is the charge (1 C), the energy imparted to each coulomb of charge is 6 Joules. This means each coulomb gains 6 J of energy as it passes through the battery.",
+    "topic": "Electric Potential and Potential Difference",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic006"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "Why are some substances biodegradable and some non-biodegradable?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Substances are biodegradable if microorganisms such as bacteria and fungi produce the enzymes required to break down their complex chemical structures into simpler compounds. Natural organic materials like food waste, paper, and wood are biodegradable because of their molecular composition. In contrast, non-biodegradable substances (e.g., many plastics, glass, metals) have synthetic or highly stable molecular structures that resist enzymatic breakdown.",
+    "explanation": "Biodegradation is an enzymatic process where microorganisms convert organic substances into simpler molecules that are re-assimilated into the ecosystem. Natural compounds generally have chemical bonds that are accessible to these enzymes, whereas synthetic materials often possess strong bonds and complex polymers that remain unchanged under natural conditions. This distinction underscores the importance of material choice in waste management and environmental impact.",
+    "topic": "Biodegradation and waste management",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic003"
+  },
+  {
+    "question_text": "Give any two ways in which biodegradable substances would affect the environment.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "1) When managed properly (for example, through composting), biodegradable substances decompose to release nutrients back into the soil, enriching it and supporting plant growth. 2) If disposed of improperly, like being dumped in water bodies, their decomposition can deplete dissolved oxygen, produce foul odors, and release greenhouse gases such as methane, which adversely affect environmental quality.",
+    "explanation": "Biodegradable materials, by virtue of being naturally decomposed by microorganisms, play a key role in nutrient cycling. Proper composting turns organic waste into valuable soil amendments, enhancing fertility. However, when organic waste accumulates in uncontrolled environments (like stagnant water), the rapid microbial activity can consume oxygen and generate methane, contributing to issues like eutrophication and climate change.",
+    "topic": "Environmental effects of biodegradable waste",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic004"
+  },
+  {
+    "question_text": "Give any two ways in which non-biodegradable substances would affect the environment.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "1) Non-biodegradable substances accumulate in the environment, causing persistent pollution, which can result in physical hazards to wildlife (ingestion or entanglement) and aesthetic degradation. 2) Their production often consumes significant non-renewable resources and energy, and disposal methods such as incineration can release toxic pollutants into the air, further impacting environmental and human health.",
+    "explanation": "Because materials like plastics, glass, and metals do not readily break down, they persist in ecosystems for extended periods. This accumulation in landfills, water bodies, and natural habitats leads to long-term environmental contamination. Additionally, the resource-intensive manufacturing processes contribute to resource depletion and environmental degradation. Understanding these impacts motivates efforts toward reduction, reuse, and recycling.",
+    "topic": "Environmental impact of non-biodegradable waste",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic005"
+  },
+  {
+    "question_text": "Activity 13.7: Find out what happens to the waste generated at home. Is there a system in place to collect this waste? Find out how the local body deals with the waste. Are there mechanisms in place to treat the biodegradable and non-biodegradable wastes separately? Calculate how much waste is generated at home and in the classroom, estimate the biodegradable portion, and suggest ways of dealing with this waste.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Answers will vary based on local observations and estimations. Generally, households collect waste in designated bins, and municipal services collect and segregate waste into biodegradable (e.g., kitchen waste, paper) and non-biodegradable (e.g., plastics, metals) fractions. Best practices include promoting waste segregation at source, composting biodegradable waste, and recycling or proper disposal of non-biodegradable waste. The quantitative estimates will depend on family or classroom size and consumption habits.",
+    "explanation": "This activity requires students to actively investigate local waste management practices and analyze quantitative data. Students are expected to survey how waste is collected, processed, and managed by local authorities. They should evaluate the outcomes based on environmental impact, considering how improper segregation contributes to pollution, and propose sustainable waste management solutions.",
+    "topic": "Waste management and environmental impact",
+    "bloom_level": "Analyze/Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic006"
+  },
+  {
+    "question_text": "Activity 13.8: Find out how the sewage in your locality is treated. Are there mechanisms to ensure that local water bodies are not polluted by untreated sewage? In addition, find out how local industries treat their waste and if there are measures in place to prevent soil and water pollution.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Responses should include descriptions of sewage treatment processes such as primary (screening and sedimentation), secondary (biological treatment using microbes), and, where applicable, tertiary treatment processes. For industrial waste, students should describe the role of Effluent Treatment Plants (ETPs) and any regulatory measures enforced by local pollution boards. The effectiveness of these treatment systems can vary, but they all aim to minimize environmental pollution of water bodies and soil.",
+    "explanation": "This task challenges students to perform field research or gather secondary data regarding local waste treatment methods. It involves understanding the sequential stages in sewage treatment and comparing them with industrial waste management practices. Students should analyze the reliability of local systems and suggest improvements based on scientific principles and real-world applications.",
+    "topic": "Wastewater treatment and industrial effluent management",
+    "bloom_level": "Analyze/Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic007"
+  },
+  {
+    "question_text": "What are the advantages of disposable paper cups over disposable plastic cups?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Disposable paper cups are generally more advantageous because they are made from renewable resources and are biodegradable (even though they may be lined with a thin layer of plastic or wax). In contrast, disposable plastic cups are derived from fossil fuels, are non-biodegradable, and persist in the environment for hundreds of years. However, paper cups also require significant resources for production and may not be completely environmentally benign if not sourced sustainably.",
+    "explanation": "The comparison involves evaluating the life-cycle of both products. Paper cups break down more effectively in natural environments, reducing long-term waste, whereas plastic cups contribute to persistent pollution. The assessment should include considerations of resource inputs, production methods, and end-of-life disposal impacts, illustrating the broader concept of environmental sustainability in product design.",
+    "topic": "Environmental impact of disposable products",
+    "bloom_level": "Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic008"
+  },
+  {
+    "question_text": "Activity 13.9: Search the internet or library to find out what hazardous materials have to be dealt with when disposing of electronic items. How would these materials affect the environment? Also, find out how plastics are recycled and whether the recycling process has any environmental impact.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Electronic waste (e-waste) contains hazardous substances such as lead (Pb), mercury (Hg), cadmium (Cd), and brominated flame retardants (BFRs); these materials can leach into the soil and water, posing severe health risks and environmental contamination if not properly managed. Plastic recycling involves collection, sorting (by resin codes), cleaning, shredding, melting, and reforming the plastic into new products. Although recycling reduces the demand for virgin plastics and minimizes landfill waste, the process consumes energy, water, and may produce secondary pollutants if not controlled.",
+    "explanation": "The investigation should help students understand the complexities of e-waste management and the environmental trade-offs in plastic recycling. The hazardous chemicals in electronics emphasize the need for specialized recycling processes to prevent contamination. Meanwhile, the steps involved in plastic recycling, from sorting to remanufacturing, require careful assessment of energy and resource use, making it a multifaceted environmental issue that draws on principles of chemistry, materials science, and environmental engineering.",
+    "topic": "E-waste management and plastic recycling",
+    "bloom_level": "Analyze/Evaluate",
+    "source": "in-chapter",
+    "chapter_id": "jesc113",
+    "question_id": "cbse_x_jesc1dd_c113_ic009"
+  }
+]

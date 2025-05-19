@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "During a sale, a shop offered a discount of 10% on the marked prices of all the items. What would a customer have to pay for a pair of jeans marked at ₹1450 and two shirts marked at ₹850 each?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "₹2835",
+    "explanation": "Step 1: Calculate the sale price for the jeans. The discount on the jeans is 10% of ₹1450 which is 0.10 × 1450 = ₹145. So, the sale price for the jeans is 1450 - 145 = ₹1305. \nStep 2: Calculate the sale price for each shirt. The discount on one shirt is 10% of ₹850 which is 0.10 × 850 = ₹85. Therefore, the sale price per shirt is 850 - 85 = ₹765. \nStep 3: For two shirts, the total cost is 2 × ₹765 = ₹1530. \nStep 4: Add the cost of jeans and shirts: ₹1305 + ₹1530 = ₹2835.",
+    "topic": "Discounts (Percentage Discount Calculation)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh107",
+    "question_id": "cbse_viii_hemh1dd_c107_ex007"
+  },
+  {
+    "question_text": "The price of a TV is ₹13,000. The sales tax charged on it is at the rate of 12%. Find the amount that Vinod will have to pay if he buys it.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "₹14,560",
+    "explanation": "Step 1: Calculate the sales tax on the TV. Sales tax = 12% of ₹13000 = 0.12 × 13000 = ₹1560. \nStep 2: Add the sales tax to the original price to get the total amount to be paid: 13000 + 1560 = ₹14560.",
+    "topic": "Sales Tax Calculation",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh107",
+    "question_id": "cbse_viii_hemh1dd_c107_ex008"
+  },
+  {
+    "question_text": "Arun bought a pair of skates at a sale where the discount given was 20%. If the amount he pays is ₹1600, find the marked price.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "₹2000",
+    "explanation": "Step 1: Let the marked price be MP. A 20% discount means the sale price is 80% of the marked price, i.e., 0.80 × MP. \nStep 2: According to the problem, 0.80 × MP = ₹1600. \nStep 3: Solve for MP: MP = 1600 / 0.80 = ₹2000.",
+    "topic": "Discounts (Reverse Calculation)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh107",
+    "question_id": "cbse_viii_hemh1dd_c107_ex009"
+  },
+  {
+    "question_text": "I purchased a hair-dryer for ₹5,400 including 8% VAT. Find the price before VAT was added.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "₹5000",
+    "explanation": "Step 1: Let the original price before VAT be P. With an 8% VAT, the final price becomes P + 0.08 × P = 1.08 × P. \nStep 2: Given that 1.08 × P = ₹5400, solve for P: P = 5400 / 1.08 = ₹5000.",
+    "topic": "VAT (Value Added Tax) Calculations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh107",
+    "question_id": "cbse_viii_hemh1dd_c107_ex010"
+  },
+  {
+    "question_text": "An article was purchased for ₹1239 including GST of 18%. Find the price of the article before GST was added.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "₹1050",
+    "explanation": "Step 1: Let the original price before GST be P. GST at 18% means the sale (final) price is P + 0.18 × P = 1.18 × P. \nStep 2: Given that 1.18 × P = ₹1239, solve for P: P = 1239 / 1.18 = ₹1050.",
+    "topic": "GST (Goods and Services Tax) Calculations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh107",
+    "question_id": "cbse_viii_hemh1dd_c107_ex011"
+  }
+]

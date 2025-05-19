@@ -1,0 +1,44 @@
+[
+  {
+    "question_text": "Write the chemistry of recharging the lead storage battery, highlighting all the materials that are involved during recharging.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "During recharging, the discharging reaction of the lead storage battery is reversed. In discharge, the overall reaction is: Pb(s) + PbO₂(s) + 2H₂SO₄(aq) → 2PbSO₄(s) + 2H₂O(l). When the battery is recharged, electrical energy is used to drive the reverse reaction: 2PbSO₄(s) + 2H₂O(l) → Pb(s) + PbO₂(s) + 2H₂SO₄(aq). This process regenerates the active materials on the electrodes (lead at the anode and lead dioxide at the cathode) and restores the sulfuric acid electrolyte.",
+    "explanation": "Recharging a lead storage battery involves applying an external current to reverse the chemical changes that occur during discharge. In the discharging phase, lead and lead dioxide react with sulfuric acid to form lead sulfate and water. The recharging process converts lead sulfate back into lead and lead dioxide while regenerating the sulfuric acid. This reversal of reactions maintains the battery’s ability to deliver electrical energy, and the key materials involved are Pb, PbO₂, PbSO₄, H₂O, and H₂SO₄. This concept is discussed under the section on Secondary Batteries.",
+    "topic": "Secondary Batteries",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "13_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in013"
+  },
+  {
+    "question_text": "Suggest two materials other than hydrogen that can be used as fuels in fuel cells.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Methane (CH₄) and methanol (CH₃OH) are two examples of materials that can be used as fuels in fuel cells.",
+    "explanation": "While many fuel cells operate on hydrogen, alternative fuels such as methane and methanol can be used to generate electricity directly or after reforming. These fuels undergo oxidation at the electrode to produce electrical energy, and their use is mentioned in the discussion on fuel cells, where the ability to convert the energy of combustion from fuels like methane and methanol is highlighted.",
+    "topic": "Fuel Cells",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "13_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in014"
+  },
+  {
+    "question_text": "Explain how rusting of iron is envisaged as setting up of an electrochemical cell.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Rusting of iron involves the spontaneous establishment of anodic and cathodic regions on the iron surface. At the anodic spots, iron is oxidized to Fe²⁺ by losing electrons (Fe(s) → Fe²⁺(aq) + 2e⁻). These electrons migrate through the metal to cathodic regions where they reduce oxygen, typically in the presence of water and H⁺, forming water (O₂ + 4H⁺ + 4e⁻ → 2H₂O). This separation of charge creates a potential difference that drives the corrosion process, effectively setting up an electrochemical cell on the metal surface.",
+    "explanation": "Rusting is essentially an electrochemical process. Localized areas on the surface of iron act as anodes where oxidation occurs, while other areas act as cathodes where a reduction reaction, often involving oxygen and water, takes place. These simultaneous reactions result in the flow of electrons from the anodic region to the cathodic region, similar to a galvanic cell. The overall electrochemical reaction helps explain why rusting occurs continuously when iron is exposed to moist air. This concept is detailed in the section on Corrosion.",
+    "topic": "Corrosion",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech102",
+    "intext_id": "13_intext_questions_ch102",
+    "question_id": "cbse_xii_lech1dd_c102_in015"
+  }
+]

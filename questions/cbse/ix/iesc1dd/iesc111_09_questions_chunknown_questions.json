@@ -1,0 +1,15 @@
+[
+  {
+    "question_text": "An echo is heard in 3 s. What is the distance of the reflecting surface from the source, given that the speed of sound is 342 m/s?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "513 m. The total distance covered by the sound in 3 s is 1026 m (since 342 m/s × 3 s = 1026 m), and because echo involves a round trip, the distance to the reflecting surface is 1026 m ÷ 2 = 513 m.",
+    "explanation": "When a sound is produced, it travels towards a reflecting surface and then back to the source. In this case, the total distance traveled by the sound in 3 seconds is given by multiplying the speed of sound (342 m/s) by the time (3 s), which equals 1026 m. However, this distance accounts for the journey to the surface and back. To find the one-way distance to the reflecting surface, the total distance is divided by 2, resulting in 513 m. This demonstrates the application of the concept of echo and the basic kinematic relationship between distance, speed, and time.",
+    "topic": "Reflection of Sound/Echo",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc111",
+    "question_id": "cbse_ix_iesc1dd_c111_ic009"
+  }
+]

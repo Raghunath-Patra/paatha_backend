@@ -1,0 +1,195 @@
+[
+  {
+    "question_text": "The size of the atom in Thomson's model is .......... the atomic size in Rutherford's model. (much greater than / no different from / much less than)",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "much greater than",
+      "no different from",
+      "much less than"
+    ],
+    "correct_answer": "no different from",
+    "explanation": "In both Thomson’s and Rutherford’s models the overall size of the atom is determined by the outer boundary where the electrons are found. In Thomson’s model the positive charge is spread throughout the atom while in Rutherford’s model most of the charge is concentrated in a very small nucleus, but the electron cloud still occupies the same overall volume.",
+    "topic": "Atomic Models – Thomson's and Rutherford's models",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex001"
+  },
+  {
+    "question_text": "In the ground state of .......... electrons are in stable equilibrium, while in .......... electrons always experience a net force. (Thomson's model / Rutherford's model)",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Thomson's model; Rutherford's model",
+      "Rutherford's model; Thomson's model",
+      "Thomson's model; Thomson's model",
+      "Rutherford's model; Rutherford's model"
+    ],
+    "correct_answer": "Thomson's model; Rutherford's model",
+    "explanation": "In Thomson’s plum pudding model, the electrons are embedded in a uniformly distributed positive charge and can be in positions of stable equilibrium. In Rutherford’s nuclear model, however, the electrons are forced to move in orbits around a tiny nucleus and always experience a net centripetal force that keeps them in motion.",
+    "topic": "Atomic Models – Comparison of Thomson's and Rutherford's models",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex002"
+  },
+  {
+    "question_text": "A classical atom based on .......... is doomed to collapse. (Thomson's model / Rutherford's model)",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Thomson's model",
+      "Rutherford's model",
+      "Both the models",
+      "None of the models"
+    ],
+    "correct_answer": "Rutherford's model",
+    "explanation": "According to classical electromagnetic theory, an electron moving in a circular orbit (as in Rutherford’s model) should continuously radiate energy and spiral into the nucleus. This instability does not occur in Thomson’s model where electrons are in an equilibrium state in a continuous positive charge distribution.",
+    "topic": "Atomic Models – Stability issues in Rutherford's model",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex003"
+  },
+  {
+    "question_text": "An atom has a nearly continuous mass distribution in a .......... but has a highly non-uniform mass distribution in .......... (Thomson's model / Rutherford's model)",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Thomson's model; Rutherford's model",
+      "Rutherford's model; Thomson's model",
+      "Both models have continuous mass distribution",
+      "Both models have highly non-uniform mass distribution"
+    ],
+    "correct_answer": "Thomson's model; Rutherford's model",
+    "explanation": "In Thomson’s model, the positive charge (and assumed mass) is uniformly distributed throughout the atom. In contrast, Rutherford’s model has nearly all the mass concentrated in a small, dense nucleus while the electrons, which contribute very little mass, orbit far away.",
+    "topic": "Atomic Models – Comparison of mass distribution",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex004"
+  },
+  {
+    "question_text": "The positively charged part of the atom possesses most of the mass in .......... (Rutherford's model / both the models)",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Rutherford's model",
+      "both the models",
+      "Thomson's model",
+      "None of the models"
+    ],
+    "correct_answer": "Rutherford's model",
+    "explanation": "Rutherford’s model proposes that almost all the mass of the atom is concentrated in the nucleus (the positively charged part), whereas in Thomson’s model the mass is assumed to be uniformly distributed.",
+    "topic": "Atomic Models – Mass distribution in atoms",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex005"
+  },
+  {
+    "question_text": "Suppose you are given a chance to repeat the alpha-particle scattering experiment using a thin sheet of solid hydrogen in place of the gold foil. (Hydrogen is a solid at temperatures below 14 K.) What results do you expect?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Most alpha particles would pass through with little deflection and only a very small fraction would be scattered at large angles.",
+    "explanation": "Hydrogen has a very low atomic number (Z = 1) and a very light nucleus. Consequently, the Coulomb force that deflects the alpha particles would be much weaker compared to a heavy nucleus like gold (Z = 79). Thus, nearly all alpha particles would travel in almost straight paths with minimal scattering.",
+    "topic": "Alpha-particle scattering and Rutherford's nuclear model",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex006"
+  },
+  {
+    "question_text": "A difference of 2.3 eV separates two energy levels in an atom. What is the frequency of radiation emitted when the atom makes a transition from the upper level to the lower level?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Approximately 5.6 x 10^14 Hz",
+    "explanation": "The energy difference (ΔE) is 2.3 eV. Converting to joules (1 eV = 1.6 x 10^-19 J) gives ΔE = 3.68 x 10^-19 J. Using the relation E = hν where h is Planck's constant (6.6 x 10^-34 J s), the frequency is ν = ΔE/h = (3.68 x 10^-19 J) / (6.6 x 10^-34 J s) ≈ 5.6 x 10^14 Hz.",
+    "topic": "Atomic spectra and energy levels",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex007"
+  },
+  {
+    "question_text": "The ground state energy of a hydrogen atom is -13.6 eV. What are the kinetic and potential energies of the electron in this state?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Kinetic Energy: 13.6 eV; Potential Energy: -27.2 eV",
+    "explanation": "In the Bohr model of the hydrogen atom, the kinetic energy (K) is equal in magnitude to half the absolute value of the potential energy (U), but with opposite sign (E = K + U and E = -K). Given that the total energy E = -13.6 eV, it follows that K = 13.6 eV and U = -27.2 eV.",
+    "topic": "Bohr model of the hydrogen atom – Energy calculations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex008"
+  },
+  {
+    "question_text": "A hydrogen atom initially in the ground state absorbs a photon which excites it to the n = 4 level. Determine the wavelength and frequency of the photon.",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Wavelength ≈ 98 nm; Frequency ≈ 3.1 x 10^15 Hz",
+    "explanation": "The energy of the ground state is -13.6 eV and for n = 4 it is -13.6/16 = -0.85 eV. The energy absorbed is ΔE = 13.6 - 0.85 = 12.75 eV. Converting this to joules (12.75 eV x 1.6 x 10^-19 J/eV = 2.04 x 10^-18 J) and using E = hc/λ with h = 6.6 x 10^-34 J s and c = 3 x 10^8 m/s, the wavelength is λ = (6.6 x 10^-34 x 3 x 10^8) / (2.04 x 10^-18) ≈ 9.7 x 10^-8 m (or 97 nm). The frequency is then ν = c/λ ≈ (3 x 10^8 m/s) / (9.7 x 10^-8 m) ≈ 3.1 x 10^15 Hz.",
+    "topic": "Bohr model of the hydrogen atom – Energy and spectral transitions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex009"
+  },
+  {
+    "question_text": "Using Bohr's model, calculate (a) the speed of the electron in a hydrogen atom in the n = 1, 2, and 3 levels, and (b) the orbital period in each of these levels.",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "For n = 1: Speed ≈ 2.2 x 10^6 m/s, Orbital period ≈ 1.51 x 10^-16 s; for n = 2: Speed ≈ 1.1 x 10^6 m/s, Orbital period ≈ 1.21 x 10^-15 s; for n = 3: Speed ≈ 0.73 x 10^6 m/s, Orbital period ≈ 4.1 x 10^-15 s",
+    "explanation": "According to Bohr's model, the electron speed in the ground state is approximately 2.2 x 10^6 m/s. Since the speed is inversely proportional to the principal quantum number (v ∝ 1/n), v for n = 2 is about 2.2 x 10^6 / 2 = 1.1 x 10^6 m/s, and for n = 3 it is about 2.2 x 10^6 / 3 ≈ 0.73 x 10^6 m/s. The orbital radius scales as r ∝ n^2 (with r1 = 5.3 x 10^-11 m). Thus, for n = 1, the circumference is 2πr1 ≈ 3.33 x 10^-10 m leading to T = 3.33 x 10^-10 m / (2.2 x 10^6 m/s) ≈ 1.51 x 10^-16 s. Similarly, for n = 2 (r ≈ 2.12 x 10^-10 m) T ≈ (2π x 2.12 x 10^-10 m) / (1.1 x 10^6 m/s) ≈ 1.21 x 10^-15 s, and for n = 3 (r ≈ 4.77 x 10^-10 m) T ≈ (2π x 4.77 x 10^-10 m) / (0.73 x 10^6 m/s) ≈ 4.1 x 10^-15 s.",
+    "topic": "Bohr model of the hydrogen atom – Orbital dynamics",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex010"
+  },
+  {
+    "question_text": "The radius of the innermost electron orbit of a hydrogen atom is 5.3 x 10^-11 m. What are the radii of the n = 2 and n = 3 orbits?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For n = 2: 2.12 x 10^-10 m; For n = 3: 4.77 x 10^-10 m",
+    "explanation": "In Bohr's model, the radius of the nth orbit is given by r(n) = n^2 x a0, where a0 is the Bohr radius (5.3 x 10^-11 m). Thus, for n = 2, r = 4 x 5.3 x 10^-11 m = 2.12 x 10^-10 m, and for n = 3, r = 9 x 5.3 x 10^-11 m = 4.77 x 10^-10 m.",
+    "topic": "Bohr model of the hydrogen atom – Orbital radii",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex011"
+  },
+  {
+    "question_text": "A 12.5 eV electron beam is used to bombard gaseous hydrogen at room temperature. What series of wavelengths will be emitted?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Emission lines corresponding to the Lyman and Balmer series will be observed.",
+    "explanation": "The 12.5 eV beam is sufficient to excite hydrogen atoms from the ground state to energy levels up to n = 3 (since the energy required for n = 1 to n = 3 transition is about 12.09 eV, while n = 1 to n = 4 requires about 12.75 eV). Subsequent de-excitations yield photons corresponding to transitions such as n = 3 to 1 and n = 3 to 2 (with n = 2 to 1 also occurring), which belong to the Lyman series (ultraviolet) and the Balmer series (visible) respectively.",
+    "topic": "Atomic spectra – Emission lines",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex012"
+  },
+  {
+    "question_text": "In accordance with Bohr's model, find the quantum number that characterises the earth's revolution around the sun in an orbit of radius 1.5 x 10^11 m with orbital speed 3 x 10^4 m/s. (Mass of earth = 6.0 x 10^24 kg.)",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "n ≈ 2.6 x 10^74",
+    "explanation": "Using Bohr's quantisation condition for angular momentum adapted here (mvr = n(h/2π)), we first calculate the angular momentum of the earth: L = mvr = 6.0 x 10^24 kg x 3 x 10^4 m/s x 1.5 x 10^11 m = 2.7 x 10^40 kg·m^2/s (approximately). Multiplying by 2π gives 1.7 x 10^41. Dividing this by Planck's constant (6.6 x 10^-34 J·s) yields n ≈ 2.6 x 10^74. This enormous quantum number reflects the classical nature of planetary motion versus the quantised atomic scale.",
+    "topic": "de Broglie hypothesis and quantisation",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "leph204",
+    "question_id": "cbse_xii_leph2dd_c204_ex013"
+  }
+]

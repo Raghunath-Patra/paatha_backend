@@ -1,0 +1,96 @@
+[
+  {
+    "question_text": "A die is rolled. Let E be the event 'die shows 4' and F be the event 'die shows even number'. Are E and F mutually exclusive?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "No, they are not mutually exclusive because the outcome 4 belongs to both events.",
+    "explanation": "Event E is {4} and event F is {2, 4, 6}. Since the intersection of E and F is {4} (which is not empty), the events are not mutually exclusive.",
+    "topic": "Mutually Exclusive Events",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kemh114",
+    "question_id": "cbse_xi_kemh1dd_c114_ex001"
+  },
+  {
+    "question_text": "A die is thrown. Describe the following events:\n(i) A: a number less than 7\n(ii) B: a number greater than 7\n(iii) C: a multiple of 3\n(iv) D: a number less than 4\n(v) E: an even number greater than 4\n(vi) F: a number not less than 3\n\nAlso find A ∪ B, A ∩ B, B ∪ C, E ∩ F, D ∩ E, A – C, D – E, E ∩ F' and F'.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Let S = {1, 2, 3, 4, 5, 6} be the sample space.\n(i) A = {1, 2, 3, 4, 5, 6} (since all numbers 1–6 are less than 7).\n(ii) B = ∅ (no number on the die is greater than 7).\n(iii) C = {3, 6}.\n(iv) D = {1, 2, 3}.\n(v) E = {6} (the only even number greater than 4).\n(vi) F = {3, 4, 5, 6} (numbers not less than 3).\n\nUnions and intersections:\nA ∪ B = {1, 2, 3, 4, 5, 6} ∪ ∅ = {1, 2, 3, 4, 5, 6}.\nA ∩ B = {1, 2, 3, 4, 5, 6} ∩ ∅ = ∅.\nB ∪ C = ∅ ∪ {3, 6} = {3, 6}.\nE ∩ F = {6} ∩ {3, 4, 5, 6} = {6}.\nD ∩ E = {1, 2, 3} ∩ {6} = ∅.\nA – C = {1, 2, 3, 4, 5, 6} \\ {3, 6} = {1, 2, 4, 5}.\nD – E = {1, 2, 3} \\ {6} = {1, 2, 3}.\nF' = S \\ F = {1, 2}.\nE ∩ F' = {6} ∩ {1, 2} = ∅.",
+    "explanation": "First, the events are defined based on the outcomes on a standard die where S = {1, 2, 3, 4, 5, 6}.\n• Event A includes all outcomes since every number from 1 to 6 is less than 7.\n• Event B is impossible since no result exceeds 7, so B = ∅.\n• Event C contains numbers that are multiples of 3 (3 and 6).\n• Event D has outcomes less than 4 (1, 2, 3).\n• Event E is the even numbers greater than 4; among 2, 4, and 6, only 6 fits, so E = {6}.\n• Event F comprises numbers not less than 3, i.e., numbers that are ≥ 3: {3, 4, 5, 6}.\nNext, set operations are computed:\n– A ∪ B equals A since B is empty.\n– A ∩ B is empty.\n– B ∪ C equals C given that B is empty.\n– E ∩ F equals {6} as 6 is the common element.\n– D ∩ E is empty since 6 is not in D.\n– A – C removes 3 and 6 from A, leaving {1, 2, 4, 5}.\n– D – E remains D because 6 is not in D.\n– F' represents numbers not in F, so F' = {1, 2}.\n– Finally, E ∩ F' is empty because 6 is not in F'.",
+    "topic": "Algebra of Events (Set Operations)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh114",
+    "question_id": "cbse_xi_kemh1dd_c114_ex002"
+  },
+  {
+    "question_text": "An experiment involves rolling a pair of dice and recording the numbers that come up. Describe the following events:\nA: the sum is greater than 8,\nB: 2 occurs on either die,\nC: the sum is at least 7 and a multiple of 3.\nWhich pairs of these events are mutually exclusive?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Define the sample space as all ordered pairs (x, y) with x, y ∈ {1, 2, 3, 4, 5, 6}.\n• Event A (sum > 8): all outcomes where x + y ∈ {9, 10, 11, 12}.\n• Event B (2 occurs on either die): outcomes where x = 2 or y = 2.\n• Event C (sum is at least 7 and a multiple of 3): outcomes where x + y ∈ {9, 12} (since 6 is less than 7 and 3 or 6 do not satisfy both conditions simultaneously).\nMutual exclusivity analysis:\n– A and B: For any outcome in B, if one die is 2 the maximum possible sum is 2 + 6 = 8, which does not satisfy A. Hence, A and B are mutually exclusive.\n– B and C: Any outcome in B involves a 2; however, achieving a sum of 9 or 12 with a 2 is impossible because 2 paired with any number ≤6 gives a sum at most 8. Thus, B and C are mutually exclusive.\n– A and C: These events are not mutually exclusive because common outcomes (like (4, 5) for sum 9 or (6, 6) for sum 12) can belong to both A and C.",
+    "explanation": "For two dice, every outcome is an ordered pair from 1 to 6 for each die. Using the conditions:\n• Event A selects pairs whose sum is more than 8.\n• Event B selects pairs that have at least one 2. It is impossible for such pairs to reach a sum greater than 8 because the maximum sum with a 2 is 2+6 = 8.\n• Event C is defined by the sum being both at least 7 and a multiple of 3; only the sums 9 and 12 qualify.\nBy examining each pair:\n- A and B cannot coincide because a pair with a 2 cannot have a sum greater than 8.\n- B and C also cannot coincide due to the same reasoning.\n- A and C do have overlapping outcomes (for example, (4, 5) gives a sum of 9 which fits both criteria), so they are not mutually exclusive.",
+    "topic": "Mutually Exclusive Events; Dice Probabilities",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh114",
+    "question_id": "cbse_xi_kemh1dd_c114_ex003"
+  },
+  {
+    "question_text": "Three coins are tossed once. Let A denote the event 'three heads show', B denote the event 'two heads and one tail show', C denote the event 'three tails show' and D denote the event 'a head shows on the first coin'. Identify which events are (i) mutually exclusive, (ii) simple, and (iii) compound.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For three coin tosses, the sample space is S = {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT}.\n• A = {HHH} (simple event, only one outcome).\n• B = {HHT, HTH, THH} (compound event, multiple outcomes).\n• C = {TTT} (simple event).\n• D = {HHH, HHT, HTH, HTT} (compound event).\nMutually exclusive:\n• Events A, B, and C are mutually exclusive because no single outcome can belong to more than one of these events (they represent distinct counts of heads/tails).\nSimple events are those with exactly one outcome; here, A and C are simple events. Compound events contain more than one outcome; thus, B and D are compound events.",
+    "explanation": "The sample space for three coin tosses has eight outcomes. Events A and C are clearly simple because each contains only one outcome. Event B consists of all arrangements with exactly two heads and one tail, making it compound. Event D includes outcomes where the first coin is a head; since several outcomes satisfy this criterion, it is a compound event. The events A, B, and C are mutually exclusive because each describes a different exclusive count of heads in a toss, guaranteeing that no outcome is shared between any two of them.",
+    "topic": "Simple, Compound and Mutually Exclusive Events",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kemh114",
+    "question_id": "cbse_xi_kemh1dd_c114_ex004"
+  },
+  {
+    "question_text": "Three coins are tossed. Describe:\n(i) Two events which are mutually exclusive.\n(ii) Three events which are mutually exclusive and exhaustive.\n(iii) Two events which are not mutually exclusive.\n(iv) Two events which are mutually exclusive but not exhaustive.\n(v) Three events which are mutually exclusive but not exhaustive.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Using the sample space S = {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT}:\n(i) Two mutually exclusive events: For example, A = {HHH} (three heads) and B = {TTT} (three tails) are mutually exclusive.\n(ii) Three mutually exclusive and exhaustive events: One example is:\n    A = {TTT} (no heads),\n    B = {HTT, THT, TTH} (exactly one head),\n    C = {HHH, HHT, HTH, THH} (at least two heads).\nTheir union equals S and they have no overlap.\n(iii) Two events not mutually exclusive: For instance, A = {HHH, HHT, HTH, HTT} (head on the first coin) and B = S \\ {TTT} (at least one head) share common outcomes.\n(iv) Two events mutually exclusive but not exhaustive: For example, A = {HHH} and B = {TTT} do not cover the entire sample space S.\n(v) Three events mutually exclusive but not exhaustive: For example, A = {HHH}, B = {HHT}, and C = {TTT} are disjoint, but their union does not equal S.",
+    "explanation": "Examples are constructed by selecting subsets from the coin toss sample space. In (i), choosing outcomes that cannot occur simultaneously (such as all heads vs. all tails) demonstrates mutual exclusivity. In (ii), partitioning the sample space into three disjoint events that together cover all possible outcomes makes them mutually exclusive and exhaustive. In (iii), overlapping events (such as one based on the result of the first coin and another based on the total number of heads) are not mutually exclusive. In (iv) and (v), while the chosen events do not intersect (maintaining mutual exclusivity), they do not span the entire sample space, thus failing the exhaustive criterion.",
+    "topic": "Exhaustive and Mutually Exclusive Events",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "kemh114",
+    "question_id": "cbse_xi_kemh1dd_c114_ex005"
+  },
+  {
+    "question_text": "Two dice are thrown. The events are defined as follows:\nA: getting an even number on the first die.\nB: getting an odd number on the first die.\nC: getting the sum of the numbers on the dice ≤ 5.\nDescribe the events:\n(i) A′\n(ii) not B\n(iii) A or B\n(iv) A and B\n(v) A but not C\n(vi) B or C\n(vii) B and C\n(viii) A ∩ B' ∩ C'.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Let the sample space for two dice be all ordered pairs (x, y) with x, y ∈ {1,2,3,4,5,6}.\n(i) A′ is the complement of A; since A = {first die is even} = {2, 4, 6}, therefore A′ = {first die is odd} = {1, 3, 5} (which is the same as event B).\n(ii) not B is the complement of B; since B = {first die is odd} = {1, 3, 5}, not B = {2, 4, 6} (which is the same as event A).\n(iii) A or B: Since every outcome on the first die is either even or odd, A ∪ B equals the entire set of outcomes for the first die (i.e., S for the first die).\n(iv) A and B: It is impossible for the first die to be both even and odd, so A ∩ B = ∅.\n(v) A but not C: This is A ∩ C′, i.e., outcomes where the first die is even and the sum of the dice is greater than 5.\n(vi) B or C: This is the union B ∪ C, representing all outcomes that are either in B or satisfy the sum condition (or both).\n(vii) B and C: This is the intersection B ∩ C: outcomes where the first die is odd and the sum of the dice is ≤ 5.\n(viii) A ∩ B' ∩ C': Note that B' (the complement of B) equals A, so this reduces to A ∩ A ∩ C′ = A ∩ C′, which is the same as the result in part (v).",
+    "explanation": "The problem requires applying the definitions of complement, union, and intersection to events defined on the outcome of two dice rolls. For parts (i) and (ii), the complements of events A and B are found, which coincide because the first die must be either even or odd. Part (iii) covers the fact that A and B together capture all possible results for the first die. For (iv), mutual exclusivity gives an empty intersection. Parts (v) through (viii) involve combining events with set difference (or equivalently, intersection with the complement) to filter outcomes based on multiple conditions.",
+    "topic": "Algebra of Events (Complement, Union, Intersection)",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh114",
+    "question_id": "cbse_xi_kemh1dd_c114_ex006"
+  },
+  {
+    "question_text": "Refer to the previous question. State whether the following statements are True or False (give reasons for your answer):\n(i) A and B are mutually exclusive.\n(ii) A and B are mutually exclusive and exhaustive.\n(iii) A = B'.\n(iv) A and C are mutually exclusive.\n(v) A and B' are mutually exclusive.\n(vi) A', B', C are mutually exclusive and exhaustive.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "(i) True. (ii) True. (iii) True. (iv) False. (v) False. (vi) False.",
+    "explanation": "Analysis of the statements:\n(i) A (first die is even) and B (first die is odd) cannot occur together; hence, they are mutually exclusive.\n(ii) Since every outcome of the first die is either even or odd, A and B together cover the entire set of possibilities, making them mutually exclusive and exhaustive.\n(iii) B' is the complement of B, which means it is the set of outcomes where the first die is not odd (i.e., even), so A = B'.\n(iv) A and C are not mutually exclusive because there exist outcomes (for example, when the first die is 2 and the second die is 1 or 2, yielding a sum ≤ 5) that satisfy both conditions.\n(v) A and B' are not mutually exclusive because B' is identical to A; they are the same event.\n(vi) A', B', and C do not form a mutually exclusive and exhaustive set because A' and B' (which are complements of A and B, respectively) overlap with C; C is defined solely in terms of the sum and can include outcomes from both A' and B, thereby failing the mutual exclusivity condition.",
+    "topic": "True/False on Set Operations and Mutual Exclusivity",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kemh114",
+    "question_id": "cbse_xi_kemh1dd_c114_ex007"
+  }
+]

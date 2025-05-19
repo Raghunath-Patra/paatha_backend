@@ -1,0 +1,18 @@
+{
+  "name": "Science",
+  "chapters": [
+    { "number": 1, "name": "Chemical Reactions and Equations" },
+    { "number": 2, "name": "Acids, Bases and Salts" },
+    { "number": 3, "name": "Metals and Non-metals" },
+    { "number": 4, "name": "Carbon and its Compounds" },
+    { "number": 5, "name": "Life Processes" },
+    { "number": 6, "name": "Control and Coordination" },
+    { "number": 7, "name": "How do Organisms Reproduce?" },
+    { "number": 8, "name": "Heredity" },
+    { "number": 9, "name": "Light – Reflection and Refraction" },
+    { "number": 10, "name": "The Human Eye and the Colourful World" },
+    { "number": 11, "name": "Electricity" },
+    { "number": 12, "name": "Magnetic Effects of Electric Current" },
+    { "number": 13, "name": "Our Environment" }
+  ]
+}

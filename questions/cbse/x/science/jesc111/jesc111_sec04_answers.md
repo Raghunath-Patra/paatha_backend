@@ -1,0 +1,24 @@
+[
+  {
+    "question_text": "Draw a schematic diagram of a circuit consisting of a battery of three cells of 2 V each, a 5 Ω resistor, an 8 Ω resistor, a 12 Ω resistor, and a plug key, all connected in series.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The schematic diagram of the series circuit is as follows:\n\n1. **Battery**: Represented by three cells connected in series, each with a potential difference of 2 V, totaling 6 V.\n2. **Plug Key**: Placed in series with the battery to control the flow of current.\n3. **Resistors**: Three resistors with resistances of 5 Ω, 8 Ω, and 12 Ω connected end-to-end.\n4. **Connections**: All components are connected in a single loop, ensuring that the same current flows through each component.\n\nThe arrangement can be visualized as:\n\n```
+[Battery (6 V)] —— [Plug Key] —— [5 Ω] —— [8 Ω] —— [12 Ω] —— (Back to Battery)
+```",
+    "explanation": "In a series circuit, all components are connected end-to-end in a single path for the current to flow. Here, the three cells of 2 V each are connected in series to provide a total voltage of 6 V. The plug key acts as a switch to open or close the circuit. The resistors of 5 Ω, 8 Ω, and 12 Ω are connected one after another, ensuring that the same current flows through each resistor. The schematic representation ensures that there is only one path for the current, illustrating the fundamental characteristic of a series circuit.",
+    "topic": "Resistors in Series",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Redraw the circuit from Question 1, adding an ammeter to measure the current through the resistors and a voltmeter to measure the potential difference across the 12 Ω resistor. What would be the readings on the ammeter and the voltmeter?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Ammeter Reading: 0.24 A\nVoltmeter Reading across 12 Ω resistor: 2.88 V",
+    "explanation": "1. **Total Voltage (V):** The three cells provide a total voltage of \( V = 3 \times 2\,V = 6\,V \).\n\n2. **Total Resistance (R\(_s\)):** Since the resistors are in series, the equivalent resistance is the sum of individual resistances:\n\n\[ R_s = R_1 + R_2 + R_3 = 5\,\Omega + 8\,\Omega + 12\,\Omega = 25\,\Omega \]\n\n3. **Current (I):** Using Ohm’s Law, the current through the circuit is:\n\n\[ I = \frac{V}{R_s} = \frac{6\,V}{25\,\Omega} = 0.24\,A \]\n\n   - **Ammeter Reading:** The ammeter, connected in series, measures the same current flowing through the circuit, so it reads **0.24 A**.\n\n4. **Potential Difference across 12 Ω resistor (V₃):** Again, using Ohm’s Law for the 12 Ω resistor:\n\n\[ V_3 = I \times R_3 = 0.24\,A \times 12\,\Omega = 2.88\,V \]\n\n   - **Voltmeter Reading:** The voltmeter, connected across the 12 Ω resistor, measures the potential difference of **2.88 V**.\n\n**Circuit Diagram with Instruments:**\n\n```\n[Battery (6 V)] —— [Plug Key] —— [Ammeter] —— [5 Ω] —— [8 Ω] —— [12 Ω] —— [Voltmeter] —— (Back to Battery)\n```\n\n**Summary of Readings:**\n- **Ammeter:** 0.24 A\n- **Voltmeter (across 12 Ω):** 2.88 V",
+    "topic": "Resistors in Series",
+    "bloom_level": "Apply"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "question_text": "An object has moved through a distance. Can it have zero displacement? If yes, support your answer with an example.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Yes, if an object returns to its starting point, then its displacement is zero even though the distance covered is non-zero. For example, if a runner completes one full lap around a circular track, the net change in position is zero.",
+    "explanation": "Displacement is defined as the shortest distance between the initial and final positions, including direction. In cases where the object returns to its initial point, the displacement becomes zero, despite the total path length traveled being greater than zero. This concept emphasizes the difference between scalar distance and vector displacement.",
+    "topic": "Distance and Displacement",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic001"
+  },
+  {
+    "question_text": "A farmer moves along the boundary of a square field of side 10 m in 40 s. What will be the magnitude of displacement of the farmer at the end of 2 minutes 20 seconds from his initial position?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "After 3.5 rounds along the square's boundary, the farmer will be at the diagonally opposite corner from his starting point. The displacement is the diagonal of the square, which is 10√2 m or approximately 14.14 m.",
+    "explanation": "The perimeter of the square field is 40 m, so one full round takes 40 s. Over 140 s (i.e., 2 minutes 20 seconds), the farmer completes 3.5 rounds. After 3 complete rounds, he returns to the starting position. The additional half round places him at the corner opposite to the starting point, making his displacement equal to the diagonal of the square calculated by √(10² + 10²) = √200 = 10√2 m.",
+    "topic": "Distance and Displacement",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic002"
+  },
+  {
+    "question_text": "Which of the following is true for displacement?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. It cannot be zero.",
+      "B. Its magnitude is greater than the distance travelled by the object.",
+      "C. It can be zero if the object returns to its starting point.",
+      "D. Its magnitude is always equal to the distance travelled."
+    ],
+    "correct_answer": "C. It can be zero if the object returns to its starting point.",
+    "explanation": "Displacement is a vector quantity representing the shortest distance from the initial to the final position, including direction. It can be zero if the object returns to its starting point. The other options are incorrect because displacement may be zero (contrary to A), its magnitude is not necessarily greater than the distance travelled (contrary to B), and it is not always equal to the distance travelled (contrary to D) since the actual path can be longer.",
+    "topic": "Distance and Displacement",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc107",
+    "question_id": "cbse_ix_iesc1dd_c107_ic003"
+  }
+]

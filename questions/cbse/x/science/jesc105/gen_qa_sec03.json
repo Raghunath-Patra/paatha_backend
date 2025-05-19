@@ -1,0 +1,117 @@
+[
+  {
+    "question_text": "In Activity 5.4, air was passed through lime water using a pichkari and a syringe. If the lime water turned milky in 30 seconds with the pichkari and 60 seconds with the syringe, what can be inferred about the concentration of carbon dioxide in the air exhaled through the pichkari compared to that through the syringe?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The air exhaled through the pichkari contains a higher concentration of carbon dioxide than that exhaled through the syringe, as the lime water turned milky faster.",
+    "explanation": "A faster reaction (lime water turning milky) indicates a higher concentration of carbon dioxide. Since the lime water turned milky in 30 seconds with the pichkari compared to 60 seconds with the syringe, it shows that the exhaled air through the pichkari has more carbon dioxide.",
+    "topic": "Carbon dioxide in exhaled air",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "In Activity 5.5, yeast was added to a sugar solution and the change in lime water was observed. What are the products of fermentation indicated by the lime water turning milky?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "A. Oxygen and water",
+      "B. Carbon dioxide and ethanol",
+      "C. Glucose and oxygen",
+      "D. Carbon dioxide and lactic acid"
+    ],
+    "correct_answer": "B. Carbon dioxide and ethanol",
+    "explanation": "Fermentation by yeast converts glucose into ethanol and carbon dioxide. The lime water turning milky indicates the presence of carbon dioxide, which forms calcium carbonate, causing turbidity.",
+    "topic": "Fermentation products",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Differentiate between aerobic and anaerobic respiration in terms of their end products and the amount of energy released.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Aerobic respiration occurs in the presence of oxygen and breaks down glucose into carbon dioxide, water, and energy (ATP). It releases a large amount of energy. Anaerobic respiration occurs without oxygen, converting glucose into ethanol and carbon dioxide in yeast, or lactic acid in animal muscles, releasing less energy compared to aerobic respiration.",
+    "explanation": "Aerobic respiration uses oxygen to completely oxidize glucose, producing 3 CO₂ and H₂O, and releasing significant ATP. Anaerobic respiration lacks oxygen; in yeast, it produces ethanol and CO₂, and in muscles, lactic acid, with lower energy yield.",
+    "topic": "Aerobic vs Anaerobic respiration",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "If 1 mole of ATP releases 30.5 kJ of energy upon hydrolysis, how much energy is released by the hydrolysis of 2 moles of ATP?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "61 kJ",
+    "explanation": "Energy released = 30.5 kJ/mol * 2 mol = 61 kJ.",
+    "topic": "ATP energy release",
+    "bloom_level": "Apply"
+  },
+  {
+    "question_text": "The alveolar surface area is about 80 m². Explain how this large surface area facilitates efficient gas exchange in the lungs.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The large alveolar surface area provides ample space for gas molecules to diffuse across, facilitating efficient exchange of oxygen and carbon dioxide between the air and the blood.",
+    "explanation": "A large surface area allows more gas molecules to come into contact with the alveolar walls simultaneously, enhancing the rate and efficiency of gas diffusion according to Fick's law.",
+    "topic": "Alveolar surface area and gas exchange",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Based on Activity 5.6, why is the rate of breathing in fish generally faster than that of terrestrial animals?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "A. Fish have smaller lungs than terrestrial animals.",
+      "B. The amount of dissolved oxygen in water is lower than in air, requiring fish to breathe faster.",
+      "C. Fish have higher metabolic rates than terrestrial animals.",
+      "D. Water is denser than air, allowing faster movement of oxygen to fish gills."
+    ],
+    "correct_answer": "B. The amount of dissolved oxygen in water is lower than in air, requiring fish to breathe faster.",
+    "explanation": "Water contains less dissolved oxygen compared to air. To meet their oxygen demands, fish need to process more water through their gills per unit time, resulting in a faster rate of breathing.",
+    "topic": "Fish respiration rate",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Explain why haemoglobin is essential for efficient oxygen transport in the human body, given that diffusion alone would take an estimated 3 years for oxygen molecules to reach the toes from the lungs.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Haemoglobin binds to oxygen molecules in the lungs, forming oxyhaemoglobin, which is efficiently transported through the bloodstream to tissues. This binding and transport mechanism significantly accelerates the delivery of oxygen, ensuring that tissues receive oxygen within moments rather than years, as would occur with diffusion alone.",
+    "explanation": "Without haemoglobin, oxygen would rely solely on diffusion, which is extremely slow, taking years to reach distant tissues. Haemoglobin acts as a carrier, binding oxygen in areas of high concentration (lungs) and releasing it where needed, maintaining a rapid and controlled supply of oxygen to cells.",
+    "topic": "Role of haemoglobin in oxygen transport",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Write the balanced chemical equation for aerobic respiration, where one glucose molecule (C₆H₁₂O₆) is broken down into carbon dioxide (CO₂) and water (H₂O) in the presence of oxygen (O₂).",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + energy (ATP)",
+    "explanation": "The complete oxidation of glucose in aerobic respiration combines glucose with oxygen to produce carbon dioxide and water, releasing energy stored as ATP.",
+    "topic": "Chemical equation for aerobic respiration",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "What is ATP and what role does it play in cellular processes?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "ATP (adenosine triphosphate) is the energy currency of the cell. It stores and provides energy for various cellular processes by releasing energy when its phosphate bonds are broken.",
+    "explanation": "ATP is synthesized during respiration and is used to drive endothermic reactions in the cell, such as muscle contraction, protein synthesis, and nerve impulse conduction.",
+    "topic": "ATP and its function",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Which structure in the human respiratory system is primarily responsible for gas exchange?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Trachea",
+      "B. Bronchi",
+      "C. Alveoli",
+      "D. Nose"
+    ],
+    "correct_answer": "C. Alveoli",
+    "explanation": "Alveoli are the balloon-like structures in the lungs where gas exchange between oxygen and carbon dioxide occurs due to their large surface area and thin walls.",
+    "topic": "Human respiratory system",
+    "bloom_level": "Remember"
+  }
+]

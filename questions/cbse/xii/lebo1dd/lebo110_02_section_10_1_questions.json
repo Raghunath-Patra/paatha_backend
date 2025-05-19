@@ -1,0 +1,309 @@
+[
+  {
+    "question_text": "Which of the following best describes the term 'totipotency' as used in tissue culture?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "The ability of a cell to form many types of tissues",
+      "The ability of a cell to form a whole plant from any explant",
+      "The ability of a tissue to resist pathogen attack",
+      "The ability of an explant to differentiate only into roots or shoots"
+    ],
+    "correct_answer": "The ability of a cell to form a whole plant from any explant",
+    "explanation": "Totipotency refers to the unique ability of an individual cell, or explant taken from a plant, to regenerate into a complete and fully functional plant.",
+    "topic": "Tissue culture and totipotency",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen001"
+  },
+  {
+    "question_text": "Bt toxin is used in genetically modified crops for pest resistance. What is the primary way in which Bt toxin kills target insect pests?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "By acting as a chemical pesticide on contact",
+      "By binding to the insect gut epithelial cells and creating pores after activation",
+      "By disrupting the insect's reproductive system",
+      "By inhibiting the insect's ability to feed"
+    ],
+    "correct_answer": "By binding to the insect gut epithelial cells and creating pores after activation",
+    "explanation": "Bt toxin is ingested by the insect as an inactive protoxin which, once activated in the alkaline gut, binds to specific epithelial cells forming pores that lead to cell lysis and death of the insect.",
+    "topic": "Bt toxin and pest resistance",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen002"
+  },
+  {
+    "question_text": "Which of the following methods is used to recover healthy, virus-free plants from virus-infected stock?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Genetic modification using cry genes",
+      "Tissue culture using meristem culture",
+      "Somatic hybridisation of protoplasts",
+      "Application of chemical pesticides"
+    ],
+    "correct_answer": "Tissue culture using meristem culture",
+    "explanation": "Meristem culture is used to recover virus-free plants because the meristematic tissues are typically free of viral infection, allowing for the regeneration of healthy plants in vitro.",
+    "topic": "Tissue culture applications in virus elimination",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen003"
+  },
+  {
+    "question_text": "In tissue culture, why is it necessary to add a carbon source such as sucrose to the nutrient medium?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "It acts as a growth regulator",
+      "It provides energy and supports the development of cells",
+      "It sterilizes the medium",
+      "It accelerates the reduction of pathogens"
+    ],
+    "correct_answer": "It provides energy and supports the development of cells",
+    "explanation": "Sucrose serves as a carbon source which is crucial for supplying energy for cell division and growth in tissue culture conditions.",
+    "topic": "Tissue culture requirements",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen004"
+  },
+  {
+    "question_text": "The use of RNA interference (RNAi) in transgenic plants helps in protecting them against nematode infestations. Which process is directly involved in RNAi?",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "options": [
+      "Targeted gene duplication",
+      "Silencing of a specific mRNA through the formation of double-stranded RNA",
+      "Insertion of foreign DNA into the plant genome",
+      "Activation of protein synthesis for defense mechanisms"
+    ],
+    "correct_answer": "Silencing of a specific mRNA through the formation of double-stranded RNA",
+    "explanation": "RNA interference works by introducing complementary RNA molecules that form double-stranded RNA, which silences the targeted mRNA and prevents translation, protecting the plant from pathogens like nematodes.",
+    "topic": "RNA interference in pest resistance",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen005"
+  },
+  {
+    "question_text": "Define tissue culture and explain its basic principle in plant biotechnology.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Tissue culture is a technique in which plant cells, tissues, or organs are grown in a sterile nutrient medium under controlled conditions. The basic principle involves utilizing the totipotency of plant cells to regenerate a whole plant from any explant.",
+    "explanation": "This answer highlights that tissue culture is a method for growing plant material in vitro, taking advantage of totipotency, the ability of plant cells to regenerate into an entire plant.",
+    "topic": "Tissue culture",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen006"
+  },
+  {
+    "question_text": "What are somaclones and how are they produced?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Somaclones are plants produced via tissue culture methods. They are genetically identical to the original plant from which the explant was taken.",
+    "explanation": "The term somaclones refers to clones derived from somatic (non-reproductive) cells using tissue culture, ensuring genetic uniformity with the source plant.",
+    "topic": "Micropropagation and somaclones",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen007"
+  },
+  {
+    "question_text": "Describe the mechanism by which Bt toxin, derived from Bacillus thuringiensis, controls insect pests.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Bt toxin is produced as an inactive protoxin in Bacillus thuringiensis. When ingested by an insect, the alkaline conditions in the gut convert the protoxin into its active form. The active toxin binds to midgut epithelial cells, forming pores that disrupt cell integrity, leading to cell lysis and eventually the death of the insect.",
+    "explanation": "This answer details the step-by-step process of activation of Bt toxin in the insect gut, its binding mechanism to target cells, and the eventual cause of insect death due to cell lysis.",
+    "topic": "Bt toxin and its mode of action",
+    "bloom_level": "Analyze",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen008"
+  },
+  {
+    "question_text": "Explain the process of somatic hybridisation and mention a potential example provided in the text.",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Somatic hybridisation involves isolating and fusing protoplasts (cells without cell walls) from two different plant varieties to form a hybrid protoplast. This hybrid can be cultured to develop into a new plant containing desirable traits from both parent plants. An example mentioned in the text is the creation of a 'pomato', a hybrid between tomato and potato, though it did not meet all commercial requirements.",
+    "explanation": "The answer explains the methodology of somatic hybridisation and ties it to the text example, demonstrating an understanding of both the process and its application in creating hybrids.",
+    "topic": "Somatic hybridisation",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen009"
+  },
+  {
+    "question_text": "Discuss the benefits and limitations of using genetically modified (GM) crops in agriculture.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Genetically modified crops offer several benefits including increased tolerance to abiotic stresses (such as drought, salt, and heat), reduced dependency on chemical pesticides, enhanced nutritional value (as seen with golden rice), improved post-harvest storage, and optimized use of soil minerals. However, limitations include potential ecological impacts, concerns over long-term human health, issues with intellectual property rights, and the possibility of pests developing resistance over time.",
+    "explanation": "This answer provides a balanced discussion by outlining both the advantages (such as stress tolerance and enhanced nutrition) and the potential drawbacks (like environmental concerns and resistance development) associated with GM crops.",
+    "topic": "Genetically Modified Crops",
+    "bloom_level": "Evaluate",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen010"
+  },
+  {
+    "question_text": "Explain how tissue culture and micropropagation contribute to crop improvement and large-scale production.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Tissue culture and micropropagation enable the rapid production of a large number of genetically identical plants (somaclones) by growing explants in a sterile environment with a nutrient medium supplemented with sucrose, inorganic salts, vitamins, amino acids, and growth regulators. This technique not only allows for faster propagation compared to traditional breeding but also facilitates the recovery of healthy plants from diseased tissue. It is especially useful in producing virus-free plants and preserving elite genotypes, thereby contributing significantly to crop improvement and meeting the demands of large-scale agriculture.",
+    "explanation": "The answer effectively relates how the controlled conditions of tissue culture allow for both mass propagation and disease-free plant production, which are critical for modern agricultural production and crop improvement.",
+    "topic": "Tissue culture and micropropagation",
+    "bloom_level": "Evaluate",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen011"
+  },
+  {
+    "question_text": "True or False: Totipotency means that every single plant cell can regenerate into a complete plant if provided with the correct nutrient medium.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "Cannot Determine"
+    ],
+    "correct_answer": "True",
+    "explanation": "Totipotency is the ability of a cell to produce all the tissues required to form a complete plant, given the proper conditions and nutrient medium.",
+    "topic": "Tissue culture and totipotency",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen012"
+  },
+  {
+    "question_text": "True or False: The significant increase in crop yield during the Green Revolution was solely due to the development of improved crop varieties.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "Cannot Determine"
+    ],
+    "correct_answer": "False",
+    "explanation": "The increase in yield was not only due to improved crop varieties but was mainly attributed to better management practices and the use of agrochemicals like fertilizers and pesticides.",
+    "topic": "Green Revolution",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen013"
+  },
+  {
+    "question_text": "True or False: Once activated by the alkaline pH in the insect gut, Bt toxin binds to the midgut epithelial cells and forms pores that lead to cell lysis.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "Cannot Determine"
+    ],
+    "correct_answer": "True",
+    "explanation": "Bt toxin in its active form binds to the epithelial cells in the insect's midgut, creating pores, which results in cell swelling, lysis, and ultimately the death of the insect.",
+    "topic": "Bt toxin mode of action",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen014"
+  },
+  {
+    "question_text": "True or False: Tissue culture techniques cannot be used to produce a large number of genetically identical plants in a short period.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "Cannot Determine"
+    ],
+    "correct_answer": "False",
+    "explanation": "Tissue culture, especially through micropropagation, enables the production of thousands of genetically identical plants in a brief period, making it a powerful tool in modern horticulture.",
+    "topic": "Micropropagation and tissue culture",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen015"
+  },
+  {
+    "question_text": "True or False: RNA interference (RNAi) in transgenic plants involves the introduction of both sense and anti-sense RNA to form double-stranded RNA, which silences the target nematode mRNA.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "Cannot Determine"
+    ],
+    "correct_answer": "True",
+    "explanation": "In RNA interference, the production of both sense and anti-sense RNA allows them to hybridize into double-stranded RNA, which triggers the silencing mechanism against specific mRNA targets, thereby protecting the plant.",
+    "topic": "RNA interference in pest resistance",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen016"
+  },
+  {
+    "question_text": "True or False: Somatic hybridisation involves the fusion of complete plant cells with their cell walls intact.",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "Cannot Determine"
+    ],
+    "correct_answer": "False",
+    "explanation": "Somatic hybridisation requires the removal of the cell walls to obtain protoplasts, which are then fused. The process does not involve complete plant cells with intact cell walls.",
+    "topic": "Somatic hybridisation",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen017"
+  },
+  {
+    "question_text": "If a tissue culture laboratory produces 3,000 plants in one cycle and each cycle takes 4 weeks, approximately how many plants can be produced in one year (52 weeks) assuming continuous cycles without interruption?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 39,000 plants",
+    "explanation": "One cycle takes 4 weeks, so there are 52/4 = 13 cycles in a year. Therefore, 3,000 plants per cycle multiplied by 13 cycles equals 39,000 plants produced in a year.",
+    "topic": "Micropropagation productivity",
+    "bloom_level": "Apply",
+    "source": "generated",
+    "chapter_id": "lebo110",
+    "section_id": "02_section_10_1",
+    "question_id": "cbse_xii_lebo1dd_c110_gen018"
+  }
+]

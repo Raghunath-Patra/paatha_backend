@@ -1,0 +1,98 @@
+[
+  {
+    "question_text": "Evaluate the determinant of A = [[2, 4], [4, 2]] and show that |2A| = 4|A|.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For A = [[2, 4], [4, 2]], the determinant |A| = (2×2 − 4×4) = 4 − 16 = −12. When every entry of A is multiplied by 2, the new matrix 2A = [[4, 8], [8, 4]] has determinant |2A| = (4×4 − 8×8) = 16 − 64 = −48, which equals 4×(−12) = −48.",
+    "explanation": "Step 1: Compute |A| = 2×2 − 4×4 = 4 − 16 = −12. \nStep 2: The property of determinants tells us that for a 2×2 matrix, if each entry is multiplied by k, then the determinant is multiplied by k². Here, 2A means each entry is multiplied by 2 so |2A| should equal 2²|A| = 4|A|. \nStep 3: Explicitly, 2A = [[4, 8], [8, 4]] and its determinant is 4×4 − 8×8 = 16 − 64 = −48, which confirms that |2A| = 4|A|.",
+    "topic": "Determinants; Properties of Determinants",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex001"
+  },
+  {
+    "question_text": "Evaluate the following determinants:\n(i) Determine |[ [cosθ, −sinθ], [sinθ, cosθ] ]|.\n(ii) Determine |[ [2, −1, −1], [1, 1, 1], [x, x, x] ]|.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For (i): The determinant = cosθ·cosθ − (−sinθ)·sinθ = cos²θ + sin²θ = 1. \nFor (ii): Since all elements in the third row are equal (each entry is x), the rows are linearly dependent, so the determinant is 0.",
+    "explanation": "Part (i): Recognize that the given matrix is the standard rotation matrix. Its determinant is computed as cosθ·cosθ − (−sinθ)·sinθ = cos²θ + sin²θ = 1, using the Pythagorean identity.\n\nPart (ii): The matrix is\n[ [2, −1, −1],\n  [1,  1,  1],\n  [x,  x,  x] ].\nSince the third row is a constant multiple of [1, 1, 1] (i.e. multiplied by x), it is linearly dependent with the second row. Hence, the determinant is 0.",
+    "topic": "Determinants; Special Matrices and Properties",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex002"
+  },
+  {
+    "question_text": "If A = [[1, 2], [4, 2]], show that |2A| = 4|A|.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For A = [[1, 2], [4, 2]], the determinant |A| = (1×2 − 2×4) = 2 − 8 = −6. Multiplying A by 2 gives 2A = [[2, 4], [8, 4]] with determinant |2A| = (2×4 − 4×8) = 8 − 32 = −24. Since 4|A| = 4×(−6) = −24, the property is verified.",
+    "explanation": "Step 1: Calculate |A| = 1×2 − 2×4 = 2 − 8 = −6.\nStep 2: Form 2A = [[2, 4], [8, 4]] and compute its determinant: 2×4 − 4×8 = 8 − 32 = −24.\nStep 3: Check that 4|A| = 4×(−6) = −24, thereby confirming that |2A| = 4|A|.",
+    "topic": "Determinants; Scalar Multiplication Property",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex003"
+  },
+  {
+    "question_text": "If A = [[1, 0, 1], [0, 1, 2], [0, 0, 4]], show that |3A| = 27|A|.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For the given 3×3 matrix A, |A| is computed by multiplying the diagonal entries (since A is upper triangular): |A| = 1×1×4 = 4. When every entry of A is multiplied by 3, the determinant scales by 3³ (since the order is 3), so |3A| = 3³×|A| = 27×4 = 108, which verifies that |3A| = 27|A|.",
+    "explanation": "Step 1: Note that A is an upper triangular matrix. Its determinant is the product of its diagonal entries: 1×1×4 = 4.\nStep 2: For any n×n matrix A and scalar k, |kA| = kⁿ|A|. Here, n = 3 and k = 3, so |3A| = 3³×|A| = 27×4 = 108.\nStep 3: This shows that |3A| equals 27|A|.",
+    "topic": "Determinants; Scalar Multiplication in Higher Order Matrices",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex004"
+  },
+  {
+    "question_text": "Evaluate the following determinants:\n(i) |[ [3, −1, −2], [0, 0, −1], [3, −5, 0] ]|,\n(ii) |[ [3, −4, 5], [1, 1, −2], [2, 3, 1] ]|,\n(iii) |[ [0, 1, 2], [−1, 0, −3], [−2, 3, 0] ]|,\n(iv) |[ [2, −1, −2], [0, 2, −1], [3, −5, 0] ]|.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) -12, (ii) 46, (iii) 0, (iv) 5.",
+    "explanation": "For (i): Compute using cofactor expansion:\n• |A| = 3·det([[0, −1], [−5, 0]]) − (−1)·det([[0, −1], [3, 0]]) + (−2)·det([[0, 0], [3, −5]]).\n• det([[0, −1], [−5, 0]]) = 0×0 − (−1)(−5) = −5.\n• det([[0, −1], [3, 0]]) = 0×0 − (−1×3) = 3.\n• det([[0, 0], [3, −5]]) = 0×(−5) − 0×3 = 0.\nThus, |A| = 3×(−5) + 1×3 + (−2)×0 = −15 + 3 = −12.\n\nFor (ii): After applying the standard 3×3 determinant formula, the computed value is 46.\n\nFor (iii): A similar evaluation shows that the determinant is 0 due to cancellation.\n\nFor (iv): Expanding by cofactors yields |A| = 5.",
+    "topic": "Determinants; Cofactor Expansion",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex005"
+  },
+  {
+    "question_text": "Find the values of x such that (i) |[ [2, 4], [5, 1] ]| = |[ [2x, 4], [6, x] ]| and (ii) |[ [2, 3], [4, 5] ]| = |[ [x, 3], [2x, 5] ]|.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (i): The left determinant is 2×1 − 4×5 = 2 − 20 = −18. The right determinant is (2x×x − 4×6) = 2x² − 24. Equating gives 2x² − 24 = −18, so 2x² = 6, and x² = 3, meaning x = ±√3.\nFor (ii): The left determinant is 2×5 − 3×4 = 10 − 12 = −2. The right determinant is (x×5 − 3×(2x)) = 5x − 6x = −x. Equating −x = −2, we obtain x = 2.",
+    "explanation": "Part (i):\n• Compute |[ [2, 4], [5, 1] ]| = (2×1) − (4×5) = 2 − 20 = −18.\n• Compute |[ [2x, 4], [6, x] ]| = (2x×x) − (4×6) = 2x² − 24.\n• Set 2x² − 24 = −18, which simplifies to 2x² = 6 and x² = 3, so x = ±√3.\n\nPart (ii):\n• Compute |[ [2, 3], [4, 5] ]| = (2×5) − (3×4) = 10 − 12 = −2.\n• Compute |[ [x, 3], [2x, 5] ]| = (x×5) − (3×2x) = 5x − 6x = −x.\n• Equate −x = −2, hence x = 2.",
+    "topic": "Determinants; Solving Equations Involving Determinants",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex006"
+  },
+  {
+    "question_text": "If |[ [x, 2], [18, x] ]| = |[ [6, 2], [18, 6] ]|, then x is equal to.",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "6",
+      "±6",
+      "-6",
+      "0"
+    ],
+    "correct_answer": "±6 (Option B)",
+    "explanation": "First, compute each determinant:\n• For |[ [x, 2], [18, x] ]|, the determinant is x×x − 2×18 = x² − 36.\n• For |[ [6, 2], [18, 6] ]|, the determinant is 6×6 − 2×18 = 36 − 36 = 0.\nSetting x² − 36 = 0 gives x² = 36, so x = ±6. Therefore, the correct answer is ±6, which corresponds to Option B.",
+    "topic": "Determinants; Solving Determinant Equations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex007"
+  }
+]

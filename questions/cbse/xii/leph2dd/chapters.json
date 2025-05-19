@@ -1,0 +1,29 @@
+{
+    "name": "Physics Part II",
+    "chapters": [
+      {
+        "number": 9,
+        "name": "Ray Optics and Optical Instruments"
+      },
+      {
+        "number": 10,
+        "name": "Wave Optics"
+      },
+      {
+        "number": 11,
+        "name": "Dual Nature of Radiation and Matter"
+      },
+      {
+        "number": 12,
+        "name": "Atoms"
+      },
+      {
+        "number": 13,
+        "name": "Nuclei"
+      },
+      {
+        "number": 14,
+        "name": "Semiconductor Electronics: Materials, Devices and Simple Circuits"
+      }
+    ]
+  }

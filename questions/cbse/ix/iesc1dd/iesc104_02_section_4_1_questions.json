@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "1. Which of the following best describes the charge acquired by a glass rod when rubbed with a silk cloth?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. It remains neutral",
+      "B. It becomes negatively charged",
+      "C. It becomes positively charged",
+      "D. It becomes magnetized"
+    ],
+    "correct_answer": "C. It becomes positively charged",
+    "explanation": "Rubbing a glass rod with a silk cloth causes electrons to transfer from the glass to the silk. This loss of electrons leaves the glass rod with a net positive charge.",
+    "topic": "Charged particles – static electricity",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "iesc104",
+    "section_id": "02_section_4_1",
+    "question_id": "cbse_ix_iesc1dd_c104_gen001"
+  }
+]

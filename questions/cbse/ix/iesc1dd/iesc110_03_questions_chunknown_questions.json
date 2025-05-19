@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "A force of 7 N acts on an object. The object undergoes a displacement of 8 m in the direction of the force. What is the work done in this case?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "56 J",
+    "explanation": "Work is defined in physics as the product of the force applied and the displacement in the direction of the force (W = F × s). Here, the force F is 7 N and the displacement s is 8 m. Multiplying these gives W = 7 N × 8 m = 56 J. This calculation directly applies the formula for work where both magnitude and direction (force and displacement) are considered.",
+    "topic": "Work and Energy - Work Done by a Constant Force",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic001"
+  },
+  {
+    "question_text": "A porter lifts a 15 kg luggage from the ground and places it 1.5 m above ground level. Calculate the work done by the porter on the luggage, given that the acceleration due to gravity is 10 m/s².",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "225 J",
+    "explanation": "To calculate the work done in lifting an object, first determine the force applied, which here is equal to the weight of the luggage. Weight is found using F = m × g, where m is mass and g is the acceleration due to gravity. For a 15 kg luggage: F = 15 kg × 10 m/s² = 150 N. Then, using the formula for work (W = F × s) with a displacement of 1.5 m, the work done is W = 150 N × 1.5 m = 225 J. This example highlights the practical application of the work formula in physics.",
+    "topic": "Work and Energy - Work Done by a Constant Force",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic002"
+  }
+]

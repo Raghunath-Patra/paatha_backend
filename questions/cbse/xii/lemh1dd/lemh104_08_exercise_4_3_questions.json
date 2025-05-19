@@ -1,0 +1,72 @@
+[
+  {
+    "question_text": "Write Minors and Cofactors of the elements of the following determinants:\n(i) [ [2, -4], [0, 3] ]\n(ii) [ [a, c], [b, d] ]",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For (i):\n• For element 2 (position (1,1)): M₁₁ = 3, A₁₁ = (+1)*3 = 3.\n• For element -4 (position (1,2)): M₁₂ = 0, A₁₂ = (–1)*0 = 0.\n• For element 0 (position (2,1)): M₂₁ = -4, A₂₁ = (–1)*(-4) = 4.\n• For element 3 (position (2,2)): M₂₂ = 2, A₂₂ = (+1)*2 = 2.\n\nFor (ii):\n• For element a (position (1,1)): M₁₁ = d, A₁₁ = (+1)*d = d.\n• For element c (position (1,2)): M₁₂ = b, A₁₂ = (–1)*b = –b.\n• For element b (position (2,1)): M₂₁ = c, A₂₁ = (–1)*c = –c.\n• For element d (position (2,2)): M₂₂ = a, A₂₂ = (+1)*a = a.",
+    "explanation": "We obtain the minor of an element by deleting its row and column from the determinant. The cofactor is then obtained by multiplying the minor by (–1)^(i+j).\nFor (i):\n • a₁₁ = 2. Delete row 1 and column 1 to be left with [3]. Hence, M₁₁ = 3 and A₁₁ = (–1)^(1+1)*3 = 3.\n • a₁₂ = –4. Deleting row 1 and column 2 leaves [0], so M₁₂ = 0 and A₁₂ = (–1)^(1+2)*0 = 0.\n • a₂₁ = 0. Deleting row 2 and column 1 leaves [–4], so M₂₁ = –4 and A₂₁ = (–1)^(2+1)*(–4) = 4.\n • a₂₂ = 3. Deleting row 2 and column 2 leaves [2], so M₂₂ = 2 and A₂₂ = (–1)^(2+2)*2 = 2.\nFor (ii):\n • a₁₁ = a. The remaining element after deleting row 1 and column 1 is d, so M₁₁ = d and A₁₁ = (+1)*d = d.\n • a₁₂ = c. Deleting row 1 and column 2 leaves [b], so M₁₂ = b and A₁₂ = (–1)^(1+2)*b = –b.\n • a₂₁ = b. Removing row 2 and column 1 leaves [c], so M₂₁ = c and A₂₁ = (–1)^(2+1)*c = –c.\n • a₂₂ = d. Removing row 2 and column 2 leaves [a], so M₂₂ = a and A₂₂ = (–1)^(2+2)*a = a.",
+    "topic": "Minors and Cofactors",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex017"
+  },
+  {
+    "question_text": "Write Minors and Cofactors of the elements of the following determinants:\n(i) The 3×3 identity matrix\n    [ [1, 0, 0],\n      [0, 1, 0],\n      [0, 0, 1] ]\n(ii) [ [1, 0, 4],\n       [3, 5, –1],\n       [0, 1, 2] ]",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (i) – 3×3 Identity Matrix:\nEach element’s minor and cofactor is computed by deleting its row and column. For example:\n• a₁₁ = 1: M₁₁ = det([ [1, 0], [0, 1] ]) = 1; A₁₁ = (+1)*1 = 1.\n• a₁₂ = 0: M₁₂ = det([ [0, 0], [0, 1] ]) = 0; A₁₂ = (–1)*0 = 0.\n(similarly for remaining elements; note that non-diagonal elements will have minors computed accordingly).\n\nFor (ii): Matrix = [ [1, 0, 4], [3, 5, –1], [0, 1, 2] ]:\n• a₁₁ = 1: M₁₁ = det([ [5, –1], [1, 2] ]) = (5×2 – (–1×1)) = 10 + 1 = 11; A₁₁ = (+1)*11 = 11.\n• a₁₂ = 0: M₁₂ = det([ [3, –1], [0, 2] ]) = (3×2 – (–1×0)) = 6; A₁₂ = (–1)*6 = –6.\n• a₁₃ = 4: M₁₃ = det([ [3, 5], [0, 1] ]) = (3×1 – 5×0) = 3; A₁₃ = (+1)*3 = 3.\n• a₂₁ = 3: M₂₁ = det([ [0, 4], [1, 2] ]) = (0×2 – 4×1) = –4; A₂₁ = (–1)*(-4) = 4.\n• a₂₂ = 5: M₂₂ = det([ [1, 4], [0, 2] ]) = (1×2 – 4×0) = 2; A₂₂ = (+1)*2 = 2.\n• a₂₃ = –1: M₂₃ = det([ [1, 0], [0, 1] ]) = (1×1 – 0×0) = 1; A₂₃ = (–1)*1 = –1.\n• a₃₁ = 0: M₃₁ = det([ [0, 4], [5, –1] ]) = (0×(–1) – 4×5) = –20; A₃₁ = (+1)*(-20) = -20.\n• a₃₂ = 1: M₃₂ = det([ [1, 4], [3, –1] ]) = (1×(–1) – 4×3) = –1 – 12 = –13; A₃₂ = (–1)*(-13) = 13.\n• a₃₃ = 2: M₃₃ = det([ [1, 0], [3, 5] ]) = (1×5 – 0×3) = 5; A₃₃ = (+1)*5 = 5.",
+    "explanation": "To find the minor of an element in a determinant, delete its row and column; the cofactor is then (–1)^(i+j) times the minor. For the identity matrix, most off-diagonal elements become 0, and the diagonal ones produce a minor of 1. For the second matrix, each element’s minor is computed from its corresponding 2×2 submatrix and then multiplied by the sign factor. The steps include forming the submatrix, calculating its determinant, and then applying the sign factor (–1)^(i+j) to obtain the cofactor.",
+    "topic": "Minors and Cofactors",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex018"
+  },
+  {
+    "question_text": "Using the cofactors of the elements of the second row, evaluate Δ for the determinant:\n[ [5, 3, 8],\n  [2, 0, 1],\n  [1, 2, 3] ]",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The determinant is calculated by expanding along the second row:\nFor a₂₁ = 2: M₂₁ = det([ [3, 8], [2, 3] ]) = (3×3 – 8×2) = 9 – 16 = –7, so A₂₁ = (–1)^(2+1)*(–7) = 7.\nFor a₂₂ = 0: its contribution is 0.\nFor a₂₃ = 1: M₂₃ = det([ [5, 3], [1, 2] ]) = (5×2 – 3×1) = 10 – 3 = 7, so A₂₃ = (–1)^(2+3)*7 = –7.\nThus, Δ = 2×7 + 0×(whatever) + 1×(–7) = 14 – 7 = 7.",
+    "explanation": "We expand the determinant along the second row. For each element a₂ⱼ, we calculate its minor by deleting row 2 and column j, then obtain the cofactor by multiplying the minor by (–1)^(2+j). After finding each nonzero term, we sum the products a₂ⱼ·A₂ⱼ to get the determinant. The detailed calculations yield Δ = 7.",
+    "topic": "Determinant Evaluation using Cofactor Expansion",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex019"
+  },
+  {
+    "question_text": "Using the cofactors of the elements of the third column, evaluate Δ for the determinant:\n[ [1, 1, 1],\n  [x, y, z],\n  [y, z, x] ]",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Expand along the third column:\n• a₁₃ = 1: M₁₃ = det([ [x, y], [y, z] ]) = xz – y²; A₁₃ = (–1)^(1+3)*(xz – y²) = (xz – y²).\n• a₂₃ = z: M₂₃ = det([ [1, 1], [y, z] ]) = (1×z – 1×y) = z – y; A₂₃ = (–1)^(2+3)*(z – y) = –(z – y).\n• a₃₃ = x: M₃₃ = det([ [1, 1], [x, y] ]) = (1×y – 1×x) = y – x; A₃₃ = (–1)^(3+3)*(y – x) = y – x.\nThus, Δ = 1·(xz – y²) + z·[–(z – y)] + x·(y – x) = xz – y² – z² + zy + xy – x² = xy + xz + yz – (x² + y² + z²).",
+    "explanation": "The strategy is to expand the determinant along the third column. For each element aᵢ₃, its minor is the determinant of the 2×2 matrix obtained by deleting row i and column 3. The cofactor is obtained by multiplying the minor by (–1)^(i+3). After computing each term:\n • For a₁₃, the minor is computed from the 2×2 submatrix [ [x, y], [y, z] ].\n • For a₂₃, the minor comes from [ [1, 1], [y, z] ].\n • For a₃₃, the minor comes from [ [1, 1], [x, y] ].\nCombining these with their respective sign factors and summing gives the final expression for Δ.",
+    "topic": "Determinant Evaluation using Cofactor Expansion",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex020"
+  },
+  {
+    "question_text": "If Δ = | a₁₁  a₁₂  a₁₃ |\n            | a₂₁  a₂₂  a₂₃ |\n            | a₃₁  a₃₂  a₃₃ |\nand Aᵢⱼ are the cofactors of aᵢⱼ, then which of the following expressions gives the value of Δ?\n(A) a₁₁A₃₁ + a₁₂A₃₂ + a₁₃A₃₃\n(B) a₁₁A₁₁ + a₁₂A₂₁ + a₁₃A₃₁\n(C) a₂₁A₁₁ + a₂₂A₁₂ + a₂₃A₁₃\n(D) a₁₁A₁₁ + a₂₁A₂₁ + a₃₁A₃₁",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A: a₁₁A₃₁ + a₁₂A₃₂ + a₁₃A₃₃",
+      "B: a₁₁A₁₁ + a₁₂A₂₁ + a₁₃A₃₁",
+      "C: a₂₁A₁₁ + a₂₂A₁₂ + a₂₃A₁₃",
+      "D: a₁₁A₁₁ + a₂₁A₂₁ + a₃₁A₃₁"
+    ],
+    "correct_answer": "D: a₁₁A₁₁ + a₂₁A₂₁ + a₃₁A₃₁",
+    "explanation": "A fundamental property of determinants is that the determinant equals the sum of the products of the elements of any row (or column) with their corresponding cofactors. Option D represents the expansion along the first column: Δ = a₁₁A₁₁ + a₂₁A₂₁ + a₃₁A₃₁. This is one of the valid ways to compute the determinant.",
+    "topic": "Cofactor Expansion of Determinants",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "lemh104",
+    "question_id": "cbse_xii_lemh1dd_c104_ex021"
+  }
+]

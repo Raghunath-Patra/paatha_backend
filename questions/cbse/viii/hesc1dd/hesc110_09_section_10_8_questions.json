@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following is an example of a noise pollution source?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A: Tree planting",
+      "B: Television played at high volume",
+      "C: A quiet library",
+      "D: A calm river"
+    ],
+    "correct_answer": "B: Television played at high volume",
+    "explanation": "Noise pollution is the presence of unwanted or excessive sound. A television played at high volume in a residential area is an example of a source of noise pollution, while tree planting and quiet environments help reduce noise.",
+    "topic": "Noise Pollution",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc110",
+    "section_id": "09_section_10_8",
+    "question_id": "cbse_viii_hesc1dd_c110_gen091"
+  }
+]

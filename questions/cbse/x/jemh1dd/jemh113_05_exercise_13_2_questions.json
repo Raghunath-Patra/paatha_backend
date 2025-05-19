@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "The following table shows the ages of the patients admitted in a hospital during a year:\n\nAge (in years): 5-15, 15-25, 25-35, 35-45, 45-55, 55-65\nNumber of patients: 6, 11, 21, 23, 14, 5\n\nFind the mode and the mean of the data given above. Compare and interpret the two measures of central tendency.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Mode ≈ 36.82 years, Mean = 35.38 years. The mode is computed as 35 + [(23 - 21) / (2×23 - 21 - 14)]×10 ≈ 36.82 and the mean is computed as (6×10 + 11×20 + 21×30 + 23×40 + 14×50 + 5×60)/80 = 2830/80 = 35.38. The mode represents the most frequent age bracket (centred around 36.82 years) while the mean provides the average age (35.38 years), indicating a slight discrepancy that may suggest a mild skew in the distribution.",
+    "explanation": "Step 1: Identify the modal class which is the class with the highest frequency. Here, the class 35-45 has the highest frequency (23).\n\nStep 2: Use the formula for mode for grouped data:\n    Mode = l + [(f₁ – f₀)/(2f₁ – f₀ – f₂)] × h\nwhere l = lower limit of modal class, h = class width, f₁ = frequency of modal class, f₀ = frequency of the class preceding, f₂ = frequency of the class succeeding.\n\nFor the class 35-45: l = 35, h = 45 - 35 = 10, f₁ = 23, f₀ = 21 (from 25-35), f₂ = 14 (from 45-55).\n    Mode = 35 + [(23 - 21)/(2×23 - 21 - 14)] × 10 = 35 + [2/((46 - 35))] × 10 = 35 + (2/11)×10 ≈ 35 + 1.82 = 36.82\n\nStep 3: Compute the mean using the midpoint method:\n   For each class, calculate the midpoint and multiply by its frequency:\n     5-15: midpoint = 10, product = 6×10 = 60\n     15-25: midpoint = 20, product = 11×20 = 220\n     25-35: midpoint = 30, product = 21×30 = 630\n     35-45: midpoint = 40, product = 23×40 = 920\n     45-55: midpoint = 50, product = 14×50 = 700\n     55-65: midpoint = 60, product = 5×60 = 300\n   Sum of products = 60 + 220 + 630 + 920 + 700 + 300 = 2830\n   Total frequency = 6 + 11 + 21 + 23 + 14 + 5 = 80\n   Mean = 2830 / 80 = 35.38\n\nStep 4: Compare: The mode (≈36.82) is slightly higher than the mean (35.38). This difference helps in interpreting the distribution: while most patients are around 36.82 years (modal value), the average age is lower (35.38 years), indicating a slight skew or spread in the age distribution.",
+    "topic": "Mode and Mean of Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex010"
+  },
+  {
+    "question_text": "The following data gives the information on the observed lifetimes (in hours) of 225 electrical components:\n\nLifetimes (in hours): 0-20, 20-40, 40-60, 60-80, 80-100, 100-120\nFrequency: 10, 35, 52, 61, 38, 29\n\nDetermine the modal lifetimes of the components.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Mode ≈ 65.63 hours. The modal class is 60-80 (frequency 61) and using the formula Mode = 60 + [(61 - 52)/(2×61 - 52 - 38)] × 20 ≈ 60 + (9/32)×20 ≈ 60 + 5.63 = 65.63 hours.",
+    "explanation": "Step 1: Identify the modal class. The frequency is highest for the interval 60-80 (frequency = 61).\n\nStep 2: Apply the mode formula for grouped data:\n   Mode = l + [(f₁ – f₀)/(2f₁ – f₀ – f₂)] × h\n\nHere for 60-80: l = 60, h = 20 (80-60), f₁ = 61, f₀ = 52 (previous class 40-60), f₂ = 38 (next class 80-100).\n\nMode = 60 + [(61 - 52)/(2×61 - 52 - 38)] × 20 = 60 + [9/(122 - 90)] × 20 = 60 + (9/32)×20 ≈ 60 + 5.63 = 65.63\n\nStep 3: Conclude that the modal lifetime is approximately 65.63 hours.",
+    "topic": "Mode for Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex011"
+  },
+  {
+    "question_text": "The following data gives the distribution of total monthly household expenditure of 200 families of a village:\n\nExpenditure (in ₹) with Number of families:\n1000 - 1500: 24\n1500 - 2000: 40\n2000 - 2500: 33\n2500 - 3000: 28\n3000 - 3500: 30\n3500 - 4000: 22\n4000 - 4500: 16\n4500 - 5000: 7\n\nFind the modal monthly expenditure of the families. Also, find the mean monthly expenditure.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Mode ≈ ₹1847.83 and Mean ≈ ₹2662.50. The modal class is 1500-2000 (frequency 40) and using the formula yields Mode = 1500 + [(40 - 24)/(2×40 - 24 - 33)]×500 ≈ 1500 + (16/23)×500 ≈ 1847.83. The mean is calculated by using midpoints: (24×1250 + 40×1750 + 33×2250 + 28×2750 + 30×3250 + 22×3750 + 16×4250 + 7×4750) / 200 ≈ 532500/200 = 2662.50.",
+    "explanation": "Step 1: Identify the modal class. The class with the highest frequency is 1500-2000 (frequency = 40).\n\nStep 2: For the mode, use:\n   Mode = l + [(f₁ – f₀)/(2f₁ – f₀ – f₂)] × h\nFor class 1500-2000: l = 1500, h = 2000 - 1500 = 500, f₁ = 40, f₀ = 24 (from 1000-1500), f₂ = 33 (from 2000-2500).\n   Mode = 1500 + [(40 - 24)/(80 - 24 - 33)]×500 = 1500 + [16/(23)]×500 ≈ 1500 + 347.83 = 1847.83\n\nStep 3: For the mean, calculate the midpoints and then the weighted sum:\n   1000-1500: midpoint = 1250, product = 24×1250 = 30000\n   1500-2000: midpoint = 1750, product = 40×1750 = 70000\n   2000-2500: midpoint = 2250, product = 33×2250 = 74250\n   2500-3000: midpoint = 2750, product = 28×2750 = 77000\n   3000-3500: midpoint = 3250, product = 30×3250 = 97500\n   3500-4000: midpoint = 3750, product = 22×3750 = 82500\n   4000-4500: midpoint = 4250, product = 16×4250 = 68000\n   4500-5000: midpoint = 4750, product = 7×4750 = 33250\n   Total product sum = 30000 + 70000 + 74250 + 77000 + 97500 + 82500 + 68000 + 33250 = 532500\n   Total frequency = 200\n   Mean = 532500 / 200 = 2662.50\n\nStep 4: Comparison: The mode indicates the expenditure most frequently observed (about ₹1847.83) whereas the mean represents the average expenditure (about ₹2662.50). The higher mean suggests that a few families with higher expenditure are pulling the average up.",
+    "topic": "Measures of Central Tendency for Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex012"
+  },
+  {
+    "question_text": "The following distribution gives the state-wise teacher-student ratio in higher secondary schools of India:\n\nNumber of students per teacher vs. Number of states/UT:\n15-20: 3\n20-25: 8\n25-30: 9\n30-35: 10\n35-40: 3\n40-45: 0\n45-50: 0\n50-55: 2\n\nFind the mode and the mean of this data. Interpret the two measures.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Mode ≈ 30.63 students per teacher and Mean ≈ 29.21 students per teacher. For the modal class 30-35 (frequency 10), using the formula we get: Mode = 30 + [(10 - 9)/(2×10 - 9 - 3)]×5 ≈ 30 + (1/8)×5 = 30.63. The mean calculated using midpoints yields approximately 29.21. This indicates that while most states have a teacher-student ratio around 30.63, the overall average ratio is slightly lower, suggesting a distribution that may be influenced by states with comparatively lower ratios.",
+    "explanation": "Step 1: Identify the modal class. The class 30-35 has the highest frequency (10).\n\nStep 2: For the mode, the formula is:\n   Mode = l + [(f₁ – f₀)/(2f₁ – f₀ – f₂)] × h\nFor class 30-35: l = 30, h = 35 - 30 = 5, f₁ = 10, f₀ = 9 (from 25-30), f₂ = 3 (from 35-40).\n   Mode = 30 + [(10 - 9)/(20 - 9 - 3)]×5 = 30 + (1/8)×5 = 30 + 0.625 = 30.63\n\nStep 3: For the mean, compute midpoints for each class:\n   15-20: midpoint = 17.5, product = 3×17.5 = 52.5\n   20-25: midpoint = 22.5, product = 8×22.5 = 180\n   25-30: midpoint = 27.5, product = 9×27.5 = 247.5\n   30-35: midpoint = 32.5, product = 10×32.5 = 325\n   35-40: midpoint = 37.5, product = 3×37.5 = 112.5\n   40-45: midpoint = 42.5, product = 0×42.5 = 0\n   45-50: midpoint = 47.5, product = 0×47.5 = 0\n   50-55: midpoint = 52.5, product = 2×52.5 = 105\n   Total sum = 52.5 + 180 + 247.5 + 325 + 112.5 + 0 + 0 + 105 = 1022.5\n   Total frequency = 3 + 8 + 9 + 10 + 3 + 0 + 0 + 2 = 35\n   Mean = 1022.5/35 ≈ 29.21\n\nStep 4: Interpretation: The mode indicates the most common teacher-student ratio (≈30.63) while the mean signifies the overall average ratio (≈29.21). The small difference may reflect some states having significantly lower ratios, reducing the average compared to the modal concentration.",
+    "topic": "Measures of Central Tendency in Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex013"
+  },
+  {
+    "question_text": "The given distribution shows the number of runs scored by some top batsmen of the world in one-day international cricket matches:\n\nRuns scored vs. Number of batsmen:\n3000-4000: 4\n4000-5000: 18\n5000-6000: 9\n6000-7000: 7\n7000-8000: 6\n8000-9000: 3\n9000-10000: 1\n10000-11000: 1\n\nFind the mode of the data.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Mode ≈ 4608.70 runs. The modal class is 4000-5000 with frequency 18. Using the formula: Mode = 4000 + [(18-4)/(2×18-4-9)]×1000 = 4000 + [14/23]×1000 ≈ 4000 + 608.70 = 4608.70 runs.",
+    "explanation": "Step 1: Identify the modal class. The class 4000-5000 has the highest frequency (18).\n\nStep 2: Apply the mode formula:\n   Mode = l + [(f₁ – f₀)/(2f₁ – f₀ – f₂)] × h\nFor the class 4000-5000: l = 4000, h = 1000, f₁ = 18, f₀ = 4 (from 3000-4000), f₂ = 9 (from 5000-6000).\n   Mode = 4000 + [(18 - 4)/(36 - 4 - 9)]×1000 = 4000 + (14/23)×1000 ≈ 4000 + 608.70 = 4608.70\n\nStep 3: Conclude that the mode, which is the value where most batsmen’s scores cluster, is approximately 4608.70 runs.",
+    "topic": "Mode for Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex014"
+  },
+  {
+    "question_text": "A student noted the number of cars passing through a spot on a road for 100 periods, each of 3 minutes, and summarised it in the table below:\n\nNumber of cars vs. Frequency:\n0-10: 7\n10-20: 14\n20-30: 13\n30-40: 12\n40-50: 20\n50-60: 11\n60-70: 15\n70-80: 8\n\nFind the mode of the data.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Mode ≈ 44.71 cars. The modal class is 40-50 (frequency 20). Using the formula: Mode = 40 + [(20 - 12)/(2×20 - 12 - 11)]×10 = 40 + (8/17)×10 ≈ 40 + 4.71 = 44.71 cars.",
+    "explanation": "Step 1: Identify the modal class. The interval 40-50 has the highest frequency (20).\n\nStep 2: Use the mode formula for grouped data:\n   Mode = l + [(f₁ – f₀)/(2f₁ – f₀ – f₂)] × h\nFor the class 40-50: l = 40, h = 10 (50-40), f₁ = 20, f₀ = 12 (frequency for 30-40), f₂ = 11 (frequency for 50-60).\n   Mode = 40 + [(20 - 12)/(40 - 12 - 11)]×10 = 40 + (8/17)×10 ≈ 40 + 4.71 = 44.71\n\nStep 3: Conclude that the modal number of cars is approximately 44.71.",
+    "topic": "Mode for Grouped Data",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh113",
+    "question_id": "cbse_x_jemh1dd_c113_ex015"
+  }
+]

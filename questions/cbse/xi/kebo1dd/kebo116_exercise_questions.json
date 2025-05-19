@@ -1,0 +1,163 @@
+[
+  {
+    "question_text": "Define Glomerular Filtration Rate (GFR).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Glomerular Filtration Rate (GFR) is the volume of filtrate formed by the kidneys per minute, typically about 125 ml/min in a healthy individual.",
+    "explanation": "GFR is a key parameter that indicates the functioning of the kidneys; it measures how much blood is filtered through the glomeruli every minute.",
+    "topic": "Urine Formation",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex001"
+  },
+  {
+    "question_text": "Explain the autoregulatory mechanism of GFR.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The autoregulatory mechanism of GFR involves intrinsic responses such as the myogenic response of the afferent arteriole and the tubuloglomerular feedback of the juxtaglomerular apparatus, which regulate renal blood flow and glomerular pressure. If GFR falls, the JGA releases renin, leading to the formation of angiotensin II, a vasoconstrictor that constricts the efferent arteriole to restore glomerular capillary pressure and ensure a stable GFR.",
+    "explanation": "The kidney uses autoregulatory mechanisms to maintain a stable GFR despite changes in systemic blood pressure. This includes the rapid adjustment of arteriole tone through myogenic response and renin release via the JGA to adjust resistance and blood flow.",
+    "topic": "Regulation of Kidney Function",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex002"
+  },
+  {
+    "question_text": "Indicate whether the following statements are true or false:\n(a) Micturition is carried out by a reflex.\n(b) ADH helps in water elimination, making the urine hypotonic.\n(c) Protein-free fluid is filtered from blood plasma into the Bowman's capsule.\n(d) Henle's loop plays an important role in concentrating the urine.\n(e) Glucose is actively reabsorbed in the proximal convoluted tubule.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "a) True; b) False; c) True; d) True; e) True.",
+    "explanation": "Micturition is indeed a reflex action initiated when the bladder fills. ADH promotes water reabsorption, making the urine more concentrated rather than hypotonic. The filtration process in the glomerulus excludes proteins, and Henle's loop is essential for creating an osmotic gradient that concentrates the urine. Glucose is actively reabsorbed in the proximal convoluted tubule.",
+    "topic": "Micturition and Tubular Function",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex003"
+  },
+  {
+    "question_text": "Give a brief account of the counter current mechanism.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The counter current mechanism refers to the arrangement and function of the loop of Henle and the vasa recta that creates and maintains a high osmolarity in the inner medulla, facilitating water reabsorption from the collecting ducts. This is achieved by having fluids flowing in opposite directions in the two limbs of the loop of Henle and the vasa recta, which allows efficient exchange of solutes and water.",
+    "explanation": "This mechanism is crucial for generating the osmotic gradient that allows the kidney to reabsorb water efficiently, concentrating the urine while conserving water.",
+    "topic": "Mechanism of Concentration of the Filtrate",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex004"
+  },
+  {
+    "question_text": "Describe the role of liver, lungs and skin in excretion.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The liver eliminates waste products by secreting bile that contains bilirubin, biliverdin, cholesterol, degraded hormones, vitamins, and drugs. The lungs expel carbon dioxide and significant amounts of water vapor. The skin excretes waste through sweat and sebum, removing salts, urea, lactic acid, sterols, hydrocarbons and waxy substances.",
+    "explanation": "Apart from the kidneys, these organs play complementary roles in excretion: the liver detoxifies, the lungs manage gas exchange and water loss, and the skin helps in thermoregulation and minor waste elimination.",
+    "topic": "Role of Other Organs in Excretion",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex005"
+  },
+  {
+    "question_text": "Explain micturition.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Micturition is the process of expelling urine from the urinary bladder. It is initiated when stretch receptors in the bladder wall send signals to the central nervous system, which in turn triggers a reflex that contracts the bladder's smooth muscles while relaxing the urethral sphincter.",
+    "explanation": "Micturition involves a coordinated neural reflex and voluntary control that triggers bladder contraction and urethral sphincter relaxation, ensuring the timely and controlled elimination of urine.",
+    "topic": "Micturition",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex006"
+  },
+  {
+    "question_text": "Match the items of Column I with those of Column II:\nColumn I:\n(a) Ammonotelism\n(b) Bowman's capsule\n(c) Micturition\n(d) Uricotelism\n(e) ADH\n\nColumn II:\n(i) Birds\n(ii) Water reabsorption\n(iii) Bony fish\n(iv) Urinary bladder\n(v) Renal tubule",
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "options": [
+      "a-(iii), b-(v), c-(iv), d-(i), e-(ii)"
+    ],
+    "correct_answer": "a -> (iii) Bony fish; b -> (v) Renal tubule; c -> (iv) Urinary bladder; d -> (i) Birds; e -> (ii) Water reabsorption.",
+    "explanation": "Ammonotelism, the excretion of ammonia, is typical in bony fish. Bowman's capsule is a part of the renal corpuscle that connects with the renal tubule. Micturition involves the urinary bladder, and uricotelism, the excretion of uric acid, is common in birds. ADH facilitates water reabsorption.",
+    "topic": "Excretory Mechanisms and Renal Physiology",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex007"
+  },
+  {
+    "question_text": "What is meant by the term osmoregulation?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Osmoregulation is the process by which an organism maintains the balance of water and electrolytes within its body, ensuring optimal conditions for cellular function.",
+    "explanation": "Osmoregulation involves the regulation of water and salt concentrations to prevent dehydration or excessive water retention, predominantly managed by organs such as the kidneys.",
+    "topic": "Regulation of Kidney Function",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex008"
+  },
+  {
+    "question_text": "Terrestrial animals are generally either ureotelic or uricotelic, not ammonotelic, why?",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Terrestrial animals are ureotelic or uricotelic because these forms of nitrogenous waste (urea or uric acid) require less water for excretion compared to ammonia. Ammonia is highly toxic and very water-soluble, which makes it impractical for water conservation in a terrestrial environment.",
+    "explanation": "Excreting ammonia would lead to significant water loss, which is not sustainable on land. Urea and uric acid are less toxic and allow animals to conserve water while safely eliminating nitrogenous wastes.",
+    "topic": "Urine Formation and Excretory Strategies",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex009"
+  },
+  {
+    "question_text": "What is the significance of the juxtaglomerular apparatus (JGA) in kidney function?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The juxtaglomerular apparatus (JGA) is significant because it monitors the glomerular filtration rate and blood pressure. It responds to a decrease in GFR by releasing renin, which activates the renin-angiotensin-aldosterone system to restore blood pressure and GFR.",
+    "explanation": "The JGA plays a crucial role in the autoregulation of kidney function through its ability to sense changes in blood flow and pressure, thereby coordinating hormonal responses to maintain filtration efficiency.",
+    "topic": "Regulation of Kidney Function",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex010"
+  },
+  {
+    "question_text": "Name the following:\n(a) A chordate animal having flame cells as excretory structures.\n(b) Cortical portions projecting between the medullary pyramids in the human kidney.\n(c) A loop of capillary running parallel to the Henle's loop.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(a) Planarian; (b) Columns of Bertini; (c) Vasa recta.",
+    "explanation": "Flame cells are typical excretory structures in invertebrates such as planarians. The renal columns, also known as Columns of Bertini, are the extensions of cortical tissue between the medullary pyramids. The vasa recta are the capillary loops that run parallel to the loop of Henle, playing a role in maintaining the medullary osmotic gradient.",
+    "topic": "Kidney Structure and Excretory Systems",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex011"
+  },
+  {
+    "question_text": "Fill in the gaps:\n(a) Ascending limb of Henle's loop is _______ to water whereas the descending limb is _______ to it.\n(b) Reabsorption of water from distal parts of the tubules is facilitated by hormone _______.\n(c) Dialysis fluid contains all the constituents as in plasma except _______.\n(d) A healthy adult human excretes (on an average) _______ gm of urea/day.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(a) impermeable; permeable\n(b) ADH\n(c) nitrogenous wastes\n(d) 25-30",
+    "explanation": "The ascending limb of the loop of Henle is impermeable to water while the descending limb is permeable, which is essential for establishing an osmotic gradient. ADH promotes water reabsorption, and during dialysis, the fluid is free of nitrogenous wastes. Additionally, a healthy adult excretes about 25-30 gm of urea per day.",
+    "topic": "Mechanism of Concentration of the Filtrate and Micturition",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo116",
+    "question_id": "cbse_xi_kebo1dd_c116_ex012"
+  }
+]

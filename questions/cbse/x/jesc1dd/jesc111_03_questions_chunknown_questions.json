@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "What does an electric circuit mean?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "An electric circuit is a continuous and closed path along which electric current flows. It typically consists of a source of electrical energy (such as a cell or battery), conducting wires, electrical components (like bulbs or resistors), and a switch to complete or break the connection.",
+    "explanation": "An electric circuit provides a complete loop that allows electric charge to move. When the circuit is closed (for example, when a switch is on), the charges flow from the energy source through the circuit components and back to the source. If the circuit is broken, the flow stops, and the circuit devices (like a bulb) do not operate. This concept lays the foundation for understanding the flow of current in electrical systems.",
+    "topic": "Electric current and circuit",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic001"
+  },
+  {
+    "question_text": "Define the unit of electric current.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The SI unit of electric current is the Ampere (A). One ampere is defined as the flow of one coulomb (C) of electric charge per second (1 A = 1 C/s).",
+    "explanation": "Electric current measures the rate at which charge flows through a conductor. Defining the ampere in terms of coulombs per second provides a clear and practical way to quantify current in circuits. This fundamental definition is essential for analyzing and designing electrical systems.",
+    "topic": "Electric current and circuit",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic002"
+  },
+  {
+    "question_text": "Calculate the number of electrons constituting one coulomb of charge.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 6.25 × 10^18 electrons constitute one coulomb of charge.",
+    "explanation": "Each electron carries a charge of 1.6 × 10^–19 C. To find the number of electrons in one coulomb, divide 1 C by 1.6 × 10^–19 C: n = 1 / (1.6 × 10^–19) ≈ 6.25 × 10^18. This calculation illustrates how an enormous number of electrons are involved even in a small amount of charge, emphasizing the microscopic scale of charge carriers.",
+    "topic": "Electric charge and electric current",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc111",
+    "question_id": "cbse_x_jesc1dd_c111_ic003"
+  }
+]

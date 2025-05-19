@@ -1,0 +1,204 @@
+[
+  {
+    "question_text": "Draw the diagram of a sarcomere of skeletal muscle showing different regions.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A diagram that clearly labels the sarcomere components such as the Z line, I band (light band), A band (dark band), H zone (central zone of thick filaments), and M line (central line in the A band).",
+    "explanation": "The diagram must show the basic repeating unit of a muscle fibre – the sarcomere – and highlight the location and arrangement of actin (thin filaments) and myosin (thick filaments) that results in the striated appearance of skeletal muscle. Labels such as Z line, I band, A band, H zone, and M line are essential components based on the chapter content.",
+    "topic": "Muscle – Structure and Mechanism of Contraction",
+    "bloom_level": "Create",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex001"
+  },
+  {
+    "question_text": "Define sliding filament theory of muscle contraction.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Sliding filament theory states that muscle contraction occurs by the sliding of thin (actin) filaments over thick (myosin) filaments, resulting in the shortening of the sarcomere without any change in the length of the individual filaments.",
+    "explanation": "This definition captures the essence of the sliding filament model where the interaction between actin and myosin causes the sarcomere to contract. It includes the relevant proteins and the concept that the filaments slide past each other during contraction.",
+    "topic": "Mechanism of Muscle Contraction",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex002"
+  },
+  {
+    "question_text": "Describe the important steps in muscle contraction.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The key steps include: (1) A neural signal from the CNS reaches the neuromuscular junction, releasing acetylcholine which generates an action potential; (2) The signal spreads along the sarcolemma and causes the release of Ca++ from the sarcoplasmic reticulum; (3) Ca++ binds to troponin on the thin filament, unmasking the binding sites for myosin; (4) Myosin heads (using ATP) bind to actin to form cross-bridges and perform a pivoting action (power stroke) that slides the actin filaments towards the center of the A band; (5) ADP and phosphate are released, and a new ATP binds to myosin causing the detachment and re-cocking of the myosin head, readying it for another cycle.",
+    "explanation": "The answer should include the sequence of events from the arrival of the neural signal, Ca++ release, cross-bridge formation, power stroke, and the subsequent release of ADP and binding of a new ATP which resets the contraction cycle. This series of events underlies the sliding filament mechanism described in the chapter.",
+    "topic": "Mechanism of Muscle Contraction",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex003"
+  },
+  {
+    "question_text": "Actin is present in thin filament.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "Actin is the primary protein that makes up the thin filament of the muscle fiber, as explained in the chapter.",
+    "topic": "Muscle – Structure of Contractile Proteins",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex004"
+  },
+  {
+    "question_text": "H-zone of striated muscle fibre represents both thick and thin filaments.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "The H zone is the central region of the A band where there is no overlap of thin filaments with the thick (myosin) filaments; it contains only thick filaments.",
+    "topic": "Muscle – Structure and Mechanism of Contraction",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex005"
+  },
+  {
+    "question_text": "Human skeleton has 206 bones.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "According to the chapter content, the human skeleton comprises 206 bones.",
+    "topic": "Skeletal System",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex006"
+  },
+  {
+    "question_text": "There are 11 pairs of ribs in man.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False",
+    "explanation": "Humans have 12 pairs of ribs. The statement is incorrect.",
+    "topic": "Skeletal System",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex007"
+  },
+  {
+    "question_text": "Sternum is present on the ventral side of the body.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True",
+    "explanation": "The sternum is located on the ventral (anterior) midline of the thorax, as discussed in the skeletal system section.",
+    "topic": "Skeletal System",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex008"
+  },
+  {
+    "question_text": "Write the difference between: (a) Actin and Myosin, (b) Red and White muscles, (c) Pectoral and Pelvic girdle.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) Actin (thin filament) is a globular, polymerized protein that forms long filaments involved in muscle contraction, while Myosin (thick filament) has a globular head with ATPase activity responsible for binding and pulling actin filaments. b) Red muscles have a high myoglobin content and numerous mitochondria, enabling aerobic metabolism and endurance, whereas White muscles have less myoglobin and fewer mitochondria, relying primarily on anaerobic metabolism for short bursts of activity. c) The pectoral girdle, consisting of the clavicle and scapula, attaches the upper limb to the axial skeleton and allows a wide range of movements, whereas the pelvic girdle is formed by the two coxal bones (each made from the fusion of ilium, ischium, and pubis) and provides support and stability for the lower limbs.",
+    "explanation": "The answer should comprehensively outline the major differences between the respective pairs by comparing their structure, composition, and functions as described in the chapter.",
+    "topic": "Muscle and Skeletal System",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex009"
+  },
+  {
+    "question_text": "Match Column I with Column II: (a) Smooth muscle, (b) Tropomyosin, (c) Red muscle, (d) Skull.",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "(i) Myoglobin",
+      "(ii) Thin filament",
+      "(iii) Sutures",
+      "(iv) Involuntary"
+    ],
+    "correct_answer": "Smooth muscle - (iv) Involuntary; Tropomyosin - (ii) Thin filament; Red muscle - (i) Myoglobin; Skull - (iii) Sutures",
+    "explanation": "Smooth muscle is controlled involuntarily, tropomyosin is a protein component of the thin filament, red muscle contains high levels of myoglobin, and the bones of the skull are joined by fibrous sutures.",
+    "topic": "Muscle and Skeletal System",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex010"
+  },
+  {
+    "question_text": "What are the different types of movements exhibited by the cells of human body?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Amoeboid, Ciliary, and Muscular movements",
+    "explanation": "The chapter describes three types of cell movement: amoeboid (as seen in macrophages and leucocytes), ciliary (for processes like moving ova and clearing the trachea), and muscular (for movement of limbs and other body parts).",
+    "topic": "Types of Movement",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex011"
+  },
+  {
+    "question_text": "How do you distinguish between a skeletal muscle and a cardiac muscle?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Skeletal muscle is characterized by a striated appearance, voluntary control by the nervous system, and multinucleated fibers attached to bones, whereas cardiac muscle, found only in the heart, is also striated but functions involuntarily, has intercalated discs, and typically has a single (central) nucleus per cell.",
+    "explanation": "The differences lie in their control mechanisms (voluntary vs. involuntary), cellular structure (nuclear arrangement, presence of intercalated discs in cardiac muscle), and their anatomical locations (attached to the skeleton vs. forming the heart).",
+    "topic": "Muscle – Types and Structure",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex012"
+  },
+  {
+    "question_text": "Name the type of joint between the following: (a) atlas/axis, (b) carpal/metacarpal of thumb, (c) between phalanges, (d) femur/acetabulum, (e) between cranial bones, (f) between pubic bones in the pelvic girdle.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "a) Atlas/axis - Pivot joint; b) Carpal/metacarpal of thumb - Saddle joint; c) Between phalanges - Hinge joint; d) Femur/acetabulum - Ball and socket joint; e) Between cranial bones - Fibrous joint (sutural joint); f) Between pubic bones - Cartilaginous joint (symphysis).",
+    "explanation": "Each joint type is identified based on its structure and mobility. The atlas/axis joint allows rotational movement (pivot), the thumb joint is uniquely saddle-shaped for a wide range of motion, interphalangeal joints allow bending and straightening (hinge), the hip joint is a ball and socket joint allowing multi-directional movements, cranial bones are joined by immovable fibrous sutures, and the pubic symphysis is a cartilaginous joint allowing limited movement.",
+    "topic": "Joints",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex013"
+  },
+  {
+    "question_text": "Fill in the blank spaces: (a) All mammals (except a few) have __________ cervical vertebra; (b) The number of phalanges in each limb of human is __________; (c) Thin filament of myofibril contains 2 'F' actins and two other proteins namely __________ and __________; (d) In a muscle fibre Ca++ is stored in __________; (e) __________ and __________ pairs of ribs are called floating ribs; (f) The human cranium is made of __________ bones.",
+    "type": "Fill in the Blanks",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(a) 7; (b) 14; (c) tropomyosin and troponin; (d) sarcoplasmic reticulum; (e) eleventh and twelfth; (f) 8.",
+    "explanation": "Each blank is to be filled with the correct factual information provided in the chapter. Mammals typically have 7 cervical vertebrae, each limb (hand or foot) has 14 phalanges, the thin filament includes tropomyosin and troponin along with actin, Ca++ is stored in the sarcoplasmic reticulum, the 11th and 12th pairs of ribs are classified as floating, and the cranium is composed of 8 bones.",
+    "topic": "Muscle and Skeletal System",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "kebo117",
+    "question_id": "cbse_xi_kebo1dd_c117_ex014"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "question_text": "If a trait A exists in 10% of a population of an asexually reproducing species and a trait B exists in 60% of the same population, which trait is likely to have arisen earlier?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Trait A",
+      "Trait B",
+      "Both traits arose simultaneously",
+      "There is insufficient information to decide"
+    ],
+    "correct_answer": "Trait B is likely to have arisen earlier because, in an asexual reproduction process, variations are mainly produced by rare copying errors. A trait present in a larger percentage (60%) indicates that it has been inherited over several generations, implying that it appeared earlier than a trait present in only 10% of the population.",
+    "explanation": "In asexual reproduction, offspring are typically very similar to their parent due to identical genetic copying, with only minor variations resulting from errors in DNA replication. A trait that is found in 60% of individuals suggests that it has been passed down through many generations, increasing its frequency in the population, whereas a trait that appears in only 10% is likely a more recent variation. This reasoning is based on the principles of inheritance and the accumulation of variations over successive generations.",
+    "topic": "Inheritance, Asexual Reproduction, Variation",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ic001"
+  },
+  {
+    "question_text": "How does the creation of variations in a species promote survival?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Creation of variations enables populations to adapt to changing environmental conditions. Individuals with beneficial traits—such as heat tolerance, disease resistance, or improved resource utilization—are more likely to survive and reproduce. As a result, advantageous traits become more common over time, enhancing the overall resilience and continued survival of the species.",
+    "explanation": "Variations are critical for a species' capacity to adapt in the face of environmental changes. When environments fluctuate—whether through climate shifts, disease outbreaks, or other factors—having a variety of traits within a population increases the likelihood that some individuals will possess characteristics that confer a survival advantage. This process, driven by natural selection, leads to the gradual evolution of the species, ensuring that populations can cope with challenges over time.",
+    "topic": "Evolution, Natural Selection, Variation, Adaptation",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc108",
+    "question_id": "cbse_x_jesc1dd_c108_ic002"
+  }
+]

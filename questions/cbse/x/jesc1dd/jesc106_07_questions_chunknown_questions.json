@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "How does chemical coordination take place in animals?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Chemical coordination in animals occurs through the endocrine system. Endocrine glands secrete hormones directly into the bloodstream, allowing these chemical messengers to travel to target cells or organs where they bind to specific receptors and trigger physiological responses.",
+    "explanation": "In animals, besides the rapid electrical impulses of the nervous system, the endocrine system provides chemical coordination. Hormones like adrenaline, thyroxin, and insulin are secreted by glands (such as the adrenal glands, thyroid gland, and pancreas) and circulate in the blood, ensuring that all parts of the body receive the necessary signals for functions like metabolism, growth, reproduction, and stress responses. This process demonstrates the integration of chemical signaling and receptor binding to produce controlled biological reactions.",
+    "topic": "Endocrine System and Hormonal Coordination",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic011"
+  },
+  {
+    "question_text": "Why is the use of iodised salt advisable?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Iodised salt is advisable because iodine is essential for the thyroid gland to synthesize the hormone thyroxin, which regulates metabolism and supports proper growth and development. Without adequate iodine intake, there is a risk of developing goitre and other thyroid-related disorders.",
+    "explanation": "Iodine is a key component in the production of thyroxin by the thyroid gland. This hormone helps regulate carbohydrate, protein, and fat metabolism, contributing to balanced growth and proper functioning of the body. Iodine deficiency can result in an enlarged thyroid (goitre) and hypothyroidism. Therefore, iodised salt is used to ensure sufficient iodine intake, making it a practical public health measure.",
+    "topic": "Thyroid Function and Iodine Nutrition",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic012"
+  },
+  {
+    "question_text": "How does our body respond when adrenaline is secreted into the blood?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "When adrenaline is secreted into the blood, it initiates the 'fight or flight' response. This includes an increase in heart rate, elevated blood pressure, faster breathing rate, and redirection of blood flow from non-essential organs (like the skin and digestive system) to the skeletal muscles. These changes provide the body with increased energy and oxygen to respond to emergencies.",
+    "explanation": "Adrenaline, a hormone produced by the adrenal glands, binds to adrenergic receptors on various target cells. This binding triggers several physiological changes: the heart pumps faster to meet higher oxygen demand; blood vessels in peripheral regions constrict to shunt blood to vital muscle tissues; and respiration rate increases to enhance oxygen intake. These combined effects prepare the body for rapid and intense physical activity, characteristic of the fight or flight response.",
+    "topic": "Adrenaline and the Fight or Flight Response",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic013"
+  },
+  {
+    "question_text": "Why are some patients of diabetes treated by giving injections of insulin?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Patients with diabetes are treated with insulin injections because their bodies either do not produce enough insulin (as in Type 1 diabetes) or do not respond effectively to insulin (as in advanced Type 2 diabetes). Insulin is necessary for facilitating cellular uptake of glucose, which regulates blood sugar levels.",
+    "explanation": "Insulin is a hormone produced by the pancreas that enables cells to absorb glucose from the bloodstream, providing energy and maintaining normal blood sugar levels. In diabetes, insufficient insulin production or insulin resistance leads to elevated blood glucose levels, which can cause serious complications over time. Insulin injections help to restore these levels within a normal range, ensuring that the body can properly use glucose for energy.",
+    "topic": "Diabetes Management and Insulin Function",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic014"
+  }
+]

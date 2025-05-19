@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "What is the kinetic energy of an object?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The energy possessed by an object due to its motion.",
+    "explanation": "Kinetic energy is the energy an object has because of its motion. It is quantified by the formula KE = ½ m v², where 'm' represents mass in kilograms and 'v' represents velocity in meters per second. This concept illustrates that an object in motion can perform work due to the energy it possesses from moving.",
+    "topic": "Kinetic Energy",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic007"
+  },
+  {
+    "question_text": "Write an expression for the kinetic energy of an object.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Kinetic energy is expressed as KE = ½ m v².",
+    "explanation": "The expression KE = ½ m v² shows that the kinetic energy of an object depends on its mass (m) and the square of its velocity (v). This quadratic dependence on velocity means that even small increases in an object's speed result in significantly greater kinetic energy, a fundamental concept in dynamics and energy studies.",
+    "topic": "Kinetic Energy",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic008"
+  },
+  {
+    "question_text": "The kinetic energy of an object of mass m moving with a velocity of 5 m/s is 25 J. What will be its kinetic energy when its velocity is doubled? What will be its kinetic energy when its velocity is increased three times?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "When the velocity is doubled, the kinetic energy becomes 100 J; when the velocity is tripled, the kinetic energy becomes 225 J.",
+    "explanation": "Kinetic energy is given by the formula KE = ½ m v². Doubling the velocity to 2v yields KE = ½ m (2v)² = ½ m (4v²) = 4 × (½ m v²). Since the original kinetic energy is 25 J, it becomes 4 × 25 = 100 J when doubled. Tripling the velocity to 3v gives KE = ½ m (3v)² = ½ m (9v²) = 9 × (½ m v²), which makes it 9 × 25 = 225 J. This calculation shows the quadratic relationship of kinetic energy with respect to velocity.",
+    "topic": "Kinetic Energy",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic009"
+  }
+]

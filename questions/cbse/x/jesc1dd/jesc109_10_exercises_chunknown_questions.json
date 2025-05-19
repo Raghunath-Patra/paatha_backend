@@ -1,0 +1,253 @@
+[
+  {
+    "question_text": "Which one of the following materials cannot be used to make a lens?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Water",
+      "Glass",
+      "Plastic",
+      "Clay"
+    ],
+    "correct_answer": "Clay",
+    "explanation": "Clay is an opaque material and does not transmit light. Lenses require a transparent medium (such as water, glass, or plastic) that allows light rays to pass through and be refracted.",
+    "topic": "Optics – Lens Materials",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex001"
+  },
+  {
+    "question_text": "The image formed by a concave mirror is observed to be virtual, erect and larger than the object. Where should the object be placed relative to the mirror?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Between the principal focus and the centre of curvature",
+      "At the centre of curvature",
+      "Beyond the centre of curvature",
+      "Between the pole of the mirror and its principal focus"
+    ],
+    "correct_answer": "Between the pole of the mirror and its principal focus",
+    "explanation": "For a concave mirror, when the object is placed between the pole (P) and the principal focus (F), the reflected rays diverge. The virtual rays appear to be coming from a point behind the mirror, resulting in a virtual, erect, and magnified image.",
+    "topic": "Optics – Image Formation by Mirrors",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex002"
+  },
+  {
+    "question_text": "Where should an object be placed in front of a convex lens to get a real image of the same size as the object?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "At the principal focus of the lens",
+      "At twice the focal length",
+      "At infinity",
+      "Between the optical centre of the lens and its principal focus"
+    ],
+    "correct_answer": "At twice the focal length",
+    "explanation": "For a thin convex (converging) lens, placing the object at a distance of 2f (twice the focal length) produces an image that is real, inverted, and of the same size as the object. This follows from the lens formula and the condition for unit magnification.",
+    "topic": "Optics – Lens Formula and Image Formation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex003"
+  },
+  {
+    "question_text": "A spherical mirror and a thin spherical lens each have a focal length of -15 cm. The mirror and the lens are likely to be:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Both concave",
+      "Both convex",
+      "The mirror is concave and the lens is convex",
+      "The mirror is convex, but the lens is concave"
+    ],
+    "correct_answer": "Both concave",
+    "explanation": "A negative focal length for spherical mirrors indicates a concave mirror (by the sign convention). Similarly, for lenses, a negative focal length indicates a concave (diverging) lens. Thus, both the mirror and the lens are concave.",
+    "topic": "Optics – Sign Conventions and Image Formation",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex004"
+  },
+  {
+    "question_text": "No matter how far you stand from a mirror, your image appears erect. The mirror is likely to be:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Only plane",
+      "Only concave",
+      "Only convex",
+      "Either plane or convex"
+    ],
+    "correct_answer": "Either plane or convex",
+    "explanation": "A plane mirror always forms a virtual, erect image of the same size as the object. A convex mirror also forms a virtual, erect, and diminished image. While a concave mirror can form an erect image, it does so only when the object is placed between the pole and the principal focus. Since the question states that the image is always erect regardless of the observer's distance, the mirror is likely to be a plane or convex mirror.",
+    "topic": "Optics – Mirror Image Characteristics",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex005"
+  },
+  {
+    "question_text": "Which of the following lenses would you prefer to use while reading small letters in a dictionary?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A convex lens of focal length 50 cm",
+      "A concave lens of focal length 50 cm",
+      "A convex lens of focal length 5 cm",
+      "A concave lens of focal length 5 cm"
+    ],
+    "correct_answer": "A convex lens of focal length 5 cm",
+    "explanation": "A convex (converging) lens acts as a magnifying glass that produces a magnified, virtual image when the object is placed within its focal length. A shorter focal length (such as 5 cm) provides higher magnification compared to a longer focal length (50 cm).",
+    "topic": "Optics – Magnification and Lens Applications",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex006"
+  },
+  {
+    "question_text": "We wish to obtain an erect image of an object using a concave mirror of focal length 15 cm. What should be the range of object distances from the mirror? What is the nature of the image and is the image larger or smaller than the object? Also, draw a ray diagram to show the image formation.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "For a concave mirror with f = 15 cm, to obtain a virtual, erect, and magnified image, the object must be placed between the pole and the focus, i.e. at distances 0 < |u| < 15 cm. In this range, the formed image is virtual, erect, and larger than the object. A ray diagram would show the object placed between the pole (P) and the principal focus (F) with incident rays reflecting such that their extensions intersect behind the mirror to form a virtual image.",
+    "explanation": "When an object is placed between the pole and the focus of a concave mirror, the reflected rays diverge. An observer sees these rays as if they are coming from a point behind the mirror. The resulting image is virtual (cannot be projected), erect, and magnified. The ray diagram involves drawing two rays: one parallel to the principal axis which reflects through the focus, and another heading toward the centre of curvature reflecting back on itself. Their backward extensions meet behind the mirror to indicate the image location.",
+    "topic": "Optics – Image Formation by Concave Mirrors",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex007"
+  },
+  {
+    "question_text": "Name the type of mirror used in the following situations and support your answer with reasons: (a) Headlights of a car, (b) Side/rear-view mirrors of a vehicle, (c) Solar furnace.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For headlights of a car and solar furnaces, concave mirrors are used because they converge light rays to form a parallel beam or concentrate sunlight to a focal point. For side/rear-view mirrors, convex mirrors are used because they provide a wider field of view and always form an erect, though diminished, image.",
+    "explanation": "Concave mirrors are employed in headlights and solar furnaces because their converging properties allow effective focusing of light – either to project a parallel beam (in headlights) or concentrate sunlight to generate heat (in solar furnaces). Convex mirrors are chosen for vehicle rear-view mirrors as they offer a wide field of view, essential for safety, and produce images that are always erect.",
+    "topic": "Optics – Mirrors and Their Applications",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex008"
+  },
+  {
+    "question_text": "If one-half of a convex lens is covered with black paper, will the lens produce a complete image of the object? Verify your answer experimentally and explain your observations.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Yes, the convex lens still produces a complete image of the object, though its brightness will be reduced.",
+    "explanation": "Each part of a convex lens is capable of bending rays from every point on the object. Covering half of the lens reduces the total amount of light passing through, resulting in a dimmer image, but the complete image is still formed because the uncovered portion still collects light from the entire object.",
+    "topic": "Optics – Image Formation by Lenses",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex009"
+  },
+  {
+    "question_text": "An object 5 cm in length is held 25 cm away from a converging lens with a focal length of 10 cm. Draw the ray diagram and determine the position, size, and nature of the image formed.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Using the lens formula 1/v - 1/u = 1/f with u = -25 cm (object distance), f = +10 cm, we calculate: 1/v = 1/10 - 1/25 = (5 - 2)/50 = 3/50, so v ≈ +16.67 cm. The magnification m = v/u = 16.67/(-25) ≈ -0.667, meaning the image is real, inverted, and diminished with a size of approximately 3.33 cm.",
+    "explanation": "For a convex lens, the lens formula is 1/v - 1/u = 1/f. Taking care with sign conventions (real object distances are negative in the standard sign convention), the computed image distance v is positive indicating that the image is real. The magnification being negative implies that the image is inverted. The ray diagram should include a ray parallel to the principal axis which, after refraction, passes through the focal point and a ray through the optical centre that remains undeviated.",
+    "topic": "Optics – Lens Formula and Ray Diagrams",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex010"
+  },
+  {
+    "question_text": "A concave lens of focal length 15 cm forms an image 10 cm from the lens. How far is the object placed from the lens? Draw the ray diagram.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "For a concave lens, the focal length is negative (f = -15 cm) and the image distance is also negative (v = -10 cm). Using the lens formula 1/v - 1/u = 1/f, we get: 1/u = 1/v - 1/f = (1/(-10)) - (1/(-15)) = -1/10 + 1/15 = -1/30, so u = -30 cm. This means the object is placed 30 cm in front of the lens.",
+    "explanation": "Concave lenses always form virtual images, so both the image distance and focal length are negative according to the sign convention. By applying the lens formula and solving for u, we determine that the object is 30 cm from the lens. The ray diagram should show an object at 30 cm, with rays diverging after passing through the lens that, when extended backwards, converge to form a virtual image.",
+    "topic": "Optics – Lens Formula for Diverging Lenses",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex011"
+  },
+  {
+    "question_text": "An object is placed at a distance of 10 cm from a convex mirror with a focal length of 15 cm. Determine the position and nature of the image.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Using the mirror formula 1/v + 1/u = 1/f with u = -10 cm and f = +15 cm, we get: 1/v = 1/15 - 1/(-10) = 1/15 + 1/10 = (2+3)/30 = 5/30 = 1/6. So, v = +6 cm. The image is virtual and erect, as convex mirrors always form virtual, erect, and diminished images.",
+    "explanation": "For convex mirrors, the mirror formula applies and the image distance computed is positive, meaning the image is formed behind the mirror. Convex mirrors produce images that are always virtual, erect, and diminished in size. The calculation confirms that the image is located 6 cm behind the mirror.",
+    "topic": "Optics – Image Formation by Convex Mirrors",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex012"
+  },
+  {
+    "question_text": "The magnification produced by a plane mirror is +1. What does this signify?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A magnification of +1 means that the image produced by the plane mirror is virtual, erect, and exactly the same size as the object.",
+    "explanation": "In a plane mirror, the law of reflection causes the image to be laterally inverted but the same size as the object, resulting in a unit magnification. The positive sign indicates that the image is upright (erect) relative to the object.",
+    "topic": "Optics – Plane Mirror Properties",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex013"
+  },
+  {
+    "question_text": "An object 5.0 cm in length is placed 20 cm in front of a convex mirror with a radius of curvature of 30 cm. Find the position, nature, and size of the image.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "For a convex mirror, the focal length f is given by R/2 = 30/2 = 15 cm. Using the mirror formula: 1/v + 1/(-20) = 1/15, so 1/v = 1/15 + 1/20 = (4+3)/60 = 7/60, which gives v ≈ +8.57 cm. The magnification m = -v/u = -8.57/(-20) ≈ +0.429, so the image height is approximately 0.429 × 5.0 cm ≈ 2.14 cm. The image is virtual, erect, and diminished.",
+    "explanation": "For convex mirrors the focal length is positive and the object distance is taken as negative in the mirror formula. The computed image distance is positive (indicating a virtual image behind the mirror), and the positive magnification confirms that the image is erect. The size calculation shows that the image is smaller than the object.",
+    "topic": "Optics – Mirror Formula and Image Formation by Convex Mirrors",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex014"
+  },
+  {
+    "question_text": "An object of size 7.0 cm is placed 27 cm in front of a concave mirror with a focal length of 18 cm. At what distance from the mirror should a screen be placed to obtain a sharp image? Also, determine the size and nature of the image.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Using the mirror formula for a concave mirror (with f = -18 cm and u = -27 cm), we have: 1/v = 1/f - 1/u = (1/(-18)) - (1/(-27)) = -1/18 + 1/27 = -1/54, so v = -54 cm. This means a sharp, real, and inverted image is formed 54 cm in front of the mirror. The magnification m = -v/u = -(-54)/(-27) = -54/27 = -2, leading to an image size of 7.0 cm × 2 = 14.0 cm (inverted and enlarged).",
+    "explanation": "For concave mirrors, a negative image distance denotes that the image is formed in front of the mirror (real image). The negative magnification indicates an inverted image, and a magnitude greater than 1 shows that the image is magnified. The screen must therefore be placed 54 cm in front of the mirror to capture this real image.",
+    "topic": "Optics – Image Formation by Concave Mirrors",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex015"
+  },
+  {
+    "question_text": "Find the focal length of a lens with a power of –2.0 D. What type of lens is this?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The focal length f is the reciprocal of the power: f = 1/(-2.0) = -0.5 m (or -50 cm). A negative focal length indicates it is a concave (diverging) lens.",
+    "explanation": "Lens power (in dioptres) is defined as P = 1/f, with f in meters. A negative dioptre value indicates a diverging (concave) lens because it forms virtual images.",
+    "topic": "Optics – Lens Power and Focal Length",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex016"
+  },
+  {
+    "question_text": "A doctor has prescribed a corrective lens with a power of +1.5 D. Find the focal length of this lens and determine whether it is converging or diverging.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The focal length f = 1/(+1.5) ≈ 0.667 m (or approximately +66.7 cm). A positive focal length indicates this is a convex (converging) lens.",
+    "explanation": "Since lens power is the reciprocal of the focal length in meters, a positive power gives a positive focal length. Convex lenses, which converge light rays, are used as corrective lenses for hyperopia.",
+    "topic": "Optics – Corrective Lenses",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc109",
+    "question_id": "cbse_x_jesc1dd_c109_ex017"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Which method is commonly used for improving cattle breeds and why?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Cross-breeding between exotic breeds (with long lactation periods) and local breeds (with strong disease resistance) is commonly used to combine desirable traits in the offspring.",
+    "explanation": "Cross-breeding leverages the long lactation period of exotic breeds, such as Jersey or Brown Swiss, and the inherent disease resistance of local breeds like Red Sindhi or Sahiwal. This method produces animals that not only yield more milk over an extended lactation period but are also better adapted to the local environmental and disease conditions. Such genetic improvement ensures improved productivity and sustainability in cattle farming.",
+    "topic": "Animal Husbandry - Cattle Farming and Genetic Improvement",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic010"
+  },
+  {
+    "question_text": "Visit a livestock farm. Note the number of cattle and the different breeds present, along with the daily milk production from each breed.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Students should report their observations on the various cattle breeds (local, exotic, and cross-bred) found on the farm along with the corresponding daily milk yields. They are expected to notice that exotic or cross-bred animals may yield higher quantities of milk, while local breeds may exhibit better adaptability to local conditions.",
+    "explanation": "This activity is designed to provide experiential learning by allowing students to apply theoretical knowledge in a real-world setting. In visiting the farm, students are required to collect quantitative data (number of cattle, breeds, and milk production) and qualitative observations regarding the management practices. This not only reinforces concepts of animal husbandry, such as the significance of proper nutrition and management practices in dairy production, but also illustrates the practical implications of cross-breeding and breed selection in achieving optimal milk output while ensuring animal health and adaptability.",
+    "topic": "Animal Husbandry - Dairy Production and Livestock Management",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc112",
+    "question_id": "cbse_ix_iesc1dd_c112_ic011"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "question_text": "Which of the following are matter? Chair, air, love, smell, hate, almonds, thought, cold, lemon water, smell of perfume.",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Chair, air, almonds, lemon water",
+      "B. Chair, air, love, thought",
+      "C. Air, smell, lemon water, hate",
+      "D. Chair, love, almonds, cold"
+    ],
+    "correct_answer": "A. Chair, air, almonds, lemon water",
+    "explanation": "Matter is defined as any substance that has mass and occupies space. In this list, Chair, air, almonds, and lemon water are composed of atoms and molecules and are measurable physical substances. Although the smell of perfume and other odours indicate the presence of gaseous particles, they are not considered matter in themselves but rather evidence of matter. Abstract concepts like love, hate, and thought do not qualify as matter.",
+    "topic": "Physical Nature of Matter",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic001"
+  },
+  {
+    "question_text": "Give reasons for the following observation: The smell of hot sizzling food reaches you several metres away, but to get the smell from cold food you have to go close.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "At higher temperatures, the particles of food have greater kinetic energy, which makes them move faster and diffuse quickly into the air. In contrast, the particles in cold food have lower kinetic energy, causing them to diffuse more slowly.",
+    "explanation": "According to the kinetic molecular theory, an increase in temperature increases the kinetic energy of particles. When food sizzles, its particles are energized, moving rapidly and spreading the aroma (diffusion) much farther into the environment. Conversely, cold food has less thermal energy, leading to a slower rate of particle movement and limited diffusion of its odor.",
+    "topic": "Diffusion and Kinetic Molecular Theory",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic002"
+  },
+  {
+    "question_text": "A diver is able to cut through water in a swimming pool. Which property of matter does this observation show?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "This observation shows that water is made up of particles that are not closely packed, meaning they have spaces between them, and that the attractive forces between water molecules are relatively weak, enabling the diver to move through.",
+    "explanation": "The ability of a diver to easily move or 'cut through' water demonstrates that water molecules are separated by gaps (empty spaces) and that the intermolecular forces in a liquid state are not strong enough to prevent the motion of objects. This occurs because liquids are fluid, with loosely arranged particles that allow movement and intermixing, as seen in diffusion experiments.",
+    "topic": "Properties of Liquids and Particle Arrangement",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic003"
+  },
+  {
+    "question_text": "What are the characteristics of the particles of matter?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Particles of matter are very small, have spaces between them, are continuously moving, and attract each other.",
+    "explanation": "Experiments in the chapter reveal that all matter consists of minute particles. These particles are separated by empty spaces, which allow substances to mix (as seen in diffusion experiments). They are in constant motion due to their inherent kinetic energy, and they exert attractive forces on one another—forces which vary in strength among different types of matter (e.g., solids, liquids, and gases).",
+    "topic": "Characteristics of Particles of Matter",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc101",
+    "question_id": "cbse_ix_iesc1dd_c101_ic004"
+  }
+]

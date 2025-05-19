@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "How will you find the valency of chlorine, sulphur, and magnesium?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Chlorine (Cl) with configuration 2, 8, 7 needs one electron to complete its octet, so its valency is 1. Sulphur (S) with configuration 2, 8, 6 needs two electrons to achieve a full outer shell, so its valency is 2. Magnesium (Mg) with configuration 2, 8, 2 can lose two electrons to attain a noble gas configuration, giving it a valency of 2.",
+    "explanation": "Valency is determined by the number of electrons an atom must gain, lose, or share in order to achieve a full outer shell (octet). For chlorine, having 7 electrons in the outermost shell, it requires 1 more electron (8 - 7 = 1). For sulphur, with 6 electrons in the outermost shell, it needs 2 additional electrons (8 - 6 = 2). Magnesium, with only 2 electrons in its outermost shell, tends to lose both electrons to reach the stable electron configuration of the preceding noble gas, hence valency 2.",
+    "topic": "Valency and Electronic Configuration",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic009"
+  },
+  {
+    "question_text": "If the number of electrons in an atom is 8 and the number of protons is also 8, then (i) what is the atomic number of the atom? and (ii) what is the charge on the atom?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) The atomic number is 8 because the atomic number equals the number of protons. (ii) The atom has a neutral charge, i.e., 0, since the number of electrons equals the number of protons.",
+    "explanation": "The atomic number (Z) is defined as the number of protons in the nucleus of an atom. Since the electrons are equal in number to the protons (8 each), their charges cancel out, resulting in a net charge of 0. This demonstrates the principle of electrical neutrality in atoms.",
+    "topic": "Atomic Number and Charge",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic010"
+  },
+  {
+    "question_text": "With the help of Table 4.1, find out the mass number of oxygen and sulphur atoms.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "For an oxygen (O) atom, the mass number = number of protons (8) + number of neutrons (8) = 16. For a sulphur (S) atom, the mass number = number of protons (16) + number of neutrons (16) = 32.",
+    "explanation": "The mass number (A) of an atom is the sum of the number of protons and neutrons in its nucleus. Using Table 4.1, oxygen has 8 protons and 8 neutrons giving a mass number of 16, while sulphur has 16 protons and 16 neutrons resulting in a mass number of 32. This calculation is fundamental in understanding isotopic masses and the composition of elements.",
+    "topic": "Mass Number and Atomic Structure",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic011"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "question_text": "What will be the effect of temperature on the rate constant?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Increasing the temperature increases the rate constant exponentially.",
+    "explanation": "According to the Arrhenius equation (k = A e^(-Ea/RT)), as the temperature increases, the fraction of molecules having energy equal to or greater than the activation energy also increases. This leads to an exponential increase in the rate constant, and as a result, the reaction generally proceeds faster.",
+    "topic": "Temperature Dependence of Rate of Reaction",
+    "bloom_level": "Understand",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "10_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in007"
+  },
+  {
+    "question_text": "The rate of the chemical reaction doubles for an increase of 10K in absolute temperature from 298K. Calculate Ea.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 52.8 kJ/mol",
+    "explanation": "For a reaction whose rate constant doubles when the temperature increases by 10K, we can use the Arrhenius equation. Setting k2/k1 = 2 gives ln(2) = (Ea/R) (1/298 – 1/308). Calculating 1/298 – 1/308 yields approximately 0.0001089 K⁻¹, and using R = 8.314 J/(mol·K), we find Ea ≈ (0.693 × 8.314) / 0.0001089 ≈ 52,830 J/mol, or roughly 52.8 kJ/mol.",
+    "topic": "Temperature Dependence of Rate of Reaction",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "10_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in008"
+  },
+  {
+    "question_text": "The activation energy for the reaction 2 HI(g) → H₂(g) + I₂(g) is 209.5 kJ mol⁻¹ at 581K. Calculate the fraction of molecules of reactants having energy equal to or greater than the activation energy.",
+    "type": "Numerical",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Approximately 1.45 × 10⁻¹⁹ of the molecules",
+    "explanation": "The fraction of reactant molecules with energy equal to or greater than the activation energy is given by the Boltzmann factor: f = e^(–Ea/RT). With Ea = 209.5 kJ/mol (or 209500 J/mol), R = 8.314 J/(mol·K), and T = 581K, the exponent becomes –209500/(8.314×581) ≈ –43.39. Thus, f ≈ e^(–43.39) ≈ 1.45 × 10⁻¹⁹, which is an extremely small fraction.",
+    "topic": "Temperature Dependence of Rate of Reaction",
+    "bloom_level": "Apply",
+    "source": "intext",
+    "chapter_id": "lech103",
+    "intext_id": "10_intext_questions_ch103",
+    "question_id": "cbse_xii_lech1dd_c103_in009"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "How will you find the valency of chlorine, sulphur and magnesium?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Chlorine (Cl): Its electron configuration is 2, 8, 7; it needs one electron to complete its octet so the valency is 1. Sulphur (S): With the configuration 2, 8, 6, it needs two electrons to complete the octet, giving it a valency of 2. Magnesium (Mg): Its configuration is 2, 8, 2; magnesium tends to lose the two electrons in its outer shell, so its valency is 2.",
+    "explanation": "To determine valency, first write down the electron configuration of the element. The outermost shell can hold 8 electrons (octet rule). For chlorine (2,8,7), one electron is required to complete the octet (8-7=1) so its valency is 1. For sulphur (2,8,6), two electrons are needed (8-6=2), making its valency 2. For magnesium (2,8,2), the atom is more stable by losing its two outer electrons, hence its valency is 2. This process utilizes the concept of the octet rule and electronic configuration to determine chemical reactivity.",
+    "topic": "Valency and Atomic Structure",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic012"
+  },
+  {
+    "question_text": "For the symbols H, D and T, tabulate the three sub-atomic particles found in each of them.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "H (¹₁H) has: 1 proton, 1 electron, 0 neutrons; D (²₁H) has: 1 proton, 1 electron, 1 neutron; T (³₁H) has: 1 proton, 1 electron, 2 neutrons.",
+    "explanation": "The subatomic composition of hydrogen isotopes varies only in the number of neutrons. Protium (¹₁H) has no neutron, deuterium (²₁H or D) has one neutron, and tritium (³₁H or T) has two neutrons, while each isotope consistently has one proton and one electron. This difference in neutron number accounts for the variation in their atomic masses, while their chemical properties remain essentially the same because the number of protons (and electrons) defines the element.",
+    "topic": "Isotopes and Atomic Structure",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic013"
+  },
+  {
+    "question_text": "Write the electronic configuration of any one pair of isotopes and isobars.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For isotopes: Carbon-12 (¹²₆C) and Carbon-14 (¹⁴₆C) both have the electronic configuration 2, 4 (K-shell: 2 electrons; L-shell: 4 electrons). For isobars: Argon-40 (⁴⁰₁₈Ar) has the electronic configuration 2, 8, 8 while Calcium-40 (⁴⁰₂₀Ca) has the configuration 2, 8, 8, 2.",
+    "explanation": "Isotopes are atoms of the same element having the same atomic number and hence identical electron configurations. Carbon-12 and Carbon-14 both have 6 electrons arranged as 2 in the K-shell and 4 in the L-shell. In contrast, isobars are atoms of different elements with the same mass number but different atomic numbers, leading to different electron configurations. Here, Argon-40 (atomic number 18) has its electrons arranged in three shells (2, 8, 8) while Calcium-40 (atomic number 20) has an extra 2 electrons in an additional shell (2, 8, 8, 2). This comparison highlights the differences in electron arrangements resulting from variations in the proton number despite having the same total number of nucleons.",
+    "topic": "Electronic Configuration, Isotopes and Isobars",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "iesc104",
+    "question_id": "cbse_ix_iesc1dd_c104_ic014"
+  }
+]

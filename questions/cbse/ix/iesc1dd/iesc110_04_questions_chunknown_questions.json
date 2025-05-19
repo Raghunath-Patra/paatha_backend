@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "When do we say that work is done?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Work is done when a force acts on an object and the object is displaced in the direction of that force.",
+    "explanation": "In physics, the definition of work requires both the application of a force and a displacement of the object in the same direction as the force. This is summarized by the equation W = F × s, which means that if either the force or the displacement is zero, no work is done.",
+    "topic": "Work (Physics)",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic003"
+  },
+  {
+    "question_text": "Write an expression for the work done when a force is acting on an object in the direction of its displacement.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "W = F × s",
+    "explanation": "This expression represents the scientific definition of work. It shows that work (W) is the product of the force (F) acting on an object and the displacement (s) in the direction of the force. This fundamental formula is used to calculate work in various physical situations.",
+    "topic": "Work (Physics)",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic004"
+  },
+  {
+    "question_text": "Define 1 J of work.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1 Joule is the amount of work done when a force of 1 Newton displaces an object by 1 metre along the line of action of the force.",
+    "explanation": "In physics, work is measured in joules (J). The unit is defined such that if a force of 1 Newton (N) is applied and causes a displacement of 1 metre (m) in the direction of the force, the work done is exactly 1 J. This is represented by the relation: W = F × s.",
+    "topic": "Work (Physics)",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic005"
+  },
+  {
+    "question_text": "A pair of bullocks exerts a force of 140 N on a plough. The field being ploughed is 15 m long. How much work is done in ploughing the length of the field?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "2100 Joules",
+    "explanation": "To find the work done, use the formula W = F × s. Here, the force (F) is 140 N and the displacement (s) is 15 m. Multiplying these gives W = 140 N × 15 m = 2100 J. This calculation illustrates the application of the work formula in a real-world context.",
+    "topic": "Work (Physics)",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "iesc110",
+    "question_id": "cbse_ix_iesc1dd_c110_ic006"
+  }
+]

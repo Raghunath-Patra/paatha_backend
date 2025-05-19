@@ -1,0 +1,134 @@
+[
+  {
+    "question_text": "Which of the following correctly describes the magnetic field near a long straight wire?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "The field consists of straight lines perpendicular to the wire.",
+      "The field consists of straight lines parallel to the wire.",
+      "The field consists of radial lines originating from the wire.",
+      "The field consists of concentric circles centered on the wire."
+    ],
+    "correct_answer": "The field consists of concentric circles centered on the wire.",
+    "explanation": "A current-carrying straight wire produces a magnetic field in the form of concentric circles around the wire. This is a direct application of the Right-Hand Thumb Rule: if you hold the wire with your right thumb pointing in the direction of the current, your fingers curl in the direction of the magnetic field. This phenomenon is fundamental in understanding electromagnetic interactions.",
+    "topic": "Magnetic Field due to a Current-Carrying Conductor",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex001"
+  },
+  {
+    "question_text": "At the time of a short circuit, what happens to the current in the circuit?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "It reduces substantially.",
+      "It does not change.",
+      "It increases heavily.",
+      "It varies continuously."
+    ],
+    "correct_answer": "It increases heavily.",
+    "explanation": "A short circuit occurs when there is an unintended direct connection between the live and neutral wires, resulting in a very low resistance path. This causes an extremely high current to flow, which can be dangerous. The sudden surge in current is why fuses or circuit breakers are used as protective devices.",
+    "topic": "Domestic Electric Circuits and Safety",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex002"
+  },
+  {
+    "question_text": "State whether the following statements are true or false:\n(a) The field at the centre of a long circular coil carrying current will be parallel straight lines.\n(b) A wire with green insulation is usually the live wire of an electric supply.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Statement (a): True (approximately, especially for a long coil/solenoid). Statement (b): False (green insulation is usually used for the earth wire, not the live wire).",
+    "explanation": "In a long circular coil (solenoid), the magnetic field inside is relatively uniform and parallel, which is why (a) is approximately true. However, safety standards in many countries designate the green (or green-yellow) insulated wire as the earth/ground wire, not the live wire, making statement (b) false.",
+    "topic": "Magnetic Fields in Coils and Electrical Wiring",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex003"
+  },
+  {
+    "question_text": "List two methods of producing magnetic fields.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1. Using permanent magnets (such as bar magnets).\n2. Producing magnetic fields by passing an electric current through a conductor (such as a straight wire, circular loop, or solenoid).",
+    "explanation": "Magnetic fields can be generated in two principal ways. One is by using objects that are naturally magnetized (permanent magnets), and the other is by running an electric current through a conductor. The latter can produce various magnetic field patterns depending on the shape of the conductor.",
+    "topic": "Magnetism and Electromagnetism",
+    "bloom_level": "Remember",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex004"
+  },
+  {
+    "question_text": "When is the force experienced by a current–carrying conductor placed in a magnetic field the largest?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The force is largest when the current in the conductor is at right angles (perpendicular) to the magnetic field.",
+    "explanation": "The magnitude of the force (as described by the equation F = I L B sinθ) depends on the sine of the angle between the current direction and the magnetic field. The maximum force is achieved when sinθ = 1, i.e., when the angle θ is 90°—meaning the current is perpendicular to the magnetic field.",
+    "topic": "Force on a Current-Carrying Conductor in a Magnetic Field",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex005"
+  },
+  {
+    "question_text": "Imagine that you are sitting in a chamber with your back to one wall. An electron beam, moving horizontally from the back wall towards the front wall, is deflected by a strong magnetic field to your right side. What is the direction of the magnetic field?",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Upward",
+      "Downward",
+      "Into the page",
+      "Out of the page"
+    ],
+    "correct_answer": "Downward",
+    "explanation": "When an electron beam is deflected, remember that the conventional current direction is opposite to the motion of electrons. With the electron beam moving from back to front, the effective conventional current flows from front to back. Using Fleming’s Left-Hand Rule (with the first finger for the field, second for current, and thumb for force), and given that the force (deflection) is to the right, the magnetic field must be directed downward.",
+    "topic": "Lorentz Force and Magnetic Deflection of Charged Particles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex006"
+  },
+  {
+    "question_text": "State the rule used to determine:\n(i) the direction of the magnetic field produced around a straight conductor carrying current,\n(ii) the direction of the force experienced by a current-carrying straight conductor placed in a magnetic field perpendicular to it,\n(iii) the direction of the current induced in a coil due to its rotation in a magnetic field.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The rules are as follows:\n(i) Right-Hand Thumb Rule: Hold the conductor in your right hand with the thumb pointing in the direction of the current; your fingers will curl in the direction of the magnetic field lines.\n(ii) Fleming's Left-Hand Rule: Extend your left hand with the thumb, forefinger, and middle finger mutually perpendicular. The forefinger points in the direction of the magnetic field and the middle finger in the direction of the current; the thumb then points in the direction of the force experienced by the conductor.\n(iii) Fleming's Right-Hand Rule: Extend your right hand with the thumb, forefinger, and middle finger mutually perpendicular. The thumb points in the direction of motion of the conductor, the forefinger in the direction of the magnetic field, and the middle finger will give the direction of the induced current in the coil.",
+    "explanation": "These three rules help us understand different aspects of electromagnetic behavior. The Right-Hand Thumb Rule gives the orientation of the magnetic field around a current-carrying conductor. Fleming’s Left-Hand Rule helps determine the direction of the force on a conductor placed in a magnetic field, crucial for understanding the working of electric motors. Fleming’s Right-Hand Rule is essential for finding the direction of current induced by electromagnetic induction, which is the fundamental principle behind generators.",
+    "topic": "Electromagnetism: Magnetic Fields, Forces, and Induction",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex007"
+  },
+  {
+    "question_text": "When does an electric short circuit occur?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "An electric short circuit occurs when the live wire comes into direct contact with the neutral (or earth) wire, resulting in a very low resistance path. This causes an abnormally large current flow which may potentially damage the circuit and connected appliances.",
+    "explanation": "Short circuits bypass the normal load by creating a pathway with almost zero resistance between the power source's conductors. The sudden surge in current leads to rapid heating (Joule heating), which can melt wires or blow fuses, thereby disrupting the current flow as a safety measure.",
+    "topic": "Domestic Electric Circuits and Electrical Safety",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex008"
+  },
+  {
+    "question_text": "What is the function of an earth wire and why is it necessary to earth metallic appliances?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The earth wire provides a safety path for any leakage of current from an appliance directly to the ground. It is necessary to earth metallic appliances so that in the event of insulation failure or a fault, the leaking current is diverted safely to the ground, reducing the risk of electric shock to the user and triggering protective devices like fuses or circuit breakers.",
+    "explanation": "Connecting the metallic parts of an appliance to an earth wire ensures that if there is a fault (for example, if the live wire accidentally contacts the metal casing), the current will flow through the earth wire. This helps maintain the metal casing at earth potential, minimizes the risk of electric shock, and provides a pathway for the excess current to trigger safety devices.",
+    "topic": "Domestic Electric Circuits and Electrical Safety",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jesc112",
+    "question_id": "cbse_x_jesc1dd_c112_ex009"
+  }
+]

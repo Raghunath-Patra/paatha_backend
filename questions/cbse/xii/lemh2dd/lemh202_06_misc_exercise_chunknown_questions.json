@@ -1,0 +1,77 @@
+[
+  {
+    "question_text": "Find the area under the given curves and the given lines: (i) y = x², x = 1, x = 2 and the x-axis; (ii) y = x⁴, x = 1, x = 5 and the x-axis.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "For (i): The area = ∫₁² x² dx = [(x³)/3]₁² = (8/3 - 1/3) = 7/3. For (ii): The area = ∫₁⁵ x⁴ dx = [(x⁵)/5]₁⁵ = (3125/5 - 1/5) = (3124/5).",
+    "explanation": "Step 1: Set up the definite integral for each case.\nFor part (i), the area under y = x² from x = 1 to x = 2 is: A = ∫ from 1 to 2 x² dx. \nStep 2: Compute the antiderivative: ∫ x² dx = x³/3.\nStep 3: Evaluate at the limits: (2³/3) - (1³/3) = (8/3 - 1/3 = 7/3).\nFor part (ii), the area under y = x⁴ from x = 1 to x = 5 is: A = ∫ from 1 to 5 x⁴ dx. \nStep 4: The antiderivative is x⁵/5.\nStep 5: Evaluate: (5⁵/5) - (1⁵/5) = (3125/5 - 1/5 = 3124/5).",
+    "topic": "Area under curves using definite integrals",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex005"
+  },
+  {
+    "question_text": "Sketch the graph of y = |x + 3| and evaluate ∫ |x + 3| dx.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The antiderivative of |x + 3| is found by considering the two cases: when x + 3 ≥ 0 (i.e., x ≥ -3) and when x + 3 < 0 (i.e., x < -3). For x ≥ -3, |x+3| = x+3 so ∫ (x+3) dx = (x²/2) + 3x + C₁. For x < -3, |x+3| = -(x+3) so ∫ -(x+3) dx = -(x²/2) - 3x + C₂. (The constants of integration may differ on each interval.)",
+    "explanation": "Step 1: Recognize that the function |x+3| is defined piecewise:\n  • For x ≥ -3, |x+3| = x+3\n  • For x < -3, |x+3| = -(x+3)\nStep 2: For x ≥ -3, integrate: ∫ (x+3) dx = x²/2 + 3x + C₁.\nStep 3: For x < -3, integrate: ∫ -(x+3) dx = -x²/2 - 3x + C₂.\nStep 4: Sketch the graph by noting that the vertex of the V-shape occurs at x = -3, and the graph is symmetric about the line x = -3. The graph is linear on either side with slopes 1 and -1 respectively.\nStep 5: Thus, the general antiderivative is given piecewise as above.",
+    "topic": "Graphing absolute value functions and integration of piecewise functions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex006"
+  },
+  {
+    "question_text": "Find the area bounded by the curve y = sin x between x = 0 and x = 2π.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The area = ∫₀π sin x dx + |∫ₚ²π sin x dx| = 2 + 2 = 4.",
+    "explanation": "Step 1: Notice that the sine function is positive in the interval [0, π] and negative in [π, 2π]. The area must be computed using absolute values for the negative part.\nStep 2: Compute the integral from 0 to π: ∫₀π sin x dx = [–cos x]₀π = (–cos π) - (–cos 0) = (1 - (–1)) = 2.\nStep 3: Compute the integral from π to 2π: ∫ₚ²π sin x dx = [–cos x]ₚ²π = (–cos 2π) - (–cos π) = (–1) - (1) = -2. The area here is the absolute value, 2.\nStep 4: Total area = 2 + 2 = 4.",
+    "topic": "Area under curves with sign changes",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex007"
+  },
+  {
+    "question_text": "Area bounded by the curve y = x³, the x-axis, and the ordinates x = 2 and x = 1 is:",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A) -9",
+      "B) -15/4",
+      "C) 15/4",
+      "D) 17/4"
+    ],
+    "correct_answer": "15/4 (Option C)",
+    "explanation": "Step 1: The area under the curve y = x³ from x = 1 to x = 2 is given by the definite integral A = ∫₁² x³ dx.\nStep 2: Find the antiderivative: ∫ x³ dx = x⁴/4.\nStep 3: Evaluate from 1 to 2: A = (2⁴/4) - (1⁴/4) = (16/4 - 1/4) = 15/4.\nStep 4: Since the function is positive between x = 1 and x = 2, the area remains 15/4.",
+    "topic": "Definite integration and area under curves",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex008"
+  },
+  {
+    "question_text": "The area bounded by the curve y = x|x|, the x-axis, and the ordinates x = -1 and x = 1 is given by:",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "A) 0",
+      "B) 1/3",
+      "C) 2/3",
+      "D) 4/3"
+    ],
+    "correct_answer": "2/3 (Option C)",
+    "explanation": "Step 1: Recognize that the function y = x|x| is piecewise. For x ≥ 0, |x| = x so y = x². For x < 0, |x| = -x so y = -x².\nStep 2: Compute the area for x in [0, 1]: A₁ = ∫₀¹ x² dx = [x³/3]₀¹ = 1/3.\nStep 3: Compute the area for x in [-1, 0]: Here, the function is y = -x², which is negative, so the area is A₂ = |∫₋₁⁰ (-x²) dx| = | -[x³/3]₋₁⁰ | = | - (0 - ( -1/3))| = 1/3.\nStep 4: Total area = A₁ + A₂ = 1/3 + 1/3 = 2/3.",
+    "topic": "Piecewise functions and area calculation using integration",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "lemh202",
+    "question_id": "cbse_xii_lemh2dd_c202_ex009"
+  }
+]

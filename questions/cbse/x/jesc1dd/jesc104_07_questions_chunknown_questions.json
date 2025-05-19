@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Why is the conversion of ethanol to ethanoic acid an oxidation reaction?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The conversion involves the oxidation of the -CH₂OH group in ethanol to the -COOH group in ethanoic acid. This reaction occurs by either adding oxygen or removing hydrogen, which are the defining criteria for an oxidation reaction.",
+    "explanation": "In ethanol (CH₃CH₂OH), the -CH₂OH group is transformed into the -COOH group in ethanoic acid (CH₃COOH). This transformation happens either by the incorporation of an oxygen atom or by the removal of hydrogen atoms (loss of electrons), which is characteristic of oxidation reactions. The overall process can be represented as CH₃CH₂OH + [O] → CH₃COOH, where [O] represents an oxidizing agent. This understanding is fundamental in organic chemistry and relates to how chemical properties of carbon compounds are influenced by changes in their functional groups.",
+    "topic": "Oxidation reactions in organic compounds",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic008"
+  },
+  {
+    "question_text": "A mixture of oxygen and ethyne is burnt for welding. Can you tell why a mixture of ethyne and air is not used?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A mixture of ethyne and air is not used because air contains only about 21% oxygen; the rest is mainly nitrogen which does not support combustion and absorbs heat. This results in a lower flame temperature that is insufficient for welding. For welding applications, a much higher temperature is required, and thus ethyne must be burned in pure oxygen (oxy-acetylene flame) to achieve complete combustion and the necessary high flame temperature.",
+    "explanation": "Welding requires extremely high temperatures to melt metals and form strong joints. When ethyne (C₂H₂) burns in pure oxygen, the flame—known as the oxy-acetylene flame—achieves the high temperatures needed for welding due to complete combustion. In contrast, air is composed of only about 21% oxygen, with the remaining 79% being largely inert nitrogen. The nitrogen absorbs heat and lowers the overall flame temperature. As a result, burning ethyne in air produces a cooler flame, which is not effective for welding. This concept highlights the role of oxygen concentration in combustion reactions and its practical applications in high-temperature processes.",
+    "topic": "Combustion and flame temperature in welding",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic009"
+  }
+]

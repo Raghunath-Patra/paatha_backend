@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Given here are some figures. Classify each of them on the basis of the following criteria: (a) Simple curve, (b) Simple closed curve, (c) Polygon, (d) Convex polygon, (e) Concave polygon. (Figures: (1) Concave polygon (irregular), (2) Convex polygon (quadrilateral), (3) Two separate circles (not simple curve), (4) Star polygon (concave), (5) Closed curve (not simple), (6) Closed curve (not simple), (7) Curve (not closed), (8) Two circles connected by a line (not simple)).",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Figure (1): It is a simple curve (drawn without lifting the pencil) and a simple closed curve (its endpoints join without self‐intersections) and so it is a polygon. Since one or more diagonals lie outside, it is a concave polygon (and not convex).\n\nFigure (2): It is a simple curve and a simple closed curve, qualifies as a polygon. All diagonals lie entirely within the shape; hence it is a convex polygon (and not concave).\n\nFigure (3): The drawing consists of two separate circles. Since the figure is not drawn as a single continuous curve, it is not a simple curve, and therefore it is not a simple closed curve, nor is it a polygon.\n\nFigure (4): The star polygon is drawn as a continuous closed curve so it is a simple closed curve (assuming it does not retrace any portion apart from the joining point). It qualifies as a polygon. Because parts of its diagonals or the connecting segments lie outside the figure, it is classified as a concave polygon rather than a convex one.\n\nFigure (5): Though the curve is closed, it is not simple (it has self-intersections). Therefore, it does not qualify as a simple curve or a simple closed curve, and consequently it is not considered a polygon in the classic sense.\n\nFigure (6): Similar to Figure (5), it is a closed curve with self-intersections. Hence it is not a simple curve or a simple closed curve, and it is not a polygon.\n\nFigure (7): This is an open curve (not closed). Although it may be simple (assuming no retracing or self-intersection), because it is not closed, it is not a polygon.\n\nFigure (8): The image shows two circles connected by a line. As the figure is not a single continuous drawing (and parts of it are disconnected or only joined by a line), it fails to be a simple curve and hence is not a simple closed curve or a polygon.",
+    "explanation": "For each figure, we determine whether the drawing is made using one continuous non‐intersecting line (simple curve) and whether it forms a closed path (simple closed curve). A polygon is defined as a simple closed curve that consists only of line segments. For convex polygons, every line segment connecting any two interior points lies entirely within the polygon. For concave polygons, there exists at least one line segment between two interior points that passes outside the polygon. By examining each figure’s properties (continuity, closedness, and whether the segments meet the polygon definition), we classify them accordingly.",
+    "topic": "Geometric classification of curves and polygons",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "hemh103",
+    "question_id": "cbse_viii_hemh1dd_c103_ex001"
+  },
+  {
+    "question_text": "What is a regular polygon? State the name of a regular polygon with (i) 3 sides, (ii) 4 sides, and (iii) 6 sides.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "A regular polygon is one that is both equiangular (all interior angles are equal) and equilateral (all sides are of equal length). For (i) 3 sides: an equilateral triangle, (ii) 4 sides: a square, (iii) 6 sides: a regular hexagon.",
+    "explanation": "A regular polygon meets both conditions of having all sides of equal length and all angles of equal measure. An equilateral triangle is the only triangle that is both equilateral and equiangular. A square is a quadrilateral with equal sides and equal angles, making it a regular polygon. A regular hexagon has six congruent sides and six congruent interior angles. This question tests familiarity with the definition and examples of regular polygons.",
+    "topic": "Polygons: Regular vs. Irregular",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "hemh103",
+    "question_id": "cbse_viii_hemh1dd_c103_ex002"
+  }
+]

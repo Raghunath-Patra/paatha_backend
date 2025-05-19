@@ -1,0 +1,113 @@
+[
+  {
+    "question_text": "Evaluate the following:\n(i) sin 60° cos 30° + sin 30° cos 60°\n(ii) 2 tan² 45° + cos² 30° – sin² 60°\n(iii) cos 45° / (sec 30° + cosec 30°)\n(iv) (sin 30° + tan 45° – cosec 60°) / (sec 30° + cos 60° + cot 45°)\n(v) (5 cos² 60° + 4 sec² 30° – tan² 45°) / (sin² 30° + cos² 30°)",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Part (i): 1\nPart (ii): 2\nPart (iii): √3 / (2√2 (√3 + 1))\nPart (iv): ( (3/2 – 2/√3) / (2/√3 + 3/2) ) which can also be expressed as (9 – 12/√3)/(9 + 12/√3) after clearing denominators\nPart (v): 67/12",
+    "explanation": "For (i): Use sin 60° = √3/2, cos 30° = √3/2, sin 30° = 1/2, cos 60° = 1/2. Thus, (√3/2 × √3/2) + (1/2 × 1/2) = 3/4 + 1/4 = 1.\nFor (ii): tan 45° = 1 so 2 tan² 45° = 2. Also, cos 30° = √3/2 so cos² 30° = 3/4 and sin 60° = √3/2 so sin² 60° = 3/4. Thus, 2 + 3/4 – 3/4 = 2.\nFor (iii): cos 45° = 1/√2. Also, sec 30° = 1/cos 30° = 2/√3 and cosec 30° = 1/sin 30° = 2. Hence, denominator = 2/√3 + 2 = 2(1/√3 + 1). The expression becomes (1/√2) / [2(1/√3 + 1)] = √3/(2√2(√3 + 1)) after simplifying.\nFor (iv): Evaluate each term: sin 30° = 1/2, tan 45° = 1, and cosec 60° = 1/sin 60° = 2/√3. So numerator = 1/2 + 1 – 2/√3 = (3/2 – 2/√3). Denom: sec 30° = 2/√3, cos 60° = 1/2, cot 45° = 1, so denominator = 2/√3 + 1/2 + 1 = (2/√3 + 3/2). Their quotient simplifies to (3/2 – 2/√3) / (2/√3 + 3/2). Multiplying numerator and denominator by 6 to clear fractions gives (9 – 12/√3)/(9 + 12/√3).\nFor (v): cos 60° = 1/2 so cos² 60° = 1/4; hence 5 cos² 60° = 5/4. sec 30° = 2/√3 so sec² 30° = 4/3; thus 4 sec² 30° = 16/3. tan 45° = 1 so tan² 45° = 1. The denominator is sin² 30° + cos² 30°, where sin 30° = 1/2 (so 1/4) and cos 30° = √3/2 (so 3/4); their sum = 1. Therefore, the expression is (5/4 + 16/3 – 1) = (5/4 – 1) + 16/3 = (1/4) + 16/3. Finding a common denominator (12) gives (3 + 64)/12 = 67/12.",
+    "topic": "Trigonometric Ratios and Special Angles",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh108",
+    "question_id": "cbse_x_jemh1dd_c108_ex012"
+  },
+  {
+    "question_text": "Choose the correct option: (2 tan 30°) / (1 + tan² 30°) = ?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "sin 60°",
+      "cos 60°",
+      "tan 60°",
+      "sin 30°"
+    ],
+    "correct_answer": "sin 60°",
+    "explanation": "tan 30° = 1/√3 so tan² 30° = 1/3. The expression becomes (2/√3) / (1 + 1/3) = (2/√3) / (4/3) = (2/√3) × (3/4) = 3/(2√3) = √3/2 after rationalizing, which is equal to sin 60°.",
+    "topic": "Trigonometric Identities",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh108",
+    "question_id": "cbse_x_jemh1dd_c108_ex013"
+  },
+  {
+    "question_text": "Choose the correct option: (1 – tan² 45°) / (1 + tan² 45°) = ?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "tan 90°",
+      "1",
+      "sin 45°",
+      "0"
+    ],
+    "correct_answer": "0",
+    "explanation": "Since tan 45° = 1, we have tan² 45° = 1. Substituting yields (1 – 1) / (1 + 1) = 0/2 = 0.",
+    "topic": "Trigonometric Identities",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh108",
+    "question_id": "cbse_x_jemh1dd_c108_ex014"
+  },
+  {
+    "question_text": "Choose the correct option: sin 2A = 2 sin A is true when A = ?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "0°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "correct_answer": "0°",
+    "explanation": "The identity sin 2A = 2 sin A cos A. For it to equal 2 sin A, either sin A = 0 or cos A must be 1. Excluding the trivial zero solution from sin A (since if sin A = 0, both sides vanish), the non-trivial condition is cos A = 1, which happens when A = 0°.",
+    "topic": "Trigonometric Identities",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh108",
+    "question_id": "cbse_x_jemh1dd_c108_ex015"
+  },
+  {
+    "question_text": "Choose the correct option: (2 tan 30°) / (1 – tan² 30°) = ?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "cos 60°",
+      "sin 60°",
+      "tan 60°",
+      "sin 30°"
+    ],
+    "correct_answer": "tan 60°",
+    "explanation": "tan 30° = 1/√3 so tan² 30° = 1/3. The expression becomes (2/√3) / (1 – 1/3) = (2/√3) / (2/3) = (2/√3) × (3/2) = 3/√3 = √3, which is equal to tan 60°.",
+    "topic": "Trigonometric Identities",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh108",
+    "question_id": "cbse_x_jemh1dd_c108_ex016"
+  },
+  {
+    "question_text": "If tan (A + B) = √3 and tan (A – B) = 1/√3; with 0° < A + B ≤ 90° and A > B, find A and B.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "A = 45°, B = 15°",
+    "explanation": "Since tan (A + B) = √3, one deduces that A + B = 60° (since tan 60° = √3). Similarly, tan (A – B) = 1/√3 implies A – B = 30° (because tan 30° = 1/√3). Adding the two equations, 2A = 90°, so A = 45°. Subtracting gives 2B = 30°, hence B = 15°.",
+    "topic": "Trigonometric Equations",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "jemh108",
+    "question_id": "cbse_x_jemh1dd_c108_ex017"
+  },
+  {
+    "question_text": "State whether the following statements are True or False. Justify your answer:\n(i) sin (A + B) = sin A + sin B.\n(ii) The value of sin θ increases as θ increases.\n(iii) The value of cos θ increases as θ increases.\n(iv) sin θ = cos θ for all values of θ.\n(v) cot A is not defined for A = 0°.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) False; (ii) True (for angles in [0°,90°]); (iii) False; (iv) False; (v) True",
+    "explanation": "(i) The identity for sin (A + B) is sin A cos B + cos A sin B, not sin A + sin B, so it is false.\n(ii) For angles between 0° and 90°, sin θ increases as θ increases (see Table 8.1), so this statement is true in this context.\n(iii) Cosine decreases as the angle increases from 0° to 90°; hence this statement is false.\n(iv) sin θ equals cos θ only at θ = 45° in the first quadrant, not for all values of θ, so false.\n(v) cot A = cos A/sin A, and since sin 0° = 0, cot 0° is undefined, making this statement true.",
+    "topic": "Trigonometric Properties",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jemh108",
+    "question_id": "cbse_x_jemh1dd_c108_ex018"
+  }
+]

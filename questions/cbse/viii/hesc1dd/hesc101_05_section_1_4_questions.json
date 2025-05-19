@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following statements is true about the water test used for seed selection?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A) Healthy seeds float on water while damaged seeds sink.",
+      "B) Healthy seeds sink in water while damaged seeds float.",
+      "C) Both healthy and damaged seeds sink in water.",
+      "D) Both healthy and damaged seeds float on water."
+    ],
+    "correct_answer": "B) Healthy seeds sink in water while damaged seeds float.",
+    "explanation": "In the water test, healthy seeds tend to sink because they are dense, while damaged or hollow seeds float.",
+    "topic": "Seed selection",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "hesc101",
+    "section_id": "05_section_1_4",
+    "question_id": "cbse_viii_hesc1dd_c101_gen037"
+  }
+]

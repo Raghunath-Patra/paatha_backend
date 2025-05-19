@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "How many structural isomers can you draw for pentane?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Pentane (C₅H₁₂) has three structural isomers: n-pentane (CH₃CH₂CH₂CH₂CH₃), isopentane (2-methylbutane, CH₃CH(CH₃)CH₂CH₃), and neopentane (2,2-dimethylpropane, C(CH₃)₄).",
+    "explanation": "Pentane exhibits structural isomerism because the carbon atoms can be arranged in different patterns. In n-pentane, the carbons form a straight chain; in isopentane, a methyl group branches at the second carbon; and in neopentane, two methyl groups are attached to the central carbon. These distinct arrangements result from carbon's properties of catenation and tetravalency, enabling multiple bonding configurations.",
+    "topic": "Organic Chemistry – Structural Isomerism",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic003"
+  },
+  {
+    "question_text": "What are the two properties of carbon which lead to the huge number of carbon compounds we see around us?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "The two properties are catenation and tetravalency.",
+    "explanation": "Catenation is carbon's ability to form long chains, branched chains, and rings by bonding with other carbon atoms. Tetravalency refers to carbon’s capacity to form four covalent bonds with other atoms. Combined, these properties enable carbon to build an enormous variety of stable compounds with diverse structures and properties.",
+    "topic": "Organic Chemistry – Properties of Carbon",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic004"
+  },
+  {
+    "question_text": "What will be the formula and electron dot structure of cyclopentane?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Cyclopentane has the formula C₅H₁₀. It is a cyclic structure in which five carbon atoms form a pentagonal ring. In its electron dot structure, each carbon shares a pair of electrons with each of its two adjacent carbons via single bonds, and the remaining bonds are completed by hydrogen atoms so that each carbon fulfills an octet.",
+    "explanation": "Cyclopentane is a cyclic (ring) compound where five carbon atoms are connected in a closed loop. Each carbon atom, having two bonds to other carbons, is also bonded to two hydrogen atoms. The electron dot structure would depict each carbon with shared electron pairs represented by dots or crosses that show single covalent bonding to its neighbors and to hydrogen atoms, satisfying the octet rule.",
+    "topic": "Organic Chemistry – Cyclic Compounds",
+    "bloom_level": "Apply",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic005"
+  },
+  {
+    "question_text": "Draw the structures for the following compounds: (i) Ethanoic acid, (ii) Bromopentane, (iii) Butanone, (iv) Hexanal. Also, are structural isomers possible for bromopentane?",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Ethanoic acid: CH₃COOH (or CH₃-C(=O)-OH). Bromopentane: One common isomer is 1-bromopentane (CH₃CH₂CH₂CH₂CH₂Br), though several isomers such as 2-bromopentane, 3-bromopentane, etc., are possible because of different positions for the bromine substituent. Butanone: CH₃COCH₂CH₃ (or CH₃-C(=O)-CH₂-CH₃). Hexanal: CH₃CH₂CH₂CH₂CH₂CHO (or CH₃(CH₂)₄CHO). Yes, structural isomers are possible for bromopentane due to varied positions at which the bromine atom can substitute for a hydrogen in the pentane chain.",
+    "explanation": "For ethanoic acid, the functional group is the carboxyl (–COOH) group attached to a methyl group. Bromopentane involves the substitution of a hydrogen atom in pentane (C₅H₁₂) with a bromine; its isomers arise when bromine attaches to different carbons in the chain. Butanone contains a ketone group (C=O) on a four-carbon chain, while hexanal is an aldehyde with the formyl (–CHO) group at one end of a six-carbon chain. Drawing correct structural representations (using Lewis dot structures or skeletal formulas) is crucial to illustrate bonding and positions of functional groups.",
+    "topic": "Organic Chemistry – Structural Drawing and Isomerism",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic006"
+  },
+  {
+    "question_text": "How would you name the following compounds: (i) CH₃—CH₂—Br, (ii) H—C=O, (iii) a compound with a four-carbon chain having a terminal triple bond?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) CH₃—CH₂—Br is named bromoethane. (ii) H—C=O is named methanal. (iii) A four-carbon chain with a terminal triple bond is named but-1-yne.",
+    "explanation": "Bromoethane is derived by substituting a hydrogen atom in ethane with a bromine atom, following the halogenoalkane nomenclature. Methanal is the simplest aldehyde, commonly known as formaldehyde, and its name is formed by replacing the -e of methane with -anal. For a four-carbon chain with a triple bond, the suffix changes from -ane to -yne, and the position of the triple bond determines the numbering; with the triple bond on the first carbon, the compound is correctly named but-1-yne. (Note: The text provided an example of hex-1-yne for a six-carbon chain; here, we adjust for a four-carbon chain as per the question.)",
+    "topic": "Organic Chemistry – Nomenclature",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc104",
+    "question_id": "cbse_x_jesc1dd_c104_ic007"
+  }
+]

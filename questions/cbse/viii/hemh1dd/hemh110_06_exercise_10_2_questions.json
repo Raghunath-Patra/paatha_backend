@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "Express the following numbers in standard form: (i) 0.0000000000085, (ii) 0.00000000000942, (iii) 6020000000000000, (iv) 0.00000000837, (v) 31860000000.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) 8.5 × 10⁻¹², (ii) 9.42 × 10⁻¹², (iii) 6.02 × 10¹⁵, (iv) 8.37 × 10⁻⁹, (v) 3.186 × 10¹⁰",
+    "explanation": "To convert a number into standard form, one rewrites it as a number between 1 and 10 multiplied by a power of 10. For (i), 0.0000000000085 is rewritten as 8.5 by moving the decimal 12 places to the right, yielding 8.5 × 10⁻¹². Similarly, (ii) becomes 9.42 × 10⁻¹². For (iii), shifting the decimal so that 6020000000000000 becomes 6.02 requires moving it 15 places to the left, hence 6.02 × 10¹⁵. In (iv), 0.00000000837 converts to 8.37 × 10⁻⁹ (moving the decimal 9 places to the right), and (v) is rewritten as 3.186 × 10¹⁰ by moving the decimal 10 places to the left.",
+    "topic": "Standard Form and Exponents",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh110",
+    "question_id": "cbse_viii_hemh1dd_c110_ex008"
+  },
+  {
+    "question_text": "Express the following numbers in usual form: (i) 3.02 × 10⁻⁶, (ii) 4.5 × 10⁴, (iii) 3 × 10⁻⁸, (iv) 1.0001 × 10⁹, (v) 5.8 × 10¹², (vi) 3.61492 × 10⁶.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) 0.00000302, (ii) 45000, (iii) 0.00000003, (iv) 1000100000, (v) 5800000000000, (vi) 3614920",
+    "explanation": "Expressing numbers in usual (decimal) form means carrying out the multiplication indicated by the power of 10. For (i), 3.02 × 10⁻⁶ means shifting the decimal point 6 places to the left resulting in 0.00000302. For (ii), 4.5 × 10⁴ shifts the decimal 4 places to obtain 45000. Similarly, (iii) becomes 0.00000003, (iv) becomes 1.0001 followed by 9 digits to yield 1000100000, (v) becomes 5800000000000 by moving 12 places, and (vi) becomes 3614920 by shifting 6 places.",
+    "topic": "Conversion Between Standard and Usual Form",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh110",
+    "question_id": "cbse_viii_hemh1dd_c110_ex009"
+  },
+  {
+    "question_text": "Express the number appearing in the following statements in standard form: (i) 1 micron is equal to 1/1000000 m. (ii) Charge of an electron is 0.000,000,000,000,000,000,16 coulomb. (iii) Size of a bacteria is 0.0000005 m. (iv) Size of a plant cell is 0.00001275 m. (v) Thickness of a thick paper is 0.07 mm.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) 1 × 10⁻⁶ m, (ii) 1.6 × 10⁻¹⁹ C, (iii) 5 × 10⁻⁷ m, (iv) 1.275 × 10⁻⁵ m, (v) 7 × 10⁻² mm",
+    "explanation": "For each statement, convert the given number to a number between 1 and 10 multiplied by a power of 10. (i) Since 1/1000000 = 1 × 10⁻⁶, 1 micron = 1 × 10⁻⁶ m. (ii) The charge of an electron, 0.00000000000000000016, is rewritten as 1.6 by moving the decimal 19 places to the right, yielding 1.6 × 10⁻¹⁹ C. (iii) 0.0000005 m becomes 5 × 10⁻⁷ m. (iv) 0.00001275 m becomes 1.275 × 10⁻⁵ m. (v) 0.07 mm is expressed as 7 × 10⁻² mm by moving the decimal one place to write 7.0 and noting the shift of 2 places in total.",
+    "topic": "Standard Form and Scientific Notation",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh110",
+    "question_id": "cbse_viii_hemh1dd_c110_ex010"
+  },
+  {
+    "question_text": "In a stack there are 5 books each of thickness 20 mm and 5 paper sheets each of thickness 0.016 mm. What is the total thickness of the stack?",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "100.08 mm",
+    "explanation": "Calculate the total thickness by first finding the thickness of the books and the paper sheets separately. The books contribute 5 × 20 mm = 100 mm. The paper sheets contribute 5 × 0.016 mm = 0.08 mm. Adding both, the total thickness is 100 mm + 0.08 mm = 100.08 mm.",
+    "topic": "Arithmetic Operations and Unit Conversions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh110",
+    "question_id": "cbse_viii_hemh1dd_c110_ex011"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "question_text": "Add: ab – bc, bc – ca, ca – ab",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "0",
+    "explanation": "Write the sum as (ab – bc) + (bc – ca) + (ca – ab). Notice that the terms cancel pairwise: ab cancels with –ab, bc cancels with –bc, and ca cancels with –ca, leaving 0.",
+    "topic": "Addition and Subtraction of Algebraic Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex001"
+  },
+  {
+    "question_text": "Add: a – b + ab, b – c + bc, c – a + ac",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "ab + bc + ac",
+    "explanation": "Group the like terms: The linear terms yield (a + b + c) – (b + c + a) = 0. The remaining terms are ab, bc, and ac, so the final sum is ab + bc + ac.",
+    "topic": "Addition and Subtraction of Algebraic Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex002"
+  },
+  {
+    "question_text": "Add: 2p²q² – 3pq + 4 and 5 + 7pq – 3p²q²",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "-p²q² + 4pq + 9",
+    "explanation": "Combine like terms by aligning similar powers: p²q² terms: 2p²q² – 3p²q² = -p²q²; pq terms: -3pq + 7pq = 4pq; constants: 4 + 5 = 9. Thus, the final answer is -p²q² + 4pq + 9.",
+    "topic": "Addition and Subtraction of Algebraic Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex003"
+  },
+  {
+    "question_text": "Add: l² + m², m² + n², n² + l², and 2lm + 2mn + 2nl",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "2(l² + m² + n² + lm + mn + nl)",
+    "explanation": "Sum the expressions by combining like terms: l² appears twice, m² appears twice, and n² appears twice, resulting in 2l² + 2m² + 2n². The cross terms (2lm, 2mn, 2nl) are added directly. Factor out the common factor 2 to obtain 2(l² + m² + n² + lm + mn + nl).",
+    "topic": "Addition and Subtraction of Algebraic Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex004"
+  },
+  {
+    "question_text": "Subtract 4a – 7ab + 3b + 12 from 12a – 9ab + 5b – 3",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "8a - 2ab + 2b - 15",
+    "explanation": "Express the problem as: (12a – 9ab + 5b – 3) – (4a – 7ab + 3b + 12). Subtract corresponding terms: 12a - 4a = 8a; -9ab - (-7ab) = -2ab; 5b - 3b = 2b; -3 - 12 = -15.",
+    "topic": "Addition and Subtraction of Algebraic Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex005"
+  },
+  {
+    "question_text": "Subtract 3xy + 5yz – 7zx from 5xy – 2yz – 2zx + 10xyz",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "2xy - 7yz + 5zx + 10xyz",
+    "explanation": "Rewrite the expression as: (5xy – 2yz – 2zx + 10xyz) – (3xy + 5yz – 7zx). Subtract like terms: 5xy - 3xy = 2xy; -2yz - 5yz = -7yz; -2zx - (-7zx) = 5zx; and 10xyz remains unchanged. Therefore, the result is 2xy - 7yz + 5zx + 10xyz.",
+    "topic": "Addition and Subtraction of Algebraic Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex006"
+  },
+  {
+    "question_text": "Subtract 4p²q – 3pq + 5pq² – 8p + 7q – 10 from 18 – 3p – 11q + 5pq – 2pq² + 5p²q",
+    "type": "Short Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "p²q + 8pq - 7pq² + 5p - 18q + 28",
+    "explanation": "Process the subtraction by aligning like terms:\n• p²q: 5p²q – 4p²q = p²q\n• pq: 5pq – (-3pq) = 5pq + 3pq = 8pq\n• pq²: -2pq² – 5pq² = -7pq²\n• p: -3p – (-8p) = -3p + 8p = 5p\n• q: -11q – 7q = -18q\n• Constant: 18 – (-10) = 28\nThus, the final expression is p²q + 8pq - 7pq² + 5p - 18q + 28.",
+    "topic": "Addition and Subtraction of Algebraic Expressions",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex007"
+  }
+]

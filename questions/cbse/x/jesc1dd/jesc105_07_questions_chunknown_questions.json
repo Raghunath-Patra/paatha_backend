@@ -1,0 +1,54 @@
+[
+  {
+    "question_text": "What advantage over an aquatic organism does a terrestrial organism have with regard to obtaining oxygen for respiration?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Terrestrial organisms obtain oxygen from atmospheric air, which contains about 21% oxygen, a much higher concentration than the dissolved oxygen available in water. This allows them to respire effectively with lower breathing rates and without the need for specialized structures like gills.",
+    "explanation": "Terrestrial organisms rely on the abundant, easily accessible oxygen present in air, which permits efficient gas exchange using lungs. In contrast, aquatic organisms depend on dissolved oxygen, which is present in much lower concentrations, necessitating adaptations such as rapid water flow over gills and higher energy expenditure. This difference exemplifies the advantage of terrestrial life in terms of respiratory efficiency.",
+    "topic": "Respiration and Gas Exchange",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic010"
+  },
+  {
+    "question_text": "What are the different ways in which glucose is oxidised to provide energy in various organisms?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Glucose is first broken down into pyruvate in the cytoplasm. Then, depending on the availability of oxygen and the organism's metabolic pathway, it can follow one of three routes: 1) In aerobic respiration, pyruvate enters the mitochondria and is completely oxidised to carbon dioxide and water, yielding a large amount of ATP. 2) In anaerobic respiration in yeast, pyruvate is converted into ethanol and carbon dioxide, producing a limited amount of ATP through fermentation. 3) In anaerobic respiration in muscle cells, pyruvate is converted into lactic acid, also releasing only a small amount of ATP.",
+    "explanation": "The process begins with glycolysis, where glucose (a six-carbon molecule) is converted into two three-carbon pyruvate molecules in the cytoplasm. In the presence of oxygen, aerobic respiration follows a mitochondrial pathway that provides maximum energy yield via the citric acid cycle and electron transport chain. When oxygen is scarce, yeast cells perform alcoholic fermentation, converting pyruvate into ethanol and CO₂, while muscle cells convert pyruvate into lactic acid. Each pathway is adapted to the organism's environment and energy needs.",
+    "topic": "Cellular Respiration",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic011"
+  },
+  {
+    "question_text": "How is oxygen and carbon dioxide transported in human beings?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "In human beings, oxygen is primarily transported by binding to haemoglobin within red blood cells, while a smaller fraction is dissolved directly in the blood plasma. Carbon dioxide is carried mainly in the form of bicarbonate ions in the plasma, with a small amount bound to haemoglobin or dissolved directly in the plasma.",
+    "explanation": "The respiratory pigment haemoglobin in red blood cells has a high affinity for oxygen, enabling efficient uptake and transport from the lungs to tissues. Meanwhile, carbon dioxide, being more soluble in plasma, is predominantly converted into bicarbonate ions, which is essential for maintaining blood pH and facilitating its transport back to the lungs for exhalation.",
+    "topic": "Respiratory Physiology",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic012"
+  },
+  {
+    "question_text": "How are the lungs designed in human beings to maximise the area for exchange of gases?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Human lungs are structured with millions of tiny, balloon-like air sacs called alveoli. The alveoli have extremely thin walls and are surrounded by an extensive network of capillaries, which together provide an enormous surface area—approximately 80 m²—for efficient gas exchange.",
+    "explanation": "The alveolar structure ensures that oxygen diffuses quickly from the inhaled air into the capillary blood, while carbon dioxide diffuses out to be exhaled. This design also includes features such as respiratory bronchioles and the interwoven capillary network that maximizes the contact between air and blood, thereby enhancing the efficiency of gas exchange essential for cellular respiration.",
+    "topic": "Respiratory System Structure",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc105",
+    "question_id": "cbse_x_jesc1dd_c105_ic013"
+  }
+]

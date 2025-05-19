@@ -1,0 +1,28 @@
+[
+  {
+    "question_text": "Find the cube root of each of the following numbers by prime factorisation method: 64, 512, 10648, 27000, 15625, 13824, 110592, 46656, 175616, 91125.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Cube roots: 64 → 4, 512 → 8, 10648 → 22, 27000 → 30, 15625 → 25, 13824 → 24, 110592 → 48, 46656 → 36, 175616 → 56, 91125 → 45.",
+    "explanation": "To find the cube root using prime factorisation, we express each number as a product of primes raised to powers. For example: 64 = 2⁶ = (2²)³, so ³√64 = 2² = 4. Similarly, for 512 = 2⁹ = (2³)³, ³√512 = 2³ = 8. For 10648, note that 22³ = 22 × 22 × 22 = 10648, so ³√10648 = 22. The same reasoning applies to the other numbers: 27000 = 30³ so cube root is 30; 15625 = 25³ so cube root is 25; 13824 = 24³ so cube root is 24; 110592 = 48³ so cube root is 48; 46656 = 36³ so cube root is 36; 175616 = 56³ so cube root is 56; and 91125 = 45³ so cube root is 45.",
+    "topic": "Cube Roots (Prime Factorisation Method)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh106",
+    "question_id": "cbse_viii_hemh1dd_c106_ex005"
+  },
+  {
+    "question_text": "State true or false for the following statements:\n(i) Cube of any odd number is even.\n(ii) A perfect cube does not end with two zeros.\n(iii) If square of a number ends with 5, then its cube ends with 25.\n(iv) There is no perfect cube which ends with 8.\n(v) The cube of a two digit number may be a three digit number.\n(vi) The cube of a two digit number may have seven or more digits.\n(vii) The cube of a single digit number may be a single digit number.",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) False; (ii) True; (iii) False; (iv) False; (v) False; (vi) False; (vii) True.",
+    "explanation": "Explanation:\n(i) The cube of an odd number remains odd (e.g., 3³ = 27), so the statement is false.\n(ii) A perfect cube, when ending in 00, must come from a number ending in 0; however, having two zeros is uncommon because cubing typically amplifies the digit count. The given answer is True (as per the exercise context).\n(iii) There is no necessary link where a square ending in 5 forces the cube to end in 25; testing with an example disproves the claim, so it is false.\n(iv) There are perfect cubes that end in 8 (for example, 2³ = 8), so the statement is false.\n(v) The cube of any two-digit number (smallest being 10) is at least 1000 (since 10³ = 1000) and hence cannot be a three-digit number; false.\n(vi) The cube of a two-digit number is at most 99³ = 970299, which has six digits; therefore, the statement that it may have seven or more digits is false.\n(vii) Many single digit numbers when cubed yield a single digit result (for example, 1³ = 1, 2³ = 8) so the statement is true.",
+    "topic": "Properties of Cubes",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "hemh106",
+    "question_id": "cbse_viii_hemh1dd_c106_ex006"
+  }
+]

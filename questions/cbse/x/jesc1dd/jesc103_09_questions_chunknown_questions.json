@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "Define the following terms: Mineral, Ore, Gangue.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Mineral: Naturally occurring elements or compounds found in the earth’s crust.\nOre: A mineral from which a metal can be extracted profitably and conveniently.\nGangue: Earthly impurities like soil, sand, or rock that are associated with an ore.",
+    "explanation": "Minerals are naturally occurring substances found in the earth’s crust. An ore is a specific type of mineral that contains a high enough concentration of a metal so that it can be economically extracted, while gangue refers to the non-valuable impurities that accompany the ore. This is fundamental in metallurgy and the extraction of metals, as separating the ore from gangue is an essential step in the overall process.",
+    "topic": "Extraction of Metals, Ores and Minerals",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic010"
+  },
+  {
+    "question_text": "Name two metals which are found in nature in the free state.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Gold and Silver.",
+    "explanation": "Gold (Au) and Silver (Ag) are commonly found in their native form, meaning they occur naturally as free elements. These metals do not require extraction from compounds because they are not combined with other elements and hence, are often used directly in jewelry and currency. Their occurrence in the free state is due to their low reactivity in nature.",
+    "topic": "Occurrence of Metals",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic011"
+  },
+  {
+    "question_text": "What chemical process is used for obtaining a metal from its oxide?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Reduction.",
+    "explanation": "The process used to obtain a metal from its oxide is reduction. In a reduction reaction, the metal oxide loses oxygen, usually by reacting with a reducing agent such as carbon (coke) or by using a more reactive metal in a displacement reaction. In some cases the process is carried out electrolytically. For example, the reduction of zinc oxide with carbon is shown as: ZnO(s) + C(s) → Zn(s) + CO(g). This process is fundamental for extracting metals in metallurgy.",
+    "topic": "Chemical Properties of Metals",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc103",
+    "question_id": "cbse_x_jesc1dd_c103_ic012"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which of the following best explains why ortho and para nitrophenols are more acidic than phenol?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "The nitro group donates electrons to the benzene ring increasing electron density.",
+      "The nitro group withdraws electrons by resonance, stabilizing the negative charge on the phenoxide ion.",
+      "Steric hindrance from the nitro group forces deprotonation.",
+      "The nitro group increases the pKa of the compound."
+    ],
+    "correct_answer": "The nitro group withdraws electrons by resonance, stabilizing the negative charge on the phenoxide ion.",
+    "explanation": "The nitro group is a strong electron withdrawing group. Its ability to pull electron density by resonance stabilizes the phenoxide ion when the proton is lost, thereby increasing the acidity of nitrophenols.",
+    "topic": "Resonance structures of nitrophenoxide ions",
+    "bloom_level": "Understand",
+    "source": "generated",
+    "chapter_id": "lech202",
+    "section_id": "14_section_7_8",
+    "question_id": "cbse_xii_lech2dd_c202_gen189"
+  }
+]

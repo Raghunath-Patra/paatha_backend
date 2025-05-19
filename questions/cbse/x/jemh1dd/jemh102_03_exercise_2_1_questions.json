@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "The graph of y = p(x) is a straight line parallel to the x-axis that does not intersect it. Find the number of zeroes of p(x).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "0 zeroes",
+    "explanation": "A straight line parallel to the x-axis does not cross the x-axis at any point. Since the zeroes of a polynomial are the x-values where its graph intersects the x-axis, there are 0 zeroes in this case.",
+    "topic": "Zeroes of Polynomials, Graphical Interpretation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jemh102",
+    "question_id": "cbse_x_jemh1dd_c102_ex001"
+  },
+  {
+    "question_text": "The graph of y = p(x) is a curve that intersects the x-axis exactly once. Find the number of zeroes of p(x).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1 zero",
+    "explanation": "Since the given curve crosses the x-axis at exactly one point, it has one x-coordinate where the value is 0. Therefore, the polynomial p(x) has 1 zero.",
+    "topic": "Zeroes of Polynomials, Graphical Interpretation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jemh102",
+    "question_id": "cbse_x_jemh1dd_c102_ex002"
+  },
+  {
+    "question_text": "The graph of y = p(x) is a curve that intersects the x-axis three times. Find the number of zeroes of p(x).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "3 zeroes",
+    "explanation": "The x-intercepts of a polynomial's graph are its zeroes. As the curve intersects the x-axis at three distinct points, p(x) has 3 zeroes.",
+    "topic": "Zeroes of Polynomials, Graphical Interpretation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jemh102",
+    "question_id": "cbse_x_jemh1dd_c102_ex003"
+  },
+  {
+    "question_text": "The graph of y = p(x) is a parabola opening upwards that intersects the x-axis twice. Find the number of zeroes of p(x).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "2 zeroes",
+    "explanation": "A parabola intersecting the x-axis at two distinct points indicates that there are two x-values at which p(x) equals zero. Thus, the quadratic polynomial has 2 zeroes.",
+    "topic": "Zeroes of Polynomials, Quadratic Functions",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jemh102",
+    "question_id": "cbse_x_jemh1dd_c102_ex004"
+  },
+  {
+    "question_text": "The graph of y = p(x) is a curve which touches the x-axis at exactly one point (i.e., the curve is tangent to the x-axis). Find the number of zeroes of p(x).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "1 zero",
+    "explanation": "When a curve touches the x-axis without crossing it, it means the x-axis is tangent to the curve at that point. This results in a repeated (double) zero, but it is counted as one distinct zero.",
+    "topic": "Zeroes of Polynomials, Graphical Interpretation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jemh102",
+    "question_id": "cbse_x_jemh1dd_c102_ex005"
+  },
+  {
+    "question_text": "The graph of y = p(x) is a curve that intersects the x-axis at four distinct points. Find the number of zeroes of p(x).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "4 zeroes",
+    "explanation": "The given curve crosses the x-axis at four different points, which means there are four distinct values of x for which p(x) becomes zero. Therefore, p(x) has 4 zeroes.",
+    "topic": "Zeroes of Polynomials, Graphical Interpretation",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "jemh102",
+    "question_id": "cbse_x_jemh1dd_c102_ex006"
+  }
+]

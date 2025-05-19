@@ -1,0 +1,132 @@
+[
+  {
+    "question_text": "If someone in the family is suffering from acidity after overeating, which of the following would you suggest as the most effective remedy?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Lemon Juice",
+      "Vinegar",
+      "Baking Soda Solution",
+      "Water"
+    ],
+    "correct_answer": "Baking Soda Solution",
+    "explanation": "Baking soda (sodium bicarbonate) is a base that can neutralize excess stomach acid, thereby alleviating acidity. Lemon juice and vinegar are acidic and would exacerbate the problem, while water does not effectively neutralize the acid.",
+    "topic": "Acid-Base Neutralization",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "What property of acids and bases did you use while choosing baking soda solution as a remedy for acidity?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The property that acids and bases can neutralize each other's effects.",
+    "explanation": "When selecting baking soda solution to treat acidity, the underlying principle is that a base (baking soda) can neutralize excess acid in the stomach, thereby reducing acidity.",
+    "topic": "Acid-Base Neutralization",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which of the following indicators turns red in acidic solutions and blue in basic solutions?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Turmeric",
+      "Litmus",
+      "Methyl Orange",
+      "Phenolphthalein"
+    ],
+    "correct_answer": "Litmus",
+    "explanation": "Litmus paper turns red in acidic environments and blue in basic environments. Turmeric is also a natural indicator but changes color differently. Methyl orange and phenolphthalein are synthetic indicators with their specific color changes.",
+    "topic": "Acid-Base Indicators",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Describe the color change observed when a basic soap is used to scrub a curry stain on a white cloth.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The reddish-brown stain becomes yellow when scrubbed with basic soap.",
+    "explanation": "Basic soap neutralizes the acid present in curry stains, causing the reddish-brown color to change to yellow. Upon washing with plenty of water, the cloth returns to its original color.",
+    "topic": "Acid-Base Reactions in Daily Life",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "Which natural indicator extracted from lichen is commonly used to test for acids and bases, and what is its color in neutral solutions?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Litmus solution is the natural indicator extracted from lichen, and its color is purple in neutral solutions.",
+    "explanation": "Litmus is a natural dye extracted from lichen used as an indicator. It remains purple in neutral solutions, turning red in acids and blue in bases.",
+    "topic": "Natural Indicators",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Which of the following synthetic indicators turns pink in basic solutions?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "Methyl Orange",
+      "Phenolphthalein",
+      "Litmus",
+      "Turmeric"
+    ],
+    "correct_answer": "Phenolphthalein",
+    "explanation": "Phenolphthalein is a synthetic indicator that turns pink in basic solutions. Methyl orange changes color in acidic to slightly basic ranges, while litmus and turmeric are natural indicators with different color changes.",
+    "topic": "Synthetic Indicators",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Explain how acids and bases cancel out each other’s effects. Provide a balanced chemical equation to support your explanation.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Acids and bases neutralize each other through a reaction that forms water and a salt. For example, the reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH) is: HCl + NaOH → NaCl + H₂O.",
+    "explanation": "When an acid reacts with a base, the hydrogen ions (H⁺) from the acid combine with the hydroxide ions (OH⁻) from the base to form water (H₂O). The remaining ions combine to form a salt. This neutralization process removes the acidic and basic properties, effectively canceling each other’s effects.",
+    "topic": "Neutralization Reactions",
+    "bloom_level": "Analyze"
+  },
+  {
+    "question_text": "Which of the following natural materials can be used as acid-base indicators? Select all that apply.",
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "options": [
+      "Red Cabbage Leaves",
+      "Turmeric",
+      "Hydrangea Petals",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Red cabbage leaves, turmeric, and colored petals of flowers like Hydrangea, Petunia, and Geranium are all natural materials that can act as acid-base indicators, changing color in the presence of acids or bases.",
+    "topic": "Natural Indicators",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "When litmus solution is added to a solution and no color change is observed, what does this indicate about the solution’s pH?",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The solution is neutral.",
+    "explanation": "Litmus solution remains purple when the solution is neither acidic nor basic, indicating a neutral pH.",
+    "topic": "Litmus Indicator",
+    "bloom_level": "Understand"
+  },
+  {
+    "question_text": "A solution turns blue litmus paper red. What type of solution is it, and what property does this illustrate?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "It is an acidic solution, illustrating the property that acids turn blue litmus paper red.",
+    "explanation": "Acids have the property of changing blue litmus paper to red, indicating their acidic nature.",
+    "topic": "Acid Properties",
+    "bloom_level": "Remember"
+  },
+  {
+    "question_text": "Match the indicator to its behavior in acidic and basic solutions: Litmus, Turmeric, Methyl Orange.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "Litmus turns red in acidic solutions and blue in basic solutions. Turmeric changes color from yellow to red in basic solutions. Methyl Orange turns red in acidic solutions and yellow in basic solutions.",
+    "explanation": "Litmus is a versatile indicator changing between red and blue based on pH. Turmeric specifically indicates bases by changing to red. Methyl orange has distinct color changes in both acidic and basic environments, making it a useful synthetic indicator.",
+    "topic": "Indicator Behavior",
+    "bloom_level": "Analyze"
+  }
+]

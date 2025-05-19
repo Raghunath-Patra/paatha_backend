@@ -1,0 +1,21 @@
+[
+  {
+    "question_text": "Which property of metals explains their shiny appearance when freshly cut or cleaned?",
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "options": [
+      "A. Ductility",
+      "B. Malleability",
+      "C. Metallic lustre",
+      "D. Sonority"
+    ],
+    "correct_answer": "C. Metallic lustre – Because metals in their pure or freshly cleaned state exhibit a shiny appearance.",
+    "explanation": "Freshly cut or cleaned metals reveal a bright surface called metallic lustre, characteristic of metals.",
+    "topic": "Physical properties of metals",
+    "bloom_level": "Remember",
+    "source": "generated",
+    "chapter_id": "jesc103",
+    "section_id": "02_section_3_1",
+    "question_id": "cbse_x_jesc1dd_c103_gen001"
+  }
+]

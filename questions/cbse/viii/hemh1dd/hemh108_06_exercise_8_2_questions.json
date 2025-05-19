@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "Find the product of the following pairs of monomials: (i) 4 and 7p, (ii) –4p and 7p, (iii) –4p and 7pq, (iv) 4p³ and –3p, (v) 4p and 0.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "(i) 4 × 7p = 28p; (ii) (–4p) × 7p = –28p²; (iii) (–4p) × 7pq = –28p²q; (iv) 4p³ × (–3p) = –12p⁴; (v) 4p × 0 = 0.",
+    "explanation": "For each pair, multiply the numerical coefficients and then the variable parts. (i) 4 × 7 = 28 and p remains as p, giving 28p. (ii) –4 × 7 = –28 and p × p = p², so –28p². (iii) –4 × 7 = –28 and p × p × q = p²q, so –28p²q. (iv) 4 × (–3) = –12 and p³ × p = p^(3+1) = p⁴, so –12p⁴. (v) Anything multiplied by 0 is 0.",
+    "topic": "Multiplication of Monomials",
+    "bloom_level": "Understand",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex008"
+  },
+  {
+    "question_text": "Find the areas of rectangles with the following pairs of monomials as their lengths and breadths respectively: (p, q); (10m, 5n); (20x², 5y²); (4x, 3x²); (3mn, 4np).",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Area answers: (p × q) = pq; (10m × 5n) = 50mn; (20x² × 5y²) = 100x²y²; (4x × 3x²) = 12x³; (3mn × 4np) = 12m n²p.",
+    "explanation": "To find the area of a rectangle, multiply the length by the breadth. Multiply the coefficients together and then the variables using the laws of exponents. For example, for (4x, 3x²): 4×3 = 12 and x × x² = x^(1+2) = x³. Similar steps apply to all pairs.",
+    "topic": "Multiplication of Algebraic Expressions (Area Calculation)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex009"
+  },
+  {
+    "question_text": "Complete the table of products between the following monomials. The first monomials (across the top) are: 2x, –5y, 3x², –4xy, 7x²y, –9x²y². The second monomials (down the side) are: 2x, –5y, 3x², –4xy, 7x²y, –9x²y².",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The completed table is:\n\n|               | 2x     | –5y    | 3x²    | –4xy    | 7x²y   | –9x²y²  |\n|---------------|--------|--------|--------|---------|--------|---------|\n| 2x            | 4x²    | –10xy  | 6x³    | –8x²y   | 14x³y  | –18x³y² |\n| –5y           | –10xy  | 25y²   | –15x²y| 20xy²   | –35x²y²| 45x²y³ |\n| 3x²           | 6x³    | –15x²y| 9x⁴    | –12x³y  | 21x⁴y  | –27x⁴y²|\n| –4xy          | –8x²y  | 20xy²  | –12x³y| 16x²y²  | –28x³y²| 36x³y³ |\n| 7x²y          | 14x³y  | –35x²y²| 21x⁴y | –28x³y² | 49x⁴y²| –63x⁴y³|\n| –9x²y²        | –18x³y²| 45x²y³| –27x⁴y²| 36x³y³  | –63x⁴y³| 81x⁴y⁴ |",
+    "explanation": "Each cell in the table is computed by multiplying the corresponding first monomial with the second monomial. Multiply the coefficients and add the exponents for like variables using the laws of exponents. For instance, multiplying (–5y) and (3x²) gives –5×3 = –15 for the coefficients and leaves the variables as x²y.",
+    "topic": "Multiplication of Monomials (Table of Products)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex010"
+  },
+  {
+    "question_text": "Obtain the volume of rectangular boxes with the following lengths, breadths, and heights respectively: (i) 5a, 3a², 7a⁴; (ii) 2p, 4q, 8r; (iii) xy, 2x²y, 2xy²; (iv) a, 2b, 3c.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) Volume = 5a × 3a² × 7a⁴ = 105a⁷; (ii) Volume = 2p × 4q × 8r = 64pqr; (iii) Volume = xy × 2x²y × 2xy² = 4x⁴y⁴; (iv) Volume = a × 2b × 3c = 6abc.",
+    "explanation": "Volume of a rectangular box is found by multiplying the length, breadth, and height. For (i), multiply the coefficients: 5×3×7 = 105 and add the exponents of a: 1+2+4 = 7, giving 105a⁷. The same process is followed for the other parts.",
+    "topic": "Multiplication of Algebraic Expressions (Volume Calculation)",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex011"
+  },
+  {
+    "question_text": "Obtain the product of the following sets of algebraic expressions: (i) xy, yz, zx; (ii) a, –a², a³; (iii) 2, 4y, 8y², 16y³; (iv) a, 2b, 3c, 6abc; (v) m, –mn, mnp.",
+    "type": "Short Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "(i) Product = xy × yz × zx = x²y²z²; (ii) Product = a × (–a²) × a³ = –a⁶; (iii) Product = 2 × 4y × 8y² × 16y³ = 1024y⁶; (iv) Product = a × 2b × 3c × 6abc = 36a²b²c²; (v) Product = m × (–mn) × (mnp) = –m³n²p.",
+    "explanation": "Multiply the coefficients and add the exponents of like variables. For (i), multiplying the variables: (x × y) × (y × z) × (z × x) results in x²y²z². For (ii), add exponents of a (1 + 2 + 3 = 6) and the negative sign is carried through. For (iii), multiply coefficients: 2×4×8×16 = 1024 and add the exponents of y (0+1+2+3 = 6). For (iv) and (v), apply the same procedure to combine coefficients and variables appropriately.",
+    "topic": "Multiplication of Multiple Monomials",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "hemh108",
+    "question_id": "cbse_viii_hemh1dd_c108_ex012"
+  }
+]

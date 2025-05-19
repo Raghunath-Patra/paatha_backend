@@ -1,0 +1,80 @@
+[
+  {
+    "question_text": "Two circles of radii 5 cm and 3 cm intersect at two points and the distance between their centres is 4 cm. Find the length of the common chord.",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "6 cm",
+    "explanation": "Let the circles have centres O and O' with radii R = 5 cm and r = 3 cm respectively, and let the distance O O' = 4 cm. The common chord is perpendicular to the line joining the centres and its midpoint lies on that line. For the circle with centre O, let the distance from O to the chord be d. Using the formula for a chord: (chord/2)^2 = R^2 – d^2. The distance d can be found by applying the formula d = (R^2 – r^2 + d^2_{centres})/(2*d_{centres}) = (25 – 9 + 16)/(2×4) = 32/8 = 4 cm. Then, the half-length of the chord is given by √(R^2 – d^2) = √(25 – 16) = √9 = 3 cm. Thus, the full chord length is 2 × 3 = 6 cm.",
+    "topic": "Circle Geometry – Common Chord and Perpendicular from Centre",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh109",
+    "question_id": "cbse_ix_iemh1dd_c109_ex003"
+  },
+  {
+    "question_text": "If two equal chords of a circle intersect within the circle, prove that the segments of one chord are equal to corresponding segments of the other chord.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "The proof shows that if two chords AB and CD are equal and intersect at E, then by using the chord intersection theorem (AE·EB = CE·ED) along with the fact that AB = CD (i.e. AE + EB = CE + ED), it follows that AE = ED and EB = CE, so the chords are bisected by their point of intersection.",
+    "explanation": "Let the two chords AB and CD, with AB = CD, intersect at point E. Then by the Intersecting Chords Theorem, we have: AE × EB = CE × ED. Also, since the chords are equal, AE + EB = CE + ED. These two relations imply that the pair of segments must be equal (because the only positive numbers whose sum is fixed and whose product is also fixed are equal). Hence, AE = ED and EB = CE. This shows that each chord is bisected by the intersection point and, consequently, the segments of one chord correspond exactly to the segments of the other chord.",
+    "topic": "Circle Geometry – Chord Properties and Intersecting Chords Theorem",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh109",
+    "question_id": "cbse_ix_iemh1dd_c109_ex004"
+  },
+  {
+    "question_text": "If two equal chords of a circle intersect within the circle, prove that the line joining the point of intersection to the centre makes equal angles with the chords.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The proof involves showing that since the equal chords are bisected by their point of intersection, the line joining the centre to the intersection point is the perpendicular bisector of each chord. Thus, it makes equal angles with the chords.",
+    "explanation": "Let chords AB and CD be equal and suppose they intersect at E. From the previous result, E is the midpoint of both chords. Now, draw the line OE joining the centre O of the circle to the intersection point E. Since in a circle the perpendicular from the centre to a chord bisects that chord (Theorem 9.3), and here we already know that E is the midpoint, it follows that OE must be perpendicular to both chords. Therefore, the angles between OE and each chord are equal (each being 90°) or, more generally, if OE were not at 90° because of the configuration, the symmetry of the situation (E being the mid‐point) implies that triangles OAE and ODE (and similarly on the other chord) are congruent, which forces the angles between OE and the chords to be equal.",
+    "topic": "Circle Geometry – Chord Bisection and Centre Properties",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh109",
+    "question_id": "cbse_ix_iemh1dd_c109_ex005"
+  },
+  {
+    "question_text": "If a line intersects two concentric circles (circles with the same centre) with centre O at A, B, C and D, prove that AB = CD.",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "By considering the two circles with the same centre O and the line intersecting them in the order A, B, C, D, one can show (often using coordinate geometry or symmetry arguments) that the chord segments cut off between the circles on the line are equal, i.e. AB = CD.",
+    "explanation": "Assume the two concentric circles have radii R (for the outer circle) and r (for the inner circle) with R > r. Let a line intersect the outer circle at A and D and the inner circle at B and C in the order A, B, C, D. Drop perpendiculars from the common centre O to the line; let the foot be L. Due to the symmetry of concentric circles, the distances from L to A and D are equal in magnitude (but opposite in direction) as are the distances from L to B and C. Consequently, the distance between B and C is symmetric with respect to L. A detailed calculation (or using the difference of the chord length formulas for a circle) shows that the portion of the line from A to B (which is the segment of the outer circle from A until the inner circle is met) is equal in length to the segment from C to D. Thus, AB = CD.",
+    "topic": "Circle Geometry – Concentric Circles and Chord Segments",
+    "bloom_level": "Analyze",
+    "source": "exercise",
+    "chapter_id": "iemh109",
+    "question_id": "cbse_ix_iemh1dd_c109_ex006"
+  },
+  {
+    "question_text": "Three girls Reshma, Salma and Mandip are playing a game by standing on a circle of radius 5 m drawn in a park. Reshma throws a ball to Salma, Salma to Mandip, Mandip to Reshma. If the distance between Reshma and Salma and between Salma and Mandip is 6 m each, what is the distance between Reshma and Mandip?",
+    "type": "Numerical",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "Approximately 9.57 m (exactly, if ΔRSM is inscribed in a circle of radius 5 m with two sides equal to 6 m, then by the Extended Law of Sines, the third side is 2×5×sin(106.26°) ≈ 9.57 m)",
+    "explanation": "Consider the circle of radius 5 m with points R, S, and M on its circumference. The chord RS (distance between Reshma and Salma) is 6 m and so is chord SM (distance between Salma and Mandip). Using the chord-to-central-angle relation, for a chord of length L in a circle of radius R, L = 2R sin(θ/2). For L = 6 m and R = 5 m, we have 6 = 10 sin(θ/2) which gives sin(θ/2) = 0.6 and θ/2 ≈ 36.87°, so the central angle corresponding to each chord is about 73.74°. In an inscribed triangle, the side lengths are related to the angles by the Extended Law of Sines: a/sin(A) = 2R. Here, the angles opposite the sides of length 6 m are 36.87° each; therefore, the third angle is 180° − 36.87° − 36.87° = 106.26°. The distance between Reshma and Mandip is the chord corresponding to the 106.26° angle, hence: RM = 2×5×sin(106.26°/2) where care must be taken since the inscribed angle and central angle have a relationship. Alternatively, using the Extended Law of Sines directly, RM = 2×5×sin(106.26°) ≈ 10×0.9569 ≈ 9.57 m.",
+    "topic": "Circle Geometry – Inscribed Triangles and Chord Lengths",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh109",
+    "question_id": "cbse_ix_iemh1dd_c109_ex007"
+  },
+  {
+    "question_text": "A circular park of radius 20 m is situated in a colony. Three boys Ankur, Syed and David are sitting at equal distance on its boundary, each having a toy telephone in his hands to talk to each other. Find the length of the string of each phone.",
+    "type": "Numerical",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "20√3 m",
+    "explanation": "The three boys sitting at equal distances on the circle's boundary form an inscribed equilateral triangle. In an equilateral triangle, the relationship between the side (s) and the circumradius (R) is: R = s/√3. Given R = 20 m, we have s = 20√3 m. Hence, the length of the string (equal to the side of the triangle) for each phone is 20√3 m.",
+    "topic": "Circle Geometry – Inscribed Equilateral Triangle",
+    "bloom_level": "Apply",
+    "source": "exercise",
+    "chapter_id": "iemh109",
+    "question_id": "cbse_ix_iemh1dd_c109_ex008"
+  }
+]

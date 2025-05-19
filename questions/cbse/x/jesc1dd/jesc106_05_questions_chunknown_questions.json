@@ -1,0 +1,67 @@
+[
+  {
+    "question_text": "What are plant hormones?",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Plant hormones, also known as phytohormones, are chemical compounds produced in small amounts by plants. They regulate various aspects of growth, development, and responses to environmental stimuli. They are usually synthesized in one part of the plant and then transported to other regions to exert their effects. Examples include auxins, gibberellins, cytokinins, abscisic acid, and ethylene.",
+    "explanation": "Plant hormones act as signaling molecules that control cell elongation, division, and differentiation. They enable plants to respond to changes in their environment, coordinate developmental processes, and regulate stress responses. Their mode of action typically involves binding to specific receptors and triggering a cascade of cellular events. This concept is central in understanding plant physiology and adaptation.",
+    "topic": "Plant Hormones",
+    "bloom_level": "Understand",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic006"
+  },
+  {
+    "question_text": "How is the movement of the leaves of the sensitive plant different from the movement of a shoot towards light?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "The movement of the leaves of the sensitive plant is rapid and does not involve growth, whereas the movement of a shoot towards light is slow and growth-dependent. In the sensitive plant, physical touch triggers a rapid change in cell turgidity (especially in the pulvinus region) causing the leaves to fold up (a nastic movement). In contrast, the shoot’s movement towards light (phototropism) involves the redistribution of the hormone auxin which causes differential cell elongation on the shaded side, resulting in a gradual bending towards the light.",
+    "explanation": "Sensitive plant movement (thigmonasty) occurs quickly due to rapid changes in water content within specialized cells, allowing an almost instantaneous response to touch. Conversely, phototropic movement in shoots is a growth-mediated process where auxin accumulates on the side away from the light. This differential growth leads the shoot to bend toward the light source over time. The explanation connects physiological processes (turgor changes vs. hormone-driven cell elongation) to observable movement responses in plants.",
+    "topic": "Plant Movements and Tropisms",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic007"
+  },
+  {
+    "question_text": "Give an example of a plant hormone that promotes growth.",
+    "type": "Short Answer",
+    "difficulty": "Easy",
+    "options": null,
+    "correct_answer": "Auxin is a prime example of a plant hormone that promotes growth by stimulating cell elongation. Additionally, gibberellins promote stem growth and cytokinins promote cell division.",
+    "explanation": "Auxin, predominantly produced in young shoot tips, plays a key role in cell elongation and directional (phototropic) responses in plants. Gibberellins and cytokinins are also involved in promoting different aspects of plant growth, such as stem extension and cell division, respectively. These hormones interplay to ensure proper growth and development according to environmental cues.",
+    "topic": "Plant Hormones",
+    "bloom_level": "Remember",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic008"
+  },
+  {
+    "question_text": "How do auxins promote the growth of a tendril around a support?",
+    "type": "Long Answer",
+    "difficulty": "Medium",
+    "options": null,
+    "correct_answer": "When a tendril contacts a support, auxin is redistributed so that it accumulates more on the side of the tendril that is not in contact with the support. This differential concentration of auxin causes cells on the non-contact side to elongate faster than those on the contact side, resulting in a bending of the tendril around the support, a process characteristic of thigmotropism.",
+    "explanation": "The process involves the perception of touch which initiates asymmetrical auxin transport. Auxin’s effect on cell elongation is concentration-dependent; higher concentrations promote longer cell expansion. With one side growing faster than the other, the tendril curves inward around the support. This mechanism illustrates how plants convert a mechanical stimulus into a directional growth response through hormonal regulation.",
+    "topic": "Plant Tropisms and Hormonal Regulation",
+    "bloom_level": "Analyze",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic009"
+  },
+  {
+    "question_text": "Design an experiment to demonstrate hydrotropism.",
+    "type": "Long Answer",
+    "difficulty": "Hard",
+    "options": null,
+    "correct_answer": "An experiment to demonstrate hydrotropism can be designed as follows: 1) Prepare a wire mesh trough and fill it with moist sawdust or soil. 2) Plant several germinating seeds (such as bean seeds) in the center of the trough. 3) Place a small porous clay pot filled with water at one end of the trough to create a localized high-moisture area. 4) To minimize phototropism, keep the trough in a uniformly lit environment or in darkness. 5) Observe the direction of root growth after a few days. The expected result is that the roots will bend toward the moist area, demonstrating positive hydrotropism.",
+    "explanation": "This experimental setup distinguishes hydrotropism from phototropism by controlling light conditions. By providing a higher concentration of water at one end of the trough, the moisture gradient is established. Roots, which are sensitive to moisture through hydrotropic responses, will grow preferentially toward the water source. This experiment exemplifies how controlled environmental conditions can isolate specific plant responses, reinforcing the role of plant hormones and directional growth in hydrotropism.",
+    "topic": "Plant Tropisms (Hydrotropism)",
+    "bloom_level": "Create",
+    "source": "in-chapter",
+    "chapter_id": "jesc106",
+    "question_id": "cbse_x_jesc1dd_c106_ic010"
+  }
+]
