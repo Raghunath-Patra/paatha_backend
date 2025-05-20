@@ -690,7 +690,7 @@ def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> 
 
     Question: "{question}"
     User's Answer: "{user_answer}"
-    Model's Answer: "{model_answer}"
+    Correct Answer: "{model_answer}"
 
     Instructions:
     1. First, determine the question type:
