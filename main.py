@@ -712,12 +712,19 @@ def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> 
        - Recognize valid alternative approaches
        - Be lenient about formatting or notation differences
        - If the user's answer is same as final answer of a question, then don't interpret it as incorrect answer directly, instead give partial marks
+    4. When grading any answer:
+        - Accept all equivalent answers (mathematical, scientific, or conceptual) unless a specific format is required (e.g., "simplify", "express in lowest terms", "write in p/q form where p and q are coprime")
+        - For math: Accept all mathematically equivalent forms with minimal deduction for lack of simplification
+        - For science: Accept equivalent terminology and alternative valid notations (chemical formulas, units, etc.)
+        - For language/humanities: Accept synonymous expressions and equivalent phrasings that preserve meaning
+        - For all subjects: Focus on the underlying concept rather than exact wording when specific phrasing isn't required
+        - Only deduct significant points when the answer demonstrates conceptual misunderstanding
+
+    5. If the user's answer is completely irrelevant or blank, assign 0/10
     
-    4. If the user's answer is completely irrelevant or blank, assign 0/10
+    6. Provide brief, encouraging feedback in the first person
     
-    5. Provide brief, encouraging feedback in the first person
-    
-    6. Suggest TWO specific follow-up questions to guide the student to improve their understanding
+    7. Suggest TWO specific follow-up questions to guide the student to improve their understanding
 
     Format your response exactly as follows:
     Score: [score]/10
