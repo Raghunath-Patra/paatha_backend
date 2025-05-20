@@ -706,22 +706,31 @@ def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> 
         - When comparing numerical values, ALWAYS check if they are mathematically equivalent or within acceptable margin of error
         - If explanation is not asked and you are expecting that then cut some marks but interpret that as a correct answer if it matches with the final answer
     
-    3. When grading any answer:
+    3. For all question types:
+        - Start from 10/10 and deduct points only for specific errors
+        - Give partial credit only for partially correct solutions, not for incorrect or irrelevant attempts.
+        - Recognize valid alternative approaches
+        - Be lenient about formatting or notation differences
+        - If the user's answer is same as final answer of a question, then don't interpret it as incorrect answer directly, instead give partial marks
+    4. When grading any answer:
         - Accept all equivalent answers (mathematical, scientific, or conceptual) unless a specific format is explicitly required (e.g., “simplify”, “express in lowest terms”, “write in p/q form where p and q are coprime”)
         For math:
             - If the user’s answer does not directly match the model answer, first try to simplify or evaluate it (e.g., parse 2^3 or 16/2 to get 8) before assigning a score
             - If the simplified form matches the correct answer, treat it as correct and award full or near-full credit (8–10/10) depending on format expectations
-            - Apply only minor deductions (4-5 points) if simplification or form was required but the interpreted expression is still mathematically correct
+            - Apply only minor deductions (3-4 points) if simplification or form was required but the interpreted expression is still mathematically correct
             - Do not penalize students heavily for using mathematically equivalent expressions in unsimplified or alternate forms unless a precise format is clearly required
         For science: Accept equivalent terminology, notations (e.g., symbols, units), and variations unless precise wording is demanded
         For conceptual or descriptive responses: Accept synonymous expressions that preserve meaning. Prioritize clear reasoning and understanding over exact wording
         Focus on interpreting the meaning and intent of the student’s response before concluding it is incorrect
 
-    4. If the user's answer is completely irrelevant or blank, assign 0/10
+    5. If the user's answer is completely irrelevant or blank, assign 0/10
+        - Only assign non-zero scores if the answer shows partial correctness or is mathematically or conceptually close to the correct answer
+        - If the answer is a completely incorrect operation (e.g., divides instead of exponentiates, or uses unrelated numbers), it should receive 0/10, even if the syntax is valid
+        - Do not assign points simply for making an attempt
     
-    5. Provide brief, encouraging feedback in the first person
+    6. Provide brief, encouraging feedback in the first person
     
-    6. Suggest TWO specific follow-up questions to guide the student to improve their understanding
+    7. Suggest TWO specific follow-up questions to guide the student to improve their understanding
 
     Format your response exactly as follows:
     Score: [score]/10
