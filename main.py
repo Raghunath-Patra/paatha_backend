@@ -693,41 +693,71 @@ def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> 
     Correct Answer: "{model_answer}"
 
     Instructions:
-    1. First, determine the question type:
-       "numerical": "- ANY mathematically equivalent form of the correct answer should receive FULL credit (e.g., 21/3 = 7 = 7.0)\n- For decimal approximations of irrational numbers (like π, √2, etc.), accept answers within a reasonable margin (±0.05 or 2% difference)\n- For example, if the answer is 2√2 ≈ 2.8284, accept answers like 2.82, 2.83, or even 2.8\n- Start with 10/10 for a mathematically correct answer, regardless of format\n- Only deduct points if the numerical value is incorrect beyond acceptable margins\n- If the question explicitly asks for exact form (e.g., 'leave in terms of π'), then check if the form is as requested\n- If no explanation is requested, a correct numerical answer alone deserves 10/10",
-        "conceptual": "- Focus on understanding of key concepts\n- Evaluate completeness and accuracy of the explanation\n- Recognize valid alternative ways of expressing the same concept\n- Look for demonstration of conceptual understanding rather than exact wording",
-        "problem-solving": "- Evaluate both method/approach and final answer\n- For numerical final answers, apply the same margin of error rules as numerical questions\n- Award partial credit for correct process even if final answer has errors\n- Recognize valid alternative solution methods\n- Consider clarity and logic of the problem-solving steps",
-        "descriptive": "- Evaluate completeness, accuracy and relevance of the explanation\n- Consider organization and clarity of ideas\n- Look for key points that should be included\n- Recognize valid alternative perspectives or explanations"
-    
-    2. For numerical questions:
-        - ANY mathematically equivalent form of the correct answer should receive FULL credit (e.g., 21/3 = 7 = 7.0)
-        - Only deduct points if the numerical value is incorrect
-        - If the question explicitly asks for explanation/working, then consider this in scoring
-        - When comparing numerical values, ALWAYS check if they are mathematically equivalent or within acceptable margin of error
-        - If explanation is not asked and you are expecting that then cut some marks but interpret that as a correct answer if it matches with the final answer
-    
-    3. For all question types:
-        - Start from 10/10 and deduct points only for specific errors
-        - Give partial credit only for partially correct solutions, not for incorrect or irrelevant attempts.
-        - Recognize valid alternative approaches
-        - Be lenient about formatting or notation differences
-        - If the user's answer is same as final answer of a question, then don't interpret it as incorrect answer directly, instead give partial marks
-    4. When grading any answer:
-        - Accept all equivalent answers (mathematical, scientific, or conceptual) unless a specific format is explicitly required (e.g., “simplify”, “express in lowest terms”, “write in p/q form where p and q are coprime”)
-        For math:
-            - If the user’s answer does not directly match the model answer, first try to simplify or evaluate it (e.g., parse 2^3 or 16/2 to get 8) before assigning a score
-            - If the simplified form matches the correct answer, treat it as correct and award full or near-full credit (8–10/10) depending on format expectations
-            - Apply only minor deductions (3-4 points) if simplification or form was required but the interpreted expression is still mathematically correct
-            - Do not penalize students heavily for using mathematically equivalent expressions in unsimplified or alternate forms unless a precise format is clearly required
-        For science: Accept equivalent terminology, notations (e.g., symbols, units), and variations unless precise wording is demanded
-        For conceptual or descriptive responses: Accept synonymous expressions that preserve meaning. Prioritize clear reasoning and understanding over exact wording
-        Focus on interpreting the meaning and intent of the student’s response before concluding it is incorrect
+    1. Determine the question type:
 
-    5. If the user's answer is completely irrelevant or blank, assign 0/10
-        - Only assign non-zero scores if the answer shows partial correctness or is mathematically or conceptually close to the correct answer
-        - If the answer is a completely incorrect operation (e.g., divides instead of exponentiates, or uses unrelated numbers), it should receive 0/10, even if the syntax is valid
-        - Do not assign points simply for making an attempt
-    
+        - "numerical":
+        - Accept any mathematically equivalent form of the correct answer (e.g., 21/3 = 7 = 7.0).
+        - For irrational numbers like π, √2, etc., accept reasonable approximations (±0.05 or within 2%).
+        - Start with 10/10 for a mathematically correct answer, even if not simplified.
+        - If exact form is explicitly requested (e.g., “leave in terms of π”), deduct points for wrong format.
+        - If only the correct number is requested (no explanation), a numerically correct answer alone earns full marks.
+
+        - "conceptual":
+        - Focus on understanding and accuracy of the explanation.
+        - Accept valid alternate wording or synonymous concepts.
+        - Evaluate based on clarity, completeness, and correctness.
+
+        - "problem-solving":
+        - Evaluate both the process/method and final result.
+        - Apply same rules as numerical questions for final answers.
+        - Award partial credit for correct steps even if the final answer is wrong.
+        - Accept alternate valid methods and logical reasoning.
+
+        - "descriptive":
+        - Judge on clarity, completeness, and correctness of the explanation.
+        - Accept alternative phrasing or perspectives that convey the correct ideas.
+        - Emphasize organization and understanding, not rigid format.
+
+    2. Always Simplify the User’s Answer First
+
+        - If the user's answer doesn’t match the expected answer exactly, attempt to simplify or evaluate it before grading.
+        - Examples: 2^3, 16/2, or √64 should be interpreted as 8.
+        - If simplification matches the correct answer, award full (10/10) or near-full (8–9/10) depending on whether format matters.
+        - Do not penalize for valid alternate formats unless the question explicitly asks for a particular form (like simplified fractions or radical form).
+
+    3. Matching and Equivalent Forms
+
+        - Accept:
+        - Equivalent mathematical expressions
+        - Correct answers with different valid notations (e.g., 7.0 instead of 7)
+        - Synonyms or alternate phrases in science or conceptual answers
+
+        - Only deduct points if:
+        - The mathematical value is incorrect
+        - The format is wrong when format is explicitly required
+        - The reasoning or explanation is incorrect or incomplete
+
+    4. Strict Rule for Incorrect or Irrelevant Answers
+
+        - If the answer is:
+        - Mathematically or conceptually incorrect
+        - Irrelevant to the question
+        - Blank or random guessing
+        
+        ➤ Assign 0/10.
+
+        - Do not award marks just for attempting or writing any answer blindly. Effort alone is not sufficient for credit.
+        - Only assign partial marks if the answer demonstrates partial understanding, correct steps, or closeness to the correct idea.
+
+    5. Summary of Scoring Approach
+
+        - Begin at 10/10, and deduct only for:
+        - Incorrect value or reasoning
+        - Required format not followed
+        - Missing explanation (if required)
+        - Simplify before scoring — parse and interpret expressions logically
+        - No credit for wrong or irrelevant answers, even if effort is shown
+            
     6. Provide brief, encouraging feedback in the first person
     
     7. Suggest TWO specific follow-up questions to guide the student to improve their understanding
