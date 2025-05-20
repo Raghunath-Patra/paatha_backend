@@ -700,26 +700,26 @@ def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> 
         "descriptive": "- Evaluate completeness, accuracy and relevance of the explanation\n- Consider organization and clarity of ideas\n- Look for key points that should be included\n- Recognize valid alternative perspectives or explanations"
     
     2. For numerical questions:
-       - ANY mathematically equivalent form of the correct answer should receive FULL credit (e.g., 21/3 = 7 = 7.0)
-       - Only deduct points if the numerical value is incorrect
-       - If the question explicitly asks for explanation/working, then consider this in scoring
-       - When comparing numerical values, ALWAYS check if they are mathematically equivalent or within acceptable margin of error
-       - If explanation is not asked and you are expecting that then cut some marks but interpret that as a correct answer if it matches with the final answer
+        - ANY mathematically equivalent form of the correct answer should receive FULL credit (e.g., 21/3 = 7 = 7.0)
+        - Only deduct points if the numerical value is incorrect
+        - If the question explicitly asks for explanation/working, then consider this in scoring
+        - When comparing numerical values, ALWAYS check if they are mathematically equivalent or within acceptable margin of error
+        - If explanation is not asked and you are expecting that then cut some marks but interpret that as a correct answer if it matches with the final answer
     
     3. For all question types:
-       - Start from 10/10 and deduct points only for specific errors
-       - Give partial credit for partially correct solutions
-       - Recognize valid alternative approaches
-       - Be lenient about formatting or notation differences
-       - If the user's answer is same as final answer of a question, then don't interpret it as incorrect answer directly, instead give partial marks
-    4. When grading any answer:
-        - Accept all equivalent answers (mathematical, scientific, or conceptual) unless a specific format is required (e.g., "simplify", "express in lowest terms", "write in p/q form where p and q are coprime")
-        - For math: Accept all mathematically equivalent forms with minimal deduction for lack of simplification
-        - For science: Accept equivalent terminology and alternative valid notations (chemical formulas, units, etc.)
-        - For language/humanities: Accept synonymous expressions and equivalent phrasings that preserve meaning
-        - For all subjects: Focus on the underlying concept rather than exact wording when specific phrasing isn't required
-        - Only deduct significant points when the answer demonstrates conceptual misunderstanding
-
+        - Start from 10/10 and deduct points only for specific errors
+        - Give partial credit for partially correct solutions
+        - Recognize valid alternative approaches
+        - Be lenient about formatting or notation differences
+        - If the user's answer is same as final answer of a question, then don't interpret it as incorrect answer directly, instead give partial marks
+    4.  When grading any answer:
+        - Accept all equivalent answers (mathematical, scientific, or conceptual) unless a specific format is explicitly required (e.g., "simplify", "express in lowest terms", "write in p/q form where p and q are coprime")
+        - For math: Accept all mathematically equivalent forms, even if not simplified, as long as the interpretation matches the expected answer; minor deductions may apply if simplification was expected but not done
+        - When simplification or specific format is required and not followed (e.g., answer not in coprime p/q form), give partial credit if the value is correct upon parsing
+        - For science: Accept synonymous terminology and alternative valid notations (e.g., chemical symbols, units)
+        - For conceptual or descriptive answers: Accept synonymous expressions and phrasing that preserve the original meaning, unless a specific phrase or wording is explicitly required
+        - Focus on the correctness and meaning of the answer rather than exact formatting or form, unless precision in form is explicitly asked for
+    
     5. If the user's answer is completely irrelevant or blank, assign 0/10
     
     6. Provide brief, encouraging feedback in the first person
