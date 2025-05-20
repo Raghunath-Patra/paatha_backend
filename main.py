@@ -758,6 +758,7 @@ def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> 
         - Missing explanation (if required)
         - Simplify before scoring — parse and interpret expressions logically
         - No credit for wrong or irrelevant answers, even if effort is shown
+        - After simplifying user's answer if it matches the correct solution then award partial marks
             
     4. Provide brief, encouraging feedback in the first person
     
