@@ -722,34 +722,35 @@ def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> 
 
         - If the user's answer doesn’t match the expected answer exactly, attempt to simplify or evaluate it before grading.
         - Examples: 2^3, 16/2, or √64 should be interpreted as 8.
+        - Try to get the correct answer from user's answer if simplification is possible 
         - If simplification matches the correct answer, award full (10/10) or near-full (8–9/10) depending on whether format matters.
         - Do not penalize for valid alternate formats unless the question explicitly asks for a particular form (like simplified fractions or radical form).
-
-    3. Matching and Equivalent Forms
-
-        - Accept:
-        - Equivalent mathematical expressions
-        - Correct answers with different valid notations (e.g., 7.0 instead of 7)
-        - Synonyms or alternate phrases in science or conceptual answers
-
-        - Only deduct points if:
-        - The mathematical value is incorrect
-        - The format is wrong when format is explicitly required
-        - The reasoning or explanation is incorrect or incomplete
-
-    4. Strict Rule for Incorrect or Irrelevant Answers
-
-        - If the answer is:
-        - Mathematically or conceptually incorrect
-        - Irrelevant to the question
-        - Blank or random guessing
         
-        ➤ Assign 0/10.
+        - Matching and Equivalent Forms
 
-        - Do not award marks just for attempting or writing any answer blindly. Effort alone is not sufficient for credit.
-        - Only assign partial marks if the answer demonstrates partial understanding, correct steps, or closeness to the correct idea.
+            - Accept:
+            - Equivalent mathematical expressions
+            - Correct answers with different valid notations (e.g., 7.0 instead of 7)
+            - Synonyms or alternate phrases in science or conceptual answers
 
-    5. Summary of Scoring Approach
+            - Only deduct points if:
+            - The mathematical value is incorrect
+            - The format is wrong when format is explicitly required
+            - The reasoning or explanation is incorrect or incomplete
+
+        - Strict Rule for Incorrect or Irrelevant Answers
+
+            - If the answer is:
+            - Mathematically or conceptually incorrect
+            - Irrelevant to the question
+            - Blank 
+            
+            ➤ Assign 0/10.
+
+            - Do not award marks just for attempting or writing any answer blindly. Effort alone is not sufficient for credit.
+            - Only assign partial marks if the answer demonstrates partial understanding, correct steps, or closeness to the correct idea.
+
+    3. Summary of Scoring Approach
 
         - Begin at 10/10, and deduct only for:
         - Incorrect value or reasoning
@@ -758,9 +759,9 @@ def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> 
         - Simplify before scoring — parse and interpret expressions logically
         - No credit for wrong or irrelevant answers, even if effort is shown
             
-    6. Provide brief, encouraging feedback in the first person
+    4. Provide brief, encouraging feedback in the first person
     
-    7. Suggest TWO specific follow-up questions to guide the student to improve their understanding
+    5. Suggest TWO specific follow-up questions to guide the student to improve their understanding
 
     Format your response exactly as follows:
     Score: [score]/10
