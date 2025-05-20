@@ -63,7 +63,7 @@ app.add_middleware(
         "http://localhost:3000/",  # Local development
         "http://0.0.0.0:3000/",  # Your frontend URL
         "http://0.0.0.0:3000"  # Your frontend URL
-        "https://paatha-copy.vercel.app/"
+        "https://paatha-copy.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
