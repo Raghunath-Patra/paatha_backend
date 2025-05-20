@@ -685,33 +685,39 @@ async def get_chapter_info(
         )
 
 
-def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> Tuple[str, dict]:
+def grade_answer_with_ai(user_answer: str, question: str, model_answer: str, question_type: str) -> Tuple[str, dict]:
     prompt = f"""
     Grade this answer for a secondary school student:
 
     Question: "{question}"
     User's Answer: "{user_answer}"
     Model's Answer: "{model_answer}"
+    Question Type: "{question_type}" (numerical/conceptual/problem-solving/descriptive)
 
     Instructions:
-    1. First, check if the user's answer is relevant and addresses the question at all. If it's completely irrelevant (e.g., some unrelated text or blank/empty content), assign 0/10 and say the answer does not attempt the question.
+    1. This is a {question_type} question. Use these specific grading criteria:
     
-    2. When grading, evaluate based on mathematical correctness and understanding of concepts, not on superficial matching with the model answer. Consider:
-       - Mathematical equivalence (even if expressions look different)
-       - Alternative valid solution methods
-       - Different notation or formatting that preserves correctness
-       - The presence of all key steps, even if presented differently
+       {
+        "numerical": "- ANY mathematically equivalent form of the correct answer should receive FULL credit (e.g., 21/3 = 7 = 7.0)\n- Start with 10/10 for a mathematically correct answer, regardless of format\n- Only deduct points if the numerical value is incorrect\n- If the question explicitly asks for explanation/working, then consider this in scoring\n- If no explanation is requested, a correct numerical answer alone deserves 10/10",
+        "conceptual": "- Focus on understanding of key concepts\n- Evaluate completeness and accuracy of the explanation\n- Recognize valid alternative ways of expressing the same concept\n- Look for demonstration of conceptual understanding rather than exact wording",
+        "problem-solving": "- Evaluate both method/approach and final answer\n- Award partial credit for correct process even if final answer has errors\n- Recognize valid alternative solution methods\n- Consider clarity and logic of the problem-solving steps",
+        "descriptive": "- Evaluate completeness, accuracy and relevance of the explanation\n- Consider organization and clarity of ideas\n- Look for key points that should be included\n- Recognize valid alternative perspectives or explanations"
+       }[question_type.lower()]
     
-    3. Assess how closely the user's answer demonstrates understanding of the core concepts:
-       - Assign a score out of 10 based on conceptual understanding and accuracy
-       - For scores 7 and above, be lenient about presentation differences
-       - Deduct marks only for actual conceptual or calculation errors
-       - For mathematical questions, focus on whether the reasoning is valid and the final answer is correct
+    2. For all question types:
+       - Start from 10/10 and deduct points only for specific errors
+       - Give partial credit for partially correct solutions
+       - Be lenient about formatting or notation differences
+       - Synonyms or different phrasing should not affect scoring
     
-    4. Provide brief, constructive feedback in the first person.
+    3. If the user's answer is completely irrelevant or blank, assign 0/10
     
-    5. Suggest TWO specific follow-up questions to guide the student to improve their understanding.
-
+    4. Provide brief, encouraging feedback in the first person
+    
+    5. Suggest TWO specific follow-up questions to guide the student to improve their understanding
+       - Ask them to think about the topic in a different way
+       - You can also ask them similar questions to reinforce their learning
+       
     Format your response exactly as follows:
     Score: [score]/10
     Feedback: [your feedback]
@@ -853,7 +859,8 @@ async def grade_answer(
             grading_result, grading_usage = grade_answer_with_ai(
                 combined_answer,
                 db_question.question_text,
-                db_question.correct_answer
+                db_question.correct_answer,
+                db_question.type
             )
 
             score, feedback, follow_up_questions = parse_grading_response(grading_result)
