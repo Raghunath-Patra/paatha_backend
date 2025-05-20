@@ -270,6 +270,8 @@ async def get_random_question(
         return question_data
                 
     except Exception as e:
+        db.rollback()
+        
         print(f"Detailed error getting random question: {str(e)}")
         import traceback
         print(traceback.format_exc())
