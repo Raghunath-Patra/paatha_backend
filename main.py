@@ -64,6 +64,7 @@ app.add_middleware(
         "http://0.0.0.0:3000/",  # Your frontend URL
         "http://0.0.0.0:3000",  # Your frontend URL
         "https://paatha-copy.vercel.app"
+
     ],
     allow_credentials=True,
     allow_methods=["*"],
@@ -270,8 +271,6 @@ async def get_random_question(
         return question_data
                 
     except Exception as e:
-        db.rollback()
-        
         print(f"Detailed error getting random question: {str(e)}")
         import traceback
         print(traceback.format_exc())
@@ -685,39 +684,41 @@ async def get_chapter_info(
         )
 
 
-def grade_answer_with_ai(user_answer: str, question: str, model_answer: str, question_type: str) -> Tuple[str, dict]:
+def grade_answer_with_ai(user_answer: str, question: str, model_answer: str) -> Tuple[str, dict]:
     prompt = f"""
     Grade this answer for a secondary school student:
 
     Question: "{question}"
     User's Answer: "{user_answer}"
     Model's Answer: "{model_answer}"
-    Question Type: "{question_type}" (numerical/conceptual/problem-solving/descriptive)
 
     Instructions:
-    1. This is a {question_type} question. Use these specific grading criteria:
-    
-       {
-        "numerical": "- ANY mathematically equivalent form of the correct answer should receive FULL credit (e.g., 21/3 = 7 = 7.0)\n- Start with 10/10 for a mathematically correct answer, regardless of format\n- Only deduct points if the numerical value is incorrect\n- If the question explicitly asks for explanation/working, then consider this in scoring\n- If no explanation is requested, a correct numerical answer alone deserves 10/10",
+    1. First, determine the question type:
+       "numerical": "- ANY mathematically equivalent form of the correct answer should receive FULL credit (e.g., 21/3 = 7 = 7.0)\n- For decimal approximations of irrational numbers (like π, √2, etc.), accept answers within a reasonable margin (±0.05 or 2% difference)\n- For example, if the answer is 2√2 ≈ 2.8284, accept answers like 2.82, 2.83, or even 2.8\n- Start with 10/10 for a mathematically correct answer, regardless of format\n- Only deduct points if the numerical value is incorrect beyond acceptable margins\n- If the question explicitly asks for exact form (e.g., 'leave in terms of π'), then check if the form is as requested\n- If no explanation is requested, a correct numerical answer alone deserves 10/10",
         "conceptual": "- Focus on understanding of key concepts\n- Evaluate completeness and accuracy of the explanation\n- Recognize valid alternative ways of expressing the same concept\n- Look for demonstration of conceptual understanding rather than exact wording",
-        "problem-solving": "- Evaluate both method/approach and final answer\n- Award partial credit for correct process even if final answer has errors\n- Recognize valid alternative solution methods\n- Consider clarity and logic of the problem-solving steps",
+        "problem-solving": "- Evaluate both method/approach and final answer\n- For numerical final answers, apply the same margin of error rules as numerical questions\n- Award partial credit for correct process even if final answer has errors\n- Recognize valid alternative solution methods\n- Consider clarity and logic of the problem-solving steps",
         "descriptive": "- Evaluate completeness, accuracy and relevance of the explanation\n- Consider organization and clarity of ideas\n- Look for key points that should be included\n- Recognize valid alternative perspectives or explanations"
-       }[question_type.lower()]
     
-    2. For all question types:
+    2. For numerical questions:
+       - ANY mathematically equivalent form of the correct answer should receive FULL credit (e.g., 21/3 = 7 = 7.0)
+       - Only deduct points if the numerical value is incorrect
+       - If the question explicitly asks for explanation/working, then consider this in scoring
+       - When comparing numerical values, ALWAYS check if they are mathematically equivalent or within acceptable margin of error
+       - If explanation is not asked and you are expecting that then cut some marks but interpret that as a correct answer if it matches with the final answer
+    
+    3. For all question types:
        - Start from 10/10 and deduct points only for specific errors
        - Give partial credit for partially correct solutions
+       - Recognize valid alternative approaches
        - Be lenient about formatting or notation differences
-       - Synonyms or different phrasing should not affect scoring
+       - If the user's answer is same as final answer of a question, then don't interpret it as incorrect answer directly, instead give partial marks
     
-    3. If the user's answer is completely irrelevant or blank, assign 0/10
+    4. If the user's answer is completely irrelevant or blank, assign 0/10
     
-    4. Provide brief, encouraging feedback in the first person
+    5. Provide brief, encouraging feedback in the first person
     
-    5. Suggest TWO specific follow-up questions to guide the student to improve their understanding
-       - Ask them to think about the topic in a different way
-       - You can also ask them similar questions to reinforce their learning
-       
+    6. Suggest TWO specific follow-up questions to guide the student to improve their understanding
+
     Format your response exactly as follows:
     Score: [score]/10
     Feedback: [your feedback]
@@ -859,8 +860,7 @@ async def grade_answer(
             grading_result, grading_usage = grade_answer_with_ai(
                 combined_answer,
                 db_question.question_text,
-                db_question.correct_answer,
-                db_question.type
+                db_question.correct_answer
             )
 
             score, feedback, follow_up_questions = parse_grading_response(grading_result)
