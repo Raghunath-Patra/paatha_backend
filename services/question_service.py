@@ -201,7 +201,7 @@ def check_question_limit(user_id: str, db: Session):
             "token_bonus": 0
         }
     
-def check_token_limits(user_id: str, db: Session):
+# def check_token_limits(user_id: str, db: Session):
     """
     Check a user's daily token limits
     Returns: dict with token usage information
@@ -362,6 +362,245 @@ def check_token_limits(user_id: str, db: Session):
             "output_remaining": 12000,
             "limit_reached": False,
             "questions_used_today": 15,
+            "plan_name": "free",
+            "display_name": "Free Plan",
+            "token_bonus": 0
+        }
+
+def check_token_limits(user_id: str, db: Session):
+    """
+    Check a user's daily token limits
+    Returns: dict with token usage information
+    """
+    try:
+        # Get current date in India timezone
+        try:
+            current_date = get_india_date()
+            logger.info(f"Checking token limits for user {user_id} with current date {current_date}")
+        except Exception as date_err:
+            logger.error(f"Error getting date: {date_err}")
+            current_date = datetime.now().date()  # Fallback to system date
+            
+        try:
+            # Get plan details
+            plan_name = subscription_service.get_user_subscription_plan_name(db, user_id)
+            plan = subscription_service.get_plan_details(db, plan_name)
+        except Exception as plan_err:
+            logger.error(f"Error getting plan details: {plan_err}")
+            plan_name = "free"
+            plan = {"daily_input_token_limit": 18000, "daily_output_token_limit": 12000, "display_name": "Free Plan"}
+            
+        try:
+            # Get current token usage
+            user_query = text("""
+                SELECT 
+                    questions_used_today,
+                    daily_input_tokens_used, 
+                    daily_output_tokens_used,
+                    tokens_reset_date,
+                    token_bonus
+                FROM subscription_user_data
+                WHERE user_id = :user_id
+            """)
+            
+            result = db.execute(user_query, {"user_id": user_id}).fetchone()
+            
+            if not result:
+                logger.info(f"No subscription data found for user {user_id}, creating new record")
+                
+                # First check if the user exists in the users table
+                user_exists_query = text("SELECT 1 FROM users WHERE id = :user_id")
+                user_exists = db.execute(user_exists_query, {"user_id": user_id}).fetchone() is not None
+                
+                if not user_exists:
+                    logger.warning(f"User {user_id} does not exist in users table")
+                    return {
+                        "input_limit": plan.get("daily_input_token_limit", 18000),
+                        "output_limit": plan.get("daily_output_token_limit", 12000),
+                        "input_used": 0,
+                        "output_used": 0,
+                        "input_remaining": plan.get("daily_input_token_limit", 18000),
+                        "output_remaining": plan.get("daily_output_token_limit", 12000),
+                        "limit_reached": False,
+                        "questions_used_today": 0,
+                        "plan_name": plan_name,
+                        "display_name": plan.get("display_name", "Free Plan"),
+                        "token_bonus": 0
+                    }
+                
+                # Get plan ID
+                plan_id_query = text("""
+                    SELECT id FROM subscription_plans WHERE name = :plan_name LIMIT 1
+                """)
+                plan_id_result = db.execute(plan_id_query, {"plan_name": plan_name}).fetchone()
+                
+                if not plan_id_result:
+                    logger.warning(f"Plan {plan_name} not found in subscription_plans table")
+                    # Try to get any plan ID
+                    plan_id_query = text("SELECT id FROM subscription_plans LIMIT 1")
+                    plan_id_result = db.execute(plan_id_query).fetchone()
+                    
+                    if not plan_id_result:
+                        logger.error("No subscription plans found in database")
+                        return {
+                            "input_limit": 18000,
+                            "output_limit": 12000,
+                            "input_used": 0,
+                            "output_used": 0,
+                            "input_remaining": 18000,
+                            "output_remaining": 12000,
+                            "limit_reached": False,
+                            "questions_used_today": 0,
+                            "plan_name": "free",
+                            "display_name": "Free Plan",
+                            "token_bonus": 0
+                        }
+                
+                plan_id = plan_id_result[0]
+                
+                # Create user subscription data if it doesn't exist
+                try:
+                    insert_query = text("""
+                        INSERT INTO subscription_user_data 
+                        (id, user_id, plan_id, questions_used_today, daily_input_tokens_used, 
+                         daily_output_tokens_used, tokens_reset_date, token_bonus)
+                        VALUES (gen_random_uuid(), :user_id, :plan_id, 0, 0, 0, :current_date, 0)
+                        ON CONFLICT (user_id) DO UPDATE SET
+                            tokens_reset_date = EXCLUDED.tokens_reset_date
+                        RETURNING questions_used_today, daily_input_tokens_used, daily_output_tokens_used, tokens_reset_date, token_bonus
+                    """)
+                    
+                    result = db.execute(insert_query, {
+                        "user_id": user_id, 
+                        "plan_id": plan_id,
+                        "current_date": current_date
+                    }).fetchone()
+                    db.commit()
+                    logger.info(f"Created new record with questions_used_today: {result.questions_used_today if result else 'None'}")
+                except Exception as insert_err:
+                    logger.error(f"Error creating subscription data: {insert_err}")
+                    logger.error(traceback.format_exc())
+                    db.rollback()
+                
+                # If still no result, fetch again
+                if not result:
+                    logger.info("Trying to fetch user data again after insertion")
+                    result = db.execute(user_query, {"user_id": user_id}).fetchone()
+                
+                # If absolutely no result, use defaults
+                if not result:
+                    logger.warning(f"Could not create or find subscription data for user {user_id}")
+                    return {
+                        "input_limit": plan.get("daily_input_token_limit", 18000),
+                        "output_limit": plan.get("daily_output_token_limit", 12000),
+                        "input_used": 0,
+                        "output_used": 0,
+                        "input_remaining": plan.get("daily_input_token_limit", 18000),
+                        "output_remaining": plan.get("daily_output_token_limit", 12000),
+                        "limit_reached": False,
+                        "questions_used_today": 0,
+                        "plan_name": plan_name,
+                        "display_name": plan.get("display_name", "Free Plan"),
+                        "token_bonus": 0
+                    }
+            
+            # Log the result to verify we're getting the correct data
+            logger.info(f"Found user data: questions_used_today={result.questions_used_today if hasattr(result, 'questions_used_today') else 'None'}, "
+                      f"tokens_reset_date={result.tokens_reset_date if hasattr(result, 'tokens_reset_date') else 'None'}")
+            
+            # Add token bonus to limits if present
+            token_bonus = result.token_bonus if hasattr(result, 'token_bonus') else 0
+            
+            # Get token usage
+            input_used = result.daily_input_tokens_used if hasattr(result, 'daily_input_tokens_used') else 0
+            output_used = result.daily_output_tokens_used if hasattr(result, 'daily_output_tokens_used') else 0
+            questions_used_today = result.questions_used_today if hasattr(result, 'questions_used_today') else 0
+            
+            # Handle None values
+            input_used = input_used or 0
+            output_used = output_used or 0
+            questions_used_today = questions_used_today or 0
+            
+            # Get limits and add bonus
+            input_limit = plan.get("daily_input_token_limit", 18000) + token_bonus
+            output_limit = plan.get("daily_output_token_limit", 12000) + token_bonus
+            
+            # Calculate remaining
+            input_remaining = max(0, input_limit - input_used)
+            output_remaining = max(0, output_limit - output_used)
+            
+            # Check if a reset is needed
+            tokens_reset_date = result.tokens_reset_date if hasattr(result, 'tokens_reset_date') else None
+            
+            if tokens_reset_date and tokens_reset_date < current_date:
+                logger.info(f"Resetting tokens for user {user_id} - reset_date {tokens_reset_date} < current_date {current_date}")
+                try:
+                    # Reset tokens if date has passed
+                    reset_query = text("""
+                        UPDATE subscription_user_data
+                        SET 
+                            daily_input_tokens_used = 0,
+                            daily_output_tokens_used = 0,
+                            questions_used_today = 0,
+                            tokens_reset_date = :current_date
+                        WHERE user_id = :user_id
+                        RETURNING questions_used_today
+                    """)
+                    
+                    reset_result = db.execute(reset_query, {"user_id": user_id, "current_date": current_date}).fetchone()
+                    db.commit()
+                    
+                    logger.info(f"After reset: questions_used_today={reset_result.questions_used_today if reset_result else 'None'}")
+                    
+                    # Reset values
+                    input_used = 0
+                    output_used = 0
+                    input_remaining = input_limit
+                    output_remaining = output_limit
+                    questions_used_today = 0
+                except Exception as reset_err:
+                    logger.error(f"Error resetting token usage: {reset_err}")
+                    # Continue with current values
+            
+            # Determine if limit is reached based on either input or output tokens
+            limit_reached = input_remaining <= 0 or output_remaining <= 0
+            
+            result_dict = {
+                "input_limit": input_limit,
+                "output_limit": output_limit,
+                "input_used": input_used,
+                "output_used": output_used,
+                "input_remaining": input_remaining,
+                "output_remaining": output_remaining,
+                "limit_reached": limit_reached,
+                "questions_used_today": questions_used_today,
+                "plan_name": plan_name,
+                "display_name": plan.get("display_name", "Free Plan"),
+                "token_bonus": token_bonus
+            }
+            
+            logger.info(f"Returning token limits with questions_used_today: {questions_used_today}")
+            return result_dict
+            
+        except Exception as query_err:
+            logger.error(f"Error querying user data: {query_err}")
+            logger.error(traceback.format_exc())
+            raise
+            
+    except Exception as e:
+        logger.error(f"Error checking token limits: {str(e)}")
+        logger.error(traceback.format_exc())
+        
+        # Return default values, but set questions_used_today to 0
+        return {
+            "input_limit": 18000,
+            "output_limit": 12000,
+            "input_used": 0,
+            "output_used": 0,
+            "input_remaining": 18000,
+            "output_remaining": 12000,
+            "limit_reached": False,
+            "questions_used_today": 20,  # Changed from 15 to 0-------------------
             "plan_name": "free",
             "display_name": "Free Plan",
             "token_bonus": 0
