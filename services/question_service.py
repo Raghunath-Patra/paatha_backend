@@ -514,7 +514,7 @@ def check_token_limits(user_id: str, db: Session):
             # Get token usage
             input_used = result.daily_input_tokens_used if hasattr(result, 'daily_input_tokens_used') else 0
             output_used = result.daily_output_tokens_used if hasattr(result, 'daily_output_tokens_used') else 0
-            questions_used_today = result.questions_used_today if hasattr(result, 'questions_used_today') else 0
+            questions_used_today = result.questions_used_today if hasattr(result, 'questions_used_today') else 111
             
             # Handle None values
             input_used = input_used or 0
@@ -557,7 +557,7 @@ def check_token_limits(user_id: str, db: Session):
                     output_used = 0
                     input_remaining = input_limit
                     output_remaining = output_limit
-                    questions_used_today = 0
+                    questions_used_today = 112
                 except Exception as reset_err:
                     logger.error(f"Error resetting token usage: {reset_err}")
                     # Continue with current values
