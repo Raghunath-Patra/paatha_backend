@@ -422,7 +422,7 @@ def check_token_limits(user_id: str, db: Session):
                         "input_remaining": plan.get("daily_input_token_limit", 18000),
                         "output_remaining": plan.get("daily_output_token_limit", 12000),
                         "limit_reached": False,
-                        "questions_used_today": 0,
+                        "questions_used_today": 30, # set it back to 0------------------------------------------------------------------------------------------
                         "plan_name": plan_name,
                         "display_name": plan.get("display_name", "Free Plan"),
                         "token_bonus": 0
@@ -450,7 +450,7 @@ def check_token_limits(user_id: str, db: Session):
                             "input_remaining": 18000,
                             "output_remaining": 12000,
                             "limit_reached": False,
-                            "questions_used_today": 0,
+                            "questions_used_today": 18, # set it back to 0------------------------------------------------------------------------------------------
                             "plan_name": "free",
                             "display_name": "Free Plan",
                             "token_bonus": 0
@@ -498,7 +498,7 @@ def check_token_limits(user_id: str, db: Session):
                         "input_remaining": plan.get("daily_input_token_limit", 18000),
                         "output_remaining": plan.get("daily_output_token_limit", 12000),
                         "limit_reached": False,
-                        "questions_used_today": 0,
+                        "questions_used_today": 13, # set it back to 0------------------------------------------------------------------------------------------
                         "plan_name": plan_name,
                         "display_name": plan.get("display_name", "Free Plan"),
                         "token_bonus": 0
