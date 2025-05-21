@@ -541,7 +541,7 @@ def check_token_limits(user_id: str, db: Session):
                         SET 
                             daily_input_tokens_used = 0,
                             daily_output_tokens_used = 0,
-                            questions_used_today = 0,
+                            questions_used_today = 113,
                             tokens_reset_date = :current_date
                         WHERE user_id = :user_id
                         RETURNING questions_used_today
