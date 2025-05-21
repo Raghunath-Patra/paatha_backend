@@ -464,7 +464,7 @@ def check_token_limits(user_id: str, db: Session):
                         INSERT INTO subscription_user_data 
                         (id, user_id, plan_id, questions_used_today, daily_input_tokens_used, 
                          daily_output_tokens_used, tokens_reset_date, token_bonus)
-                        VALUES (gen_random_uuid(), :user_id, :plan_id, 0, 0, 0, :current_date, 0)
+                        VALUES (gen_random_uuid(), :user_id, :plan_id, 117, 0, 0, :current_date, 0)
                         ON CONFLICT (user_id) DO UPDATE SET
                             tokens_reset_date = EXCLUDED.tokens_reset_date
                         RETURNING questions_used_today, daily_input_tokens_used, daily_output_tokens_used, tokens_reset_date, token_bonus
@@ -519,7 +519,7 @@ def check_token_limits(user_id: str, db: Session):
             # Handle None values
             input_used = input_used or 0
             output_used = output_used or 0
-            questions_used_today = questions_used_today or 0
+            questions_used_today = questions_used_today or 116
             
             # Get limits and add bonus
             input_limit = plan.get("daily_input_token_limit", 18000) + token_bonus
