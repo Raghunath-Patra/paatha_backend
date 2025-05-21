@@ -6,7 +6,7 @@ from sqlalchemy import text
 from config.database import get_db
 from config.security import get_current_user
 import logging
-from services.question_service import check_token_limits, check_question_token_limit
+from services.question_service import check_token_limits, check_question_token_limit, get_questions_used_today
 
 logger = logging.getLogger(__name__)
 
@@ -19,26 +19,32 @@ async def get_question_status(
 ):
     """Get the user's current token usage status"""
     try:
-        # Use the token-based approach
-        token_limits = check_token_limits(current_user['id'], db)
+        # Use the direct approach instead of check_token_limits
+        questions_used_today = get_questions_used_today(current_user['id'], db)
         
-        # Return token-based information
+        # Log what we're returning
+        logger.info(f"Returning questions_used_today = {questions_used_today} to frontend")
+        
+        # Return token-based information with defaults for everything except questions_used_today
         return {
-            "plan_name": token_limits["plan_name"],
-            "display_name": token_limits["display_name"],
-            "input_limit": token_limits["input_limit"],
-            "output_limit": token_limits["output_limit"],
-            "input_used": token_limits["input_used"],
-            "output_used": token_limits["output_used"],
-            "input_remaining": token_limits["input_remaining"],
-            "output_remaining": token_limits["output_remaining"],
-            "questions_used_today": token_limits["questions_used_today"],
-            "is_premium": token_limits["plan_name"] == "premium",
-            "limit_reached": token_limits["limit_reached"]
+            "plan_name": "free",
+            "display_name": "Free Plan",
+            "input_limit": 18000,
+            "output_limit": 12000,
+            "input_used": 0,
+            "output_used": 0,
+            "input_remaining": 18000,
+            "output_remaining": 12000,
+            "questions_used_today": questions_used_today,  # Use the value from our simple function
+            "is_premium": False,
+            "limit_reached": False
         }
         
     except Exception as e:
-        logger.error(f"Error getting token status: {str(e)}")
+        logger.error(f"Error getting question status: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        
         # For API stability, return sensible defaults rather than an error
         return {
             "plan_name": "free",
@@ -49,11 +55,10 @@ async def get_question_status(
             "output_used": 0,
             "input_remaining": 18000,
             "output_remaining": 12000,
-            "questions_used_today": 0,
+            "questions_used_today": 42,  # Different test value to identify this error path
             "is_premium": False,
             "limit_reached": False
         }
-
 
 @router.get("/user/token-status")
 async def get_token_status(
@@ -70,7 +75,7 @@ async def get_token_status(
         
         # If for some reason questions_used_today is None, set to 0
         if limits["questions_used_today"] is None:
-            limits["questions_used_today"] = 1 # set it back to 0--------------------------------------------------------------------------------------------------------
+            limits["questions_used_today"] = 1 # set it back to
         
         return {
             "input_limit": limits["input_limit"],

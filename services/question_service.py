@@ -59,7 +59,32 @@ def check_question_limit(user_id: str, db: Session):
             "is_premium": False,
             "limit_reached": False
         }
-    
+
+def get_questions_used_today(user_id: str, db: Session) -> int:
+    """
+    Simple function to directly get questions_used_today from database
+    """
+    try:
+        # Direct SQL query to get just the questions_used_today column
+        query = text("""
+            SELECT questions_used_today
+            FROM subscription_user_data
+            WHERE user_id = :user_id
+        """)
+        
+        result = db.execute(query, {"user_id": user_id}).fetchone()
+        
+        if result and hasattr(result, 'questions_used_today'):
+            # Log the value for debugging
+            questions_used = result.questions_used_today or 0
+            logger.info(f"Direct query found questions_used_today = {questions_used} for user {user_id}")
+            return questions_used
+        else:
+            logger.info(f"No questions_used_today record found for user {user_id}")
+            return 75  # Test value to verify this code path is hit
+    except Exception as e:
+        logger.error(f"Error getting questions_used_today: {str(e)}")
+        return 99  # Different test value to identify error path
     
 # def check_token_limits(user_id: str, db: Session):
     """
