@@ -70,7 +70,7 @@ async def get_token_status(
         
         # If for some reason questions_used_today is None, set to 0
         if limits["questions_used_today"] is None:
-            limits["questions_used_today"] = 1
+            limits["questions_used_today"] = 1 # set it back to 0--------------------------------------------------------------------------------------------------------
         
         return {
             "input_limit": limits["input_limit"],

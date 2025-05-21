@@ -274,7 +274,7 @@ def check_token_limits(user_id: str, db: Session):
                     "input_remaining": plan.get("daily_input_token_limit", 18000),
                     "output_remaining": plan.get("daily_output_token_limit", 12000),
                     "limit_reached": False,
-                    "questions_used_today": 0,
+                    "questions_used_today": 3,# # set it back to 0------------------------------------------------------------------------------------------
                     "plan_name": plan_name,
                     "display_name": plan.get("display_name", "Free Plan"),
                     "token_bonus": 0
