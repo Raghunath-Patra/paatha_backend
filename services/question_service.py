@@ -361,7 +361,7 @@ def check_token_limits(user_id: str, db: Session):
             "input_remaining": 18000,
             "output_remaining": 12000,
             "limit_reached": False,
-            "questions_used_today": 0,
+            "questions_used_today": 15,
             "plan_name": "free",
             "display_name": "Free Plan",
             "token_bonus": 0
