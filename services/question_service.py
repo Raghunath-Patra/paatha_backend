@@ -55,7 +55,7 @@ def check_question_limit(user_id: str, db: Session):
             "output_used": 0,
             "input_remaining": 18000,
             "output_remaining": 12000,
-            "questions_used_today": 0,
+            "questions_used_today": 11, # set it back to 0------------------------------------------------------------------------------------------
             "is_premium": False,
             "limit_reached": False
         }
