@@ -479,7 +479,7 @@ def check_token_limits(user_id: str, db: Session):
                     logger.info(f"Created new record with questions_used_today: {result.questions_used_today if result else 'None'}")
                 except Exception as insert_err:
                     logger.error(f"Error creating subscription data: {insert_err}")
-                    logger.error(traceback.format_exc())
+                    
                     db.rollback()
                 
                 # If still no result, fetch again
@@ -584,12 +584,12 @@ def check_token_limits(user_id: str, db: Session):
             
         except Exception as query_err:
             logger.error(f"Error querying user data: {query_err}")
-            logger.error(traceback.format_exc())
+            
             raise
             
     except Exception as e:
         logger.error(f"Error checking token limits: {str(e)}")
-        logger.error(traceback.format_exc())
+        
         
         # Return default values, but set questions_used_today to 0
         return {
