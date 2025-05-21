@@ -203,30 +203,68 @@ def check_token_limits(user_id: str, db: Session):
     
 def increment_question_usage(user_id: str, db: Session):
     """
-    Required function - now increments questions_used_today for display purposes only
-    Returns: bool indicating if token limit has been reached
+    Increment questions_used_today counter for the user
+    Returns: bool indicating if limit is reached
     """
     try:
-        # Check current token limits
-        token_limits = check_token_limits(user_id, db)
-        
-        # If already at limit, don't increment
-        if token_limits["limit_reached"]:
-            return True  # Limit reached
-            
-        # Increment questions_used_today for display purposes
-        update_query = text("""
-            UPDATE subscription_user_data
-            SET questions_used_today = COALESCE(questions_used_today, 0) + 1
+        # Check if user record exists first
+        check_query = text("""
+            SELECT id FROM subscription_user_data
             WHERE user_id = :user_id
         """)
         
-        db.execute(update_query, {"user_id": user_id})
-        db.commit()
+        exists = db.execute(check_query, {"user_id": user_id}).fetchone()
         
-        # Return whether token limit is reached
-        return token_limits["limit_reached"]
+        if not exists:
+            # Create new record if it doesn't exist
+            insert_query = text("""
+                INSERT INTO subscription_user_data 
+                (id, user_id, plan_id, questions_used_today, questions_used_this_month, 
+                 daily_input_tokens_used, daily_output_tokens_used, tokens_reset_date)
+                VALUES (gen_random_uuid(), :user_id, 
+                    (SELECT id FROM subscription_plans WHERE name = 'free' LIMIT 1),
+                    1, 1, 0, 0, :current_date)
+                RETURNING id
+            """)
             
+            result = db.execute(insert_query, {
+                "user_id": user_id,
+                "current_date": get_india_date()
+            }).fetchone()
+            
+            db.commit()
+            
+            # Check token limits
+            return check_token_limits(user_id, db)["limit_reached"]
+        else:
+            # Get current token limits
+            token_limits = check_token_limits(user_id, db)
+            
+            # If already at limit, don't increment
+            if token_limits["limit_reached"]:
+                return True  # Limit reached
+                
+            # Increment both daily and monthly counters
+            update_query = text("""
+                UPDATE subscription_user_data
+                SET 
+                    questions_used_today = COALESCE(questions_used_today, 0) + 1,
+                    questions_used_this_month = COALESCE(questions_used_this_month, 0) + 1
+                WHERE user_id = :user_id
+                RETURNING questions_used_today
+            """)
+            
+            result = db.execute(update_query, {"user_id": user_id}).fetchone()
+            db.commit()
+            
+            if result:
+                logger.info(f"Updated questions_used_today to {result.questions_used_today} for user {user_id}")
+            else:
+                logger.error(f"Failed to update question usage for user {user_id}")
+            
+            # Return whether token limit is reached
+            return token_limits["limit_reached"]
+                
     except Exception as e:
         logger.error(f"Error in increment_question_usage: {e}")
         db.rollback()

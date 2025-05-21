@@ -93,3 +93,45 @@ async def get_token_status(
             "plan_name": "free",
             "display_name": "Free Plan"
         }
+    
+@router.get("/debug/question-usage")
+async def debug_question_usage(
+    current_user: dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Debug endpoint to check question usage directly from DB"""
+    try:
+        query = text("""
+            SELECT 
+                questions_used_today,
+                questions_used_this_month,
+                daily_input_tokens_used,
+                daily_output_tokens_used,
+                tokens_reset_date,
+                token_bonus
+            FROM subscription_user_data
+            WHERE user_id = :user_id
+        """)
+        
+        result = db.execute(query, {"user_id": current_user['id']}).fetchone()
+        
+        if not result:
+            return {
+                "error": "No subscription data found for user",
+                "user_id": current_user['id']
+            }
+            
+        return {
+            "questions_used_today": result.questions_used_today,
+            "questions_used_this_month": result.questions_used_this_month,
+            "daily_input_tokens_used": result.daily_input_tokens_used,
+            "daily_output_tokens_used": result.daily_output_tokens_used,
+            "tokens_reset_date": result.tokens_reset_date.isoformat() if result.tokens_reset_date else None,
+            "token_bonus": result.token_bonus
+        }
+        
+    except Exception as e:
+        logger.error(f"Error in debug endpoint: {str(e)}")
+        return {
+            "error": str(e)
+        }
