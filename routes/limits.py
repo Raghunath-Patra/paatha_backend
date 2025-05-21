@@ -65,6 +65,13 @@ async def get_token_status(
         # Get token limit information
         limits = check_token_limits(current_user['id'], db)
         
+        # Log the value we're returning
+        logger.info(f"Token status endpoint returning questions_used_today: {limits['questions_used_today']}")
+        
+        # If for some reason questions_used_today is None, set to 0
+        if limits["questions_used_today"] is None:
+            limits["questions_used_today"] = 1
+        
         return {
             "input_limit": limits["input_limit"],
             "output_limit": limits["output_limit"],
@@ -80,6 +87,9 @@ async def get_token_status(
         
     except Exception as e:
         logger.error(f"Error getting detailed token status: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        
         # For API stability, return sensible defaults rather than an error
         return {
             "input_limit": 18000,
