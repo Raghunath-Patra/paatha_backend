@@ -60,6 +60,152 @@ def check_question_limit(user_id: str, db: Session):
             "limit_reached": False
         }
 
+def get_user_token_status(user_id: str, db: Session) -> dict:
+    """
+    Get all token usage information directly from the database
+    """
+    try:
+        # Direct SQL query to get all the needed fields
+        query = text("""
+            SELECT 
+                questions_used_today,
+                daily_input_tokens_used,
+                daily_output_tokens_used,
+                token_bonus,
+                su.plan_id,
+                sp.name as plan_name,
+                sp.display_name,
+                sp.daily_input_token_limit,
+                sp.daily_output_token_limit
+            FROM subscription_user_data su
+            LEFT JOIN subscription_plans sp ON su.plan_id = sp.id
+            WHERE su.user_id = :user_id
+        """)
+        
+        result = db.execute(query, {"user_id": user_id}).fetchone()
+        
+        if result:
+            # Get the values with fallbacks for NULL values
+            questions_used_today = result.questions_used_today or 0
+            input_used = result.daily_input_tokens_used or 0
+            output_used = result.daily_output_tokens_used or 0
+            token_bonus = result.token_bonus or 0
+            plan_name = result.plan_name or "free"
+            display_name = result.display_name or "Free Plan"
+            input_limit = result.daily_input_token_limit or 18000
+            output_limit = result.daily_output_token_limit or 12000
+            
+            # Add token bonus to limits
+            input_limit += token_bonus
+            output_limit += token_bonus
+            
+            # Calculate remaining
+            input_remaining = max(0, input_limit - input_used)
+            output_remaining = max(0, output_limit - output_used)
+            
+            # Determine if limit is reached
+            limit_reached = input_remaining <= 0 or output_remaining <= 0
+            
+            logger.info(f"Retrieved token status for user {user_id}: questions_used_today={questions_used_today}, plan={plan_name}")
+            
+            return {
+                "questions_used_today": questions_used_today,
+                "input_used": input_used,
+                "output_used": output_used,
+                "input_limit": input_limit,
+                "output_limit": output_limit,
+                "input_remaining": input_remaining,
+                "output_remaining": output_remaining,
+                "plan_name": plan_name,
+                "display_name": display_name,
+                "limit_reached": limit_reached,
+                "token_bonus": token_bonus,
+                "is_premium": plan_name == "premium"
+            }
+        else:
+            # No record found, try to create one with defaults
+            logger.info(f"No subscription data found for user {user_id}, will use defaults")
+            
+            # Get default plan
+            plan_query = text("""
+                SELECT id, name, display_name, daily_input_token_limit, daily_output_token_limit
+                FROM subscription_plans
+                WHERE name = 'free'
+                LIMIT 1
+            """)
+            
+            plan_result = db.execute(plan_query).fetchone()
+            
+            if plan_result:
+                # Use the found plan
+                plan_id = plan_result.id
+                plan_name = plan_result.name
+                display_name = plan_result.display_name
+                input_limit = plan_result.daily_input_token_limit
+                output_limit = plan_result.daily_output_token_limit
+            else:
+                # Fallback to hardcoded defaults
+                plan_id = None  # Will need to handle this when creating
+                plan_name = "free"
+                display_name = "Free Plan"
+                input_limit = 18000
+                output_limit = 12000
+            
+            # Try to insert a new record
+            try:
+                if plan_id:
+                    insert_query = text("""
+                        INSERT INTO subscription_user_data 
+                        (id, user_id, plan_id, questions_used_today, daily_input_tokens_used, 
+                         daily_output_tokens_used, tokens_reset_date, token_bonus)
+                        VALUES (gen_random_uuid(), :user_id, :plan_id, 0, 0, 0, CURRENT_DATE, 0)
+                        ON CONFLICT (user_id) DO NOTHING
+                    """)
+                    
+                    db.execute(insert_query, {
+                        "user_id": user_id,
+                        "plan_id": plan_id
+                    })
+                    db.commit()
+            except Exception as insert_err:
+                logger.error(f"Error creating subscription data: {insert_err}")
+                db.rollback()
+            
+            return {
+                "questions_used_today": 0,
+                "input_used": 0,
+                "output_used": 0,
+                "input_limit": input_limit,
+                "output_limit": output_limit,
+                "input_remaining": input_limit,
+                "output_remaining": output_limit,
+                "plan_name": plan_name,
+                "display_name": display_name,
+                "limit_reached": False,
+                "token_bonus": 0,
+                "is_premium": plan_name == "premium"
+            }
+    except Exception as e:
+        logger.error(f"Error getting user token status: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        
+        # Return default values
+        return {
+            "questions_used_today": 0,
+            "input_used": 0,
+            "output_used": 0,
+            "input_limit": 18000,
+            "output_limit": 12000,
+            "input_remaining": 18000,
+            "output_remaining": 12000,
+            "plan_name": "free",
+            "display_name": "Free Plan",
+            "limit_reached": False,
+            "token_bonus": 0,
+            "is_premium": False
+        }
+
 def get_questions_used_today(user_id: str, db: Session) -> int:
     """
     Simple function to directly get questions_used_today from database
