@@ -176,6 +176,7 @@ def get_subject_mapping(board: str, class_: str, subject: str) -> Tuple[str, str
         print(traceback.format_exc())
         return board, class_, subject
 
+
 @app.get("/api/questions/{board}/{class_}/{subject}/{chapter_num}/random")
 async def get_random_question(
     board: str, 
@@ -185,11 +186,13 @@ async def get_random_question(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
+    """OPTIMIZED: Get random question with efficient token checking"""
     try:
-        # Check token limits
-        token_limits = check_token_limits(current_user['id'], db)
+        # SINGLE TOKEN CHECK: Get comprehensive token status
+        token_status = get_user_token_status(current_user['id'], db)
         
-        if token_limits["limit_reached"]:
+        if token_status["limit_reached"]:
+            logger.info(f"User {current_user['id']} has reached token limit")
             raise HTTPException(
                 status_code=402, # Payment Required
                 detail=f"You've reached your daily token limit. Upgrade to Premium for more tokens."
@@ -202,9 +205,7 @@ async def get_random_question(
             subject.lower()
         )
         
-        print(f"Searching for random question with:")
-        print(f"Original request: {board}/{class_}/{subject}")
-        print(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        logger.info(f"Searching for random question: {actual_board}/{actual_class}/{actual_subject}/chapter-{chapter_num}")
         
         clean_board = actual_board
         clean_class = actual_class
@@ -227,7 +228,7 @@ async def get_random_question(
                 Question.chapter == clean_chapter
             ]
         
-        # First try the exact query
+        # Query for questions
         query = db.query(Question).filter(
             Question.board == clean_board,
             Question.class_level == clean_class,
@@ -235,9 +236,8 @@ async def get_random_question(
             or_(*chapter_conditions)
         )
         
-        # Check count before random selection to avoid empty results
         count = query.count()
-        print(f"Found {count} questions matching exact criteria")
+        logger.info(f"Found {count} questions matching criteria")
         
         if count > 0:
             question = query.order_by(func.random()).first()
@@ -249,18 +249,15 @@ async def get_random_question(
             )
             
             fallback_count = fallback_query.count()
-            print(f"Fallback query found {fallback_count} questions")
+            logger.info(f"Fallback query found {fallback_count} questions")
             
             if fallback_count > 0:
                 question = fallback_query.order_by(func.random()).first()
-                print(f"Using fallback question with ID: {question.id}")
             else:
-                # No questions found, return placeholder
-                print(f"No questions found for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}")
+                logger.warning(f"No questions found for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}")
                 return create_placeholder_question(clean_board, clean_class, clean_subject, clean_chapter)
         
-        # *** HERE IS THE IMPORTANT CHANGE: 
-        # Reset token usage for this question whenever it's loaded
+        # RESET QUESTION TOKENS: Reset token usage for this specific question
         check_question_token_limit(current_user['id'], str(question.id), db, reset_tokens=True)
         
         # Get statistics and prepare response
@@ -268,12 +265,15 @@ async def get_random_question(
         question_data = prepare_question_response(question, stats, clean_board, clean_class, clean_subject, clean_chapter)
         active_questions[str(question.id)] = question_data
         
+        logger.info(f"Successfully retrieved question {question.id} for user {current_user['id']}")
         return question_data
                 
+    except HTTPException as he:
+        raise he
     except Exception as e:
-        print(f"Detailed error getting random question: {str(e)}")
+        logger.error(f"Error getting random question: {str(e)}")
         import traceback
-        print(traceback.format_exc())
+        logger.error(traceback.format_exc())
         
         raise HTTPException(
             status_code=500,
@@ -290,7 +290,18 @@ async def get_specific_question(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
+    """OPTIMIZED: Get specific question with efficient token checking"""
     try:
+        # SINGLE TOKEN CHECK: Get comprehensive token status
+        token_status = get_user_token_status(current_user['id'], db)
+        
+        if token_status["limit_reached"]:
+            logger.info(f"User {current_user['id']} has reached token limit")
+            raise HTTPException(
+                status_code=402, # Payment Required
+                detail=f"You've reached your daily token limit. Upgrade to Premium for more tokens."
+            )
+        
         # Map to source board/class/subject for shared subjects
         actual_board, actual_class, actual_subject = get_subject_mapping(
             board.lower(), 
@@ -298,9 +309,7 @@ async def get_specific_question(
             subject.lower()
         )
         
-        print(f"Fetching specific question:")
-        print(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/q/{question_id}")
-        print(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        logger.info(f"Fetching specific question {question_id}: {actual_board}/{actual_class}/{actual_subject}/chapter-{chapter}")
         
         clean_chapter = chapter.replace('chapter-', '')
         
@@ -326,32 +335,30 @@ async def get_specific_question(
             Question.board == actual_board,
             Question.class_level == actual_class,
             Question.subject == actual_subject,
-            or_(*chapter_conditions)  # Use or_ for chapter conditions
+            or_(*chapter_conditions)
         ).first()
 
         if not question:
-            # First fallback: try with just the question ID and subject
-            print(f"Question not found with exact criteria, trying with just ID and subject")
+            # Fallback searches
+            logger.info(f"Question not found with exact criteria, trying fallbacks for {question_id}")
             question = db.query(Question).filter(
                 Question.id == question_id,
                 Question.subject == actual_subject
             ).first()
             
             if not question:
-                # Second fallback: try with just the question ID
-                print(f"Question not found with subject, trying with just ID")
                 question = db.query(Question).filter(
                     Question.id == question_id
                 ).first()
                 
                 if not question:
-                    print(f"Question not found with ID: {question_id}")
+                    logger.warning(f"Question not found with ID: {question_id}")
                     raise HTTPException(
                         status_code=404, 
                         detail="Question not found"
                     )
 
-        # Reset token usage for this question whenever it's loaded
+        # RESET QUESTION TOKENS: Reset token usage for this specific question when loaded
         check_question_token_limit(current_user['id'], question_id, db, reset_tokens=True)
 
         # Get statistics and prepare response
@@ -368,7 +375,9 @@ async def get_specific_question(
         # Store in active_questions for grading
         active_questions[str(question.id)] = question_data
         
-        return question_data 
+        logger.info(f"Successfully retrieved specific question {question_id} for user {current_user['id']}")
+        return question_data
+        
     except HTTPException as he:
         raise he
     except Exception as e:
@@ -380,6 +389,439 @@ async def get_specific_question(
             status_code=500,
             detail=f"Error retrieving question: {str(e)}"
         )
+
+@app.post("/api/grade")
+async def grade_answer(
+    answer: AnswerModel,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """OPTIMIZED: Grade answer with efficient token management"""
+    try:
+        # COMPREHENSIVE TOKEN CHECK: Get all token status in one call
+        token_status = get_user_token_status(current_user['id'], db)
+        
+        if token_status["limit_reached"]:
+            logger.info(f"User {current_user['id']} has reached daily token limit")
+            raise HTTPException(
+                status_code=402, # Payment Required
+                detail=f"You've reached your daily usage limit. Upgrade to Premium for more tokens."
+            )
+        
+        # Check question-specific token limits
+        question_limits = check_question_token_limit(
+            current_user['id'], 
+            answer.question_id,
+            db
+        )
+        
+        if question_limits["limit_reached"]:
+            logger.info(f"User {current_user['id']} has reached token limit for question {answer.question_id}")
+            raise HTTPException(
+                status_code=429, # Too Many Requests
+                detail="You've reached the usage limit for this question. Please move to another question."
+            )
+            
+        # Get question from database using UUID
+        try:
+            db_question = db.query(Question).filter(
+                Question.id == uuid.UUID(answer.question_id)
+            ).first()
+
+            if not db_question:
+                raise HTTPException(
+                    status_code=404,
+                    detail="Question not found. Please fetch a new question."
+                )
+
+        except ValueError:
+            raise HTTPException(
+                status_code=400,
+                detail="Invalid question ID format"
+            )
+        
+        # Process image if provided
+        transcribed_text = None
+        ocr_usage = {}
+        combined_answer = answer.answer
+        
+        if answer.image_data:
+            logger.info(f"Processing image for question {answer.question_id}")
+            transcribed_text, ocr_usage = image_service.process_image(answer.image_data)
+            if transcribed_text:
+                combined_answer = f"Typed part of the answer: {answer.answer}\n\nContent from image:\n{transcribed_text}"
+        
+        # Track input tokens
+        input_tokens = token_service.count_tokens(combined_answer)
+        input_tokens += ocr_usage.get('ocr_prompt_tokens', 0)
+        
+        # Get plan details for input validation
+        plan = subscription_service.get_plan_details(db, token_status["plan_name"])
+        input_limit = plan.get("input_tokens_per_question", 6000)
+        input_buffer = plan.get("input_token_buffer", 1000)
+
+        # Validate input length
+        is_valid, token_count = token_service.validate_input(
+            answer.answer, 
+            input_limit,
+            buffer=input_buffer
+        )
+        
+        if not is_valid:
+            logger.warning(f"Answer too long for user {current_user['id']}: {token_count} tokens")
+            raise HTTPException(
+                status_code=413, # Payload Too Large
+                detail=f"Your answer is too long. Please shorten it to stay within the usage limit."
+            )
+
+        # Grade the answer
+        follow_up_questions = []
+        
+        # MCQ questions - direct comparison
+        if db_question.type in ["MCQ", "True/False"]:
+            user_answer = str(combined_answer).strip()
+            correct_answer = str(db_question.correct_answer).strip()
+            
+            # Multiple comparison strategies
+            exact_match = user_answer == correct_answer
+            case_insensitive_match = user_answer.lower() == correct_answer.lower()
+            contains_match = correct_answer in user_answer or user_answer in correct_answer
+            
+            is_correct = exact_match or case_insensitive_match or contains_match
+            
+            score = 10.0 if is_correct else 0.0
+            feedback = "Correct!" if is_correct else f"Incorrect. The correct answer is: {correct_answer}"
+            
+            # No AI usage for MCQ
+            grading_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+            
+            logger.info(f"MCQ graded for user {current_user['id']}: score={score}")
+        else:
+            # Non-MCQ questions - use AI grading
+            logger.info(f"AI grading answer for user {current_user['id']}, question {answer.question_id}")
+            grading_result, grading_usage = grade_answer_with_ai(
+                combined_answer,
+                db_question.question_text,
+                db_question.correct_answer
+            )
+
+            score, feedback, follow_up_questions = parse_grading_response(grading_result)
+            logger.info(f"AI grading completed: score={score}")
+        
+        # Calculate output tokens
+        output_tokens = grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0)
+        output_tokens += ocr_usage.get('ocr_completion_tokens', 0)
+
+        # Create attempt record
+        user_attempt = UserAttempt(
+            user_id=current_user['id'],
+            question_id=db_question.id,
+            answer=answer.answer,
+            score=score,
+            feedback=feedback,
+            board=db_question.board,
+            class_level=db_question.class_level,
+            subject=db_question.subject,
+            chapter=normalize_chapter(db_question.chapter),
+            time_taken=getattr(answer, 'time_taken', None),
+            transcribed_text=transcribed_text,
+            combined_answer=combined_answer,
+            ocr_prompt_tokens=ocr_usage.get('ocr_prompt_tokens', 0),
+            ocr_completion_tokens=ocr_usage.get('ocr_completion_tokens', 0),
+            ocr_total_tokens=ocr_usage.get('ocr_total_tokens', 0),
+            grading_prompt_tokens=grading_usage.get('prompt_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.prompt_tokens if hasattr(grading_usage, 'prompt_tokens') else 0),
+            grading_completion_tokens=grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0),
+            grading_total_tokens=grading_usage.get('total_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.total_tokens if hasattr(grading_usage, 'total_tokens') else 0),
+            chat_prompt_tokens=0,
+            chat_completion_tokens=0,
+            chat_total_tokens=0,
+            total_prompt_tokens=(ocr_usage.get('ocr_prompt_tokens', 0) + 
+                                (grading_usage.get('prompt_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.prompt_tokens if hasattr(grading_usage, 'prompt_tokens') else 0))),
+            total_completion_tokens=(ocr_usage.get('ocr_completion_tokens', 0) + 
+                                    (grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0))),
+            total_tokens=(ocr_usage.get('ocr_total_tokens', 0) + 
+                        (grading_usage.get('total_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.total_tokens if hasattr(grading_usage, 'total_tokens') else 0))),
+            input_tokens_used=input_tokens,
+            output_tokens_used=output_tokens
+        )
+        
+        try:
+            db.add(user_attempt)
+            db.commit()
+            logger.info(f"Attempt record saved for user {current_user['id']}, question {answer.question_id}")
+        except Exception as db_err:
+            db.rollback()
+            logger.error(f"Error adding attempt record: {str(db_err)}")
+            raise HTTPException(
+                status_code=500,
+                detail="Error saving your answer. Please try again."
+            )
+            
+        # OPTIMIZED TOKEN UPDATES: Single call to increment question usage
+        try:
+            increment_question_usage(current_user['id'], db)
+            logger.info(f"Question usage incremented for user {current_user['id']}")
+        except Exception as usage_err:
+            logger.error(f"Error incrementing question usage: {str(usage_err)}")
+            
+        # OPTIMIZED TOKEN UPDATES: Single call to update token usage
+        try:
+            update_token_usage(
+                current_user['id'],
+                answer.question_id,
+                input_tokens,
+                output_tokens,
+                db
+            )
+            logger.info(f"Token usage updated for user {current_user['id']}: input={input_tokens}, output={output_tokens}")
+        except Exception as token_err:
+            logger.error(f"Error updating token usage: {str(token_err)}")
+        
+        # Get updated token status (single call)
+        updated_token_status = get_user_token_status(current_user['id'], db)
+        
+        # Prepare response
+        response_data = {
+            "score": score,
+            "feedback": feedback,
+            "model_answer": db_question.correct_answer,
+            "explanation": db_question.explanation,
+            "transcribed_text": transcribed_text,
+            "user_answer": answer.answer,
+            "follow_up_questions": follow_up_questions,
+            "plan_info": {
+                "plan_name": updated_token_status["plan_name"],
+                "display_name": updated_token_status["display_name"]
+            },
+            "token_info": {
+                "input_used": input_tokens,
+                "output_used": output_tokens,
+                "input_remaining": updated_token_status["input_remaining"],
+                "output_remaining": updated_token_status["output_remaining"],
+                "input_limit": updated_token_status["input_limit"],
+                "output_limit": updated_token_status["output_limit"]
+            }
+        }
+        
+        logger.info(f"Answer graded successfully for user {current_user['id']}: score={score}")
+        return response_data
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        db.rollback()
+        logger.error(f"Error in grade_answer: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        raise HTTPException(
+            status_code=500,
+            detail=str(e)
+        )
+
+# @app.get("/api/questions/{board}/{class_}/{subject}/{chapter_num}/random")
+# async def get_random_question(
+#     board: str, 
+#     class_: str, 
+#     subject: str, 
+#     chapter_num: str,
+#     current_user: Dict = Depends(get_current_user),
+#     db: Session = Depends(get_db)
+# ):
+#     try:
+#         # Check token limits
+#         token_limits = check_token_limits(current_user['id'], db)
+        
+#         if token_limits["limit_reached"]:
+#             raise HTTPException(
+#                 status_code=402, # Payment Required
+#                 detail=f"You've reached your daily token limit. Upgrade to Premium for more tokens."
+#             )
+        
+#         # Map to source board/class/subject for shared subjects
+#         actual_board, actual_class, actual_subject = get_subject_mapping(
+#             board.lower(), 
+#             class_.lower(), 
+#             subject.lower()
+#         )
+        
+#         print(f"Searching for random question with:")
+#         print(f"Original request: {board}/{class_}/{subject}")
+#         print(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        
+#         clean_board = actual_board
+#         clean_class = actual_class
+#         clean_subject = actual_subject.replace('-', '_')
+        # clean_chapter = chapter_num.replace('chapter-', '')
+        
+        # try:
+        #     chapter_int = int(clean_chapter)
+        #     base_chapter = chapter_int
+            
+        #     if chapter_int > 100:
+        #         base_chapter = chapter_int % 100
+            
+        #     chapter_conditions = [
+        #         Question.chapter == base_chapter,
+        #         Question.chapter == (100 + base_chapter)
+        #     ]
+        # except ValueError:
+        #     chapter_conditions = [
+        #         Question.chapter == clean_chapter
+        #     ]
+        
+        # # First try the exact query
+        # query = db.query(Question).filter(
+        #     Question.board == clean_board,
+        #     Question.class_level == clean_class,
+        #     Question.subject == clean_subject,
+        #     or_(*chapter_conditions)
+        # )
+        
+        # # Check count before random selection to avoid empty results
+        # count = query.count()
+        # print(f"Found {count} questions matching exact criteria")
+        
+        # if count > 0:
+        #     question = query.order_by(func.random()).first()
+        # else:
+        #     # Fallback: try just with subject and chapter
+        #     fallback_query = db.query(Question).filter(
+        #         Question.subject == clean_subject,
+        #         or_(*chapter_conditions)
+        #     )
+            
+        #     fallback_count = fallback_query.count()
+        #     print(f"Fallback query found {fallback_count} questions")
+            
+        #     if fallback_count > 0:
+        #         question = fallback_query.order_by(func.random()).first()
+        #         print(f"Using fallback question with ID: {question.id}")
+        #     else:
+        #         # No questions found, return placeholder
+        #         print(f"No questions found for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}")
+        #         return create_placeholder_question(clean_board, clean_class, clean_subject, clean_chapter)
+        
+        # # *** HERE IS THE IMPORTANT CHANGE: 
+        # # Reset token usage for this question whenever it's loaded
+        # check_question_token_limit(current_user['id'], str(question.id), db, reset_tokens=True)
+        
+        # # Get statistics and prepare response
+        # stats = get_question_statistics(db, question.id)
+        # question_data = prepare_question_response(question, stats, clean_board, clean_class, clean_subject, clean_chapter)
+        # active_questions[str(question.id)] = question_data
+        
+        # return question_data
+                
+    # except Exception as e:
+    #     print(f"Detailed error getting random question: {str(e)}")
+    #     import traceback
+    #     print(traceback.format_exc())
+        
+    #     raise HTTPException(
+    #         status_code=500,
+    #         detail=f"Error retrieving question: {str(e)}"
+    #     )
+    
+# @app.get("/api/questions/{board}/{class_}/{subject}/{chapter}/q/{question_id}") 
+# async def get_specific_question(
+#     board: str, 
+#     class_: str, 
+#     subject: str, 
+#     chapter: str,
+#     question_id: str,  # UUID
+#     current_user: Dict = Depends(get_current_user),
+#     db: Session = Depends(get_db)
+# ):
+#     try:
+#         # Map to source board/class/subject for shared subjects
+#         actual_board, actual_class, actual_subject = get_subject_mapping(
+#             board.lower(), 
+#             class_.lower(), 
+#             subject.lower()
+#         )
+        
+#         print(f"Fetching specific question:")
+#         print(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/q/{question_id}")
+#         print(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        
+#         clean_chapter = chapter.replace('chapter-', '')
+        
+#         try:
+#             chapter_int = int(clean_chapter)
+#             base_chapter = chapter_int
+            
+#             if chapter_int > 100:
+#                 base_chapter = chapter_int % 100
+            
+#             chapter_conditions = [
+#                 Question.chapter == base_chapter,
+#                 Question.chapter == (100 + base_chapter)
+        #     ]
+        # except ValueError:
+        #     chapter_conditions = [
+        #         Question.chapter == clean_chapter
+        #     ]
+
+        # # Find question by UUID with mapped subject
+        # question = db.query(Question).filter(
+        #     Question.id == question_id,
+        #     Question.board == actual_board,
+        #     Question.class_level == actual_class,
+        #     Question.subject == actual_subject,
+        #     or_(*chapter_conditions)  # Use or_ for chapter conditions
+        # ).first()
+
+        # if not question:
+        #     # First fallback: try with just the question ID and subject
+        #     print(f"Question not found with exact criteria, trying with just ID and subject")
+        #     question = db.query(Question).filter(
+        #         Question.id == question_id,
+        #         Question.subject == actual_subject
+        #     ).first()
+            
+        #     if not question:
+    #             # Second fallback: try with just the question ID
+    #             print(f"Question not found with subject, trying with just ID")
+    #             question = db.query(Question).filter(
+    #                 Question.id == question_id
+    #             ).first()
+                
+    #             if not question:
+    #                 print(f"Question not found with ID: {question_id}")
+    #                 raise HTTPException(
+    #                     status_code=404, 
+    #                     detail="Question not found"
+    #                 )
+
+    #     # Reset token usage for this question whenever it's loaded
+    #     check_question_token_limit(current_user['id'], question_id, db, reset_tokens=True)
+
+    #     # Get statistics and prepare response
+    #     stats = get_question_statistics(db, question.id)
+    #     question_data = prepare_question_response(
+    #         question, 
+    #         stats, 
+    #         actual_board, 
+    #         actual_class, 
+    #         actual_subject, 
+    #         clean_chapter
+    #     )
+        
+    #     # Store in active_questions for grading
+    #     active_questions[str(question.id)] = question_data
+        
+    #     return question_data 
+    # except HTTPException as he:
+    #     raise he
+    # except Exception as e:
+    #     logger.error(f"Error getting specific question: {str(e)}")
+    #     import traceback
+    #     logger.error(traceback.format_exc())
+        
+    #     raise HTTPException(
+    #         status_code=500,
+    #         detail=f"Error retrieving question: {str(e)}"
+    #     )
 
 def prepare_question_response(question, stats, board, class_level, subject, chapter):
     """Helper function to prepare question response data with improved category detection"""
@@ -793,229 +1235,229 @@ def normalize_chapter(chapter: int) -> int:
 
 
 
-@app.post("/api/grade")
-async def grade_answer(
-    answer: AnswerModel,
-    current_user: Dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Grade a user's answer using AI for short answers, direct comparison for MCQs"""
-    try:
-        # First check if user has reached daily usage limits
-        token_limits = check_token_limits(current_user['id'], db)
+# @app.post("/api/grade")
+# async def grade_answer(
+#     answer: AnswerModel,
+#     current_user: Dict = Depends(get_current_user),
+#     db: Session = Depends(get_db)
+# ):
+#     """Grade a user's answer using AI for short answers, direct comparison for MCQs"""
+#     try:
+#         # First check if user has reached daily usage limits
+#         token_limits = check_token_limits(current_user['id'], db)
         
-        if token_limits["limit_reached"]:
-            raise HTTPException(
-                status_code=402, # Payment Required
-                detail=f"You've reached your daily usage limit. Upgrade to Premium for more tokens."
-            )
+#         if token_limits["limit_reached"]:
+#             raise HTTPException(
+#                 status_code=402, # Payment Required
+#                 detail=f"You've reached your daily usage limit. Upgrade to Premium for more tokens."
+#             )
         
-        # Check if question-specific usage limit is reached
-        question_limits = check_question_token_limit(
-            current_user['id'], 
-            answer.question_id,
-            db
-        )
+#         # Check if question-specific usage limit is reached
+#         question_limits = check_question_token_limit(
+#             current_user['id'], 
+#             answer.question_id,
+#             db
+#         )
         
-        if question_limits["limit_reached"]:
-            raise HTTPException(
-                status_code=429, # Too Many Requests
-                detail="You've reached the usage limit for this question. Please move to another question."
-            )
+#         if question_limits["limit_reached"]:
+#             raise HTTPException(
+        #         status_code=429, # Too Many Requests
+        #         detail="You've reached the usage limit for this question. Please move to another question."
+        #     )
             
-        # Get question from database using UUID
-        try:
-            db_question = db.query(Question).filter(
-                Question.id == uuid.UUID(answer.question_id)
-            ).first()
+        # # Get question from database using UUID
+        # try:
+        #     db_question = db.query(Question).filter(
+        #         Question.id == uuid.UUID(answer.question_id)
+        #     ).first()
 
-            if not db_question:
-                raise HTTPException(
-                    status_code=404,
-                    detail="Question not found. Please fetch a new question."
-                )
+        #     if not db_question:
+        #         raise HTTPException(
+        #             status_code=404,
+        #             detail="Question not found. Please fetch a new question."
+        #         )
 
-        except ValueError:
-            raise HTTPException(
-                status_code=400,
-                detail="Invalid question ID format"
-            )
+        # except ValueError:
+        #     raise HTTPException(
+        #         status_code=400,
+        #         detail="Invalid question ID format"
+        #     )
         
-        # Process image if provided
-        transcribed_text = None
-        ocr_usage = {}
-        combined_answer = answer.answer
+        # # Process image if provided
+        # transcribed_text = None
+        # ocr_usage = {}
+        # combined_answer = answer.answer
         
-        if answer.image_data:
-            transcribed_text, ocr_usage = image_service.process_image(answer.image_data)
-            if transcribed_text:
-                combined_answer = f"Typed part of the answer: {answer.answer}\n\nContent from image:\n{transcribed_text}"
+        # if answer.image_data:
+        #     transcribed_text, ocr_usage = image_service.process_image(answer.image_data)
+        #     if transcribed_text:
+        #         combined_answer = f"Typed part of the answer: {answer.answer}\n\nContent from image:\n{transcribed_text}"
         
-        # Track input tokens
-        input_tokens = token_service.count_tokens(combined_answer)
-        input_tokens += ocr_usage.get('ocr_prompt_tokens', 0)
+        # # Track input tokens
+        # input_tokens = token_service.count_tokens(combined_answer)
+        # input_tokens += ocr_usage.get('ocr_prompt_tokens', 0)
         
-        # Get subscription data for usage limits
-        subscription = subscription_service.get_user_subscription_data(db, current_user['id'])
-        plan = subscription_service.get_plan_details(db, subscription.get("plan_name", "free"))
-        input_limit = plan.get("input_tokens_per_question", 6000)
+        # # Get subscription data for usage limits
+        # subscription = subscription_service.get_user_subscription_data(db, current_user['id'])
+        # plan = subscription_service.get_plan_details(db, subscription.get("plan_name", "free"))
+        # input_limit = plan.get("input_tokens_per_question", 6000)
         
-        # Get token buffer from the plan
-        input_buffer = plan.get("input_token_buffer", 1000)  # Default to 1000 if not set
+        # # Get token buffer from the plan
+        # input_buffer = plan.get("input_token_buffer", 1000)  # Default to 1000 if not set
 
-        # Validate with the configurable buffer
-        is_valid, token_count = token_service.validate_input(
-            answer.answer, 
-            input_limit,
-            buffer=input_buffer
-        )
+        # # Validate with the configurable buffer
+        # is_valid, token_count = token_service.validate_input(
+        #     answer.answer, 
+        #     input_limit,
+        #     buffer=input_buffer
+        # )
         
-        if not is_valid:
-            raise HTTPException(
-                status_code=413, # Payload Too Large
-                detail=f"Your answer is too long. Please shorten it to stay within the usage limit."
-            )
+        # if not is_valid:
+        #     raise HTTPException(
+        #         status_code=413, # Payload Too Large
+        #         detail=f"Your answer is too long. Please shorten it to stay within the usage limit."
+        #     )
 
-        # Different grading methods based on question type
-        follow_up_questions = []
+        # # Different grading methods based on question type
+        # follow_up_questions = []
         
-        # Direct grading for MCQ questions
-        if db_question.type in ["MCQ", "True/False"]:
+        # # Direct grading for MCQ questions
+        # if db_question.type in ["MCQ", "True/False"]:
 
-            # For MCQ, compare exactly with the correct answer
-            user_answer = str(combined_answer).strip()
-            correct_answer = str(db_question.correct_answer).strip()
+        #     # For MCQ, compare exactly with the correct answer
+        #     user_answer = str(combined_answer).strip()
+        #     correct_answer = str(db_question.correct_answer).strip()
             
-            # Try multiple comparison strategies
-            exact_match = user_answer == correct_answer
-            case_insensitive_match = user_answer.lower() == correct_answer.lower()
+        #     # Try multiple comparison strategies
+        #     exact_match = user_answer == correct_answer
+        #     case_insensitive_match = user_answer.lower() == correct_answer.lower()
             
-            # For cases where we have JSON or array format issues
-            contains_match = correct_answer in user_answer or user_answer in correct_answer
+        #     # For cases where we have JSON or array format issues
+        #     contains_match = correct_answer in user_answer or user_answer in correct_answer
             
-            is_correct = exact_match or case_insensitive_match or contains_match
+        #     is_correct = exact_match or case_insensitive_match or contains_match
             
-            score = 10.0 if is_correct else 0.0
-            feedback = "Correct!" if is_correct else f"Incorrect. The correct answer is: {correct_answer}"
+        #     score = 10.0 if is_correct else 0.0
+        #     feedback = "Correct!" if is_correct else f"Incorrect. The correct answer is: {correct_answer}"
             
-            # No AI usage for MCQ
-            grading_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
-        else:
-            # For non-MCQ questions, use AI grading
-            grading_result, grading_usage = grade_answer_with_ai(
-                combined_answer,
-                db_question.question_text,
-                db_question.correct_answer
-            )
+        #     # No AI usage for MCQ
+        #     grading_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+        # else:
+        #     # For non-MCQ questions, use AI grading
+        #     grading_result, grading_usage = grade_answer_with_ai(
+        #         combined_answer,
+        #         db_question.question_text,
+        #         db_question.correct_answer
+        #     )
 
-            score, feedback, follow_up_questions = parse_grading_response(grading_result)
+        #     score, feedback, follow_up_questions = parse_grading_response(grading_result)
         
-        # Track output tokens - only for non-MCQ questions
-        output_tokens = grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0)
-        output_tokens += ocr_usage.get('ocr_completion_tokens', 0)
+        # # Track output tokens - only for non-MCQ questions
+        # output_tokens = grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0)
+        # output_tokens += ocr_usage.get('ocr_completion_tokens', 0)
 
-        # Create attempt record
-        user_attempt = UserAttempt(
-            user_id=current_user['id'],
-            question_id=db_question.id,
-            answer=answer.answer,
-            score=score,
-            feedback=feedback,
-            board=db_question.board,
-            class_level=db_question.class_level,
-            subject=db_question.subject,
-            chapter=normalize_chapter(db_question.chapter),
-            time_taken=getattr(answer, 'time_taken', None),
-            transcribed_text=transcribed_text,  # This now includes both text and image descriptions
-            combined_answer=combined_answer,
-            ocr_prompt_tokens=ocr_usage.get('ocr_prompt_tokens', 0),
-            ocr_completion_tokens=ocr_usage.get('ocr_completion_tokens', 0),
-            ocr_total_tokens=ocr_usage.get('ocr_total_tokens', 0),
-            grading_prompt_tokens=grading_usage.get('prompt_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.prompt_tokens if hasattr(grading_usage, 'prompt_tokens') else 0),
-            grading_completion_tokens=grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0),
-            grading_total_tokens=grading_usage.get('total_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.total_tokens if hasattr(grading_usage, 'total_tokens') else 0),
-            chat_prompt_tokens=0,
-            chat_completion_tokens=0,
-            chat_total_tokens=0,
-            total_prompt_tokens=(ocr_usage.get('ocr_prompt_tokens', 0) + 
-                                (grading_usage.get('prompt_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.prompt_tokens if hasattr(grading_usage, 'prompt_tokens') else 0))),
-            total_completion_tokens=(ocr_usage.get('ocr_completion_tokens', 0) + 
-                                    (grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0))),
-            total_tokens=(ocr_usage.get('ocr_total_tokens', 0) + 
-                        (grading_usage.get('total_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.total_tokens if hasattr(grading_usage, 'total_tokens') else 0))),
-            input_tokens_used=input_tokens,
-            output_tokens_used=output_tokens
-        )
+        # # Create attempt record
+        # user_attempt = UserAttempt(
+        #     user_id=current_user['id'],
+        #     question_id=db_question.id,
+        #     answer=answer.answer,
+        #     score=score,
+        #     feedback=feedback,
+        #     board=db_question.board,
+        #     class_level=db_question.class_level,
+        #     subject=db_question.subject,
+        #     chapter=normalize_chapter(db_question.chapter),
+        #     time_taken=getattr(answer, 'time_taken', None),
+        #     transcribed_text=transcribed_text,  # This now includes both text and image descriptions
+        #     combined_answer=combined_answer,
+        #     ocr_prompt_tokens=ocr_usage.get('ocr_prompt_tokens', 0),
+        #     ocr_completion_tokens=ocr_usage.get('ocr_completion_tokens', 0),
+        #     ocr_total_tokens=ocr_usage.get('ocr_total_tokens', 0),
+        #     grading_prompt_tokens=grading_usage.get('prompt_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.prompt_tokens if hasattr(grading_usage, 'prompt_tokens') else 0),
+        #     grading_completion_tokens=grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0),
+        #     grading_total_tokens=grading_usage.get('total_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.total_tokens if hasattr(grading_usage, 'total_tokens') else 0),
+        #     chat_prompt_tokens=0,
+        #     chat_completion_tokens=0,
+        #     chat_total_tokens=0,
+        #     total_prompt_tokens=(ocr_usage.get('ocr_prompt_tokens', 0) + 
+        #                         (grading_usage.get('prompt_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.prompt_tokens if hasattr(grading_usage, 'prompt_tokens') else 0))),
+        #     total_completion_tokens=(ocr_usage.get('ocr_completion_tokens', 0) + 
+        #                             (grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0))),
+        #     total_tokens=(ocr_usage.get('ocr_total_tokens', 0) + 
+        #                 (grading_usage.get('total_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.total_tokens if hasattr(grading_usage, 'total_tokens') else 0))),
+        #     input_tokens_used=input_tokens,
+        #     output_tokens_used=output_tokens
+        # )
         
-        try:
-            db.add(user_attempt)
-            db.commit()
-        except Exception as db_err:
-            db.rollback()
-            logger.error(f"Error adding attempt record: {str(db_err)}")
-            raise HTTPException(
-                status_code=500,
-                detail="Error saving your answer. Please try again."
-            )
+        # try:
+        #     db.add(user_attempt)
+        #     db.commit()
+        # except Exception as db_err:
+        #     db.rollback()
+        #     logger.error(f"Error adding attempt record: {str(db_err)}")
+        #     raise HTTPException(
+        #         status_code=500,
+        #         detail="Error saving your answer. Please try again."
+        #     )
             
-        # Increment questions_used_today for display purposes
-        try:
-            increment_question_usage(current_user['id'], db)
-        except Exception as usage_err:
-            logger.error(f"Error incrementing question usage: {str(usage_err)}")
+        # # Increment questions_used_today for display purposes
+        # try:
+        #     increment_question_usage(current_user['id'], db)
+        # except Exception as usage_err:
+        #     logger.error(f"Error incrementing question usage: {str(usage_err)}")
             
-        # Update token usage
-        try:
-            update_token_usage(
-                current_user['id'],
-                answer.question_id,
-                input_tokens,
-                output_tokens,
-                db
-            )
-        except Exception as token_err:
-            logger.error(f"Error updating token usage: {str(token_err)}")
+        # # Update token usage
+        # try:
+        #     update_token_usage(
+        #         current_user['id'],
+        #         answer.question_id,
+        #         input_tokens,
+        #         output_tokens,
+        #         db
+        #     )
+        # except Exception as token_err:
+        #     logger.error(f"Error updating token usage: {str(token_err)}")
         
-        # Get updated token status
-        updated_token_limits = check_token_limits(current_user['id'], db)
+        # # Get updated token status
+        # updated_token_limits = check_token_limits(current_user['id'], db)
         
-        # Get plan features
-        plan = subscription_service.get_plan_details(db, updated_token_limits["plan_name"])
+        # # Get plan features
+        # plan = subscription_service.get_plan_details(db, updated_token_limits["plan_name"])
         
-        # Prepare response
-        response_data = {
-            "score": score,
-            "feedback": feedback,
-            "model_answer": db_question.correct_answer,
-            "explanation": db_question.explanation,
-            "transcribed_text": transcribed_text,  # This includes both text and image descriptions
-            "user_answer": answer.answer,
-            "follow_up_questions": follow_up_questions,
-            "plan_info": {
-                "plan_name": updated_token_limits["plan_name"],
-                "display_name": updated_token_limits["display_name"]
-            },
-            "token_info": {
-                "input_used": input_tokens,
-                "output_used": output_tokens,
-                "input_remaining": updated_token_limits["input_remaining"],
-                "output_remaining": updated_token_limits["output_remaining"],
-                "input_limit": updated_token_limits["input_limit"],
-                "output_limit": updated_token_limits["output_limit"]
-            }
-        }
+        # # Prepare response
+        # response_data = {
+        #     "score": score,
+        #     "feedback": feedback,
+        #     "model_answer": db_question.correct_answer,
+        #     "explanation": db_question.explanation,
+        #     "transcribed_text": transcribed_text,  # This includes both text and image descriptions
+        #     "user_answer": answer.answer,
+        #     "follow_up_questions": follow_up_questions,
+        #     "plan_info": {
+        #         "plan_name": updated_token_limits["plan_name"],
+        #         "display_name": updated_token_limits["display_name"]
+        #     },
+        #     "token_info": {
+        #         "input_used": input_tokens,
+        #         "output_used": output_tokens,
+        #         "input_remaining": updated_token_limits["input_remaining"],
+        #         "output_remaining": updated_token_limits["output_remaining"],
+        #         "input_limit": updated_token_limits["input_limit"],
+        #         "output_limit": updated_token_limits["output_limit"]
+        #     }
+        # }
         
-        return response_data
+    #     return response_data
         
-    except HTTPException as he:
-        raise he
-    except Exception as e:
-        db.rollback()
-        print(f"Error in grade_answer: {str(e)}")
-        raise HTTPException(
-            status_code=500,
-            detail=str(e)
-        )
+    # except HTTPException as he:
+    #     raise he
+    # except Exception as e:
+    #     db.rollback()
+    #     print(f"Error in grade_answer: {str(e)}")
+    #     raise HTTPException(
+    #         status_code=500,
+    #         detail=str(e)
+    #     )
 
 @app.get("/api/debug/file-paths")
 async def debug_file_paths(
