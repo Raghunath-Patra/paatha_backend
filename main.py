@@ -188,10 +188,10 @@ async def get_random_question(
 ):
     """OPTIMIZED: Get random question with efficient token checking"""
     try:
-        # SINGLE TOKEN CHECK: Get comprehensive token status
-        token_status = get_user_token_status(current_user['id'], db)
+        # SINGLE TOKEN CHECK using existing subscription service
+        token_limits = check_token_limits(current_user['id'], db)
         
-        if token_status["limit_reached"]:
+        if token_limits["limit_reached"]:
             logger.info(f"User {current_user['id']} has reached token limit")
             raise HTTPException(
                 status_code=402, # Payment Required
@@ -205,7 +205,9 @@ async def get_random_question(
             subject.lower()
         )
         
-        logger.info(f"Searching for random question: {actual_board}/{actual_class}/{actual_subject}/chapter-{chapter_num}")
+        logger.info(f"Searching for random question with:")
+        logger.info(f"Original request: {board}/{class_}/{subject}")
+        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
         
         clean_board = actual_board
         clean_class = actual_class
@@ -237,7 +239,7 @@ async def get_random_question(
         )
         
         count = query.count()
-        logger.info(f"Found {count} questions matching criteria")
+        logger.info(f"Found {count} questions matching exact criteria")
         
         if count > 0:
             question = query.order_by(func.random()).first()
@@ -253,11 +255,12 @@ async def get_random_question(
             
             if fallback_count > 0:
                 question = fallback_query.order_by(func.random()).first()
+                logger.info(f"Using fallback question with ID: {question.id}")
             else:
                 logger.warning(f"No questions found for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}")
                 return create_placeholder_question(clean_board, clean_class, clean_subject, clean_chapter)
         
-        # RESET QUESTION TOKENS: Reset token usage for this specific question
+        # Reset token usage for this question when loaded
         check_question_token_limit(current_user['id'], str(question.id), db, reset_tokens=True)
         
         # Get statistics and prepare response
@@ -280,6 +283,7 @@ async def get_random_question(
             detail=f"Error retrieving question: {str(e)}"
         )
     
+
 @app.get("/api/questions/{board}/{class_}/{subject}/{chapter}/q/{question_id}") 
 async def get_specific_question(
     board: str, 
@@ -292,10 +296,10 @@ async def get_specific_question(
 ):
     """OPTIMIZED: Get specific question with efficient token checking"""
     try:
-        # SINGLE TOKEN CHECK: Get comprehensive token status
-        token_status = get_user_token_status(current_user['id'], db)
+        # SINGLE TOKEN CHECK using existing subscription service
+        token_limits = check_token_limits(current_user['id'], db)
         
-        if token_status["limit_reached"]:
+        if token_limits["limit_reached"]:
             logger.info(f"User {current_user['id']} has reached token limit")
             raise HTTPException(
                 status_code=402, # Payment Required
@@ -309,7 +313,9 @@ async def get_specific_question(
             subject.lower()
         )
         
-        logger.info(f"Fetching specific question {question_id}: {actual_board}/{actual_class}/{actual_subject}/chapter-{chapter}")
+        logger.info(f"Fetching specific question:")
+        logger.info(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/q/{question_id}")
+        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
         
         clean_chapter = chapter.replace('chapter-', '')
         
@@ -358,7 +364,7 @@ async def get_specific_question(
                         detail="Question not found"
                     )
 
-        # RESET QUESTION TOKENS: Reset token usage for this specific question when loaded
+        # Reset token usage for this question when loaded
         check_question_token_limit(current_user['id'], question_id, db, reset_tokens=True)
 
         # Get statistics and prepare response
@@ -390,6 +396,7 @@ async def get_specific_question(
             detail=f"Error retrieving question: {str(e)}"
         )
 
+
 @app.post("/api/grade")
 async def grade_answer(
     answer: AnswerModel,
@@ -398,17 +405,17 @@ async def grade_answer(
 ):
     """OPTIMIZED: Grade answer with efficient token management"""
     try:
-        # COMPREHENSIVE TOKEN CHECK: Get all token status in one call
-        token_status = get_user_token_status(current_user['id'], db)
+        # SINGLE TOKEN CHECK using existing subscription service
+        token_limits = check_token_limits(current_user['id'], db)
         
-        if token_status["limit_reached"]:
+        if token_limits["limit_reached"]:
             logger.info(f"User {current_user['id']} has reached daily token limit")
             raise HTTPException(
                 status_code=402, # Payment Required
                 detail=f"You've reached your daily usage limit. Upgrade to Premium for more tokens."
             )
         
-        # Check question-specific token limits
+        # Check if question-specific usage limit is reached
         question_limits = check_question_token_limit(
             current_user['id'], 
             answer.question_id,
@@ -455,8 +462,9 @@ async def grade_answer(
         input_tokens = token_service.count_tokens(combined_answer)
         input_tokens += ocr_usage.get('ocr_prompt_tokens', 0)
         
-        # Get plan details for input validation
-        plan = subscription_service.get_plan_details(db, token_status["plan_name"])
+        # Get subscription data for usage limits using existing service
+        subscription = subscription_service.get_user_subscription_data(db, current_user['id'])
+        plan = subscription_service.get_plan_details(db, subscription.get("plan_name", "free"))
         input_limit = plan.get("input_tokens_per_question", 6000)
         input_buffer = plan.get("input_token_buffer", 1000)
 
@@ -557,14 +565,14 @@ async def grade_answer(
                 detail="Error saving your answer. Please try again."
             )
             
-        # OPTIMIZED TOKEN UPDATES: Single call to increment question usage
+        # Increment questions_used_today for display purposes
         try:
             increment_question_usage(current_user['id'], db)
             logger.info(f"Question usage incremented for user {current_user['id']}")
         except Exception as usage_err:
             logger.error(f"Error incrementing question usage: {str(usage_err)}")
             
-        # OPTIMIZED TOKEN UPDATES: Single call to update token usage
+        # Update token usage
         try:
             update_token_usage(
                 current_user['id'],
@@ -577,8 +585,8 @@ async def grade_answer(
         except Exception as token_err:
             logger.error(f"Error updating token usage: {str(token_err)}")
         
-        # Get updated token status (single call)
-        updated_token_status = get_user_token_status(current_user['id'], db)
+        # Get updated token status using optimized function
+        updated_token_limits = check_token_limits(current_user['id'], db)
         
         # Prepare response
         response_data = {
@@ -590,16 +598,16 @@ async def grade_answer(
             "user_answer": answer.answer,
             "follow_up_questions": follow_up_questions,
             "plan_info": {
-                "plan_name": updated_token_status["plan_name"],
-                "display_name": updated_token_status["display_name"]
+                "plan_name": updated_token_limits["plan_name"],
+                "display_name": updated_token_limits["display_name"]
             },
             "token_info": {
                 "input_used": input_tokens,
                 "output_used": output_tokens,
-                "input_remaining": updated_token_status["input_remaining"],
-                "output_remaining": updated_token_status["output_remaining"],
-                "input_limit": updated_token_status["input_limit"],
-                "output_limit": updated_token_status["output_limit"]
+                "input_remaining": updated_token_limits["input_remaining"],
+                "output_remaining": updated_token_limits["output_remaining"],
+                "input_limit": updated_token_limits["input_limit"],
+                "output_limit": updated_token_limits["output_limit"]
             }
         }
         

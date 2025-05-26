@@ -1,4 +1,4 @@
-# File: backend/routes/limits.py - Optimized Version
+# File: backend/routes/limits.py - Final Version with subscription_service
 
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
@@ -19,10 +19,11 @@ async def get_question_status(
 ):
     """
     Get the user's current token usage status and question information.
-    This is the main endpoint used by frontend for all token-related data.
+    This is the MAIN endpoint used by frontend for all token-related data.
+    Uses optimized get_user_token_status() which calls subscription_service internally.
     """
     try:
-        # Use the optimized function to get all token status info
+        # Use the optimized function that calls subscription_service.check_daily_token_limits()
         status = get_user_token_status(current_user['id'], db)
         
         # Log what we're returning for debugging

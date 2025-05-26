@@ -1,4 +1,4 @@
-# backend/routes/chat.py - OPTIMIZED VERSION
+# backend/routes/chat.py - Final Version with subscription_service
 
 from fastapi import APIRouter, Depends, HTTPException, Body, status
 from sqlalchemy.orm import Session
@@ -9,7 +9,7 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 import uuid
-from services.question_service import get_user_token_status, check_question_token_limit, update_token_usage
+from services.question_service import check_token_limits, check_question_token_limit, update_token_usage
 from services.token_service import token_service
 import logging
 
@@ -25,7 +25,7 @@ async def follow_up_question(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """OPTIMIZED: API endpoint for follow-up questions after feedback"""
+    """API endpoint for follow-up questions after feedback - Works with subscription_service"""
     try:
         # Extract question ID if available
         question_id = chat_data.get("question_id")
@@ -34,14 +34,14 @@ async def follow_up_question(
         # Initial request for suggestions should not count against the limit
         initial_request = not follow_up_question or follow_up_question.strip() == ""
         
-        # SINGLE TOKEN CHECK: Get comprehensive token status
-        token_status = get_user_token_status(current_user['id'], db)
+        # Check overall daily token limits using optimized function
+        token_limits = check_token_limits(current_user['id'], db)
         
-        if token_status["limit_reached"] and not initial_request:
+        if token_limits["limit_reached"] and not initial_request:
             logger.info(f"User {current_user['id']} has reached daily token limit for follow-up")
             return {
                 "message": "You've reached your daily token limit.",
-                "limit_info": token_status,
+                "limit_info": token_limits,
                 "success": False,
                 "limit_reached": True
             }
@@ -148,7 +148,7 @@ Generate two short, specific follow-up questions focusing on the key concepts. E
                 ]
                         
             # Get current token limits after suggestion generation
-            current_limits = get_user_token_status(current_user['id'], db)
+            current_limits = check_token_limits(current_user['id'], db)
             
             return {
                 "response": "",  # No actual response for initial suggestions request
@@ -258,7 +258,7 @@ Your answer here.
             if question_id:
                 updated_limits = check_question_token_limit(current_user['id'], question_id, db)
             else:
-                updated_limits = get_user_token_status(current_user['id'], db)
+                updated_limits = check_token_limits(current_user['id'], db)
             
             return {
                 "response": answer_part,
