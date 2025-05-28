@@ -1,4 +1,4 @@
-# backend/routes/chat.py - Final Version with subscription_service
+# backend/routes/chat.py - Updated to use consolidated service
 
 from fastapi import APIRouter, Depends, HTTPException, Body, status
 from sqlalchemy.orm import Session
@@ -9,7 +9,8 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 import uuid
-from services.question_service import check_token_limits, check_question_token_limit, update_token_usage
+from services.consolidated_user_service import consolidated_service
+from services.question_service import check_question_token_limit
 from services.token_service import token_service
 import logging
 
@@ -25,7 +26,7 @@ async def follow_up_question(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """API endpoint for follow-up questions after feedback - Works with subscription_service"""
+    """OPTIMIZED: Follow-up questions using consolidated service"""
     try:
         # Extract question ID if available
         question_id = chat_data.get("question_id")
@@ -34,22 +35,30 @@ async def follow_up_question(
         # Initial request for suggestions should not count against the limit
         initial_request = not follow_up_question or follow_up_question.strip() == ""
         
-        # Check overall daily token limits using optimized function
-        token_limits = check_token_limits(current_user['id'], db)
+        # SINGLE COMPREHENSIVE STATUS CHECK
+        user_status = consolidated_service.get_comprehensive_user_status(current_user['id'], db)
         
-        if token_limits["limit_reached"] and not initial_request:
-            logger.info(f"User {current_user['id']} has reached daily token limit for follow-up")
-            return {
-                "message": "You've reached your daily token limit.",
-                "limit_info": token_limits,
-                "success": False,
-                "limit_reached": True
-            }
+        # Check if user can perform follow-up chat
+        if not initial_request:
+            permission_check = consolidated_service.check_can_perform_action(user_status, "follow_up_chat")
+            
+            if not permission_check["allowed"]:
+                logger.info(f"User {current_user['id']} cannot perform follow-up: {permission_check['reason']}")
+                return {
+                    "message": permission_check["reason"],
+                    "limit_info": {
+                        "input_remaining": user_status["input_remaining"],
+                        "output_remaining": user_status["output_remaining"],
+                        "limit_reached": user_status["limit_reached"]
+                    },
+                    "success": False,
+                    "limit_reached": True
+                }
         
         # Check token limits for this specific question if question_id is provided
-        if question_id:
+        if question_id and not initial_request:
             question_limits = check_question_token_limit(current_user['id'], question_id, db)
-            if question_limits["limit_reached"] and not initial_request:
+            if question_limits["limit_reached"]:
                 logger.info(f"User {current_user['id']} has reached token limit for question {question_id}")
                 return {
                     "message": "You've reached the token limit for this question.",
@@ -126,19 +135,16 @@ Generate two short, specific follow-up questions focusing on the key concepts. E
                         'total_tokens': suggestions_response.usage.total_tokens
                     }
                     
-                    # Update token usage for suggestions (don't count against follow-up limit)
+                    # Schedule background update for suggestion tokens
                     if question_id:
-                        try:
-                            update_token_usage(
-                                current_user['id'],
-                                question_id,
-                                suggestion_tokens['prompt_tokens'],
-                                suggestion_tokens['completion_tokens'],
-                                db
-                            )
-                            logger.info(f"Updated suggestion token usage for user {current_user['id']} question {question_id}")
-                        except Exception as token_error:
-                            logger.error(f"Error updating suggestion token usage: {str(token_error)}")
+                        consolidated_service.update_user_usage(
+                            user_id=current_user['id'],
+                            question_id=question_id,
+                            input_tokens=suggestion_tokens['prompt_tokens'],
+                            output_tokens=suggestion_tokens['completion_tokens'],
+                            question_submitted=False
+                        )
+                        logger.info(f"Scheduled background update for suggestion tokens: user={current_user['id']}")
                             
             except Exception as ai_error:
                 logger.error(f"Error generating suggestions: {str(ai_error)}")
@@ -147,15 +153,12 @@ Generate two short, specific follow-up questions focusing on the key concepts. E
                     "What would happen if we changed one variable in this problem?"
                 ]
                         
-            # Get current token limits after suggestion generation
-            current_limits = check_token_limits(current_user['id'], db)
-            
             return {
                 "response": "",  # No actual response for initial suggestions request
                 "suggested_questions": suggested_questions,
                 "token_limits": {
-                    "input_remaining": current_limits["input_remaining"],
-                    "output_remaining": current_limits["output_remaining"]
+                    "input_remaining": user_status["input_remaining"],
+                    "output_remaining": user_status["output_remaining"]
                 },
                 "success": True,
                 "token_usage": {
@@ -240,25 +243,20 @@ Your answer here.
             chat_prompt_tokens = response.usage.prompt_tokens if response.usage else 0
             chat_completion_tokens = response.usage.completion_tokens if response.usage else 0
             
-            # Track input and output tokens for non-initial requests
+            # Schedule background token update for non-initial requests
             if question_id:
-                try:
-                    update_token_usage(
-                        current_user['id'],
-                        question_id,
-                        chat_prompt_tokens,
-                        chat_completion_tokens,
-                        db
-                    )
-                    logger.info(f"Updated follow-up token usage for user {current_user['id']} question {question_id}")
-                except Exception as token_error:
-                    logger.error(f"Error updating follow-up token usage: {str(token_error)}")
+                consolidated_service.update_user_usage(
+                    user_id=current_user['id'],
+                    question_id=question_id,
+                    input_tokens=chat_prompt_tokens,
+                    output_tokens=chat_completion_tokens,
+                    question_submitted=False
+                )
+                logger.info(f"Scheduled background update for follow-up tokens: user={current_user['id']}")
             
-            # Get updated token limits
-            if question_id:
-                updated_limits = check_question_token_limit(current_user['id'], question_id, db)
-            else:
-                updated_limits = check_token_limits(current_user['id'], db)
+            # Calculate updated limits (for response, no database call needed)
+            updated_input_remaining = max(0, user_status["input_remaining"] - chat_prompt_tokens)
+            updated_output_remaining = max(0, user_status["output_remaining"] - chat_completion_tokens)
             
             return {
                 "response": answer_part,
@@ -271,8 +269,8 @@ Your answer here.
                         "total_tokens": chat_prompt_tokens + chat_completion_tokens
                     },
                     "token_limits": {
-                        "input_remaining": updated_limits["input_remaining"],
-                        "output_remaining": updated_limits["output_remaining"]
+                        "input_remaining": updated_input_remaining,
+                        "output_remaining": updated_output_remaining
                     }
                 }
             }

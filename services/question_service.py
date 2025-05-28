@@ -1,4 +1,4 @@
-# services/question_service.py - PROPER FIX that works with existing subscription_service
+# backend/services/question_service.py - Lightweight wrapper around consolidated service
 
 from datetime import datetime, date, timedelta
 from sqlalchemy.orm import Session
@@ -7,7 +7,7 @@ from fastapi import HTTPException
 import logging
 from typing import Dict, Optional
 from .token_service import token_service
-from .subscription_service import subscription_service
+from .consolidated_user_service import consolidated_service
 
 logger = logging.getLogger(__name__)
 
@@ -24,20 +24,20 @@ def get_india_date():
 
 def get_user_token_status(user_id: str, db: Session) -> Dict:
     """
-    OPTIMIZED: Main function that gets comprehensive token status
-    Uses existing subscription_service.check_daily_token_limits()
+    OPTIMIZED: Get comprehensive token status using consolidated service
+    Single database call for everything
     """
     try:
-        logger.info(f"Getting token status for user {user_id}")
+        logger.info(f"Getting comprehensive token status for user {user_id}")
         
-        # Use the existing subscription service method - this already does all the work!
-        token_status = subscription_service.check_daily_token_limits(db, user_id)
+        # Use consolidated service - single database call
+        status = consolidated_service.get_comprehensive_user_status(user_id, db)
         
-        logger.info(f"Token status retrieved: plan={token_status['plan_name']}, "
-                   f"questions_used={token_status['questions_used_today']}, "
-                   f"limit_reached={token_status['limit_reached']}")
+        logger.info(f"Token status retrieved: plan={status['plan_name']}, "
+                   f"questions_used={status['questions_used_today']}, "
+                   f"limit_reached={status['limit_reached']}")
         
-        return token_status
+        return status
         
     except Exception as e:
         logger.error(f"Error getting user token status: {str(e)}")
@@ -45,30 +45,18 @@ def get_user_token_status(user_id: str, db: Session) -> Dict:
         logger.error(traceback.format_exc())
         
         # Return safe defaults on error
-        return {
-            "plan_name": "free",
-            "display_name": "Free Plan",
-            "input_limit": 18000,
-            "output_limit": 12000,
-            "input_used": 0,
-            "output_used": 0,
-            "input_remaining": 18000,
-            "output_remaining": 12000,
-            "questions_used_today": 0,
-            "limit_reached": False,
-            "is_premium": False
-        }
+        return consolidated_service._get_default_status(user_id)
 
 def check_token_limits(user_id: str, db: Session) -> Dict:
     """
-    LEGACY WRAPPER: Uses the optimized get_user_token_status internally
-    Maintains backward compatibility with existing main.py code
+    LEGACY WRAPPER: Maintains backward compatibility with main.py
+    Uses consolidated service internally
     """
     try:
-        # Use the optimized function that calls subscription_service
-        status = get_user_token_status(user_id, db)
+        # Get comprehensive status from consolidated service
+        status = consolidated_service.get_comprehensive_user_status(user_id, db)
         
-        # Return in exact format expected by existing callers in main.py
+        # Return in exact format expected by existing main.py code
         return {
             "input_limit": status["input_limit"],
             "output_limit": status["output_limit"],
@@ -84,25 +72,26 @@ def check_token_limits(user_id: str, db: Session) -> Dict:
         
     except Exception as e:
         logger.error(f"Error in check_token_limits: {str(e)}")
+        defaults = consolidated_service._get_default_status(user_id)
         return {
-            "input_limit": 18000,
-            "output_limit": 12000,
-            "input_used": 0,
-            "output_used": 0,
-            "input_remaining": 18000,
-            "output_remaining": 12000,
-            "limit_reached": False,
-            "questions_used_today": 0,
-            "plan_name": "free",
-            "display_name": "Free Plan",
+            "input_limit": defaults["input_limit"],
+            "output_limit": defaults["output_limit"],
+            "input_used": defaults["input_used"],
+            "output_used": defaults["output_used"],
+            "input_remaining": defaults["input_remaining"],
+            "output_remaining": defaults["output_remaining"],
+            "limit_reached": defaults["limit_reached"],
+            "questions_used_today": defaults["questions_used_today"],
+            "plan_name": defaults["plan_name"],
+            "display_name": defaults["display_name"],
         }
 
 def check_question_limit(user_id: str, db: Session) -> Dict:
     """
-    LEGACY FUNCTION: Uses optimized token status
+    LEGACY WRAPPER: Uses consolidated service
     """
     try:
-        status = get_user_token_status(user_id, db)
+        status = consolidated_service.get_comprehensive_user_status(user_id, db)
         
         return {
             "plan_name": status["plan_name"],
@@ -114,158 +103,71 @@ def check_question_limit(user_id: str, db: Session) -> Dict:
             "input_remaining": status["input_remaining"],
             "output_remaining": status["output_remaining"],
             "questions_used_today": status["questions_used_today"],
-            "is_premium": status.get("is_premium", False),
+            "is_premium": status["is_premium"],
             "limit_reached": status["limit_reached"]
         }
     except Exception as e:
         logger.error(f"Error in check_question_limit: {e}")
+        defaults = consolidated_service._get_default_status(user_id)
         return {
-            "plan_name": "free",
-            "display_name": "Free Plan",
-            "input_limit": 18000,
-            "output_limit": 12000,
-            "input_used": 0,
-            "output_used": 0,
-            "input_remaining": 18000,
-            "output_remaining": 12000,
-            "questions_used_today": 0,
-            "is_premium": False,
-            "limit_reached": False
+            "plan_name": defaults["plan_name"],
+            "display_name": defaults["display_name"],
+            "input_limit": defaults["input_limit"],
+            "output_limit": defaults["output_limit"],
+            "input_used": defaults["input_used"],
+            "output_used": defaults["output_used"],
+            "input_remaining": defaults["input_remaining"],
+            "output_remaining": defaults["output_remaining"],
+            "questions_used_today": defaults["questions_used_today"],
+            "is_premium": defaults["is_premium"],
+            "limit_reached": defaults["limit_reached"]
         }
 
 def increment_question_usage(user_id: str, db: Session):
     """
-    Increment questions_used_today counter for the user
-    Uses existing database structure
+    DEPRECATED: This is now handled by consolidated background updates
+    Kept for backward compatibility but does nothing
     """
-    try:
-        # Check if user record exists first
-        check_query = text("""
-            SELECT id FROM subscription_user_data
-            WHERE user_id = :user_id
-        """)
-        
-        exists = db.execute(check_query, {"user_id": user_id}).fetchone()
-        
-        if not exists:
-            # Create new record if it doesn't exist
-            insert_query = text("""
-                INSERT INTO subscription_user_data 
-                (id, user_id, plan_id, questions_used_today, questions_used_this_month, 
-                 daily_input_tokens_used, daily_output_tokens_used, tokens_reset_date, token_bonus)
-                VALUES (gen_random_uuid(), :user_id, 
-                    (SELECT id FROM subscription_plans WHERE name = 'free' LIMIT 1),
-                    1, 1, 0, 0, :current_date, 0)
-                ON CONFLICT (user_id) DO NOTHING
-            """)
-            
-            db.execute(insert_query, {
-                "user_id": user_id,
-                "current_date": get_india_date()
-            })
-            db.commit()
-            
-            # Check token limits
-            status = get_user_token_status(user_id, db)
-            return status["limit_reached"]
-        else:
-            # Get current limits
-            status = get_user_token_status(user_id, db)
-            
-            # If already at limit, don't increment
-            if status["limit_reached"]:
-                return True
-                
-            # Increment counters
-            update_query = text("""
-                UPDATE subscription_user_data
-                SET 
-                    questions_used_today = COALESCE(questions_used_today, 0) + 1,
-                    questions_used_this_month = COALESCE(questions_used_this_month, 0) + 1
-                WHERE user_id = :user_id
-            """)
-            
-            db.execute(update_query, {"user_id": user_id})
-            db.commit()
-            
-            logger.info(f"Incremented question usage for user {user_id}")
-            return status["limit_reached"]
-                
-    except Exception as e:
-        logger.error(f"Error in increment_question_usage: {e}")
-        db.rollback()
-        return False  # Don't block on error
+    logger.info(f"increment_question_usage called for user {user_id} - now handled by background updates")
+    return False  # Don't block on this legacy function
 
 def update_token_usage(user_id: str, question_id: str, input_tokens: int, output_tokens: int, db: Session):
-    """Update token usage for both user data and question attempt"""
+    """
+    OPTIMIZED: Schedule background update instead of blocking operation
+    This allows immediate response to user while updating database in background
+    """
     try:
-        # Update user's daily token usage
-        user_update = text("""
-            UPDATE subscription_user_data
-            SET 
-                daily_input_tokens_used = COALESCE(daily_input_tokens_used, 0) + :input_tokens,
-                daily_output_tokens_used = COALESCE(daily_output_tokens_used, 0) + :output_tokens,
-                tokens_reset_date = COALESCE(tokens_reset_date, CURRENT_DATE)
-            WHERE user_id = :user_id
-        """)
+        # Schedule background update (non-blocking)
+        future = consolidated_service.update_user_usage(
+            user_id=user_id,
+            question_id=question_id,
+            input_tokens=input_tokens,
+            output_tokens=output_tokens,
+            question_submitted=True  # Indicates this is from answer submission
+        )
         
-        db.execute(user_update, {
-            "user_id": user_id,
-            "input_tokens": input_tokens,
-            "output_tokens": output_tokens
-        })
-        
-        # Update question attempt if question_id provided
-        if question_id:
-            find_attempt_query = text("""
-                SELECT id FROM user_attempts
-                WHERE user_id = :user_id AND question_id = :question_id
-                ORDER BY created_at DESC
-                LIMIT 1
-            """)
-            
-            attempt_result = db.execute(find_attempt_query, {
-                "user_id": user_id,
-                "question_id": question_id
-            }).fetchone()
-            
-            if attempt_result:
-                attempt_update = text("""
-                    UPDATE user_attempts
-                    SET 
-                        input_tokens_used = COALESCE(input_tokens_used, 0) + :input_tokens,
-                        output_tokens_used = COALESCE(output_tokens_used, 0) + :output_tokens
-                    WHERE id = :attempt_id
-                """)
-                
-                db.execute(attempt_update, {
-                    "attempt_id": attempt_result[0],
-                    "input_tokens": input_tokens,
-                    "output_tokens": output_tokens
-                })
-        
-        db.commit()
-        logger.info(f"Updated token usage for user {user_id}: input={input_tokens}, output={output_tokens}")
+        logger.info(f"Scheduled background usage update for user {user_id}: "
+                   f"input={input_tokens}, output={output_tokens}")
         return True
         
     except Exception as e:
-        logger.error(f"Error updating token usage: {str(e)}")
-        db.rollback()
+        logger.error(f"Error scheduling token usage update: {str(e)}")
         return False
 
 def check_question_token_limit(user_id: str, question_id: str, db: Session, reset_tokens: bool = False):
-    """Check token limit for specific question"""
+    """
+    OPTIMIZED: Check per-question limits using comprehensive status
+    """
     try:
-        # Get plan details using subscription service
-        status = get_user_token_status(user_id, db)
-        plan = subscription_service.get_plan_details(db, status["plan_name"])
+        # Get comprehensive status (single database call)
+        status = consolidated_service.get_comprehensive_user_status(user_id, db)
         
-        # Get per-question token limits
-        input_limit = plan.get("input_tokens_per_question", 6000)
-        output_limit = plan.get("output_tokens_per_question", 4000)
+        # Get per-question limits from status
+        input_limit = status["input_tokens_per_question"]
+        output_limit = status["output_tokens_per_question"]
         
         if reset_tokens:
-            # Reset token usage for this question
+            # Schedule background reset
             reset_query = text("""
                 UPDATE user_attempts
                 SET input_tokens_used = 0, output_tokens_used = 0
@@ -290,7 +192,7 @@ def check_question_token_limit(user_id: str, question_id: str, db: Session, rese
                 logger.error(f"Error resetting question tokens: {str(e)}")
                 db.rollback()
         
-        # Check current usage for this question
+        # Check current usage for this specific question
         query = text("""
             SELECT 
                 COALESCE(SUM(input_tokens_used), 0) as total_input,
@@ -342,11 +244,11 @@ def check_question_token_limit(user_id: str, question_id: str, db: Session, rese
 
 def track_follow_up_usage(user_id: str, db: Session, question_id: str = None, increment: bool = False):
     """
-    Track follow-up question usage based on token limits
+    OPTIMIZED: Track follow-up usage using comprehensive status
     """
     try:
-        # Get token limits using optimized function
-        status = get_user_token_status(user_id, db)
+        # Get comprehensive status (single database call)
+        status = consolidated_service.get_comprehensive_user_status(user_id, db)
         
         # Get the per-question token limits if question_id is provided
         if question_id:
@@ -382,3 +284,48 @@ def track_follow_up_usage(user_id: str, db: Session, question_id: str = None, in
             "remaining": 4000,
             "limit_reached": False
         }
+
+# New optimized functions using consolidated service
+
+def check_user_can_fetch_question(user_id: str, db: Session) -> Dict:
+    """
+    OPTIMIZED: Check if user can fetch a question using consolidated service
+    """
+    try:
+        status = consolidated_service.get_comprehensive_user_status(user_id, db)
+        return consolidated_service.check_can_perform_action(status, "fetch_question")
+    except Exception as e:
+        logger.error(f"Error checking fetch question permission: {str(e)}")
+        return {"allowed": True}  # Optimistic fallback
+
+def check_user_can_submit_answer(user_id: str, db: Session) -> Dict:
+    """
+    OPTIMIZED: Check if user can submit an answer using consolidated service
+    """
+    try:
+        status = consolidated_service.get_comprehensive_user_status(user_id, db)
+        return consolidated_service.check_can_perform_action(status, "submit_answer")
+    except Exception as e:
+        logger.error(f"Error checking submit answer permission: {str(e)}")
+        return {"allowed": True}  # Optimistic fallback
+
+def schedule_background_update(user_id: str, question_id: str, input_tokens: int, output_tokens: int, question_submitted: bool = False):
+    """
+    OPTIMIZED: Schedule background database update
+    Returns immediately, allowing fast API response
+    """
+    try:
+        future = consolidated_service.update_user_usage(
+            user_id=user_id,
+            question_id=question_id,
+            input_tokens=input_tokens,
+            output_tokens=output_tokens,
+            question_submitted=question_submitted
+        )
+        
+        logger.info(f"Background update scheduled for user {user_id}")
+        return future
+        
+    except Exception as e:
+        logger.error(f"Error scheduling background update: {str(e)}")
+        return None

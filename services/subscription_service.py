@@ -112,7 +112,7 @@ class SubscriptionService:
                 # If no user found, return default minimal data
                 return {
                     "user_id": user_id,
-                    "plan_id": None,
+                    "plan_id": None, #--------------------------------------------------------------------------
                     "questions_used_today": 0,
                     "daily_input_tokens_used": 0,
                     "daily_output_tokens_used": 0,

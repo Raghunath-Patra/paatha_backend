@@ -36,6 +36,7 @@ from sqlalchemy import text
 from routes import promo_code  
 from routes import try_routes
 
+from services.consolidated_user_service import consolidated_service
 
 
 logger = logging.getLogger(__name__)
@@ -176,7 +177,6 @@ def get_subject_mapping(board: str, class_: str, subject: str) -> Tuple[str, str
         print(traceback.format_exc())
         return board, class_, subject
 
-
 @app.get("/api/questions/{board}/{class_}/{subject}/{chapter_num}/random")
 async def get_random_question(
     board: str, 
@@ -186,16 +186,19 @@ async def get_random_question(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """OPTIMIZED: Get random question with efficient token checking"""
+    """OPTIMIZED: Get random question with single status check"""
     try:
-        # SINGLE TOKEN CHECK using existing subscription service
-        token_limits = check_token_limits(current_user['id'], db)
+        # SINGLE COMPREHENSIVE STATUS CHECK
+        user_status = consolidated_service.get_comprehensive_user_status(current_user['id'], db)
         
-        if token_limits["limit_reached"]:
-            logger.info(f"User {current_user['id']} has reached token limit")
+        # Check if user can fetch questions
+        permission_check = consolidated_service.check_can_perform_action(user_status, "fetch_question")
+        
+        if not permission_check["allowed"]:
+            logger.info(f"User {current_user['id']} cannot fetch question: {permission_check['reason']}")
             raise HTTPException(
-                status_code=402, # Payment Required
-                detail=f"You've reached your daily token limit. Upgrade to Premium for more tokens."
+                status_code=402,  # Payment Required
+                detail=permission_check["reason"]
             )
         
         # Map to source board/class/subject for shared subjects
@@ -260,13 +263,33 @@ async def get_random_question(
                 logger.warning(f"No questions found for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}")
                 return create_placeholder_question(clean_board, clean_class, clean_subject, clean_chapter)
         
-        # Reset token usage for this question when loaded
-        check_question_token_limit(current_user['id'], str(question.id), db, reset_tokens=True)
+        # Reset per-question token usage when new question is loaded (background task)
+        if question:
+            reset_query = text("""
+                UPDATE user_attempts
+                SET input_tokens_used = 0, output_tokens_used = 0
+                WHERE user_id = :user_id AND question_id = :question_id
+            """)
+            try:
+                db.execute(reset_query, {"user_id": current_user['id'], "question_id": str(question.id)})
+                db.commit()
+            except Exception as reset_error:
+                logger.error(f"Error resetting question tokens: {str(reset_error)}")
+                db.rollback()
         
         # Get statistics and prepare response
         stats = get_question_statistics(db, question.id)
         question_data = prepare_question_response(question, stats, clean_board, clean_class, clean_subject, clean_chapter)
         active_questions[str(question.id)] = question_data
+        
+        # Schedule background token usage update (non-blocking)
+        consolidated_service.update_user_usage(
+            user_id=current_user['id'],
+            question_id=str(question.id),
+            input_tokens=50,  # Token cost for fetching question
+            output_tokens=0,
+            question_submitted=False
+        )
         
         logger.info(f"Successfully retrieved question {question.id} for user {current_user['id']}")
         return question_data
@@ -282,8 +305,9 @@ async def get_random_question(
             status_code=500,
             detail=f"Error retrieving question: {str(e)}"
         )
-    
 
+
+# 3. REPLACE your existing get_specific_question endpoint with this:
 @app.get("/api/questions/{board}/{class_}/{subject}/{chapter}/q/{question_id}") 
 async def get_specific_question(
     board: str, 
@@ -294,16 +318,19 @@ async def get_specific_question(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """OPTIMIZED: Get specific question with efficient token checking"""
+    """OPTIMIZED: Get specific question with single status check"""
     try:
-        # SINGLE TOKEN CHECK using existing subscription service
-        token_limits = check_token_limits(current_user['id'], db)
+        # SINGLE COMPREHENSIVE STATUS CHECK
+        user_status = consolidated_service.get_comprehensive_user_status(current_user['id'], db)
         
-        if token_limits["limit_reached"]:
-            logger.info(f"User {current_user['id']} has reached token limit")
+        # Check if user can fetch questions
+        permission_check = consolidated_service.check_can_perform_action(user_status, "fetch_question")
+        
+        if not permission_check["allowed"]:
+            logger.info(f"User {current_user['id']} cannot fetch question: {permission_check['reason']}")
             raise HTTPException(
-                status_code=402, # Payment Required
-                detail=f"You've reached your daily token limit. Upgrade to Premium for more tokens."
+                status_code=402,  # Payment Required
+                detail=permission_check["reason"]
             )
         
         # Map to source board/class/subject for shared subjects
@@ -364,8 +391,18 @@ async def get_specific_question(
                         detail="Question not found"
                     )
 
-        # Reset token usage for this question when loaded
-        check_question_token_limit(current_user['id'], question_id, db, reset_tokens=True)
+        # Reset per-question token usage when question is loaded (background task)
+        reset_query = text("""
+            UPDATE user_attempts
+            SET input_tokens_used = 0, output_tokens_used = 0
+            WHERE user_id = :user_id AND question_id = :question_id
+        """)
+        try:
+            db.execute(reset_query, {"user_id": current_user['id'], "question_id": question_id})
+            db.commit()
+        except Exception as reset_error:
+            logger.error(f"Error resetting question tokens: {str(reset_error)}")
+            db.rollback()
 
         # Get statistics and prepare response
         stats = get_question_statistics(db, question.id)
@@ -380,6 +417,15 @@ async def get_specific_question(
         
         # Store in active_questions for grading
         active_questions[str(question.id)] = question_data
+        
+        # Schedule background token usage update (non-blocking)
+        consolidated_service.update_user_usage(
+            user_id=current_user['id'],
+            question_id=question_id,
+            input_tokens=50,  # Token cost for fetching question
+            output_tokens=0,
+            question_submitted=False
+        )
         
         logger.info(f"Successfully retrieved specific question {question_id} for user {current_user['id']}")
         return question_data
@@ -397,25 +443,29 @@ async def get_specific_question(
         )
 
 
+# 4. REPLACE your existing grade_answer endpoint with this:
 @app.post("/api/grade")
 async def grade_answer(
     answer: AnswerModel,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """OPTIMIZED: Grade answer with efficient token management"""
+    """OPTIMIZED: Grade answer with consolidated service and background updates"""
     try:
-        # SINGLE TOKEN CHECK using existing subscription service
-        token_limits = check_token_limits(current_user['id'], db)
+        # SINGLE COMPREHENSIVE STATUS CHECK
+        user_status = consolidated_service.get_comprehensive_user_status(current_user['id'], db)
         
-        if token_limits["limit_reached"]:
-            logger.info(f"User {current_user['id']} has reached daily token limit")
+        # Check if user can submit answers
+        permission_check = consolidated_service.check_can_perform_action(user_status, "submit_answer")
+        
+        if not permission_check["allowed"]:
+            logger.info(f"User {current_user['id']} cannot submit answer: {permission_check['reason']}")
             raise HTTPException(
-                status_code=402, # Payment Required
-                detail=f"You've reached your daily usage limit. Upgrade to Premium for more tokens."
+                status_code=402,  # Payment Required
+                detail=permission_check["reason"]
             )
         
-        # Check if question-specific usage limit is reached
+        # Check per-question token limits (single additional query)
         question_limits = check_question_token_limit(
             current_user['id'], 
             answer.question_id,
@@ -425,7 +475,7 @@ async def grade_answer(
         if question_limits["limit_reached"]:
             logger.info(f"User {current_user['id']} has reached token limit for question {answer.question_id}")
             raise HTTPException(
-                status_code=429, # Too Many Requests
+                status_code=429,  # Too Many Requests
                 detail="You've reached the usage limit for this question. Please move to another question."
             )
             
@@ -462,11 +512,9 @@ async def grade_answer(
         input_tokens = token_service.count_tokens(combined_answer)
         input_tokens += ocr_usage.get('ocr_prompt_tokens', 0)
         
-        # Get subscription data for usage limits using existing service
-        subscription = subscription_service.get_user_subscription_data(db, current_user['id'])
-        plan = subscription_service.get_plan_details(db, subscription.get("plan_name", "free"))
-        input_limit = plan.get("input_tokens_per_question", 6000)
-        input_buffer = plan.get("input_token_buffer", 1000)
+        # Get input limits from user status (already fetched)
+        input_limit = user_status["input_tokens_per_question"]
+        input_buffer = user_status["input_token_buffer"]
 
         # Validate input length
         is_valid, token_count = token_service.validate_input(
@@ -478,7 +526,7 @@ async def grade_answer(
         if not is_valid:
             logger.warning(f"Answer too long for user {current_user['id']}: {token_count} tokens")
             raise HTTPException(
-                status_code=413, # Payload Too Large
+                status_code=413,  # Payload Too Large
                 detail=f"Your answer is too long. Please shorten it to stay within the usage limit."
             )
 
@@ -520,7 +568,7 @@ async def grade_answer(
         output_tokens = grading_usage.get('completion_tokens', 0) if isinstance(grading_usage, dict) else (grading_usage.completion_tokens if hasattr(grading_usage, 'completion_tokens') else 0)
         output_tokens += ocr_usage.get('ocr_completion_tokens', 0)
 
-        # Create attempt record
+        # Create attempt record (synchronous - needed for response)
         user_attempt = UserAttempt(
             user_id=current_user['id'],
             question_id=db_question.id,
@@ -565,30 +613,20 @@ async def grade_answer(
                 detail="Error saving your answer. Please try again."
             )
             
-        # Increment questions_used_today for display purposes
-        try:
-            increment_question_usage(current_user['id'], db)
-            logger.info(f"Question usage incremented for user {current_user['id']}")
-        except Exception as usage_err:
-            logger.error(f"Error incrementing question usage: {str(usage_err)}")
-            
-        # Update token usage
-        try:
-            update_token_usage(
-                current_user['id'],
-                answer.question_id,
-                input_tokens,
-                output_tokens,
-                db
-            )
-            logger.info(f"Token usage updated for user {current_user['id']}: input={input_tokens}, output={output_tokens}")
-        except Exception as token_err:
-            logger.error(f"Error updating token usage: {str(token_err)}")
+        # BACKGROUND UPDATE: Schedule all usage updates (non-blocking)
+        # This allows immediate response to user while updating counters in background
+        consolidated_service.update_user_usage(
+            user_id=current_user['id'],
+            question_id=answer.question_id,
+            input_tokens=input_tokens,
+            output_tokens=output_tokens,
+            question_submitted=True  # This will increment questions_used_today
+        )
         
-        # Get updated token status using optimized function
-        updated_token_limits = check_token_limits(current_user['id'], db)
+        logger.info(f"Background usage update scheduled for user {current_user['id']}: "
+                   f"input={input_tokens}, output={output_tokens}")
         
-        # Prepare response
+        # Prepare response with current status (no additional database calls needed)
         response_data = {
             "score": score,
             "feedback": feedback,
@@ -598,16 +636,16 @@ async def grade_answer(
             "user_answer": answer.answer,
             "follow_up_questions": follow_up_questions,
             "plan_info": {
-                "plan_name": updated_token_limits["plan_name"],
-                "display_name": updated_token_limits["display_name"]
+                "plan_name": user_status["plan_name"],
+                "display_name": user_status["display_name"]
             },
             "token_info": {
                 "input_used": input_tokens,
                 "output_used": output_tokens,
-                "input_remaining": updated_token_limits["input_remaining"],
-                "output_remaining": updated_token_limits["output_remaining"],
-                "input_limit": updated_token_limits["input_limit"],
-                "output_limit": updated_token_limits["output_limit"]
+                "input_remaining": max(0, user_status["input_remaining"] - input_tokens),
+                "output_remaining": max(0, user_status["output_remaining"] - output_tokens),
+                "input_limit": user_status["input_limit"],
+                "output_limit": user_status["output_limit"]
             }
         }
         
@@ -625,7 +663,7 @@ async def grade_answer(
             status_code=500,
             detail=str(e)
         )
-
+    
 def prepare_question_response(question, stats, board, class_level, subject, chapter):
     """Helper function to prepare question response data with improved category detection"""
     question_number = "N/A"
