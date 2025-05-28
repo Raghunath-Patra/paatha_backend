@@ -1,4 +1,4 @@
-# backend/services/consolidated_user_service.py - CORRECTED VERSION - UPDATE only for existing users
+# backend/services/consolidated_user_service.py - FINAL FIXED VERSION
 
 from datetime import datetime, date, timedelta
 from sqlalchemy import text
@@ -214,7 +214,7 @@ class ConsolidatedUserService:
     
     @staticmethod
     def _create_user_subscription_data(user_id: str, current_date: date, db: Session) -> bool:
-        """Create subscription_user_data record for new user - INSERT ONLY"""
+        """Create subscription_user_data record for new user - SIMPLE INSERT ONLY"""
         try:
             # Get free plan ID
             free_plan_query = text("""
@@ -231,7 +231,7 @@ class ConsolidatedUserService:
                 
             free_plan_id = free_plan_result.id
             
-            # SIMPLE INSERT - no ON CONFLICT needed since this is only for new users
+            # SIMPLE INSERT - no ON CONFLICT 
             create_query = text("""
                 INSERT INTO subscription_user_data (
                     id, user_id, plan_id, tokens_reset_date,
@@ -264,7 +264,6 @@ class ConsolidatedUserService:
     def _perform_daily_reset(user_id: str, current_date: date, db: Session):
         """Perform daily reset - SIMPLE UPDATE only"""
         try:
-            # SIMPLE UPDATE - user already exists
             reset_query = text("""
                 UPDATE subscription_user_data
                 SET 
@@ -288,109 +287,113 @@ class ConsolidatedUserService:
             logger.error(traceback.format_exc())
             db.rollback()
 
-    @staticmethod
-    def update_user_usage_immediate(user_id: str, question_id: str, input_tokens: int, output_tokens: int, question_submitted: bool = False, db: Session = None):
+    @staticmethod  
+    def update_user_usage(user_id: str, question_id: str, input_tokens: int, output_tokens: int, question_submitted: bool = False):
         """
-        CORRECTED: Simple UPDATE only - no INSERT attempts
-        User must already exist in subscription_user_data table
+        FIXED: Simple UPDATE only - matches the method name being called in your error logs
         """
         try:
-            if db is None:
-                logger.error("No database session provided to update_user_usage_immediate")
-                return False
+            from config.database import SessionLocal
+            db = SessionLocal()
+            
+            try:
+                current_date = get_india_date()
                 
-            current_date = get_india_date()
-            
-            # Check if user exists (should always exist by this point)
-            check_query = text("""
-                SELECT id, tokens_reset_date FROM subscription_user_data 
-                WHERE user_id = :user_id
-            """)
-            
-            user_record = db.execute(check_query, {"user_id": user_id}).fetchone()
-            
-            if not user_record:
-                logger.error(f"❌ User {user_id} not found in subscription_user_data during usage update")
-                # This should not happen if get_comprehensive_user_status was called first
-                return False
-            
-            # Check if daily reset is needed
-            needs_reset = user_record.tokens_reset_date < current_date
-            
-            if needs_reset:
-                # Reset first, then update
-                logger.info(f"🔄 Performing daily reset during usage update for user {user_id}")
-                ConsolidatedUserService._perform_daily_reset(user_id, current_date, db)
-                
-                # After reset, set new usage values (not increment)
-                update_query = text("""
-                    UPDATE subscription_user_data
-                    SET 
-                        questions_used_today = CASE WHEN :question_submitted THEN 1 ELSE 0 END,
-                        questions_used_this_month = questions_used_this_month + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
-                        daily_input_tokens_used = :input_tokens,
-                        daily_output_tokens_used = :output_tokens,
-                        tokens_reset_date = :current_date
+                # Check if user exists
+                check_query = text("""
+                    SELECT id, tokens_reset_date FROM subscription_user_data 
                     WHERE user_id = :user_id
                 """)
-            else:
-                # Normal increment update
-                update_query = text("""
-                    UPDATE subscription_user_data
-                    SET 
-                        questions_used_today = questions_used_today + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
-                        questions_used_this_month = questions_used_this_month + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
-                        daily_input_tokens_used = daily_input_tokens_used + :input_tokens,
-                        daily_output_tokens_used = daily_output_tokens_used + :output_tokens
-                    WHERE user_id = :user_id
-                """)
-            
-            result = db.execute(update_query, {
-                "user_id": user_id,
-                "current_date": current_date,
-                "question_submitted": question_submitted,
-                "input_tokens": input_tokens,
-                "output_tokens": output_tokens
-            })
-            
-            if result.rowcount == 0:
-                logger.error(f"❌ No rows updated for user {user_id} usage update")
-                return False
-            
-            # Update user_attempts table if question_id provided
-            if question_id:
-                attempt_update = text("""
-                    UPDATE user_attempts 
-                    SET 
-                        input_tokens_used = COALESCE(input_tokens_used, 0) + :input_tokens,
-                        output_tokens_used = COALESCE(output_tokens_used, 0) + :output_tokens
-                    WHERE user_id = :user_id AND question_id = :question_id
-                    AND created_at = (
-                        SELECT MAX(created_at) FROM user_attempts 
-                        WHERE user_id = :user_id AND question_id = :question_id
-                    )
-                """)
                 
-                db.execute(attempt_update, {
+                user_record = db.execute(check_query, {"user_id": user_id}).fetchone()
+                
+                if not user_record:
+                    logger.error(f"❌ User {user_id} not found in subscription_user_data during usage update")
+                    return False
+                
+                # Check if daily reset is needed
+                needs_reset = user_record.tokens_reset_date < current_date
+                
+                if needs_reset:
+                    # Reset first
+                    logger.info(f"🔄 Performing daily reset during usage update for user {user_id}")
+                    reset_query = text("""
+                        UPDATE subscription_user_data
+                        SET 
+                            questions_used_today = 0,
+                            daily_input_tokens_used = 0,
+                            daily_output_tokens_used = 0,
+                            tokens_reset_date = :current_date
+                        WHERE user_id = :user_id
+                    """)
+                    db.execute(reset_query, {"user_id": user_id, "current_date": current_date})
+                    
+                    # After reset, set new usage values (not increment)
+                    update_query = text("""
+                        UPDATE subscription_user_data
+                        SET 
+                            questions_used_today = CASE WHEN :question_submitted THEN 1 ELSE 0 END,
+                            questions_used_this_month = questions_used_this_month + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
+                            daily_input_tokens_used = :input_tokens,
+                            daily_output_tokens_used = :output_tokens
+                        WHERE user_id = :user_id
+                    """)
+                else:
+                    # Normal increment update
+                    update_query = text("""
+                        UPDATE subscription_user_data
+                        SET 
+                            questions_used_today = questions_used_today + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
+                            questions_used_this_month = questions_used_this_month + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
+                            daily_input_tokens_used = daily_input_tokens_used + :input_tokens,
+                            daily_output_tokens_used = daily_output_tokens_used + :output_tokens
+                        WHERE user_id = :user_id
+                    """)
+                
+                result = db.execute(update_query, {
                     "user_id": user_id,
-                    "question_id": question_id,
+                    "question_submitted": question_submitted,
                     "input_tokens": input_tokens,
                     "output_tokens": output_tokens
                 })
-            
-            db.commit()
-            logger.info(f"✅ Usage update completed: user={user_id}, "
-                       f"input_tokens={input_tokens}, output_tokens={output_tokens}, "
-                       f"question_submitted={question_submitted}")
-            return True
-            
+                
+                if result.rowcount == 0:
+                    logger.error(f"❌ No rows updated for user {user_id} usage update")
+                    return False
+                
+                # Update user_attempts table if question_id provided
+                if question_id:
+                    attempt_update = text("""
+                        UPDATE user_attempts 
+                        SET 
+                            input_tokens_used = COALESCE(input_tokens_used, 0) + :input_tokens,
+                            output_tokens_used = COALESCE(output_tokens_used, 0) + :output_tokens
+                        WHERE user_id = :user_id AND question_id = :question_id
+                        AND created_at = (
+                            SELECT MAX(created_at) FROM user_attempts 
+                            WHERE user_id = :user_id AND question_id = :question_id
+                        )
+                    """)
+                    
+                    db.execute(attempt_update, {
+                        "user_id": user_id,
+                        "question_id": question_id,
+                        "input_tokens": input_tokens,
+                        "output_tokens": output_tokens
+                    })
+                
+                db.commit()
+                logger.info(f"✅ Usage update completed: user={user_id}, "
+                           f"input_tokens={input_tokens}, output_tokens={output_tokens}, "
+                           f"question_submitted={question_submitted}")
+                return True
+                
+            finally:
+                db.close()
+                
         except Exception as e:
-            logger.error(f"❌ Error in immediate usage update for user {user_id}: {str(e)}")
+            logger.error(f"❌ Error in usage update for user {user_id}: {str(e)}")
             logger.error(traceback.format_exc())
-            try:
-                db.rollback()
-            except:
-                pass
             return False
     
     @staticmethod
