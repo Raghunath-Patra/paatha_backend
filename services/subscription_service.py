@@ -1,4 +1,4 @@
-# File: backend/services/subscription_service.py
+# File: backend/services/subscription_service.py - FIXED for actual table schema
 
 from datetime import datetime, date, timedelta
 from sqlalchemy import text
@@ -60,7 +60,7 @@ class SubscriptionService:
                     "daily_output_token_limit": 12000,
                     "input_tokens_per_question": 6000,
                     "output_tokens_per_question": 4000,
-                    "input_token_buffer": 1000  # Add this line
+                    "input_token_buffer": 1000
                 }
             else:  # premium plan
                 return {
@@ -72,9 +72,10 @@ class SubscriptionService:
                     "daily_output_token_limit": 24000,
                     "input_tokens_per_question": 12000,
                     "output_tokens_per_question": 8000,
-                    "monthly_price": 29900,  # Add this if not already there
-                    "yearly_price": 299900,  # Add this if not already there
-                    "six_month_price": 159900  # Add the new field
+                    "monthly_price": 29900,
+                    "yearly_price": 299900,
+                    "six_month_price": 159900,
+                    "input_token_buffer": 1000
                 }
         except Exception as e:
             logger.error(f"Error fetching plan details: {str(e)}")
@@ -89,12 +90,12 @@ class SubscriptionService:
                 "daily_output_token_limit": 12000,
                 "input_tokens_per_question": 6000,
                 "output_tokens_per_question": 4000,
-                "input_token_buffer": 1000  #
+                "input_token_buffer": 1000
             }
 
     @staticmethod
     def get_user_subscription_data(db: Session, user_id: str) -> Dict[str, Any]:
-        """Get subscription data for a user"""
+        """Get subscription data for a user - FIXED for actual schema"""
         try:
             # Get the user profile
             profile_query = text("""
@@ -112,7 +113,7 @@ class SubscriptionService:
                 # If no user found, return default minimal data
                 return {
                     "user_id": user_id,
-                    "plan_id": None, #--------------------------------------------------------------------------
+                    "plan_id": None,
                     "questions_used_today": 0,
                     "daily_input_tokens_used": 0,
                     "daily_output_tokens_used": 0,
@@ -120,7 +121,7 @@ class SubscriptionService:
                     "is_yearly": False
                 }
             
-            # Try to get subscription data
+            # Try to get subscription data - FIXED: removed questions_used_this_month
             subscription_query = text("""
                 SELECT 
                     plan_id,

@@ -1,4 +1,4 @@
-# backend/routes/limits.py - Complete Updated Version
+# backend/routes/limits.py - FIXED for actual table schema
 
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
@@ -53,7 +53,6 @@ async def get_question_status(
             "input_remaining": 18000,
             "output_remaining": 12000,
             "questions_used_today": 0,
-            "questions_used_this_month": 0,
             "input_tokens_per_question": 6000,
             "output_tokens_per_question": 4000,
             "input_token_buffer": 1000,
@@ -105,12 +104,11 @@ async def debug_question_usage(
     current_user: dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Debug endpoint to check question usage directly from DB"""
+    """Debug endpoint to check question usage directly from DB - FIXED for actual schema"""
     try:
         query = text("""
             SELECT 
                 sud.questions_used_today,
-                sud.questions_used_this_month,
                 sud.daily_input_tokens_used,
                 sud.daily_output_tokens_used,
                 sud.tokens_reset_date,
@@ -137,7 +135,6 @@ async def debug_question_usage(
             "user_id": current_user['id'],
             "raw_database_data": {
                 "questions_used_today": result.questions_used_today,
-                "questions_used_this_month": result.questions_used_this_month,
                 "daily_input_tokens_used": result.daily_input_tokens_used,
                 "daily_output_tokens_used": result.daily_output_tokens_used,
                 "tokens_reset_date": result.tokens_reset_date.isoformat() if result.tokens_reset_date else None,

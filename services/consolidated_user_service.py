@@ -1,4 +1,4 @@
-# backend/services/consolidated_user_service.py - FINAL FIXED VERSION
+# backend/services/consolidated_user_service.py - FIXED for actual table schema
 
 from datetime import datetime, date, timedelta
 from sqlalchemy import text
@@ -26,13 +26,12 @@ class ConsolidatedUserService:
     def get_comprehensive_user_status(user_id: str, db: Session) -> Dict[str, Any]:
         """
         SINGLE DATABASE CALL to get ALL user status information
-        Creates user records if they don't exist
-        Returns everything frontend needs in one go
+        Fixed to match actual table schema (no questions_used_this_month)
         """
         try:
             current_date = get_india_date()
             
-            # ONE comprehensive query that gets everything we need
+            # ONE comprehensive query that gets everything we need - FIXED for actual schema
             query = text("""
                 WITH user_data AS (
                     SELECT 
@@ -40,7 +39,6 @@ class ConsolidatedUserService:
                         p.is_premium,
                         p.subscription_plan_id,
                         COALESCE(sud.questions_used_today, 0) as questions_used_today,
-                        COALESCE(sud.questions_used_this_month, 0) as questions_used_this_month,
                         COALESCE(sud.daily_input_tokens_used, 0) as daily_input_tokens_used,
                         COALESCE(sud.daily_output_tokens_used, 0) as daily_output_tokens_used,
                         COALESCE(sud.tokens_reset_date, :current_date) as tokens_reset_date,
@@ -148,9 +146,8 @@ class ConsolidatedUserService:
                 "input_remaining": input_remaining,
                 "output_remaining": output_remaining,
                 
-                # Question usage
+                # Question usage - FIXED: removed questions_used_this_month
                 "questions_used_today": actual_questions_used,
-                "questions_used_this_month": result.questions_used_this_month,
                 
                 # Per-question limits
                 "input_tokens_per_question": result.input_tokens_per_question,
@@ -198,7 +195,6 @@ class ConsolidatedUserService:
             "input_remaining": 18000,
             "output_remaining": 12000,
             "questions_used_today": 0,
-            "questions_used_this_month": 0,
             "input_tokens_per_question": 6000,
             "output_tokens_per_question": 4000,
             "input_token_buffer": 1000,
@@ -214,7 +210,7 @@ class ConsolidatedUserService:
     
     @staticmethod
     def _create_user_subscription_data(user_id: str, current_date: date, db: Session) -> bool:
-        """Create subscription_user_data record for new user - SIMPLE INSERT ONLY"""
+        """Create subscription_user_data record for new user - FIXED for actual schema"""
         try:
             # Get free plan ID
             free_plan_query = text("""
@@ -231,16 +227,15 @@ class ConsolidatedUserService:
                 
             free_plan_id = free_plan_result.id
             
-            # SIMPLE INSERT - no ON CONFLICT 
+            # FIXED: Only insert columns that actually exist in your table
             create_query = text("""
                 INSERT INTO subscription_user_data (
                     id, user_id, plan_id, tokens_reset_date,
-                    questions_used_today, questions_used_this_month,
-                    daily_input_tokens_used, daily_output_tokens_used,
-                    token_bonus, is_yearly
+                    questions_used_today, daily_input_tokens_used, 
+                    daily_output_tokens_used, token_bonus, is_yearly
                 ) VALUES (
                     gen_random_uuid(), :user_id, :plan_id, :current_date,
-                    0, 0, 0, 0, 0, false
+                    0, 0, 0, 0, false
                 )
             """)
             
@@ -262,7 +257,7 @@ class ConsolidatedUserService:
 
     @staticmethod
     def _perform_daily_reset(user_id: str, current_date: date, db: Session):
-        """Perform daily reset - SIMPLE UPDATE only"""
+        """Perform daily reset - FIXED for actual schema"""
         try:
             reset_query = text("""
                 UPDATE subscription_user_data
@@ -290,7 +285,7 @@ class ConsolidatedUserService:
     @staticmethod  
     def update_user_usage(user_id: str, question_id: str, input_tokens: int, output_tokens: int, question_submitted: bool = False):
         """
-        FIXED: Simple UPDATE only - matches the method name being called in your error logs
+        FIXED: Update usage without questions_used_this_month column
         """
         try:
             from config.database import SessionLocal
@@ -333,18 +328,16 @@ class ConsolidatedUserService:
                         UPDATE subscription_user_data
                         SET 
                             questions_used_today = CASE WHEN :question_submitted THEN 1 ELSE 0 END,
-                            questions_used_this_month = questions_used_this_month + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
                             daily_input_tokens_used = :input_tokens,
                             daily_output_tokens_used = :output_tokens
                         WHERE user_id = :user_id
                     """)
                 else:
-                    # Normal increment update
+                    # Normal increment update - FIXED: removed questions_used_this_month
                     update_query = text("""
                         UPDATE subscription_user_data
                         SET 
                             questions_used_today = questions_used_today + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
-                            questions_used_this_month = questions_used_this_month + CASE WHEN :question_submitted THEN 1 ELSE 0 END,
                             daily_input_tokens_used = daily_input_tokens_used + :input_tokens,
                             daily_output_tokens_used = daily_output_tokens_used + :output_tokens
                         WHERE user_id = :user_id

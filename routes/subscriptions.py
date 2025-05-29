@@ -1,4 +1,4 @@
-# File: backend/routes/subscriptions.py
+# File: backend/routes/subscriptions.py - FIXED for actual table schema
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
@@ -8,6 +8,7 @@ from config.database import get_db
 from config.security import get_current_user
 from services.subscription_service import subscription_service
 from sqlalchemy import text
+from datetime import datetime
 
 router = APIRouter(prefix="/api/subscriptions", tags=["subscriptions"])
 
@@ -87,7 +88,7 @@ async def get_user_subscription_status(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get current user's subscription status"""
+    """Get current user's subscription status - FIXED for actual schema"""
     try:
         # Get user's subscription data
         user_id = current_user["id"]
@@ -115,19 +116,19 @@ async def get_user_subscription_status(
             subscription_expires_at = subscription["subscription_expires_at"].isoformat()
             is_active = subscription["subscription_expires_at"] > datetime.now()
         
-        # Calculate remaining questions
-        questions_used = subscription["questions_used_this_month"]
-        questions_limit = plan["monthly_question_limit"]
+        # Calculate remaining questions - FIXED: use only questions_used_today
+        questions_used = subscription["questions_used_today"]
+        questions_limit = plan.get("monthly_question_limit", 100)  # Default fallback
         questions_remaining = max(0, questions_limit - questions_used)
         
-        # Calculate remaining chat requests
-        chat_used = subscription["chat_requests_used_this_month"]
-        chat_limit = plan["monthly_chat_limit"]
+        # Calculate remaining chat requests (using same as questions for simplicity)
+        chat_used = subscription["questions_used_today"]  # Use same counter
+        chat_limit = plan.get("monthly_chat_limit", 100)  # Default fallback
         chat_remaining = max(0, chat_limit - chat_used)
         
-        # Calculate remaining follow-up questions
-        follow_up_used = subscription["follow_up_questions_used_today"]
-        follow_up_limit = plan["follow_up_questions_per_day"]
+        # Calculate remaining follow-up questions (using same as questions for simplicity)
+        follow_up_used = subscription["questions_used_today"]  # Use same counter
+        follow_up_limit = plan.get("follow_up_questions_per_day", 20)  # Default fallback
         follow_up_remaining = max(0, follow_up_limit - follow_up_used)
         
         return {
