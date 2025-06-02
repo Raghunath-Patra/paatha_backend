@@ -1,4 +1,4 @@
-# backend/routes/progress.py - Updated with new split API endpoints
+# backend/routes/progress.py - COMPLETE FILE with new analytics endpoints
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy import func, desc, text, or_
 from sqlalchemy.orm import Session
@@ -402,6 +402,189 @@ async def get_performance_summary(
         logger.error(f"Error fetching performance summary: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Error fetching performance summary: {str(e)}")
 
+# ✅ NEW ENDPOINT: Lightweight analytics data
+@router.get("/user/performance-analytics/{board}/{class_level}/{subject}/{chapter}")
+async def get_performance_analytics(
+    board: str,
+    class_level: str,
+    subject: str,
+    chapter: str,
+    current_user: dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """
+    OPTIMIZED: Get lightweight analytics data for charts
+    Returns only essential data needed for performance visualizations
+    """
+    try:
+        logger.info(f"Fetching performance analytics for {board}/{class_level}/{subject}/chapter-{chapter}")
+        
+        # Map to source board/class/subject for shared subjects
+        mapped_board, mapped_class, mapped_subject = get_mapped_subject_info(
+            board.lower(), 
+            class_level.lower(), 
+            subject.lower()
+        )
+        
+        # Clean and normalize input
+        try:
+            base_chapter = int(chapter)
+        except ValueError:
+            base_chapter = int(chapter.replace('chapter-', ''))
+
+        # Lightweight query for analytics data only
+        analytics_query = text("""
+            SELECT 
+                ua.score,
+                ua.time_taken,
+                ua.created_at,
+                q.difficulty,
+                q.type,
+                q.bloom_level,
+                q.human_readable_id,
+                -- Extract category from human_readable_id
+                CASE 
+                    WHEN q.human_readable_id ~ '_g\d+$' THEN 'Generated'
+                    WHEN q.human_readable_id ~ '_ic\d+$' THEN 'In-Chapter' 
+                    WHEN q.human_readable_id ~ '_ec\d+$' THEN 'Exercise'
+                    ELSE 'Unknown'
+                END as question_category
+            FROM user_attempts ua
+            LEFT JOIN questions q ON ua.question_id = q.id
+            WHERE ua.user_id = :user_id 
+            AND ua.board = :board 
+            AND ua.class_level = :class_level 
+            AND ua.subject = :subject 
+            AND ua.chapter = :chapter
+            ORDER BY ua.created_at ASC
+        """)
+        
+        results = db.execute(analytics_query, {
+            "user_id": current_user['id'],
+            "board": mapped_board,
+            "class_level": mapped_class,
+            "subject": mapped_subject,
+            "chapter": base_chapter
+        }).fetchall()
+        
+        if not results:
+            return {
+                "analytics_data": [],
+                "score_trends": [],
+                "category_performance": {},
+                "difficulty_breakdown": {},
+                "time_performance": [],
+                "chapter_info": {
+                    "board": mapped_board,
+                    "class_level": mapped_class,
+                    "subject": mapped_subject,
+                    "chapter": chapter
+                }
+            }
+        
+        # Process results for different chart types
+        analytics_data = []
+        score_trends = []
+        category_performance = {}
+        difficulty_breakdown = {}
+        time_performance = []
+        
+        for i, row in enumerate(results):
+            # Basic analytics data point
+            data_point = {
+                "attempt_number": i + 1,
+                "score": row.score,
+                "time_taken": row.time_taken or 0,
+                "timestamp": row.created_at.isoformat() if row.created_at else None,
+                "difficulty": row.difficulty or "Unknown",
+                "type": row.type or "Unknown",
+                "bloom_level": row.bloom_level or "Unknown",
+                "category": row.question_category
+            }
+            analytics_data.append(data_point)
+            
+            # Score trends over time
+            score_trends.append({
+                "attempt": i + 1,
+                "score": row.score,
+                "date": row.created_at.date().isoformat() if row.created_at else None
+            })
+            
+            # Category performance aggregation
+            category = row.question_category
+            if category not in category_performance:
+                category_performance[category] = {
+                    "total_attempts": 0,
+                    "total_score": 0,
+                    "average_score": 0,
+                    "best_score": 0,
+                    "attempts": []
+                }
+            
+            category_performance[category]["total_attempts"] += 1
+            category_performance[category]["total_score"] += row.score
+            category_performance[category]["best_score"] = max(
+                category_performance[category]["best_score"], 
+                row.score
+            )
+            category_performance[category]["attempts"].append(row.score)
+            
+            # Difficulty breakdown
+            difficulty = row.difficulty or "Unknown"
+            if difficulty not in difficulty_breakdown:
+                difficulty_breakdown[difficulty] = {
+                    "count": 0,
+                    "total_score": 0,
+                    "average_score": 0
+                }
+            
+            difficulty_breakdown[difficulty]["count"] += 1
+            difficulty_breakdown[difficulty]["total_score"] += row.score
+            
+            # Time vs performance
+            if row.time_taken:
+                time_performance.append({
+                    "time_taken": row.time_taken,
+                    "score": row.score,
+                    "category": category
+                })
+        
+        # Calculate averages for categories
+        for category in category_performance:
+            if category_performance[category]["total_attempts"] > 0:
+                category_performance[category]["average_score"] = round(
+                    category_performance[category]["total_score"] / 
+                    category_performance[category]["total_attempts"], 
+                    2
+                )
+        
+        # Calculate averages for difficulty
+        for difficulty in difficulty_breakdown:
+            if difficulty_breakdown[difficulty]["count"] > 0:
+                difficulty_breakdown[difficulty]["average_score"] = round(
+                    difficulty_breakdown[difficulty]["total_score"] / 
+                    difficulty_breakdown[difficulty]["count"], 
+                    2
+                )
+        
+        return {
+            "analytics_data": analytics_data,
+            "score_trends": score_trends,
+            "category_performance": category_performance,
+            "difficulty_breakdown": difficulty_breakdown,
+            "time_performance": time_performance,
+            "chapter_info": {
+                "board": mapped_board,
+                "class_level": mapped_class,
+                "subject": mapped_subject,
+                "chapter": chapter
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error fetching performance analytics: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error fetching performance analytics: {str(e)}")
+
 # ✅ NEW ENDPOINT: Paginated solved questions
 @router.get("/user/solved-questions/{board}/{class_level}/{subject}/{chapter}")
 async def get_solved_questions(
@@ -552,7 +735,46 @@ async def get_solved_questions(
         logger.error(f"Error fetching solved questions: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Error fetching solved questions: {str(e)}")
 
-# ✅ UPDATED: Original detailed report endpoint (now backward compatible)
+# ✅ ENHANCED: Performance summary + analytics in one call (alternative option)
+@router.get("/user/performance-summary-enhanced/{board}/{class_level}/{subject}/{chapter}")
+async def get_enhanced_performance_summary(
+    board: str,
+    class_level: str, 
+    subject: str,
+    chapter: str,
+    current_user: dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """
+    ENHANCED: Performance summary + lightweight analytics data in one call
+    Combines summary stats with chart-ready data
+    """
+    try:
+        # Get basic summary
+        summary = await get_performance_summary(board, class_level, subject, chapter, current_user, db)
+        
+        # Get analytics data
+        analytics = await get_performance_analytics(board, class_level, subject, chapter, current_user, db)
+        
+        # Combine both responses
+        enhanced_summary = {
+            **summary,  # All original summary data
+            "analytics": {
+                "score_trends": analytics["score_trends"],
+                "category_performance": analytics["category_performance"], 
+                "difficulty_breakdown": analytics["difficulty_breakdown"],
+                "time_performance": analytics["time_performance"][:20],  # Limit for charts
+            },
+            "chart_ready": True
+        }
+        
+        return enhanced_summary
+        
+    except Exception as e:
+        logger.error(f"Error fetching enhanced performance summary: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error fetching enhanced performance summary: {str(e)}")
+
+# ✅ UPDATED: Original detailed report endpoint (backward compatible)
 @router.get("/user/detailed-report/{board}/{class_level}/{subject}/{chapter}")
 async def get_detailed_chapter_report(
     board: str,
