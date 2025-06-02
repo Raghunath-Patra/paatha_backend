@@ -1,12 +1,12 @@
-# backend/routes/progress.py
+# backend/routes/progress.py - Updated with new split API endpoints
 from fastapi import APIRouter, Depends, HTTPException, status
-from sqlalchemy import func, desc
+from sqlalchemy import func, desc, text, or_
 from sqlalchemy.orm import Session
 from config.database import get_db
 from config.security import get_current_user
 from config.subjects import SUBJECT_CONFIG, SubjectType
 from models import User, UserAttempt, Question, ChapterDefinition
-from typing import Dict
+from typing import Dict, List, Any
 import logging
 import re
 
@@ -15,6 +15,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/progress", tags=["progress"])
+
 def get_mapped_subject_info(board: str, class_level: str, subject: str) -> tuple[str, str, str]:
     """Get actual board/class/subject to use for shared subjects"""
     try:
@@ -78,6 +79,7 @@ def normalize_chapter_number(chapter: int) -> int:
     if chapter >= 100:
         return chapter % 100
     return chapter
+
 @router.get("/user/{board}/{class_level}")
 async def get_user_progress(
     board: str,
@@ -290,18 +292,22 @@ async def get_user_progress(
             detail=f"Error fetching progress data: {str(e)}"
         )
 
-@router.get("/user/detailed-report/{board}/{class_level}/{subject}/{chapter}")
-async def get_detailed_chapter_report(
+# ✅ NEW ENDPOINT: Fast performance summary
+@router.get("/user/performance-summary/{board}/{class_level}/{subject}/{chapter}")
+async def get_performance_summary(
     board: str,
-    class_level: str,
+    class_level: str, 
     subject: str,
     chapter: str,
-    current_user = Depends(get_current_user),
+    current_user: dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get detailed performance report for a specific chapter"""
+    """
+    OPTIMIZED: Get performance summary only (fast call)
+    Returns aggregate statistics without detailed question data
+    """
     try:
-        logger.info(f"Generating report for {board}/{class_level}/{subject}/chapter-{chapter}")
+        logger.info(f"Fetching performance summary for {board}/{class_level}/{subject}/chapter-{chapter}")
         
         # Map to source board/class/subject for shared subjects
         mapped_board, mapped_class, mapped_subject = get_mapped_subject_info(
@@ -318,7 +324,119 @@ async def get_detailed_chapter_report(
         except ValueError:
             base_chapter = int(chapter.replace('chapter-', ''))
 
-        # Query attempts with question data
+        # Single optimized query for performance metrics only
+        summary_query = text("""
+            SELECT 
+                COUNT(ua.id) as total_attempts,
+                COALESCE(AVG(ua.score), 0) as average_score,
+                COALESCE(SUM(ua.time_taken), 0) as total_time,
+                COUNT(DISTINCT ua.question_id) as unique_questions,
+                COUNT(CASE WHEN ua.score >= 8 THEN 1 END) as excellent_attempts,
+                COUNT(CASE WHEN ua.score >= 6 AND ua.score < 8 THEN 1 END) as good_attempts,
+                COUNT(CASE WHEN ua.score < 6 THEN 1 END) as needs_improvement_attempts,
+                MAX(ua.created_at) as last_attempt_date,
+                MIN(ua.created_at) as first_attempt_date
+            FROM user_attempts ua
+            WHERE ua.user_id = :user_id 
+            AND ua.board = :board 
+            AND ua.class_level = :class_level 
+            AND ua.subject = :subject 
+            AND ua.chapter = :chapter
+        """)
+        
+        result = db.execute(summary_query, {
+            "user_id": current_user['id'],
+            "board": mapped_board,
+            "class_level": mapped_class,
+            "subject": mapped_subject,
+            "chapter": base_chapter
+        }).fetchone()
+        
+        if not result or result.total_attempts == 0:
+            return {
+                "total_attempts": 0,
+                "average_score": 0.0,
+                "total_time": 0,
+                "unique_questions": 0,
+                "performance_breakdown": {
+                    "excellent": 0,  # 8-10
+                    "good": 0,       # 6-7.9
+                    "needs_improvement": 0  # 0-5.9
+                },
+                "date_range": {
+                    "first_attempt": None,
+                    "last_attempt": None
+                },
+                "chapter_info": {
+                    "board": mapped_board,
+                    "class_level": mapped_class,
+                    "subject": mapped_subject,
+                    "chapter": chapter
+                }
+            }
+        
+        # Return optimized summary response
+        return {
+            "total_attempts": result.total_attempts,
+            "average_score": round(float(result.average_score), 2),
+            "total_time": result.total_time or 0,
+            "unique_questions": result.unique_questions,
+            "performance_breakdown": {
+                "excellent": result.excellent_attempts or 0,
+                "good": result.good_attempts or 0,
+                "needs_improvement": result.needs_improvement_attempts or 0
+            },
+            "date_range": {
+                "first_attempt": result.first_attempt_date.isoformat() if result.first_attempt_date else None,
+                "last_attempt": result.last_attempt_date.isoformat() if result.last_attempt_date else None
+            },
+            "chapter_info": {
+                "board": mapped_board,
+                "class_level": mapped_class,
+                "subject": mapped_subject,
+                "chapter": chapter
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error fetching performance summary: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error fetching performance summary: {str(e)}")
+
+# ✅ NEW ENDPOINT: Paginated solved questions
+@router.get("/user/solved-questions/{board}/{class_level}/{subject}/{chapter}")
+async def get_solved_questions(
+    board: str,
+    class_level: str,
+    subject: str, 
+    chapter: str,
+    limit: int = 50,
+    offset: int = 0,
+    current_user: dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """
+    OPTIMIZED: Get detailed question attempts (potentially slower call)
+    Returns full question details with pagination
+    """
+    try:
+        logger.info(f"Fetching solved questions for {board}/{class_level}/{subject}/chapter-{chapter}")
+        
+        # Map to source board/class/subject for shared subjects
+        mapped_board, mapped_class, mapped_subject = get_mapped_subject_info(
+            board.lower(), 
+            class_level.lower(), 
+            subject.lower()
+        )
+        
+        logger.info(f"Mapped to {mapped_board}/{mapped_class}/{mapped_subject}")
+        
+        # Clean and normalize input
+        try:
+            base_chapter = int(chapter)
+        except ValueError:
+            base_chapter = int(chapter.replace('chapter-', ''))
+
+        # Get detailed attempts with pagination
         attempts_query = (
             db.query(UserAttempt)
             .join(Question, UserAttempt.question_id == Question.id)
@@ -330,25 +448,26 @@ async def get_detailed_chapter_report(
                 UserAttempt.chapter == base_chapter
             )
             .order_by(desc(UserAttempt.created_at))
+            .offset(offset)
+            .limit(limit)
             .all()
         )
-
-        logger.info(f"Found {len(attempts_query)} attempts")
-
-        if not attempts_query:
-            return {
-                "total_attempts": 0,
-                "average_score": 0.0,
-                "total_time": 0,
-                "attempts": []
-            }
-
-        # Calculate overall statistics
-        total_attempts = len(attempts_query)
-        average_score = sum(attempt.score for attempt in attempts_query if attempt.score is not None) / total_attempts
-        total_time = sum(attempt.time_taken or 0 for attempt in attempts_query)
-
-        # Format attempts
+        
+        # Get total count for pagination
+        total_count = (
+            db.query(UserAttempt)
+            .join(Question, UserAttempt.question_id == Question.id)
+            .filter(
+                UserAttempt.user_id == current_user['id'],
+                Question.board == mapped_board,
+                Question.class_level == mapped_class,
+                Question.subject == mapped_subject,
+                UserAttempt.chapter == base_chapter
+            )
+            .count()
+        )
+        
+        # Format attempts data
         formatted_attempts = []
         for attempt in attempts_query:
             try:
@@ -411,20 +530,65 @@ async def get_detailed_chapter_report(
             except Exception as e:
                 logger.error(f"Error formatting attempt {attempt.id}: {str(e)}")
                 continue
-
+        
         return {
-            "total_attempts": total_attempts,
-            "average_score": round(average_score, 1),
-            "total_time": total_time,
-            "attempts": formatted_attempts
+            "attempts": formatted_attempts,
+            "pagination": {
+                "total": total_count,
+                "limit": limit,
+                "offset": offset,
+                "has_more": (offset + limit) < total_count,
+                "next_offset": (offset + limit) if (offset + limit) < total_count else None
+            },
+            "chapter_info": {
+                "board": mapped_board,
+                "class_level": mapped_class,
+                "subject": mapped_subject,
+                "chapter": chapter
+            }
         }
+        
+    except Exception as e:
+        logger.error(f"Error fetching solved questions: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error fetching solved questions: {str(e)}")
 
-    except ValueError as ve:
-        logger.error(f"Invalid input parameters: {str(ve)}")
-        raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST,
-            detail=f"Invalid input parameters: {str(ve)}"
+# ✅ UPDATED: Original detailed report endpoint (now backward compatible)
+@router.get("/user/detailed-report/{board}/{class_level}/{subject}/{chapter}")
+async def get_detailed_chapter_report(
+    board: str,
+    class_level: str,
+    subject: str,
+    chapter: str,
+    current_user = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """
+    LEGACY ENDPOINT: Maintain backward compatibility
+    Combines both summary and questions for existing clients
+    """
+    try:
+        logger.info(f"Generating legacy report for {board}/{class_level}/{subject}/chapter-{chapter}")
+        
+        # Get summary
+        summary_response = await get_performance_summary(
+            board, class_level, subject, chapter, current_user, db
         )
+        
+        # Get questions (first 50 for legacy compatibility)
+        questions_response = await get_solved_questions(
+            board, class_level, subject, chapter, 50, 0, current_user, db
+        )
+        
+        # Return in original format for backward compatibility
+        return {
+            "total_attempts": summary_response["total_attempts"],
+            "average_score": summary_response["average_score"],
+            "total_time": summary_response["total_time"],
+            "attempts": questions_response["attempts"],
+            "performance_breakdown": summary_response.get("performance_breakdown"),
+            "unique_questions": summary_response.get("unique_questions")
+        }
+        
     except Exception as e:
         logger.error(f"Error generating detailed report: {str(e)}")
         raise HTTPException(
