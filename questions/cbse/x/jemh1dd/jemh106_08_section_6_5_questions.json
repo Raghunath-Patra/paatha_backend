@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen057"
+    "question_id": "cbse_x_jemh1dd_c106_gen057",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "Which of the following is NOT a necessary condition for two polygons to be similar?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen058"
+    "question_id": "cbse_x_jemh1dd_c106_gen058",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "In two right triangles, if the hypotenuse and one corresponding side are proportional, which similarity criterion is applied?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen059"
+    "question_id": "cbse_x_jemh1dd_c106_gen059",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "If a line is drawn parallel to one side of a triangle and it intersects the other two sides, what is the relationship between the segments it creates on those sides?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen060"
+    "question_id": "cbse_x_jemh1dd_c106_gen060",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "Define similar figures in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen061"
+    "question_id": "cbse_x_jemh1dd_c106_gen061",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "Differentiate between congruent figures and similar figures.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen062"
+    "question_id": "cbse_x_jemh1dd_c106_gen062",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "State the AA (Angle-Angle) similarity criterion for triangles.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen063"
+    "question_id": "cbse_x_jemh1dd_c106_gen063",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "Explain the SAS (Side-Angle-Side) similarity criterion for triangles.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen064"
+    "question_id": "cbse_x_jemh1dd_c106_gen064",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "Prove that if a line is drawn parallel to one side of a triangle, then it divides the other two sides in the same ratio.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen065"
+    "question_id": "cbse_x_jemh1dd_c106_gen065",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "Prove that if in two triangles, corresponding sides are proportional, then the corresponding angles are equal, thereby establishing triangle similarity (SSS Similarity Criterion).",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen066"
+    "question_id": "cbse_x_jemh1dd_c106_gen066",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "Triangle PQR is similar to triangle XYZ with a scale factor of 2:5. If side PQ is 6 units and the corresponding side XY measures 10 units, verify the similarity and find the length of side PR given that the side corresponding to PR in triangle XYZ is 15 units.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen067"
+    "question_id": "cbse_x_jemh1dd_c106_gen067",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "In triangle ABC, a line DE is drawn parallel to side BC. Given that AD = 4 cm, DB = 6 cm and AC = 15 cm, find the length of AE if AE/EC = AD/DB.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen068"
+    "question_id": "cbse_x_jemh1dd_c106_gen068",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "A right triangle has sides of lengths 6, 8, and 10. An altitude is drawn from the right angle to the hypotenuse. Determine the lengths of the segments into which the hypotenuse is divided and show the similarity relationships between the smaller right triangles.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen069"
+    "question_id": "cbse_x_jemh1dd_c106_gen069",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "A triangle has sides of lengths 10 cm, 12 cm, and 14 cm. A triangle similar to it has one corresponding side of 15 cm (corresponding to 10 cm of the original triangle). Find the lengths of the other two corresponding sides in the similar triangle.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen070"
+    "question_id": "cbse_x_jemh1dd_c106_gen070",
+    "section_name": "6.5 Summary"
   },
   {
     "question_text": "Two right triangles are similar by the RHS criterion. If one triangle has a hypotenuse of 13 cm and a leg of 5 cm, and the corresponding hypotenuse of the second triangle is 26 cm, find the length of the corresponding leg in the second triangle.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "08_section_6_5",
-    "question_id": "cbse_x_jemh1dd_c106_gen071"
+    "question_id": "cbse_x_jemh1dd_c106_gen071",
+    "section_name": "6.5 Summary"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "4.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "4.2 Complex Numbers"
+    },
+    {
+      "number": 3,
+      "name": "4.3 Algebra of Complex Numbers**"
+    },
+    {
+      "number": 4,
+      "name": "4.4 The Modulus and the Conjugate of a Complex Number**"
+    }
+  ]
+}

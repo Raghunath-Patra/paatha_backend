@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen001"
+    "question_id": "cbse_xii_lemh2dd_c207_gen001",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "In a classical experiment with equally likely outcomes, if an event A consists of 4 favorable outcomes out of 20 possible outcomes, what is the probability of event A?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen002"
+    "question_id": "cbse_xii_lemh2dd_c207_gen002",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "If P(A) = 0.3 and P(B) = 0.5 for two mutually exclusive events, what is P(A ∪ B) based on the addition rule of probability?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen003"
+    "question_id": "cbse_xii_lemh2dd_c207_gen003",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which of the following best describes conditional probability?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen004"
+    "question_id": "cbse_xii_lemh2dd_c207_gen004",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Define conditional probability and provide its mathematical formula.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen005"
+    "question_id": "cbse_xii_lemh2dd_c207_gen005",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Explain what a random variable is in the context of probability theory.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen006"
+    "question_id": "cbse_xii_lemh2dd_c207_gen006",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "State Bayes' theorem and describe its significance in probability theory.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen007"
+    "question_id": "cbse_xii_lemh2dd_c207_gen007",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Prove the multiplication rule for probabilities using the definition of conditional probability.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen008"
+    "question_id": "cbse_xii_lemh2dd_c207_gen008",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Derive the expression for the probability mass function (PMF) of a binomial distribution.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen009"
+    "question_id": "cbse_xii_lemh2dd_c207_gen009",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "In a deck of 52 cards, if you draw one card at random, what is the probability of drawing a heart? Show all steps in your solution.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen010"
+    "question_id": "cbse_xii_lemh2dd_c207_gen010",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "A bag contains 5 red and 3 blue balls. Two balls are drawn sequentially without replacement. Calculate the probability that the second ball drawn is blue, given that the first ball was red.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen011"
+    "question_id": "cbse_xii_lemh2dd_c207_gen011",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Consider a discrete random variable X with the following probability mass function: P(X=0)=0.2, P(X=1)=0.5, and P(X=2)=0.3. Compute the mean (expected value) and the variance of X, showing every step.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen012"
+    "question_id": "cbse_xii_lemh2dd_c207_gen012",
+    "section_name": "13.1 Introduction"
   }
 ]

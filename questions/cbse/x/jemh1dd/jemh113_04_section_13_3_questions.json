@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen027"
+    "question_id": "cbse_x_jemh1dd_c113_gen027",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "In a grouped frequency distribution, the class interval with the highest frequency is called the _____.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen028"
+    "question_id": "cbse_x_jemh1dd_c113_gen028",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "What is the formula for finding the mode of grouped data?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen029"
+    "question_id": "cbse_x_jemh1dd_c113_gen029",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "If in a given statistical data set, the mode is less than the mean, then one can infer that the distribution is _____.",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen030"
+    "question_id": "cbse_x_jemh1dd_c113_gen030",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Define the term 'modal class' in the context of grouped data.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen031"
+    "question_id": "cbse_x_jemh1dd_c113_gen031",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "State the formula used to estimate the mode for grouped data, and define each term in the formula.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen032"
+    "question_id": "cbse_x_jemh1dd_c113_gen032",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Explain the significance of comparing the mode with the mean in a data set. Under what scenario might one be more useful than the other?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen033"
+    "question_id": "cbse_x_jemh1dd_c113_gen033",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Derive the formula for estimating the mode for grouped data using the concept of interpolation within the modal class.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen034"
+    "question_id": "cbse_x_jemh1dd_c113_gen034",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Critically analyze a scenario where the mode of a data set is significantly lower than the mean. Use an example frequency distribution and explain the implications of this difference for data interpretation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen035"
+    "question_id": "cbse_x_jemh1dd_c113_gen035",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "A frequency distribution is given as follows:\n\nClass Interval: 10–20, 20–30, 30–40, 40–50\nFrequencies: 5, 12, 9, 4\n\nCalculate the mode using the formula for grouped data.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen036"
+    "question_id": "cbse_x_jemh1dd_c113_gen036",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "In a survey of households, the number of individuals per household is grouped as follows:\n\nFamily Size: 3–5, 5–7, 7–9, 9–11\nFrequencies: 8, 15, 10, 7\n\nFind the mode of the data.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen037"
+    "question_id": "cbse_x_jemh1dd_c113_gen037",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Consider the following frequency distribution of marks obtained by students in an exam:\n\nMarks Interval: 30–40, 40–50, 50–60, 60–70, 70–80\nFrequencies: 4, 7, 9, 5, 3\n\nDetermine the mode of the marks.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen038"
+    "question_id": "cbse_x_jemh1dd_c113_gen038",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Given the following grouped data:\n\nInterval: 2–5, 5–8, 8–11\nFrequencies: 10, 15, 12\n\nCalculate the mode of the data and briefly discuss how changing the class size (h) might affect the computed mode.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen039"
+    "question_id": "cbse_x_jemh1dd_c113_gen039",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Explain what is meant by multimodal data and why the discussion in this section is restricted to data sets with a single mode.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen040"
+    "question_id": "cbse_x_jemh1dd_c113_gen040",
+    "section_name": "13.3 Mode of Grouped Data"
   }
 ]

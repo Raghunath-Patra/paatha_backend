@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen183"
+    "question_id": "cbse_xii_leph1dd_c103_gen183",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "When two cells in series are connected such that the current leaves the first cell from its negative terminal, the equivalent emf becomes:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen184"
+    "question_id": "cbse_xii_leph1dd_c103_gen184",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Which of the following represents the expression for the equivalent internal resistance (req) of two cells connected in series?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen185"
+    "question_id": "cbse_xii_leph1dd_c103_gen185",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "In a parallel combination of cells, what is the relationship between the overall equivalent resistance and the individual internal resistances?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen186"
+    "question_id": "cbse_xii_leph1dd_c103_gen186",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "For cells connected in parallel, the equivalent emf (εeq) is determined using which of the following relationships?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen187"
+    "question_id": "cbse_xii_leph1dd_c103_gen187",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Explain the physical meaning of the internal resistance in a cell and how it affects the terminal voltage when current flows.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen188"
+    "question_id": "cbse_xii_leph1dd_c103_gen188",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Describe how the equivalent emf is found when more than two cells are connected in series.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen189"
+    "question_id": "cbse_xii_leph1dd_c103_gen189",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Discuss the advantages and limitations of using cells in parallel in a circuit with respect to current delivery and emf stability.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen190"
+    "question_id": "cbse_xii_leph1dd_c103_gen190",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "For two cells connected in series, derive the expression for the terminal voltage V(AC) in terms of the individual emfs, internal resistances, and the current I.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen191"
+    "question_id": "cbse_xii_leph1dd_c103_gen191",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Explain in detail the derivation of the expression for the equivalent emf in a parallel combination of two cells.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen192"
+    "question_id": "cbse_xii_leph1dd_c103_gen192",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "A student claims that connecting cells in parallel always increases the emf output of the combination. Is this statement true or false? Explain.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen193"
+    "question_id": "cbse_xii_leph1dd_c103_gen193",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "True or False: In a series combination, if one cell is connected in reverse (with respect to the standard orientation), its emf is subtracted from the total emf.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen194"
+    "question_id": "cbse_xii_leph1dd_c103_gen194",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "True or False: The expression 1/req = 1/r1 + 1/r2 is valid only if the cells have identical emf’s.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen195"
+    "question_id": "cbse_xii_leph1dd_c103_gen195",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Two cells with emfs of 2.0 V and 1.5 V, and internal resistances of 0.5 Ω and 0.3 Ω respectively, are connected in series (both connected with positive to negative). Calculate the equivalent emf, equivalent internal resistance, and the terminal voltage when a load draws a current of 1.0 A.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen196"
+    "question_id": "cbse_xii_leph1dd_c103_gen196",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "In a parallel circuit consisting of two cells with emfs 3.0 V and 2.5 V and internal resistances 1.0 Ω and 0.5 Ω respectively, calculate the equivalent emf and the equivalent internal resistance.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen197"
+    "question_id": "cbse_xii_leph1dd_c103_gen197",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "A battery pack is made by connecting three identical cells in parallel. Each cell has an emf of 1.5 V and an internal resistance of 2.0 Ω. Calculate the equivalent emf and the equivalent internal resistance of the battery pack.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen198"
+    "question_id": "cbse_xii_leph1dd_c103_gen198",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "If two cells are connected in series, one with emf 4.0 V and internal resistance 0.4 Ω and the other with emf 3.0 V and internal resistance 0.6 Ω, calculate the terminal voltage across the combination when a current of 2.0 A flows.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen199"
+    "question_id": "cbse_xii_leph1dd_c103_gen199",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "A circuit contains two cells connected in parallel with differing internal resistances. If cell 1 has ε1 = 5 V and r1 = 1 Ω, and cell 2 has ε2 = 4 V and r2 = 2 Ω, determine the net current supplied by the combination when connected to an external load that draws a voltage of 4.5 V across its terminals.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen200"
+    "question_id": "cbse_xii_leph1dd_c103_gen200",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   }
 ]

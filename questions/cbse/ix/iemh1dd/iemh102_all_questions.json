@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen044"
+    "question_id": "cbse_ix_iemh1dd_c102_gen044",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Which of the following is the correct deduction using the Remainder Theorem if p(x) = (x – a)q(x) + p(a)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen045"
+    "question_id": "cbse_ix_iemh1dd_c102_gen045",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "If x + 2 is a factor of the polynomial s(x), what should s(–2) equal?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen046"
+    "question_id": "cbse_ix_iemh1dd_c102_gen046",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Define the Factor Theorem and explain its two parts.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen047"
+    "question_id": "cbse_ix_iemh1dd_c102_gen047",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Briefly explain how the ‘splitting the middle term’ method works for factorising a quadratic polynomial of the form ax² + bx + c.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen048"
+    "question_id": "cbse_ix_iemh1dd_c102_gen048",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "What conditions must two numbers satisfy for the quadratic ax² + bx + c to be factorised using the splitting method?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen049"
+    "question_id": "cbse_ix_iemh1dd_c102_gen049",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Using the Factor Theorem, outline the process to determine an unknown constant in a polynomial when a given binomial is one of its factors.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen050"
+    "question_id": "cbse_ix_iemh1dd_c102_gen050",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Prove the Factor Theorem using the Remainder Theorem.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen051"
+    "question_id": "cbse_ix_iemh1dd_c102_gen051",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Factorise the polynomial x³ – 23x² + 142x – 120 completely by first identifying a factor using the Factor Theorem and then factorising the resulting quadratic.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen052"
+    "question_id": "cbse_ix_iemh1dd_c102_gen052",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Factorise the quadratic polynomial 6x² + 17x + 5 using the splitting the middle term method.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen053"
+    "question_id": "cbse_ix_iemh1dd_c102_gen053",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Factorise the quadratic polynomial y² – 5y + 6 using the Factor Theorem.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen054"
+    "question_id": "cbse_ix_iemh1dd_c102_gen054",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Determine the value of k such that x – 1 is a factor of the polynomial 4x³ + 3x² – 4x + k.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen055"
+    "question_id": "cbse_ix_iemh1dd_c102_gen055",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Factorise the cubic polynomial x³ – 6x² – 7x + 42 by first finding one rational root and then factorising the remaining quadratic.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen056"
+    "question_id": "cbse_ix_iemh1dd_c102_gen056",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Use suitable identities to find the following products:\n(i) (x + 4)(x + 10)\n(ii) (x + 8)(x – 10)\n(iii) (3x + 4)(3x – 5)\n(iv) (y² + 3/2)(y² – 3/2)\n(v) (3 – 2x)(3 + 2x)",
@@ -421,7 +434,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen070"
+    "question_id": "cbse_ix_iemh1dd_c102_gen070",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "According to the Factor Theorem, which condition must be met for (x – a) to be a factor of a polynomial p(x)?",
@@ -440,7 +454,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen071"
+    "question_id": "cbse_ix_iemh1dd_c102_gen071",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Which of the following represents the correct expansion of (x + y + z)²?",
@@ -459,7 +474,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen072"
+    "question_id": "cbse_ix_iemh1dd_c102_gen072",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "What is the degree of the polynomial 5x³ – 2x + 7?",
@@ -478,7 +494,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen073"
+    "question_id": "cbse_ix_iemh1dd_c102_gen073",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Define a polynomial in one variable and list its components.",
@@ -492,7 +509,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen074"
+    "question_id": "cbse_ix_iemh1dd_c102_gen074",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "What is a monomial? Provide an example.",
@@ -506,7 +524,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen075"
+    "question_id": "cbse_ix_iemh1dd_c102_gen075",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "State the Factor Theorem.",
@@ -520,7 +539,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen076"
+    "question_id": "cbse_ix_iemh1dd_c102_gen076",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "What does it mean for a real number a to be a zero of a polynomial p(x)?",
@@ -534,7 +554,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen077"
+    "question_id": "cbse_ix_iemh1dd_c102_gen077",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Prove the Factor Theorem: show that (x – a) is a factor of p(x) if and only if p(a) = 0.",
@@ -548,7 +569,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen078"
+    "question_id": "cbse_ix_iemh1dd_c102_gen078",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Derive the identity x³ + y³ + z³ – 3xyz = (x + y + z)(x² + y² + z² – xy – yz – zx) and explain each step of your derivation.",
@@ -562,7 +584,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen079"
+    "question_id": "cbse_ix_iemh1dd_c102_gen079",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Solve the linear equation 4x – 8 = 0 by finding its unique zero.",
@@ -576,7 +599,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen080"
+    "question_id": "cbse_ix_iemh1dd_c102_gen080",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Determine whether (x – 3) is a factor of the polynomial p(x) = 2x³ – 5x² + x – 6 using the Factor Theorem.",
@@ -590,7 +614,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen081"
+    "question_id": "cbse_ix_iemh1dd_c102_gen081",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Given the quadratic polynomial p(x) = 2x² – 3x + 1, verify that x = 1 is a zero and factor the polynomial completely.",
@@ -604,7 +629,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen082"
+    "question_id": "cbse_ix_iemh1dd_c102_gen082",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Expand and simplify the expression (x – y)³.",
@@ -618,7 +644,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "10_section_2_6",
-    "question_id": "cbse_ix_iemh1dd_c102_gen083"
+    "question_id": "cbse_ix_iemh1dd_c102_gen083",
+    "section_name": "2.6 Summary"
   },
   {
     "question_text": "Which of the following expressions is NOT a polynomial in x?",
@@ -637,7 +664,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen016"
+    "question_id": "cbse_ix_iemh1dd_c102_gen016",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "What is the coefficient of x in the polynomial x² - x + 7?",
@@ -656,7 +684,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen017"
+    "question_id": "cbse_ix_iemh1dd_c102_gen017",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Which of the following correctly describes a linear polynomial in one variable x?",
@@ -675,7 +704,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen018"
+    "question_id": "cbse_ix_iemh1dd_c102_gen018",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Which one of the following is a trinomial?",
@@ -694,7 +724,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen019"
+    "question_id": "cbse_ix_iemh1dd_c102_gen019",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Define a polynomial in one variable. Include in your answer the general form and the role of the coefficients and exponents.",
@@ -708,7 +739,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen020"
+    "question_id": "cbse_ix_iemh1dd_c102_gen020",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "What is a binomial? Provide an example of a binomial polynomial.",
@@ -722,7 +754,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen021"
+    "question_id": "cbse_ix_iemh1dd_c102_gen021",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Express the area of a square with side length x as a polynomial in x.",
@@ -736,7 +769,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen022"
+    "question_id": "cbse_ix_iemh1dd_c102_gen022",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Explain the difference between a constant and a variable in the context of a polynomial expression.",
@@ -750,7 +784,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen023"
+    "question_id": "cbse_ix_iemh1dd_c102_gen023",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Prove that the sum of two polynomials in one variable is also a polynomial in one variable. In your answer, discuss how the degrees of the resulting polynomial relate to the degrees of the original polynomials.",
@@ -764,7 +799,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen024"
+    "question_id": "cbse_ix_iemh1dd_c102_gen024",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Write down the general form of a polynomial in one variable of degree n and explain why the coefficient of the highest degree term must be non-zero.",
@@ -778,7 +814,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen025"
+    "question_id": "cbse_ix_iemh1dd_c102_gen025",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Find the degree of the polynomial: x⁵ - x⁴ + 3.",
@@ -792,7 +829,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen026"
+    "question_id": "cbse_ix_iemh1dd_c102_gen026",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "A square has a side length given by x units. Write an expression for its perimeter, and then find the perimeter when x = 7.",
@@ -806,7 +844,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen027"
+    "question_id": "cbse_ix_iemh1dd_c102_gen027",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Evaluate the polynomial p(x) = 3x⁷ - 4x⁶ + x + 9 for x = 2.",
@@ -820,7 +859,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen028"
+    "question_id": "cbse_ix_iemh1dd_c102_gen028",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Given a quadratic polynomial in the form p(x) = ax² + bx + c, if p(1) = 6, p(2) = 11, and p(3) = 18, find the values of a, b, and c.",
@@ -834,7 +874,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen029"
+    "question_id": "cbse_ix_iemh1dd_c102_gen029",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Which algebraic identity represents the expansion of (x + y)²?",
@@ -853,7 +894,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen057"
+    "question_id": "cbse_ix_iemh1dd_c102_gen057",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "In the factorisation of 49a² + 70ab + 25b², which substitution is used to apply an algebraic identity?",
@@ -872,7 +914,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen058"
+    "question_id": "cbse_ix_iemh1dd_c102_gen058",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Which identity is used to factorise the expression x³ + y³ + z³ - 3xyz?",
@@ -891,7 +934,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen059"
+    "question_id": "cbse_ix_iemh1dd_c102_gen059",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Identify the correct expansion of (x - y)³ from the options below.",
@@ -910,7 +954,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen060"
+    "question_id": "cbse_ix_iemh1dd_c102_gen060",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Define an algebraic identity and provide one example from the text.",
@@ -924,7 +969,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen061"
+    "question_id": "cbse_ix_iemh1dd_c102_gen061",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Expand (x + y + z)² using the appropriate algebraic identity and explain each step of your process.",
@@ -938,7 +984,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen062"
+    "question_id": "cbse_ix_iemh1dd_c102_gen062",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "State and prove the identity (x + a)(x + b) = x² + (a + b)x + ab.",
@@ -952,7 +999,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen063"
+    "question_id": "cbse_ix_iemh1dd_c102_gen063",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Derive the expansion of (4a - 2b - 3c)² and verify each term in the process.",
@@ -966,7 +1014,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen064"
+    "question_id": "cbse_ix_iemh1dd_c102_gen064",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Prove the identity x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx) and explain each logical step in your derivation.",
@@ -980,7 +1029,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen065"
+    "question_id": "cbse_ix_iemh1dd_c102_gen065",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Using the identity (x + y)² = x² + 2xy + y², calculate (5 + 3)² by substituting x = 5 and y = 3.",
@@ -994,7 +1044,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen066"
+    "question_id": "cbse_ix_iemh1dd_c102_gen066",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Evaluate 105 × 106 using appropriate algebraic identities.",
@@ -1008,7 +1059,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen067"
+    "question_id": "cbse_ix_iemh1dd_c102_gen067",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Using the identity (x - y)³ = x³ - y³ - 3xy(x - y), evaluate (999)³ by expressing it suitable in terms of 1000.",
@@ -1022,7 +1074,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen068"
+    "question_id": "cbse_ix_iemh1dd_c102_gen068",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Factorise the expression 8x³ + 27y³ + 36x²y + 54xy² using suitable algebraic identities.",
@@ -1036,7 +1089,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "08_section_2_5",
-    "question_id": "cbse_ix_iemh1dd_c102_gen069"
+    "question_id": "cbse_ix_iemh1dd_c102_gen069",
+    "section_name": "2.5 Algebraic Identities"
   },
   {
     "question_text": "Find the value of the polynomial 5x – 4x² + 3 at x = 0, x = –1, and x = 2.",
@@ -1107,7 +1161,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen001"
+    "question_id": "cbse_ix_iemh1dd_c102_gen001",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "According to the Remainder Theorem, if a polynomial f(x) is divided by (x - a), what is the remainder?",
@@ -1126,7 +1181,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen002"
+    "question_id": "cbse_ix_iemh1dd_c102_gen002",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Which statement best describes the Factor Theorem?",
@@ -1145,7 +1201,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen003"
+    "question_id": "cbse_ix_iemh1dd_c102_gen003",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Which of the following identities correctly represents the difference of two squares?",
@@ -1164,7 +1221,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen004"
+    "question_id": "cbse_ix_iemh1dd_c102_gen004",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define a polynomial. Give the general form and explain the terms used.",
@@ -1178,7 +1236,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen005"
+    "question_id": "cbse_ix_iemh1dd_c102_gen005",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "What is the Remainder Theorem and how is it used in finding the remainder of polynomial division?",
@@ -1192,7 +1251,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen006"
+    "question_id": "cbse_ix_iemh1dd_c102_gen006",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "State the Factor Theorem and explain its significance in polynomial factorisation.",
@@ -1206,7 +1266,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen007"
+    "question_id": "cbse_ix_iemh1dd_c102_gen007",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Explain what an algebraic identity is, and provide two examples along with their applications in factorisation.",
@@ -1220,7 +1281,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen008"
+    "question_id": "cbse_ix_iemh1dd_c102_gen008",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Prove the algebraic identity (x + y)² = x² + 2xy + y².",
@@ -1234,7 +1296,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen009"
+    "question_id": "cbse_ix_iemh1dd_c102_gen009",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Derive the factorisation of x² - y² using the difference of two squares identity and provide a detailed explanation of each step.",
@@ -1248,7 +1311,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen010"
+    "question_id": "cbse_ix_iemh1dd_c102_gen010",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Discuss the relationship between the Remainder Theorem and the Factor Theorem with supporting examples.",
@@ -1262,7 +1326,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen011"
+    "question_id": "cbse_ix_iemh1dd_c102_gen011",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Find the value of f(3) for the polynomial f(x) = 2x² - 3x + 5 and verify it using the Remainder Theorem when f(x) is divided by (x - 3).",
@@ -1276,7 +1341,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen012"
+    "question_id": "cbse_ix_iemh1dd_c102_gen012",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Factorise the polynomial f(x) = x³ - 6x² + 11x - 6 using the Factor Theorem and provide a step-by-step explanation.",
@@ -1290,7 +1356,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen013"
+    "question_id": "cbse_ix_iemh1dd_c102_gen013",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Using the Remainder Theorem, determine the remainder when f(x) = 2x³ + 3x² - x + 5 is divided by (x - 2).",
@@ -1304,7 +1371,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen014"
+    "question_id": "cbse_ix_iemh1dd_c102_gen014",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Factorise the expression 4x² - 9 by recognizing it as a difference of two squares and show the step-by-step process.",
@@ -1318,7 +1386,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen015"
+    "question_id": "cbse_ix_iemh1dd_c102_gen015",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Consider the polynomial p(x) = 5x³ – 2x² + 3x – 2. What is the value of p(–1)?",
@@ -1337,7 +1406,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen030"
+    "question_id": "cbse_ix_iemh1dd_c102_gen030",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "For the polynomial p(x) = x – 1, which of the following is a zero of the polynomial?",
@@ -1356,7 +1426,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen031"
+    "question_id": "cbse_ix_iemh1dd_c102_gen031",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "What is the unique zero of the linear polynomial 2x + 1?",
@@ -1375,7 +1446,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen032"
+    "question_id": "cbse_ix_iemh1dd_c102_gen032",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "How many zeroes does a non-zero constant polynomial have?",
@@ -1394,7 +1466,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen033"
+    "question_id": "cbse_ix_iemh1dd_c102_gen033",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Define what is meant by a 'zero' of a polynomial.",
@@ -1408,7 +1481,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen034"
+    "question_id": "cbse_ix_iemh1dd_c102_gen034",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Why does every linear polynomial of the form p(x) = ax + b (with a ≠ 0) have exactly one zero?",
@@ -1422,7 +1496,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen035"
+    "question_id": "cbse_ix_iemh1dd_c102_gen035",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Evaluate the polynomial q(y) = 3y³ – 4y + √11 at y = 2.",
@@ -1436,7 +1511,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen036"
+    "question_id": "cbse_ix_iemh1dd_c102_gen036",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Express the value of the polynomial p(t) = 4t⁴ + 5t³ – t² + 6 when t = a.",
@@ -1450,7 +1526,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen037"
+    "question_id": "cbse_ix_iemh1dd_c102_gen037",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Prove that for any linear polynomial p(x) = ax + b, where a ≠ 0, the unique zero is given by x = –b/a.",
@@ -1464,7 +1541,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen038"
+    "question_id": "cbse_ix_iemh1dd_c102_gen038",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Discuss why the zero polynomial (which is identically 0) is said to have every real number as its zero.",
@@ -1478,7 +1556,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen039"
+    "question_id": "cbse_ix_iemh1dd_c102_gen039",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Determine all the zeros of the polynomial p(x) = x² – 2x.",
@@ -1492,7 +1571,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen040"
+    "question_id": "cbse_ix_iemh1dd_c102_gen040",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Evaluate the polynomial p(x) = 5x² – 3x + 7 at x = 1 and show your working.",
@@ -1506,7 +1586,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen041"
+    "question_id": "cbse_ix_iemh1dd_c102_gen041",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Find the unique zero of the polynomial p(x) = 2x + 1 by solving the equation p(x) = 0.",
@@ -1520,7 +1601,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen042"
+    "question_id": "cbse_ix_iemh1dd_c102_gen042",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Evaluate the polynomial q(y) = 3y³ – 4y + √11 at y = 2, and detail your calculation steps.",
@@ -1534,7 +1616,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen043"
+    "question_id": "cbse_ix_iemh1dd_c102_gen043",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Determine whether the polynomial x³ + x² + x + 1 has (x + 1) as a factor.",

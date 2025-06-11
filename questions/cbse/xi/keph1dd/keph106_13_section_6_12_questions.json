@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen415"
+    "question_id": "cbse_xi_keph1dd_c106_gen415",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "When a rigid body rotates about a fixed axis and there is no external torque, which component of the angular momentum remains constant?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen416"
+    "question_id": "cbse_xi_keph1dd_c106_gen416",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In the equation L = I × ω for a symmetric body rotating about a fixed axis, what does the variable ω represent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen417"
+    "question_id": "cbse_xi_keph1dd_c106_gen417",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which law or principle allows us to write the equation dL/dt = τ for a rotating system?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen418"
+    "question_id": "cbse_xi_keph1dd_c106_gen418",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A person sitting on a swivel chair spins with arms folded and then extends the arms outwards. What happens to the angular speed and why?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen419"
+    "question_id": "cbse_xi_keph1dd_c106_gen419",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Explain the concept of moment of inertia and its significance in rotation about a fixed axis.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen420"
+    "question_id": "cbse_xi_keph1dd_c106_gen420",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Briefly explain why in symmetric bodies the total angular momentum L equals the component Lz along the fixed rotation axis.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen421"
+    "question_id": "cbse_xi_keph1dd_c106_gen421",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "What is the significance of the distance r⊥ (r perpendicular) in the calculation of a particle's angular momentum during rotation?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen422"
+    "question_id": "cbse_xi_keph1dd_c106_gen422",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Differentiate the expression L = I × ω (assuming I is constant) with respect to time and explain its significance in relation to torque.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen423"
+    "question_id": "cbse_xi_keph1dd_c106_gen423",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Discuss how the principle dL/dt = τ applies to a rigid body rotating about a fixed axis, particularly in the context of the experimental setups like the swivel chair demonstration.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen424"
+    "question_id": "cbse_xi_keph1dd_c106_gen424",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Compare and contrast the angular momentum vectors of symmetric and non-symmetric bodies rotating about a fixed axis. How does the orientation of L change in each case?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen425"
+    "question_id": "cbse_xi_keph1dd_c106_gen425",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Analyze the swivel chair experiment where a person changes arm position to control spin. Describe how conservation of angular momentum is maintained in this process and discuss any underlying physical assumptions.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen426"
+    "question_id": "cbse_xi_keph1dd_c106_gen426",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: If no external torque acts on a rotating system, the magnitude of the total angular momentum remains constant.",
@@ -209,7 +221,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen427"
+    "question_id": "cbse_xi_keph1dd_c106_gen427",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: For a particle in rotation, the angular momentum vector is always parallel to its angular velocity vector.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen428"
+    "question_id": "cbse_xi_keph1dd_c106_gen428",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: When a spinning diver reduces his moment of inertia by tucking his limbs in, his angular speed increases if no external torque acts.",
@@ -247,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen429"
+    "question_id": "cbse_xi_keph1dd_c106_gen429",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A solid disk of mass 2 kg and radius 0.5 m rotates about a fixed axis through its center with an angular speed of 10 rad/s. Given that the moment of inertia for a solid disk is (1/2) m R², calculate the moment of inertia and the angular momentum of the disk.",
@@ -261,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen430"
+    "question_id": "cbse_xi_keph1dd_c106_gen430",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A figure skater spins with an initial angular speed of 4 rad/s and has an initial moment of inertia of 2.5 kg m². If the skater pulls in her arms and reduces her moment of inertia to 1.5 kg m², what is her new angular speed assuming angular momentum is conserved?",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen431"
+    "question_id": "cbse_xi_keph1dd_c106_gen431",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A rigid body rotates about a fixed axis with an angular speed of 8 rad/s. If an external torque of 4 N m is applied and its moment of inertia is 2 kg m², calculate the angular acceleration of the body.",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen432"
+    "question_id": "cbse_xi_keph1dd_c106_gen432",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "During a diving maneuver, a diver’s moment of inertia decreases from 3 kg m² to 2 kg m². If his initial angular speed was 3 rad/s, what is his final angular speed assuming conservation of angular momentum?",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen433"
+    "question_id": "cbse_xi_keph1dd_c106_gen433",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A disc rotates about its fixed axis. Over a time period of 2 seconds, the measured rate of change of its angular momentum is 6 N m. If the moment of inertia is 1.2 kg m² (constant), calculate the angular acceleration and determine the change in angular speed over this period.",
@@ -317,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen434"
+    "question_id": "cbse_xi_keph1dd_c106_gen434",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen030"
+    "question_id": "cbse_xi_kemh1dd_c108_gen030",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Which of the following represents the sigma notation for the finite series: 7 + 9 + 11 + … + (2n+5)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen031"
+    "question_id": "cbse_xi_kemh1dd_c108_gen031",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Which symbol is used to represent the summation sign in sigma notation?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen032"
+    "question_id": "cbse_xi_kemh1dd_c108_gen032",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Define what is meant by a 'series' in the context of sequences. Provide a clear definition.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen033"
+    "question_id": "cbse_xi_kemh1dd_c108_gen033",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Express the finite series 2 + 4 + 6 + … + 20 using sigma notation.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen034"
+    "question_id": "cbse_xi_kemh1dd_c108_gen034",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "A sequence is defined recursively by a₁ = 1 and aₙ = aₙ₋₁ + 2 for n ≥ 2. Derive the first five terms and write the corresponding series using these terms. Show all your steps.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen035"
+    "question_id": "cbse_xi_kemh1dd_c108_gen035",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "For the sequence defined by aₙ = (n - 1)(2 - n)(3 + n), find the 20th term (a₂₀) by substituting n = 20. Show each step of your calculation.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen036"
+    "question_id": "cbse_xi_kemh1dd_c108_gen036",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Write the first three terms of the sequence defined by aₙ = (n - 3)/4. Provide complete working for each term.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen037"
+    "question_id": "cbse_xi_kemh1dd_c108_gen037",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Determine the 5th term of the sequence defined by aₙ = 2n + 3. Explain your process step-by-step.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen038"
+    "question_id": "cbse_xi_kemh1dd_c108_gen038",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Express the infinite series associated with the sequence aₙ = n/2 using sigma notation.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen039"
+    "question_id": "cbse_xi_kemh1dd_c108_gen039",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Find the sum of the finite series 1 + 3 + 5 + 7 by computing the sum of its terms.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen040"
+    "question_id": "cbse_xi_kemh1dd_c108_gen040",
+    "section_name": "8.3 Series"
   },
   {
     "question_text": "Which of the following statements about series is TRUE?",
@@ -190,6 +201,7 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_kemh1dd_c108_gen041"
+    "question_id": "cbse_xi_kemh1dd_c108_gen041",
+    "section_name": "8.3 Series"
   }
 ]

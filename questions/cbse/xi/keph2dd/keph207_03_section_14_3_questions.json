@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen034"
+    "question_id": "cbse_xi_keph2dd_c207_gen034",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "In the function y(x,t) = a sin(kx - ωt + φ), which parameter gives the initial phase angle when x = 0 and t = 0?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen035"
+    "question_id": "cbse_xi_keph2dd_c207_gen035",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Which of the following correctly describes the wavelength (λ) in terms of the angular wave number (k)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen036"
+    "question_id": "cbse_xi_keph2dd_c207_gen036",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Consider the function y(x,0) = a sin(kx) that represents the wave at t = 0. What is the interpretation of the periodicity of sin(kx) in terms of spatial repetition?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen037"
+    "question_id": "cbse_xi_keph2dd_c207_gen037",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "In the wave equation y(x,t) = a sin(kx - ωt + φ), what does the term (kx - ωt + φ) determine?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen038"
+    "question_id": "cbse_xi_keph2dd_c207_gen038",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Define the amplitude and phase in the context of a sinusoidal travelling wave. Include their physical interpretations.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen039"
+    "question_id": "cbse_xi_keph2dd_c207_gen039",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Explain how the displacement function y(x,t) = a sin(kx - ωt + φ) represents both the spatial shape of a wave and the time evolution of the oscillating medium.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen040"
+    "question_id": "cbse_xi_keph2dd_c207_gen040",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "What is the relation between the angular frequency ω and the period T of the wave? Provide the formula.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen041"
+    "question_id": "cbse_xi_keph2dd_c207_gen041",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Derive the expression for the wavelength λ in terms of the angular wave number k for a traveling wave.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen042"
+    "question_id": "cbse_xi_keph2dd_c207_gen042",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Discuss the differences between the displacement functions for transverse and longitudinal waves, and explain the significance of each parameter in the function.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen043"
+    "question_id": "cbse_xi_keph2dd_c207_gen043",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Explain how the graph of y(x,t) = a sin(kx - ωt + φ) changes with time. Discuss what physical information can be obtained by monitoring specific features such as crests and a fixed point on the medium.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen044"
+    "question_id": "cbse_xi_keph2dd_c207_gen044",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Analyze Example 14.2 by discussing how to extract amplitude, wavelength, period, frequency, and displacement from the wave equation y(x,t) = 0.005 sin(80.0 x - 3.0t). Provide a step-by-step explanation.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen045"
+    "question_id": "cbse_xi_keph2dd_c207_gen045",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "True or False: For a wave described by y(x,t) = a sin(kx - ωt + φ), the displacement never exceeds the magnitude of a, always remaining between -a and a.",
@@ -209,7 +221,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen046"
+    "question_id": "cbse_xi_keph2dd_c207_gen046",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "True or False: A positive sign in front of the ωt term in the sine function's argument of a wave equation always indicates that the wave is traveling in the positive x-direction.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen047"
+    "question_id": "cbse_xi_keph2dd_c207_gen047",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "A wave has an angular wave number k = 50 rad/m. Calculate its wavelength.",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen048"
+    "question_id": "cbse_xi_keph2dd_c207_gen048",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "A wave has an angular frequency ω = 10 rad/s. Determine its period and frequency.",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen049"
+    "question_id": "cbse_xi_keph2dd_c207_gen049",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Determine the displacement of a wave described by y(x,t) = 0.01 sin(100x - 20t) at position x = 0.05 m and time t = 0.1 s.",
@@ -270,7 +286,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen050"
+    "question_id": "cbse_xi_keph2dd_c207_gen050",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "A longitudinal wave is described by s(x,t) = 0.002 sin(60x - 12t). Calculate its wavelength and determine the direction of propagation.",
@@ -284,7 +301,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen051"
+    "question_id": "cbse_xi_keph2dd_c207_gen051",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Re-calculate the displacement for the wave y(x,t) = 0.005 sin(80x - 3t) at x = 0.30 m and t = 20 s, showing your work and rounding your final answer appropriately.",
@@ -298,6 +316,7 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen052"
+    "question_id": "cbse_xi_keph2dd_c207_gen052",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   }
 ]

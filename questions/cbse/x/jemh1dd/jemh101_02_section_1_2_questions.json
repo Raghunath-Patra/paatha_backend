@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen017"
+    "question_id": "cbse_x_jemh1dd_c101_gen017",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "For a number of the form 4ⁿ, where n is a natural number, which prime factor will always appear in its prime factorization?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen018"
+    "question_id": "cbse_x_jemh1dd_c101_gen018",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Given the prime factorization 32760 = 2³ × 3² × 5 × 7 × 13, which of the following statements is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen019"
+    "question_id": "cbse_x_jemh1dd_c101_gen019",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Which of the following statements about the relationship between HCF and LCM is true?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen020"
+    "question_id": "cbse_x_jemh1dd_c101_gen020",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Define the Fundamental Theorem of Arithmetic.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen021"
+    "question_id": "cbse_x_jemh1dd_c101_gen021",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Explain why 4ⁿ never ends with zero for any natural number n.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen022"
+    "question_id": "cbse_x_jemh1dd_c101_gen022",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "What does it mean when we say the prime factorization of a number is unique apart from the order of factors?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen023"
+    "question_id": "cbse_x_jemh1dd_c101_gen023",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "What is the significance of Carl Friedrich Gauss in relation to the Fundamental Theorem of Arithmetic?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen024"
+    "question_id": "cbse_x_jemh1dd_c101_gen024",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Prove that every composite number can be represented as a product of primes. Outline the proof of the Fundamental Theorem of Arithmetic.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen025"
+    "question_id": "cbse_x_jemh1dd_c101_gen025",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Discuss the uniqueness of prime factorization. Use the example 32760 = 2³ × 3² × 5 × 7 × 13 to illustrate your answer, and explain why the order of the factors does not affect the unique representation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen026"
+    "question_id": "cbse_x_jemh1dd_c101_gen026",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Using the Fundamental Theorem of Arithmetic, derive and prove that for any two positive integers a and b, HCF(a, b) × LCM(a, b) = a × b.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen027"
+    "question_id": "cbse_x_jemh1dd_c101_gen027",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Find the prime factorization of 123456789 and verify that it can be expressed as 3² × 3803 × 3607. Show all the steps involved.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen028"
+    "question_id": "cbse_x_jemh1dd_c101_gen028",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Using the prime factorization method, calculate the HCF and LCM of the numbers 96 and 404. Provide clear working for each step.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen029"
+    "question_id": "cbse_x_jemh1dd_c101_gen029",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Find the HCF and LCM of 6, 72, and 120 using the prime factorization method. Show detailed steps of your work.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen030"
+    "question_id": "cbse_x_jemh1dd_c101_gen030",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "A composite number has the prime factorization 2⁴ × 3² × 5. Determine the total number of positive factors (including 1 and the number itself).",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen031"
+    "question_id": "cbse_x_jemh1dd_c101_gen031",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   }
 ]

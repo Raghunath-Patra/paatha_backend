@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen201"
+    "question_id": "cbse_xii_leph1dd_c103_gen201",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Which statement best describes Kirchhoff's Loop Rule?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen202"
+    "question_id": "cbse_xii_leph1dd_c103_gen202",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "When labelling a cell, if you follow the current arrow from the negative terminal to the positive terminal, what is the correct expression for the potential difference?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen203"
+    "question_id": "cbse_xii_leph1dd_c103_gen203",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Kirchhoff's circuit laws are derived based on which fundamental physical principle?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen204"
+    "question_id": "cbse_xii_leph1dd_c103_gen204",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "State Kirchhoff's Loop Rule in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen205"
+    "question_id": "cbse_xii_leph1dd_c103_gen205",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Briefly describe the role of the arbitrarily assigned directions of currents in circuit analysis using Kirchhoff's rules.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen206"
+    "question_id": "cbse_xii_leph1dd_c103_gen206",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Explain why the Kirchhoff's Junction Rule is a consequence of the conservation of electric charge.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen207"
+    "question_id": "cbse_xii_leph1dd_c103_gen207",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "What potential differences or voltage drops are encountered when traversing a resistor in the direction of current flow?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen208"
+    "question_id": "cbse_xii_leph1dd_c103_gen208",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Discuss how symmetry in a cubical resistor network can simplify the application of Kirchhoff's rules to find the equivalent resistance.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen209"
+    "question_id": "cbse_xii_leph1dd_c103_gen209",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Derive Kirchhoff's Junction Rule using the principle of conservation of electric charge.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen210"
+    "question_id": "cbse_xii_leph1dd_c103_gen210",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "True or False: In any closed circuit loop, the sum of the voltage gains and voltage drops will always be zero.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen211"
+    "question_id": "cbse_xii_leph1dd_c103_gen211",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "True or False: A negative value for an assigned current after solving the Kirchhoff's equations indicates an error in the analysis.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen212"
+    "question_id": "cbse_xii_leph1dd_c103_gen212",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "True or False: The symmetry in a cubical network ensures that all twelve resistors carry the same current regardless of the applied voltage.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen213"
+    "question_id": "cbse_xii_leph1dd_c103_gen213",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "A simple circuit consists of a single battery of 10 V and a resistor of 5 Ω. Using Kirchhoff's Loop Rule, calculate the current flowing through the resistor.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen214"
+    "question_id": "cbse_xii_leph1dd_c103_gen214",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "In a network, three currents I1, I2, and I3 are related by the following equations from Kirchhoff's rules: 7I1 - 6I2 - 2I3 = 10, I1 + 6I2 + 2I3 = 10, and 2I1 - 4I2 - 4I3 = -5. Solve for I1, I2, and I3.",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen215"
+    "question_id": "cbse_xii_leph1dd_c103_gen215",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "A cubical network has 12 edges each with a resistor of 1 Ω. A battery of 10 V is connected across the diagonally opposite corners. If the equivalent resistance of the network is (5/6) Ω as calculated using symmetry, determine the total current supplied by the battery.",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen216"
+    "question_id": "cbse_xii_leph1dd_c103_gen216",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Consider a diamond-shaped network with two voltage sources of 10 V and 5 V, and resistors of 4 Ω, 2 Ω, and 1 Ω arranged in branches. Using Kirchhoff's rules, write down the loop equations for two independent loops that would allow you to solve for the unknown branch currents.",
@@ -270,7 +286,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen217"
+    "question_id": "cbse_xii_leph1dd_c103_gen217",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "A circuit loop contains a battery of 10 V with an internal resistance of 0.5 Ω and an external resistor of 4.5 Ω. If you traverse the loop from the negative to the positive terminal of the battery, calculate the potential difference across the battery including the internal resistance drop, and then determine the current in the circuit.",
@@ -284,6 +301,7 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen218"
+    "question_id": "cbse_xii_leph1dd_c103_gen218",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   }
 ]

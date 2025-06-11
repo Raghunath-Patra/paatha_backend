@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen015"
+    "question_id": "cbse_x_jemh1dd_c114_gen015",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "In an experiment, the probability that event A occurs is 0.65. What is the probability that event A does not occur (i.e., its complement)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen016"
+    "question_id": "cbse_x_jemh1dd_c114_gen016",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "If an event B is an elementary event in an experiment with 8 equally likely outcomes, what is the probability of event B?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen017"
+    "question_id": "cbse_x_jemh1dd_c114_gen017",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "An event C has probability 0 and an event D has probability 1. Which of the following statements is true?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen018"
+    "question_id": "cbse_x_jemh1dd_c114_gen018",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "Define the theoretical (classical) probability of an event.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen019"
+    "question_id": "cbse_x_jemh1dd_c114_gen019",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "What are complementary events in probability? Provide an example to illustrate your answer.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen020"
+    "question_id": "cbse_x_jemh1dd_c114_gen020",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "What is an elementary event?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen021"
+    "question_id": "cbse_x_jemh1dd_c114_gen021",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "Differentiate between experimental (empirical) probability and theoretical (classical) probability.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen022"
+    "question_id": "cbse_x_jemh1dd_c114_gen022",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "Prove that for any event E in a probability experiment, the sum of the probabilities of E and its complement Ē is 1.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen023"
+    "question_id": "cbse_x_jemh1dd_c114_gen023",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "Derive why the sum of the probabilities of all elementary events in an experiment equals 1.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen024"
+    "question_id": "cbse_x_jemh1dd_c114_gen024",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "Discuss why the probability of a sure event is 1 and the probability of an impossible event is 0. In your answer, include an explanation based on the axioms of probability.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen025"
+    "question_id": "cbse_x_jemh1dd_c114_gen025",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "In a fair coin toss experiment, calculate the theoretical probability of obtaining tails.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen026"
+    "question_id": "cbse_x_jemh1dd_c114_gen026",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "A fair six-sided die is rolled. What is the theoretical probability of rolling an even number?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen027"
+    "question_id": "cbse_x_jemh1dd_c114_gen027",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "An experiment involves tossing two fair coins. Compute the theoretical probability that exactly one coin shows heads.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen028"
+    "question_id": "cbse_x_jemh1dd_c114_gen028",
+    "section_name": "14.2 Summary"
   },
   {
     "question_text": "In a bag, there are 2 red, 3 blue, and 5 green balls. If one ball is drawn at random, what are the theoretical probabilities of drawing a red ball and drawing a ball that is not red?",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_x_jemh1dd_c114_gen029"
+    "question_id": "cbse_x_jemh1dd_c114_gen029",
+    "section_name": "14.2 Summary"
   }
 ]

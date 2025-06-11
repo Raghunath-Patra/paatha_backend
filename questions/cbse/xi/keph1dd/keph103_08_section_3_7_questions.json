@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen243"
+    "question_id": "cbse_xi_keph1dd_c103_gen243",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Which of the following best describes instantaneous velocity?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen244"
+    "question_id": "cbse_xi_keph1dd_c103_gen244",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Which equation correctly represents the component form of the displacement vector between two points P and P' with coordinates (x, y) and (x', y') respectively?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen245"
+    "question_id": "cbse_xi_keph1dd_c103_gen245",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "What is the relation between the magnitude of the velocity v and its components vx and vy in the x-y plane?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen246"
+    "question_id": "cbse_xi_keph1dd_c103_gen246",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "What is the definition of average acceleration for a particle moving in the x-y plane?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen247"
+    "question_id": "cbse_xi_keph1dd_c103_gen247",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Define displacement in terms of position vectors for a particle moving along a curve.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen248"
+    "question_id": "cbse_xi_keph1dd_c103_gen248",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Explain why the instantaneous velocity of an object is always tangent to its path.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen249"
+    "question_id": "cbse_xi_keph1dd_c103_gen249",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Express the components of velocity in the x-y plane when the position coordinates are functions of time.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen250"
+    "question_id": "cbse_xi_keph1dd_c103_gen250",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "State the formula for average acceleration in terms of the change in velocity and time interval.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen251"
+    "question_id": "cbse_xi_keph1dd_c103_gen251",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Using the concept of vector limits, discuss how the limiting process defines instantaneous velocity and instantaneous acceleration. Include reference to the change in the direction of the displacement vector as Δt approaches zero.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen252"
+    "question_id": "cbse_xi_keph1dd_c103_gen252",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Analyze the differences between the directions of velocity and acceleration in one-dimensional versus two-dimensional motion.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen253"
+    "question_id": "cbse_xi_keph1dd_c103_gen253",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Derive the expression for the speed of a particle from its velocity components and explain how the angle of the velocity vector with the x-axis is determined.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen254"
+    "question_id": "cbse_xi_keph1dd_c103_gen254",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "True or False: In projectile motion, the velocity vector always makes a constant angle with the horizontal.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen255"
+    "question_id": "cbse_xi_keph1dd_c103_gen255",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "True or False: The instantaneous acceleration of an object is defined as the derivative of its velocity with respect to time.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen256"
+    "question_id": "cbse_xi_keph1dd_c103_gen256",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "True or False: The displacement vector and the position vector of a moving particle always have the same direction.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen257"
+    "question_id": "cbse_xi_keph1dd_c103_gen257",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A particle moves from point P with coordinates (2, 3) to point Q with coordinates (5, 7) in a time interval of 2 seconds. Determine the displacement vector and the average velocity of the particle.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen258"
+    "question_id": "cbse_xi_keph1dd_c103_gen258",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A particle has a position vector given by r = 4t i + 3t² j (in meters). Calculate the velocity and acceleration vectors at t = 2 seconds.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen259"
+    "question_id": "cbse_xi_keph1dd_c103_gen259",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A particle has a displacement given by r = 2t² i + 3t³ j (in meters). (a) Find its instantaneous velocity vector at any time t. (b) Calculate the magnitude and direction (angle with the x-axis) of the velocity at t = 1 second.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen260"
+    "question_id": "cbse_xi_keph1dd_c103_gen260",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A projectile is launched with an initial speed of 20 m/s at an angle of 45° from the horizontal. Assuming no air resistance, determine the horizontal and vertical components of its velocity after 1 second. (Use g = 9.8 m/s².)",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen261"
+    "question_id": "cbse_xi_keph1dd_c103_gen261",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Given the position vector r = (3t - t²) i + (2t² - t) j (in meters), find the instantaneous acceleration vector at t = 2 seconds. Also, compute the magnitude of the acceleration and the angle it makes with the x-axis.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen262"
+    "question_id": "cbse_xi_keph1dd_c103_gen262",
+    "section_name": "3.7 MOTION IN A PLANE"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen211"
+    "question_id": "cbse_xi_keph2dd_c206_gen211",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In a block-spring system executing simple harmonic motion, the total mechanical energy is given by which formula?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen212"
+    "question_id": "cbse_xi_keph2dd_c206_gen212",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the period of the kinetic energy oscillation relative to the period T of the displacement in simple harmonic motion?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen213"
+    "question_id": "cbse_xi_keph2dd_c206_gen213",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "At which displacement is the kinetic energy maximum in simple harmonic motion?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen214"
+    "question_id": "cbse_xi_keph2dd_c206_gen214",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "If the potential energy of a particle in SHM is given by U = 1/2 kx^2 and the displacement is expressed as x = A cos(ωt+φ), what is the corresponding expression for potential energy?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen215"
+    "question_id": "cbse_xi_keph2dd_c206_gen215",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain why the kinetic energy in simple harmonic motion has a period of T/2 rather than T.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen216"
+    "question_id": "cbse_xi_keph2dd_c206_gen216",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Describe the energy transformation process in a particle executing simple harmonic motion as it moves from the equilibrium position to the extreme displacement.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen217"
+    "question_id": "cbse_xi_keph2dd_c206_gen217",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "List the expressions for the kinetic and potential energies of a particle in simple harmonic motion in terms of amplitude A and angular frequency ω.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen218"
+    "question_id": "cbse_xi_keph2dd_c206_gen218",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What principle ensures the total energy of a harmonic oscillator remains constant during its motion?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen219"
+    "question_id": "cbse_xi_keph2dd_c206_gen219",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the expression for the total energy of a harmonic oscillator starting from the expressions for kinetic energy, K = 1/2 m ω^2 A^2 sin^2(ωt+φ), and potential energy, U = 1/2 k A^2 cos^2(ωt+φ).",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen220"
+    "question_id": "cbse_xi_keph2dd_c206_gen220",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss how the energy oscillates between kinetic and potential forms during one complete cycle of simple harmonic motion. Include in your answer a qualitative description of a graph showing K, U, and E as functions of time.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen221"
+    "question_id": "cbse_xi_keph2dd_c206_gen221",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle executing simple harmonic motion has an amplitude A and angular frequency ω. Derive the time dependence of its kinetic and potential energies and explain why their maximum values occur at the equilibrium and extreme positions respectively.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen222"
+    "question_id": "cbse_xi_keph2dd_c206_gen222",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In simple harmonic motion, the potential energy of the system is always greater than the kinetic energy.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen223"
+    "question_id": "cbse_xi_keph2dd_c206_gen223",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The total mechanical energy in simple harmonic motion remains constant because the spring force is a conservative force.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen224"
+    "question_id": "cbse_xi_keph2dd_c206_gen224",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The function sin^2(ωt+φ) used in the expression for kinetic energy in SHM has a period equal to T, the period of the displacement.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen225"
+    "question_id": "cbse_xi_keph2dd_c206_gen225",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A 2-kg mass is attached to a spring with a spring constant of 32 N/m and executes simple harmonic motion with an amplitude of 0.5 m. Calculate the angular frequency and determine the kinetic and potential energies when the displacement is 0.3 m from equilibrium.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen226"
+    "question_id": "cbse_xi_keph2dd_c206_gen226",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In a system where a block of mass 1 kg is attached to a spring with k = 50 N/m and executes SHM, if the block is 0.04 m away from equilibrium and its velocity is measured as 0.6 m/s, compute the kinetic, potential, and total energies.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen227"
+    "question_id": "cbse_xi_keph2dd_c206_gen227",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A harmonic oscillator has a maximum kinetic energy of 3 J and an amplitude of 0.2 m. If the angular frequency is 10 rad/s, determine the spring constant and mass of the oscillator.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen228"
+    "question_id": "cbse_xi_keph2dd_c206_gen228",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A 1.5-kg mass is attached to a spring with a spring constant of 48 N/m and oscillates with an amplitude of 0.1 m. Calculate the total energy of the system and the velocity of the mass when its displacement is 0.06 m from equilibrium.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen229"
+    "question_id": "cbse_xi_keph2dd_c206_gen229",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "For a mass-spring system executing simple harmonic motion with a period T = 0.5 s and amplitude A = 0.15 m, and with a mass of 0.8 kg, determine the angular frequency, spring constant, and total energy of the system.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen230"
+    "question_id": "cbse_xi_keph2dd_c206_gen230",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   }
 ]

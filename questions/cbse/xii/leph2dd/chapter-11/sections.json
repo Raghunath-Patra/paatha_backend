@@ -1,0 +1,36 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "11.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "11.2 ELECTRON EMISSION"
+    },
+    {
+      "number": 3,
+      "name": "11.3 PHOTOELECTRIC EFFECT"
+    },
+    {
+      "number": 4,
+      "name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
+    },
+    {
+      "number": 5,
+      "name": "11.5 PHOTOELECTRIC EFFECT AND WAVE THEORY OF LIGHT"
+    },
+    {
+      "number": 6,
+      "name": "11.6 EINSTEIN'S PHOTOELECTRIC EQUATION: ENERGY QUANTUM OF RADIATION"
+    },
+    {
+      "number": 7,
+      "name": "11.7 PARTICLE NATURE OF LIGHT: THE PHOTON"
+    },
+    {
+      "number": 8,
+      "name": "11.8 WAVE NATURE OF MATTER"
+    }
+  ]
+}

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen169"
+    "question_id": "cbse_xii_leph1dd_c101_gen169",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "For points on the dipole axis at large distances (r >> a), which expression correctly represents the magnitude of the electric field?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen170"
+    "question_id": "cbse_xii_leph1dd_c101_gen170",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "Which of the following correctly expresses the electric field on the equatorial plane of a dipole at large distances?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen171"
+    "question_id": "cbse_xii_leph1dd_c101_gen171",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "Which of the following molecules is an example of a polar molecule that possesses a permanent electric dipole moment?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen172"
+    "question_id": "cbse_xii_leph1dd_c101_gen172",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "How does the magnitude of the electric field of a dipole vary with distance at large distances compared to that of a single point charge?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen173"
+    "question_id": "cbse_xii_leph1dd_c101_gen173",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "Explain in your own words what is meant by the center of the dipole.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen174"
+    "question_id": "cbse_xii_leph1dd_c101_gen174",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "Describe the difference in the direction of the electric field vectors at a point on the dipole axis compared to a point on the equatorial plane.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen175"
+    "question_id": "cbse_xii_leph1dd_c101_gen175",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "Define the dipole moment vector and state its significance in the study of electric dipoles.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen176"
+    "question_id": "cbse_xii_leph1dd_c101_gen176",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "Derive the expression for the electric field on the dipole axis at a point located at a distance r (with r >> a) from the center of the dipole. Include all key steps in your derivation.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen177"
+    "question_id": "cbse_xii_leph1dd_c101_gen177",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "Discuss how the components of the electric fields of the two charges cancel and add on the equatorial plane of a dipole. Derive the expression for the net electric field at a far-away point on this plane.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen178"
+    "question_id": "cbse_xii_leph1dd_c101_gen178",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "True or False: The dipole electric field at large distances falls off as 1/r², similar to the field of a single point charge.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen179"
+    "question_id": "cbse_xii_leph1dd_c101_gen179",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "True or False: In the limiting case of a point dipole, the separation between the charges tends to zero while the charge magnitude tends to infinity in such a way that the product p remains finite.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen180"
+    "question_id": "cbse_xii_leph1dd_c101_gen180",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "A dipole consists of charges of magnitude 1.0×10⁻⁵ C separated by 5.0 mm. Calculate the electric field on the axis of the dipole at a point 15 cm from the center (r >> a). Use ε₀ = 8.854×10⁻¹² C²/N·m².",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen181"
+    "question_id": "cbse_xii_leph1dd_c101_gen181",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "Using the same dipole (q = 1.0×10⁻⁵ C, 2a = 5.0 mm), compute the electric field on the equatorial plane at a distance of 15 cm from the center. Use ε₀ = 8.854×10⁻¹² C²/N·m².",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen182"
+    "question_id": "cbse_xii_leph1dd_c101_gen182",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "A dipole has a dipole moment of 6.0×10⁻⁸ C·m. Calculate the magnitude of the electric field at a point on the dipole axis located 20 cm from the center. Use ε₀ = 8.854×10⁻¹² C²/N·m².",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen183"
+    "question_id": "cbse_xii_leph1dd_c101_gen183",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   },
   {
     "question_text": "A non-point dipole is formed by two charges of ±5.0×10⁻⁶ C separated by 8.0 mm. Estimate the electric field at a point 50 cm from the center along the dipole axis using the far-field approximation. Use ε₀ = 8.854×10⁻¹² C²/N·m².",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "10_section_1_10",
-    "question_id": "cbse_xii_leph1dd_c101_gen184"
+    "question_id": "cbse_xii_leph1dd_c101_gen184",
+    "section_name": "1.10 ELECTRIC DIPOLE"
   }
 ]

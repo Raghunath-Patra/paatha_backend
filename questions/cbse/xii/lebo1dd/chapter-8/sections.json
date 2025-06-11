@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "8.1 MICROBES IN HOUSEHOLD PRODUCTS"
+    },
+    {
+      "number": 2,
+      "name": "8.2 MICROBES IN INDUSTRIAL PRODUCTS"
+    },
+    {
+      "number": 3,
+      "name": "8.3 MICROBES IN SEWAGE TREATMENT"
+    },
+    {
+      "number": 4,
+      "name": "8.4 MICROBES IN PRODUCTION OF BIOGAS"
+    },
+    {
+      "number": 5,
+      "name": "8.5 MICROBES AS BIOCONTROL AGENTS"
+    },
+    {
+      "number": 6,
+      "name": "8.6 MICROBES AS BIOFERTILISERS"
+    }
+  ]
+}

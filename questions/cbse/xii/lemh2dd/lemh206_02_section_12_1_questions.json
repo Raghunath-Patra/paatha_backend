@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen001"
+    "question_id": "cbse_xii_lemh2dd_c206_gen001",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Which method is introduced in the chapter for solving linear programming problems?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen002"
+    "question_id": "cbse_xii_lemh2dd_c206_gen002",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "In the furniture dealer example, which two resources are being limited?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen003"
+    "question_id": "cbse_xii_lemh2dd_c206_gen003",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Define a linear programming problem and provide a brief example based on the table and chair problem.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen004"
+    "question_id": "cbse_xii_lemh2dd_c206_gen004",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "List the main components of a linear programming problem, particularly in relation to real-life applications such as the furniture dealer problem.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen005"
+    "question_id": "cbse_xii_lemh2dd_c206_gen005",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Explain why the feasible region is important when solving linear programming problems using the graphical method.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen006"
+    "question_id": "cbse_xii_lemh2dd_c206_gen006",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Describe the step-by-step process of solving a linear programming problem using the graphical method.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen007"
+    "question_id": "cbse_xii_lemh2dd_c206_gen007",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Derive the graphical method for solving a linear programming problem. Include how to determine the feasible region and why the optimal solution is found at a vertex.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen008"
+    "question_id": "cbse_xii_lemh2dd_c206_gen008",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Discuss how the furniture dealer problem illustrates a real-life application of linear programming. Provide a detailed explanation including the formulation of decision variables, constraints, and the objective function.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen009"
+    "question_id": "cbse_xii_lemh2dd_c206_gen009",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "A furniture dealer has Rs 50,000 for purchasing tables and chairs, with a storage limit of 60 items. Tables cost Rs 2,500 each and chairs cost Rs 500 each. Write the system of inequalities representing the constraints of this problem.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen010"
+    "question_id": "cbse_xii_lemh2dd_c206_gen010",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Based on the furniture dealer problem, formulate the objective function to maximize profit if the profit from each table is Rs 250 and from each chair is Rs 75.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen011"
+    "question_id": "cbse_xii_lemh2dd_c206_gen011",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Using the inequalities: 2500x + 500y ≤ 50000 and x + y ≤ 60, determine the feasible region's corner points graphically for the furniture dealer problem.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen012"
+    "question_id": "cbse_xii_lemh2dd_c206_gen012",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Solve the furniture dealer problem using the graphical method to maximize profit. Determine the optimal number of tables and chairs to purchase.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen013"
+    "question_id": "cbse_xii_lemh2dd_c206_gen013",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Demonstrate, through a numerical example, why the optimal solution in a linear programming problem always occurs at one of the vertices of the feasible region.",
@@ -208,6 +221,7 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "02_section_12_1",
-    "question_id": "cbse_xii_lemh2dd_c206_gen014"
+    "question_id": "cbse_xii_lemh2dd_c206_gen014",
+    "section_name": "12.1 Introduction"
   }
 ]

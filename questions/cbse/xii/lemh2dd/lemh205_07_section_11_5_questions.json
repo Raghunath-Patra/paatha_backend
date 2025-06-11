@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen051"
+    "question_id": "cbse_xii_lemh2dd_c205_gen051",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "MCQ: In a three-dimensional space, lines that are neither intersecting nor parallel are known as:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen052"
+    "question_id": "cbse_xii_lemh2dd_c205_gen052",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "MCQ: Which of the following is true regarding the shortest distance between two skew lines?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen053"
+    "question_id": "cbse_xii_lemh2dd_c205_gen053",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "MCQ: The vector formula for the shortest distance d between two skew lines with direction vectors b₁ and b₂ and points with position vectors a₁ and a₂ respectively is given by which of the following expressions?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen054"
+    "question_id": "cbse_xii_lemh2dd_c205_gen054",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Short Answer: Define skew lines and provide an example scenario that illustrates their existence in a three-dimensional space.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen055"
+    "question_id": "cbse_xii_lemh2dd_c205_gen055",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Short Answer: State the vector formula for the shortest distance between two skew lines given by r = a₁ + λb₁ and r = a₂ + μb₂.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen056"
+    "question_id": "cbse_xii_lemh2dd_c205_gen056",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Short Answer: Write the Cartesian form for the distance between two lines given by x - x₁ / a₁ = y - y₁ / b₁ = z - z₁ / c₁ and x - x₂ / a₂ = y - y₂ / b₂ = z - z₂ / c₂.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen057"
+    "question_id": "cbse_xii_lemh2dd_c205_gen057",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Short Answer: Explain why the perpendicular segment connecting two parallel lines gives the shortest distance between them.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen058"
+    "question_id": "cbse_xii_lemh2dd_c205_gen058",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Long Answer: Derive the formula for the shortest distance between two skew lines given by the equations r = a₁ + λb₁ and r = a₂ + μb₂.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen059"
+    "question_id": "cbse_xii_lemh2dd_c205_gen059",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Long Answer: Derive the formula for the shortest distance between two parallel lines represented by r = a₁ + λb and r = a₂ + μb.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen060"
+    "question_id": "cbse_xii_lemh2dd_c205_gen060",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Long Answer: Discuss the criteria under which two lines in space are defined as skew. In your answer, explain how you would determine if they are skew and outline the steps to compute the shortest distance between them.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen061"
+    "question_id": "cbse_xii_lemh2dd_c205_gen061",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Numerical: Find the shortest distance between the skew lines given by the equations r = (1, 2, 3) + λ(2, -1, 1) and r = (4, 0, -2) + μ(1, 3, 2).",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen062"
+    "question_id": "cbse_xii_lemh2dd_c205_gen062",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Numerical: Calculate the shortest distance between the parallel lines given by r = (2, -1, 4) + λ(3, 2, -1) and r = (5, 1, 0) + μ(3, 2, -1).",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen063"
+    "question_id": "cbse_xii_lemh2dd_c205_gen063",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Numerical: The lines l₁: r = (−1, 4, 2) + λ(1, 0, −2) and l₂: r = (3, −2, 1) + μ(2, 4, 1) are skew. Compute the shortest distance between them.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen064"
+    "question_id": "cbse_xii_lemh2dd_c205_gen064",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   }
 ]

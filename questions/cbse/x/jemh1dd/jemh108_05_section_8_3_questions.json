@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen031"
+    "question_id": "cbse_x_jemh1dd_c108_gen031",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "What is the value of cos 90°?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen032"
+    "question_id": "cbse_x_jemh1dd_c108_gen032",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "Which of the following trigonometric ratios is not defined for an angle of 0°?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen033"
+    "question_id": "cbse_x_jemh1dd_c108_gen033",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "In a right triangle with an angle of 30° and hypotenuse length 2a, what is the length of the side opposite the 30° angle?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen034"
+    "question_id": "cbse_x_jemh1dd_c108_gen034",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "Define sin 0° and cos 0° and explain briefly how these values are determined geometrically in a right triangle.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen035"
+    "question_id": "cbse_x_jemh1dd_c108_gen035",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "Explain how the perpendicular drawn from a vertex in an equilateral triangle helps in determining the values of sin 30° and cos 30°.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen036"
+    "question_id": "cbse_x_jemh1dd_c108_gen036",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "State the Pythagorean theorem and illustrate its application in a 45°-45°-90° triangle to find the hypotenuse when the legs are known.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen037"
+    "question_id": "cbse_x_jemh1dd_c108_gen037",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "Derive the trigonometric ratios (sin, cos, tan, and their reciprocals) for 30° and 60° using an equilateral triangle. Assume the side length is 2a and detail every step in your derivation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen038"
+    "question_id": "cbse_x_jemh1dd_c108_gen038",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "Prove that in a right-angled isosceles triangle (45°-45°-90°) with legs of length a, the values of sin 45° and cos 45° equal 1/√2, and also determine the values of their reciprocal functions.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen039"
+    "question_id": "cbse_x_jemh1dd_c108_gen039",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "In triangle ABC (right-angled at B), if AB = 5 cm and ∠ACB = 30°, determine the lengths of sides BC and AC.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen040"
+    "question_id": "cbse_x_jemh1dd_c108_gen040",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "In triangle PQR, right-angled at Q, if PQ = 3 cm and PR = 6 cm, determine the angles ∠PRQ and ∠QPR using trigonometric ratios.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen041"
+    "question_id": "cbse_x_jemh1dd_c108_gen041",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   },
   {
     "question_text": "Given that sin(A – B) = 1/2 and cos(A + B) = 1/2, where 0° < A + B ≤ 90° and A > B, find the values of angles A and B. Show all steps in your solution.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "05_section_8_3",
-    "question_id": "cbse_x_jemh1dd_c108_gen042"
+    "question_id": "cbse_x_jemh1dd_c108_gen042",
+    "section_name": "8.3 Trigonometric Ratios of Some Specific Angles"
   }
 ]

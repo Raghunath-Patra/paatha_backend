@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen014"
+    "question_id": "cbse_xii_lemh2dd_c204_gen014",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "The directed line segment AB is used to represent a vector. What do we call point A in this representation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen015"
+    "question_id": "cbse_xii_lemh2dd_c204_gen015",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "Which of the following represents the magnitude of the position vector OP for a point P(x, y, z) in three-dimensional space?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen016"
+    "question_id": "cbse_xii_lemh2dd_c204_gen016",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "Which statement is true regarding direction cosines (l, m, n) of a vector?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen017"
+    "question_id": "cbse_xii_lemh2dd_c204_gen017",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "Define a directed line segment and explain how it relates to the concept of a vector.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen018"
+    "question_id": "cbse_xii_lemh2dd_c204_gen018",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "What is the position vector of a point P in space, and how is its magnitude calculated?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen019"
+    "question_id": "cbse_xii_lemh2dd_c204_gen019",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "Express the coordinates of a point P in terms of its position vector's magnitude and direction cosines.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen020"
+    "question_id": "cbse_xii_lemh2dd_c204_gen020",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "Explain the difference between direction ratios and direction cosines with appropriate formulas.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen021"
+    "question_id": "cbse_xii_lemh2dd_c204_gen021",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "Derive the relationship between the magnitude of a position vector, its coordinates, and the direction cosines.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen022"
+    "question_id": "cbse_xii_lemh2dd_c204_gen022",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "Using the concept of position vector, prove that if two vectors have the same direction cosines, then they are parallel.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen023"
+    "question_id": "cbse_xii_lemh2dd_c204_gen023",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "Given a point P with coordinates (3, 4, 12), calculate the magnitude of its position vector. Show all your working.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen024"
+    "question_id": "cbse_xii_lemh2dd_c204_gen024",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "For a vector OP with coordinates (x, y, z), if the direction cosines are given by l = 0.6, m = 0.8, and n = 0, determine the coordinates of P when the magnitude of OP is 10.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen025"
+    "question_id": "cbse_xii_lemh2dd_c204_gen025",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "A vector has direction ratios 3, 4, 12. Find its direction cosines and verify that they satisfy the identity l² + m² + n² = 1.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen026"
+    "question_id": "cbse_xii_lemh2dd_c204_gen026",
+    "section_name": "10.2 Some Basic Concepts"
   },
   {
     "question_text": "A vector has components given by (−5, 0, 12). Determine its magnitude, the direction cosines along the x, y, and z axes, and express the position vector in terms of its magnitude and these cosines.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xii_lemh2dd_c204_gen027"
+    "question_id": "cbse_xii_lemh2dd_c204_gen027",
+    "section_name": "10.2 Some Basic Concepts"
   }
 ]

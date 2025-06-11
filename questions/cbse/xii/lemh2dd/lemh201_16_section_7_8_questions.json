@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen096"
+    "question_id": "cbse_xii_lemh2dd_c201_gen096",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Which fundamental theorem of calculus states that if f is continuous on [a, b] and A(x) = ∫ₐˣ f(t) dt, then A'(x) = f(x) for all x in [a, b]?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen097"
+    "question_id": "cbse_xii_lemh2dd_c201_gen097",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Which of the following statements best describes the role of the constant of integration when evaluating a definite integral using an antiderivative?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen098"
+    "question_id": "cbse_xii_lemh2dd_c201_gen098",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Define the area function A(x) for a given continuous function f(x) on the interval [a, b] and explain its significance in calculus.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen099"
+    "question_id": "cbse_xii_lemh2dd_c201_gen099",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "State the necessary conditions on the function f(x) that allow us to apply the Fundamental Theorems of Calculus.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen100"
+    "question_id": "cbse_xii_lemh2dd_c201_gen100",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Explain why the constant of integration cancels out when evaluating a definite integral using an antiderivative.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen101"
+    "question_id": "cbse_xii_lemh2dd_c201_gen101",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Prove that if f is continuous on [a, b] and A(x) = ∫ₐˣ f(t) dt, then A'(x) = f(x). Outline the key steps using the limit definition of the derivative.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen102"
+    "question_id": "cbse_xii_lemh2dd_c201_gen102",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Derive the evaluation formula for a definite integral using an antiderivative F of f. In other words, show why ∫ₐᵇ f(x) dx equals F(b) - F(a).",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen103"
+    "question_id": "cbse_xii_lemh2dd_c201_gen103",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Evaluate the definite integral ∫₂³ x² dx using the Fundamental Theorem of Calculus.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen104"
+    "question_id": "cbse_xii_lemh2dd_c201_gen104",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Evaluate the definite integral ∫₀^(π/4) sin³2t cos2t dt using an appropriate substitution.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen105"
+    "question_id": "cbse_xii_lemh2dd_c201_gen105",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Evaluate the definite integral ∫₁² [x/((x+1)(x+2))] dx using partial fractions.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen106"
+    "question_id": "cbse_xii_lemh2dd_c201_gen106",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   },
   {
     "question_text": "Evaluate the integral ∫₄⁹ (√x)/(30 - x^(3/2))² dx using an appropriate substitution.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "16_section_7_8",
-    "question_id": "cbse_xii_lemh2dd_c201_gen107"
+    "question_id": "cbse_xii_lemh2dd_c201_gen107",
+    "section_name": "7.8 Fundamental Theorem of Calculus"
   }
 ]

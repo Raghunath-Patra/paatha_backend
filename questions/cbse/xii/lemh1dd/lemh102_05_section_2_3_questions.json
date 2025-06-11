@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen029"
+    "question_id": "cbse_xii_lemh1dd_c102_gen029",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "For x > 1, the expression cot⁻¹(1/√(x² − 1)) can be simplified to which of the following?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen030"
+    "question_id": "cbse_xii_lemh1dd_c102_gen030",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "According to the principal value branch, sin⁻¹(sin x) equals:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen031"
+    "question_id": "cbse_xii_lemh1dd_c102_gen031",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "The identity sin⁻¹(2x√(1 − x²)) = 2 sin⁻¹ x holds under which condition on x?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen032"
+    "question_id": "cbse_xii_lemh1dd_c102_gen032",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Define the 'principal branch' of an inverse trigonometric function and explain its significance.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen033"
+    "question_id": "cbse_xii_lemh1dd_c102_gen033",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Explain why sin⁻¹(sin x) does not equal x for all real numbers x.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen034"
+    "question_id": "cbse_xii_lemh1dd_c102_gen034",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "State and explain the fundamental relationship between sin⁻¹ x and sin x.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen035"
+    "question_id": "cbse_xii_lemh1dd_c102_gen035",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Prove that sin⁻¹(2x√(1 − x²)) = 2 sin⁻¹ x for values of x such that 2 sin⁻¹ x belongs to [−π/2, π/2].",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen036"
+    "question_id": "cbse_xii_lemh1dd_c102_gen036",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Derive an expression for tan⁻¹((cos x)/(1 − sin x)) in terms of x for π/2 < x < π using half-angle formulas.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen037"
+    "question_id": "cbse_xii_lemh1dd_c102_gen037",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Using the identity cot⁻¹(1/√(x² − 1)) = sec⁻¹ x (for x > 1), compute sec⁻¹ 2.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen038"
+    "question_id": "cbse_xii_lemh1dd_c102_gen038",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Evaluate sin⁻¹(sin 2) accurately, given that 2 is measured in radians.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen039"
+    "question_id": "cbse_xii_lemh1dd_c102_gen039",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "For x = 150° (or 5π/6 radians), compute the value of tan⁻¹((cos x)/(1 − sin x)). Express your answer in radians.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen040"
+    "question_id": "cbse_xii_lemh1dd_c102_gen040",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Evaluate sin⁻¹(sin(7π/6)).",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen041"
+    "question_id": "cbse_xii_lemh1dd_c102_gen041",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   }
 ]

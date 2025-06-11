@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen027"
+    "question_id": "cbse_xii_lemh2dd_c205_gen027",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Which of the following expressions represents the Cartesian form of the equation of a line with direction ratios a, b, c and passing through the point (x₁, y₁, z₁)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen028"
+    "question_id": "cbse_xii_lemh2dd_c205_gen028",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "When the parameter λ is eliminated from the parametric equations x = x₁ + λa, y = y₁ + λb, and z = z₁ + λc, which of the following results is obtained?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen029"
+    "question_id": "cbse_xii_lemh2dd_c205_gen029",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Define 'direction ratios' in the context of lines in space.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen030"
+    "question_id": "cbse_xii_lemh2dd_c205_gen030",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Explain the relationship between the vector and Cartesian equations of a line in space.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen031"
+    "question_id": "cbse_xii_lemh2dd_c205_gen031",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "What conditions must be met for a line in space to be uniquely determined?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen032"
+    "question_id": "cbse_xii_lemh2dd_c205_gen032",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Derive the Cartesian equation of a line given its vector equation r = a + λb, where a is the position vector of a point A(x₁, y₁, z₁) and b = ai + bj + ck. Provide a detailed derivation including the elimination of the parameter λ.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen033"
+    "question_id": "cbse_xii_lemh2dd_c205_gen033",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Prove that if the equation of the line is given by (x - x₁)/a = (y - y₁)/b = (z - z₁)/c, then the line passes through the point A(x₁, y₁, z₁) and has direction ratios a, b, c.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen034"
+    "question_id": "cbse_xii_lemh2dd_c205_gen034",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Find the vector and Cartesian equations of the line passing through the point (3, -1, 2) and parallel to the vector 2i - j + 4k.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen035"
+    "question_id": "cbse_xii_lemh2dd_c205_gen035",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Given two points P(1, 0, -2) and Q(4, 3, 1), determine the vector and Cartesian equations of the line joining these points.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen036"
+    "question_id": "cbse_xii_lemh2dd_c205_gen036",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Find the parametric equations and then eliminate the parameter to obtain the Cartesian equation of the line passing through A(-2, 5, 1) and parallel to the vector b = (3, -4, 2).",
@@ -166,6 +176,7 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen037"
+    "question_id": "cbse_xii_lemh2dd_c205_gen037",
+    "section_name": "11.3 Equation of a Line in Space"
   }
 ]

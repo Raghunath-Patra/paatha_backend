@@ -497,7 +497,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen001"
+    "question_id": "cbse_xi_kemh1dd_c110_gen001",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Who is credited with giving the names 'parabola' and 'hyperbola'?",
@@ -516,7 +517,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen002"
+    "question_id": "cbse_xi_kemh1dd_c110_gen002",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Which conic section is formed when a plane is tangent to one nappe of a cone (i.e., parallel to a generating line of the cone)?",
@@ -535,7 +537,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen003"
+    "question_id": "cbse_xi_kemh1dd_c110_gen003",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Which of the following application areas does NOT typically involve the use of conic sections?",
@@ -554,7 +557,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen004"
+    "question_id": "cbse_xi_kemh1dd_c110_gen004",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Define an ellipse in mathematical terms.",
@@ -568,7 +572,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen005"
+    "question_id": "cbse_xi_kemh1dd_c110_gen005",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "What is meant by a 'conic section'?",
@@ -582,7 +587,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen006"
+    "question_id": "cbse_xi_kemh1dd_c110_gen006",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "State the historical significance of Apollonius in the study of conic sections.",
@@ -596,7 +602,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen007"
+    "question_id": "cbse_xi_kemh1dd_c110_gen007",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "List two real-life applications of conic sections mentioned in the section.",
@@ -610,7 +617,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen008"
+    "question_id": "cbse_xi_kemh1dd_c110_gen008",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Derive the standard equation of a circle given its center at (h,k) and radius r.",
@@ -624,7 +632,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen009"
+    "question_id": "cbse_xi_kemh1dd_c110_gen009",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Prove that an ellipse is the set of all points (x, y) for which the sum of the distances from the two fixed foci is constant.",
@@ -638,7 +647,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen010"
+    "question_id": "cbse_xi_kemh1dd_c110_gen010",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Explain how the intersection of a plane with a double-napped right circular cone yields different curves. Your explanation should include the conditions that determine whether the conic is a circle, ellipse, parabola, or hyperbola.",
@@ -652,7 +662,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen011"
+    "question_id": "cbse_xi_kemh1dd_c110_gen011",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "An ellipse has its foci at (−3, 0) and (3, 0) with a constant sum of distances equal to 10. Determine the standard equation of the ellipse.",
@@ -666,7 +677,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen012"
+    "question_id": "cbse_xi_kemh1dd_c110_gen012",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Determine the radius and center of the circle given by the equation x² + y² − 6x + 4y + 9 = 0.",
@@ -680,7 +692,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen013"
+    "question_id": "cbse_xi_kemh1dd_c110_gen013",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Find the coordinates of the foci of the ellipse given by the equation x²/49 + y²/36 = 1.",
@@ -694,7 +707,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen014"
+    "question_id": "cbse_xi_kemh1dd_c110_gen014",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "A parabolic reflector has a focal length of 10 cm. Write its equation in standard form and identify the coordinates of its focus.",
@@ -708,7 +722,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen015"
+    "question_id": "cbse_xi_kemh1dd_c110_gen015",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Find the coordinates of the foci and the vertices, the eccentricity and the length of the latus rectum of the hyperbola given by the equation: x²/16 - y²/9 = 1.",
@@ -922,7 +937,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen031"
+    "question_id": "cbse_xi_kemh1dd_c110_gen031",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "For the standard equation of a parabola y² = 4ax (with a > 0), which of the following represents the directrix?",
@@ -941,7 +957,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen032"
+    "question_id": "cbse_xi_kemh1dd_c110_gen032",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Consider the parabola described by the equation y² = 4ax. Which of the following statements is true about its symmetry?",
@@ -960,7 +977,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen033"
+    "question_id": "cbse_xi_kemh1dd_c110_gen033",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "For the parabola y² = 8x, what is the length of its latus rectum?",
@@ -979,7 +997,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen034"
+    "question_id": "cbse_xi_kemh1dd_c110_gen034",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Define a parabola and state its key components.",
@@ -993,7 +1012,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen035"
+    "question_id": "cbse_xi_kemh1dd_c110_gen035",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Write down the standard equation of a parabola that has its vertex at the origin and its axis along the x-axis. Briefly explain the significance of the constant 'a' in this equation.",
@@ -1007,7 +1027,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen036"
+    "question_id": "cbse_xi_kemh1dd_c110_gen036",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "State the symmetry property of a parabola and explain why a parabola given by the equation y² = 4ax is symmetric with respect to the x-axis.",
@@ -1021,7 +1042,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen037"
+    "question_id": "cbse_xi_kemh1dd_c110_gen037",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Define the latus rectum of a parabola. Also, derive the expression for its length for a parabola with equation y² = 4ax.",
@@ -1035,7 +1057,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen038"
+    "question_id": "cbse_xi_kemh1dd_c110_gen038",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Derive the standard equation of a parabola with vertex at the origin, focus at (a, 0) where a > 0, and directrix x = -a. Begin with the definition of a parabola.",
@@ -1049,7 +1072,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen039"
+    "question_id": "cbse_xi_kemh1dd_c110_gen039",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Prove that in a parabola with vertex at the origin, the vertex is the midpoint of the line segment joining the focus and the foot of the perpendicular from the focus onto the directrix.",
@@ -1063,7 +1087,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen040"
+    "question_id": "cbse_xi_kemh1dd_c110_gen040",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Given the parabola y² = 12x, determine the coordinates of the focus and the equation of the directrix.",
@@ -1077,7 +1102,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen041"
+    "question_id": "cbse_xi_kemh1dd_c110_gen041",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "For the parabola defined by y² = -16x, find the length of the latus rectum.",
@@ -1091,7 +1117,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen042"
+    "question_id": "cbse_xi_kemh1dd_c110_gen042",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Find the equation of a parabola with vertex at (0, 0) and focus at (0, -5).",
@@ -1105,7 +1132,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen043"
+    "question_id": "cbse_xi_kemh1dd_c110_gen043",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "A parabola with vertex at the origin has a latus rectum of length 12 and opens upward. Find its standard equation, the coordinates of its focus, and the equation of its directrix.",
@@ -1119,7 +1147,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_kemh1dd_c110_gen044"
+    "question_id": "cbse_xi_kemh1dd_c110_gen044",
+    "section_name": "10.4 Parabola"
   },
   {
     "question_text": "Which of the following best defines a hyperbola?",
@@ -1138,7 +1167,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen045"
+    "question_id": "cbse_xi_kemh1dd_c110_gen045",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "For a hyperbola centered at the origin with the foci on the x-axis, which of the following is its standard equation?",
@@ -1157,7 +1187,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen046"
+    "question_id": "cbse_xi_kemh1dd_c110_gen046",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "What is the minimum possible value of the eccentricity (e) of a hyperbola?",
@@ -1176,7 +1207,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen047"
+    "question_id": "cbse_xi_kemh1dd_c110_gen047",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "In a hyperbola with center at the origin and foci on the x-axis, the distance between the vertices is 2a. Which statement is true regarding this configuration?",
@@ -1195,7 +1227,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen048"
+    "question_id": "cbse_xi_kemh1dd_c110_gen048",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Define the 'latus rectum' of a hyperbola.",
@@ -1209,7 +1242,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen049"
+    "question_id": "cbse_xi_kemh1dd_c110_gen049",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Explain the term 'eccentricity' in the context of a hyperbola.",
@@ -1223,7 +1257,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen050"
+    "question_id": "cbse_xi_kemh1dd_c110_gen050",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "State the significance of the foci in the geometry of a hyperbola.",
@@ -1237,7 +1272,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen051"
+    "question_id": "cbse_xi_kemh1dd_c110_gen051",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Derive the standard equation of a hyperbola with center at the origin and foci on the x-axis starting from its definition.",
@@ -1251,7 +1287,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen052"
+    "question_id": "cbse_xi_kemh1dd_c110_gen052",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Prove that for any point on a hyperbola, the absolute difference of the distances from the two foci is a constant equal to 2a.",
@@ -1265,7 +1302,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen053"
+    "question_id": "cbse_xi_kemh1dd_c110_gen053",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Given the equation x²/9 – y²/16 = 1, find the coordinates of the foci, vertices, the eccentricity, and the length of the latus rectum.",
@@ -1279,7 +1317,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen054"
+    "question_id": "cbse_xi_kemh1dd_c110_gen054",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Find the equation of a hyperbola with vertices at (0, ±3) and foci at (0, ±5). Also, determine its eccentricity and the length of the latus rectum.",
@@ -1293,7 +1332,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen055"
+    "question_id": "cbse_xi_kemh1dd_c110_gen055",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "A hyperbola has its foci located on the y-axis at (0, ±12) and a latus rectum of length 36. Find the exact equation of this hyperbola.",
@@ -1307,7 +1347,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen056"
+    "question_id": "cbse_xi_kemh1dd_c110_gen056",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "What is the generator of a cone?",
@@ -1326,7 +1367,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen016"
+    "question_id": "cbse_xi_kemh1dd_c110_gen016",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "If a plane intersects a right circular cone such that the angle β between the plane and the vertical axis is 90°, what conic section is formed?",
@@ -1345,7 +1387,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen017"
+    "question_id": "cbse_xi_kemh1dd_c110_gen017",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "For which condition on the angles α and β is the section of the cone a parabola?",
@@ -1364,7 +1407,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen018"
+    "question_id": "cbse_xi_kemh1dd_c110_gen018",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "When the plane passes through the vertex of the cone and 0 ≤ β < α, what degenerate conic section is formed?",
@@ -1383,7 +1427,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen019"
+    "question_id": "cbse_xi_kemh1dd_c110_gen019",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Define a circle and state its main components.",
@@ -1397,7 +1442,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen020"
+    "question_id": "cbse_xi_kemh1dd_c110_gen020",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "List and briefly describe the different types of conic sections obtained by intersecting a double-napped cone with a plane.",
@@ -1411,7 +1457,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen021"
+    "question_id": "cbse_xi_kemh1dd_c110_gen021",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Explain the concept of degenerate conic sections and provide examples as described in the text.",
@@ -1425,7 +1472,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen022"
+    "question_id": "cbse_xi_kemh1dd_c110_gen022",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "State the equation of a circle with centre at (h, k) and radius r, and explain its derivation using the distance formula.",
@@ -1439,7 +1487,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen023"
+    "question_id": "cbse_xi_kemh1dd_c110_gen023",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Derive the condition under which the intersection of a plane with a double-napped cone yields an ellipse. Provide a detailed explanation including geometric considerations.",
@@ -1453,7 +1502,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen024"
+    "question_id": "cbse_xi_kemh1dd_c110_gen024",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Prove that the equation (x - h)² + (y - k)² = r² represents a circle and demonstrate the method of completing the square to convert a general quadratic equation into the standard form of a circle.",
@@ -1467,7 +1517,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen025"
+    "question_id": "cbse_xi_kemh1dd_c110_gen025",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Discuss the impact of varying the angle β (between the intersecting plane and the cone's axis) on the type of conic section formed. Provide a detailed explanation and describe the construction of representative diagrams.",
@@ -1481,7 +1532,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen026"
+    "question_id": "cbse_xi_kemh1dd_c110_gen026",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Find the equation of the circle with centre (0,2) and radius 2.",
@@ -1495,7 +1547,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen027"
+    "question_id": "cbse_xi_kemh1dd_c110_gen027",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Find the equation of the circle with centre (–3,2) and radius 4.",
@@ -1509,7 +1562,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen028"
+    "question_id": "cbse_xi_kemh1dd_c110_gen028",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Find the centre and the radius of the circle given by x² + y² + 8x + 10y – 8 = 0.",
@@ -1523,7 +1577,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen029"
+    "question_id": "cbse_xi_kemh1dd_c110_gen029",
+    "section_name": "10.2 Sections of a Cone"
   },
   {
     "question_text": "Find the equation of the circle which passes through (4,1) and (6,5) and whose centre lies on the line 4x + y = 16.",
@@ -1537,6 +1592,7 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_xi_kemh1dd_c110_gen030"
+    "question_id": "cbse_xi_kemh1dd_c110_gen030",
+    "section_name": "10.2 Sections of a Cone"
   }
 ]

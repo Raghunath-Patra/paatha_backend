@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen055"
+    "question_id": "cbse_xii_lemh2dd_c204_gen055",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Two vectors a and b, given in component form as a = a₁i + a₂j + a₃k and b = b₁i + b₂j + b₃k, are equal if and only if:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen056"
+    "question_id": "cbse_xii_lemh2dd_c204_gen056",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "If a point R divides the line segment joining points P and Q internally in the ratio m:n, then which of the following is the correct expression for the position vector of R (given OP = a and OQ = b)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen057"
+    "question_id": "cbse_xii_lemh2dd_c204_gen057",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "What is the formula for obtaining a unit vector in the direction of a given vector a?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen058"
+    "question_id": "cbse_xii_lemh2dd_c204_gen058",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Define the component form of a vector in 3D space and state what the scalar components are.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen059"
+    "question_id": "cbse_xii_lemh2dd_c204_gen059",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "What are direction ratios and direction cosines of a vector? Briefly explain.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen060"
+    "question_id": "cbse_xii_lemh2dd_c204_gen060",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "State the distributive law for vector addition with respect to scalar multiplication.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen061"
+    "question_id": "cbse_xii_lemh2dd_c204_gen061",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Explain what it means for two vectors to be collinear, and provide the condition for collinearity in their component forms.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen062"
+    "question_id": "cbse_xii_lemh2dd_c204_gen062",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Prove that the magnitude of the scalar multiplied vector is given by |λa| = |λ| |a|.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen063"
+    "question_id": "cbse_xii_lemh2dd_c204_gen063",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Derive the internal section formula for a point R that divides the line segment joining two points P and Q with position vectors a and b respectively in the ratio m:n.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen064"
+    "question_id": "cbse_xii_lemh2dd_c204_gen064",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Using the Pythagorean theorem, derive the formula for the magnitude of a vector r = xi + yj + zk.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen065"
+    "question_id": "cbse_xii_lemh2dd_c204_gen065",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Given the vector a = 2i − j + 3k, find the vector 4a, determine its magnitude, and express its direction using unit vector notation.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen066"
+    "question_id": "cbse_xii_lemh2dd_c204_gen066",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Find the unit vector in the direction of the vector a = -3i + 4j + 0k.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen067"
+    "question_id": "cbse_xii_lemh2dd_c204_gen067",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Find the position vector of the point that divides the line joining A(2, 3, 1) and B(–1, 5, 4) internally in the ratio 2:3.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen068"
+    "question_id": "cbse_xii_lemh2dd_c204_gen068",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   },
   {
     "question_text": "Given two points P(1, 2, -1) and Q(4, 0, 3), determine the magnitude of the vector joining them.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "06_section_10_5",
-    "question_id": "cbse_xii_lemh2dd_c204_gen069"
+    "question_id": "cbse_xii_lemh2dd_c204_gen069",
+    "section_name": "10.5 Multiplication of a Vector by a Scalar"
   }
 ]

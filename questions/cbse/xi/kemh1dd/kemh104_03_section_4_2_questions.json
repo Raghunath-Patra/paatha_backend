@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen016"
+    "question_id": "cbse_xi_kemh1dd_c104_gen016",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Given the complex number z = 3 + 4i, what is the value of Re(z)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen017"
+    "question_id": "cbse_xi_kemh1dd_c104_gen017",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "For two complex numbers z₁ = a + ib and z₂ = c + id to be equal, which condition must be satisfied?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen018"
+    "question_id": "cbse_xi_kemh1dd_c104_gen018",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "What is the value of i²?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen019"
+    "question_id": "cbse_xi_kemh1dd_c104_gen019",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Define a complex number and state its components.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen020"
+    "question_id": "cbse_xi_kemh1dd_c104_gen020",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "State the method to determine if two complex numbers are equal.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen021"
+    "question_id": "cbse_xi_kemh1dd_c104_gen021",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Explain the notations Re(z) and Im(z) for a complex number z.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen022"
+    "question_id": "cbse_xi_kemh1dd_c104_gen022",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Outline the steps used to find the values of x and y in the equation 4x + i(3x - y) = 3 + i(-6) by equating real and imaginary parts.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen023"
+    "question_id": "cbse_xi_kemh1dd_c104_gen023",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Prove that if two complex numbers z₁ = a + ib and z₂ = c + id are equal, then their respective real parts and imaginary parts must be equal.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen024"
+    "question_id": "cbse_xi_kemh1dd_c104_gen024",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Derive a step-by-step process for solving an equation of the form 4x + i(3x - y) = 3 + i(-6) in order to find the unknowns x and y.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen025"
+    "question_id": "cbse_xi_kemh1dd_c104_gen025",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Solve for the real numbers x and y in the equation: (3 + 2i)x + (4 - i)y = 7 + 5i.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen026"
+    "question_id": "cbse_xi_kemh1dd_c104_gen026",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Solve for the real numbers x and y in the equation: (2 + i)x - (3 - 2i)y = 8 + i.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen027"
+    "question_id": "cbse_xi_kemh1dd_c104_gen027",
+    "section_name": "4.2 Complex Numbers"
   },
   {
     "question_text": "Given a complex number z = a + ib where |z| = 5 and a = 3, find the possible values of b.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_xi_kemh1dd_c104_gen028"
+    "question_id": "cbse_xi_kemh1dd_c104_gen028",
+    "section_name": "4.2 Complex Numbers"
   }
 ]

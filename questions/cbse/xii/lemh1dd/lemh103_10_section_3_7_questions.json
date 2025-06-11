@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen054"
+    "question_id": "cbse_xii_lemh1dd_c103_gen054",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "If B is the inverse of A, which of the following statements is always true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen055"
+    "question_id": "cbse_xii_lemh1dd_c103_gen055",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Which theorem guarantees that the inverse of a matrix, if it exists, is unique?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen056"
+    "question_id": "cbse_xii_lemh1dd_c103_gen056",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "What is the inverse of the product of two invertible matrices A and B?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen057"
+    "question_id": "cbse_xii_lemh1dd_c103_gen057",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Define an invertible (or nonsingular) matrix and state the condition for its existence.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen058"
+    "question_id": "cbse_xii_lemh1dd_c103_gen058",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Explain why a rectangular matrix cannot possess an inverse matrix.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen059"
+    "question_id": "cbse_xii_lemh1dd_c103_gen059",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Discuss the implications of the theorem that states the uniqueness of the inverse of a matrix. Why is this property important in solving matrix equations?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen060"
+    "question_id": "cbse_xii_lemh1dd_c103_gen060",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Prove that if B and C are both inverses of a square matrix A, then B = C.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen061"
+    "question_id": "cbse_xii_lemh1dd_c103_gen061",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Prove that for two invertible matrices A and B, the inverse of their product is given by (AB)⁻¹ = B⁻¹A⁻¹.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen062"
+    "question_id": "cbse_xii_lemh1dd_c103_gen062",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Given matrix A = [[2, 3], [1, 2]], verify that its matrix B = [[2, -3], [-1, 2]] is indeed its inverse by showing that AB = BA = I.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen063"
+    "question_id": "cbse_xii_lemh1dd_c103_gen063",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Compute the inverse of the matrix A = [[4, 7], [2, 6]] using the formula for 2×2 matrices and verify by multiplying with A.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen064"
+    "question_id": "cbse_xii_lemh1dd_c103_gen064",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Find the inverse of the matrix A = [[3, 0], [5, 1]] and show that A·A⁻¹ = I.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen065"
+    "question_id": "cbse_xii_lemh1dd_c103_gen065",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "For matrices A = [[1, 2], [3, 4]] and B = [[2, 0], [1, 2]], if they are invertible, compute (AB)⁻¹ using the theorem.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen066"
+    "question_id": "cbse_xii_lemh1dd_c103_gen066",
+    "section_name": "3.7 Invertible Matrices**"
   }
 ]

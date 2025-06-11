@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "2.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "2.2 ELECTROSTATIC POTENTIAL"
+    },
+    {
+      "number": 3,
+      "name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
+    },
+    {
+      "number": 4,
+      "name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
+    },
+    {
+      "number": 5,
+      "name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
+    },
+    {
+      "number": 6,
+      "name": "2.6 EQUIPOTENTIAL SURFACES"
+    },
+    {
+      "number": 7,
+      "name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
+    },
+    {
+      "number": 8,
+      "name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
+    },
+    {
+      "number": 9,
+      "name": "2.9 ELECTROSTATICS OF CONDUCTORS"
+    },
+    {
+      "number": 10,
+      "name": "2.10 DIELECTRICS AND POLARISATION"
+    },
+    {
+      "number": 11,
+      "name": "2.11 CAPACITORS AND CAPACITANCE"
+    },
+    {
+      "number": 12,
+      "name": "2.12 THE PARALLEL PLATE CAPACITOR"
+    },
+    {
+      "number": 13,
+      "name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
+    },
+    {
+      "number": 14,
+      "name": "2.14 COMBINATION OF CAPACITORS"
+    },
+    {
+      "number": 15,
+      "name": "2.15 ENERGY STORED IN A CAPACITOR"
+    }
+  ]
+}

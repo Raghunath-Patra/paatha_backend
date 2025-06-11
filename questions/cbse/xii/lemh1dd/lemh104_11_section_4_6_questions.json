@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen068"
+    "question_id": "cbse_xii_lemh1dd_c104_gen068",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "In the matrix method to solve a system of equations, if A is a nonsingular matrix, then A⁻¹ exists. Which equation shows the correct method of arriving at X?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen069"
+    "question_id": "cbse_xii_lemh1dd_c104_gen069",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "If the determinant of the coefficient matrix A is 0, which of the following statements is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen070"
+    "question_id": "cbse_xii_lemh1dd_c104_gen070",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "When can the matrix method using the inverse be applied to solve a system of linear equations?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen071"
+    "question_id": "cbse_xii_lemh1dd_c104_gen071",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Define a 'consistent system' of linear equations.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen072"
+    "question_id": "cbse_xii_lemh1dd_c104_gen072",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Express the system of equations AX = B for a system with three equations: a₁x + b₁y + c₁z = d₁, a₂x + b₂y + c₂z = d₂, and a₃x + b₃y + c₃z = d₃.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen073"
+    "question_id": "cbse_xii_lemh1dd_c104_gen073",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "What is the necessary condition for the applicability of the inverse matrix method when solving a system of linear equations?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen074"
+    "question_id": "cbse_xii_lemh1dd_c104_gen074",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Given a 2×2 matrix A = [ [2, 5], [3, 2] ], compute its inverse A⁻¹.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen075"
+    "question_id": "cbse_xii_lemh1dd_c104_gen075",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Solve the following system of linear equations using the matrix inverse method:\n2x + 3y − z = 5\n4x − y + 2z = 6\n−3x + 2y + 4z = 7\nProvide the solution in terms of x, y, and z.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen076"
+    "question_id": "cbse_xii_lemh1dd_c104_gen076",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Prove that if the coefficient matrix A is nonsingular, then the solution obtained by X = A⁻¹B is unique for the system AX = B.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen077"
+    "question_id": "cbse_xii_lemh1dd_c104_gen077",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Using the matrix method, solve the system of equations:\n2x + 5y = 1\n3x + 2y = 7\nProvide a step-by-step solution.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen078"
+    "question_id": "cbse_xii_lemh1dd_c104_gen078",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Solve the following system of three equations using the matrix inverse method:\n3x − 2y + 3z = 8\n2x + y − z = 1\n4x − 3y + 2z = 4\nShow all steps in your solution.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen079"
+    "question_id": "cbse_xii_lemh1dd_c104_gen079",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Three numbers satisfy the following conditions:\n(i) The sum of the three numbers is 6.\n(ii) Multiplying the third number by 3 and adding the second number gives 11.\n(iii) The sum of the first and third numbers equals twice the second number.\nRepresent these conditions as a system of linear equations and solve for the numbers using the matrix method.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen080"
+    "question_id": "cbse_xii_lemh1dd_c104_gen080",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   },
   {
     "question_text": "Given the matrix A = [ [1, 2, 3], [0, 1, 4], [5, 6, 0] ], compute its determinant and then find its inverse using the adjugate method. Provide detailed steps.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "11_section_4_6",
-    "question_id": "cbse_xii_lemh1dd_c104_gen081"
+    "question_id": "cbse_xii_lemh1dd_c104_gen081",
+    "section_name": "4.6 Applications of Determinants and Matrices"
   }
 ]

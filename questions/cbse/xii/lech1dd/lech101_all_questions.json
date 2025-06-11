@@ -549,7 +549,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen034"
+    "question_id": "cbse_xii_lech1dd_c101_gen034",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "In a nearly saturated solution where the dissolution process of a solid is endothermic, what is the effect of increasing the temperature on its solubility?",
@@ -568,7 +569,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen035"
+    "question_id": "cbse_xii_lech1dd_c101_gen035",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Henry's law relates the solubility of a gas in a liquid to its partial pressure. Which expression correctly represents Henry's law?",
@@ -587,7 +589,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen036"
+    "question_id": "cbse_xii_lech1dd_c101_gen036",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Which factor has a significant effect on the solubility of gases in liquids?",
@@ -606,7 +609,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen037"
+    "question_id": "cbse_xii_lech1dd_c101_gen037",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Which of the following pairs correctly identifies a solute and solvent system based on the principle 'like dissolves like'?",
@@ -625,7 +629,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen038"
+    "question_id": "cbse_xii_lech1dd_c101_gen038",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Define a saturated solution and an unsaturated solution.",
@@ -639,7 +644,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen039"
+    "question_id": "cbse_xii_lech1dd_c101_gen039",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Explain the process of dynamic equilibrium in the dissolution of a solid in a liquid.",
@@ -653,7 +659,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen040"
+    "question_id": "cbse_xii_lech1dd_c101_gen040",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Describe how temperature affects the solubility of gases in liquids and provide a brief explanation based on the principles of exothermic processes and Le Chatelier’s principle.",
@@ -667,7 +674,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen041"
+    "question_id": "cbse_xii_lech1dd_c101_gen041",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Explain Henry's law in detail and discuss its importance in both industrial applications and biological systems.",
@@ -681,7 +689,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen042"
+    "question_id": "cbse_xii_lech1dd_c101_gen042",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Discuss in detail how an increase in pressure affects the solubility of a gas in a liquid, and analyze the role of the piston diagram in illustrating this phenomenon.",
@@ -695,7 +704,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen043"
+    "question_id": "cbse_xii_lech1dd_c101_gen043",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Evaluate the statement 'Polar solutes dissolve in polar solvents and nonpolar solutes in nonpolar solvents' using examples provided in the text, and discuss any limitations of this rule.",
@@ -709,7 +719,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen044"
+    "question_id": "cbse_xii_lech1dd_c101_gen044",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "True or False: Pressure has a significant effect on the solubility of solids in liquids.",
@@ -723,7 +734,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen045"
+    "question_id": "cbse_xii_lech1dd_c101_gen045",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "True or False: In a nearly saturated solution, an endothermic dissolution process will result in decreased solubility when the temperature is increased.",
@@ -737,7 +749,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen046"
+    "question_id": "cbse_xii_lech1dd_c101_gen046",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "True or False: A higher value of Henry's law constant implies a lower solubility of a gas in a liquid.",
@@ -751,7 +764,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen047"
+    "question_id": "cbse_xii_lech1dd_c101_gen047",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "N₂ gas is bubbled through water at 293 K under a partial pressure of 0.987 bar. Given that the Henry's law constant for N₂ at 293 K is 76.48 kbar, calculate the number of millimoles of N₂ gas that would dissolve in 1 liter of water. (Assume 1 liter of water contains 55.5 moles of water)",
@@ -765,7 +779,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen048"
+    "question_id": "cbse_xii_lech1dd_c101_gen048",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "For a gas with a Henry's law constant (KH) of 34.86 kbar, if the partial pressure of O₂ is 0.8 bar at 293 K, calculate the mole fraction of O₂ in water. Assume water has 55.5 moles per liter.",
@@ -779,7 +794,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen049"
+    "question_id": "cbse_xii_lech1dd_c101_gen049",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "For CO₂ dissolved in water with a Henry's law constant of 1.67 kbar, calculate the mole fraction of CO₂ if the partial pressure is 1.00 bar. Also, determine the number of millimoles of CO₂ in 1 liter of water containing 55.5 moles of water.",
@@ -793,7 +809,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen050"
+    "question_id": "cbse_xii_lech1dd_c101_gen050",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "If the Henry's law constant for N₂ increases from 76.48 kbar at 293 K to 88.84 kbar at 303 K under constant partial pressure, calculate the percentage decrease in the mole fraction of dissolved N₂ in water.",
@@ -807,7 +824,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lech1dd_c101_gen051"
+    "question_id": "cbse_xii_lech1dd_c101_gen051",
+    "section_name": "1.3 Solubility"
   },
   {
     "question_text": "Which of the following best defines a solution?",
@@ -826,7 +844,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen001"
+    "question_id": "cbse_xii_lech1dd_c101_gen001",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "In a liquid solution, glucose is dissolved in water. In this scenario, which one is the solvent?",
@@ -845,7 +864,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen002"
+    "question_id": "cbse_xii_lech1dd_c101_gen002",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "Which of the following correctly identifies a gaseous solution that has a solid solute?",
@@ -864,7 +884,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen003"
+    "question_id": "cbse_xii_lech1dd_c101_gen003",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "What primarily determines the physical state in which a solution exists?",
@@ -883,7 +904,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen004"
+    "question_id": "cbse_xii_lech1dd_c101_gen004",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "What does the term 'binary solution' refer to in the context of the given section?",
@@ -902,7 +924,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen005"
+    "question_id": "cbse_xii_lech1dd_c101_gen005",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "Explain what is meant by a homogeneous mixture.",
@@ -916,7 +939,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen006"
+    "question_id": "cbse_xii_lech1dd_c101_gen006",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "Name two examples of binary liquid solutions mentioned in the section.",
@@ -930,7 +954,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen007"
+    "question_id": "cbse_xii_lech1dd_c101_gen007",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "List the types of combinations of solute and solvent states that can occur in binary solutions.",
@@ -944,7 +969,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen008"
+    "question_id": "cbse_xii_lech1dd_c101_gen008",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "Discuss the role of the solvent in determining the physical state of a solution. Provide examples to support your answer.",
@@ -958,7 +984,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen009"
+    "question_id": "cbse_xii_lech1dd_c101_gen009",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "Analyze various binary solutions given in the section by comparing the state of the solute and solvent. How does this classification help in understanding their properties and applications?",
@@ -972,7 +999,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen010"
+    "question_id": "cbse_xii_lech1dd_c101_gen010",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "True or False: A solution is a heterogeneous mixture.",
@@ -986,7 +1014,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen011"
+    "question_id": "cbse_xii_lech1dd_c101_gen011",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "True or False: Binary solutions always consist of one solid component and one liquid component.",
@@ -1000,7 +1029,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen012"
+    "question_id": "cbse_xii_lech1dd_c101_gen012",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "A 10 g sample of a solid solute (glucose) is dissolved in 100 g of water. Calculate the mass percentage of glucose in the solution. Provide your answer with appropriate precision and units.",
@@ -1014,7 +1044,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen013"
+    "question_id": "cbse_xii_lech1dd_c101_gen013",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "In a liquid solution, 5 mL of ethanol is mixed with 95 mL of water. Determine the volume percentage of ethanol in the solution.",
@@ -1028,7 +1059,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen014"
+    "question_id": "cbse_xii_lech1dd_c101_gen014",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "A gaseous solution consists of 30% oxygen and 70% nitrogen by volume. Assuming ideal gas behavior, what is the mole fraction of oxygen in the solution?",
@@ -1042,7 +1074,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen015"
+    "question_id": "cbse_xii_lech1dd_c101_gen015",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "For a binary solution, a slight change in the amount of solute causes a boiling point elevation of 0.2 K. If the boiling point elevation constant (K b) is 0.512 K·kg/mol, calculate the molality of the solution. Provide your answer with the correct units.",
@@ -1056,7 +1089,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lech1dd_c101_gen016"
+    "question_id": "cbse_xii_lech1dd_c101_gen016",
+    "section_name": "1.1 Types ofTypes of Types of Solutions SolutionsSolutions"
   },
   {
     "question_text": "Which law states that the vapor pressure of each component in a solution is directly proportional to its mole fraction?",
@@ -1075,7 +1109,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen052"
+    "question_id": "cbse_xii_lech1dd_c101_gen052",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "In a binary liquid-liquid solution obeying Raoult's law, the total vapor pressure is given by p_total = p1° + (p2° - p1°) × x2. What is the total vapor pressure when x2 equals 1?",
@@ -1094,7 +1129,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen053"
+    "question_id": "cbse_xii_lech1dd_c101_gen053",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "When a nonvolatile solute is added to a volatile solvent, the vapor pressure of the solution decreases. Which of the following best explains this phenomenon?",
@@ -1113,7 +1149,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen054"
+    "question_id": "cbse_xii_lech1dd_c101_gen054",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "Which factor primarily determines the composition of the vapor phase in equilibrium with a binary liquid solution?",
@@ -1132,7 +1169,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen055"
+    "question_id": "cbse_xii_lech1dd_c101_gen055",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "According to Henry's law, the proportionality constant for the solubility of a gas in a liquid is denoted by:",
@@ -1151,7 +1189,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen056"
+    "question_id": "cbse_xii_lech1dd_c101_gen056",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "State Raoult's law for a solution containing two volatile liquids.",
@@ -1165,7 +1204,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen057"
+    "question_id": "cbse_xii_lech1dd_c101_gen057",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "Explain why the vapor pressure of a solvent decreases upon the addition of a nonvolatile solute.",
@@ -1179,7 +1219,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen058"
+    "question_id": "cbse_xii_lech1dd_c101_gen058",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "What is the significance of the mole fraction in determining the vapor pressures of the individual components in a binary solution?",
@@ -1193,7 +1234,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen059"
+    "question_id": "cbse_xii_lech1dd_c101_gen059",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "How does Raoult's law become a special case of Henry's law?",
@@ -1207,7 +1249,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen060"
+    "question_id": "cbse_xii_lech1dd_c101_gen060",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "Discuss how the vapor pressures of the pure components affect the total vapor pressure in a binary liquid-liquid solution. Derive the expression for total vapor pressure in terms of the mole fraction of one component.",
@@ -1221,7 +1264,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen061"
+    "question_id": "cbse_xii_lech1dd_c101_gen061",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "Compare and contrast the vapor pressure behavior of liquid-liquid solutions and solutions of solids in liquids with respect to volatility and surface occupancy.",
@@ -1235,7 +1279,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen062"
+    "question_id": "cbse_xii_lech1dd_c101_gen062",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "Using the concepts of vapor pressure and mole fraction, explain why the vapor phase in a binary liquid solution is richer in the more volatile component. Support your answer with reference to Dalton’s and Raoult’s laws.",
@@ -1249,7 +1294,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen063"
+    "question_id": "cbse_xii_lech1dd_c101_gen063",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "True or False: In a binary solution of volatile liquids that obey Raoult's law, a plot of total vapor pressure versus the mole fraction of one component will be linear.",
@@ -1263,7 +1309,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen064"
+    "question_id": "cbse_xii_lech1dd_c101_gen064",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "True or False: Adding a nonvolatile solute to a solvent affects only the boiling point of the solvent but not its vapor pressure.",
@@ -1277,7 +1324,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen065"
+    "question_id": "cbse_xii_lech1dd_c101_gen065",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "A solution is prepared by mixing 25.5 g of CHCl3 (molar mass = 119.5 g/mol, p° = 200 mm Hg) with 40 g of CH2Cl2 (molar mass = 85 g/mol, p° = 415 mm Hg) at 298 K. Calculate the total vapor pressure of the solution and determine the mole fractions of each component in the vapor phase.",
@@ -1291,7 +1339,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen066"
+    "question_id": "cbse_xii_lech1dd_c101_gen066",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "For a binary solution, the pure vapor pressures of components A and B are 100 mm Hg and 300 mm Hg, respectively. If the mole fraction of component B in the liquid phase is 0.4, calculate: (a) the total vapor pressure of the solution, (b) the partial vapor pressures of each component, and (c) the vapor phase mole fractions.",
@@ -1305,7 +1354,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen067"
+    "question_id": "cbse_xii_lech1dd_c101_gen067",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "A solution of a nonvolatile solute in a volatile solvent follows Raoult's law. If the vapor pressure of the pure solvent is 250 mm Hg and the solution contains 10% solute by mole, what is the vapor pressure of the solution?",
@@ -1319,7 +1369,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen068"
+    "question_id": "cbse_xii_lech1dd_c101_gen068",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "For a gas in a solution that obeys Henry's law, if the Henry's constant (KH) is 500 mm Hg and the mole fraction of the gas in the solution is 0.02, calculate the partial pressure of the gas.",
@@ -1333,7 +1384,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_xii_lech1dd_c101_gen069"
+    "question_id": "cbse_xii_lech1dd_c101_gen069",
+    "section_name": "1.4 Vapour Pressure of Liquid Solutions"
   },
   {
     "question_text": "What does the term 'abnormal molar mass' refer to in the context of colligative properties?",
@@ -1352,7 +1404,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen105"
+    "question_id": "cbse_xii_lech1dd_c101_gen105",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "The van't Hoff factor (i) is defined as:",
@@ -1371,7 +1424,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen106"
+    "question_id": "cbse_xii_lech1dd_c101_gen106",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "For an aqueous KCl solution, what approximate value of the van't Hoff factor (i) would you expect in a very dilute solution?",
@@ -1390,7 +1444,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen107"
+    "question_id": "cbse_xii_lech1dd_c101_gen107",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "When weak acids like acetic acid dimerize in low polarity solvents (e.g., benzene), the van't Hoff factor is:",
@@ -1409,7 +1464,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen108"
+    "question_id": "cbse_xii_lech1dd_c101_gen108",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "Define abnormal molar mass and give one example from the text.",
@@ -1423,7 +1479,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen109"
+    "question_id": "cbse_xii_lech1dd_c101_gen109",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "Explain why the experimentally determined molar mass of an electrolyte might be lower than the expected (true) molar mass.",
@@ -1437,7 +1494,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen110"
+    "question_id": "cbse_xii_lech1dd_c101_gen110",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "How does the incorporation of the van't Hoff factor modify the equations for colligative properties?",
@@ -1451,7 +1509,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen111"
+    "question_id": "cbse_xii_lech1dd_c101_gen111",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "Discuss the concept of association in weak organic acids. Explain how the dimerization of benzoic acid in benzene affects the freezing point depression and the calculated molar mass, detailing the process with reference to the equilibrium 2 C6H5COOH ⇌ (C6H5COOH)2.",
@@ -1465,7 +1524,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen112"
+    "question_id": "cbse_xii_lech1dd_c101_gen112",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "Compare and contrast the effects of dissociation and association on the experimentally determined molar masses. How does the van't Hoff factor help in accounting for these differences? Provide examples from the text.",
@@ -1479,7 +1539,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen113"
+    "question_id": "cbse_xii_lech1dd_c101_gen113",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "Derive the modified equation for osmotic pressure that includes the van't Hoff factor. Explain the significance of each term in the equation and discuss why deviations in i are important in colligative properties.",
@@ -1493,7 +1554,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen114"
+    "question_id": "cbse_xii_lech1dd_c101_gen114",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "True or False: Van't Hoff factor i is always equal to the number of ions produced after complete dissociation of any solute.",
@@ -1507,7 +1569,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen115"
+    "question_id": "cbse_xii_lech1dd_c101_gen115",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "True or False: In solvents with low dielectric constant, such as benzene, hydrogen bonding can lead to dimerization of acetic acid, resulting in a van't Hoff factor less than 1.",
@@ -1521,7 +1584,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen116"
+    "question_id": "cbse_xii_lech1dd_c101_gen116",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "2 g of benzoic acid (C6H5COOH) is dissolved in 25 g of benzene. The freezing point depression observed is 1.62 K. Given that the cryoscopic constant (Kf) for benzene is 4.9 K kg/mol, calculate (a) the experimental molar mass of benzoic acid and (b) the degree of association, knowing that the true molar mass is 122 g/mol.",
@@ -1535,7 +1599,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen117"
+    "question_id": "cbse_xii_lech1dd_c101_gen117",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "3 g of KCl is dissolved in 100 g of water. Given that the boiling point elevation constant (Kb) for water is 0.52 K kg/mol and assuming complete dissociation (i ≈ 2), calculate the expected boiling point elevation of the solution.",
@@ -1549,7 +1614,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen118"
+    "question_id": "cbse_xii_lech1dd_c101_gen118",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "In an experiment, 0.6 mL of acetic acid (density = 1.06 g/mL) is dissolved in 1 L of water and the freezing point depression observed is 0.0205°C. Calculate the van't Hoff factor and the degree of dissociation of acetic acid. Also, determine its dissociation constant (Ka), assuming acetic acid dissociates into CH3COO⁻ and H⁺.",
@@ -1563,7 +1629,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen119"
+    "question_id": "cbse_xii_lech1dd_c101_gen119",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "For K2SO4 dissolved in water at a concentration of 0.001 m, the experimentally determined van't Hoff factor is 2.84 instead of the expected value of 3 for complete dissociation. Calculate the number of moles of particles produced per mole of K2SO4 and determine the percentage deviation from complete dissociation.",
@@ -1577,7 +1644,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "11_section_1_7",
-    "question_id": "cbse_xii_lech1dd_c101_gen120"
+    "question_id": "cbse_xii_lech1dd_c101_gen120",
+    "section_name": "1.7 Abnormal AbnormalAbnormal Molar Masses"
   },
   {
     "question_text": "Which of the following concentration units is temperature dependent?",
@@ -1596,7 +1664,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen017"
+    "question_id": "cbse_xii_lech1dd_c101_gen017",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "What is the formula for mass percentage of a component in a solution?",
@@ -1615,7 +1684,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen018"
+    "question_id": "cbse_xii_lech1dd_c101_gen018",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Volume percentage is mostly used when the solute and solvent are both _____ .",
@@ -1634,7 +1704,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen019"
+    "question_id": "cbse_xii_lech1dd_c101_gen019",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Which concentration concept is defined as the number of moles of solute dissolved in one litre of solution?",
@@ -1653,7 +1724,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen020"
+    "question_id": "cbse_xii_lech1dd_c101_gen020",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Which method of concentration is most commonly used in industrial chemical applications, such as in commercial bleaching solutions?",
@@ -1672,7 +1744,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen021"
+    "question_id": "cbse_xii_lech1dd_c101_gen021",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Define mass by volume percentage and provide one example where it might be used.",
@@ -1686,7 +1759,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen022"
+    "question_id": "cbse_xii_lech1dd_c101_gen022",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Explain the concept of mole fraction and state why the sum of mole fractions for all components in a solution is always equal to 1.",
@@ -1700,7 +1774,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen023"
+    "question_id": "cbse_xii_lech1dd_c101_gen023",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Briefly describe what is meant by parts per million (ppm) and mention one application where this unit is particularly useful.",
@@ -1714,7 +1789,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen024"
+    "question_id": "cbse_xii_lech1dd_c101_gen024",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Discuss in detail the differences between molarity and molality, particularly focusing on their definitions, units, and temperature dependence.",
@@ -1728,7 +1804,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen025"
+    "question_id": "cbse_xii_lech1dd_c101_gen025",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "For a binary solution containing components A and B, derive the expression for the mole fraction of component A and illustrate your explanation with an example calculation.",
@@ -1742,7 +1819,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen026"
+    "question_id": "cbse_xii_lech1dd_c101_gen026",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Molarity is independent of temperature. True or False?",
@@ -1756,7 +1834,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen027"
+    "question_id": "cbse_xii_lech1dd_c101_gen027",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Volume percentage is generally used for expressing concentrations of solutions where both solute and solvent are liquids. True or False?",
@@ -1770,7 +1849,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen028"
+    "question_id": "cbse_xii_lech1dd_c101_gen028",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "The sum of the mole fractions of all components in a solution does not always equal 1. True or False?",
@@ -1784,7 +1864,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen029"
+    "question_id": "cbse_xii_lech1dd_c101_gen029",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "A commercial bleaching solution contains 3.62 g of sodium hypochlorite in every 100 g of solution. Calculate its mass percentage and express your answer in percent.",
@@ -1798,7 +1879,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen030"
+    "question_id": "cbse_xii_lech1dd_c101_gen030",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "In preparing a NaOH solution, 5 g of NaOH (molar mass = 40 g/mol) is dissolved in 450 mL of solution. Calculate the molarity of the resulting solution.",
@@ -1812,7 +1894,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen031"
+    "question_id": "cbse_xii_lech1dd_c101_gen031",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Calculate the molality of a solution made by dissolving 2.5 g of ethanoic acid (molar mass = 60 g/mol) in 75 g of benzene.",
@@ -1826,7 +1909,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen032"
+    "question_id": "cbse_xii_lech1dd_c101_gen032",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "If 10 g of ethanol (C₂H₆O) is dissolved in enough water to prepare 100 mL of solution, what is the mass by volume percentage of ethanol in this solution?",
@@ -1840,7 +1924,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lech1dd_c101_gen033"
+    "question_id": "cbse_xii_lech1dd_c101_gen033",
+    "section_name": "1.2 Expressing ExpressingExpressing Concentration of Solutions of Solutionsof"
   },
   {
     "question_text": "Which of the following best defines colligative properties?",
@@ -1859,7 +1944,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen090"
+    "question_id": "cbse_xii_lech1dd_c101_gen090",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "According to Raoult's law, the relative lowering of vapor pressure of a solvent is given by which of the following expressions?",
@@ -1878,7 +1964,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen091"
+    "question_id": "cbse_xii_lech1dd_c101_gen091",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "What is the boiling point elevation (Kb) for water as indicated in the textbook section?",
@@ -1897,7 +1984,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen092"
+    "question_id": "cbse_xii_lech1dd_c101_gen092",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "Which of the following equations correctly relates osmotic pressure (Π) to molarity (C), the gas constant (R), and temperature (T)?",
@@ -1916,7 +2004,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen093"
+    "question_id": "cbse_xii_lech1dd_c101_gen093",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "Explain in your own words why the addition of a non-volatile solute to a solvent results in a lowering of the solvent's freezing point.",
@@ -1930,7 +2019,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen094"
+    "question_id": "cbse_xii_lech1dd_c101_gen094",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "Describe the concept of a semipermeable membrane and its role in the process of osmosis.",
@@ -1944,7 +2034,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen095"
+    "question_id": "cbse_xii_lech1dd_c101_gen095",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "In the context of colligative properties, explain Raoult's law and its significance in determining molar masses.",
@@ -1958,7 +2049,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen096"
+    "question_id": "cbse_xii_lech1dd_c101_gen096",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "Describe in detail the experimental method of using osmotic pressure measurements for determining the molar mass of a solute, and comment on its advantages compared to other colligative property methods.",
@@ -1972,7 +2064,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen097"
+    "question_id": "cbse_xii_lech1dd_c101_gen097",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "Discuss how reverse osmosis is utilized in water purification processes, and explain the underlying chemical and physical principles involved.",
@@ -1986,7 +2079,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen098"
+    "question_id": "cbse_xii_lech1dd_c101_gen098",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "Colligative properties depend solely on the number of solute particles and not on their nature. True or False?",
@@ -2000,7 +2094,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen099"
+    "question_id": "cbse_xii_lech1dd_c101_gen099",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "The boiling point of a solution is always higher than the boiling point of the pure solvent. True or False?",
@@ -2014,7 +2109,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen100"
+    "question_id": "cbse_xii_lech1dd_c101_gen100",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "A solution is prepared by dissolving 0.60 g of a non-volatile solute in 34.0 g of benzene. The vapor pressure of pure benzene is 0.90 bar and that of the solution is 0.895 bar. Calculate the molar mass of the solute. (Molar mass of benzene is 78 g/mol)",
@@ -2028,7 +2124,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen101"
+    "question_id": "cbse_xii_lech1dd_c101_gen101",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "18 g of sucrose is dissolved in 1 kg of water. Given that the boiling point elevation constant (Kᵦ) for water is 0.52 K kg/mol, calculate the elevation in boiling point and the new boiling point of water (normal boiling point 373.15 K).",
@@ -2042,7 +2139,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen102"
+    "question_id": "cbse_xii_lech1dd_c101_gen102",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "1.2 g of a non-electrolyte solute is dissolved in 50 g of benzene, resulting in a freezing point depression of 0.40 K. Given that the freezing point depression constant (K𝒻) for benzene is 5.12 K kg/mol, calculate the molar mass of the solute.",
@@ -2056,7 +2154,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen103"
+    "question_id": "cbse_xii_lech1dd_c101_gen103",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "A 250 mL aqueous solution of a polymer exerts an osmotic pressure of 1.5 × 10⁻² bar at 298 K. If the solution contains 0.5 g of the polymer, calculate its molar mass. (Use R = 0.083 L bar/mol K)",
@@ -2070,7 +2169,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "09_section_1_6",
-    "question_id": "cbse_xii_lech1dd_c101_gen104"
+    "question_id": "cbse_xii_lech1dd_c101_gen104",
+    "section_name": "1.6 Colligative Properties and Determination of Molar Mass"
   },
   {
     "question_text": "Which of the following statements correctly describes an ideal solution?",
@@ -2089,7 +2189,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen070"
+    "question_id": "cbse_xii_lech1dd_c101_gen070",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Positive deviation from Raoult's law occurs when:",
@@ -2108,7 +2209,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen071"
+    "question_id": "cbse_xii_lech1dd_c101_gen071",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Which pair of substances is known to form a nearly ideal solution?",
@@ -2127,7 +2229,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen072"
+    "question_id": "cbse_xii_lech1dd_c101_gen072",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "In a non-ideal solution, a negative deviation from Raoult's law indicates that:",
@@ -2146,7 +2249,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen073"
+    "question_id": "cbse_xii_lech1dd_c101_gen073",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Azeotropes are characterized by which of the following properties?",
@@ -2165,7 +2269,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen074"
+    "question_id": "cbse_xii_lech1dd_c101_gen074",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Define an ideal solution and list the two conditions related to mixing that must be met for a solution to be considered ideal.",
@@ -2179,7 +2284,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen075"
+    "question_id": "cbse_xii_lech1dd_c101_gen075",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Explain positive deviation from Raoult's law with an example. Include the molecular basis for this behavior.",
@@ -2193,7 +2299,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen076"
+    "question_id": "cbse_xii_lech1dd_c101_gen076",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "What is the effect of the intermolecular A-B interactions on the vapour pressure of a solution?",
@@ -2207,7 +2314,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen077"
+    "question_id": "cbse_xii_lech1dd_c101_gen077",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Describe azeotropes and provide one example each of a minimum boiling azeotrope and a maximum boiling azeotrope.",
@@ -2221,7 +2329,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen078"
+    "question_id": "cbse_xii_lech1dd_c101_gen078",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Discuss the molecular basis for ideal and non-ideal solutions. Compare and contrast the intermolecular interactions present in pure liquids and their mixtures.",
@@ -2235,7 +2344,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen079"
+    "question_id": "cbse_xii_lech1dd_c101_gen079",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Analyze how deviations from Raoult's law influence separation techniques such as distillation. Include the concept of azeotropes in your answer.",
@@ -2249,7 +2359,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen080"
+    "question_id": "cbse_xii_lech1dd_c101_gen080",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Evaluate the thermodynamic implications of having zero enthalpy of mixing and zero volume of mixing in an ideal solution. How do these conditions support the use of Raoult's law in predicting vapour pressures?",
@@ -2263,7 +2374,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen081"
+    "question_id": "cbse_xii_lech1dd_c101_gen081",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "True or False: In an ideal solution, the volume of the solution decreases upon mixing.",
@@ -2277,7 +2389,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen082"
+    "question_id": "cbse_xii_lech1dd_c101_gen082",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "True or False: A positive deviation from Raoult's law is observed when the interactions between unlike molecules are weaker than those between like molecules.",
@@ -2291,7 +2404,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen083"
+    "question_id": "cbse_xii_lech1dd_c101_gen083",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "True or False: Azeotropes can be easily separated into their individual components by fractional distillation.",
@@ -2305,7 +2419,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen084"
+    "question_id": "cbse_xii_lech1dd_c101_gen084",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "The vapour pressures of pure liquids A and B are 450 mm Hg and 700 mm Hg, respectively, at 350 K. If the total vapour pressure of the ideal liquid mixture is 600 mm Hg, calculate the mole fractions of A and B in the liquid phase. Then, determine the composition of the vapour phase.",
@@ -2319,7 +2434,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen085"
+    "question_id": "cbse_xii_lech1dd_c101_gen085",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "A binary solution follows Raoult's law. If the mole fraction of the solvent is 0.8 and its vapour pressure in the pure state is 800 mm Hg, calculate its partial vapour pressure in the solution.",
@@ -2333,7 +2449,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen086"
+    "question_id": "cbse_xii_lech1dd_c101_gen086",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "In a non-ideal solution, the measured vapour pressure is 10% lower than that predicted by Raoult's law. If the predicted vapour pressure is 500 mm Hg, what is the measured vapour pressure?",
@@ -2347,7 +2464,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen087"
+    "question_id": "cbse_xii_lech1dd_c101_gen087",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Calculate the total vapour pressure of a binary ideal solution when the mole fractions of components A and B are 0.5 each, given that the pure vapour pressures of A and B are 600 mm Hg and 800 mm Hg, respectively.",
@@ -2361,7 +2479,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen088"
+    "question_id": "cbse_xii_lech1dd_c101_gen088",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "An azeotropic mixture exhibits a positive deviation from Raoult's law. If the azeotropic composition has a mole fraction of 0.3 for component A and 0.7 for component B, with the pure vapour pressures being 500 mm Hg for A and 750 mm Hg for B, and the total vapour pressure is 5% higher than predicted by Raoult's law, compute both the predicted vapour pressure and the actual vapour pressure.",
@@ -2375,7 +2494,8 @@
     "source": "generated",
     "chapter_id": "lech101",
     "section_id": "08_section_1_5",
-    "question_id": "cbse_xii_lech1dd_c101_gen089"
+    "question_id": "cbse_xii_lech1dd_c101_gen089",
+    "section_name": "1.5 Ideal and Non-Ideal Solutions"
   },
   {
     "question_text": "Vapour pressure of pure water at 298 K is 23.8 mm Hg. 50 g of urea (NH₂CONH₂) is dissolved in 850 g of water. Calculate the vapour pressure of water for this solution and its relative lowering.",

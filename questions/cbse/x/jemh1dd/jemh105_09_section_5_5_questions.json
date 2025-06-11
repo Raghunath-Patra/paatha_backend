@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen058"
+    "question_id": "cbse_x_jemh1dd_c105_gen058",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "In an arithmetic progression with the first term 5 and common difference 3, what is the sum of the first 10 terms?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen059"
+    "question_id": "cbse_x_jemh1dd_c105_gen059",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "Which of the following statements is always true for an arithmetic progression?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen060"
+    "question_id": "cbse_x_jemh1dd_c105_gen060",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "Define an arithmetic progression (AP).",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen061"
+    "question_id": "cbse_x_jemh1dd_c105_gen061",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "Explain how to determine whether a given sequence is an arithmetic progression.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen062"
+    "question_id": "cbse_x_jemh1dd_c105_gen062",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "What is the arithmetic mean of two numbers? Explain its relationship with an arithmetic progression.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen063"
+    "question_id": "cbse_x_jemh1dd_c105_gen063",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "Derive the formula for the nth term of an arithmetic progression.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen064"
+    "question_id": "cbse_x_jemh1dd_c105_gen064",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "Prove that if three numbers a, b, and c are in arithmetic progression, then b is the arithmetic mean of a and c.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen065"
+    "question_id": "cbse_x_jemh1dd_c105_gen065",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "Find the 15th term and the sum of the first 15 terms of an arithmetic progression where the first term a = 7 and the common difference d = 4.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen066"
+    "question_id": "cbse_x_jemh1dd_c105_gen066",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "An arithmetic progression starts with 12 and ends with 72, and has 13 terms. Find the common difference and the sum of the series.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen067"
+    "question_id": "cbse_x_jemh1dd_c105_gen067",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "In an arithmetic progression with the first term a = 2, the sum of the first 20 terms is 400. Find the common difference d.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen068"
+    "question_id": "cbse_x_jemh1dd_c105_gen068",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "Find the number of terms in an arithmetic progression if the first term is 5, the common difference is 3, and the sum of the series is 220.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen069"
+    "question_id": "cbse_x_jemh1dd_c105_gen069",
+    "section_name": "5.5 Summary"
   },
   {
     "question_text": "An arithmetic progression has a common difference of 2, and the sum of its first n terms is 153. If the general formula for the sum is S = n (a + (n − 1)), find n and the first term a.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "09_section_5_5",
-    "question_id": "cbse_x_jemh1dd_c105_gen070"
+    "question_id": "cbse_x_jemh1dd_c105_gen070",
+    "section_name": "5.5 Summary"
   }
 ]

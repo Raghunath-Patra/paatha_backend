@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen016"
+    "question_id": "cbse_ix_iemh1dd_c102_gen016",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "What is the coefficient of x in the polynomial x² - x + 7?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen017"
+    "question_id": "cbse_ix_iemh1dd_c102_gen017",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Which of the following correctly describes a linear polynomial in one variable x?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen018"
+    "question_id": "cbse_ix_iemh1dd_c102_gen018",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Which one of the following is a trinomial?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen019"
+    "question_id": "cbse_ix_iemh1dd_c102_gen019",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Define a polynomial in one variable. Include in your answer the general form and the role of the coefficients and exponents.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen020"
+    "question_id": "cbse_ix_iemh1dd_c102_gen020",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "What is a binomial? Provide an example of a binomial polynomial.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen021"
+    "question_id": "cbse_ix_iemh1dd_c102_gen021",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Express the area of a square with side length x as a polynomial in x.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen022"
+    "question_id": "cbse_ix_iemh1dd_c102_gen022",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Explain the difference between a constant and a variable in the context of a polynomial expression.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen023"
+    "question_id": "cbse_ix_iemh1dd_c102_gen023",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Prove that the sum of two polynomials in one variable is also a polynomial in one variable. In your answer, discuss how the degrees of the resulting polynomial relate to the degrees of the original polynomials.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen024"
+    "question_id": "cbse_ix_iemh1dd_c102_gen024",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Write down the general form of a polynomial in one variable of degree n and explain why the coefficient of the highest degree term must be non-zero.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen025"
+    "question_id": "cbse_ix_iemh1dd_c102_gen025",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Find the degree of the polynomial: x⁵ - x⁴ + 3.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen026"
+    "question_id": "cbse_ix_iemh1dd_c102_gen026",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "A square has a side length given by x units. Write an expression for its perimeter, and then find the perimeter when x = 7.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen027"
+    "question_id": "cbse_ix_iemh1dd_c102_gen027",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Evaluate the polynomial p(x) = 3x⁷ - 4x⁶ + x + 9 for x = 2.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen028"
+    "question_id": "cbse_ix_iemh1dd_c102_gen028",
+    "section_name": "2.2 Polynomials in One Variable"
   },
   {
     "question_text": "Given a quadratic polynomial in the form p(x) = ax² + bx + c, if p(1) = 6, p(2) = 11, and p(3) = 18, find the values of a, b, and c.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_ix_iemh1dd_c102_gen029"
+    "question_id": "cbse_ix_iemh1dd_c102_gen029",
+    "section_name": "2.2 Polynomials in One Variable"
   }
 ]

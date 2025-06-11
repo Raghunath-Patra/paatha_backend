@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen002"
+    "question_id": "cbse_xii_lemh1dd_c103_gen002",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Identify the matrix which qualifies as a scalar matrix.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen003"
+    "question_id": "cbse_xii_lemh1dd_c103_gen003",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Matrix A is equal to matrix B if which conditions are satisfied?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen004"
+    "question_id": "cbse_xii_lemh1dd_c103_gen004",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "An identity matrix is also considered a scalar matrix when:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen005"
+    "question_id": "cbse_xii_lemh1dd_c103_gen005",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Define a row matrix and state its order condition.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen006"
+    "question_id": "cbse_xii_lemh1dd_c103_gen006",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "What is a diagonal matrix? Clearly state its defining property.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen007"
+    "question_id": "cbse_xii_lemh1dd_c103_gen007",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Explain the concept of equality of matrices.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen008"
+    "question_id": "cbse_xii_lemh1dd_c103_gen008",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Differentiate between a diagonal matrix and a scalar matrix.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen009"
+    "question_id": "cbse_xii_lemh1dd_c103_gen009",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Prove that an identity matrix is a scalar matrix. Provide a step-by-step explanation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen010"
+    "question_id": "cbse_xii_lemh1dd_c103_gen010",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Given the matrix equality \n\n[ [x + 1, 2y - 3],\n  [3, z - 1] ]  =  [ [4, 1],\n  [3, 5] ], \n\nfind the values of x, y, and z.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen011"
+    "question_id": "cbse_xii_lemh1dd_c103_gen011",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Determine the order of the following matrix and classify it as a column, row, or square matrix:\n\nB = [ 2, -√2, 0 ]ᵀ",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen012"
+    "question_id": "cbse_xii_lemh1dd_c103_gen012",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Consider the matrix A =\n\n[ [3, 0, 0],\n  [0, 3, 0],\n  [0, 0, 3] ].\n\nIs this matrix a scalar matrix or an identity matrix? Justify your answer.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen013"
+    "question_id": "cbse_xii_lemh1dd_c103_gen013",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "A square matrix C of order 3 has all its diagonal entries equal to 2 and all other elements zero. Write down the matrix and name its type.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen014"
+    "question_id": "cbse_xii_lemh1dd_c103_gen014",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Given the matrix equality\n\n[ [3a + 2b, a − b],\n  [4a, 2a + 3b] ]  =  [ [8, 1],\n  [8, 7] ],\n\nfind the values of a and b with step-by-step working.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen015"
+    "question_id": "cbse_xii_lemh1dd_c103_gen015",
+    "section_name": "3.3 Types of Matrices**"
   }
 ]

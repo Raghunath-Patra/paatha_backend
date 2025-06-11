@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen055"
+    "question_id": "cbse_xi_keph1dd_c103_gen055",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Which of the following obeys the triangle law of addition?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen056"
+    "question_id": "cbse_xi_keph1dd_c103_gen056",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "When writing by hand, how is a vector usually represented?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen057"
+    "question_id": "cbse_xi_keph1dd_c103_gen057",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Which statement is correct regarding the displacement vector of a moving object?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen058"
+    "question_id": "cbse_xi_keph1dd_c103_gen058",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Define a scalar quantity including its key characteristics and provide two examples from everyday physics.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen059"
+    "question_id": "cbse_xi_keph1dd_c103_gen059",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Explain the difference between displacement and distance, and how each is calculated.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen060"
+    "question_id": "cbse_xi_keph1dd_c103_gen060",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "What is a free vector? Explain with reference to its properties regarding location.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen061"
+    "question_id": "cbse_xi_keph1dd_c103_gen061",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Discuss in detail the significance of the displacement vector in studying the motion of an object, including how it differs from the actual path traveled.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen062"
+    "question_id": "cbse_xi_keph1dd_c103_gen062",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Evaluate how the equality of vectors is determined and illustrate with an example where two vectors have the same magnitude but different directions.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen063"
+    "question_id": "cbse_xi_keph1dd_c103_gen063",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "True or False: The displacement vector always equals the actual path length traveled by an object.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen064"
+    "question_id": "cbse_xi_keph1dd_c103_gen064",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "True or False: Displacing a free vector parallel to itself does not change its magnitude or direction.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen065"
+    "question_id": "cbse_xi_keph1dd_c103_gen065",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "A rectangle has a length of 1.0 m and a breadth of 0.5 m. Calculate its perimeter.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen066"
+    "question_id": "cbse_xi_keph1dd_c103_gen066",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "On a particular day, the maximum temperature reached is 35.6 °C and the minimum is 24.2 °C. Determine the temperature variation for the day.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen067"
+    "question_id": "cbse_xi_keph1dd_c103_gen067",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "A uniform solid cube of aluminium has a side length of 10 cm and a mass of 2.7 kg. Calculate its volume in m³ and its density in kg/m³.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen068"
+    "question_id": "cbse_xi_keph1dd_c103_gen068",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "An object moves in a plane from point P(2, 3) to point Q(8, 11). Determine the displacement vector and its magnitude.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen069"
+    "question_id": "cbse_xi_keph1dd_c103_gen069",
+    "section_name": "3.2 SCALARS AND VECTORS"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen339"
+    "question_id": "cbse_xi_keph1dd_c106_gen339",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In rotational kinematics, which variable is analogous to the linear displacement (x) in translational motion?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen340"
+    "question_id": "cbse_xi_keph1dd_c106_gen340",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Why can angular velocity be treated as a scalar quantity rather than a full vector in the case of rotation about a fixed axis?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen341"
+    "question_id": "cbse_xi_keph1dd_c106_gen341",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which equation of rotational motion corresponds to the translational equation v^2 = v0^2 + 2a(x - x0)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen342"
+    "question_id": "cbse_xi_keph1dd_c106_gen342",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "When integrating the constant angular acceleration equation to obtain omega = omega0 + alpha t, what is the integration constant?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen343"
+    "question_id": "cbse_xi_keph1dd_c106_gen343",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Define angular acceleration and explain its significance in rotational motion.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen344"
+    "question_id": "cbse_xi_keph1dd_c106_gen344",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Briefly describe how the equation for angular displacement (theta = theta0 + omega0 t + (1/2)alpha t^2) is derived from the definition of angular velocity.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen345"
+    "question_id": "cbse_xi_keph1dd_c106_gen345",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Convert an angular speed of 1200 rpm to radians per second.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen346"
+    "question_id": "cbse_xi_keph1dd_c106_gen346",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "State the analogy between the kinematic quantities in linear motion and those in rotational motion.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen347"
+    "question_id": "cbse_xi_keph1dd_c106_gen347",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Derive the equation omega = omega0 + alpha t (Equation 6.36) from first principles for a rotating body with constant angular acceleration.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen348"
+    "question_id": "cbse_xi_keph1dd_c106_gen348",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Explain how the kinematical equations for rotational motion are analogous to those for translational motion and discuss any underlying assumptions that allow this analogy.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen349"
+    "question_id": "cbse_xi_keph1dd_c106_gen349",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A rigid body rotates with a uniform angular acceleration. Given that its initial angular displacement is theta0 and its initial angular velocity is omega0, derive an expression for the time required to complete 5 full revolutions.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen350"
+    "question_id": "cbse_xi_keph1dd_c106_gen350",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: For rotation about a fixed axis, angular velocity is treated as a vector quantity.",
@@ -209,7 +221,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen351"
+    "question_id": "cbse_xi_keph1dd_c106_gen351",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: The equation theta = theta0 + omega0 t + (1/2)alpha t^2 incorporates the initial angular displacement theta0.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen352"
+    "question_id": "cbse_xi_keph1dd_c106_gen352",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A motor wheel's angular speed increases from 1200 rpm to 3120 rpm in 16 seconds. Using the equation omega = omega0 + alpha t, determine (i) the angular acceleration in rad/s² and (ii) the total number of revolutions made during this time. Show all work.",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen353"
+    "question_id": "cbse_xi_keph1dd_c106_gen353",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A wheel starts from rest and rotates with a constant angular acceleration of 2 rad/s². Calculate (i) the angular displacement after 10 seconds, and (ii) the total number of revolutions completed. Provide all necessary calculations.",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen354"
+    "question_id": "cbse_xi_keph1dd_c106_gen354",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A flywheel initially rotates at 20 rad/s and decelerates uniformly with an angular acceleration of –0.5 rad/s² until it comes to a stop. Calculate the total angular displacement in radians and convert it to degrees. Show all steps.",
@@ -270,7 +286,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen355"
+    "question_id": "cbse_xi_keph1dd_c106_gen355",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "During a 20-second interval, a rotating object experiences an average angular acceleration of 3 rad/s², with an initial angular velocity of 10 rad/s. Estimate the approximate angular displacement assuming constant acceleration. Also, determine the number of revolutions made. Include full calculations.",
@@ -284,6 +301,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen356"
+    "question_id": "cbse_xi_keph1dd_c106_gen356",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   }
 ]

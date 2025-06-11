@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen127"
+    "question_id": "cbse_xii_leph1dd_c102_gen127",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "An electron with charge 1.6 x 10^-19 C is accelerated through a potential difference of 1 V. What is the energy it gains?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen128"
+    "question_id": "cbse_xii_leph1dd_c102_gen128",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "By definition, what is the reference point for zero potential in the context of electrostatics as discussed in the section?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen129"
+    "question_id": "cbse_xii_leph1dd_c102_gen129",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "When a charge is placed in an external electric field, why is its effect on the external sources typically ignored?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen130"
+    "question_id": "cbse_xii_leph1dd_c102_gen130",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Define electrostatic potential energy for a dipole placed in a uniform external electric field.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen131"
+    "question_id": "cbse_xii_leph1dd_c102_gen131",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Explain the meaning of the term qV in the context of bringing a charge from infinity to point P.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen132"
+    "question_id": "cbse_xii_leph1dd_c102_gen132",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Why can the constant term in the potential energy expression for a dipole be dropped without affecting the physics of the system?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen133"
+    "question_id": "cbse_xii_leph1dd_c102_gen133",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Describe the process for calculating the total potential energy of a system consisting of two charges in an external field.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen134"
+    "question_id": "cbse_xii_leph1dd_c102_gen134",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Discuss how the work done by an external torque in rotating a dipole relates to its potential energy in an external field.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen135"
+    "question_id": "cbse_xii_leph1dd_c102_gen135",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Evaluate the importance of choosing a reference point when defining potential energy, particularly taking infinity as the reference in electrostatics.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen136"
+    "question_id": "cbse_xii_leph1dd_c102_gen136",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "True or False: In a uniform external electric field, a dipole experiences a net force that moves its center of mass.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen137"
+    "question_id": "cbse_xii_leph1dd_c102_gen137",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "True or False: The potential energy of a system of two charges in an external field includes contributions from both the external field and the mutual interaction between the charges.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen138"
+    "question_id": "cbse_xii_leph1dd_c102_gen138",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "True or False: The external field used in calculating the potential energy of a charge includes the contribution from the charge itself.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen139"
+    "question_id": "cbse_xii_leph1dd_c102_gen139",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: Calculate the energy acquired by an electron when it is accelerated by a potential difference of 1 V. Show all steps and express your answer in Joules.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen140"
+    "question_id": "cbse_xii_leph1dd_c102_gen140",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: Two charges, q1 = 7 x 10^-3 C and q2 = -2 x 10^-3 C, are placed 18 cm apart in the absence of an external electric field. Calculate the potential energy of the system. Provide your answer in Joules with appropriate units.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen141"
+    "question_id": "cbse_xii_leph1dd_c102_gen141",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: For the same system of charges in the previous problem, determine the work required to separate the two charges to an infinite distance. Explain your reasoning.",
@@ -241,7 +256,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen142"
+    "question_id": "cbse_xii_leph1dd_c102_gen142",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: A dipole with a dipole moment of 1.0 x 10^-29 C·m is placed in a uniform electric field of 5000 V/m. Calculate the potential energy of the dipole when it makes an angle of 30° with the field. Provide your answer in Joules.",
@@ -255,7 +271,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen143"
+    "question_id": "cbse_xii_leph1dd_c102_gen143",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: A mole of molecules, each having a permanent dipole moment of 1.0 x 10^-29 C·m, is 100% polarized in a strong electric field of 1.0 x 10^6 V/m. If the direction of the field is suddenly rotated by 60°, estimate the heat released by the substance. Use Avogadro's number = 6.0 x 10^23 molecules/mol.",
@@ -269,6 +286,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen144"
+    "question_id": "cbse_xii_leph1dd_c102_gen144",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   }
 ]

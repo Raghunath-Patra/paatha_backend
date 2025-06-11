@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen201"
+    "question_id": "cbse_xi_keph2dd_c201_gen201",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "To reduce the bending of a beam under load, which of the following modifications is most effective given the deflection dependence on dimensions?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen202"
+    "question_id": "cbse_xi_keph2dd_c201_gen202",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Why are I-beam cross-sections commonly used in the construction of bridges?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen203"
+    "question_id": "cbse_xi_keph2dd_c201_gen203",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Which of the following formulas correctly represents the deflection (δ) at the centre of a simply supported beam loaded at the centre?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen204"
+    "question_id": "cbse_xi_keph2dd_c201_gen204",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "According to the discussion on the maximum height of mountains, what is the approximate maximum permissible height of a mountain on Earth?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen205"
+    "question_id": "cbse_xi_keph2dd_c201_gen205",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Explain in a few sentences why steel ropes used in cranes are constructed by braiding many thin wires rather than using a single thick wire.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen206"
+    "question_id": "cbse_xi_keph2dd_c201_gen206",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Describe how increasing the depth (d) of a beam can lead to buckling if the load is not applied exactly at the centre.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen207"
+    "question_id": "cbse_xi_keph2dd_c201_gen207",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "What factors must be considered when designing beams and columns for bridges and buildings? Provide at least three factors.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen208"
+    "question_id": "cbse_xi_keph2dd_c201_gen208",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Derive the expression for the minimum cross-sectional area (A) of a steel rope required to lift a load of 10 tonnes, given the yield strength (σy) of mild steel is 300 x 10^6 N m^-2 and gravitational acceleration (g) is 9.8 m s^-2.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen209"
+    "question_id": "cbse_xi_keph2dd_c201_gen209",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Discuss the advantages and potential issues associated with using a deep rectangular beam in construction. How do engineers overcome the buckling problem?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen210"
+    "question_id": "cbse_xi_keph2dd_c201_gen210",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Explain how the design of a pillar with distributed ends is more favorable than one with rounded ends in terms of load bearing.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen211"
+    "question_id": "cbse_xi_keph2dd_c201_gen211",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "True or False: For a given material, increasing the depth of a beam reduces bending more effectively than increasing its breadth.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen212"
+    "question_id": "cbse_xi_keph2dd_c201_gen212",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "True or False: A deep beam will never experience buckling regardless of how the load is applied.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen213"
+    "question_id": "cbse_xi_keph2dd_c201_gen213",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "True or False: The maximum height of a mountain on Earth can be explained by the elastic limit of rock.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen214"
+    "question_id": "cbse_xi_keph2dd_c201_gen214",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "A crane is designed to lift a load of 10 tonnes. Using the yield strength of mild steel as 300 x 10^6 N m^-2 and gravitational acceleration of 9.8 m s^-2, calculate the minimum cross-sectional area of the metal rope required so that it does not exceed the elastic limit. Show your full working.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen215"
+    "question_id": "cbse_xi_keph2dd_c201_gen215",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Using the computed minimum cross-sectional area of 3.3 x 10^-4 m^2 for a circular rope, calculate the radius of the rope. (Hint: Use A = πr^2)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen216"
+    "question_id": "cbse_xi_keph2dd_c201_gen216",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "A beam of length 4 m, breadth 0.1 m, and depth 0.2 m is made of a material with a Young's modulus of 200 x 10^9 N/m^2. If a load of 1000 N is applied at the center, calculate the deflection (δ) at the center of the beam using the formula δ = (W l^3) / (4 b d^3 Y). Show all steps.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen217"
+    "question_id": "cbse_xi_keph2dd_c201_gen217",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Determine the maximum height of a mountain that can be supported if the critical shearing stress of rock is 30 x 10^7 N/m^2, the density of rock is 3 x 10^3 kg/m^3, and gravitational acceleration is 10 m/s^2. Show your calculation.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen218"
+    "question_id": "cbse_xi_keph2dd_c201_gen218",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   },
   {
     "question_text": "Considering a safety factor of 10, if the minimum calculated radius of a rope to lift a 10-tonne load is approximately 1 cm, what would be the recommended radius and why?",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "07_section_8_6",
-    "question_id": "cbse_xi_keph2dd_c201_gen219"
+    "question_id": "cbse_xi_keph2dd_c201_gen219",
+    "section_name": "8.6 APPLICATIONS OF ELASTIC BEHAVIOUR OF MATERIALS"
   }
 ]

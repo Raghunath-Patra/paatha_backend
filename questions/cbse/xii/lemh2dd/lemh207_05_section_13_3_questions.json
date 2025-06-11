@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen028"
+    "question_id": "cbse_xii_lemh2dd_c207_gen028",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "In an experiment of drawing two cards consecutively without replacement from a deck, which of the following expressions correctly represents the probability of drawing a king followed by a queen?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen029"
+    "question_id": "cbse_xii_lemh2dd_c207_gen029",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Which scenario best justifies using the multiplication rule of probability?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen030"
+    "question_id": "cbse_xii_lemh2dd_c207_gen030",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Which statement best describes the use of conditional probability in the multiplication rule for two events?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen031"
+    "question_id": "cbse_xii_lemh2dd_c207_gen031",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Define the multiplication rule of probability for two events.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen032"
+    "question_id": "cbse_xii_lemh2dd_c207_gen032",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Explain how conditional probability is used in computing the probability of two events occurring sequentially.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen033"
+    "question_id": "cbse_xii_lemh2dd_c207_gen033",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Express the multiplication rule for three events and explain what conditions are necessary for its application.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen034"
+    "question_id": "cbse_xii_lemh2dd_c207_gen034",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Prove the multiplication rule of probability for two events using the definition of conditional probability.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen035"
+    "question_id": "cbse_xii_lemh2dd_c207_gen035",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Extend the multiplication rule for three events and justify each step in your derivation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen036"
+    "question_id": "cbse_xii_lemh2dd_c207_gen036",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "An urn contains 12 balls: 7 red and 5 blue. Two balls are drawn one after the other without replacement. What is the probability that both balls drawn are red?",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen037"
+    "question_id": "cbse_xii_lemh2dd_c207_gen037",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "In a standard deck of 52 cards, what is the probability that three cards drawn successively without replacement are all aces?",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen038"
+    "question_id": "cbse_xii_lemh2dd_c207_gen038",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "A bag contains 8 white, 7 black, and 5 red balls. Two balls are drawn without replacement. Calculate the probability that both drawn balls are black.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen039"
+    "question_id": "cbse_xii_lemh2dd_c207_gen039",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "In a lottery, 3 numbers are drawn one after the other without replacement from a pool of 50 numbers. What is the probability that the three numbers are drawn in increasing order?",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen040"
+    "question_id": "cbse_xii_lemh2dd_c207_gen040",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   }
 ]

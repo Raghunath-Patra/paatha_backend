@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen032"
+    "question_id": "cbse_xii_lech1dd_c102_gen032",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "What is the value of the gas constant R as given in this section?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen033"
+    "question_id": "cbse_xii_lech1dd_c102_gen033",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "In the Nernst equation for the half-cell Mⁿ⁺/M, why is the concentration of the solid M taken as unity?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen034"
+    "question_id": "cbse_xii_lech1dd_c102_gen034",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "Which of the following half-reactions from the provided table has the highest standard electrode potential?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen035"
+    "question_id": "cbse_xii_lech1dd_c102_gen035",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "Using the Nernst equation, the equilibrium constant for a reaction can be calculated by which of the following formulas?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen036"
+    "question_id": "cbse_xii_lech1dd_c102_gen036",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "State the general form of the Nernst equation for a redox reaction of the type a A + b B → c C + d D.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen037"
+    "question_id": "cbse_xii_lech1dd_c102_gen037",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "Explain why the cell potential in a Daniell cell decreases when the concentration of Cu²⁺ decreases and that of Zn²⁺ increases.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen038"
+    "question_id": "cbse_xii_lech1dd_c102_gen038",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "How is the standard electrode potential used to determine the standard Gibbs free energy change for an electrochemical reaction?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen039"
+    "question_id": "cbse_xii_lech1dd_c102_gen039",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "Explain how the Nernst equation can be used to determine the equilibrium constant for a redox reaction. Derive the relationship between E°cell and log K and discuss its significance.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen040"
+    "question_id": "cbse_xii_lech1dd_c102_gen040",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "Discuss how changes in ion concentrations affect the cell potential of a Daniell cell. Provide examples using the Nernst equation and explain how temperature variations might further influence the potential.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen041"
+    "question_id": "cbse_xii_lech1dd_c102_gen041",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "True or False: In the Nernst equation, the activity (or concentration) of a pure solid is always taken as unity.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen042"
+    "question_id": "cbse_xii_lech1dd_c102_gen042",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "True or False: A positive standard electrode potential indicates that the redox couple is a stronger reducing agent than the H⁺/H₂ couple.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen043"
+    "question_id": "cbse_xii_lech1dd_c102_gen043",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "Calculate the cell potential at 298 K for a Daniell cell when [Cu²⁺] = 0.010 M and [Zn²⁺] = 0.100 M. Given that E°cell = 1.1 V and n = 2.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen044"
+    "question_id": "cbse_xii_lech1dd_c102_gen044",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "For the redox reaction Cu(s) + 2Ag⁺(aq) → Cu²⁺(aq) + 2Ag(s) with E°cell = 0.46 V and n = 2, calculate the equilibrium constant K at 298 K.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen045"
+    "question_id": "cbse_xii_lech1dd_c102_gen045",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "A galvanic cell is constructed using the half-reactions Ni(s) | Ni²⁺(aq) and Ag⁺(aq) | Ag. Given that the standard potentials are -0.25 V for Ni²⁺/Ni and 0.80 V for Ag⁺/Ag, calculate the cell potential at 298 K when [Ni²⁺] = 0.050 M and [Ag⁺] = 0.0050 M. Assume n = 2.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen046"
+    "question_id": "cbse_xii_lech1dd_c102_gen046",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "Determine the standard Gibbs free energy change for the reaction Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), given that E°cell = 1.1 V, n = 2 and F = 96487 C mol⁻¹.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen047"
+    "question_id": "cbse_xii_lech1dd_c102_gen047",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   },
   {
     "question_text": "A galvanic cell based on the reaction Mg(s) + 2Ag⁺(aq) → Mg²⁺(aq) + 2Ag(s) has [Mg²⁺] = 0.130 M and [Ag⁺] = 0.0001 M, with a standard cell potential E°cell = 3.17 V. Calculate the actual cell potential at 298 K using the Nernst equation.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lech1dd_c102_gen048"
+    "question_id": "cbse_xii_lech1dd_c102_gen048",
+    "section_name": "2.3 Nernst Equation EquationEquation"
   }
 ]

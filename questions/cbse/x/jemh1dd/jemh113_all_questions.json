@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen027"
+    "question_id": "cbse_x_jemh1dd_c113_gen027",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "In a grouped frequency distribution, the class interval with the highest frequency is called the _____.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen028"
+    "question_id": "cbse_x_jemh1dd_c113_gen028",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "What is the formula for finding the mode of grouped data?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen029"
+    "question_id": "cbse_x_jemh1dd_c113_gen029",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "If in a given statistical data set, the mode is less than the mean, then one can infer that the distribution is _____.",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen030"
+    "question_id": "cbse_x_jemh1dd_c113_gen030",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Define the term 'modal class' in the context of grouped data.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen031"
+    "question_id": "cbse_x_jemh1dd_c113_gen031",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "State the formula used to estimate the mode for grouped data, and define each term in the formula.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen032"
+    "question_id": "cbse_x_jemh1dd_c113_gen032",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Explain the significance of comparing the mode with the mean in a data set. Under what scenario might one be more useful than the other?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen033"
+    "question_id": "cbse_x_jemh1dd_c113_gen033",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Derive the formula for estimating the mode for grouped data using the concept of interpolation within the modal class.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen034"
+    "question_id": "cbse_x_jemh1dd_c113_gen034",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Critically analyze a scenario where the mode of a data set is significantly lower than the mean. Use an example frequency distribution and explain the implications of this difference for data interpretation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen035"
+    "question_id": "cbse_x_jemh1dd_c113_gen035",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "A frequency distribution is given as follows:\n\nClass Interval: 10–20, 20–30, 30–40, 40–50\nFrequencies: 5, 12, 9, 4\n\nCalculate the mode using the formula for grouped data.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen036"
+    "question_id": "cbse_x_jemh1dd_c113_gen036",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "In a survey of households, the number of individuals per household is grouped as follows:\n\nFamily Size: 3–5, 5–7, 7–9, 9–11\nFrequencies: 8, 15, 10, 7\n\nFind the mode of the data.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen037"
+    "question_id": "cbse_x_jemh1dd_c113_gen037",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Consider the following frequency distribution of marks obtained by students in an exam:\n\nMarks Interval: 30–40, 40–50, 50–60, 60–70, 70–80\nFrequencies: 4, 7, 9, 5, 3\n\nDetermine the mode of the marks.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen038"
+    "question_id": "cbse_x_jemh1dd_c113_gen038",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Given the following grouped data:\n\nInterval: 2–5, 5–8, 8–11\nFrequencies: 10, 15, 12\n\nCalculate the mode of the data and briefly discuss how changing the class size (h) might affect the computed mode.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen039"
+    "question_id": "cbse_x_jemh1dd_c113_gen039",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "Explain what is meant by multimodal data and why the discussion in this section is restricted to data sets with a single mode.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "04_section_13_3",
-    "question_id": "cbse_x_jemh1dd_c113_gen040"
+    "question_id": "cbse_x_jemh1dd_c113_gen040",
+    "section_name": "13.3 Mode of Grouped Data"
   },
   {
     "question_text": "The following frequency distribution gives the monthly consumption of electricity of 68 consumers of a locality. Find the median, mean and mode of the data and compare them.\n\nMonthly consumption (in units) and Number of consumers:\n65 - 85: 4\n85 - 105: 5\n105 - 125: 13\n125 - 145: 20\n145 - 165: 14\n165 - 185: 8\n185 - 205: 4",
@@ -401,7 +415,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen015"
+    "question_id": "cbse_x_jemh1dd_c113_gen015",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "In the assumed mean method, if 'a' is the assumed mean and dᵢ = xᵢ - a, which of the following equations correctly gives the mean (x̄) of the data?",
@@ -420,7 +435,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen016"
+    "question_id": "cbse_x_jemh1dd_c113_gen016",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "In the step-deviation method, given uᵢ = (xᵢ - a)/h, which of the following correctly expresses the relationship between the mean ū and the actual mean x̄?",
@@ -439,7 +455,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen017"
+    "question_id": "cbse_x_jemh1dd_c113_gen017",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "When converting ungrouped data into grouped data using class intervals and class marks, the mean calculated may differ slightly from the exact mean. Which of the following is the main reason for this difference?",
@@ -458,7 +475,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen018"
+    "question_id": "cbse_x_jemh1dd_c113_gen018",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Define the term 'class mark' in the context of grouped data and provide its formula.",
@@ -472,7 +490,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen019"
+    "question_id": "cbse_x_jemh1dd_c113_gen019",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Briefly explain the purpose of converting ungrouped data into grouped data.",
@@ -486,7 +505,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen020"
+    "question_id": "cbse_x_jemh1dd_c113_gen020",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Explain why the mean obtained from the direct method using raw data is more accurate than the mean obtained from grouped data using the midpoint assumption.",
@@ -500,7 +520,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen021"
+    "question_id": "cbse_x_jemh1dd_c113_gen021",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Derive the relation between the mean of the deviations (d̄) and the actual mean (x̄) in the assumed mean method.",
@@ -514,7 +535,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen022"
+    "question_id": "cbse_x_jemh1dd_c113_gen022",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Discuss the advantages of using the assumed mean method or step-deviation method over the direct method for computing the mean when dealing with large numbers.",
@@ -528,7 +550,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen023"
+    "question_id": "cbse_x_jemh1dd_c113_gen023",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "The following grouped frequency table shows the marks obtained by 40 students in an exam:\n\nClass Interval: 30–40, 40–50, 50–60, 60–70\nFrequency (fᵢ): 5, 12, 15, 8\n\nUsing the direct method, calculate the mean mark. (Find the class mark for each interval before computing.)",
@@ -542,7 +565,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen024"
+    "question_id": "cbse_x_jemh1dd_c113_gen024",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Given the following grouped frequency table of daily temperatures (in °C) over a 30-day period:\n\nClass Interval (°C): 20–25, 25–30, 30–35, 35–40\nFrequency (fᵢ): 4, 10, 12, 4\n\nUsing the step-deviation method with an assumed mean a = 32.5 and class size h = 5, compute the mean temperature.",
@@ -556,7 +580,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen025"
+    "question_id": "cbse_x_jemh1dd_c113_gen025",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "A cricket analyst recorded the number of wickets taken by bowlers in different ranges, summarized as follows:\n\nNumber of Wickets (Class Interval): 50–100, 100–150, 150–200, 200–250\nNumber of Bowlers (fᵢ): 8, 15, 10, 7\n\nUsing the assumed mean method with an assumed mean a = 125, compute the mean number of wickets.",
@@ -570,7 +595,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen026"
+    "question_id": "cbse_x_jemh1dd_c113_gen026",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "A survey was conducted by a group of students as a part of their environment awareness programme, wherein they collected data regarding the number of plants in 20 houses in a locality. The data is as follows:\n\nNumber of plants: 0-2, 2-4, 4-6, 6-8, 8-10, 10-12, 12-14\nNumber of houses: 1, 2, 1, 5, 6, 2, 3\n\nFind the mean number of plants per house. Which method did you use for finding the mean, and why?",
@@ -706,7 +732,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen054"
+    "question_id": "cbse_x_jemh1dd_c113_gen054",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "What is the formula for computing the mode for grouped data?",
@@ -725,7 +752,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen055"
+    "question_id": "cbse_x_jemh1dd_c113_gen055",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "Which statement best defines 'cumulative frequency' for grouped data?",
@@ -744,7 +772,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen056"
+    "question_id": "cbse_x_jemh1dd_c113_gen056",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "Define the term 'class mark' as used in the calculation of the mean for grouped data.",
@@ -758,7 +787,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen057"
+    "question_id": "cbse_x_jemh1dd_c113_gen057",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "Explain the difference between the direct method and the assumed mean method for calculating the mean for grouped data.",
@@ -772,7 +802,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen058"
+    "question_id": "cbse_x_jemh1dd_c113_gen058",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "What is an ogive, and what condition must be met regarding class intervals when constructing it from grouped data?",
@@ -786,7 +817,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen059"
+    "question_id": "cbse_x_jemh1dd_c113_gen059",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "Derive the formula for the mean using the step deviation method from the expression x̄ = a + h (Σfᵢuᵢ / Σfᵢ). In your answer, define the roles of a, h, fᵢ, and uᵢ.",
@@ -800,7 +832,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen060"
+    "question_id": "cbse_x_jemh1dd_c113_gen060",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "Provide a detailed derivation of the mode formula for grouped data: Mode = l + [(f₁ – f₀)/(2f₁ – f₀ – f₂)] × h, explaining each step and the significance of the variables.",
@@ -814,7 +847,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen061"
+    "question_id": "cbse_x_jemh1dd_c113_gen061",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "A dataset is summarized in the table below. Calculate the mean for grouped data using the direct method. \n\nClass Interval: 10-20, 20-30, 30-40, 40-50 \nFrequency: 5, 8, 12, 5 \nNote: Use the class mid-point as the representative value for each class.",
@@ -828,7 +862,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen062"
+    "question_id": "cbse_x_jemh1dd_c113_gen062",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "For a grouped frequency distribution, use the median formula to determine the median. The classes are: \n\nClass Intervals: 0-10, 10-20, 20-30, 30-40 \nFrequencies: 3, 7, 10, 5 \nCalculate the median. (Hint: First, find the cumulative frequency and identify the median class.)",
@@ -842,7 +877,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen063"
+    "question_id": "cbse_x_jemh1dd_c113_gen063",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "Using the table below, calculate the mode for grouped data using the formula provided. \n\nClass Intervals: 50-60, 60-70, 70-80, 80-90 \nFrequencies: 4, 9, 15, 8 \nDetermine the modal class and then compute the mode.",
@@ -856,7 +892,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen064"
+    "question_id": "cbse_x_jemh1dd_c113_gen064",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "A frequency distribution for a set of exam scores is provided as follows: \n\nClass Intervals: 40-50, 50-60, 60-70, 70-80, 80-90 \nFrequencies: 2, 5, 8, 10, 5 \nCalculate the mean using the step deviation method. Assume an assumed mean a = 65 and class width h = 10. (Find uᵢ for each class using mid-points)",
@@ -870,7 +907,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_x_jemh1dd_c113_gen065"
+    "question_id": "cbse_x_jemh1dd_c113_gen065",
+    "section_name": "13.5 Summary"
   },
   {
     "question_text": "Which of the following best defines the median of a grouped data distribution?",
@@ -889,7 +927,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen041"
+    "question_id": "cbse_x_jemh1dd_c113_gen041",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "In a cumulative frequency distribution of the ‘less than’ type, which numbers represent the class boundaries?",
@@ -908,7 +947,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen042"
+    "question_id": "cbse_x_jemh1dd_c113_gen042",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "Given a grouped frequency distribution, which class interval is identified as the median class?",
@@ -927,7 +967,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen043"
+    "question_id": "cbse_x_jemh1dd_c113_gen043",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "When calculating the median of grouped data using the formula Median = l + [((n/2) - cf)/f] × h, what does 'cf' represent?",
@@ -946,7 +987,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen044"
+    "question_id": "cbse_x_jemh1dd_c113_gen044",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "Define the term 'median' in the context of statistics and explain its importance when dealing with extreme values.",
@@ -960,7 +1002,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen045"
+    "question_id": "cbse_x_jemh1dd_c113_gen045",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "Explain the difference between the 'less than type' and 'more than or equal to' type cumulative frequency distributions with an example.",
@@ -974,7 +1017,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen046"
+    "question_id": "cbse_x_jemh1dd_c113_gen046",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "What are the advantages of using the median over the mean as a measure of central tendency in certain datasets?",
@@ -988,7 +1032,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen047"
+    "question_id": "cbse_x_jemh1dd_c113_gen047",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "Derive the formula for finding the median in a grouped frequency distribution and discuss each component of the formula.",
@@ -1002,7 +1047,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen048"
+    "question_id": "cbse_x_jemh1dd_c113_gen048",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "Discuss the scenarios in which the median is a more appropriate measure of central tendency than the mean. Provide real-life examples to support your answer.",
@@ -1016,7 +1062,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen049"
+    "question_id": "cbse_x_jemh1dd_c113_gen049",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "A dataset shows the marks obtained out of 50 by 100 students as follows: Marks: 20, 25, 28, 29, 33, 38, 42, 43 with corresponding frequencies: 6, 20, 24, 28, 15, 4, 2, 1. Calculate the median mark of the dataset using the cumulative frequency method.",
@@ -1030,7 +1077,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen050"
+    "question_id": "cbse_x_jemh1dd_c113_gen050",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "Using the grouped frequency distribution below, calculate the median marks. \nClass Intervals: 0–10, 10–20, 20–30, 30–40, 40–50, 50–60, 60–70, 70–80, 80–90, 90–100 \nFrequencies: 5, 3, 4, 3, 3, 4, 7, 9, 7, 8",
@@ -1044,7 +1092,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen051"
+    "question_id": "cbse_x_jemh1dd_c113_gen051",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "The following frequency distribution has two missing values x and y. The median of the data is 525 and the total frequency is 100. \nClass Intervals: 0–100 (2), 100–200 (5), 200–300 (x), 300–400 (12), 400–500 (17), 500–600 (20), 600–700 (y), 700–800 (9), 800–900 (7), 900–1000 (4). \nFind the values of x and y.",
@@ -1058,7 +1107,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen052"
+    "question_id": "cbse_x_jemh1dd_c113_gen052",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "A survey collected the heights of 51 girls with the following 'less than' cumulative frequencies: Less than 140 cm (4), Less than 145 cm (11), Less than 150 cm (29), Less than 155 cm (40), Less than 160 cm (46), Less than 165 cm (51). Calculate the median height.",
@@ -1072,7 +1122,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_x_jemh1dd_c113_gen053"
+    "question_id": "cbse_x_jemh1dd_c113_gen053",
+    "section_name": "13.4 Median of Grouped Data"
   },
   {
     "question_text": "Which of the following graphs is specifically used to depict cumulative frequency distributions?",
@@ -1091,7 +1142,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen001"
+    "question_id": "cbse_x_jemh1dd_c113_gen001",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which formula is used to calculate the mean for grouped data?",
@@ -1110,7 +1162,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen002"
+    "question_id": "cbse_x_jemh1dd_c113_gen002",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which measure of central tendency might not be unique when representing a data distribution?",
@@ -1129,7 +1182,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen003"
+    "question_id": "cbse_x_jemh1dd_c113_gen003",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which of the following statements about cumulative frequency distributions is TRUE?",
@@ -1148,7 +1202,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen004"
+    "question_id": "cbse_x_jemh1dd_c113_gen004",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Define a grouped frequency distribution and explain how it differs from an ungrouped frequency distribution.",
@@ -1162,7 +1217,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen005"
+    "question_id": "cbse_x_jemh1dd_c113_gen005",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "What is an ogive and what advantages does it offer when analyzing data?",
@@ -1176,7 +1232,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen006"
+    "question_id": "cbse_x_jemh1dd_c113_gen006",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Explain the difference between a histogram with equal interval widths and one with varying interval widths. How does this impact the interpretation of the data?",
@@ -1190,7 +1247,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen007"
+    "question_id": "cbse_x_jemh1dd_c113_gen007",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Derive the formula for calculating the mean for grouped data and discuss one potential limitation of using this method for summarizing data.",
@@ -1204,7 +1262,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen008"
+    "question_id": "cbse_x_jemh1dd_c113_gen008",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Discuss the advantages and disadvantages of using the median over the mean in a grouped frequency distribution. Provide examples to support your argument.",
@@ -1218,7 +1277,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen009"
+    "question_id": "cbse_x_jemh1dd_c113_gen009",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Given the following grouped data, calculate the mean:\n\nClass Interval (x): 0–10, 10–20, 20–30\nFrequency (f): 5, 15, 20",
@@ -1232,7 +1292,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen010"
+    "question_id": "cbse_x_jemh1dd_c113_gen010",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "For the following grouped data, estimate the median:\n\nClass Interval: 10–20, 20–30, 30–40, 40–50\nFrequency: 8, 12, 20, 10",
@@ -1246,7 +1307,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen011"
+    "question_id": "cbse_x_jemh1dd_c113_gen011",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "A grouped data set provides the following frequency distribution for an exam score (in %):\n\nClass Interval: 40–50, 50–60, 60–70, 70–80, 80–90\nFrequency: 3, 7, 10, 15, 5\n\n(a) Construct a cumulative frequency table.\n(b) Estimate the 60th percentile using the cumulative frequency approach.",
@@ -1260,7 +1322,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen012"
+    "question_id": "cbse_x_jemh1dd_c113_gen012",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "A factory recorded the number of defects in its products, grouped as follows:\n\nNumber of Defects (x): 0–2, 2–4, 4–6, 6–8\nFrequency (f): 12, 18, 10, 5\n\nCalculate the mode of the defects in the production batch for the factory.",
@@ -1274,7 +1337,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen013"
+    "question_id": "cbse_x_jemh1dd_c113_gen013",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "The following table represents the distribution of the time (in minutes) taken by a group of people to commute to work:\n\nTime Interval: 10–20, 20–30, 30–40, 40–50\nFrequency: 4, 9, 14, 7\n\nCalculate the mean and median commuting time. Provide your answer with step-by-step explanations.",
@@ -1288,6 +1352,7 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen014"
+    "question_id": "cbse_x_jemh1dd_c113_gen014",
+    "section_name": "13.1 Introduction"
   }
 ]

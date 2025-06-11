@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen199"
+    "question_id": "cbse_xi_keph1dd_c105_gen199",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "What is the expression for instantaneous power derived from the work-energy approach?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen200"
+    "question_id": "cbse_xi_keph1dd_c105_gen200",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Which limitation is associated with the work-energy theorem compared to Newton's second law?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen201"
+    "question_id": "cbse_xi_keph1dd_c105_gen201",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "In deriving the work-energy theorem from dK/dt = F · v, what mathematical step is performed next?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen202"
+    "question_id": "cbse_xi_keph1dd_c105_gen202",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "For a variable force described by F(x) = -k/x, what is the correct expression for the work done by this force from position x = a to x = b?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen203"
+    "question_id": "cbse_xi_keph1dd_c105_gen203",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Differentiate the kinetic energy K = (1/2) m · v² with respect to time. Provide the intermediate steps.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen204"
+    "question_id": "cbse_xi_keph1dd_c105_gen204",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Explain why the work-energy theorem does not provide complete temporal information compared to Newton's second law.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen205"
+    "question_id": "cbse_xi_keph1dd_c105_gen205",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "What does the equation Kf - Ki = ∫ from xi to xf F dx imply about the relationship between work and kinetic energy?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen206"
+    "question_id": "cbse_xi_keph1dd_c105_gen206",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Why is the work-energy theorem typically presented in a scalar form rather than a vector form?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen207"
+    "question_id": "cbse_xi_keph1dd_c105_gen207",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Derive the work-energy theorem starting from K = (1/2) m · v² for a variable force acting in one dimension. Include the steps involving differentiation and integration.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen208"
+    "question_id": "cbse_xi_keph1dd_c105_gen208",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Discuss the advantages and limitations of using the work-energy theorem versus Newton's second law in analyzing systems with variable forces.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen209"
+    "question_id": "cbse_xi_keph1dd_c105_gen209",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Analyze the effect of a retarding force given by Fr = -k/x on a moving block. Derive an expression for the final speed v_f in terms of the initial kinetic energy and the work done by the force.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen210"
+    "question_id": "cbse_xi_keph1dd_c105_gen210",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work-energy theorem for a variable force involves integrating the force over time.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen211"
+    "question_id": "cbse_xi_keph1dd_c105_gen211",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work done by a variable force can be determined by calculating the definite integral of F(x) dx over the displacement interval.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen212"
+    "question_id": "cbse_xi_keph1dd_c105_gen212",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work-energy theorem inherently accounts for the direction of forces acting on a particle.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen213"
+    "question_id": "cbse_xi_keph1dd_c105_gen213",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 2 kg block moving at 3 m/s experiences a constant force of 4 N applied along its direction of motion for a displacement of 5 m. Determine the final kinetic energy and final speed of the block.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen214"
+    "question_id": "cbse_xi_keph1dd_c105_gen214",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 1 kg block moving at 4 m/s enters a region where it is subjected to a variable retarding force described by F(x) = -0.3/x, for x between 0.5 m and 3 m. Calculate the final kinetic energy and final speed of the block.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen215"
+    "question_id": "cbse_xi_keph1dd_c105_gen215",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A block of mass 1 kg moves on a horizontal surface with an initial speed of 2 m/s. It enters a region where a variable force F(x) = -0.5/x acts between x = 0.1 m and x = 2.01 m. Determine the final kinetic energy and speed of the block as it exits this region.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen216"
+    "question_id": "cbse_xi_keph1dd_c105_gen216",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 5 kg block moving at 10 m/s encounters a variable resisting force given by F(x) = -2/(x + 1), acting from x = 0 m to x = 9 m. Compute the loss in kinetic energy and the final speed of the block.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen217"
+    "question_id": "cbse_xi_keph1dd_c105_gen217",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 3 kg block with an initial speed of 6 m/s enters a region where a variable force F(x) = -1.2/(x + 0.2) acts from x = 0 m to x = 4 m. Calculate the final kinetic energy and final speed of the block.",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen218"
+    "question_id": "cbse_xi_keph1dd_c105_gen218",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 0.5 kg block moving at 8 m/s is subjected to a variable force F(x) = -0.6/(x + 0.5) for x between 0 m and 2 m. Determine the work done by the force and the final speed of the block.",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen219"
+    "question_id": "cbse_xi_keph1dd_c105_gen219",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   }
 ]

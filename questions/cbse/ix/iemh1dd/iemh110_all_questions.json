@@ -94,7 +94,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen001"
+    "question_id": "cbse_ix_iemh1dd_c110_gen001",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "A triangle has side lengths 7, 8, and 9 units. Compute the product s(s – a)(s – b)(s – c) under the square root in Heron’s formula.",
@@ -113,7 +114,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen002"
+    "question_id": "cbse_ix_iemh1dd_c110_gen002",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "In a triangle with two equal sides of length 10 cm and a base of 12 cm, what is the semiperimeter?",
@@ -132,7 +134,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen003"
+    "question_id": "cbse_ix_iemh1dd_c110_gen003",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "If the area of a triangle computed using Heron’s formula is zero, what does it imply about the triangle?",
@@ -151,7 +154,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen004"
+    "question_id": "cbse_ix_iemh1dd_c110_gen004",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Define the semiperimeter of a triangle and demonstrate how to compute it for a triangle with side lengths a, b, and c.",
@@ -165,7 +169,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen005"
+    "question_id": "cbse_ix_iemh1dd_c110_gen005",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Explain why Heron’s formula is particularly useful in finding the area of a triangle when the height is not known.",
@@ -179,7 +184,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen006"
+    "question_id": "cbse_ix_iemh1dd_c110_gen006",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Discuss the historical importance of Heron and his contributions to geometry and mensuration in mathematics.",
@@ -193,7 +199,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen007"
+    "question_id": "cbse_ix_iemh1dd_c110_gen007",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Compare the two methods of finding the area of a triangle: using ½ × base × height and using Heron’s formula. What are the advantages and limitations of each method?",
@@ -207,7 +214,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen008"
+    "question_id": "cbse_ix_iemh1dd_c110_gen008",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Derive Heron’s formula for the area of a triangle starting from the basic formula ½ × base × height and the Law of Cosines.",
@@ -221,7 +229,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen009"
+    "question_id": "cbse_ix_iemh1dd_c110_gen009",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Prove that for a right triangle with legs a and b and hypotenuse c, Heron’s formula simplifies to the familiar area formula ½ × a × b.",
@@ -235,7 +244,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen010"
+    "question_id": "cbse_ix_iemh1dd_c110_gen010",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Using Heron’s formula, find the area of an equilateral triangle with side length 10 cm.",
@@ -249,7 +259,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen011"
+    "question_id": "cbse_ix_iemh1dd_c110_gen011",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Calculate the area of a triangle with sides measuring 13 cm, 14 cm, and 15 cm using Heron’s formula.",
@@ -263,7 +274,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen012"
+    "question_id": "cbse_ix_iemh1dd_c110_gen012",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "A triangle has sides in the ratio 3:5:7 and a perimeter of 300 m. Find its area using Heron’s formula.",
@@ -277,7 +289,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen013"
+    "question_id": "cbse_ix_iemh1dd_c110_gen013",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "A triangle has two sides of lengths 8 cm and 11 cm, and its perimeter is 32 cm. Use Heron’s formula to find its area.",
@@ -291,7 +304,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen014"
+    "question_id": "cbse_ix_iemh1dd_c110_gen014",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "A triangular park has sides of lengths 120 m, 80 m, and 50 m. A 3 m wide gate is left on one side for entry. Calculate (a) the area of the park using Heron’s formula, and (b) the cost of fencing the boundary at ₹20 per metre (excluding the gate).",
@@ -305,7 +319,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen015"
+    "question_id": "cbse_ix_iemh1dd_c110_gen015",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Which formula calculates the area of a triangle using its side lengths?",
@@ -324,7 +339,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen016"
+    "question_id": "cbse_ix_iemh1dd_c110_gen016",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "In Heron’s formula, what does 's' represent?",
@@ -343,7 +359,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen017"
+    "question_id": "cbse_ix_iemh1dd_c110_gen017",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Given a triangle with side lengths 8, 15, and 17, which of the following represents its area computed using Heron’s formula?",
@@ -362,7 +379,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen018"
+    "question_id": "cbse_ix_iemh1dd_c110_gen018",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Heron’s formula is applicable for all triangles provided the side lengths are known. Which of the following is a limitation of Heron’s formula?",
@@ -381,7 +399,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen019"
+    "question_id": "cbse_ix_iemh1dd_c110_gen019",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Define the semiperimeter 's' in the context of Heron’s formula.",
@@ -395,7 +414,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen020"
+    "question_id": "cbse_ix_iemh1dd_c110_gen020",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "State Heron’s formula for the area of a triangle and explain the role of each term in the formula.",
@@ -409,7 +429,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen021"
+    "question_id": "cbse_ix_iemh1dd_c110_gen021",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Explain why Heron’s formula works for any triangle regardless of its type.",
@@ -423,7 +444,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen022"
+    "question_id": "cbse_ix_iemh1dd_c110_gen022",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Discuss the advantages of using Heron’s formula over the traditional base-height approach for finding the area of a triangle.",
@@ -437,7 +459,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen023"
+    "question_id": "cbse_ix_iemh1dd_c110_gen023",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Derive Heron’s formula starting from the cosine rule and the standard formula for the area of a triangle.",
@@ -451,7 +474,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen024"
+    "question_id": "cbse_ix_iemh1dd_c110_gen024",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Prove that for a triangle with sides 13, 14, and 15, applying Heron’s formula leads to an integer area.",
@@ -465,7 +489,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen025"
+    "question_id": "cbse_ix_iemh1dd_c110_gen025",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Compute the area of a triangle with sides 5, 6, and 7 using Heron’s formula.",
@@ -479,7 +504,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen026"
+    "question_id": "cbse_ix_iemh1dd_c110_gen026",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Find the area of a triangle with sides 10, 10, and 12 using Heron’s formula and express your answer in simplest form.",
@@ -493,7 +519,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen027"
+    "question_id": "cbse_ix_iemh1dd_c110_gen027",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "A triangle has sides given by 2x, 3x, and 4x. Express its area in terms of x using Heron’s formula and simplify your answer.",
@@ -507,7 +534,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen028"
+    "question_id": "cbse_ix_iemh1dd_c110_gen028",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "Given a triangle with sides 9, 10, and 17, first verify whether these sides can form a triangle and then calculate its area using Heron’s formula.",
@@ -521,7 +549,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen029"
+    "question_id": "cbse_ix_iemh1dd_c110_gen029",
+    "section_name": "10.2 Summary"
   },
   {
     "question_text": "A triangle has sides with lengths 11, 13, and k, and its area is 24 (using Heron’s formula). Find the possible value(s) of k.",
@@ -535,6 +564,7 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "03_section_10_2",
-    "question_id": "cbse_ix_iemh1dd_c110_gen030"
+    "question_id": "cbse_ix_iemh1dd_c110_gen030",
+    "section_name": "10.2 Summary"
   }
 ]

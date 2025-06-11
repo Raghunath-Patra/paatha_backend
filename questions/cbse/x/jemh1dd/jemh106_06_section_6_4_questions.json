@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen044"
+    "question_id": "cbse_x_jemh1dd_c106_gen044",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "Which of the following statements is NOT sufficient by itself to prove that two triangles are similar?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen045"
+    "question_id": "cbse_x_jemh1dd_c106_gen045",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "In the SAS similarity criterion for triangles, what must be true about the two triangles for them to be similar?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen046"
+    "question_id": "cbse_x_jemh1dd_c106_gen046",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "Define similar triangles and state the AAA similarity criterion.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen047"
+    "question_id": "cbse_x_jemh1dd_c106_gen047",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "Explain why the order of vertices is important when expressing the similarity of two triangles, for example, why we write △ABC ~ △DEF instead of △ABC ~ △EDF.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen048"
+    "question_id": "cbse_x_jemh1dd_c106_gen048",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "State and explain why if two angles of one triangle are equal to two angles of another triangle, the triangles are similar.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen049"
+    "question_id": "cbse_x_jemh1dd_c106_gen049",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "Prove the AAA (or AA) similarity criterion using an auxiliary construction. In your proof, consider two triangles △ABC and △DEF with ∠A = ∠D, ∠B = ∠E, and ∠C = ∠F, and explain each step of your construction and reasoning.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen050"
+    "question_id": "cbse_x_jemh1dd_c106_gen050",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "Prove that if the corresponding sides of two triangles are in the same ratio, then their corresponding angles are equal, thus establishing the SSS similarity criterion.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen051"
+    "question_id": "cbse_x_jemh1dd_c106_gen051",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "A girl with a height of 90 cm is walking away from a lamp-post that is 3.6 m high at a speed of 1.2 m/s. Using similar triangles, determine the length of her shadow after 4 seconds.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen052"
+    "question_id": "cbse_x_jemh1dd_c106_gen052",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "In two triangles △ABC and △RQP, the sides are given as follows: AB = 3.8, BC = 6, CA = 3√3, and in the other triangle, PQ = 12, QR = 7.6, PR = 6√3. Show that the triangles are similar and use this fact to determine the measure of ∠P if ∠C in △ABC is 40°.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen053"
+    "question_id": "cbse_x_jemh1dd_c106_gen053",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "Triangle △ABC has sides of lengths 5 cm, 7 cm, and 8 cm. Triangle △DEF is similar to △ABC with a similarity ratio of 1.5. Determine the side lengths of △DEF and compute its perimeter.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen054"
+    "question_id": "cbse_x_jemh1dd_c106_gen054",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "Consider two triangles △ABC and △DEF such that AB = 2 cm, AC = 4 cm, and ∠A = 50° for △ABC; and DE = 3 cm, DF = 6 cm, and ∠D = 50° for △DEF. Verify using the SAS similarity criterion that these triangles are similar and determine the ratio of similarity.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen055"
+    "question_id": "cbse_x_jemh1dd_c106_gen055",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   },
   {
     "question_text": "Two similar triangles have a ratio of corresponding side lengths of 3:5. If the perimeter of the smaller triangle is 24 cm, find the perimeter of the larger triangle.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_x_jemh1dd_c106_gen056"
+    "question_id": "cbse_x_jemh1dd_c106_gen056",
+    "section_name": "6.4 Criteria for Similarity of Triangles"
   }
 ]

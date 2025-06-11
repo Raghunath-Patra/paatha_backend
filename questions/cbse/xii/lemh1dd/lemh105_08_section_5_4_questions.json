@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen045"
+    "question_id": "cbse_xii_lemh1dd_c105_gen045",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Identify the correct change of base formula for logarithms.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen046"
+    "question_id": "cbse_xii_lemh1dd_c105_gen046",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "For very large values of x, which function grows faster, a polynomial function xⁿ or the exponential function 10ˣ?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen047"
+    "question_id": "cbse_xii_lemh1dd_c105_gen047",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Define the natural exponential function and the natural logarithm.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen048"
+    "question_id": "cbse_xii_lemh1dd_c105_gen048",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Explain why the graphs of y = eˣ and y = ln x are mirror images of each other about the line y = x.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen049"
+    "question_id": "cbse_xii_lemh1dd_c105_gen049",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "State and explain the product property of logarithms.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen050"
+    "question_id": "cbse_xii_lemh1dd_c105_gen050",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "What is the significance of the points (0, 1) on the graph of an exponential function and (1, 0) on the graph of a logarithmic function?",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen051"
+    "question_id": "cbse_xii_lemh1dd_c105_gen051",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Prove that log_b(pq) = log_b p + log_b q using the definition of logarithms and properties of exponents.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen052"
+    "question_id": "cbse_xii_lemh1dd_c105_gen052",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Prove that the derivative of ln x with respect to x is 1/x for all x > 0.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen053"
+    "question_id": "cbse_xii_lemh1dd_c105_gen053",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Differentiate the function y = e^(–x) with respect to x.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen054"
+    "question_id": "cbse_xii_lemh1dd_c105_gen054",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Differentiate y = sin(ln x) with respect to x for x > 0.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen055"
+    "question_id": "cbse_xii_lemh1dd_c105_gen055",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Solve the equation 10ˣ = 10000 for x.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen056"
+    "question_id": "cbse_xii_lemh1dd_c105_gen056",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Find the value of log₂ 8.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen057"
+    "question_id": "cbse_xii_lemh1dd_c105_gen057",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   },
   {
     "question_text": "Given f(x) = 10ˣ and g(x) = x¹⁰⁰, compare the values of f(1000) and g(1000).",
@@ -208,6 +221,7 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "08_section_5_4",
-    "question_id": "cbse_xii_lemh1dd_c105_gen058"
+    "question_id": "cbse_xii_lemh1dd_c105_gen058",
+    "section_name": "5.4 Exponential and Logarithmic Functions"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen172"
+    "question_id": "cbse_xi_keph2dd_c206_gen172",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the expression for the constant k in terms of mass m and angular frequency ω for a simple harmonic oscillator?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen173"
+    "question_id": "cbse_xi_keph2dd_c206_gen173",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In a mass-spring system where two identical springs are attached to a block, what is the effective spring constant when both springs act together?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen174"
+    "question_id": "cbse_xi_keph2dd_c206_gen174",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "If additional terms proportional to x², x³, etc., are present in the force expression, the oscillator is referred to as:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen175"
+    "question_id": "cbse_xi_keph2dd_c206_gen175",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "To retrieve the displacement function from the force law of SHM, which mathematical operation must be performed on the force equation?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen176"
+    "question_id": "cbse_xi_keph2dd_c206_gen176",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define simple harmonic motion using the force law. Include in your answer the direction of the force relative to the displacement.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen177"
+    "question_id": "cbse_xi_keph2dd_c206_gen177",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain why a particle undergoing simple harmonic motion experiences a restoring force.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen178"
+    "question_id": "cbse_xi_keph2dd_c206_gen178",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What distinguishes a linear harmonic oscillator from a non-linear oscillator?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen179"
+    "question_id": "cbse_xi_keph2dd_c206_gen179",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How can the displacement function x(t) be recovered from the force law equation in simple harmonic motion?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen180"
+    "question_id": "cbse_xi_keph2dd_c206_gen180",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Describe the process of deriving the force law for simple harmonic motion starting from the displacement equation x(t). Include the significance of differentiation in your answer.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen181"
+    "question_id": "cbse_xi_keph2dd_c206_gen181",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the system in Example 13.6 where two identical springs (each with spring constant k) are attached to a block of mass m, explain how to derive the net force acting on the block when it is displaced by a small distance x. Also, determine how the effective spring constant affects the period T of oscillation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen182"
+    "question_id": "cbse_xi_keph2dd_c206_gen182",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Critically compare the derivation of simple harmonic motion using the displacement equation and the force equation. Discuss any assumptions made during the derivation and the significance of integrating versus differentiating in the process.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen183"
+    "question_id": "cbse_xi_keph2dd_c206_gen183",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In simple harmonic motion, the force acting on the particle is always directed away from the equilibrium position.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen184"
+    "question_id": "cbse_xi_keph2dd_c206_gen184",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: For a mass attached to two identical springs, the period of oscillation is given by T = 2π √(m/2k).",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen185"
+    "question_id": "cbse_xi_keph2dd_c206_gen185",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: Additional force terms proportional to higher powers of displacement (such as x² or x³) indicate that the system is a linear oscillator.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen186"
+    "question_id": "cbse_xi_keph2dd_c206_gen186",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass of 0.5 kg is attached to a spring with a spring constant of 2 N/m. Calculate the angular frequency (ω) and the period (T) of oscillation for this mass-spring system.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen187"
+    "question_id": "cbse_xi_keph2dd_c206_gen187",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A block of mass 1 kg is placed between two identical springs, each having a spring constant of 50 N/m. If the block is displaced by 0.1 m from its equilibrium position, determine the net restoring force acting on the block and calculate the period of oscillation.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen188"
+    "question_id": "cbse_xi_keph2dd_c206_gen188",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass of 0.2 kg attached to a spring oscillates with a period of 1.4 s. Calculate the spring constant k for the system using the formula for the period of a mass-spring system.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen189"
+    "question_id": "cbse_xi_keph2dd_c206_gen189",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Two identical springs, each with a spring constant of 25 N/m, are attached to a mass of 2 kg as shown in Example 13.6. Calculate the angular frequency (ω) of the block's oscillation.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen190"
+    "question_id": "cbse_xi_keph2dd_c206_gen190",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle of mass 0.8 kg attached to a spring executes simple harmonic motion described by the displacement function x(t) = 0.05 cos(3t) (with x in meters and t in seconds). Using Newton's second law, derive the force function F(t) and determine the spring constant k.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen191"
+    "question_id": "cbse_xi_keph2dd_c206_gen191",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   }
 ]

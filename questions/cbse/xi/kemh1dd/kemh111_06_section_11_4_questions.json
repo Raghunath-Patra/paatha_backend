@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen040"
+    "question_id": "cbse_xi_kemh1dd_c111_gen040",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Three points P, Q, and R in 3D space have distances such that PQ = √5 and QR = 2√5. If these points are collinear, what must be the distance PR?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen041"
+    "question_id": "cbse_xi_kemh1dd_c111_gen041",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "The locus of all points equidistant from the two fixed points A(1, 2, 3) and B(3, 2, −1) is given by which of the following equations?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen042"
+    "question_id": "cbse_xi_kemh1dd_c111_gen042",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Which theorem is fundamental in deriving the distance formula used in both two-dimensional and three-dimensional spaces?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen043"
+    "question_id": "cbse_xi_kemh1dd_c111_gen043",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Define the distance formula in three-dimensional space and explain its derivation in brief.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen044"
+    "question_id": "cbse_xi_kemh1dd_c111_gen044",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "What does it mean for three points in three-dimensional space to be collinear? Provide the condition using distance formulas.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen045"
+    "question_id": "cbse_xi_kemh1dd_c111_gen045",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "State the condition for a triangle in three-dimensional space to be a right-angled triangle using its side lengths.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen046"
+    "question_id": "cbse_xi_kemh1dd_c111_gen046",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Express the equation for the set of points P(x, y, z) that satisfy PA² + PB² = 2k² for fixed points A and B, and explain the process of obtaining the equation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen047"
+    "question_id": "cbse_xi_kemh1dd_c111_gen047",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Prove that if three points P, Q, and R in 3D space satisfy PQ + QR = PR, then they are collinear. Use the distance formula in your proof.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen048"
+    "question_id": "cbse_xi_kemh1dd_c111_gen048",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Derive the equation for the locus of points P(x, y, z) such that the sum of the distances from P to the fixed points A(4, 0, 0) and B(−4, 0, 0) is constant (equal to 10). Also, describe the nature of the locus.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen049"
+    "question_id": "cbse_xi_kemh1dd_c111_gen049",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Find the distance between the points P(1, −3, 4) and Q(−4, 1, 2). Show all steps in your solution.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen050"
+    "question_id": "cbse_xi_kemh1dd_c111_gen050",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Calculate the distances PQ, QR, and PR for the points P(−2, 3, 5), Q(1, 2, 3), and R(7, 0, −1) and verify whether these points are collinear.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen051"
+    "question_id": "cbse_xi_kemh1dd_c111_gen051",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Verify whether the triangle with vertices A(3, 6, 9), B(10, 20, 30), and C(25, −41, 5) is right-angled by computing the necessary distances.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen052"
+    "question_id": "cbse_xi_kemh1dd_c111_gen052",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Derive the equation of the locus of all points equidistant from the points A(1, 2, 3) and B(3, 2, −1). Provide a detailed solution.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen053"
+    "question_id": "cbse_xi_kemh1dd_c111_gen053",
+    "section_name": "11.4 Distance between Two Points"
   },
   {
     "question_text": "Find the equation of the set of points P(x, y, z) such that PA² + PB² = 2k², where A = (3, 4, 5) and B = (−1, 3, −7). Provide detailed working.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xi_kemh1dd_c111_gen054"
+    "question_id": "cbse_xi_kemh1dd_c111_gen054",
+    "section_name": "11.4 Distance between Two Points"
   }
 ]

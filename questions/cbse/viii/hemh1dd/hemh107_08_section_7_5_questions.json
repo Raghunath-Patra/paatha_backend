@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen054"
+    "question_id": "cbse_viii_hemh1dd_c107_gen054",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "If the amount after n years is given by A = P(1 + R/100)^n, which expression correctly represents the compound interest (CI) earned over n years?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen055"
+    "question_id": "cbse_viii_hemh1dd_c107_gen055",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "A student invests ₹8000 at an annual compound interest rate of 4% for 3 years. What will be the final amount?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen056"
+    "question_id": "cbse_viii_hemh1dd_c107_gen056",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Which of the following statements best distinguishes between simple and compound interest?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen057"
+    "question_id": "cbse_viii_hemh1dd_c107_gen057",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Define compound interest and explain the process of compounding using its formula.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen058"
+    "question_id": "cbse_viii_hemh1dd_c107_gen058",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "State the relationship between the amount A, principal P, and compound interest CI.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen059"
+    "question_id": "cbse_viii_hemh1dd_c107_gen059",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "How is the compound interest formula A = P(1+R/100)^n derived from the annual compounding method? Provide a brief explanation.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen060"
+    "question_id": "cbse_viii_hemh1dd_c107_gen060",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Derive the compound interest formula step-by-step by starting with the calculation of simple interest for the first year and show how the formula extends to n years.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen061"
+    "question_id": "cbse_viii_hemh1dd_c107_gen061",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Using the compound interest formula, prove that the compound interest (CI) after n years is given by CI = P[(1+R/100)^n - 1].",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen062"
+    "question_id": "cbse_viii_hemh1dd_c107_gen062",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Calculate the compound interest on ₹12,600 for 2 years at a rate of 10% per annum compounded annually.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen063"
+    "question_id": "cbse_viii_hemh1dd_c107_gen063",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "A principal of ₹5,000 is invested at an interest rate of 5% per annum compounded annually. Find the total amount after 4 years.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen064"
+    "question_id": "cbse_viii_hemh1dd_c107_gen064",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "A sum of ₹2000 is compounded annually at 8% per annum for 3 years. Find the compound interest earned on this amount.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen065"
+    "question_id": "cbse_viii_hemh1dd_c107_gen065",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "After 5 years, an investment grows to ₹16,105 when compounded annually at a rate of 7% per annum. Determine the original principal.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen066"
+    "question_id": "cbse_viii_hemh1dd_c107_gen066",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   }
 ]

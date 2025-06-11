@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen314"
+    "question_id": "cbse_xi_keph1dd_c105_gen314",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "What are the SI dimensions of power?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen315"
+    "question_id": "cbse_xi_keph1dd_c105_gen315",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which of the following equations correctly represents instantaneous power?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen316"
+    "question_id": "cbse_xi_keph1dd_c105_gen316",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "One horsepower (hp) is equivalent to how many watts?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen317"
+    "question_id": "cbse_xi_keph1dd_c105_gen317",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which unit, often encountered on electricity bills, is actually a unit of energy rather than power?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen318"
+    "question_id": "cbse_xi_keph1dd_c105_gen318",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Define average power and provide its mathematical expression.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen319"
+    "question_id": "cbse_xi_keph1dd_c105_gen319",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Explain the difference between average power and instantaneous power.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen320"
+    "question_id": "cbse_xi_keph1dd_c105_gen320",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Describe a real-world scenario where horsepower is a more commonly used unit than watts.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen321"
+    "question_id": "cbse_xi_keph1dd_c105_gen321",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Why is the kilowatt hour (kWh) used in electricity billing, even though it is a unit of energy, not power?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen322"
+    "question_id": "cbse_xi_keph1dd_c105_gen322",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Explain in detail how instant power is calculated from force and velocity, using a practical example to support your explanation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen323"
+    "question_id": "cbse_xi_keph1dd_c105_gen323",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Compare and contrast the concepts of work, power, and energy. Provide clear definitions and discuss how they interrelate in physical systems.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen324"
+    "question_id": "cbse_xi_keph1dd_c105_gen324",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Discuss how an increase in speed affects the power required by a motor when both frictional forces and the gravitational force remain constant.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen325"
+    "question_id": "cbse_xi_keph1dd_c105_gen325",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "True or False: Power is a vector quantity because it is calculated using force, which is a vector.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen326"
+    "question_id": "cbse_xi_keph1dd_c105_gen326",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "True or False: Instantaneous power can be calculated using the equation P = F · v.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen327"
+    "question_id": "cbse_xi_keph1dd_c105_gen327",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "True or False: The kilowatt hour (kWh) is a unit directly used to measure power in electrical appliances.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen328"
+    "question_id": "cbse_xi_keph1dd_c105_gen328",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A machine does 180,000 J of work in 90 seconds. Calculate its average power in watts.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen329"
+    "question_id": "cbse_xi_keph1dd_c105_gen329",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "An elevator with a total mass of 1000 kg is moving upward at a constant speed of 2 m/s. If the frictional force opposing the motion is 3000 N and using g = 10 m/s², calculate the minimum power needed by the elevator motor in watts.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen330"
+    "question_id": "cbse_xi_keph1dd_c105_gen330",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A car engine outputs 150 horsepower. Convert this power to watts.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen331"
+    "question_id": "cbse_xi_keph1dd_c105_gen331",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A turbine produces power at a constant rate of 500 W over a period of 5 hours. Calculate the total energy produced in kilowatt hours (kWh) and in joules.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen332"
+    "question_id": "cbse_xi_keph1dd_c105_gen332",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A 60 W light bulb is used continuously for 24 hours. Determine its energy consumption in kilowatt hours (kWh) and the equivalent energy in joules.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen333"
+    "question_id": "cbse_xi_keph1dd_c105_gen333",
+    "section_name": "5.10 POWER"
   }
 ]

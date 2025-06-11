@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen001"
+    "question_id": "cbse_xii_leph2dd_c204_gen001",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "According to the plum pudding model, how is the positive charge within an atom arranged?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen002"
+    "question_id": "cbse_xii_leph2dd_c204_gen002",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Which experiment provided the evidence for the existence of a small, dense nucleus in the atom?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen003"
+    "question_id": "cbse_xii_leph2dd_c204_gen003",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Why is the classical planetary model of the atom unable to explain the observation of discrete spectral lines in hydrogen?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen004"
+    "question_id": "cbse_xii_leph2dd_c204_gen004",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "How did Balmer's empirical formula contribute to our understanding of the hydrogen atom?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen005"
+    "question_id": "cbse_xii_leph2dd_c204_gen005",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Define the plum pudding model of the atom.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen006"
+    "question_id": "cbse_xii_leph2dd_c204_gen006",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why light from rarefied gases shows discrete wavelengths.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen007"
+    "question_id": "cbse_xii_leph2dd_c204_gen007",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the limitations of Thomson's plum pudding model and how subsequent experiments addressed these shortcomings.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen008"
+    "question_id": "cbse_xii_leph2dd_c204_gen008",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Explain in detail the design of Rutherford's scattering experiment and how its results led to the nuclear model of the atom.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen009"
+    "question_id": "cbse_xii_leph2dd_c204_gen009",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Critically analyze the planetary model of the atom, including its successes and shortcomings, and discuss how quantum theory resolved its major issues.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen010"
+    "question_id": "cbse_xii_leph2dd_c204_gen010",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The plum pudding model suggests that electrons orbit a concentrated positive nucleus.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen011"
+    "question_id": "cbse_xii_leph2dd_c204_gen011",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Discrete spectral lines observed in the light emitted from rarefied gases indicate that individual atoms emit light at specific wavelengths.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen012"
+    "question_id": "cbse_xii_leph2dd_c204_gen012",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Rutherford's alpha-particle scattering experiment demonstrated that the atom is mostly filled with a dense nucleus.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen013"
+    "question_id": "cbse_xii_leph2dd_c204_gen013",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "An atom contains 10 electrons. Given that the charge of an electron is 1.6 x 10^-19 Coulomb, calculate the total negative charge of the atom. Provide your answer in Coulombs.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen014"
+    "question_id": "cbse_xii_leph2dd_c204_gen014",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Using Balmer's formula for hydrogen, where 1/λ = R (1/2^2 - 1/n^2) with R = 1.097 x 10^7 m^-1, calculate the wavelength of the spectral line for a transition from n = 3 to n = 2. Express your answer in nanometers.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen015"
+    "question_id": "cbse_xii_leph2dd_c204_gen015",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "In Rutherford's scattering experiment, the impact parameter b is given by b = (k Z1 Z2 e^2) / (2 E) cot(θ/2). Given an alpha particle (Z1 = 2) scattering off a gold nucleus (Z2 = 79) with kinetic energy E = 5 MeV (1 MeV = 1.602 x 10^-13 J) and a scattering angle θ = 150°, estimate the value of b in meters using k = 8.99 x 10^9 N·m^2/C^2 and e = 1.6 x 10^-19 C. Use cot(75°) ≈ 0.2679.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen016"
+    "question_id": "cbse_xii_leph2dd_c204_gen016",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Using Balmer's formula (1/λ = R (1/2^2 - 1/n^2)), calculate the wavelength for the transition in hydrogen from n = 4 to n = 2. Assume R = 1.097 x 10^7 m^-1 and express your answer in nanometers.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen017"
+    "question_id": "cbse_xii_leph2dd_c204_gen017",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "A spectral line emitted from a neon discharge is observed at a wavelength of 640 nm. Calculate the frequency of this light. Use the speed of light c = 3.0 x 10^8 m/s.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph204",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xii_leph2dd_c204_gen018"
+    "question_id": "cbse_xii_leph2dd_c204_gen018",
+    "section_name": "12.1 INTRODUCTION"
   }
 ]

@@ -159,7 +159,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen183"
+    "question_id": "cbse_xii_leph1dd_c102_gen183",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "In the equation C = Q/V, which statement is true for a fixed capacitor?",
@@ -178,7 +179,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen184"
+    "question_id": "cbse_xii_leph1dd_c102_gen184",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "What is the approximate dielectric strength of air as mentioned in the text?",
@@ -197,7 +199,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen185"
+    "question_id": "cbse_xii_leph1dd_c102_gen185",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Why is a capacitor with a large capacitance practically useful?",
@@ -216,7 +219,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen186"
+    "question_id": "cbse_xii_leph1dd_c102_gen186",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Which symbol is used to represent a capacitor with fixed capacitance in circuit diagrams?",
@@ -235,7 +239,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen187"
+    "question_id": "cbse_xii_leph1dd_c102_gen187",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Define capacitance in your own words.",
@@ -249,7 +254,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen188"
+    "question_id": "cbse_xii_leph1dd_c102_gen188",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "What is the SI unit of capacitance and how is it defined?",
@@ -263,7 +269,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen189"
+    "question_id": "cbse_xii_leph1dd_c102_gen189",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Discuss why a single conductor can serve as a capacitor when the other conductor is assumed to be at infinity.",
@@ -277,7 +284,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen190"
+    "question_id": "cbse_xii_leph1dd_c102_gen190",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "List and briefly explain the factors that affect the capacitance of a capacitor.",
@@ -291,7 +299,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen191"
+    "question_id": "cbse_xii_leph1dd_c102_gen191",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Discuss how the potential difference (V) between a capacitor's plates is related to the charge (Q) and how this relationship leads to the definition of capacitance.",
@@ -305,7 +314,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen192"
+    "question_id": "cbse_xii_leph1dd_c102_gen192",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Analyze the role of dielectric strength in capacitor design and describe how it limits the maximum charge that can be stored.",
@@ -319,7 +329,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen193"
+    "question_id": "cbse_xii_leph1dd_c102_gen193",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Critically evaluate the practical constraints on capacitor design, such as leakage due to high electric fields, and propose methods to optimize the design for high charge storage.",
@@ -333,7 +344,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen194"
+    "question_id": "cbse_xii_leph1dd_c102_gen194",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "True or False: The total charge on a capacitor is simply Q, where Q is the charge on one of the conductors.",
@@ -347,7 +359,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen195"
+    "question_id": "cbse_xii_leph1dd_c102_gen195",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "True or False: Increasing the separation between the capacitor plates, while keeping the charge constant, will increase the potential difference across the plates.",
@@ -361,7 +374,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen196"
+    "question_id": "cbse_xii_leph1dd_c102_gen196",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "True or False: The leakage of charge in a capacitor due to a strong electric field is unrelated to the dielectric strength of the medium.",
@@ -375,7 +389,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen197"
+    "question_id": "cbse_xii_leph1dd_c102_gen197",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "A capacitor with a capacitance of 10 µF is charged to a potential difference of 100 V. Calculate the charge stored on the capacitor.",
@@ -389,7 +404,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen198"
+    "question_id": "cbse_xii_leph1dd_c102_gen198",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Calculate the maximum potential difference that can be applied across a capacitor with a 1 cm gap in air, given that the dielectric strength of air is 3 × 10^6 V m⁻¹.",
@@ -403,7 +419,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen199"
+    "question_id": "cbse_xii_leph1dd_c102_gen199",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "A capacitor must be designed to store 0.05 C of charge without exceeding a potential difference of 500 V. What is the minimum capacitance required for this capacitor?",
@@ -417,7 +434,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen200"
+    "question_id": "cbse_xii_leph1dd_c102_gen200",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "A capacitor with a capacitance of 2 nF is connected to a 1000 V supply. If the plate separation is 0.5 mm, calculate the magnitude of the electric field between the plates.",
@@ -431,7 +449,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen201"
+    "question_id": "cbse_xii_leph1dd_c102_gen201",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "In a capacitor circuit, using a dielectric material increases the capacitance by a factor of 4. How does the required potential difference change for storing the same charge compared to when no dielectric is used?",
@@ -445,7 +464,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen202"
+    "question_id": "cbse_xii_leph1dd_c102_gen202",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Which of the following expressions correctly represents the energy stored in a capacitor?",
@@ -464,7 +484,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen260"
+    "question_id": "cbse_xii_leph1dd_c102_gen260",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Which one of the following factors does NOT affect the capacitance of a parallel plate capacitor?",
@@ -483,7 +504,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen261"
+    "question_id": "cbse_xii_leph1dd_c102_gen261",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "The energy density of an electric field is given by u = (1/2)ε₀E². Which of the following statements is true?",
@@ -502,7 +524,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen262"
+    "question_id": "cbse_xii_leph1dd_c102_gen262",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "During the process of charging a capacitor, the infinitesimal work done in transferring a small charge dq is given by V dq. Which of the following statements is false?",
@@ -521,7 +544,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen263"
+    "question_id": "cbse_xii_leph1dd_c102_gen263",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "In which scenario is it observed that half of the initial energy stored in a capacitor is lost when the configuration is changed?",
@@ -540,7 +564,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen264"
+    "question_id": "cbse_xii_leph1dd_c102_gen264",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Define capacitance and provide its mathematical expression for a parallel plate capacitor.",
@@ -554,7 +579,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen265"
+    "question_id": "cbse_xii_leph1dd_c102_gen265",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Explain the significance of the factor (1/2) in the formula U = (1/2)CV² for the energy stored in a capacitor.",
@@ -568,7 +594,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen266"
+    "question_id": "cbse_xii_leph1dd_c102_gen266",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Describe how the energy stored in a capacitor relates to the electric field between its plates.",
@@ -582,7 +609,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen267"
+    "question_id": "cbse_xii_leph1dd_c102_gen267",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Briefly explain why, when two identical capacitors are connected together after one is charged, the final stored energy is less than the initial energy.",
@@ -596,7 +624,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen268"
+    "question_id": "cbse_xii_leph1dd_c102_gen268",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Derive the expression for the energy stored in a capacitor starting from the work done to transfer an infinitesimal charge dq across a potential difference V, and show that U = Q²/(2C).",
@@ -610,7 +639,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen269"
+    "question_id": "cbse_xii_leph1dd_c102_gen269",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Explain, in detail, how the energy density expression u = (1/2)ε₀E² is obtained for a parallel plate capacitor. Include the assumptions used in the derivation.",
@@ -624,7 +654,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen270"
+    "question_id": "cbse_xii_leph1dd_c102_gen270",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Compare and contrast how energy is stored in a capacitor versus in a battery. Focus on the location and the nature of the stored energy.",
@@ -638,7 +669,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen271"
+    "question_id": "cbse_xii_leph1dd_c102_gen271",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "True or False: The work done in charging a capacitor is independent of the specific process path followed during the charging.",
@@ -652,7 +684,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen272"
+    "question_id": "cbse_xii_leph1dd_c102_gen272",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "True or False: Increasing the separation between the plates of a parallel plate capacitor, while keeping the area constant, leads to a decrease in the capacitance.",
@@ -666,7 +699,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen273"
+    "question_id": "cbse_xii_leph1dd_c102_gen273",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "True or False: If all energy losses are neglected, a capacitor will release all its stored energy when it discharges.",
@@ -680,7 +714,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen274"
+    "question_id": "cbse_xii_leph1dd_c102_gen274",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "A parallel plate capacitor has a plate area of 0.02 square meters and a plate separation of 0.001 meters. Using ε₀ = 8.85 x 10⁻¹² F/m, calculate its capacitance. If this capacitor is charged to a voltage of 200 V, compute the energy stored within it. Provide your answers with appropriate units.",
@@ -694,7 +729,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen275"
+    "question_id": "cbse_xii_leph1dd_c102_gen275",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "A 900 pF capacitor is connected to a 100 V battery. (a) Calculate the charge on the capacitor. (b) Determine the energy stored in the capacitor. Use 1 pF = 1 x 10⁻¹² F.",
@@ -708,7 +744,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen276"
+    "question_id": "cbse_xii_leph1dd_c102_gen276",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Two identical 500 pF capacitors are each charged to 50 V. They are then connected in parallel with their opposite plates connected together. (a) Determine the final voltage across the combined system. (b) Calculate the total stored energy after connection.",
@@ -722,7 +759,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen277"
+    "question_id": "cbse_xii_leph1dd_c102_gen277",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "A capacitor has its stored energy given by U = (1/2)ε₀E²A d, where A d is the volume between its plates. If the plate separation d is doubled while keeping the plate area and stored charge constant, what happens to the stored energy?",
@@ -736,7 +774,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen278"
+    "question_id": "cbse_xii_leph1dd_c102_gen278",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "A capacitor initially stores 10 µJ of energy when fully charged. If this capacitor is disconnected from its battery and then connected in parallel to an identical uncharged capacitor, what is the final total stored energy? Explain the energy loss.",
@@ -750,7 +789,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen279"
+    "question_id": "cbse_xii_leph1dd_c102_gen279",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "What is the expression for the surface charge density (σ) on the positive plate of a parallel plate capacitor?",
@@ -769,7 +809,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen203"
+    "question_id": "cbse_xii_leph1dd_c102_gen203",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "In a parallel plate capacitor, using the infinite plane sheet approximation, what is the net electric field in the region outside the plates (above the top plate or below the bottom plate)?",
@@ -788,7 +829,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen204"
+    "question_id": "cbse_xii_leph1dd_c102_gen204",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "For a parallel plate capacitor with plates having uniform surface charge densities of +σ and -σ, what is the magnitude of the electric field (E) between the plates?",
@@ -807,7 +849,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen205"
+    "question_id": "cbse_xii_leph1dd_c102_gen205",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Which of the following statements about the fringing effect in a parallel plate capacitor is correct?",
@@ -826,7 +869,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen206"
+    "question_id": "cbse_xii_leph1dd_c102_gen206",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "What is the expression for the capacitance (C) of a parallel plate capacitor with a vacuum between the plates?",
@@ -845,7 +889,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen207"
+    "question_id": "cbse_xii_leph1dd_c102_gen207",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Define capacitance for a parallel plate capacitor and provide the formula used to calculate it in a vacuum.",
@@ -859,7 +904,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen208"
+    "question_id": "cbse_xii_leph1dd_c102_gen208",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Explain why the electric field between the plates of a parallel plate capacitor is considered uniform (assuming d² << A).",
@@ -873,7 +919,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen209"
+    "question_id": "cbse_xii_leph1dd_c102_gen209",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "What is the relationship between the potential difference V across the plates and the electric field E in a parallel plate capacitor?",
@@ -887,7 +934,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen210"
+    "question_id": "cbse_xii_leph1dd_c102_gen210",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "How does increasing the separation d between the plates affect the capacitance of a parallel plate capacitor?",
@@ -901,7 +949,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen211"
+    "question_id": "cbse_xii_leph1dd_c102_gen211",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Discuss the assumptions inherent in using the infinite plane sheet approximation for calculating the electric field in a parallel plate capacitor.",
@@ -915,7 +964,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen212"
+    "question_id": "cbse_xii_leph1dd_c102_gen212",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Derive the expression for the capacitance of a parallel plate capacitor starting from the electric field created by each plate.",
@@ -929,7 +979,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen213"
+    "question_id": "cbse_xii_leph1dd_c102_gen213",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Explore the implications of fringing effects on the electric field distribution in a real parallel plate capacitor with finite plate dimensions.",
@@ -943,7 +994,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen214"
+    "question_id": "cbse_xii_leph1dd_c102_gen214",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "True or False: The net electric field outside an ideal parallel plate capacitor with infinitely large plates is zero.",
@@ -957,7 +1009,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen215"
+    "question_id": "cbse_xii_leph1dd_c102_gen215",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "True or False: The potential difference between the plates of a parallel plate capacitor is independent of the distance between the plates.",
@@ -971,7 +1024,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen216"
+    "question_id": "cbse_xii_leph1dd_c102_gen216",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "True or False: The capacitance of a parallel plate capacitor with a vacuum between its plates depends solely on the geometry of the capacitor.",
@@ -985,7 +1039,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen217"
+    "question_id": "cbse_xii_leph1dd_c102_gen217",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "A parallel plate capacitor has plates of area 0.5 m² separated by a distance of 2 × 10⁻³ m. Calculate its capacitance using ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -999,7 +1054,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen218"
+    "question_id": "cbse_xii_leph1dd_c102_gen218",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Calculate the magnitude of the electric field between the plates if the charge on one plate is 1 × 10⁻⁶ C and the plate area is 0.1 m². Use ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -1013,7 +1069,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen219"
+    "question_id": "cbse_xii_leph1dd_c102_gen219",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "A capacitor has a capacitance of 15 pF (15 × 10⁻¹² F) and a plate separation of 1 × 10⁻³ m. What is the required area of the plates? Use ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -1027,7 +1084,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen220"
+    "question_id": "cbse_xii_leph1dd_c102_gen220",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "A parallel plate capacitor is constructed with plates of area 1 m² and a separation of 1 mm. If the charge on the capacitor is 4.425 × 10⁻⁹ C, calculate the capacitance and the potential difference between the plates. Use ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -1041,7 +1099,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen221"
+    "question_id": "cbse_xii_leph1dd_c102_gen221",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Calculate the required plate area for a capacitor to have a capacitance of 1 F with a plate separation of 1 cm. Use ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -1055,7 +1114,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen222"
+    "question_id": "cbse_xii_leph1dd_c102_gen222",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Which of the following best defines the electrostatic potential at a point in space?",
@@ -1074,7 +1134,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen019"
+    "question_id": "cbse_xii_leph1dd_c102_gen019",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "In the context of electrostatics, why is it more convenient to define potential energy per unit charge rather than the total work done?",
@@ -1093,7 +1154,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen020"
+    "question_id": "cbse_xii_leph1dd_c102_gen020",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "According to the definition provided in the section, the potential difference between two points P and R is given by V_P - V_R. If an external force does 30 joules of work per unit charge in moving a charge from R to P, what is the potential difference?",
@@ -1112,7 +1174,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen021"
+    "question_id": "cbse_xii_leph1dd_c102_gen021",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Which one of the following statements is true regarding the work done on a test charge in an electrostatic field?",
@@ -1131,7 +1194,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen022"
+    "question_id": "cbse_xii_leph1dd_c102_gen022",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "A portrait resembling Ampère is included in the textbook section. Which of the following contributions is Ampère best known for?",
@@ -1150,7 +1214,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen023"
+    "question_id": "cbse_xii_leph1dd_c102_gen023",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Define electrostatic potential and explain its significance in the context of work done by external forces.",
@@ -1164,7 +1229,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen024"
+    "question_id": "cbse_xii_leph1dd_c102_gen024",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Explain why the work done in moving a test charge in an electrostatic field is independent of the path taken between the starting and ending points.",
@@ -1178,7 +1244,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen025"
+    "question_id": "cbse_xii_leph1dd_c102_gen025",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Discuss the importance of choosing the potential to be zero at infinity when defining electrostatic potential.",
@@ -1192,7 +1259,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen026"
+    "question_id": "cbse_xii_leph1dd_c102_gen026",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Propose an experimental setup using commonly available laboratory apparatus to measure the electrostatic potential difference between two points.",
@@ -1206,7 +1274,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen027"
+    "question_id": "cbse_xii_leph1dd_c102_gen027",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Derive the expression for the electrostatic potential at a point starting with the work done on a test charge. Describe each step involved in obtaining the expression V = work done per unit charge.",
@@ -1220,7 +1289,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen028"
+    "question_id": "cbse_xii_leph1dd_c102_gen028",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Critically analyze how the concept of electrostatic potential aids in understanding the conservative nature of electrostatic forces. Provide examples to support your analysis.",
@@ -1234,7 +1304,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen029"
+    "question_id": "cbse_xii_leph1dd_c102_gen029",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Design a conceptual problem that correlates the density of electric field lines with the magnitude of the electrostatic potential, and solve the problem. In your design, assume that a region with denser field lines corresponds to higher potential differences.",
@@ -1248,7 +1319,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen030"
+    "question_id": "cbse_xii_leph1dd_c102_gen030",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "True or False: The work done by an external force in moving a unit positive charge from infinity to a specific point is equal to the electrostatic potential at that point.",
@@ -1262,7 +1334,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen031"
+    "question_id": "cbse_xii_leph1dd_c102_gen031",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "True or False: In an electrostatic field, the work done on a test charge always depends on the particular path taken between the starting point and the ending point.",
@@ -1276,7 +1349,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen032"
+    "question_id": "cbse_xii_leph1dd_c102_gen032",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "A unit positive charge is brought from infinity to a point where the potential is measured to be 10 V. Calculate the work done by the external force.",
@@ -1290,7 +1364,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen033"
+    "question_id": "cbse_xii_leph1dd_c102_gen033",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "If the work done by an external force in moving a charge of 2 C from infinity to a point is 20 J, find the electrostatic potential at that point.",
@@ -1304,7 +1379,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen034"
+    "question_id": "cbse_xii_leph1dd_c102_gen034",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "A test charge of 1 C is moved from point A to point B in a conservative electric field. If the electrostatic potential at point A is 15 V and at point B is 5 V, calculate the work done by the electrostatic force on the charge.",
@@ -1318,7 +1394,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen035"
+    "question_id": "cbse_xii_leph1dd_c102_gen035",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "Express the infinitesimal work dW done by an external force in moving a small test charge dq from infinity to a point where the electrostatic potential is V.",
@@ -1332,7 +1409,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen036"
+    "question_id": "cbse_xii_leph1dd_c102_gen036",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "In a particular electrostatic field, the potential V at a distance r from the center is given by V = 100/r (with r in meters and V in volts). Calculate the work done per unit charge by an external force in moving a test charge from r = 2 m to r = 4 m.",
@@ -1346,7 +1424,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen037"
+    "question_id": "cbse_xii_leph1dd_c102_gen037",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "A unit positive charge is brought from infinity to a point where the potential is measured to be 40 V. If another test charge of 3 C is then moved from infinity to the same point, calculate the work done by the external force in bringing this charge to that point.",
@@ -1360,7 +1439,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_leph1dd_c102_gen038"
+    "question_id": "cbse_xii_leph1dd_c102_gen038",
+    "section_name": "2.2 ELECTROSTATIC POTENTIAL"
   },
   {
     "question_text": "What is the expression for the electric potential V at a distance r from a point charge Q?",
@@ -1379,7 +1459,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen039"
+    "question_id": "cbse_xii_leph1dd_c102_gen039",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Which of the following statements about the work done in bringing a unit positive test charge from infinity to a point P in the electric field of a point charge Q is correct?",
@@ -1398,7 +1479,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen040"
+    "question_id": "cbse_xii_leph1dd_c102_gen040",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "For a point charge Q < 0, which of the following correctly describes the sign of the electric potential V and the work done in bringing a unit positive charge from infinity?",
@@ -1417,7 +1499,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen041"
+    "question_id": "cbse_xii_leph1dd_c102_gen041",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "If the electric potential due to a point charge is given by V = Q/(4πε₀ r), what happens to V as r tends to infinity?",
@@ -1436,7 +1519,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen042"
+    "question_id": "cbse_xii_leph1dd_c102_gen042",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Explain briefly why the work done in bringing a unit positive test charge from infinity to a point P in the electric field of a point charge is independent of the path taken.",
@@ -1450,7 +1534,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen043"
+    "question_id": "cbse_xii_leph1dd_c102_gen043",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Define the electric potential due to a point charge and describe how it is calculated using the concept of work done.",
@@ -1464,7 +1549,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen044"
+    "question_id": "cbse_xii_leph1dd_c102_gen044",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Compare the electric potential due to a positive point charge versus a negative point charge. What are the differences in the sign and implications for work done?",
@@ -1478,7 +1564,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen045"
+    "question_id": "cbse_xii_leph1dd_c102_gen045",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Derive the expression for the electric potential V at a point P due to a point charge Q by integrating the electrostatic force from infinity to r.",
@@ -1492,7 +1579,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen046"
+    "question_id": "cbse_xii_leph1dd_c102_gen046",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Discuss how the variation of the electric potential (proportional to 1/r) and the electric field (proportional to 1/r²) with distance from a point charge are graphically represented and what physical insights can be drawn from the difference in their rates of decrease.",
@@ -1506,7 +1594,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen047"
+    "question_id": "cbse_xii_leph1dd_c102_gen047",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "True or False: The work done in bringing a unit positive test charge from infinity to any point in the electric field of a point charge Q is path dependent.",
@@ -1520,7 +1609,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen048"
+    "question_id": "cbse_xii_leph1dd_c102_gen048",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "True or False: When bringing a unit positive test charge from infinity to a point near a negative point charge, the work done by the electrostatic force is positive.",
@@ -1534,7 +1624,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen049"
+    "question_id": "cbse_xii_leph1dd_c102_gen049",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "A point charge Q = 4 × 10⁻⁷ C is located at the origin. Calculate the electric potential V at a point located 9 cm from the charge.",
@@ -1548,7 +1639,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen050"
+    "question_id": "cbse_xii_leph1dd_c102_gen050",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Using the potential calculated in the previous problem, determine the work done in bringing a charge of 2 × 10⁻⁹ C from infinity to the point 9 cm from the charge.",
@@ -1562,7 +1654,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen051"
+    "question_id": "cbse_xii_leph1dd_c102_gen051",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "A point charge Q = 3 × 10⁻⁷ C creates an electric potential of 20000 V at a point. Calculate the distance r from the charge where this potential is observed.",
@@ -1576,7 +1669,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen052"
+    "question_id": "cbse_xii_leph1dd_c102_gen052",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "A point charge of 5 × 10⁻⁷ C is placed at the origin. Calculate the electric potential difference between two points, one at 0.05 m and the other at 0.15 m from the charge.",
@@ -1590,7 +1684,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen053"
+    "question_id": "cbse_xii_leph1dd_c102_gen053",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "A point charge of 3 × 10⁻⁷ C produces a potential V at a distance r. If the potential is measured as 60000 V, derive an expression to calculate r and compute its value.",
@@ -1604,7 +1699,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen054"
+    "question_id": "cbse_xii_leph1dd_c102_gen054",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Which of the following forces is NOT a conservative force?",
@@ -1623,7 +1719,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen001"
+    "question_id": "cbse_xii_leph1dd_c102_gen001",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "Electrostatic potential energy of a charge q at a point in an electric field is defined as the work done by which force in moving the charge from infinity to that point?",
@@ -1642,7 +1739,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen002"
+    "question_id": "cbse_xii_leph1dd_c102_gen002",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following statements is true about the work done by an electrostatic field in moving a charge from one point to another?",
@@ -1661,7 +1759,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen003"
+    "question_id": "cbse_xii_leph1dd_c102_gen003",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "Why is the potential energy in an electric field defined only up to an additive constant?",
@@ -1680,7 +1779,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen004"
+    "question_id": "cbse_xii_leph1dd_c102_gen004",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "When moving a test charge q slowly from point R to point P against the repulsive force, the work done by the external force is equal to:",
@@ -1699,7 +1799,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen005"
+    "question_id": "cbse_xii_leph1dd_c102_gen005",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "Briefly explain how the work done by an external force in moving a charge against an electric field is stored as electric potential energy.",
@@ -1713,7 +1814,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen006"
+    "question_id": "cbse_xii_leph1dd_c102_gen006",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "What is the significance of the path-independence of work done by a conservative force in defining potential energy?",
@@ -1727,7 +1829,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen007"
+    "question_id": "cbse_xii_leph1dd_c102_gen007",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why potential energy is defined relative to a reference point and why it is common to choose infinity as that reference point.",
@@ -1741,7 +1844,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen008"
+    "question_id": "cbse_xii_leph1dd_c102_gen008",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss in detail how the potential energy of a charge is generated when it is moved in an electric field. In your answer, include the role of the external force and how the conservation of energy applies in this process.",
@@ -1755,7 +1859,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen009"
+    "question_id": "cbse_xii_leph1dd_c102_gen009",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the analogy between gravitational potential energy and electrostatic potential energy. Highlight the similarities and differences in their mathematical formulations and physical interpretations.",
@@ -1769,7 +1874,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen010"
+    "question_id": "cbse_xii_leph1dd_c102_gen010",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "The work done by an electrostatic force in moving a charge from one point to another is independent of the path taken.",
@@ -1783,7 +1889,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen011"
+    "question_id": "cbse_xii_leph1dd_c102_gen011",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "The potential energy of a charge at any point in an electric field has an absolute value that is physically significant.",
@@ -1797,7 +1904,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen012"
+    "question_id": "cbse_xii_leph1dd_c102_gen012",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "When a test charge is moved slowly from infinity to a point near another positive charge, the work done by the external force is equal to the gain in the charge's kinetic energy.",
@@ -1811,7 +1919,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen013"
+    "question_id": "cbse_xii_leph1dd_c102_gen013",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "A test charge q = 1.0 C is moved from a point R to point P in the electric field of a fixed charge Q. If the work done by the external force is 100 J, calculate the potential energy difference (U_P - U_R).",
@@ -1825,7 +1934,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen014"
+    "question_id": "cbse_xii_leph1dd_c102_gen014",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "Consider a positive charge Q at the origin and a positive test charge q. If an external force moves the test charge q from infinity to a point P at a distance r from Q, express the potential energy U_P at point P in terms of the work done. If r = 0.5 m and the work done is 80 J, what is the potential energy U_P at point P?",
@@ -1839,7 +1949,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen015"
+    "question_id": "cbse_xii_leph1dd_c102_gen015",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "A test charge q = 2.0 C is moved from point R to point P in an electric field. If the work done by the external force is 150 J, and the initial potential energy at R is 50 J, what is the potential energy at point P?",
@@ -1853,7 +1964,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen016"
+    "question_id": "cbse_xii_leph1dd_c102_gen016",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "A test charge is moved in an electric field such that the external force is constant at 10 N. If the charge is moved 3 m in the direction opposing the external force, calculate the potential energy difference (U_P - U_R).",
@@ -1867,7 +1979,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen017"
+    "question_id": "cbse_xii_leph1dd_c102_gen017",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "A charge is gradually brought from infinity to a point P in an electric field where the work done is proportional to 1/r, with r being the distance from the source charge. If moving the charge from infinity to 1 m requires 120 J of work, what is the work required to bring the charge from infinity to 2 m?",
@@ -1881,7 +1994,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_leph1dd_c102_gen018"
+    "question_id": "cbse_xii_leph1dd_c102_gen018",
+    "section_name": "2.1 INTRODUCTION"
   },
   {
     "question_text": "What is the expression for the potential energy of a charge q located at a point where the external potential is V?",
@@ -1900,7 +2014,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen127"
+    "question_id": "cbse_xii_leph1dd_c102_gen127",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "An electron with charge 1.6 x 10^-19 C is accelerated through a potential difference of 1 V. What is the energy it gains?",
@@ -1919,7 +2034,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen128"
+    "question_id": "cbse_xii_leph1dd_c102_gen128",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "By definition, what is the reference point for zero potential in the context of electrostatics as discussed in the section?",
@@ -1938,7 +2054,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen129"
+    "question_id": "cbse_xii_leph1dd_c102_gen129",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "When a charge is placed in an external electric field, why is its effect on the external sources typically ignored?",
@@ -1957,7 +2074,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen130"
+    "question_id": "cbse_xii_leph1dd_c102_gen130",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Define electrostatic potential energy for a dipole placed in a uniform external electric field.",
@@ -1971,7 +2089,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen131"
+    "question_id": "cbse_xii_leph1dd_c102_gen131",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Explain the meaning of the term qV in the context of bringing a charge from infinity to point P.",
@@ -1985,7 +2104,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen132"
+    "question_id": "cbse_xii_leph1dd_c102_gen132",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Why can the constant term in the potential energy expression for a dipole be dropped without affecting the physics of the system?",
@@ -1999,7 +2119,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen133"
+    "question_id": "cbse_xii_leph1dd_c102_gen133",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Describe the process for calculating the total potential energy of a system consisting of two charges in an external field.",
@@ -2013,7 +2134,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen134"
+    "question_id": "cbse_xii_leph1dd_c102_gen134",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Discuss how the work done by an external torque in rotating a dipole relates to its potential energy in an external field.",
@@ -2027,7 +2149,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen135"
+    "question_id": "cbse_xii_leph1dd_c102_gen135",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Evaluate the importance of choosing a reference point when defining potential energy, particularly taking infinity as the reference in electrostatics.",
@@ -2041,7 +2164,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen136"
+    "question_id": "cbse_xii_leph1dd_c102_gen136",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "True or False: In a uniform external electric field, a dipole experiences a net force that moves its center of mass.",
@@ -2055,7 +2179,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen137"
+    "question_id": "cbse_xii_leph1dd_c102_gen137",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "True or False: The potential energy of a system of two charges in an external field includes contributions from both the external field and the mutual interaction between the charges.",
@@ -2069,7 +2194,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen138"
+    "question_id": "cbse_xii_leph1dd_c102_gen138",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "True or False: The external field used in calculating the potential energy of a charge includes the contribution from the charge itself.",
@@ -2083,7 +2209,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen139"
+    "question_id": "cbse_xii_leph1dd_c102_gen139",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: Calculate the energy acquired by an electron when it is accelerated by a potential difference of 1 V. Show all steps and express your answer in Joules.",
@@ -2097,7 +2224,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen140"
+    "question_id": "cbse_xii_leph1dd_c102_gen140",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: Two charges, q1 = 7 x 10^-3 C and q2 = -2 x 10^-3 C, are placed 18 cm apart in the absence of an external electric field. Calculate the potential energy of the system. Provide your answer in Joules with appropriate units.",
@@ -2111,7 +2239,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen141"
+    "question_id": "cbse_xii_leph1dd_c102_gen141",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: For the same system of charges in the previous problem, determine the work required to separate the two charges to an infinite distance. Explain your reasoning.",
@@ -2125,7 +2254,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen142"
+    "question_id": "cbse_xii_leph1dd_c102_gen142",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: A dipole with a dipole moment of 1.0 x 10^-29 C·m is placed in a uniform electric field of 5000 V/m. Calculate the potential energy of the dipole when it makes an angle of 30° with the field. Provide your answer in Joules.",
@@ -2139,7 +2269,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen143"
+    "question_id": "cbse_xii_leph1dd_c102_gen143",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "Numerical Problem: A mole of molecules, each having a permanent dipole moment of 1.0 x 10^-29 C·m, is 100% polarized in a strong electric field of 1.0 x 10^6 V/m. If the direction of the field is suddenly rotated by 60°, estimate the heat released by the substance. Use Avogadro's number = 6.0 x 10^23 molecules/mol.",
@@ -2153,7 +2284,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "09_section_2_8",
-    "question_id": "cbse_xii_leph1dd_c102_gen144"
+    "question_id": "cbse_xii_leph1dd_c102_gen144",
+    "section_name": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD"
   },
   {
     "question_text": "What is the expression for the potential energy U of a system of two point charges q1 and q2 separated by a distance r12?",
@@ -2172,7 +2304,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen111"
+    "question_id": "cbse_xii_leph1dd_c102_gen111",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Which of the following statements is true about the work done in assembling a configuration of charges from infinity?",
@@ -2191,7 +2324,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen112"
+    "question_id": "cbse_xii_leph1dd_c102_gen112",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "If two like charges are brought from infinity to a finite distance apart, what can be said about the sign of their potential energy?",
@@ -2210,7 +2344,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen113"
+    "question_id": "cbse_xii_leph1dd_c102_gen113",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Considering a system of two charges, if q1 is brought in first from infinity to its position r1, how much work is required for this step?",
@@ -2229,7 +2364,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen114"
+    "question_id": "cbse_xii_leph1dd_c102_gen114",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "For a pair of unlike charges assembled from infinity, why is the potential energy negative?",
@@ -2248,7 +2384,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen115"
+    "question_id": "cbse_xii_leph1dd_c102_gen115",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Define the potential energy of a two-charge system and explain why the work done in assembling such a system is stored as potential energy.",
@@ -2262,7 +2399,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen116"
+    "question_id": "cbse_xii_leph1dd_c102_gen116",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Explain the significance of path independence in the work done to assemble a system of charges.",
@@ -2276,7 +2414,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen117"
+    "question_id": "cbse_xii_leph1dd_c102_gen117",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "In a two-charge system, describe how the work done in bringing the second charge from infinity to its position is calculated. Identify the relationship to the potential produced by the first charge.",
@@ -2290,7 +2429,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen118"
+    "question_id": "cbse_xii_leph1dd_c102_gen118",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Derive the expression for the total electric potential energy of a system consisting of three point charges q1, q2, and q3 located at positions r1, r2, and r3 respectively.",
@@ -2304,7 +2444,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen119"
+    "question_id": "cbse_xii_leph1dd_c102_gen119",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Discuss the property of electrostatic force being conservative and explain its significance in determining the work needed to assemble a configuration of charges.",
@@ -2318,7 +2459,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen120"
+    "question_id": "cbse_xii_leph1dd_c102_gen120",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "True or False: The work required to assemble a system of charges depends on the order in which the charges are brought from infinity to their respective positions.",
@@ -2332,7 +2474,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen121"
+    "question_id": "cbse_xii_leph1dd_c102_gen121",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "True or False: A system of like charges always has negative potential energy.",
@@ -2346,7 +2489,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen122"
+    "question_id": "cbse_xii_leph1dd_c102_gen122",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Calculate the potential energy of a system consisting of two charges: q1 = 2.0 microcoulombs and q2 = -3.0 microcoulombs, which are separated by a distance of 0.50 meters. Use ϵ0 = 8.85 x 10^-12 F/m. Provide your answer in joules with appropriate precision.",
@@ -2360,7 +2504,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen123"
+    "question_id": "cbse_xii_leph1dd_c102_gen123",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Three point charges are aligned along a straight line. q1 = 1.0 microcoulomb is at the origin, q2 = -2.0 microcoulombs is at 0.30 m, and q3 = 3.0 microcoulombs is at 0.50 m. Calculate the total potential energy of the system. Use ϵ0 = 8.85 x 10^-12 F/m and express your answer in joules.",
@@ -2374,7 +2519,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen124"
+    "question_id": "cbse_xii_leph1dd_c102_gen124",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "A square has four charges placed at its corners. Two opposite corners have a charge of +q and the other two have -q. If q = 1.0e-6 C and the side length d = 0.20 m, calculate the total work required to assemble this configuration. Use ϵ0 = 8.85 x 10^-12 F/m and provide your answer in joules.",
@@ -2388,7 +2534,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen125"
+    "question_id": "cbse_xii_leph1dd_c102_gen125",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "For the square arrangement described above, if an additional charge q0 is to be brought to the center of the square, determine the extra work required. Assume that the potentials due to opposite corners cancel out at the center.",
@@ -2402,7 +2549,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "08_section_2_7",
-    "question_id": "cbse_xii_leph1dd_c102_gen126"
+    "question_id": "cbse_xii_leph1dd_c102_gen126",
+    "section_name": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES"
   },
   {
     "question_text": "An electric dipole consists of two charges q and –q separated by a distance of 2a. What is the magnitude of its dipole moment?",
@@ -2421,7 +2569,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen055"
+    "question_id": "cbse_xii_leph1dd_c102_gen055",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "At large distances (r >> a), how does the electric potential due to a dipole vary with distance?",
@@ -2440,7 +2589,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen056"
+    "question_id": "cbse_xii_leph1dd_c102_gen056",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Which of the following best describes the angular dependence of the electric dipole potential?",
@@ -2459,7 +2609,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen057"
+    "question_id": "cbse_xii_leph1dd_c102_gen057",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Using the binomial approximation up to first order in a/r, what is the approximated expression for 1/r1 where r1 is given by r1^2 = r^2 + a^2 - 2ar cosθ?",
@@ -2478,7 +2629,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen058"
+    "question_id": "cbse_xii_leph1dd_c102_gen058",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Which statement correctly contrasts the spatial decay of the electric field due to a single charge with that due to an electric dipole?",
@@ -2497,7 +2649,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen059"
+    "question_id": "cbse_xii_leph1dd_c102_gen059",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Describe the significance of the dipole moment vector's direction in an electric dipole.",
@@ -2511,7 +2664,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen060"
+    "question_id": "cbse_xii_leph1dd_c102_gen060",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "State the condition under which the approximate expression V = (p cosθ)/(4πϵ0 r^2) is valid.",
@@ -2525,7 +2679,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen061"
+    "question_id": "cbse_xii_leph1dd_c102_gen061",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Explain how the binomial approximation is used in deriving the expressions for 1/r1 and 1/r2 for a dipole.",
@@ -2539,7 +2694,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen062"
+    "question_id": "cbse_xii_leph1dd_c102_gen062",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "What does the superposition principle imply when calculating the electric potential of a dipole?",
@@ -2553,7 +2709,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen063"
+    "question_id": "cbse_xii_leph1dd_c102_gen063",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Derive the expression for the electric potential V at a point far away from the center of an electric dipole, starting from the individual potentials due to the charges and using the binomial approximation.",
@@ -2567,7 +2724,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen064"
+    "question_id": "cbse_xii_leph1dd_c102_gen064",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Discuss how the potential of an electric dipole depends on both the magnitude and the direction of its dipole moment relative to the observation point. How does rotating the observation point about the dipole’s axis affect the measured potential?",
@@ -2581,7 +2739,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen065"
+    "question_id": "cbse_xii_leph1dd_c102_gen065",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Compare the spatial decay of the electric potential due to a single charge with that of an electric dipole. What are the practical implications of these differences in fields like molecular interactions or antenna design?",
@@ -2595,7 +2754,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen066"
+    "question_id": "cbse_xii_leph1dd_c102_gen066",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "The electric potential due to an electric dipole is zero in the equatorial plane (where θ = 90°).",
@@ -2609,7 +2769,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen067"
+    "question_id": "cbse_xii_leph1dd_c102_gen067",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "For a point dipole, the expression V = (p cosθ)/(4πϵ0 r^2) is an approximation valid only for r >> a.",
@@ -2623,7 +2784,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen068"
+    "question_id": "cbse_xii_leph1dd_c102_gen068",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "The superposition principle does not apply to the calculation of the electric potential because potential is not a vector quantity.",
@@ -2637,7 +2799,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen069"
+    "question_id": "cbse_xii_leph1dd_c102_gen069",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "A dipole has a dipole moment p = 6.0 × 10^-30 C·m. Calculate the electric potential along its axis (θ = 0) at a distance r = 0.10 m from the center. Use ϵ0 = 8.85 × 10^-12 C^2/(N·m^2).",
@@ -2651,7 +2814,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen070"
+    "question_id": "cbse_xii_leph1dd_c102_gen070",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "For a dipole consisting of charges ±q separated by 2a, the potential along the dipole axis at a distance r = 0.50 m is measured to be 2.0 × 10^-3 V (θ = 0). Determine the magnitude of the dipole moment p. Use ϵ0 = 8.85 × 10^-12 C^2/(N·m^2).",
@@ -2665,7 +2829,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen071"
+    "question_id": "cbse_xii_leph1dd_c102_gen071",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "A dipole has a dipole moment p = 8.0 × 10^-29 C·m, oriented along the positive x-axis. Find the electric potential at a point located at a distance r = 1.0 m from the dipole center and at an angle of 60° from the x-axis. Use ϵ0 = 8.85 × 10^-12 C^2/(N·m^2).",
@@ -2679,7 +2844,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen072"
+    "question_id": "cbse_xii_leph1dd_c102_gen072",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "For a dipole with half-length a = 0.05 m and an observation point at distance r = 2.0 m with an angle θ = 30° (cos30° ≈ 0.866), use the binomial approximation to calculate the fractional difference between 1/r1 and 1/r.",
@@ -2693,7 +2859,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen073"
+    "question_id": "cbse_xii_leph1dd_c102_gen073",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "A dipole is placed in vacuum with a dipole moment p = 1.5 × 10^-28 C·m. Determine the potential at a point located 3.0 m from the dipole center at an angle of 120° (cos120° = -0.5). Use ϵ0 = 8.85 × 10^-12 C^2/(N·m^2).",
@@ -2707,7 +2874,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen074"
+    "question_id": "cbse_xii_leph1dd_c102_gen074",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Which of the following correctly describes the effect of inserting a dielectric between the plates of a parallel plate capacitor?",
@@ -2726,7 +2894,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen223"
+    "question_id": "cbse_xii_leph1dd_c102_gen223",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "What is the expression for the capacitance of a parallel plate capacitor filled with vacuum?",
@@ -2745,7 +2914,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen224"
+    "question_id": "cbse_xii_leph1dd_c102_gen224",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "When a linear dielectric fully occupies the space between capacitor plates, the potential difference becomes V = (sigma - sigma_p)/epsilon0 * d. Given that sigma - sigma_p = sigma/K, what is the modified expression for V?",
@@ -2764,7 +2934,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen225"
+    "question_id": "cbse_xii_leph1dd_c102_gen225",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "The product epsilon0 * K is defined as the permittivity of the medium. What is it denoted by?",
@@ -2783,7 +2954,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen226"
+    "question_id": "cbse_xii_leph1dd_c102_gen226",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "For a linear dielectric, the polarization causes an effective reduction in the free surface charge density so that sigma - sigma_p equals sigma divided by which of the following?",
@@ -2802,7 +2974,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen227"
+    "question_id": "cbse_xii_leph1dd_c102_gen227",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Define the dielectric constant of a substance.",
@@ -2816,7 +2989,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen228"
+    "question_id": "cbse_xii_leph1dd_c102_gen228",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Explain why the dielectric constant (K) is always greater than 1 for all dielectric materials.",
@@ -2830,7 +3004,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen229"
+    "question_id": "cbse_xii_leph1dd_c102_gen229",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "How does the insertion of a dielectric modify the potential difference across a capacitor for a given amount of free charge?",
@@ -2844,7 +3019,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen230"
+    "question_id": "cbse_xii_leph1dd_c102_gen230",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Express the relationship between the capacitance with a dielectric (C) and the capacitance in vacuum (C0).",
@@ -2858,7 +3034,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen231"
+    "question_id": "cbse_xii_leph1dd_c102_gen231",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Discuss quantitatively how inserting a dielectric slab that does not fully occupy the space between the plates, as in Example 2.8, changes the capacitance of a parallel plate capacitor.",
@@ -2872,7 +3049,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen232"
+    "question_id": "cbse_xii_leph1dd_c102_gen232",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Derive the expression for the capacitance of a parallel plate capacitor when a linear dielectric completely fills the gap between the plates.",
@@ -2886,7 +3064,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen233"
+    "question_id": "cbse_xii_leph1dd_c102_gen233",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Analyze how dielectric polarization reduces the effective electric field in a capacitor and explain the subsequent impact on capacitance.",
@@ -2900,7 +3079,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen234"
+    "question_id": "cbse_xii_leph1dd_c102_gen234",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "True or False: For any capacitor, when a dielectric is fully inserted between the plates, the dielectric constant (K) is defined as the ratio of the capacitance with the dielectric to the capacitance with vacuum.",
@@ -2914,7 +3094,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen235"
+    "question_id": "cbse_xii_leph1dd_c102_gen235",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "True or False: The permittivity of a medium, epsilon, is always less than the permittivity of vacuum when a dielectric is introduced.",
@@ -2928,7 +3109,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen236"
+    "question_id": "cbse_xii_leph1dd_c102_gen236",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "A parallel plate capacitor has a plate area of 0.02 m² and a plate separation of 0.005 m. If a dielectric with dielectric constant K = 4 is fully inserted between the plates, calculate the new capacitance. Use epsilon0 = 8.85e-12 F/m.",
@@ -2942,7 +3124,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen237"
+    "question_id": "cbse_xii_leph1dd_c102_gen237",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "A dielectric slab with a dielectric constant K = 5 has a thickness equal to 0.75d, where d is the plate separation in a parallel plate capacitor. Using the method from Example 2.8, determine the factor by which the capacitance increases relative to the vacuum capacitor capacitance C0.",
@@ -2956,7 +3139,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen238"
+    "question_id": "cbse_xii_leph1dd_c102_gen238",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "A capacitor in vacuum has a capacitance C0 of 2 pF. If a dielectric with dielectric constant K = 3 is fully inserted between its plates, what is the new capacitance?",
@@ -2970,7 +3154,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen239"
+    "question_id": "cbse_xii_leph1dd_c102_gen239",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "A vacuum-filled parallel plate capacitor has a potential difference of 100 V and a plate separation of 0.01 m, giving an electric field E0 = 10000 V/m. When a dielectric with K = 2 is inserted fully between the plates, determine the new electric field and resulting potential difference.",
@@ -2984,7 +3169,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen240"
+    "question_id": "cbse_xii_leph1dd_c102_gen240",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Which statement correctly describes the behavior of the electric field inside a conductor under static conditions?",
@@ -3003,7 +3189,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen145"
+    "question_id": "cbse_xii_leph1dd_c102_gen145",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "At the surface of a charged conductor, the electrostatic field must be oriented in which direction?",
@@ -3022,7 +3209,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen146"
+    "question_id": "cbse_xii_leph1dd_c102_gen146",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "According to Gauss's law, where does any excess charge of a conductor reside in static conditions?",
@@ -3041,7 +3229,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen147"
+    "question_id": "cbse_xii_leph1dd_c102_gen147",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "What is the electric field inside a cavity within a conductor that contains no charge, even when external fields are present?",
@@ -3060,7 +3249,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen148"
+    "question_id": "cbse_xii_leph1dd_c102_gen148",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Which of the following equations correctly provides the electric field at the surface of a charged conductor, given the surface charge density sigma and vacuum permittivity epsilon_0?",
@@ -3079,7 +3269,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen149"
+    "question_id": "cbse_xii_leph1dd_c102_gen149",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Explain why the electrostatic potential is constant throughout the volume of a conductor in static equilibrium.",
@@ -3093,7 +3284,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen150"
+    "question_id": "cbse_xii_leph1dd_c102_gen150",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Describe the behavior of free electrons in a metallic conductor when an external electric field is applied.",
@@ -3107,7 +3299,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen151"
+    "question_id": "cbse_xii_leph1dd_c102_gen151",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Why do excess charges reside only on the surface of a conductor in the static situation?",
@@ -3121,7 +3314,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen152"
+    "question_id": "cbse_xii_leph1dd_c102_gen152",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Define electrostatic shielding and explain how it works in a conductor with a cavity.",
@@ -3135,7 +3329,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen153"
+    "question_id": "cbse_xii_leph1dd_c102_gen153",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Discuss the physical reasons why the electric field inside a conductor is zero under static conditions. In your answer, include the role of free electrons and Gauss's law.",
@@ -3149,7 +3344,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen154"
+    "question_id": "cbse_xii_leph1dd_c102_gen154",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Analyze the significance of the fact that the electric field at the surface of a charged conductor is normal to the surface. How does this property affect the behavior of charge carriers on the surface?",
@@ -3163,7 +3359,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen155"
+    "question_id": "cbse_xii_leph1dd_c102_gen155",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Evaluate the role of electrostatic shielding in protecting sensitive instruments. Propose a design that utilizes a metallic conductor to achieve effective shielding.",
@@ -3177,7 +3374,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen156"
+    "question_id": "cbse_xii_leph1dd_c102_gen156",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "True or False: In a static situation, excess charges can reside anywhere inside the conductor.",
@@ -3191,7 +3389,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen157"
+    "question_id": "cbse_xii_leph1dd_c102_gen157",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "True or False: The electric field at the surface of a charged conductor always has a tangential component.",
@@ -3205,7 +3404,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen158"
+    "question_id": "cbse_xii_leph1dd_c102_gen158",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Using the equation E = sigma / epsilon_0, calculate the electric field just outside a charged conductor that has a surface charge density sigma of 5 x 10^-6 C/m². Use epsilon_0 = 8.85 x 10^-12 C^2/(N m^2).",
@@ -3219,7 +3419,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen159"
+    "question_id": "cbse_xii_leph1dd_c102_gen159",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "A spherical conductor of radius 0.1 m carries a total excess charge of 1 x 10^-7 C. Determine the surface charge density and the electric field just outside the surface. Use epsilon_0 = 8.85 x 10^-12 C^2/(N m^2).",
@@ -3233,7 +3434,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen160"
+    "question_id": "cbse_xii_leph1dd_c102_gen160",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Assume a region with a uniform external electric field of 1 x 10^4 N/C. If a charge of 1 x 10^-9 C is moved a distance of 0.05 m in this field, calculate the potential difference the charge experiences. Also, explain why the potential is constant inside a conductor despite the presence of external fields.",
@@ -3247,7 +3449,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen161"
+    "question_id": "cbse_xii_leph1dd_c102_gen161",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "A small pillbox Gaussian surface is used at a point on a conductor's surface with a cross-sectional area of 1 x 10^-4 m². If the electric flux measured through the pillbox is 2 x 10^-6 N m²/C, determine the electric field at the surface and the corresponding surface charge density. Use epsilon_0 = 8.85 x 10^-12 C^2/(N m^2).",
@@ -3261,7 +3464,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen162"
+    "question_id": "cbse_xii_leph1dd_c102_gen162",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Which of the following best defines a dielectric material?",
@@ -3280,7 +3484,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen163"
+    "question_id": "cbse_xii_leph1dd_c102_gen163",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "When a dielectric is placed in an external electric field, the induced dipole moments result in a net field inside the material that:",
@@ -3299,7 +3504,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen164"
+    "question_id": "cbse_xii_leph1dd_c102_gen164",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Which of the following molecules is an example of a polar molecule?",
@@ -3318,7 +3524,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen165"
+    "question_id": "cbse_xii_leph1dd_c102_gen165",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "For a linear isotropic dielectric, the polarization P is expressed as which of the following equations?",
@@ -3337,7 +3544,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen166"
+    "question_id": "cbse_xii_leph1dd_c102_gen166",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "What is the origin of the surface charge densities observed on a polarized dielectric?",
@@ -3356,7 +3564,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen167"
+    "question_id": "cbse_xii_leph1dd_c102_gen167",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Define polarization (P) in a dielectric and state its unit.",
@@ -3370,7 +3579,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen168"
+    "question_id": "cbse_xii_leph1dd_c102_gen168",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Explain the difference in charge movement between a conductor and a dielectric when placed in an external electric field.",
@@ -3384,7 +3594,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen169"
+    "question_id": "cbse_xii_leph1dd_c102_gen169",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Describe the microscopic process by which polar molecules align in an external electric field.",
@@ -3398,7 +3609,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen170"
+    "question_id": "cbse_xii_leph1dd_c102_gen170",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "What happens to non-polar molecules when they are subjected to an external electric field?",
@@ -3412,7 +3624,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen171"
+    "question_id": "cbse_xii_leph1dd_c102_gen171",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Describe in detail how the polarization in a dielectric leads to the creation of surface charge densities. Include a discussion of what happens at the molecular level.",
@@ -3426,7 +3639,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen172"
+    "question_id": "cbse_xii_leph1dd_c102_gen172",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Discuss the differences in polarization mechanisms between polar and non-polar molecules when subjected to an external electric field. Provide examples from common molecules to support your response.",
@@ -3440,7 +3654,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen173"
+    "question_id": "cbse_xii_leph1dd_c102_gen173",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Analyze the role of electric susceptibility (χe) in the polarization of a dielectric. How does this parameter affect the macroscopic behavior of the dielectric material?",
@@ -3454,7 +3669,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen174"
+    "question_id": "cbse_xii_leph1dd_c102_gen174",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "True or False: In a conductor in electrostatic equilibrium, the internal electric field is zero.",
@@ -3468,7 +3684,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen175"
+    "question_id": "cbse_xii_leph1dd_c102_gen175",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "True or False: An external electric field is always completely canceled inside a dielectric material by the induced surface charges.",
@@ -3482,7 +3699,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen176"
+    "question_id": "cbse_xii_leph1dd_c102_gen176",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "True or False: Polar molecules possess a permanent dipole moment even in the absence of an external electric field.",
@@ -3496,7 +3714,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen177"
+    "question_id": "cbse_xii_leph1dd_c102_gen177",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "A rectangular dielectric slab is placed in an external electric field E₀ = 5000 N/C. If the electric susceptibility of the material is χe = 0.2 and the permittivity of free space is ε₀ = 8.85×10⁻¹² F/m, calculate the polarization P of the dielectric.",
@@ -3510,7 +3729,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen178"
+    "question_id": "cbse_xii_leph1dd_c102_gen178",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Consider a dielectric slab of thickness d = 1 cm placed in a uniform external electric field E₀ = 10000 N/C. If the induced surface charge density is measured to be σₚ = 2×10⁻⁸ C/m², estimate the internal field produced by these surface charges using the relation E₍ᵢₙ₎ = σₚ/ε₀, and then determine the net field inside the dielectric.",
@@ -3524,7 +3744,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen179"
+    "question_id": "cbse_xii_leph1dd_c102_gen179",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "A non-polar molecule develops an induced dipole moment that is directly proportional to an external electric field. If the proportionality constant is 1×10⁻³⁰ C·m/(N/C) and the applied field is 8000 N/C, calculate the magnitude of the induced dipole moment.",
@@ -3538,7 +3759,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen180"
+    "question_id": "cbse_xii_leph1dd_c102_gen180",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "A dielectric material with polar molecules exhibits a net dipole moment when placed in an external electric field. If the molecular dipole moments align such that the effective induced polarization is half of what would be expected from perfect alignment, discuss the possible physical factors that could contribute to this partial alignment.",
@@ -3552,7 +3774,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen181"
+    "question_id": "cbse_xii_leph1dd_c102_gen181",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Design an experiment to measure the electric susceptibility (χe) of a given dielectric material using the concept of polarization. Outline the procedure and the key measurements you would need to take.",
@@ -3566,7 +3789,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "11_section_2_10",
-    "question_id": "cbse_xii_leph1dd_c102_gen182"
+    "question_id": "cbse_xii_leph1dd_c102_gen182",
+    "section_name": "2.10 DIELECTRICS AND POLARISATION"
   },
   {
     "question_text": "Which statement best defines an equipotential surface?",
@@ -3585,7 +3809,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen092"
+    "question_id": "cbse_xii_leph1dd_c102_gen092",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "For a single point charge, how are the equipotential surfaces arranged?",
@@ -3604,7 +3829,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen093"
+    "question_id": "cbse_xii_leph1dd_c102_gen093",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Why must the electric field be perpendicular to the equipotential surface?",
@@ -3623,7 +3849,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen094"
+    "question_id": "cbse_xii_leph1dd_c102_gen094",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "In a uniform electric field along the x-axis, what is the orientation of the equipotential surfaces?",
@@ -3642,7 +3869,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen095"
+    "question_id": "cbse_xii_leph1dd_c102_gen095",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "What does the equation |E| = |ΔV|/Δl imply about the direction of the electric field?",
@@ -3661,7 +3889,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen096"
+    "question_id": "cbse_xii_leph1dd_c102_gen096",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Explain why equipotential surfaces are always perpendicular to electric field lines. Provide reasoning based on work and potential concepts.",
@@ -3675,7 +3904,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen097"
+    "question_id": "cbse_xii_leph1dd_c102_gen097",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Describe the equipotential surface pattern you would expect for a dipole configuration.",
@@ -3689,7 +3919,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen098"
+    "question_id": "cbse_xii_leph1dd_c102_gen098",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Write the formula for the electric potential V at a distance r from a point charge q, and briefly explain the significance of each term.",
@@ -3703,7 +3934,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen099"
+    "question_id": "cbse_xii_leph1dd_c102_gen099",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Discuss the alternative visual pictures offered by equipotential surfaces compared to electric field lines. Why might one representation be more useful than the other in certain contexts?",
@@ -3717,7 +3949,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen100"
+    "question_id": "cbse_xii_leph1dd_c102_gen100",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Compare and contrast the equipotential surfaces for a single point charge and two identical positive charges. What changes occur with distance from the charges?",
@@ -3731,7 +3964,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen101"
+    "question_id": "cbse_xii_leph1dd_c102_gen101",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Derive the formula that relates the magnitude of the electric field to the change in electric potential across a small displacement perpendicular to an equipotential surface.",
@@ -3745,7 +3979,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen102"
+    "question_id": "cbse_xii_leph1dd_c102_gen102",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "True or False: Moving a test charge along an equipotential surface requires doing work because the potential difference is nonzero.",
@@ -3759,7 +3994,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen103"
+    "question_id": "cbse_xii_leph1dd_c102_gen103",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "True or False: The electric field can have a tangential component along an equipotential surface.",
@@ -3773,7 +4009,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen104"
+    "question_id": "cbse_xii_leph1dd_c102_gen104",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "True or False: In a uniform electric field, the equipotential surfaces are parallel planes.",
@@ -3787,7 +4024,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen105"
+    "question_id": "cbse_xii_leph1dd_c102_gen105",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "A unit positive charge is moved perpendicularly between two equipotential surfaces where the potential difference is 10 V over a distance of 2 mm. Calculate the magnitude of the electric field between the surfaces.",
@@ -3801,7 +4039,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen106"
+    "question_id": "cbse_xii_leph1dd_c102_gen106",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "A point charge of 1×10^-6 C produces a potential of 9000 V at a certain point. Find the distance of this point from the charge. (Assume 1/(4πε₀) = 9×10^9 N·m²/C²)",
@@ -3815,7 +4054,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen107"
+    "question_id": "cbse_xii_leph1dd_c102_gen107",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "In a uniform electric field directed along the x-axis, the potential difference between two points separated by 2 mm is measured to be 4 V. Calculate the magnitude of the electric field and state its direction relative to increasing potential.",
@@ -3829,7 +4069,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen108"
+    "question_id": "cbse_xii_leph1dd_c102_gen108",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "For a point charge of 2×10^-6 C, calculate the potential at a point 10 cm away from the charge. Use 1/(4πε₀) = 9×10^9 N·m²/C².",
@@ -3843,7 +4084,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen109"
+    "question_id": "cbse_xii_leph1dd_c102_gen109",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Two identical positive point charges are separated by 20 cm. Describe qualitatively how the equipotential surfaces transform from being nearly spherical near each individual charge to a merged surface farther away.",
@@ -3857,7 +4099,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen110"
+    "question_id": "cbse_xii_leph1dd_c102_gen110",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Which capacitor combination ensures that the same charge appears on each capacitor?",
@@ -3876,7 +4119,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen241"
+    "question_id": "cbse_xii_leph1dd_c102_gen241",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "What is the formula for the effective capacitance (C) when n capacitors are connected in series?",
@@ -3895,7 +4139,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen242"
+    "question_id": "cbse_xii_leph1dd_c102_gen242",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "In a parallel combination of capacitors, which one of the following remains the same across all capacitors?",
@@ -3914,7 +4159,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen243"
+    "question_id": "cbse_xii_leph1dd_c102_gen243",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "When two capacitors with different capacitances are connected in series, how does the voltage drop distribute across them?",
@@ -3933,7 +4179,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen244"
+    "question_id": "cbse_xii_leph1dd_c102_gen244",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "In the network example provided with four 10 μF capacitors connected to a 500 V supply, what is the equivalent capacitance of the network?",
@@ -3952,7 +4199,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen245"
+    "question_id": "cbse_xii_leph1dd_c102_gen245",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Define effective capacitance for capacitors connected in series.",
@@ -3966,7 +4214,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen246"
+    "question_id": "cbse_xii_leph1dd_c102_gen246",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Explain why the charges on capacitors connected in series are identical.",
@@ -3980,7 +4229,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen247"
+    "question_id": "cbse_xii_leph1dd_c102_gen247",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Write the formula for the effective capacitance of capacitors connected in parallel.",
@@ -3994,7 +4244,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen248"
+    "question_id": "cbse_xii_leph1dd_c102_gen248",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Describe how the potential differences add up in a series combination of capacitors.",
@@ -4008,7 +4259,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen249"
+    "question_id": "cbse_xii_leph1dd_c102_gen249",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Analyze the process by which charges redistribute in a series combination of capacitors when connected to a battery. Discuss why the net charge on each capacitor becomes zero.",
@@ -4022,7 +4274,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen250"
+    "question_id": "cbse_xii_leph1dd_c102_gen250",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Discuss the advantages and limitations of combining capacitors in parallel, especially regarding effective capacitance and charge distribution.",
@@ -4036,7 +4289,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen251"
+    "question_id": "cbse_xii_leph1dd_c102_gen251",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "True or False: In a parallel capacitor configuration, all capacitors experience the same potential difference.",
@@ -4050,7 +4304,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen252"
+    "question_id": "cbse_xii_leph1dd_c102_gen252",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "True or False: For capacitors in series, the total charge on the combination is the sum of the charges on each capacitor.",
@@ -4064,7 +4319,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen253"
+    "question_id": "cbse_xii_leph1dd_c102_gen253",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "True or False: The equivalent capacitance of capacitors in series is always less than the smallest individual capacitor in the series.",
@@ -4078,7 +4334,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen254"
+    "question_id": "cbse_xii_leph1dd_c102_gen254",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Calculate the effective capacitance of three capacitors connected in series with capacitances of 5 μF, 10 μF, and 15 μF. Provide the answer in μF to two decimal places.",
@@ -4092,7 +4349,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen255"
+    "question_id": "cbse_xii_leph1dd_c102_gen255",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Find the effective capacitance of two capacitors connected in parallel with capacitances of 8 μF and 12 μF.",
@@ -4106,7 +4364,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen256"
+    "question_id": "cbse_xii_leph1dd_c102_gen256",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "A capacitor network consists of two 20 μF capacitors connected in series, and this series combination is then connected in parallel with a 30 μF capacitor. Calculate the equivalent capacitance of the entire network.",
@@ -4120,7 +4379,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen257"
+    "question_id": "cbse_xii_leph1dd_c102_gen257",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "For a series combination of four capacitors with capacitances of 4 μF, 6 μF, 8 μF, and 12 μF connected to a 240 V supply, calculate the voltage drop across the 12 μF capacitor. Give your answer in volts.",
@@ -4134,7 +4394,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen258"
+    "question_id": "cbse_xii_leph1dd_c102_gen258",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Using the example network with three 10 μF capacitors in series (forming an effective capacitance of 10/3 μF) connected in parallel with another 10 μF capacitor and a 500 V supply, verify the equivalent capacitance and calculate the charge on each capacitor. Provide your answers with appropriate units.",
@@ -4148,7 +4409,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen259"
+    "question_id": "cbse_xii_leph1dd_c102_gen259",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Which of the following is the correct expression for the electric potential V due to a point charge q at a distance r?",
@@ -4167,7 +4429,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen075"
+    "question_id": "cbse_xii_leph1dd_c102_gen075",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "The principle used to calculate the total potential at a point due to multiple charges is known as:",
@@ -4186,7 +4449,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen076"
+    "question_id": "cbse_xii_leph1dd_c102_gen076",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "For a uniformly charged spherical shell, what is the potential inside the shell?",
@@ -4205,7 +4469,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen077"
+    "question_id": "cbse_xii_leph1dd_c102_gen077",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Which of the following statements is correct regarding equipotential surfaces around a positive point charge?",
@@ -4224,7 +4489,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen078"
+    "question_id": "cbse_xii_leph1dd_c102_gen078",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Define the electric potential due to a continuous charge distribution. Explain briefly.",
@@ -4238,7 +4504,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen079"
+    "question_id": "cbse_xii_leph1dd_c102_gen079",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Explain the significance of choosing infinity as the reference point for electric potential.",
@@ -4252,7 +4519,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen080"
+    "question_id": "cbse_xii_leph1dd_c102_gen080",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Why is the potential constant inside a uniformly charged spherical shell?",
@@ -4266,7 +4534,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen081"
+    "question_id": "cbse_xii_leph1dd_c102_gen081",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Derive the expression for the net electric potential at a point P due to n point charges and explain how the superposition principle applies in this context.",
@@ -4280,7 +4549,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen082"
+    "question_id": "cbse_xii_leph1dd_c102_gen082",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Discuss how the concept of potential difference influences the work done by the electric field on positive and negative charges. Include examples to support your explanation.",
@@ -4294,7 +4564,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen083"
+    "question_id": "cbse_xii_leph1dd_c102_gen083",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "True or False: The electric potential is a scalar quantity.",
@@ -4308,7 +4579,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen084"
+    "question_id": "cbse_xii_leph1dd_c102_gen084",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "True or False: Inside a uniformly charged spherical shell, even though the electric field is zero, the electric potential varies with position.",
@@ -4322,7 +4594,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen085"
+    "question_id": "cbse_xii_leph1dd_c102_gen085",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Two charges, 3 x 10⁻⁸ C and -2 x 10⁻⁸ C, are located 15 cm apart along the x-axis. Find the point(s) where the electric potential is zero, taking infinity as the reference potential.",
@@ -4336,7 +4609,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen086"
+    "question_id": "cbse_xii_leph1dd_c102_gen086",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Calculate the potential at a point 25 cm from the center of a uniformly charged spherical shell of radius 10 cm carrying a total charge of 5 x 10⁻⁸ C. Assume the point is outside the shell.",
@@ -4350,7 +4624,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen087"
+    "question_id": "cbse_xii_leph1dd_c102_gen087",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "For a continuous charge distribution with constant density 2 x 10⁻⁶ C/m³ in a volume of 0.01 m³, calculate the potential at a point P located 0.5 m away from the center of the volume, assuming the entire charge can be approximated as concentrated at the center.",
@@ -4364,7 +4639,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen088"
+    "question_id": "cbse_xii_leph1dd_c102_gen088",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "A positive test charge of 1 x 10⁻⁶ C is moved from a point at potential 50 V to a point at potential -20 V. Calculate the work done by the external force.",
@@ -4378,7 +4654,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen089"
+    "question_id": "cbse_xii_leph1dd_c102_gen089",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Calculate the potential difference between two points located at distances 0.2 m and 0.5 m from a point charge of 4 x 10⁻⁹ C.",
@@ -4392,7 +4669,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen090"
+    "question_id": "cbse_xii_leph1dd_c102_gen090",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "A small negative charge is moved from point B at potential -10 V to point A at potential -2 V. If an external agency does 1 x 10⁻⁶ J of work to move the charge, determine the magnitude of the charge.",
@@ -4406,6 +4684,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen091"
+    "question_id": "cbse_xii_leph1dd_c102_gen091",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   }
 ]

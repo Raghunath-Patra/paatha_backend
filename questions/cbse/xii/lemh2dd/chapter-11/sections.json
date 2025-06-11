@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "11.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "11.2 Direction Cosines and Direction Ratios of a Line"
+    },
+    {
+      "number": 3,
+      "name": "11.3 Equation of a Line in Space"
+    },
+    {
+      "number": 4,
+      "name": "11.4 Angle between Two Lines"
+    },
+    {
+      "number": 5,
+      "name": "11.5 Shortest Distance between Two Lines"
+    }
+  ]
+}

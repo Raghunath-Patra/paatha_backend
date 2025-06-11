@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen028"
+    "question_id": "cbse_xi_kemh1dd_c111_gen028",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "A point lies on the x-axis in the 3D coordinate system. Which of the following correctly represents its coordinates?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen029"
+    "question_id": "cbse_xi_kemh1dd_c111_gen029",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "If a point P in space has coordinates (-3, 1, 2), in which octant does it lie based on the sign convention provided?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen030"
+    "question_id": "cbse_xi_kemh1dd_c111_gen030",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "For a point P(x, y, z) in space, what is the coordinate representation of its projection on the XY-plane?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen031"
+    "question_id": "cbse_xi_kemh1dd_c111_gen031",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "Define the term 'Cartesian coordinates in 3D space'.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen032"
+    "question_id": "cbse_xi_kemh1dd_c111_gen032",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "Explain how the coordinates (x, y, z) of a point P in space are determined using perpendiculars to coordinate planes.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen033"
+    "question_id": "cbse_xi_kemh1dd_c111_gen033",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "Discuss the role of sign conventions in determining the octant in which a point lies. Provide a brief explanation using the coordinate signs.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen034"
+    "question_id": "cbse_xi_kemh1dd_c111_gen034",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "Prove that there is a one-to-one correspondence between points in 3D space and the ordered triplets (x, y, z) of real numbers.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen035"
+    "question_id": "cbse_xi_kemh1dd_c111_gen035",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "Using the method of constructing three planes through a point parallel to the coordinate planes, derive how the coordinates (x, y, z) of a point P are obtained.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen036"
+    "question_id": "cbse_xi_kemh1dd_c111_gen036",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "Given the point P(2, 4, 5) in space, find the coordinates of its projection F on the plane where the distance along the y-axis is zero.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen037"
+    "question_id": "cbse_xi_kemh1dd_c111_gen037",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "For a point P in space with coordinates (7, -5, 3), determine its octant and explain the reasoning based on the sign of its coordinates.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen038"
+    "question_id": "cbse_xi_kemh1dd_c111_gen038",
+    "section_name": "11.3 Coordinates of a Point in Space"
   },
   {
     "question_text": "A point Q(x, y, z) is located such that its distances from the YZ-plane and ZX-plane are 5 units and 3 units respectively, and its x-coordinate is 4. Determine the coordinates of Q.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "04_section_11_3",
-    "question_id": "cbse_xi_kemh1dd_c111_gen039"
+    "question_id": "cbse_xi_kemh1dd_c111_gen039",
+    "section_name": "11.3 Coordinates of a Point in Space"
   }
 ]

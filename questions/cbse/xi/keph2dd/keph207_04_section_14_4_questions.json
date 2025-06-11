@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen053"
+    "question_id": "cbse_xi_keph2dd_c207_gen053",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "In the context of a transverse wave on a stretched string, which property does NOT affect the wave speed?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen054"
+    "question_id": "cbse_xi_keph2dd_c207_gen054",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Figure 14.8 shows a wave pattern at times t and t + Δt. What does the horizontal shift Δx represent in this figure?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen055"
+    "question_id": "cbse_xi_keph2dd_c207_gen055",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Newton’s formula for the speed of sound in a medium assumes isothermal conditions. What correction did Laplace introduce to account for the actual rapid variations in sound waves?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen056"
+    "question_id": "cbse_xi_keph2dd_c207_gen056",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Which of the following expressions correctly provides the speed of longitudinal waves in a solid bar using Young's modulus?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen057"
+    "question_id": "cbse_xi_keph2dd_c207_gen057",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Explain why a fixed phase point on a traveling wave moves with constant speed regardless of its phase.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen058"
+    "question_id": "cbse_xi_keph2dd_c207_gen058",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Describe the dependence of the speed of a transverse wave on a string in terms of the string’s tension and linear mass density.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen059"
+    "question_id": "cbse_xi_keph2dd_c207_gen059",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "What role does the bulk modulus play in determining the speed of longitudinal waves in a medium?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen060"
+    "question_id": "cbse_xi_keph2dd_c207_gen060",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Derive the formula for the speed of a traveling wave, v = ω/k, starting from the condition of constant phase.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen061"
+    "question_id": "cbse_xi_keph2dd_c207_gen061",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Discuss the Laplace correction to Newton's formula for the speed of sound in an ideal gas. In your discussion, explain how the assumption of adiabatic instead of isothermal processes affects the calculated speed of sound.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen062"
+    "question_id": "cbse_xi_keph2dd_c207_gen062",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "True or False: The speed of a transverse wave on a stretched string depends on its frequency.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen063"
+    "question_id": "cbse_xi_keph2dd_c207_gen063",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "True or False: In an adiabatic process for the propagation of sound in a gas, the bulk modulus is equal to γ times the pressure.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen064"
+    "question_id": "cbse_xi_keph2dd_c207_gen064",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "A string 2.0 m long has a mass of 0.05 kg and is under a tension of 80 N. Calculate the speed of transverse waves on this string.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen065"
+    "question_id": "cbse_xi_keph2dd_c207_gen065",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "A steel wire 0.72 m long has a mass of 5.0×10^(-3) kg and is under a tension of 60 N. Determine the speed of transverse waves along the wire.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen066"
+    "question_id": "cbse_xi_keph2dd_c207_gen066",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Using Newton's formula with the Laplace correction, calculate the speed of sound in air at STP given that the atmospheric pressure is 1.01×10^5 N/m², the density is 1.29 kg/m³, and γ = 1.4.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen067"
+    "question_id": "cbse_xi_keph2dd_c207_gen067",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "An ideal gas at STP occupies a volume of 22.4×10^(-3) m³ per mole with a molar mass of 29.0×10^(-3) kg. Using Newton's formula without Laplace correction, calculate the speed of sound. Then, explain why this result is lower than the experimental value.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen068"
+    "question_id": "cbse_xi_keph2dd_c207_gen068",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   }
 ]

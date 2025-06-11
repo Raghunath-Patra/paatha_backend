@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "2.1 THE MALE REPRODUCTIVE SYSTEM"
+    },
+    {
+      "number": 2,
+      "name": "2.2 THE FEMALE REPRODUCTIVE SYSTEM"
+    },
+    {
+      "number": 3,
+      "name": "2.3 GAMETOGENESIS"
+    },
+    {
+      "number": 4,
+      "name": "2.4 MENSTRUAL CYCLE"
+    },
+    {
+      "number": 5,
+      "name": "2.5 FERTILISATION AND IMPLANTATION"
+    },
+    {
+      "number": 6,
+      "name": "2.6 PREGNANCY AND EMBRYONIC DEVELOPMENT"
+    },
+    {
+      "number": 7,
+      "name": "2.7 PARTURITION AND LACTATION"
+    }
+  ]
+}

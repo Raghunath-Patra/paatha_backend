@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen030"
+    "question_id": "cbse_viii_hemh1dd_c105_gen030",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Between n² and (n + 1)², the total number of natural numbers (excluding the squares) is given by which formula?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen031"
+    "question_id": "cbse_viii_hemh1dd_c105_gen031",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "What is the sum of the first 4 odd natural numbers?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen032"
+    "question_id": "cbse_viii_hemh1dd_c105_gen032",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Which identity correctly represents the product of two consecutive odd numbers, for example, 11 × 13?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen033"
+    "question_id": "cbse_viii_hemh1dd_c105_gen033",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Define triangular numbers and briefly explain how combining two consecutive triangular numbers forms a square number.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen034"
+    "question_id": "cbse_viii_hemh1dd_c105_gen034",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Explain why there are 2n non-square numbers between n² and (n+1)².",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen035"
+    "question_id": "cbse_viii_hemh1dd_c105_gen035",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Why does the property hold that a natural number expressed as the sum of successive odd natural numbers starting from 1 is always a perfect square? Support your answer with reasoning.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen036"
+    "question_id": "cbse_viii_hemh1dd_c105_gen036",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Describe the observed pattern when squaring numbers composed entirely of the digit 1 (like 1, 11, 111, etc.).",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen037"
+    "question_id": "cbse_viii_hemh1dd_c105_gen037",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Prove by mathematical induction that the sum of the first n odd natural numbers is n².",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen038"
+    "question_id": "cbse_viii_hemh1dd_c105_gen038",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Derive the formula for the number of non-square numbers between n² and (n+1)² and discuss its significance.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen039"
+    "question_id": "cbse_viii_hemh1dd_c105_gen039",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Prove that the square of any odd number can be expressed as the sum of two consecutive integers, specifically as ((n²-1)/2) and ((n²+1)/2).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen040"
+    "question_id": "cbse_viii_hemh1dd_c105_gen040",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Determine the number of natural numbers lying strictly between 9² and 10², and between 11² and 12².",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen041"
+    "question_id": "cbse_viii_hemh1dd_c105_gen041",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Calculate the number of non-square numbers between 100² and 101².",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen042"
+    "question_id": "cbse_viii_hemh1dd_c105_gen042",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Find the sum of the first 7 odd natural numbers and verify that it equals 7².",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen043"
+    "question_id": "cbse_viii_hemh1dd_c105_gen043",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Express 19² as the sum of two consecutive integers.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen044"
+    "question_id": "cbse_viii_hemh1dd_c105_gen044",
+    "section_name": "5.3 Some More Interesting Patterns"
   }
 ]

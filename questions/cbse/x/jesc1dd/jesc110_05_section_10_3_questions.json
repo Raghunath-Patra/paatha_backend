@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen028"
+    "question_id": "cbse_x_jesc1dd_c110_gen028",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "Which factors determine the angle of deviation of a light ray passing through a triangular glass prism?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen029"
+    "question_id": "cbse_x_jesc1dd_c110_gen029",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "The emergent ray in a triangular glass prism deviates in which direction relative to the prism?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen030"
+    "question_id": "cbse_x_jesc1dd_c110_gen030",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "In a triangular prism, the emergent ray is not parallel to the incident ray because:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen031"
+    "question_id": "cbse_x_jesc1dd_c110_gen031",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "Define the term 'angle of deviation' in the context of light refraction through a prism.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen032"
+    "question_id": "cbse_x_jesc1dd_c110_gen032",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "Explain why the light ray bends toward the normal at the first surface of the prism but away from the normal at the second surface.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen033"
+    "question_id": "cbse_x_jesc1dd_c110_gen033",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "What does lateral displacement mean in the context of light passing through a glass slab, and how is it different from the deviation observed in a prism?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen034"
+    "question_id": "cbse_x_jesc1dd_c110_gen034",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "Describe the experimental setup used to study the refraction of light through a triangular glass prism.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen035"
+    "question_id": "cbse_x_jesc1dd_c110_gen035",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "Compare and contrast the path of a light ray through a glass slab and a triangular prism, emphasizing the roles of the refracting surfaces.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen036"
+    "question_id": "cbse_x_jesc1dd_c110_gen036",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "Discuss the significance of drawing normals at the points of incidence (E) and emergence (F) when studying the refraction of light through a prism.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen037"
+    "question_id": "cbse_x_jesc1dd_c110_gen037",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "True or False: In a triangular glass prism, the emergent ray is parallel to the incident ray just as it is in a glass slab.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen038"
+    "question_id": "cbse_x_jesc1dd_c110_gen038",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   },
   {
     "question_text": "True or False: The bending of light in a prism is solely due to the change in the speed of light when it passes from air into glass, with no influence from the prism's shape. If false, provide the correction.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "jesc110",
     "section_id": "05_section_10_3",
-    "question_id": "cbse_x_jesc1dd_c110_gen039"
+    "question_id": "cbse_x_jesc1dd_c110_gen039",
+    "section_name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
   }
 ]

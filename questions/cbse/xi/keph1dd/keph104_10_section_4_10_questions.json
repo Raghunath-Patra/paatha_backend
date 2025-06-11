@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen307"
+    "question_id": "cbse_xi_keph1dd_c104_gen307",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "On a flat (level) road, which of the following forces provides the necessary centripetal force for a car taking a circular turn?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen308"
+    "question_id": "cbse_xi_keph1dd_c104_gen308",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "For a car on a banked road at an angle θ, the optimum speed v₀, at which no friction is required, is given by which of the following formulas?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen309"
+    "question_id": "cbse_xi_keph1dd_c104_gen309",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "In the formula for maximum speed on a flat road, v² ≤ µₛ Rg, which parameter is notably independent of the car's mass?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen310"
+    "question_id": "cbse_xi_keph1dd_c104_gen310",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "Explain why on a banked road at the optimum speed, no frictional force is required to provide the necessary centripetal force.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen311"
+    "question_id": "cbse_xi_keph1dd_c104_gen311",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "Derive the condition v² = µₛ Rg for a car negotiating a circular turn on a level road using the concepts of centripetal force and friction.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen312"
+    "question_id": "cbse_xi_keph1dd_c104_gen312",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "What is the significance of the maximum permissible speed equation for a car on a banked road in terms of safety and tire wear?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen313"
+    "question_id": "cbse_xi_keph1dd_c104_gen313",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "Discuss in detail the forces acting on a car on a banked road when negotiating a circular turn. Derive the expression for the maximum permissible speed (v_max) including the contribution of friction.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen314"
+    "question_id": "cbse_xi_keph1dd_c104_gen314",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "Compare and contrast the roles of friction in providing centripetal force for a car on a level road versus a banked road.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen315"
+    "question_id": "cbse_xi_keph1dd_c104_gen315",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "Evaluate the advantages of using banked racetracks for high-speed races in terms of centripetal force distribution and tire wear. Include a discussion and derivation of the optimum speed expression.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen316"
+    "question_id": "cbse_xi_keph1dd_c104_gen316",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: The centripetal force that keeps a planet in orbit around the Sun is provided by the static friction between the planet and the Sun.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen317"
+    "question_id": "cbse_xi_keph1dd_c104_gen317",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: For a car on a banked road, if the speed is less than the optimum speed, the frictional force acts up the slope.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen318"
+    "question_id": "cbse_xi_keph1dd_c104_gen318",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "A cyclist is taking a circular turn on a level road with a radius of 3 m at a constant speed of 5 m/s. The coefficient of static friction between the tyres and the road is 0.1 and g is 9.8 m/s². Determine whether the cyclist will slip, showing all steps.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen319"
+    "question_id": "cbse_xi_keph1dd_c104_gen319",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "A car is negotiating a circular turn of radius 50 m on a level road. If the coefficient of static friction is 0.4 and g is 9.8 m/s², calculate the maximum speed the car can have without slipping. Show your calculations.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen320"
+    "question_id": "cbse_xi_keph1dd_c104_gen320",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "A car is moving on a banked road of radius 200 m with a bank angle of 20° and a coefficient of static friction of 0.3. With g = 9.8 m/s², calculate (a) the optimum speed v₀ at which no friction is required, and (b) the maximum permissible speed v_max to avoid slipping. Provide detailed steps.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen321"
+    "question_id": "cbse_xi_keph1dd_c104_gen321",
+    "section_name": "4.10 CIRCULAR MOTION"
   },
   {
     "question_text": "A racetrack has a circular curve of radius 300 m banked at an angle of 15° with a coefficient of static friction between the tires and the road of 0.2. Calculate the optimum speed v₀ where no friction is needed and confirm the maximum permissible speed v_max. Provide a complete solution.",
@@ -241,6 +256,7 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xi_keph1dd_c104_gen322"
+    "question_id": "cbse_xi_keph1dd_c104_gen322",
+    "section_name": "4.10 CIRCULAR MOTION"
   }
 ]

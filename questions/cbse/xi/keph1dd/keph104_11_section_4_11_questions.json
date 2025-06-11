@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen362"
+    "question_id": "cbse_xi_keph1dd_c104_gen362",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "According to Newton's third law, if object A exerts a force F on object B, what must be true about the force exerted by object B on object A?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen363"
+    "question_id": "cbse_xi_keph1dd_c104_gen363",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "When constructing a free-body diagram for a chosen system, which of the following forces should NOT be included?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen364"
+    "question_id": "cbse_xi_keph1dd_c104_gen364",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "In Example 4.12(a), a wooden block of mass 2 kg is at rest on a floor. What is the action of the block on the floor?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen365"
+    "question_id": "cbse_xi_keph1dd_c104_gen365",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "List the systematic steps recommended for solving problems in mechanics as described in the section.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen366"
+    "question_id": "cbse_xi_keph1dd_c104_gen366",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Explain why internal forces are not shown in a free-body diagram of a system.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen367"
+    "question_id": "cbse_xi_keph1dd_c104_gen367",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "What is the role of Newton's third law when changing the system of interest in mechanics problems?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen368"
+    "question_id": "cbse_xi_keph1dd_c104_gen368",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Discuss the importance of drawing free-body diagrams when solving complex mechanics problems. Use the example of the wooden block and iron cylinder as context.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen369"
+    "question_id": "cbse_xi_keph1dd_c104_gen369",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Analyze the role of Newton's third law in establishing action-reaction pairs in the context of a block and cylinder system. Discuss any common misconceptions about these pairs that might arise in problem solving.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen370"
+    "question_id": "cbse_xi_keph1dd_c104_gen370",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "True or False: In a free-body diagram, forces exerted by the environment on the system include the forces that the system exerts on the environment.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen371"
+    "question_id": "cbse_xi_keph1dd_c104_gen371",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "True or False: The normal force is always equal in magnitude to the gravitational force acting on an object, regardless of the system’s acceleration.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen372"
+    "question_id": "cbse_xi_keph1dd_c104_gen372",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "A wooden block of mass 2 kg is at rest on a level floor. Determine the normal force exerted by the floor on the block and the magnitude of the force the block exerts on the floor.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen373"
+    "question_id": "cbse_xi_keph1dd_c104_gen373",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "A 25 kg iron cylinder is placed on top of a 2 kg wooden block. When the floor yields, the combined system accelerates downward at 0.1 m/s². Calculate the normal force exerted by the floor on the system and the corresponding action of the system on the floor.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen374"
+    "question_id": "cbse_xi_keph1dd_c104_gen374",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "A system is subjected to an additional external 50 N force while other forces remain unchanged. Describe the steps you would take, using a free-body diagram, to determine the system's net acceleration.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen375"
+    "question_id": "cbse_xi_keph1dd_c104_gen375",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "In a free-body diagram of a system, the gravitational force is 270 N downward and the reaction force from the floor is 267.3 N upward. Calculate the net force acting on the system and the resulting acceleration. Assume the total mass of the system is 27 kg.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "11_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen376"
+    "question_id": "cbse_xi_keph1dd_c104_gen376",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   }
 ]

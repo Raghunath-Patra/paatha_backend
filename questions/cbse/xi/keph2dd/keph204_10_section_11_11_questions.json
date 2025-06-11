@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen240"
+    "question_id": "cbse_xi_keph2dd_c204_gen240",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "In the Carnot cycle, which of the following processes involves no heat exchange with the surroundings?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen241"
+    "question_id": "cbse_xi_keph2dd_c204_gen241",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "Which universal relation between the heat absorbed and heat expelled holds in a Carnot cycle?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen242"
+    "question_id": "cbse_xi_keph2dd_c204_gen242",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "Which statement below correctly describes the dependence of Carnot engine efficiency?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen243"
+    "question_id": "cbse_xi_keph2dd_c204_gen243",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "In the Carnot cycle, which process is responsible for changing the system's temperature?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen244"
+    "question_id": "cbse_xi_keph2dd_c204_gen244",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "Define a reversible process in the context of thermodynamics.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen245"
+    "question_id": "cbse_xi_keph2dd_c204_gen245",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "Why must the heat absorption and release in a Carnot engine occur isothermally?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen246"
+    "question_id": "cbse_xi_keph2dd_c204_gen246",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "Write the expression for the work done by the gas during the isothermal expansion (step 1 → 2) in a Carnot cycle.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen247"
+    "question_id": "cbse_xi_keph2dd_c204_gen247",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "Explain in detail the Carnot cycle and its significance in thermodynamics, describing each process in the cycle and why each is performed in a reversible manner.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen248"
+    "question_id": "cbse_xi_keph2dd_c204_gen248",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "Discuss Carnot's theorem and its implications for heat engine design. Why is it impossible for any engine working between two heat reservoirs to have an efficiency greater than that of a Carnot engine?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen249"
+    "question_id": "cbse_xi_keph2dd_c204_gen249",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "A reversible Carnot engine can operate as a reversible refrigerator if its cycle is reversed. True or False?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen250"
+    "question_id": "cbse_xi_keph2dd_c204_gen250",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "For a process to be reversible, there must be a finite temperature difference between the system and the reservoir. True or False?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen251"
+    "question_id": "cbse_xi_keph2dd_c204_gen251",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "An ideal Carnot engine operates between two reservoirs with temperatures T₁ = 500 K and T₂ = 300 K. If the engine absorbs 2000 J of heat from the hot reservoir, calculate (a) the work done by the engine and (b) the heat rejected to the cold reservoir.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen252"
+    "question_id": "cbse_xi_keph2dd_c204_gen252",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "For an ideal gas undergoing isothermal expansion in a Carnot cycle at T₁ = 400 K, if the volume expands from 1.0 L to 2.0 L and μR is 8.314 J/K, calculate the work done by the gas during this expansion. (Assume volumes are in liters, convert if necessary.)",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen253"
+    "question_id": "cbse_xi_keph2dd_c204_gen253",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "During the adiabatic expansion step of a Carnot cycle, an ideal gas with μR = 8.314 J/K expands from T₁ = 500 K to T₂ = 300 K with γ = 1.4. Calculate the work done by the gas in this adiabatic process.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen254"
+    "question_id": "cbse_xi_keph2dd_c204_gen254",
+    "section_name": "11.11 CARNOT ENGINE"
   },
   {
     "question_text": "For a Carnot cycle using an ideal gas, if the ratio V₂/V₁ during isothermal expansion is 2 and the cycle operates with temperatures T₁ = 600 K and T₂ = 400 K, determine the ratio V₃/V₄ during the isothermal compression process.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "10_section_11_11",
-    "question_id": "cbse_xi_keph2dd_c204_gen255"
+    "question_id": "cbse_xi_keph2dd_c204_gen255",
+    "section_name": "11.11 CARNOT ENGINE"
   }
 ]

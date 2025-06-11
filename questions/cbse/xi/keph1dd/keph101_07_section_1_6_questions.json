@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen197"
+    "question_id": "cbse_xi_keph1dd_c101_gen197",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Which of the following quantities is dimensionless?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen198"
+    "question_id": "cbse_xi_keph1dd_c101_gen198",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Which of the following equations is dimensionally consistent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen199"
+    "question_id": "cbse_xi_keph1dd_c101_gen199",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Consider the following formulae for kinetic energy (K): (a) K = m^2 * v^3, (b) K = (1/2) * m * v^2, (c) K = m * a, (d) K = (3/16) * m * v^2, (e) K = (1/2) * m * v^2 + m * a. Which one of these formulae is dimensionally correct?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen200"
+    "question_id": "cbse_xi_keph1dd_c101_gen200",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "In the expression for the period (T) of a simple pendulum deduced by dimensional analysis, T is proportional to l^(x) and g^(y). What is the value of the exponent x for the pendulum length (l)?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen201"
+    "question_id": "cbse_xi_keph1dd_c101_gen201",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Explain the principle of homogeneity of dimensions and its significance in deriving physical equations.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen202"
+    "question_id": "cbse_xi_keph1dd_c101_gen202",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Verify the dimensional consistency of the equation x = x0 + v0 * t + (1/2) * a * t^2 by expressing the dimensions of each term.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen203"
+    "question_id": "cbse_xi_keph1dd_c101_gen203",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Why is it not possible to determine dimensionless numerical constants, such as 2π in the formula for the period of a pendulum, using dimensional analysis alone?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen204"
+    "question_id": "cbse_xi_keph1dd_c101_gen204",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Using dimensional analysis, if a physical quantity Q is assumed to depend on a length l and gravitational acceleration g such that Q = k * l^x * g^y and Q has the dimension of time [T], derive the values of the exponents x and y.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen205"
+    "question_id": "cbse_xi_keph1dd_c101_gen205",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Describe in detail how the method of dimensional analysis can be used to deduce the time period of a simple pendulum. Include a step-by-step explanation of the process.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen206"
+    "question_id": "cbse_xi_keph1dd_c101_gen206",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Critically evaluate the limitations of dimensional analysis in developing physical laws. Discuss scenarios where dimensional analysis might fail to provide complete information about a physical system.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen207"
+    "question_id": "cbse_xi_keph1dd_c101_gen207",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Create an example where two expressions for acceleration are given: one is dimensionally consistent and the other is not. Explain the analysis and point out the errors in the inconsistent expression.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen208"
+    "question_id": "cbse_xi_keph1dd_c101_gen208",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "True or False: Converting units by using appropriate conversion factors can change the fundamental dimensions of a physical quantity.",
@@ -209,7 +221,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen209"
+    "question_id": "cbse_xi_keph1dd_c101_gen209",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "True or False: An equation that is dimensionally consistent is always physically correct.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen210"
+    "question_id": "cbse_xi_keph1dd_c101_gen210",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "A simple pendulum has a length of 2.0 meters. Given that the acceleration due to gravity is 9.8 m/s^2, calculate the time period of the pendulum using the formula T = 2π * sqrt(l/g). Provide your answer in seconds with two decimal places.",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen211"
+    "question_id": "cbse_xi_keph1dd_c101_gen211",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Using the energy equation 1/2 * m * v^2 = m * g * h, if a 2 kg object is moving with a speed of 6 m/s, calculate the height h to which the object would rise. Use g = 9.8 m/s^2 and show all steps.",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen212"
+    "question_id": "cbse_xi_keph1dd_c101_gen212",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Given the equation for displacement x = x0 + v0*t + (1/2)*a*t^2, calculate the displacement x when x0 = 5 m, v0 = 3 m/s, a = 2 m/s^2, and t = 4 s. Show the complete calculation.",
@@ -270,6 +286,7 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "07_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen213"
+    "question_id": "cbse_xi_keph1dd_c101_gen213",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   }
 ]

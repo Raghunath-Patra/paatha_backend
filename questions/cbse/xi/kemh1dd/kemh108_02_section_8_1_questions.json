@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen001"
+    "question_id": "cbse_xi_kemh1dd_c108_gen001",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Leonardo Pisano is better known as:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen002"
+    "question_id": "cbse_xi_kemh1dd_c108_gen002",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "In an arithmetic progression (A.P.), the common difference is defined as:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen003"
+    "question_id": "cbse_xi_kemh1dd_c108_gen003",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "In the Fibonacci sequence, each term (after the first two) is the sum of:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen004"
+    "question_id": "cbse_xi_kemh1dd_c108_gen004",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Define the term ‘sequence’ in mathematics and provide one example from real life.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen005"
+    "question_id": "cbse_xi_kemh1dd_c108_gen005",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Explain the difference between a general sequence and an arithmetic progression (A.P.).",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen006"
+    "question_id": "cbse_xi_kemh1dd_c108_gen006",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Briefly describe the mathematical significance of Fibonacci’s contributions and one application of the Fibonacci sequence in nature.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen007"
+    "question_id": "cbse_xi_kemh1dd_c108_gen007",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Prove that the sum of the first n natural numbers is S = n(n + 1)/2 using a method of your choice.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen008"
+    "question_id": "cbse_xi_kemh1dd_c108_gen008",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Derive the formula for the sum of the squares of the first n natural numbers, given by S = n(n + 1)(2n + 1)/6.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen009"
+    "question_id": "cbse_xi_kemh1dd_c108_gen009",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "An arithmetic progression has a first term of 5 and a common difference of 3. Find the 10th term.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen010"
+    "question_id": "cbse_xi_kemh1dd_c108_gen010",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Find the arithmetic mean between 8 and 20.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen011"
+    "question_id": "cbse_xi_kemh1dd_c108_gen011",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Find the geometric mean between 4 and 16.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen012"
+    "question_id": "cbse_xi_kemh1dd_c108_gen012",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Calculate the sum of the cubes of the first 4 natural numbers using the formula. Verify your answer.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen013"
+    "question_id": "cbse_xi_kemh1dd_c108_gen013",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Determine the 7th term of the Fibonacci sequence starting with 1, 1.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_kemh1dd_c108_gen014"
+    "question_id": "cbse_xi_kemh1dd_c108_gen014",
+    "section_name": "8.1 Introduction"
   }
 ]

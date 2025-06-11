@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen001"
+    "question_id": "cbse_xi_keph1dd_c103_gen001",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "In one-dimensional motion, why are + and - signs sufficient to describe the directional aspect?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen002"
+    "question_id": "cbse_xi_keph1dd_c103_gen002",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Which operation is NOT typically defined for vectors used in plane motion?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen003"
+    "question_id": "cbse_xi_keph1dd_c103_gen003",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "What type of motion, often discussed as a simple case of motion in a plane, involves a constant acceleration and a parabolic trajectory?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen004"
+    "question_id": "cbse_xi_keph1dd_c103_gen004",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Uniform circular motion is discussed in this section. Which feature is essential for an object in uniform circular motion?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen005"
+    "question_id": "cbse_xi_keph1dd_c103_gen005",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why vectors are necessary when describing motion in two or three dimensions.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen006"
+    "question_id": "cbse_xi_keph1dd_c103_gen006",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Describe the process of adding two vectors in a plane. What geometric method can be used?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen007"
+    "question_id": "cbse_xi_keph1dd_c103_gen007",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Define projectile motion and identify one real-life example where it is observed.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen008"
+    "question_id": "cbse_xi_keph1dd_c103_gen008",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the differences between uniform circular motion and projectile motion, highlighting the roles of acceleration and directional change in each.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen009"
+    "question_id": "cbse_xi_keph1dd_c103_gen009",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "How do vector operations enable the extension of one-dimensional motion equations to describe motion in a plane and in space? Provide a detailed explanation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen010"
+    "question_id": "cbse_xi_keph1dd_c103_gen010",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Compare and contrast the methods of describing one-dimensional and two-dimensional motion, focusing specifically on the role of directional information.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen011"
+    "question_id": "cbse_xi_keph1dd_c103_gen011",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "A scalar quantity includes directional notations such as + and - to indicate its orientation. True or False?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen012"
+    "question_id": "cbse_xi_keph1dd_c103_gen012",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "The operations of vector addition, subtraction, and multiplication by a real number are essential for defining velocity and acceleration in a plane. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen013"
+    "question_id": "cbse_xi_keph1dd_c103_gen013",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Using one-dimensional considerations, one might incorrectly assume that directional differences in motion do not require vectors in higher dimensions. True or False?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen014"
+    "question_id": "cbse_xi_keph1dd_c103_gen014",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Numerical Problem: Multiply the vector V = (3, 4) by the scalar -2. What is the resulting vector?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen015"
+    "question_id": "cbse_xi_keph1dd_c103_gen015",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Numerical Problem: Given two vectors A = (2, 3) and B = (4, -1), find their sum A + B.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen016"
+    "question_id": "cbse_xi_keph1dd_c103_gen016",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Numerical Problem: A projectile is launched with an initial speed of 20 m/s at an angle of 30° above the horizontal. Assuming the acceleration due to gravity is 9.8 m/s², calculate the horizontal range of the projectile. (Use the formula: Range = (u² * sin 2θ) / g)",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen017"
+    "question_id": "cbse_xi_keph1dd_c103_gen017",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Numerical Problem: An object moves in uniform circular motion along a circle of radius 5 m at a constant speed of 10 m/s. Calculate the centripetal acceleration of the object using the formula: a₍c₎ = v²/r.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen018"
+    "question_id": "cbse_xi_keph1dd_c103_gen018",
+    "section_name": "3.1 INTRODUCTION"
   }
 ]

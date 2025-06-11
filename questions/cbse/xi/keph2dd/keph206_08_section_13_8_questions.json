@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen250"
+    "question_id": "cbse_xi_keph2dd_c206_gen250",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Which component of the weight of the bob provides the restoring torque in a simple pendulum?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen251"
+    "question_id": "cbse_xi_keph2dd_c206_gen251",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "What key assumption is made in the analysis of a simple pendulum to derive its simple harmonic motion behavior?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen252"
+    "question_id": "cbse_xi_keph2dd_c206_gen252",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "According to the formula T = 2π√(L/g) for a simple pendulum, what is the approximate length of a pendulum with a 2-second period?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen253"
+    "question_id": "cbse_xi_keph2dd_c206_gen253",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "For a simple pendulum with a massless string, what is the expression for its moment of inertia about the pivot?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen254"
+    "question_id": "cbse_xi_keph2dd_c206_gen254",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Explain why the radial force component in a simple pendulum does not produce a torque about the pivot.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen255"
+    "question_id": "cbse_xi_keph2dd_c206_gen255",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Write the equation that relates torque, moment of inertia, and angular acceleration for a simple pendulum.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen256"
+    "question_id": "cbse_xi_keph2dd_c206_gen256",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "How does the mass of the bob affect the time period of a simple pendulum?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen257"
+    "question_id": "cbse_xi_keph2dd_c206_gen257",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "What assumption is made in simplifying the pendulum’s equation of motion into that of simple harmonic motion?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen258"
+    "question_id": "cbse_xi_keph2dd_c206_gen258",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Derive the time period T = 2π√(L/g) for a simple pendulum starting from the torque equation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen259"
+    "question_id": "cbse_xi_keph2dd_c206_gen259",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Compare the roles of the centripetal and tangential force components in the motion of a simple pendulum.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen260"
+    "question_id": "cbse_xi_keph2dd_c206_gen260",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Discuss the limitations of using the small-angle approximation in analyzing a simple pendulum’s motion.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen261"
+    "question_id": "cbse_xi_keph2dd_c206_gen261",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "True or False: The tension in a simple pendulum's string produces a restoring torque about the pivot.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen262"
+    "question_id": "cbse_xi_keph2dd_c206_gen262",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "True or False: In the derivation of the time period for a simple pendulum, the bob's mass cancels out, making the period independent of mass.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen263"
+    "question_id": "cbse_xi_keph2dd_c206_gen263",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "True or False: For a pendulum executing simple harmonic motion, the centripetal force is provided solely by the weight component mg sinθ.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen264"
+    "question_id": "cbse_xi_keph2dd_c206_gen264",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Calculate the length of a simple pendulum with a period of 3 seconds. Assume g = 9.8 m/s².",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen265"
+    "question_id": "cbse_xi_keph2dd_c206_gen265",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "For a pendulum with a length of 1.5 m and g = 9.8 m/s², find its time period.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen266"
+    "question_id": "cbse_xi_keph2dd_c206_gen266",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A pendulum oscillates with a maximum angular displacement of 10° (approximately 0.1745 radians). Compute sinθ and compare it with θ.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen267"
+    "question_id": "cbse_xi_keph2dd_c206_gen267",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A pendulum bob of mass 0.5 kg swings with a maximum displacement of 15° (approximately 0.262 radians) from the vertical. If the pendulum length is 1 m and g = 9.8 m/s², compute the restoring torque.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen268"
+    "question_id": "cbse_xi_keph2dd_c206_gen268",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A pendulum clock ticks seconds. Determine the length of the pendulum if g = 9.81 m/s² and its period is 2 seconds.",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen269"
+    "question_id": "cbse_xi_keph2dd_c206_gen269",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A modified pendulum has a string length of 2.5 m. Calculate its angular frequency (ω) and period (T) given g = 9.8 m/s².",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen270"
+    "question_id": "cbse_xi_keph2dd_c206_gen270",
+    "section_name": "13.8 The Simple Pendulum"
   }
 ]

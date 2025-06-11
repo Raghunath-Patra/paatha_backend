@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen145"
+    "question_id": "cbse_xii_leph1dd_c102_gen145",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "At the surface of a charged conductor, the electrostatic field must be oriented in which direction?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen146"
+    "question_id": "cbse_xii_leph1dd_c102_gen146",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "According to Gauss's law, where does any excess charge of a conductor reside in static conditions?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen147"
+    "question_id": "cbse_xii_leph1dd_c102_gen147",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "What is the electric field inside a cavity within a conductor that contains no charge, even when external fields are present?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen148"
+    "question_id": "cbse_xii_leph1dd_c102_gen148",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Which of the following equations correctly provides the electric field at the surface of a charged conductor, given the surface charge density sigma and vacuum permittivity epsilon_0?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen149"
+    "question_id": "cbse_xii_leph1dd_c102_gen149",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Explain why the electrostatic potential is constant throughout the volume of a conductor in static equilibrium.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen150"
+    "question_id": "cbse_xii_leph1dd_c102_gen150",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Describe the behavior of free electrons in a metallic conductor when an external electric field is applied.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen151"
+    "question_id": "cbse_xii_leph1dd_c102_gen151",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Why do excess charges reside only on the surface of a conductor in the static situation?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen152"
+    "question_id": "cbse_xii_leph1dd_c102_gen152",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Define electrostatic shielding and explain how it works in a conductor with a cavity.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen153"
+    "question_id": "cbse_xii_leph1dd_c102_gen153",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Discuss the physical reasons why the electric field inside a conductor is zero under static conditions. In your answer, include the role of free electrons and Gauss's law.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen154"
+    "question_id": "cbse_xii_leph1dd_c102_gen154",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Analyze the significance of the fact that the electric field at the surface of a charged conductor is normal to the surface. How does this property affect the behavior of charge carriers on the surface?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen155"
+    "question_id": "cbse_xii_leph1dd_c102_gen155",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Evaluate the role of electrostatic shielding in protecting sensitive instruments. Propose a design that utilizes a metallic conductor to achieve effective shielding.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen156"
+    "question_id": "cbse_xii_leph1dd_c102_gen156",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "True or False: In a static situation, excess charges can reside anywhere inside the conductor.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen157"
+    "question_id": "cbse_xii_leph1dd_c102_gen157",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "True or False: The electric field at the surface of a charged conductor always has a tangential component.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen158"
+    "question_id": "cbse_xii_leph1dd_c102_gen158",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Using the equation E = sigma / epsilon_0, calculate the electric field just outside a charged conductor that has a surface charge density sigma of 5 x 10^-6 C/m². Use epsilon_0 = 8.85 x 10^-12 C^2/(N m^2).",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen159"
+    "question_id": "cbse_xii_leph1dd_c102_gen159",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "A spherical conductor of radius 0.1 m carries a total excess charge of 1 x 10^-7 C. Determine the surface charge density and the electric field just outside the surface. Use epsilon_0 = 8.85 x 10^-12 C^2/(N m^2).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen160"
+    "question_id": "cbse_xii_leph1dd_c102_gen160",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "Assume a region with a uniform external electric field of 1 x 10^4 N/C. If a charge of 1 x 10^-9 C is moved a distance of 0.05 m in this field, calculate the potential difference the charge experiences. Also, explain why the potential is constant inside a conductor despite the presence of external fields.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen161"
+    "question_id": "cbse_xii_leph1dd_c102_gen161",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   },
   {
     "question_text": "A small pillbox Gaussian surface is used at a point on a conductor's surface with a cross-sectional area of 1 x 10^-4 m². If the electric flux measured through the pillbox is 2 x 10^-6 N m²/C, determine the electric field at the surface and the corresponding surface charge density. Use epsilon_0 = 8.85 x 10^-12 C^2/(N m^2).",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "10_section_2_9",
-    "question_id": "cbse_xii_leph1dd_c102_gen162"
+    "question_id": "cbse_xii_leph1dd_c102_gen162",
+    "section_name": "2.9 ELECTROSTATICS OF CONDUCTORS"
   }
 ]

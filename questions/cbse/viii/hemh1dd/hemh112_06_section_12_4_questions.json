@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen039"
+    "question_id": "cbse_viii_hemh1dd_c112_gen039",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "What is the result of dividing 7x² + 14x by (x + 2)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen040"
+    "question_id": "cbse_viii_hemh1dd_c112_gen040",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "In the division of z(5z² – 80) by 5z(z + 4), which algebraic identity is used to simplify the numerator?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen041"
+    "question_id": "cbse_viii_hemh1dd_c112_gen041",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Define the factor cancellation method in the context of dividing algebraic expressions.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen042"
+    "question_id": "cbse_viii_hemh1dd_c112_gen042",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Factorize the expression 44(x⁴ – 5x³ – 24x²) completely.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen043"
+    "question_id": "cbse_viii_hemh1dd_c112_gen043",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Explain why it is not effective to divide each term of the numerator separately by the binomial in the process of dividing algebraic expressions.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen044"
+    "question_id": "cbse_viii_hemh1dd_c112_gen044",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Prove that the expression 5z² – 80 can be factorized using the difference of squares and then simplify the expression z(5z² – 80) ÷ [5z(z + 4)].",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen045"
+    "question_id": "cbse_viii_hemh1dd_c112_gen045",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Discuss the advantages and potential pitfalls of using factor cancellation in polynomial division. Include examples from the text to illustrate your points.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen046"
+    "question_id": "cbse_viii_hemh1dd_c112_gen046",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Divide the expression 12x³ + 18x² by 6x and simplify completely.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen047"
+    "question_id": "cbse_viii_hemh1dd_c112_gen047",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Simplify the expression (15x³ - 45x²) ÷ [5x(x - 3)].",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen048"
+    "question_id": "cbse_viii_hemh1dd_c112_gen048",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Simplify the expression (24x²y + 48xy²) ÷ 12xy.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen049"
+    "question_id": "cbse_viii_hemh1dd_c112_gen049",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   },
   {
     "question_text": "Compute the result of dividing (9x² - 36) by (3x - 6) by factoring the numerator as a difference of squares.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_viii_hemh1dd_c112_gen050"
+    "question_id": "cbse_viii_hemh1dd_c112_gen050",
+    "section_name": "12.4 Division of Algebraic Expressions Continued (Polynomial ÷ Polynomial)"
   }
 ]

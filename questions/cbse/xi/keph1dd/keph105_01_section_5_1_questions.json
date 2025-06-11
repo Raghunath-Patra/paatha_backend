@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen001"
+    "question_id": "cbse_xi_keph1dd_c105_gen001",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which property of the scalar product is confirmed by the equation A dot B = B dot A?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen002"
+    "question_id": "cbse_xi_keph1dd_c105_gen002",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "For two vectors that are perpendicular, what is the value of their scalar product?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen003"
+    "question_id": "cbse_xi_keph1dd_c105_gen003",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "What do you obtain when you compute the dot product of a vector with itself?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen004"
+    "question_id": "cbse_xi_keph1dd_c105_gen004",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following statements is true regarding the projection of one vector onto another?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen005"
+    "question_id": "cbse_xi_keph1dd_c105_gen005",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Define the terms work, energy, and power as they are used in the textbook section. In your answer, clearly distinguish the physics definitions from their everyday usage.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen006"
+    "question_id": "cbse_xi_keph1dd_c105_gen006",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Derive the expression for the scalar product of two vectors A = (A_x i + A_y j + A_z k) and B = (B_x i + B_y j + B_z k) in terms of their components.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen007"
+    "question_id": "cbse_xi_keph1dd_c105_gen007",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Explain how the distributive property of the scalar product is applied when calculating A dot (B + C), and why it is significant in vector algebra.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen008"
+    "question_id": "cbse_xi_keph1dd_c105_gen008",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the difference between how work, energy, and power are commonly understood in everyday language versus their precise definitions in physics. Illustrate your answer with relevant examples from the section.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen009"
+    "question_id": "cbse_xi_keph1dd_c105_gen009",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the role of the cosine term in the expression for the scalar product and how it determines the projection of one vector onto another. Include in your discussion the effects of different angles between the vectors.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen010"
+    "question_id": "cbse_xi_keph1dd_c105_gen010",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Using vector algebra, prove that the scalar product is commutative; that is, show that A dot B = B dot A.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen011"
+    "question_id": "cbse_xi_keph1dd_c105_gen011",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The scalar product of a vector with itself is always equal to the square of its magnitude.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen012"
+    "question_id": "cbse_xi_keph1dd_c105_gen012",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The scalar product of two perpendicular vectors is nonzero as long as their magnitudes are nonzero.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen013"
+    "question_id": "cbse_xi_keph1dd_c105_gen013",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Given force F = (3, 4, -5) and displacement d = (5, 4, 3), calculate F dot d. Then, using the computed dot product and the magnitudes of F and d, find the angle between them.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen014"
+    "question_id": "cbse_xi_keph1dd_c105_gen014",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Given vectors A = (2, -3, 4) and B = (4, 0, -2), compute their dot product and determine whether the vectors are perpendicular.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen015"
+    "question_id": "cbse_xi_keph1dd_c105_gen015",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "For the vector A = (5, 6, 7), calculate A dot A and verify that it is equal to the square of the magnitude of A.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen016"
+    "question_id": "cbse_xi_keph1dd_c105_gen016",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "If a force F = (10, 0, 0) acts on an object and the displacement is d = (x, 2, 0) with the condition that F dot d = 20, determine the value of x.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen017"
+    "question_id": "cbse_xi_keph1dd_c105_gen017",
+    "section_name": "5.1 INTRODUCTION"
   }
 ]

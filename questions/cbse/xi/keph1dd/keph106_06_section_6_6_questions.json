@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen176"
+    "question_id": "cbse_xi_keph1dd_c106_gen176",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "For a particle in a rigid body undergoing rotational motion about a fixed axis, which of the following equations correctly relates the linear velocity, v, and the angular velocity, ω?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen177"
+    "question_id": "cbse_xi_keph1dd_c106_gen177",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Consider a particle located exactly on the axis of rotation. What is its linear velocity?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen178"
+    "question_id": "cbse_xi_keph1dd_c106_gen178",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "If the radius of the circular path of a particle in a rotating rigid body is doubled while its angular velocity remains constant, what happens to the linear speed of the particle?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen179"
+    "question_id": "cbse_xi_keph1dd_c106_gen179",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Define angular velocity for a rigid body in rotational motion.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen180"
+    "question_id": "cbse_xi_keph1dd_c106_gen180",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain why the cross product ω x r provides the instantaneous linear velocity vector of a particle in a rigid body undergoing rotation.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen181"
+    "question_id": "cbse_xi_keph1dd_c106_gen181",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "What is the significance of the fact that particles along the rotation axis have zero linear velocity in a rigid body undergoing rotation about a fixed axis?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen182"
+    "question_id": "cbse_xi_keph1dd_c106_gen182",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain in detail how angular velocity is defined as a vector quantity and discuss the method used to determine its direction for rotation about a fixed axis.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen183"
+    "question_id": "cbse_xi_keph1dd_c106_gen183",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Compare and contrast the concepts of pure translation and pure rotation of a rigid body. Use the characteristics of uniform velocity and uniform angular velocity in your explanation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen184"
+    "question_id": "cbse_xi_keph1dd_c106_gen184",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: The magnitude of the angular velocity vector for a rotating body is given by dθ/dt.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen185"
+    "question_id": "cbse_xi_keph1dd_c106_gen185",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: For any particle in a rigid body undergoing rotation about a fixed axis, the linear velocity is given by v = ω x r where r can be any position vector chosen arbitrarily in space.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen186"
+    "question_id": "cbse_xi_keph1dd_c106_gen186",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A particle is located 0.5 meters from the axis of rotation of a rigid body. If the angular velocity of the body is 10 radians per second, calculate the linear velocity of the particle.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen187"
+    "question_id": "cbse_xi_keph1dd_c106_gen187",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rotating disc has an initial angular velocity of 5 rad/s and an angular acceleration of 2 rad/s². What is its angular velocity after 4 seconds?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen188"
+    "question_id": "cbse_xi_keph1dd_c106_gen188",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "If a particle is moving with a linear speed of 15 m/s and is located 3 m from the axis of rotation, determine the angular velocity of the particle.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen189"
+    "question_id": "cbse_xi_keph1dd_c106_gen189",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rigid body rotates from rest with a constant angular acceleration. If it achieves an angular displacement of 2 rad in 2 seconds, calculate its angular acceleration.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen190"
+    "question_id": "cbse_xi_keph1dd_c106_gen190",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A disc rotates with an angular acceleration of 3 rad/s² from rest. Determine the angular displacement in 2 seconds.",
@@ -241,6 +256,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen191"
+    "question_id": "cbse_xi_keph1dd_c106_gen191",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen042"
+    "question_id": "cbse_x_jemh1dd_c104_gen042",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "Consider the quadratic equation x² - 6x + 9 = 0. What is its discriminant and what is the nature of its roots?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen043"
+    "question_id": "cbse_x_jemh1dd_c104_gen043",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "If the discriminant of a quadratic equation is -16, what can be said about the nature of its roots?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen044"
+    "question_id": "cbse_x_jemh1dd_c104_gen044",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "Which one of the following quadratic equations has two equal real roots?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen045"
+    "question_id": "cbse_x_jemh1dd_c104_gen045",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "Define the term 'discriminant' for a quadratic equation.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen046"
+    "question_id": "cbse_x_jemh1dd_c104_gen046",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "State and explain the necessary condition for a quadratic equation to have two equal real roots.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen047"
+    "question_id": "cbse_x_jemh1dd_c104_gen047",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "Write the quadratic formula and briefly explain the meaning of each term in the formula.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen048"
+    "question_id": "cbse_x_jemh1dd_c104_gen048",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "Prove that if the discriminant of a quadratic equation is zero, then the equation has two equal real roots.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen049"
+    "question_id": "cbse_x_jemh1dd_c104_gen049",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "Using the geometry of a circle and the inscribed angle theorem, explain how one can determine the possibility and specific location for erecting a pole on the boundary of a circular park, given the difference in distances from two diametrically opposite points (gates).",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen050"
+    "question_id": "cbse_x_jemh1dd_c104_gen050",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "Find the discriminant and determine the nature of the roots of the quadratic equation 2x² + 3x - 2 = 0.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen051"
+    "question_id": "cbse_x_jemh1dd_c104_gen051",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "Consider the quadratic equation 4x² - 12x + 9 = 0. Calculate its discriminant, state the nature of its roots, and solve the equation.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen052"
+    "question_id": "cbse_x_jemh1dd_c104_gen052",
+    "section_name": "4.4 Nature of Roots"
   },
   {
     "question_text": "A quadratic equation 5x² + kx + 3 = 0 has real roots. Determine the range of possible values for k.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "06_section_4_4",
-    "question_id": "cbse_x_jemh1dd_c104_gen053"
+    "question_id": "cbse_x_jemh1dd_c104_gen053",
+    "section_name": "4.4 Nature of Roots"
   }
 ]

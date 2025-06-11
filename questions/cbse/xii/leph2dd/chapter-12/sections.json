@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "12.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "12.2 ALPHA-PARTICLE SCATTERING AND RUTHERFORD'S NUCLEAR MODEL OF ATOM"
+    },
+    {
+      "number": 3,
+      "name": "12.3 ATOMIC SPECTRA"
+    },
+    {
+      "number": 4,
+      "name": "12.4 BOHR MODEL OF THE HYDROGEN"
+    },
+    {
+      "number": 5,
+      "name": "12.5 THE LINE SPECTRA OF THE HYDROGEN ATOM"
+    },
+    {
+      "number": 6,
+      "name": "12.6 DE BROGLIE'S EXPLANATION OF BOHR'S SECOND POSTULATE OF QUANTISATION"
+    }
+  ]
+}

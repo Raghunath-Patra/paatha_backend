@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen041"
+    "question_id": "cbse_xii_lemh1dd_c103_gen041",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Which property holds for the diagonal entries of any skew symmetric matrix?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen042"
+    "question_id": "cbse_xii_lemh1dd_c103_gen042",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "For a square matrix A, which of the following expressions yields a skew symmetric matrix?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen043"
+    "question_id": "cbse_xii_lemh1dd_c103_gen043",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Define a skew symmetric matrix.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen044"
+    "question_id": "cbse_xii_lemh1dd_c103_gen044",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "State Theorem 1 regarding the properties of A + A' and A - A' for any square matrix A with real entries.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen045"
+    "question_id": "cbse_xii_lemh1dd_c103_gen045",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Explain how any square matrix can be decomposed into the sum of a symmetric matrix and a skew symmetric matrix.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen046"
+    "question_id": "cbse_xii_lemh1dd_c103_gen046",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Prove that for any square matrix A, the matrix A + A' is symmetric and A - A' is skew symmetric.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen047"
+    "question_id": "cbse_xii_lemh1dd_c103_gen047",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Prove that any square matrix can be decomposed as the sum of a symmetric matrix and a skew symmetric matrix.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen048"
+    "question_id": "cbse_xii_lemh1dd_c103_gen048",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Decompose the matrix A = [[2, 3], [4, 5]] into its symmetric part P = ½(A + A') and skew symmetric part Q = ½(A - A').",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen049"
+    "question_id": "cbse_xii_lemh1dd_c103_gen049",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Given the matrix C = [[0, 4, -3], [-4, 0, 2], [3, -2, 0]], verify that C is skew symmetric by computing its transpose.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen050"
+    "question_id": "cbse_xii_lemh1dd_c103_gen050",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "If A = [[1, 2, 3], [0, 4, 5], [6, 7, 8]], compute A + A' and verify that the resulting matrix is symmetric.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen051"
+    "question_id": "cbse_xii_lemh1dd_c103_gen051",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "For A = [[-1, 0, 2], [1, 3, 4], [5, -2, 0]], compute the symmetric part P = ½(A + A') and the skew symmetric part Q = ½(A - A').",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen052"
+    "question_id": "cbse_xii_lemh1dd_c103_gen052",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Express the matrix D = [[4, -2, 6], [1, 3, 0], [-4, 5, -1]] as the sum of a symmetric matrix and a skew symmetric matrix.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen053"
+    "question_id": "cbse_xii_lemh1dd_c103_gen053",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   }
 ]

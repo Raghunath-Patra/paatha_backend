@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen069"
+    "question_id": "cbse_xi_keph1dd_c106_gen069",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Differentiating the center of mass equation with respect to time leads to an equation involving which of the following quantities?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen070"
+    "question_id": "cbse_xi_keph1dd_c106_gen070",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Which of the following statements best summarizes the significance of Equation (6.11) in the text?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen071"
+    "question_id": "cbse_xi_keph1dd_c106_gen071",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "When applying Newton's second law to a system of particles, why do the internal forces cancel out?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen072"
+    "question_id": "cbse_xi_keph1dd_c106_gen072",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "According to the text, what assumption is made about the masses m1, m2, ... mn when differentiating the center of mass equation?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen073"
+    "question_id": "cbse_xi_keph1dd_c106_gen073",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Explain in your own words how Equation (6.11) simplifies the analysis of a system of particles, regardless of any internal movements.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen074"
+    "question_id": "cbse_xi_keph1dd_c106_gen074",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Describe a scenario in which a rigid body might benefit from treating it as a system of particles to analyze its motion. Include the role of translational and rotational components in your explanation.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen075"
+    "question_id": "cbse_xi_keph1dd_c106_gen075",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Summarize the physical significance of the center of mass continuing along its original trajectory even after a projectile explodes into fragments, as illustrated by Figure 6.12.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen076"
+    "question_id": "cbse_xi_keph1dd_c106_gen076",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Discuss how Newton's second law applies to the center of mass of a system of particles. In your answer, mention the roles of external and internal forces.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen077"
+    "question_id": "cbse_xi_keph1dd_c106_gen077",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Apply the concept of the center of mass to explain how the motion of an object is analyzed when external forces are applied, even if the object is undergoing internal motion or rotation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen078"
+    "question_id": "cbse_xi_keph1dd_c106_gen078",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "The center of mass of a projectile always follows a parabolic path under gravity, even after an explosion. True or False?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen079"
+    "question_id": "cbse_xi_keph1dd_c106_gen079",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Internal forces within a system contribute to the net external force acting on the center of mass. True or False?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen080"
+    "question_id": "cbse_xi_keph1dd_c106_gen080",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A system of particles has a total mass of 10 kg and its center of mass is accelerating at 2 m/s². Calculate the total external force acting on the system.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen081"
+    "question_id": "cbse_xi_keph1dd_c106_gen081",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "If a projectile explodes in mid-air and breaks into several fragments, with the total mass remaining 5 kg and the center of mass velocity just before explosion being 8 m/s, what is the momentum of the system after the explosion?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen082"
+    "question_id": "cbse_xi_keph1dd_c106_gen082",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A moving system of particles has a total mass of 12 kg. At a given moment, its center of mass is accelerating at 3 m/s² while an external force of 36 N is acting on it. Verify if the system obeys Equation (6.11) and state your conclusion.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen083"
+    "question_id": "cbse_xi_keph1dd_c106_gen083",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A rigid body with a mass of 15 kg is subjected to a net external force of 45 N. If an explosion inside the body causes internal rearrangements but no mass is lost, what will be the acceleration of the center of mass after the explosion?",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen084"
+    "question_id": "cbse_xi_keph1dd_c106_gen084",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Consider a system of particles with total mass 20 kg having its center of mass initially traveling with a velocity of 10 m/s. If a time-dependent external force causes a constant acceleration of 0.5 m/s², calculate the new velocity of the center of mass after 4 seconds.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen085"
+    "question_id": "cbse_xi_keph1dd_c106_gen085",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A projectile with a mass of 8 kg splits into two fragments after an internal explosion. If the center of mass was moving at 15 m/s prior to explosion and no external forces act other than gravity, what can be said about the velocity of the center of mass immediately after the explosion?",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen086"
+    "question_id": "cbse_xi_keph1dd_c106_gen086",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   }
 ]

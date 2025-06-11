@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen157"
+    "question_id": "cbse_xi_keph2dd_c203_gen157",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Which factor does the constant k depend on in the equation –dQ/dt = k (T2 – T1)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen158"
+    "question_id": "cbse_xi_keph2dd_c203_gen158",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "In the experiment verifying Newton's law of cooling, the graph of loge (T2 – T1) versus time is expected to be:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen159"
+    "question_id": "cbse_xi_keph2dd_c203_gen159",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "What is the correct expression for the temperature T2 as a function of time t, according to Newton's law of cooling?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen160"
+    "question_id": "cbse_xi_keph2dd_c203_gen160",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Newton's law of cooling is used to study the cooling processes such as the cooling of a cup of tea on a table. Which heat transfer modes are considered in this approximation?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen161"
+    "question_id": "cbse_xi_keph2dd_c203_gen161",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Explain why Newton's law of cooling is a valid approximation only for small differences in temperature.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen162"
+    "question_id": "cbse_xi_keph2dd_c203_gen162",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Describe the experimental setup used to verify Newton's law of cooling as discussed in the textbook section.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen163"
+    "question_id": "cbse_xi_keph2dd_c203_gen163",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Derive the integrated form of Newton's law of cooling starting from the differential equation dT2/(T2 – T1) = –K dt.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen164"
+    "question_id": "cbse_xi_keph2dd_c203_gen164",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Discuss the limitations of applying Newton's law of cooling to systems with large temperature differences.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen165"
+    "question_id": "cbse_xi_keph2dd_c203_gen165",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Design an experiment using the described setups to measure the cooling constant K for a hot liquid. What factors would you consider to ensure accurate determination of K?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen166"
+    "question_id": "cbse_xi_keph2dd_c203_gen166",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "True or False: The graph of loge (T2 – T1) versus time for a cooling body should yield a straight line with a negative slope.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen167"
+    "question_id": "cbse_xi_keph2dd_c203_gen167",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "True or False: Newton's law of cooling is an accurate model for heat loss in a system regardless of the magnitude of the temperature difference between the body and its surroundings.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen168"
+    "question_id": "cbse_xi_keph2dd_c203_gen168",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "A pan containing food cools from 100°C to 90°C in 3 minutes in a room maintained at 25°C. Using Newton's law of cooling, estimate the time required for the pan to cool from 80°C to 78°C.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen169"
+    "question_id": "cbse_xi_keph2dd_c203_gen169",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "A hot body of mass 0.5 kg and specific heat capacity 4200 J/kg°C cools according to the relation T2 = T1 + C'e^(–Kt). In an experiment, the plot of ln(T2 – T1) versus time yields a slope of –0.02 per second. Calculate (a) the cooling constant K, and (b) the constant k in the relation –dQ/dt = k (T2 – T1).",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen170"
+    "question_id": "cbse_xi_keph2dd_c203_gen170",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "In an experiment, a body cools from 65°C to 50°C in 10 minutes in a room at 20°C. Calculate the time required for the temperature difference (between the body and room temperature) to reduce to half its initial value.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen171"
+    "question_id": "cbse_xi_keph2dd_c203_gen171",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "For a body cooling in a room at 15°C, the temperature difference drops from 60°C to 40°C in 5 minutes. Calculate the time constant τ (tau) of the cooling process.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen172"
+    "question_id": "cbse_xi_keph2dd_c203_gen172",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   }
 ]

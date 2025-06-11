@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen127"
+    "question_id": "cbse_xi_keph2dd_c204_gen127",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "In an isothermal process for an ideal gas, which of the following statements is true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen128"
+    "question_id": "cbse_xi_keph2dd_c204_gen128",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Which relation correctly represents the adiabatic process for an ideal gas?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen129"
+    "question_id": "cbse_xi_keph2dd_c204_gen129",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "During an isobaric process, what remains constant?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen130"
+    "question_id": "cbse_xi_keph2dd_c204_gen130",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "In an adiabatic expansion of an ideal gas, if work is done by the gas, what happens to its temperature?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen131"
+    "question_id": "cbse_xi_keph2dd_c204_gen131",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Briefly describe what is meant by a quasi-static process.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen132"
+    "question_id": "cbse_xi_keph2dd_c204_gen132",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Define an adiabatic process and its key characteristic.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen133"
+    "question_id": "cbse_xi_keph2dd_c204_gen133",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "What conditions must be met to approximate an actual process as isothermal?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen134"
+    "question_id": "cbse_xi_keph2dd_c204_gen134",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Explain why no work is done during an isochoric process.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen135"
+    "question_id": "cbse_xi_keph2dd_c204_gen135",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Discuss the derivation and significance of the work done in an isothermal process for an ideal gas.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen136"
+    "question_id": "cbse_xi_keph2dd_c204_gen136",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Explain the procedure to calculate the work done by the gas during an adiabatic process using the derived equation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen137"
+    "question_id": "cbse_xi_keph2dd_c204_gen137",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Compare and contrast the characteristics of the four special thermodynamic processes: isothermal, adiabatic, isochoric, and isobaric.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen138"
+    "question_id": "cbse_xi_keph2dd_c204_gen138",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "True or False: In a quasi-static process, the system is never in equilibrium with its surroundings.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen139"
+    "question_id": "cbse_xi_keph2dd_c204_gen139",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "True or False: In an isothermal process for an ideal gas, the internal energy does not change.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen140"
+    "question_id": "cbse_xi_keph2dd_c204_gen140",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "True or False: During an isobaric process the pressure is constant even though the temperature of the system may change.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen141"
+    "question_id": "cbse_xi_keph2dd_c204_gen141",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "A sample of 1.0 mole of an ideal gas undergoes an isothermal expansion at a temperature of 300 K from an initial volume of 1.0 L to a final volume of 2.0 L. Calculate the work done by the gas. (Use R = 8.314 J/mol.K)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen142"
+    "question_id": "cbse_xi_keph2dd_c204_gen142",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "An ideal gas initially at 100 kPa and 1.0 L undergoes an adiabatic expansion with gamma equal to 1.4 to a final volume of 2.0 L. Calculate the final pressure of the gas.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen143"
+    "question_id": "cbse_xi_keph2dd_c204_gen143",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "In an isobaric process, a sample of 1.0 mole of an ideal gas experiences a temperature increase from 300 K to 400 K at a constant pressure of 200 kPa. Calculate the work done by the gas. (Use R = 8.314 J/mol.K)",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen144"
+    "question_id": "cbse_xi_keph2dd_c204_gen144",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Consider an adiabatic process where 1.0 mole of an ideal gas cools from 500 K to 300 K. If gamma is 1.67, calculate the work done by the gas using W = (μR (T1 - T2))/(γ - 1). (Use R = 8.314 J/mol.K)",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen145"
+    "question_id": "cbse_xi_keph2dd_c204_gen145",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "A cyclic thermodynamic process returns an ideal gas to its initial state after absorbing 200 J of heat from the environment. Determine the total work done in the cycle.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen146"
+    "question_id": "cbse_xi_keph2dd_c204_gen146",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   }
 ]

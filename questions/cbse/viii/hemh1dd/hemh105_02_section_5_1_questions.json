@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen001"
+    "question_id": "cbse_viii_hemh1dd_c105_gen001",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "What is the area of a square with side length n, where n is a natural number?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen002"
+    "question_id": "cbse_viii_hemh1dd_c105_gen002",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Identify the perfect square among the following numbers: 30, 40, 50, 64.",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen003"
+    "question_id": "cbse_viii_hemh1dd_c105_gen003",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Given that 32 lies between 25 and 36, which statement best explains why 32 is not a perfect square?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen004"
+    "question_id": "cbse_viii_hemh1dd_c105_gen004",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Define a square number.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen005"
+    "question_id": "cbse_viii_hemh1dd_c105_gen005",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Explain why 32 is not classified as a square number.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen006"
+    "question_id": "cbse_viii_hemh1dd_c105_gen006",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "List all the perfect square numbers between 1 and 100.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen007"
+    "question_id": "cbse_viii_hemh1dd_c105_gen007",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Discuss why a number m is considered 'perfect' when m = n² for some natural number n. Include the properties that make these numbers unique.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen008"
+    "question_id": "cbse_viii_hemh1dd_c105_gen008",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Prove that if n is a natural number, then (n + 1)² − n² = 2n + 1. Explain why this shows that the difference between consecutive square numbers is always odd.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen009"
+    "question_id": "cbse_viii_hemh1dd_c105_gen009",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Derive a general formula for the difference between the (n+1)th perfect square and the nth perfect square. Discuss its implication regarding the distribution of square numbers among natural numbers.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen010"
+    "question_id": "cbse_viii_hemh1dd_c105_gen010",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Calculate the area of a square with a side length of 7 cm.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen011"
+    "question_id": "cbse_viii_hemh1dd_c105_gen011",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Find all the perfect square numbers between 30 and 40.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen012"
+    "question_id": "cbse_viii_hemh1dd_c105_gen012",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Find the square of 8 and verify that it matches the corresponding entry in the table provided in the section.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen013"
+    "question_id": "cbse_viii_hemh1dd_c105_gen013",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Determine if 121 is a perfect square and show all steps leading to your conclusion.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen014"
+    "question_id": "cbse_viii_hemh1dd_c105_gen014",
+    "section_name": "5.1 Introduction"
   }
 ]

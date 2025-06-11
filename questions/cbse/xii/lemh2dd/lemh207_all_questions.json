@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen028"
+    "question_id": "cbse_xii_lemh2dd_c207_gen028",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "In an experiment of drawing two cards consecutively without replacement from a deck, which of the following expressions correctly represents the probability of drawing a king followed by a queen?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen029"
+    "question_id": "cbse_xii_lemh2dd_c207_gen029",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Which scenario best justifies using the multiplication rule of probability?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen030"
+    "question_id": "cbse_xii_lemh2dd_c207_gen030",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Which statement best describes the use of conditional probability in the multiplication rule for two events?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen031"
+    "question_id": "cbse_xii_lemh2dd_c207_gen031",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Define the multiplication rule of probability for two events.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen032"
+    "question_id": "cbse_xii_lemh2dd_c207_gen032",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Explain how conditional probability is used in computing the probability of two events occurring sequentially.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen033"
+    "question_id": "cbse_xii_lemh2dd_c207_gen033",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Express the multiplication rule for three events and explain what conditions are necessary for its application.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen034"
+    "question_id": "cbse_xii_lemh2dd_c207_gen034",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Prove the multiplication rule of probability for two events using the definition of conditional probability.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen035"
+    "question_id": "cbse_xii_lemh2dd_c207_gen035",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "Extend the multiplication rule for three events and justify each step in your derivation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen036"
+    "question_id": "cbse_xii_lemh2dd_c207_gen036",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "An urn contains 12 balls: 7 red and 5 blue. Two balls are drawn one after the other without replacement. What is the probability that both balls drawn are red?",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen037"
+    "question_id": "cbse_xii_lemh2dd_c207_gen037",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "In a standard deck of 52 cards, what is the probability that three cards drawn successively without replacement are all aces?",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen038"
+    "question_id": "cbse_xii_lemh2dd_c207_gen038",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "A bag contains 8 white, 7 black, and 5 red balls. Two balls are drawn without replacement. Calculate the probability that both drawn balls are black.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen039"
+    "question_id": "cbse_xii_lemh2dd_c207_gen039",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "In a lottery, 3 numbers are drawn one after the other without replacement from a pool of 50 numbers. What is the probability that the three numbers are drawn in increasing order?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "05_section_13_3",
-    "question_id": "cbse_xii_lemh2dd_c207_gen040"
+    "question_id": "cbse_xii_lemh2dd_c207_gen040",
+    "section_name": "13.3 Multiplication Theorem on Probability"
   },
   {
     "question_text": "An urn contains 5 red and 5 black balls. A ball is drawn at random, its colour is noted and is returned to the urn. Moreover, 2 additional balls of the colour drawn are put in the urn and then a ball is drawn at random. What is the probability that the second ball is red?",
@@ -641,7 +654,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen001"
+    "question_id": "cbse_xii_lemh2dd_c207_gen001",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "In a classical experiment with equally likely outcomes, if an event A consists of 4 favorable outcomes out of 20 possible outcomes, what is the probability of event A?",
@@ -660,7 +674,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen002"
+    "question_id": "cbse_xii_lemh2dd_c207_gen002",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "If P(A) = 0.3 and P(B) = 0.5 for two mutually exclusive events, what is P(A ∪ B) based on the addition rule of probability?",
@@ -679,7 +694,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen003"
+    "question_id": "cbse_xii_lemh2dd_c207_gen003",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which of the following best describes conditional probability?",
@@ -698,7 +714,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen004"
+    "question_id": "cbse_xii_lemh2dd_c207_gen004",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Define conditional probability and provide its mathematical formula.",
@@ -712,7 +729,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen005"
+    "question_id": "cbse_xii_lemh2dd_c207_gen005",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Explain what a random variable is in the context of probability theory.",
@@ -726,7 +744,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen006"
+    "question_id": "cbse_xii_lemh2dd_c207_gen006",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "State Bayes' theorem and describe its significance in probability theory.",
@@ -740,7 +759,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen007"
+    "question_id": "cbse_xii_lemh2dd_c207_gen007",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Prove the multiplication rule for probabilities using the definition of conditional probability.",
@@ -754,7 +774,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen008"
+    "question_id": "cbse_xii_lemh2dd_c207_gen008",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Derive the expression for the probability mass function (PMF) of a binomial distribution.",
@@ -768,7 +789,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen009"
+    "question_id": "cbse_xii_lemh2dd_c207_gen009",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "In a deck of 52 cards, if you draw one card at random, what is the probability of drawing a heart? Show all steps in your solution.",
@@ -782,7 +804,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen010"
+    "question_id": "cbse_xii_lemh2dd_c207_gen010",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "A bag contains 5 red and 3 blue balls. Two balls are drawn sequentially without replacement. Calculate the probability that the second ball drawn is blue, given that the first ball was red.",
@@ -796,7 +819,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen011"
+    "question_id": "cbse_xii_lemh2dd_c207_gen011",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Consider a discrete random variable X with the following probability mass function: P(X=0)=0.2, P(X=1)=0.5, and P(X=2)=0.3. Compute the mean (expected value) and the variance of X, showing every step.",
@@ -810,7 +834,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xii_lemh2dd_c207_gen012"
+    "question_id": "cbse_xii_lemh2dd_c207_gen012",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "If P(A) = 3/5 and P(B) = 1/5, find P(A ∩ B) if A and B are independent events.",
@@ -1078,7 +1103,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen056"
+    "question_id": "cbse_xii_lemh2dd_c207_gen056",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "In Bayes' theorem, the term P(Eᵢ) is referred to as the __________ probability.",
@@ -1097,7 +1123,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen057"
+    "question_id": "cbse_xii_lemh2dd_c207_gen057",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Bayes' theorem is also known as the formula for the probability of '__________'.",
@@ -1116,7 +1143,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen058"
+    "question_id": "cbse_xii_lemh2dd_c207_gen058",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Which of the following equations represents the theorem of total probability?",
@@ -1135,7 +1163,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen059"
+    "question_id": "cbse_xii_lemh2dd_c207_gen059",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Define Bayes' theorem and explain its significance in determining reverse probabilities.",
@@ -1149,7 +1178,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen060"
+    "question_id": "cbse_xii_lemh2dd_c207_gen060",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "What does the 'partition of a sample space' mean? Provide an example illustrating this concept.",
@@ -1163,7 +1193,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen061"
+    "question_id": "cbse_xii_lemh2dd_c207_gen061",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Explain the difference between 'priori probability' and 'a posteriori probability' in the context of Bayes' theorem.",
@@ -1177,7 +1208,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen062"
+    "question_id": "cbse_xii_lemh2dd_c207_gen062",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Using the definition of conditional probability and the concept of partitions, prove the theorem of total probability.",
@@ -1191,7 +1223,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen063"
+    "question_id": "cbse_xii_lemh2dd_c207_gen063",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Derive Bayes' theorem starting from the definition of conditional probability and the theorem of total probability.",
@@ -1205,7 +1238,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen064"
+    "question_id": "cbse_xii_lemh2dd_c207_gen064",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "A construction job has a strike probability of 0.65. The job will be completed on time with probability 0.80 if there is no strike and with probability 0.32 if there is a strike. Calculate the overall probability that the construction job is completed on time.",
@@ -1219,7 +1253,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen065"
+    "question_id": "cbse_xii_lemh2dd_c207_gen065",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "A factory has three machines: A produces 25% of bolts with 5% defect rate, B produces 35% with 4% defect rate, and C produces 40% with 2% defect rate. If a randomly drawn bolt is defective, compute the probability that it was produced by machine B.",
@@ -1233,7 +1268,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen066"
+    "question_id": "cbse_xii_lemh2dd_c207_gen066",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "In a scenario, a man who speaks the truth 3 out of 4 times rolls a die and reports a six. Compute the probability that the die actually shows a six.",
@@ -1247,7 +1283,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen067"
+    "question_id": "cbse_xii_lemh2dd_c207_gen067",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "A doctor has four modes of transport: train (P = 3/10, late probability = 1/4), bus (P = 1/5, late probability = 1/3), scooter (P = 1/10, late probability = 1/12), and other (P = 2/5, on time). If the doctor arrives late, find the probability he took the train.",
@@ -1261,7 +1298,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen068"
+    "question_id": "cbse_xii_lemh2dd_c207_gen068",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Which of the following definitions correctly characterizes independent events?",
@@ -1280,7 +1318,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen041"
+    "question_id": "cbse_xii_lemh2dd_c207_gen041",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "If two events A and B are mutually exclusive and both have non-zero probability, which statement is correct?",
@@ -1299,7 +1338,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen042"
+    "question_id": "cbse_xii_lemh2dd_c207_gen042",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "In an experiment where three coins are tossed, let E be the event 'three heads or three tails' and F be the event 'at least two heads'. What is the probability of the event E ∩ F?",
@@ -1318,7 +1358,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen043"
+    "question_id": "cbse_xii_lemh2dd_c207_gen043",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "For events E and F (with non-zero probabilities), which of the following statements is true regarding conditional probability if E and F are independent?",
@@ -1337,7 +1378,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen044"
+    "question_id": "cbse_xii_lemh2dd_c207_gen044",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Define independent events in the context of probability theory and state the necessary conditions for two events to be considered independent.",
@@ -1351,7 +1393,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen045"
+    "question_id": "cbse_xii_lemh2dd_c207_gen045",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Differentiate between independent events and mutually exclusive events. Provide a concise explanation.",
@@ -1365,7 +1408,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen046"
+    "question_id": "cbse_xii_lemh2dd_c207_gen046",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "State the multiplication rule for probabilities. Then, explain its specific form when the events involved are independent.",
@@ -1379,7 +1423,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen047"
+    "question_id": "cbse_xii_lemh2dd_c207_gen047",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Prove that if events E and F are independent, then E and Fʹ (the complement of F) are also independent.",
@@ -1393,7 +1438,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen048"
+    "question_id": "cbse_xii_lemh2dd_c207_gen048",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Prove that if events E and F are independent, then P(E ∩ Fʹ) = P(E)·P(Fʹ). Provide a step-by-step derivation.",
@@ -1407,7 +1453,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen049"
+    "question_id": "cbse_xii_lemh2dd_c207_gen049",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Three events A, B, and C are defined in an experiment. They are said to be mutually independent if they satisfy P(A ∩ B) = P(A)·P(B), P(A ∩ C) = P(A)·P(C), P(B ∩ C) = P(B)·P(C), and P(A ∩ B ∩ C) = P(A)·P(B)·P(C). Prove that satisfying only the pairwise independence (i.e., the first three conditions) is not sufficient to guarantee mutual independence. Illustrate your explanation with an example.",
@@ -1421,7 +1468,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen050"
+    "question_id": "cbse_xii_lemh2dd_c207_gen050",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Discuss the difference between independent events and independent experiments. Provide an example to illustrate your answer.",
@@ -1435,7 +1483,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen051"
+    "question_id": "cbse_xii_lemh2dd_c207_gen051",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "A single card is drawn from a standard deck of 52 playing cards. Let event E be 'the card is a spade' and event F be 'the card is an ace'. Verify numerically whether E and F are independent.",
@@ -1449,7 +1498,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen052"
+    "question_id": "cbse_xii_lemh2dd_c207_gen052",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "A fair six-sided die is thrown. Let event E be 'the number is a multiple of 3' and event F be 'the number is even'. Compute P(E), P(F), and P(E ∩ F) to determine whether E and F are independent.",
@@ -1463,7 +1513,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen053"
+    "question_id": "cbse_xii_lemh2dd_c207_gen053",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "In an experiment involving three simultaneous coin tosses, consider the events: E = 'three heads or three tails', F = 'at least two heads', and G = 'at most two heads'. Calculate P(E), P(F), P(G), and the probabilities for the intersections P(E ∩ F), P(E ∩ G), and P(F ∩ G). Based on these calculations, determine which pairs of events are independent.",
@@ -1477,7 +1528,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen054"
+    "question_id": "cbse_xii_lemh2dd_c207_gen054",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Two unbiased dice are thrown simultaneously. Let event A be 'the first die shows an odd number' and event B be 'the second die shows an odd number'. Verify whether A and B are independent by computing P(A), P(B), and P(A ∩ B).",
@@ -1491,7 +1543,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen055"
+    "question_id": "cbse_xii_lemh2dd_c207_gen055",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "A and B are two events such that P(A) ≠ 0. Find P(B|A) for the cases: (i) A is a subset of B and (ii) A ∩ B = ∅.",
@@ -1694,7 +1747,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen013"
+    "question_id": "cbse_xii_lemh2dd_c207_gen013",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "In the experiment of tossing three fair coins, let event E = 'at least two heads appear' and F = 'first coin shows tail'. What is P(E|F)?",
@@ -1713,7 +1767,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen014"
+    "question_id": "cbse_xii_lemh2dd_c207_gen014",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "A die is thrown three times. Let event B = ‘first throw is 6 and second throw is 5’ and event A = ‘the third throw is 4’. What is the conditional probability P(A|B)?",
@@ -1732,7 +1787,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen015"
+    "question_id": "cbse_xii_lemh2dd_c207_gen015",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "If events A and B are mutually exclusive (disjoint), what is the value of P(A|B)?",
@@ -1751,7 +1807,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen016"
+    "question_id": "cbse_xii_lemh2dd_c207_gen016",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "State the definition of conditional probability and write its formula.",
@@ -1765,7 +1822,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen017"
+    "question_id": "cbse_xii_lemh2dd_c207_gen017",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "Explain why it is necessary to have P(F) ≠ 0 in the definition of conditional probability P(E|F) = P(E ∩ F)/P(F).",
@@ -1779,7 +1837,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen018"
+    "question_id": "cbse_xii_lemh2dd_c207_gen018",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "Given that the sample space consists of equally likely outcomes, derive the expression P(E|F) = n(E ∩ F)/n(F) from the general definition of conditional probability.",
@@ -1793,7 +1852,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen019"
+    "question_id": "cbse_xii_lemh2dd_c207_gen019",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "Derive the property P(E′|F) = 1 – P(E|F) using the definition of conditional probability.",
@@ -1807,7 +1867,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen020"
+    "question_id": "cbse_xii_lemh2dd_c207_gen020",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "Prove that if events A and B are disjoint, then P((A ∪ B)|F) = P(A|F) + P(B|F) using the definition of conditional probability.",
@@ -1821,7 +1882,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen021"
+    "question_id": "cbse_xii_lemh2dd_c207_gen021",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "A family has two children. If the sample space is {(b, b), (b, g), (g, b), (g, g)}, what is the probability that both children are boys given that at least one is a boy?",
@@ -1835,7 +1897,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen022"
+    "question_id": "cbse_xii_lemh2dd_c207_gen022",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "In a school of 1000 students, there are 430 girls and among these, 10% study in Class XII. What is the probability that a student chosen at random is in Class XII given that the student is a girl?",
@@ -1849,7 +1912,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen023"
+    "question_id": "cbse_xii_lemh2dd_c207_gen023",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "Ten cards numbered 1 to 10 are placed in a box. If it is known that the drawn card has a number greater than 3, what is the probability that the card is even?",
@@ -1863,7 +1927,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen024"
+    "question_id": "cbse_xii_lemh2dd_c207_gen024",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "A die is thrown twice and it is known that the sum of the numbers is 6. What is the conditional probability that the number 4 appears at least once?",
@@ -1877,7 +1942,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen025"
+    "question_id": "cbse_xii_lemh2dd_c207_gen025",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "A coin is tossed. If the coin shows head, it is tossed again; if it shows tail, a die is thrown. Given that there is at least one tail in the experiment, what is the probability that the die shows a number greater than 4?",
@@ -1891,7 +1957,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen026"
+    "question_id": "cbse_xii_lemh2dd_c207_gen026",
+    "section_name": "13.2 Conditional Probability"
   },
   {
     "question_text": "Which of the following properties of conditional probability correctly expresses the relationship between the conditional probability of a union of two events and the individual conditional probabilities?",
@@ -1910,6 +1977,7 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xii_lemh2dd_c207_gen027"
+    "question_id": "cbse_xii_lemh2dd_c207_gen027",
+    "section_name": "13.2 Conditional Probability"
   }
 ]

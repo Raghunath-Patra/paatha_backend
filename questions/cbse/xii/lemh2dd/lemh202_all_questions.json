@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen015"
+    "question_id": "cbse_xii_lemh2dd_c202_gen015",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "When the function f(x) is negative over an interval [a, b], the definite integral ∫ₐᵇ f(x) dx gives a negative result. To obtain the actual (positive) area bounded by the curve and the x-axis, you should:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen016"
+    "question_id": "cbse_xii_lemh2dd_c202_gen016",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Consider a function y = f(x) that crosses the x-axis within the interval [a, b]. The net value of the definite integral ∫ₐᵇ f(x) dx might be zero even though the region has a nonzero area because:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen017"
+    "question_id": "cbse_xii_lemh2dd_c202_gen017",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Which of the following integrals correctly represents the area of the region bounded by the curve x = g(y), the y-axis, and the horizontal lines y = c and y = d?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen018"
+    "question_id": "cbse_xii_lemh2dd_c202_gen018",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Define the term 'elementary area' in the context of finding the area under a simple curve.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen019"
+    "question_id": "cbse_xii_lemh2dd_c202_gen019",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Explain why the definite integral ∫ₐᵇ f(x) dx might not always give the actual geometric area between the curve y = f(x) and the x-axis. What modification should be applied to find the true area?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen020"
+    "question_id": "cbse_xii_lemh2dd_c202_gen020",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Describe how symmetry is exploited to calculate the area of a circle or an ellipse using integration.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen021"
+    "question_id": "cbse_xii_lemh2dd_c202_gen021",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "When calculating the area of an ellipse using horizontal strips, explain the process of expressing x in terms of y, and how the limits of integration are determined.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen022"
+    "question_id": "cbse_xii_lemh2dd_c202_gen022",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Derive the formula for the area of a circle using vertical strips and definite integrals. Start with the circle equation x² + y² = a² and show all steps leading to the result.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen023"
+    "question_id": "cbse_xii_lemh2dd_c202_gen023",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Prove that the area of an ellipse given by the equation (x²/a²) + (y²/b²) = 1 is equal to πab by setting up an integral using vertical strips and then applying symmetry.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen024"
+    "question_id": "cbse_xii_lemh2dd_c202_gen024",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Compare the use of vertical strips and horizontal strips in computing the area under a curve. Discuss the advantages and limitations of each method with reference to specific examples.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen025"
+    "question_id": "cbse_xii_lemh2dd_c202_gen025",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Find the area under the curve y = √(9 - x²) between x = -3 and x = 3 using vertical strips.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen026"
+    "question_id": "cbse_xii_lemh2dd_c202_gen026",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Calculate the area enclosed by one arch of the sine curve y = sin x from x = 0 to x = π using vertical strips.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen027"
+    "question_id": "cbse_xii_lemh2dd_c202_gen027",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Using horizontal strips, determine the area of the region in the first quadrant bounded by the curve x = √(16 - y²) (which represents a semicircle of radius 4), the y-axis, and the line y = 4.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen028"
+    "question_id": "cbse_xii_lemh2dd_c202_gen028",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Compute the area of the ellipse given by (x²/25) + (y²/9) = 1 by setting up an integral using vertical strips and solving it step-by-step.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xii_lemh2dd_c202_gen029"
+    "question_id": "cbse_xii_lemh2dd_c202_gen029",
+    "section_name": "8.2 Area under Simple Curves"
   },
   {
     "question_text": "Which of the following represents the definite integral used to compute the area under the curve y = f(x) from x = a to x = b?",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen001"
+    "question_id": "cbse_xii_lemh2dd_c202_gen001",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Which of the following area calculations cannot be performed using the elementary geometry formulae and instead requires Integral Calculus?",
@@ -265,7 +281,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen002"
+    "question_id": "cbse_xii_lemh2dd_c202_gen002",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Which of the following is a necessary condition for using integration to find the area under the curve y = f(x)?",
@@ -284,7 +301,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen003"
+    "question_id": "cbse_xii_lemh2dd_c202_gen003",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Identify the concept that allows us to calculate areas enclosed by curves and cannot be derived using elementary geometry formulas.",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen004"
+    "question_id": "cbse_xii_lemh2dd_c202_gen004",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Define a definite integral and explain its significance in calculating the area under a curve.",
@@ -317,7 +336,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen005"
+    "question_id": "cbse_xii_lemh2dd_c202_gen005",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "What is meant by an 'area bounded by a curve'? Illustrate your answer with a brief description.",
@@ -331,7 +351,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen006"
+    "question_id": "cbse_xii_lemh2dd_c202_gen006",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Discuss why the elementary geometry formulae for areas are inadequate for determining areas enclosed by curves.",
@@ -345,7 +366,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen007"
+    "question_id": "cbse_xii_lemh2dd_c202_gen007",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Prove that the definite integral ∫ₐᵇ f(x) dx represents the area under the curve y = f(x) over the interval [a, b]. Include all steps in your proof.",
@@ -359,7 +381,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen008"
+    "question_id": "cbse_xii_lemh2dd_c202_gen008",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Derive the formula for the area of a region bounded by the curves y = f(x) and y = g(x) between x = a and x = b, where f(x) ≥ g(x) for all x ∈ [a, b].",
@@ -373,7 +396,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen009"
+    "question_id": "cbse_xii_lemh2dd_c202_gen009",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Evaluate the definite integral ∫₀² x² dx and interpret its result in terms of the area under the curve y = x².",
@@ -387,7 +411,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen010"
+    "question_id": "cbse_xii_lemh2dd_c202_gen010",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Calculate the area enclosed between the curve y = 4 - x² and the x-axis.",
@@ -401,7 +426,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen011"
+    "question_id": "cbse_xii_lemh2dd_c202_gen011",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Find the area between the curves y = √x and y = x/2 over the interval where they intersect.",
@@ -415,7 +441,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen012"
+    "question_id": "cbse_xii_lemh2dd_c202_gen012",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Determine the area of the region bounded by the parabola y = x² and the line y = 2 - x over the interval where they intersect.",
@@ -429,7 +456,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen013"
+    "question_id": "cbse_xii_lemh2dd_c202_gen013",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Using integration, compute the area of a semicircle of radius r. Assume the semicircle is defined by the curve y = √(r² - x²) for x ∈ [-r, r].",
@@ -443,7 +471,8 @@
     "source": "generated",
     "chapter_id": "lemh202",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xii_lemh2dd_c202_gen014"
+    "question_id": "cbse_xii_lemh2dd_c202_gen014",
+    "section_name": "8.1 Introduction"
   },
   {
     "question_text": "Find the area under the given curves and the given lines: (i) y = x², x = 1, x = 2 and the x-axis; (ii) y = x⁴, x = 1, x = 5 and the x-axis.",

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen028"
+    "question_id": "cbse_xi_kemh1dd_c106_gen028",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "What is the value of 0! as defined in the text?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen029"
+    "question_id": "cbse_xi_kemh1dd_c106_gen029",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Consider the word 'ROOT'. When arranging its letters, two of the letters are identical. Which of the following expressions correctly represents the number of distinct arrangements of the letters in 'ROOT'?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen030"
+    "question_id": "cbse_xi_kemh1dd_c106_gen030",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "How many 3-digit numbers can be formed using the digits 0, 1, 2, 3, 4, 5 (with no repetition) that are actually 3-digit numbers?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen031"
+    "question_id": "cbse_xi_kemh1dd_c106_gen031",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Define a permutation in the context of arranging objects. How does it differ from a combination?",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen032"
+    "question_id": "cbse_xi_kemh1dd_c106_gen032",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Describe the factorial notation and state the recursive relation that defines n!.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen033"
+    "question_id": "cbse_xi_kemh1dd_c106_gen033",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "State and explain the formula for finding the number of permutations of n objects when some objects are identical, citing the general theorem.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen034"
+    "question_id": "cbse_xi_kemh1dd_c106_gen034",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Prove that the number of permutations of n distinct objects taken r at a time is given by nPr = n! / (n-r)!. Provide a step-by-step derivation using the multiplication principle.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen035"
+    "question_id": "cbse_xi_kemh1dd_c106_gen035",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Using the letters of the word 'INSTITUTE', calculate the number of distinct arrangements possible. Provide a detailed explanation of how repeated letters are accounted for in your calculation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen036"
+    "question_id": "cbse_xi_kemh1dd_c106_gen036",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Evaluate 7! – 5! and show all the steps in your calculation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen037"
+    "question_id": "cbse_xi_kemh1dd_c106_gen037",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Find the number of distinct permutations of the letters in the word 'ALLAHABAD'. Provide detailed steps including the treatment of repeated letters.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen038"
+    "question_id": "cbse_xi_kemh1dd_c106_gen038",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Determine the number of 4-digit numbers that can be formed using the digits 1 to 9 (without repetition). Show your full working.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen039"
+    "question_id": "cbse_xi_kemh1dd_c106_gen039",
+    "section_name": "6.3 Permutations"
   }
 ]

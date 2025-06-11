@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen015"
+    "question_id": "cbse_xii_lemh2dd_c206_gen015",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "In the context of linear programming, what is the 'feasible region'?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen016"
+    "question_id": "cbse_xii_lemh2dd_c206_gen016",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "According to a fundamental theorem in linear programming, where does the optimal solution occur (if it exists)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen017"
+    "question_id": "cbse_xii_lemh2dd_c206_gen017",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "Define the term 'objective function' in the context of linear programming problems. Provide its general form.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen018"
+    "question_id": "cbse_xii_lemh2dd_c206_gen018",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "What are 'decision variables' in a linear programming problem, and what common restrictions are imposed on them?",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen019"
+    "question_id": "cbse_xii_lemh2dd_c206_gen019",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "Explain the significance of the 'feasible region' in solving a linear programming problem.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen020"
+    "question_id": "cbse_xii_lemh2dd_c206_gen020",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "Prove that if the feasible region of a linear programming problem is bounded, then the linear objective function attains both maximum and minimum values on that region.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen021"
+    "question_id": "cbse_xii_lemh2dd_c206_gen021",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "Describe, with a diagram, the steps involved in the Corner Point Method for solving a linear programming problem and explain why the optimal solution, if it exists, is found at one of the vertices.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen022"
+    "question_id": "cbse_xii_lemh2dd_c206_gen022",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "A dealer can buy tables and chairs with profits of Rs 300 per table and Rs 50 per chair. If he has a budget of Rs 40,000 and can store at most 80 pieces, formulate the linear programming problem and determine the profit when he invests all his money by buying only chairs.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen023"
+    "question_id": "cbse_xii_lemh2dd_c206_gen023",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "Solve graphically the following LPP: Maximize Z = 5x + 3y subject to 2x + y ≤ 20, x + 2y ≤ 20, and x, y ≥ 0. Identify the optimal solution and the value of Z.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen024"
+    "question_id": "cbse_xii_lemh2dd_c206_gen024",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "Given the linear programming problem: Minimize Z = 7x + 4y, subject to x + y ≥ 12, 2x + 5y ≤ 50, and x, y ≥ 0, graph the constraints, find the feasible region and its corner points, and determine the minimum value of Z.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen025"
+    "question_id": "cbse_xii_lemh2dd_c206_gen025",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   },
   {
     "question_text": "Solve graphically the linear programming problem: Minimize Z = -3x + 2y, subject to 4x - y ≥ 8, x + y ≤ 20, and x, y ≥ 0. Determine if an optimal solution exists and state it.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "lemh206",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xii_lemh2dd_c206_gen026"
+    "question_id": "cbse_xii_lemh2dd_c206_gen026",
+    "section_name": "12.2 Linear Programming Problem and its Mathematical Formulation"
   }
 ]

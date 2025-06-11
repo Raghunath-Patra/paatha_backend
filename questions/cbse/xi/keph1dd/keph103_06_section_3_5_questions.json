@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen167"
+    "question_id": "cbse_xi_keph1dd_c103_gen167",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Which equation represents the resolution of a vector into its x and y components using the unit vectors i and j?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen168"
+    "question_id": "cbse_xi_keph1dd_c103_gen168",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "In the expression A = λa + μb used to resolve a vector, what do the constants λ and μ represent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen169"
+    "question_id": "cbse_xi_keph1dd_c103_gen169",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Which unit vectors are used to resolve a vector in a two-dimensional x-y plane?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen170"
+    "question_id": "cbse_xi_keph1dd_c103_gen170",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "How can the magnitude of a vector A be determined from its components Ax, Ay, and Az?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen171"
+    "question_id": "cbse_xi_keph1dd_c103_gen171",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Define what is meant by the resolution of a vector.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen172"
+    "question_id": "cbse_xi_keph1dd_c103_gen172",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Explain why unit vectors i and j are used in resolving a vector in the x-y plane.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen173"
+    "question_id": "cbse_xi_keph1dd_c103_gen173",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Given that Ax = A cos θ and Ay = A sin θ for a vector A, explain how you would determine the angle θ if Ax and Ay are known.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen174"
+    "question_id": "cbse_xi_keph1dd_c103_gen174",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Describe the process of resolving a vector A into two non-collinear component vectors using vectors a and b. Include a reference to the diagram described in the text.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen175"
+    "question_id": "cbse_xi_keph1dd_c103_gen175",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Discuss how the method of vector resolution can be extended from two dimensions to three dimensions and explain the role of direction cosines in this extension.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen176"
+    "question_id": "cbse_xi_keph1dd_c103_gen176",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Critically evaluate the importance of using a rectangular coordinate system and unit vectors in the study of vector quantities in physics. Discuss any limitations or alternative systems.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen177"
+    "question_id": "cbse_xi_keph1dd_c103_gen177",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A unit vector always has a magnitude of one. True or False.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen178"
+    "question_id": "cbse_xi_keph1dd_c103_gen178",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "The equation A = Ax i + Ay j is sufficient to represent any vector in three-dimensional space. True or False.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen179"
+    "question_id": "cbse_xi_keph1dd_c103_gen179",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "In the equation tan θ = Ay / Ax used to determine the angle of a vector, if Ax equals zero, then the direction of A is undefined. True or False.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen180"
+    "question_id": "cbse_xi_keph1dd_c103_gen180",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A vector A has a magnitude of 10 units and makes an angle of 30° with the x-axis in the x-y plane. Calculate its x and y components.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen181"
+    "question_id": "cbse_xi_keph1dd_c103_gen181",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A vector A is given by A = 5 i + 12 j. Determine its magnitude and the angle it makes with the x-axis.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen182"
+    "question_id": "cbse_xi_keph1dd_c103_gen182",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A three-dimensional vector A is expressed as A = 3 i + 4 j + 12 k. Find its magnitude and the direction cosines with respect to the x, y, and z axes.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen183"
+    "question_id": "cbse_xi_keph1dd_c103_gen183",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A vector has components Ax = -4 and Ay = 3, and its magnitude is reported as 5 units. Verify the consistency of these values and determine the angle it makes with the positive x-axis.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "06_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen184"
+    "question_id": "cbse_xi_keph1dd_c103_gen184",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   }
 ]

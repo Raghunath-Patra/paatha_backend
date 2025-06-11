@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen001"
+    "question_id": "cbse_xi_keph2dd_c206_gen001",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "What is the SI unit of frequency and who was it named after?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen002"
+    "question_id": "cbse_xi_keph2dd_c206_gen002",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Which one of the following functions is periodic?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen003"
+    "question_id": "cbse_xi_keph2dd_c206_gen003",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "What is the period of the function f(t) = A cos(αt)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen004"
+    "question_id": "cbse_xi_keph2dd_c206_gen004",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "In the context of oscillatory motions described, which statement is true regarding the equilibrium position?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen005"
+    "question_id": "cbse_xi_keph2dd_c206_gen005",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Define periodic motion and provide two examples mentioned in the text.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen006"
+    "question_id": "cbse_xi_keph2dd_c206_gen006",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Differentiate between periodic and oscillatory motion, and explain why circular motion is not considered oscillatory.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen007"
+    "question_id": "cbse_xi_keph2dd_c206_gen007",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Express the sinusoidal function f(t) = A sin(ωt) + B cos(ωt) in the equivalent form f(t) = D sin(ωt + φ) and state the expressions for D and φ.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen008"
+    "question_id": "cbse_xi_keph2dd_c206_gen008",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Discuss how damping and forced oscillations affect a real oscillatory system and provide real-life examples of each.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen009"
+    "question_id": "cbse_xi_keph2dd_c206_gen009",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Explain the principle of simple harmonic motion (SHM) and how the restoring force is related to displacement in SHM.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen010"
+    "question_id": "cbse_xi_keph2dd_c206_gen010",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: Every periodic motion is necessarily an oscillatory motion.",
@@ -181,7 +191,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen011"
+    "question_id": "cbse_xi_keph2dd_c206_gen011",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: The function e^(-ωt) displays periodic behavior.",
@@ -200,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen012"
+    "question_id": "cbse_xi_keph2dd_c206_gen012",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "A human heart beats 75 times in one minute. Calculate the frequency in hertz and the time period of one beat.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen013"
+    "question_id": "cbse_xi_keph2dd_c206_gen013",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "An object attached to a spring oscillates with a period of 0.5 seconds. Calculate its frequency in hertz.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen014"
+    "question_id": "cbse_xi_keph2dd_c206_gen014",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "For a simple periodic function described by f(t) = A cos(αt), if the period T is 4 seconds, determine the value of α.",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen015"
+    "question_id": "cbse_xi_keph2dd_c206_gen015",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Consider the function f(t) = sin(ωt) + cos(2ωt) + sin(4ωt). Determine whether the function is periodic and, if so, find its period.",
@@ -256,6 +271,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen016"
+    "question_id": "cbse_xi_keph2dd_c206_gen016",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   }
 ]

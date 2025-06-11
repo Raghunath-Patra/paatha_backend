@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen029"
+    "question_id": "cbse_xii_lemh1dd_c106_gen029",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "According to the First Derivative Test, if f'(x) changes sign from positive to negative as x increases through c, then x = c is a:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen030"
+    "question_id": "cbse_xii_lemh1dd_c106_gen030",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "In the context of the Second Derivative Test, if f'(c) = 0 and f''(c) = 0, what can be concluded about point c?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen031"
+    "question_id": "cbse_xii_lemh1dd_c106_gen031",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Which theorem guarantees that every continuous function on a closed interval [a, b] attains both its absolute maximum and absolute minimum values?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen032"
+    "question_id": "cbse_xii_lemh1dd_c106_gen032",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Define a critical point of a function.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen033"
+    "question_id": "cbse_xii_lemh1dd_c106_gen033",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "State the First Derivative Test for determining local extrema.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen034"
+    "question_id": "cbse_xii_lemh1dd_c106_gen034",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Explain the difference between local extrema and absolute extrema.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen035"
+    "question_id": "cbse_xii_lemh1dd_c106_gen035",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "What is the significance of turning points in sketching the graph of a function?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen036"
+    "question_id": "cbse_xii_lemh1dd_c106_gen036",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Prove that if f is differentiable at an interior point c and has a local maximum (or local minimum) at c, then f′(c) = 0.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen037"
+    "question_id": "cbse_xii_lemh1dd_c106_gen037",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Discuss why the converse of the theorem 'if f has a local extremum at c, then f′(c)=0 or f is not differentiable at c' is not true. Provide a counterexample to illustrate your point.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen038"
+    "question_id": "cbse_xii_lemh1dd_c106_gen038",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "The profit from a grove of orange trees is modeled by P(x) = 100x – 2x², where x is the number of trees per acre. Find the number of trees per acre that maximizes the profit.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen039"
+    "question_id": "cbse_xii_lemh1dd_c106_gen039",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Find the points of local extrema for the function f(x) = 2x³ – 6x² + 6x + 5.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen040"
+    "question_id": "cbse_xii_lemh1dd_c106_gen040",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Find the absolute maximum and minimum values of the function f(x) = 2x³ – 15x² + 36x + 1 on the closed interval [1, 5].",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen041"
+    "question_id": "cbse_xii_lemh1dd_c106_gen041",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Find two positive numbers whose sum is 15 and for which the sum of their squares is minimized.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen042"
+    "question_id": "cbse_xii_lemh1dd_c106_gen042",
+    "section_name": "6.4 Maxima and Minima"
   }
 ]

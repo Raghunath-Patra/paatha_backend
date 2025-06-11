@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen051"
+    "question_id": "cbse_xi_keph2dd_c205_gen051",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "In the derivation of the pressure of an ideal gas, the expression P = (1/3) n m v² is obtained. What does the term v² represent in this expression?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen052"
+    "question_id": "cbse_xi_keph2dd_c205_gen052",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Which law ensures that the pressure measured in one part of a gas at equilibrium is the same as anywhere else in the container?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen053"
+    "question_id": "cbse_xi_keph2dd_c205_gen053",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "What is the average translational kinetic energy per molecule in an ideal gas at temperature T?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen054"
+    "question_id": "cbse_xi_keph2dd_c205_gen054",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "For an ideal gas enclosed in a container, which of the following quantities does the average kinetic energy of its molecules depend on?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen055"
+    "question_id": "cbse_xi_keph2dd_c205_gen055",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Explain briefly why the collisions between gas molecules and the walls of a container can be assumed to be elastic in kinetic theory.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen056"
+    "question_id": "cbse_xi_keph2dd_c205_gen056",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "State the expression that relates the pressure of an ideal gas to the number density, mass of molecules, and the average squared velocity, as derived in kinetic theory.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen057"
+    "question_id": "cbse_xi_keph2dd_c205_gen057",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "How does the isotropic distribution of molecular velocities in an ideal gas simplify the calculation for pressure?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen058"
+    "question_id": "cbse_xi_keph2dd_c205_gen058",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Discuss and derive the relationship between the pressure of an ideal gas and the average kinetic energy of its molecules. Include in your discussion the significance of elastic collisions and the isotropic distribution of molecular velocities.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen059"
+    "question_id": "cbse_xi_keph2dd_c205_gen059",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Explain the kinetic interpretation of temperature using the equation (1/2) m v² = (3/2) kB T. How does this relate to the internal energy of an ideal gas?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen060"
+    "question_id": "cbse_xi_keph2dd_c205_gen060",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Analyze the role of molecular mass in determining the root mean square (rms) speed of gas molecules and discuss how this concept explains the phenomenon of diffusion in a mixture of gases.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen061"
+    "question_id": "cbse_xi_keph2dd_c205_gen061",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "True or False: In the kinetic theory of gases, collisions between molecules are inelastic, leading to a loss of kinetic energy.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen062"
+    "question_id": "cbse_xi_keph2dd_c205_gen062",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "True or False: In an ideal gas mixture at equilibrium, all gases have the same average kinetic energy per molecule regardless of their molecular mass.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen063"
+    "question_id": "cbse_xi_keph2dd_c205_gen063",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "A cube of side 0.1 m contains nitrogen gas with a number density of 2.5 x 10^25 molecules/m^3. The mass of a nitrogen molecule is 4.65 x 10^-26 kg and for molecules moving towards one wall, the average square of the x-component of their speed is 1.5 x 10^5 m^2/s^2. Calculate the pressure exerted on one of the walls using kinetic theory. (Assume the gas is isotropic.)",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen064"
+    "question_id": "cbse_xi_keph2dd_c205_gen064",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Using the equation 1/2 m v^2 = 3/2 kB T, calculate the root mean square (rms) speed of a nitrogen molecule at T = 300 K. Given: m = 4.65 x 10^-26 kg and Boltzmann constant kB = 1.38 x 10^-23 J/K.",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen065"
+    "question_id": "cbse_xi_keph2dd_c205_gen065",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "In a mixture of argon and chlorine at 300 K, the atomic mass of argon is 39.9 u and the molecular mass of chlorine is 70.9 u. Given that 1 u = 1.66 x 10^-27 kg, calculate the ratio of the rms speeds of argon and chlorine molecules.",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen066"
+    "question_id": "cbse_xi_keph2dd_c205_gen066",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "For an ideal gas in a cube of side l, derive an expression for the number of collisions per second on one wall from a molecule moving with an x-component speed of 200 m/s, assuming a number density of 2.0 x 10^25 molecules/m^3 and a wall area of 0.01 m^2.",
@@ -270,7 +286,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen067"
+    "question_id": "cbse_xi_keph2dd_c205_gen067",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Using the relation (1/2) m v^2 = (3/2) kB T, determine the average squared speed (v^2) for a molecule of mass 5.0 x 10^-26 kg at a temperature of 350 K. Use kB = 1.38 x 10^-23 J/K.",
@@ -284,7 +301,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen068"
+    "question_id": "cbse_xi_keph2dd_c205_gen068",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Example 12.6 discusses uranium isotopes in uranium hexafluoride gas with masses 349 u and 352 u. Calculate the percentage difference in the rms speeds of the two isotopic molecules at any given temperature.",
@@ -298,6 +316,7 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen069"
+    "question_id": "cbse_xi_keph2dd_c205_gen069",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   }
 ]

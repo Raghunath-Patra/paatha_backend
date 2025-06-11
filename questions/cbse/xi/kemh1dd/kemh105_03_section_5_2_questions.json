@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen015"
+    "question_id": "cbse_xi_kemh1dd_c105_gen015",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "How many integer solutions does the inequality 3 < x < 5 have?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen016"
+    "question_id": "cbse_xi_kemh1dd_c105_gen016",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "In the context of purchasing items, the inequality 40x + 20y ≤ 120 represents which of the following?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen017"
+    "question_id": "cbse_xi_kemh1dd_c105_gen017",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Which of the following is an example of a slack inequality?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen018"
+    "question_id": "cbse_xi_kemh1dd_c105_gen018",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Define a literal inequality.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen019"
+    "question_id": "cbse_xi_kemh1dd_c105_gen019",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "State the difference between a strict inequality and a slack inequality.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen020"
+    "question_id": "cbse_xi_kemh1dd_c105_gen020",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Express the purchasing situation where Reshma has ₹120, registers cost ₹40, and pens cost ₹20 as an inequality.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen021"
+    "question_id": "cbse_xi_kemh1dd_c105_gen021",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "What are double inequalities? Provide an example as mentioned in the textbook section.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen022"
+    "question_id": "cbse_xi_kemh1dd_c105_gen022",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Prove that if x satisfies the inequality 3 ≤ x < 5, then the maximum integer value that x can take is 4.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen023"
+    "question_id": "cbse_xi_kemh1dd_c105_gen023",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Derive a general solution method for a linear inequality of the form ax + b ≤ 0 and apply this method for a = 2 and b = -4.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen024"
+    "question_id": "cbse_xi_kemh1dd_c105_gen024",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Ravi goes to the market with ₹200 to buy rice packets costing ₹30 each. Formulate the inequality that represents his spending and determine the maximum number of packets he can buy.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen025"
+    "question_id": "cbse_xi_kemh1dd_c105_gen025",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Reshma has ₹120 to buy registers priced at ₹40 each and pens priced at ₹20 each. List all pairs of nonnegative integers (x, y) that satisfy the inequality 40x + 20y ≤ 120.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen026"
+    "question_id": "cbse_xi_kemh1dd_c105_gen026",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Solve the inequality 2x + 3 > 7 and represent the solution on a number line.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen027"
+    "question_id": "cbse_xi_kemh1dd_c105_gen027",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "Find all integer solutions of the double inequality 3 ≤ x < 7.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen028"
+    "question_id": "cbse_xi_kemh1dd_c105_gen028",
+    "section_name": "5.2 Inequalities**"
   },
   {
     "question_text": "For the inequality 3x + 2y ≤ 18, where x and y are nonnegative integers, find all possible pairs (x, y) that satisfy the inequality.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kemh1dd_c105_gen029"
+    "question_id": "cbse_xi_kemh1dd_c105_gen029",
+    "section_name": "5.2 Inequalities**"
   }
 ]

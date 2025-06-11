@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "12.1 DO PLANTS BREATHE?"
+    },
+    {
+      "number": 2,
+      "name": "12.2 GLYCOLYSIS"
+    },
+    {
+      "number": 3,
+      "name": "12.3 FERMENTATION"
+    },
+    {
+      "number": 4,
+      "name": "12.4 AEROBIC RESPIRATION"
+    },
+    {
+      "number": 5,
+      "name": "12.5 THE RESPIRATORY BALANCE SHEET"
+    },
+    {
+      "number": 6,
+      "name": "12.6 AMPHIBOLIC PATHWAY"
+    },
+    {
+      "number": 7,
+      "name": "12.7 RESPIRATORY QUOTIENT"
+    }
+  ]
+}

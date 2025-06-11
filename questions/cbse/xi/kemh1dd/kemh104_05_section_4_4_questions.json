@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen043"
+    "question_id": "cbse_xi_kemh1dd_c104_gen043",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "If z = a + ib, what is the conjugate of z?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen044"
+    "question_id": "cbse_xi_kemh1dd_c104_gen044",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Select the true statement regarding the conjugate of the product of two complex numbers z₁ and z₂.",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen045"
+    "question_id": "cbse_xi_kemh1dd_c104_gen045",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Define the modulus and the conjugate of a complex number. Provide the formulas for z = a + ib.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen046"
+    "question_id": "cbse_xi_kemh1dd_c104_gen046",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Explain the relationship between z, its conjugate overline{z}, and its modulus |z|.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen047"
+    "question_id": "cbse_xi_kemh1dd_c104_gen047",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "State the formula for the multiplicative inverse of a non-zero complex number z = a + ib.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen048"
+    "question_id": "cbse_xi_kemh1dd_c104_gen048",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Prove that for any two non-zero complex numbers z₁ and z₂, the conjugate of their quotient is the quotient of their conjugates; that is, prove overline{(z₁/z₂)} = overline{z₁} / overline{z₂}.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen049"
+    "question_id": "cbse_xi_kemh1dd_c104_gen049",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Derive the equation z · overline{z} = |z|² for a complex number z = a + ib.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen050"
+    "question_id": "cbse_xi_kemh1dd_c104_gen050",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Find the multiplicative inverse of the complex number 3 - 4i and express your answer in the form a + ib.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen051"
+    "question_id": "cbse_xi_kemh1dd_c104_gen051",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Let z₁ = 2 + 3i and z₂ = 1 - 2i. Compute |z₁z₂| and verify if it equals |z₁||z₂|.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen052"
+    "question_id": "cbse_xi_kemh1dd_c104_gen052",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Express the complex fraction (5 + 2i) / (3 - 4i) in the form a + ib.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen053"
+    "question_id": "cbse_xi_kemh1dd_c104_gen053",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   },
   {
     "question_text": "Given z = -1 + i, compute its modulus and conjugate, and verify that z · overline{z} = |z|².",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "05_section_4_4",
-    "question_id": "cbse_xi_kemh1dd_c104_gen054"
+    "question_id": "cbse_xi_kemh1dd_c104_gen054",
+    "section_name": "4.4 The Modulus and the Conjugate of a Complex Number**"
   }
 ]

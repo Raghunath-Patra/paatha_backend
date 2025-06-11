@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen108"
+    "question_id": "cbse_xii_lemh2dd_c201_gen108",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "When performing a substitution in a definite integral, why is it necessary to change the limits of integration?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen109"
+    "question_id": "cbse_xii_lemh2dd_c201_gen109",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "For the integral ∫₀¹ (tan⁻¹ x)/(1 + x²) dx, if we let t = tan⁻¹ x, then which of the following correctly represents dt in terms of x?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen110"
+    "question_id": "cbse_xii_lemh2dd_c201_gen110",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Explain why the constant of integration is omitted when evaluating a definite integral using the substitution method.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen111"
+    "question_id": "cbse_xii_lemh2dd_c201_gen111",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Define the term 'back-substitution' in the context of evaluating integrals by substitution.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen112"
+    "question_id": "cbse_xii_lemh2dd_c201_gen112",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Discuss at least one advantage of changing the limits of integration during substitution instead of reverting back to the original variable after integration.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen113"
+    "question_id": "cbse_xii_lemh2dd_c201_gen113",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Derive and explain the substitution method for evaluating definite integrals. Illustrate your explanation by evaluating the integral ∫₋₁¹ 5x⁴ √(x⁵ + 1) dx, showing all steps including the change of limits.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen114"
+    "question_id": "cbse_xii_lemh2dd_c201_gen114",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Prove that the process of evaluating definite integrals via substitution is valid. Specifically, show that if x = g(t) is a differentiable function with inverse, then the definite integral ∫ₐᵇ f(x) dx can be written as ∫₍g⁻¹(a)₎ᵍ⁻¹(b) f(g(t)) g'(t) dt. Include all necessary steps and reasoning.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen115"
+    "question_id": "cbse_xii_lemh2dd_c201_gen115",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Evaluate the integral ∫₀² (2x)/(x² + 1) dx using substitution. Show all your steps.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen116"
+    "question_id": "cbse_xii_lemh2dd_c201_gen116",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Evaluate the integral ∫₀ᴨ sin(x) cos(x) dx using substitution with an appropriate variable change. Provide a detailed step-by-step solution.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen117"
+    "question_id": "cbse_xii_lemh2dd_c201_gen117",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Evaluate the integral ∫₋₁¹ 5x⁴ √(x⁵ + 1) dx using the substitution method by changing the limits. Provide all steps in your solution.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen118"
+    "question_id": "cbse_xii_lemh2dd_c201_gen118",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   },
   {
     "question_text": "Evaluate the integral ∫₀¹ (tan⁻¹ x)/(1 + x²) dx using substitution. Show all steps including the change in limits and the final evaluation.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "18_section_7_9",
-    "question_id": "cbse_xii_lemh2dd_c201_gen119"
+    "question_id": "cbse_xii_lemh2dd_c201_gen119",
+    "section_name": "7.9 Evaluation of Definite Integrals by Substitution"
   }
 ]

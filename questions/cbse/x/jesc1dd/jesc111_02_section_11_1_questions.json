@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen001"
+    "question_id": "cbse_x_jesc1dd_c111_gen001",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "In a simple electric circuit, where should an ammeter be connected to correctly measure the circuit's current?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen002"
+    "question_id": "cbse_x_jesc1dd_c111_gen002",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "If a total charge of 6 coulombs passes through a cross-section of a conductor in 3 seconds, what is the electric current in the conductor?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen003"
+    "question_id": "cbse_x_jesc1dd_c111_gen003",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "Which statement best explains the conventional direction of electric current?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen004"
+    "question_id": "cbse_x_jesc1dd_c111_gen004",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "Define electric current in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen005"
+    "question_id": "cbse_x_jesc1dd_c111_gen005",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "What is the function of a switch in an electric circuit?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen006"
+    "question_id": "cbse_x_jesc1dd_c111_gen006",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "Derive the formula I = Q/t and explain the significance of each term.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen007"
+    "question_id": "cbse_x_jesc1dd_c111_gen007",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "Explain why the conventional current direction is taken to be opposite to the actual electron flow.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen008"
+    "question_id": "cbse_x_jesc1dd_c111_gen008",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "Describe in detail how a simple electric circuit works, starting from the battery, through the switch, and to the bulb, including the role of each component.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen009"
+    "question_id": "cbse_x_jesc1dd_c111_gen009",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "A circuit carries a current of 3 A for 5 seconds. Calculate (a) the total charge that passes through a cross-section of the conductor, and (b) the approximate number of electrons transferred, given that the charge of one electron is 1.6 × 10⁻¹⁹ C.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen010"
+    "question_id": "cbse_x_jesc1dd_c111_gen010",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "True or False: \"A complete electric circuit is one that is open so that the current flows continuously.\" If false, provide the correct statement.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen011"
+    "question_id": "cbse_x_jesc1dd_c111_gen011",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "True or False: \"1 milliampere (mA) is equivalent to 10⁻³ amperes (A).\"",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen012"
+    "question_id": "cbse_x_jesc1dd_c111_gen012",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "True or False: \"An ammeter is always connected in parallel in a circuit to measure the electric current accurately.\" If false, correct the statement.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen013"
+    "question_id": "cbse_x_jesc1dd_c111_gen013",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   },
   {
     "question_text": "True or False: \"The purpose of a switch in an electric circuit is solely to allow current to flow when it is in the 'on' position.\" If false, provide a more complete description.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_x_jesc1dd_c111_gen014"
+    "question_id": "cbse_x_jesc1dd_c111_gen014",
+    "section_name": "11.1 ELECTRIC CURRENT AND CIRCUIT"
   }
 ]

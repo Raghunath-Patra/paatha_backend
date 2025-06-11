@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "9.1 Angle Subtended by a Chord at a Point"
+    },
+    {
+      "number": 2,
+      "name": "9.2 Perpendicular from the Centre to a Chord"
+    },
+    {
+      "number": 3,
+      "name": "9.3 Equal Chords and their Distances from the Centre"
+    },
+    {
+      "number": 4,
+      "name": "9.4 Angle Subtended by an Arc of a Circle"
+    },
+    {
+      "number": 5,
+      "name": "9.5 Cyclic Quadrilaterals"
+    },
+    {
+      "number": 6,
+      "name": "9.6 Summary"
+    }
+  ]
+}

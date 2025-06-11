@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen038"
+    "question_id": "cbse_x_jesc1dd_c112_gen038",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "In the domestic circuit diagram, which color insulation represents the earth wire?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen039"
+    "question_id": "cbse_x_jesc1dd_c112_gen039",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "What is the primary function of an electric fuse in a domestic circuit?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen040"
+    "question_id": "cbse_x_jesc1dd_c112_gen040",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "Define the term 'main supply' (or 'mains') in the context of domestic electric circuits.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen041"
+    "question_id": "cbse_x_jesc1dd_c112_gen041",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "What safety role does the earth wire play in domestic electric circuits?",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen042"
+    "question_id": "cbse_x_jesc1dd_c112_gen042",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "Why are appliances in a domestic circuit connected in parallel rather than in series?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen043"
+    "question_id": "cbse_x_jesc1dd_c112_gen043",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "Explain how an electric fuse protects domestic circuits from the dangers of overloading and short-circuiting.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen044"
+    "question_id": "cbse_x_jesc1dd_c112_gen044",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "Explain in detail the functioning and distribution of power in a typical domestic electric circuit, starting from the main supply and including safety measures.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen045"
+    "question_id": "cbse_x_jesc1dd_c112_gen045",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "Discuss the importance of connecting the metallic bodies of electrical appliances to the earth wire, and describe the potential hazards if this safety measure is not employed.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen046"
+    "question_id": "cbse_x_jesc1dd_c112_gen046",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "Analyze a scenario in which too many high-power appliances (e.g., air coolers, geysers) are connected to a single 15 A circuit. Discuss the potential hazards and the measures that can be implemented to prevent circuit overloading.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen047"
+    "question_id": "cbse_x_jesc1dd_c112_gen047",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "True or False: In domestic circuits, all appliances are connected in series, so that if one appliance is turned off, the others also lose power.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen048"
+    "question_id": "cbse_x_jesc1dd_c112_gen048",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   },
   {
     "question_text": "True or False: The fuse in a domestic electrical circuit only protects the circuit by melting due to short-circuiting.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "jesc112",
     "section_id": "08_section_12_4",
-    "question_id": "cbse_x_jesc1dd_c112_gen049"
+    "question_id": "cbse_x_jesc1dd_c112_gen049",
+    "section_name": "12.4 DOMESTIC ELECTRIC CIRCUITS"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen014"
+    "question_id": "cbse_xi_kemh1dd_c112_gen014",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Which of the following best defines the derivative of a function at a point?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen015"
+    "question_id": "cbse_xi_kemh1dd_c112_gen015",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "By differentiating the distance function s = 4.9t², what is the instantaneous velocity of the body at t = 2 seconds?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen016"
+    "question_id": "cbse_xi_kemh1dd_c112_gen016",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Define the average velocity between two time instants and explain how it is computed.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen017"
+    "question_id": "cbse_xi_kemh1dd_c112_gen017",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Why does taking smaller time intervals around t = 2 seconds give a better approximation to the instantaneous velocity?",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen018"
+    "question_id": "cbse_xi_kemh1dd_c112_gen018",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Explain the relationship between the slope of the tangent line to a curve and the derivative at that point.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen019"
+    "question_id": "cbse_xi_kemh1dd_c112_gen019",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Derive the expression for the instantaneous velocity at t = 2 for the distance function s = 4.9t² using the limit process.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen020"
+    "question_id": "cbse_xi_kemh1dd_c112_gen020",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Using a diagram, explain how the secant lines approaching the tangent line demonstrate the concept of instantaneous velocity for the function s = 4.9t² at t = 2.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen021"
+    "question_id": "cbse_xi_kemh1dd_c112_gen021",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Using the given data from the textbook, calculate the average velocity of the falling body between t = 1 second and t = 2 seconds for s = 4.9t².",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen022"
+    "question_id": "cbse_xi_kemh1dd_c112_gen022",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Calculate the average velocity of the body between t = 1.8 seconds and t = 2 seconds using the provided data.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen023"
+    "question_id": "cbse_xi_kemh1dd_c112_gen023",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Determine the average velocity between t = 2 seconds and t = 2.1 seconds using the function s = 4.9t².",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen024"
+    "question_id": "cbse_xi_kemh1dd_c112_gen024",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   },
   {
     "question_text": "Differentiate the distance function s = 4.9t² with respect to t to find the instantaneous velocity of the body at any time t, and then compute the value at t = 2 seconds.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_xi_kemh1dd_c112_gen025"
+    "question_id": "cbse_xi_kemh1dd_c112_gen025",
+    "section_name": "12.2 Intuitive Idea of Derivatives"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen036"
+    "question_id": "cbse_xii_leph1dd_c106_gen036",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "What is the SI unit of magnetic flux?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen037"
+    "question_id": "cbse_xii_leph1dd_c106_gen037",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Magnetic flux is considered which type of quantity?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen038"
+    "question_id": "cbse_xii_leph1dd_c106_gen038",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "How is the concept of magnetic flux extended to a curved surface with a nonuniform magnetic field?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen039"
+    "question_id": "cbse_xii_leph1dd_c106_gen039",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Define magnetic flux and state its mathematical representation.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen040"
+    "question_id": "cbse_xii_leph1dd_c106_gen040",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Explain the concept of the area as a vector in the context of magnetic flux.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen041"
+    "question_id": "cbse_xii_leph1dd_c106_gen041",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "How is magnetic flux computed for a curved surface in a nonuniform magnetic field?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen042"
+    "question_id": "cbse_xii_leph1dd_c106_gen042",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Discuss the physical significance of magnetic flux in Faraday's law of electromagnetic induction, including how changes in flux can induce an emf.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen043"
+    "question_id": "cbse_xii_leph1dd_c106_gen043",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Derive the expression for magnetic flux through a flat surface placed in a uniform magnetic field, and explain the influence of the angle between the magnetic field and the surface normal.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen044"
+    "question_id": "cbse_xii_leph1dd_c106_gen044",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "True or False: Magnetic flux is a vector quantity because it involves a dot product between the magnetic field and the area vector.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen045"
+    "question_id": "cbse_xii_leph1dd_c106_gen045",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "True or False: The equation φ_B = BA cosθ is only applicable to flat surfaces in uniform magnetic fields and cannot be extended to curved or nonuniform surfaces.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen046"
+    "question_id": "cbse_xii_leph1dd_c106_gen046",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Calculate the magnetic flux through a flat rectangular surface with an area of 3.0 m² placed in a uniform magnetic field of 0.8 T, where the field makes an angle of 45° with the normal to the surface.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen047"
+    "question_id": "cbse_xii_leph1dd_c106_gen047",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "A surface is divided into two regions. In Region 1, the magnetic field is 0.5 T, the area is 1.0 m², and the field is perpendicular to the area (θ = 0°). In Region 2, the magnetic field is 0.2 T, the area is 2.0 m², and the field makes an angle of 60° with the normal. Calculate the total magnetic flux through the entire surface.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen048"
+    "question_id": "cbse_xii_leph1dd_c106_gen048",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "A circular loop with an area of 0.1 m² is placed in a magnetic field of 1.5 T such that the normal to the loop makes an initial angle of 30° with the field. If the loop is rotated uniformly to an angle of 90° over a period of 5 seconds, calculate the change in magnetic flux through the loop during this rotation.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen049"
+    "question_id": "cbse_xii_leph1dd_c106_gen049",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Determine the total magnetic flux through a surface with an area of 4 m² that is divided into three equal parts. In these parts, the magnetic fields are 0.4 T with an angle of 0°, 0.6 T with an angle of 60°, and 0.8 T with an angle of 45° respectively. Assume each part has equal area.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen050"
+    "question_id": "cbse_xii_leph1dd_c106_gen050",
+    "section_name": "6.3 MAGNETIC FLUX"
   }
 ]

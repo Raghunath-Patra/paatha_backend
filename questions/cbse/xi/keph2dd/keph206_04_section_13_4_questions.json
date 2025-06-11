@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen094"
+    "question_id": "cbse_xi_keph2dd_c206_gen094",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "What is the phase difference between the x and y projections of a particle undergoing uniform circular motion?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen095"
+    "question_id": "cbse_xi_keph2dd_c206_gen095",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "If a particle moves in a circle with a period T = 30 s, what is the period of the corresponding simple harmonic motion observed as its projection on a diameter?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen096"
+    "question_id": "cbse_xi_keph2dd_c206_gen096",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle in circular motion has an initial phase φ = 45° (or π/4 radians) and a period T = 4 s. What is the x projection of its displacement at time t = 0?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen097"
+    "question_id": "cbse_xi_keph2dd_c206_gen097",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Define simple harmonic motion (SHM) as observed from the projection of uniform circular motion.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen098"
+    "question_id": "cbse_xi_keph2dd_c206_gen098",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Briefly explain why the shadow of a ball moving in a circle appears to execute simple harmonic motion.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen099"
+    "question_id": "cbse_xi_keph2dd_c206_gen099",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Discuss the difference between the force acting on a particle in linear simple harmonic motion and the centripetal force required to keep a particle in uniform circular motion.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen100"
+    "question_id": "cbse_xi_keph2dd_c206_gen100",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Derive the expression for the displacement along the y-axis for a particle in uniform circular motion, given that its x projection is x(t) = A cos(ωt + φ).",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen101"
+    "question_id": "cbse_xi_keph2dd_c206_gen101",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Explain the relationship between uniform circular motion and simple harmonic motion. Provide a detailed derivation of the x projection equation from the geometry of circular motion.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen102"
+    "question_id": "cbse_xi_keph2dd_c206_gen102",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Using the concept of projection in circular motion, analyze how altering the initial phase angle φ affects the resulting simple harmonic motion. Discuss the impact on amplitude, period, and phase shift.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen103"
+    "question_id": "cbse_xi_keph2dd_c206_gen103",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Design an experiment to demonstrate the relationship between uniform circular motion and simple harmonic motion using a ball on a string and a wall to capture its shadow. Explain the crucial parameters and measurement methods involved.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen104"
+    "question_id": "cbse_xi_keph2dd_c206_gen104",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: In the projection of a uniform circular motion onto a diameter, the resulting motion is always simple harmonic motion.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen105"
+    "question_id": "cbse_xi_keph2dd_c206_gen105",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: Changing the direction of observation (i.e., the line onto which the motion is projected) will always yield simple harmonic motion.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen106"
+    "question_id": "cbse_xi_keph2dd_c206_gen106",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle moves uniformly on a circle of radius 5 m with an angular speed of 2 rad/s. Find the equation of motion for the x projection if the initial phase is 0.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen107"
+    "question_id": "cbse_xi_keph2dd_c206_gen107",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle moving in a circle of radius 3 m has a period T of 6 s. If its initial phase is 30° (π/6 radians), determine its displacement along the x-axis at t = 3 s.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen108"
+    "question_id": "cbse_xi_keph2dd_c206_gen108",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A reference particle moves on a circle of radius A with period T such that its x projection is given by x(t) = A cos(2πt/T + π/4). Find the x displacement at time t = T/8.",
@@ -241,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen109"
+    "question_id": "cbse_xi_keph2dd_c206_gen109",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Two particles, P and Q, execute uniform circular motion on circles of radii 4 m and 6 m respectively. Particle P has a period of 8 s and an initial phase of 0, and particle Q has a period of 12 s with an initial phase of 90° (π/2 radians). Write the equations for their x projections and determine the time at which both particles have the same x displacement for the first time after t = 0.",
@@ -255,7 +271,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen110"
+    "question_id": "cbse_xi_keph2dd_c206_gen110",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle executing uniform circular motion has its x projection described by x(t) = 2 cos(4t - π/3) and its corresponding y projection by y(t) = 2 sin(4t - π/3). Determine the angular speed, period, amplitude, and initial phase of the motion. Also, compute the x and y displacements at t = 0.5 s.",
@@ -269,6 +286,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen111"
+    "question_id": "cbse_xi_keph2dd_c206_gen111",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   }
 ]

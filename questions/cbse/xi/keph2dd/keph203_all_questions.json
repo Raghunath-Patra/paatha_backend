@@ -263,7 +263,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen038"
+    "question_id": "cbse_xi_keph2dd_c203_gen038",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Which physical property of a liquid is most commonly used for measuring temperature in a liquid-in-glass thermometer?",
@@ -282,7 +283,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen039"
+    "question_id": "cbse_xi_keph2dd_c203_gen039",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "If a thermometer shows a reading of 50°C, what is the corresponding Fahrenheit temperature using the relationship (t°F - 32)/180 = t°C/100?",
@@ -301,7 +303,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen040"
+    "question_id": "cbse_xi_keph2dd_c203_gen040",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "How many equal intervals are there between the ice point and steam point on the Celsius scale?",
@@ -320,7 +323,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen041"
+    "question_id": "cbse_xi_keph2dd_c203_gen041",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Why are the ice point and steam point chosen as the fixed reference points for calibrating thermometers?",
@@ -339,7 +343,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen042"
+    "question_id": "cbse_xi_keph2dd_c203_gen042",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Define a thermometer and explain its purpose in temperature measurement.",
@@ -353,7 +358,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen043"
+    "question_id": "cbse_xi_keph2dd_c203_gen043",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Explain the importance of calibrating thermometers using fixed reference points.",
@@ -367,7 +373,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen044"
+    "question_id": "cbse_xi_keph2dd_c203_gen044",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Describe how the linear variation in the volume of a fluid with temperature is utilized in liquid-in-glass thermometers.",
@@ -381,7 +388,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen045"
+    "question_id": "cbse_xi_keph2dd_c203_gen045",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Interpret the equation (t°F - 32)/180 = t°C/100 and explain its significance in temperature conversion.",
@@ -395,7 +403,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen046"
+    "question_id": "cbse_xi_keph2dd_c203_gen046",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Discuss how fixed reference points, such as the ice and steam points of water, are used in calibration. Why are these points significant in achieving accurate temperature measurements?",
@@ -409,7 +418,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen047"
+    "question_id": "cbse_xi_keph2dd_c203_gen047",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Design an experiment to verify the linear relationship between Celsius and Fahrenheit temperature scales using a liquid-in-glass thermometer. Outline the procedure, controls, and possible sources of error.",
@@ -423,7 +433,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen048"
+    "question_id": "cbse_xi_keph2dd_c203_gen048",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "The Celsius temperature scale is based on the ice and steam points of water. Do you agree that these conditions provide an absolute measure of temperature? Explain your reasoning.",
@@ -437,7 +448,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen049"
+    "question_id": "cbse_xi_keph2dd_c203_gen049",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "A linear graph of Fahrenheit temperature versus Celsius temperature suggests that the relationship is directly proportional after an offset adjustment. True or False?",
@@ -451,7 +463,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen050"
+    "question_id": "cbse_xi_keph2dd_c203_gen050",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Convert 25°C to Fahrenheit using the conversion relationship (t°F - 32)/180 = t°C/100.",
@@ -465,7 +478,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen051"
+    "question_id": "cbse_xi_keph2dd_c203_gen051",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "A thermometer calibrated on the Celsius scale shows a reading of 48°C. Use the equation (t°F - 32)/180 = t°C/100 to calculate the corresponding Fahrenheit reading.",
@@ -479,7 +493,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen052"
+    "question_id": "cbse_xi_keph2dd_c203_gen052",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "A laboratory experiment uses a new liquid whose expansion is measured between 5°C and 85°C. If at 5°C the thermometer reads 41°F, and the relationship is assumed linear with a standard ratio of 1.8°F per 1°C, what is the Fahrenheit reading corresponding to 85°C?",
@@ -493,7 +508,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen053"
+    "question_id": "cbse_xi_keph2dd_c203_gen053",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Derive the formula for converting Fahrenheit to Celsius given the conversion relationship (t°F - 32)/180 = t°C/100. Then, calculate the Celsius temperature corresponding to 68°F.",
@@ -507,7 +523,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen054"
+    "question_id": "cbse_xi_keph2dd_c203_gen054",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "A thermometer is expected to follow the ideal linear conversion relationship (t°F - 32)/180 = t°C/100. For a measured temperature of 50°C, the ideal Fahrenheit value is 122°F. If an experimental reading at 50°C is 120°F, calculate the absolute error and the percentage error relative to the ideal value.",
@@ -521,7 +538,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen055"
+    "question_id": "cbse_xi_keph2dd_c203_gen055",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Which of the following expressions correctly represents the fractional change in length for a rod undergoing linear expansion?",
@@ -540,7 +558,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen077"
+    "question_id": "cbse_xi_keph2dd_c203_gen077",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "For a solid cube that expands equally in all directions, which relation correctly gives the coefficient of volume expansion in terms of the coefficient of linear expansion?",
@@ -559,7 +578,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen078"
+    "question_id": "cbse_xi_keph2dd_c203_gen078",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Which statement best describes the behavior of water between 0°C and 4°C?",
@@ -578,7 +598,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen079"
+    "question_id": "cbse_xi_keph2dd_c203_gen079",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Based on the given data, which material has the lowest coefficient of linear expansion?",
@@ -597,7 +618,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen080"
+    "question_id": "cbse_xi_keph2dd_c203_gen080",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "For an ideal gas at constant pressure, which equation correctly represents the coefficient of volume expansion?",
@@ -616,7 +638,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen081"
+    "question_id": "cbse_xi_keph2dd_c203_gen081",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Define the coefficient of linear expansion and explain its physical significance.",
@@ -630,7 +653,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen082"
+    "question_id": "cbse_xi_keph2dd_c203_gen082",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Explain why mercury in a thermometer rises when the thermometer is heated and falls when it is cooled.",
@@ -644,7 +668,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen083"
+    "question_id": "cbse_xi_keph2dd_c203_gen083",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Derive the relationship between the coefficient of volume expansion (α_v) and the coefficient of linear expansion (α₁) for a material that expands uniformly in all directions.",
@@ -658,7 +683,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen084"
+    "question_id": "cbse_xi_keph2dd_c203_gen084",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Briefly describe what is meant by thermal stress and discuss its effect on a rod whose ends are fixed.",
@@ -672,7 +698,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen085"
+    "question_id": "cbse_xi_keph2dd_c203_gen085",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Discuss the practical application of thermal expansion in loosening a tightly sealed metallic bottle lid. Describe the underlying physics and how it facilitates opening the lid.",
@@ -686,7 +713,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen086"
+    "question_id": "cbse_xi_keph2dd_c203_gen086",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Analyze the anomalous behavior of water between 0°C and 4°C and evaluate its environmental implications, particularly for aquatic life in lakes and ponds.",
@@ -700,7 +728,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen087"
+    "question_id": "cbse_xi_keph2dd_c203_gen087",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Examine the temperature dependence of the coefficient of volume expansion for gases using the ideal gas law. Provide a detailed explanation of how temperature affects α_v and why it is different from solids and liquids.",
@@ -714,7 +743,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen088"
+    "question_id": "cbse_xi_keph2dd_c203_gen088",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "True or False: The coefficient of area expansion for a rectangular sheet is approximately equal to the coefficient of linear expansion.",
@@ -728,7 +758,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen089"
+    "question_id": "cbse_xi_keph2dd_c203_gen089",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "True or False: A fully inflated balloon will contract if it is immersed in warm water.",
@@ -742,7 +773,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen090"
+    "question_id": "cbse_xi_keph2dd_c203_gen090",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "True or False: At room temperature, gases exhibit a coefficient of volume expansion that is orders of magnitude larger than that of solids and liquids.",
@@ -756,7 +788,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen091"
+    "question_id": "cbse_xi_keph2dd_c203_gen091",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "A 2-meter long aluminium rod (α₁ = 2.5×10⁻⁵ K⁻¹) is heated by 50°C. Calculate the increase in its length.",
@@ -770,7 +803,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen092"
+    "question_id": "cbse_xi_keph2dd_c203_gen092",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "A square copper plate has an area of 1 m². Given the coefficient of linear expansion for copper is 1.7×10⁻⁵ K⁻¹, compute the change in area when the temperature increases by 100°C.",
@@ -784,7 +818,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen093"
+    "question_id": "cbse_xi_keph2dd_c203_gen093",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "A cube made of brass (α₁ = 1.8×10⁻⁵ K⁻¹) has a side length of 1 m. Calculate the fractional increase in its volume when its temperature is raised by 80°C.",
@@ -798,7 +833,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen094"
+    "question_id": "cbse_xi_keph2dd_c203_gen094",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Determine the coefficient of volume expansion for an ideal gas at room temperature (300 K).",
@@ -812,7 +848,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen095"
+    "question_id": "cbse_xi_keph2dd_c203_gen095",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "A steel rail with a length of 5 m and a cross-sectional area of 40 cm² (0.004 m²) is fixed at its ends. If the temperature increases by 10°C, with steel having α₁ = 1.2×10⁻⁵ K⁻¹ and Young’s modulus Y = 2×10¹¹ N/m², calculate the thermal stress developed in the rail and the corresponding force exerted.",
@@ -826,7 +863,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "05_section_10_5",
-    "question_id": "cbse_xi_keph2dd_c203_gen096"
+    "question_id": "cbse_xi_keph2dd_c203_gen096",
+    "section_name": "10.5 THERMAL EXPANSION"
   },
   {
     "question_text": "Which of the following factors does the quantity of heat required to raise the temperature of a substance depend on?",
@@ -845,7 +883,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen097"
+    "question_id": "cbse_xi_keph2dd_c203_gen097",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "What is the SI unit of specific heat capacity as given in the section?",
@@ -864,7 +903,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen098"
+    "question_id": "cbse_xi_keph2dd_c203_gen098",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "In an experiment, if the mass of water is doubled while heating to raise its temperature by the same amount, what happens to the time required if the heating power remains constant?",
@@ -883,7 +923,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen099"
+    "question_id": "cbse_xi_keph2dd_c203_gen099",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Considering the provided experimental observations, why does water require more time to heat than mustard oil for the same temperature rise?",
@@ -902,7 +943,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen100"
+    "question_id": "cbse_xi_keph2dd_c203_gen100",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Which statement correctly distinguishes between molar specific heat capacity and specific heat capacity?",
@@ -921,7 +963,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen101"
+    "question_id": "cbse_xi_keph2dd_c203_gen101",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Define specific heat capacity and explain its significance in determining temperature changes in substances.",
@@ -935,7 +978,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen102"
+    "question_id": "cbse_xi_keph2dd_c203_gen102",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Describe the experimental evidence that demonstrates the dependence of heat energy required on the mass of the substance.",
@@ -949,7 +993,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen103"
+    "question_id": "cbse_xi_keph2dd_c203_gen103",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "How would the heating time change if the same experiment is conducted with double the mass of water for the same temperature rise, and why?",
@@ -963,7 +1008,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen104"
+    "question_id": "cbse_xi_keph2dd_c203_gen104",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Explain why water takes longer to warm up than land, based on its specific heat capacity. Include real-life implications of this property in your answer.",
@@ -977,7 +1023,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen105"
+    "question_id": "cbse_xi_keph2dd_c203_gen105",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Explain the concept of molar specific heat capacity and discuss how it differs from the specific heat capacity of a substance.",
@@ -991,7 +1038,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen106"
+    "question_id": "cbse_xi_keph2dd_c203_gen106",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Discuss how specific heat capacity values can be determined experimentally using time measurements when heating a substance. Include the role of the heat source and temperature change in your explanation.",
@@ -1005,7 +1053,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen107"
+    "question_id": "cbse_xi_keph2dd_c203_gen107",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Evaluate the impact of water's high specific heat capacity on global climate and daily weather, providing at least two examples to illustrate its significance.",
@@ -1019,7 +1068,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen108"
+    "question_id": "cbse_xi_keph2dd_c203_gen108",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: The specific heat capacity of a substance is independent of its nature.",
@@ -1033,7 +1083,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen109"
+    "question_id": "cbse_xi_keph2dd_c203_gen109",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: Molar specific heat capacity is expressed in J mol⁻¹ K⁻¹ and is defined per mole of the substance.",
@@ -1047,7 +1098,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen110"
+    "question_id": "cbse_xi_keph2dd_c203_gen110",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: In an experiment, if water is replaced with mustard oil, the time taken to raise the temperature by 20 °C will be longer due to oil having a higher specific heat capacity.",
@@ -1061,7 +1113,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen111"
+    "question_id": "cbse_xi_keph2dd_c203_gen111",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A 1 kg sample of water is heated so that its temperature increases by 30 K. Given that the specific heat capacity of water is 4186 J kg⁻¹ K⁻¹, calculate the total amount of heat energy required.",
@@ -1075,7 +1128,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen112"
+    "question_id": "cbse_xi_keph2dd_c203_gen112",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Calculate the amount of heat energy required to heat 2 kg of water by 40 K. Use the specific heat capacity of water as 4186 J kg⁻¹ K⁻¹.",
@@ -1089,7 +1143,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen113"
+    "question_id": "cbse_xi_keph2dd_c203_gen113",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Determine the heat required to raise the temperature of 1 mole of oxygen (O2) by 10 K at constant volume, given that the molar specific heat capacity at constant volume (Cᵥ) for O2 is 21.1 J mol⁻¹ K⁻¹.",
@@ -1103,7 +1158,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen114"
+    "question_id": "cbse_xi_keph2dd_c203_gen114",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Compare the heat energy required to heat 2 kg of water and 2 kg of edible oil by 20 K. The specific heat capacity of water is 4186 J kg⁻¹ K⁻¹, and that of edible oil is 1965 J kg⁻¹ K⁻¹.",
@@ -1117,7 +1173,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen115"
+    "question_id": "cbse_xi_keph2dd_c203_gen115",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A constant heat source provides energy at a rate of 500 J/s. If it takes 100 s to heat 1 kg of water by 20 K, derive the relationship between heat energy, mass, and temperature change, and verify the specific heat capacity of water from this data.",
@@ -1131,7 +1188,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_keph2dd_c203_gen116"
+    "question_id": "cbse_xi_keph2dd_c203_gen116",
+    "section_name": "10.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Which law states that for a given quantity of gas held at constant temperature, the product of pressure and volume remains constant?",
@@ -1150,7 +1208,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen056"
+    "question_id": "cbse_xi_keph2dd_c203_gen056",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "What is the numerical value of the universal gas constant R used in the ideal gas equation?",
@@ -1169,7 +1228,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen057"
+    "question_id": "cbse_xi_keph2dd_c203_gen057",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "When the pressure of a gas is held constant, which relationship best describes how volume and temperature relate?",
@@ -1188,7 +1248,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen058"
+    "question_id": "cbse_xi_keph2dd_c203_gen058",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A graph of pressure versus temperature at constant volume yields a straight line that intercepts the temperature axis at -273.15°C. What does this intercept represent?",
@@ -1207,7 +1268,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen059"
+    "question_id": "cbse_xi_keph2dd_c203_gen059",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Which of the following best explains the advantage of using a gas thermometer over a liquid-in-glass thermometer?",
@@ -1226,7 +1288,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen060"
+    "question_id": "cbse_xi_keph2dd_c203_gen060",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Explain briefly why a gas thermometer gives the same temperature reading irrespective of the type of gas used.",
@@ -1240,7 +1303,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen061"
+    "question_id": "cbse_xi_keph2dd_c203_gen061",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "State Charles' law and describe what physical quantities it relates.",
@@ -1254,7 +1318,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen062"
+    "question_id": "cbse_xi_keph2dd_c203_gen062",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "How do you convert a temperature from Celsius to Kelvin?",
@@ -1268,7 +1333,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen063"
+    "question_id": "cbse_xi_keph2dd_c203_gen063",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "What does the intercept of -273.15°C on a pressure versus temperature graph of a constant-volume gas experiment indicate?",
@@ -1282,7 +1348,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen064"
+    "question_id": "cbse_xi_keph2dd_c203_gen064",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Discuss how deviations from the ideal gas law occur at low temperatures and elaborate on the significance of extrapolating gas behavior to absolute zero.",
@@ -1296,7 +1363,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen065"
+    "question_id": "cbse_xi_keph2dd_c203_gen065",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Describe the working principle of a constant-volume gas thermometer and how it uses the ideal gas law to measure temperature.",
@@ -1310,7 +1378,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen066"
+    "question_id": "cbse_xi_keph2dd_c203_gen066",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Using the ideal gas law, explain how Boyle's law and Charles' law can be combined to form the general ideal gas equation.",
@@ -1324,7 +1393,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen067"
+    "question_id": "cbse_xi_keph2dd_c203_gen067",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "True or False: A gas thermometer’s reading is independent of the type of gas used because all low-density gases follow the same expansion behavior as per the ideal gas law.",
@@ -1338,7 +1408,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen068"
+    "question_id": "cbse_xi_keph2dd_c203_gen068",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "True or False: In an isochoric process, the pressure of a gas is directly proportional to its temperature measured in Kelvin.",
@@ -1352,7 +1423,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen069"
+    "question_id": "cbse_xi_keph2dd_c203_gen069",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "True or False: The boiling point of water on the Kelvin scale is 100 K.",
@@ -1366,7 +1438,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen070"
+    "question_id": "cbse_xi_keph2dd_c203_gen070",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A gas at constant volume has a pressure of 120 kPa at 300 K. What will its pressure be when the temperature is increased to 350 K?",
@@ -1380,7 +1453,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen071"
+    "question_id": "cbse_xi_keph2dd_c203_gen071",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A gas sample of 2 moles is confined to a fixed volume. If its pressure is measured as 150 kPa at a temperature of 350 K, calculate the volume of the container. (Note: R = 8.31 J mol⁻¹ K⁻¹; be careful with units.)",
@@ -1394,7 +1468,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen072"
+    "question_id": "cbse_xi_keph2dd_c203_gen072",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "At standard temperature and pressure (STP: 273.15 K and 101.3 kPa), a gas occupies 22.4 liters. Using the ideal gas law, calculate the number of moles in this sample. (Note: 1 liter = 0.001 cubic meters; R = 8.31 J mol⁻¹ K⁻¹.)",
@@ -1408,7 +1483,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen073"
+    "question_id": "cbse_xi_keph2dd_c203_gen073",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "In a constant volume experiment, the slope of the pressure versus temperature graph is found to be 0.45 kPa/K. If the pressure at 273.15 K (0°C) is 100 kPa, what is the expected pressure at 373.15 K (100°C)?",
@@ -1422,7 +1498,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen074"
+    "question_id": "cbse_xi_keph2dd_c203_gen074",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A gas is heated at constant pressure from 0°C to 100°C. Using Charles' law, calculate the ratio of the final volume to the initial volume.",
@@ -1436,7 +1513,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen075"
+    "question_id": "cbse_xi_keph2dd_c203_gen075",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A constant-volume gas thermometer is calibrated using water's ice point at 0°C and steam point at 100°C. Describe how these fixed points are used to construct the Kelvin, Celsius, and Fahrenheit scales, and discuss any relationships between them.",
@@ -1450,7 +1528,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen076"
+    "question_id": "cbse_xi_keph2dd_c203_gen076",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Which of the following best defines temperature as used in physics?",
@@ -1469,7 +1548,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen001"
+    "question_id": "cbse_xi_keph2dd_c203_gen001",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "During a phase change such as boiling or freezing, the temperature of a substance remains constant even though heat flows into or out of it. Which of the following options best explains this phenomenon?",
@@ -1488,7 +1568,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen002"
+    "question_id": "cbse_xi_keph2dd_c203_gen002",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Which scale is used to measure absolute temperature in the ideal gas equation?",
@@ -1507,7 +1588,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen003"
+    "question_id": "cbse_xi_keph2dd_c203_gen003",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "In the context of the experiment mentioned in the section, why might a blacksmith heat an iron ring before fitting it onto a wooden wheel?",
@@ -1526,7 +1608,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen004"
+    "question_id": "cbse_xi_keph2dd_c203_gen004",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Newton's law of cooling involves which key variable that determines the rate at which an object cools?",
@@ -1545,7 +1628,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen005"
+    "question_id": "cbse_xi_keph2dd_c203_gen005",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Define 'heat' in the context of physics and explain how it differs from temperature.",
@@ -1559,7 +1643,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen006"
+    "question_id": "cbse_xi_keph2dd_c203_gen006",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why the temperature of water does not change during the boiling process even when heat is continuously added.",
@@ -1573,7 +1658,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen007"
+    "question_id": "cbse_xi_keph2dd_c203_gen007",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "List and briefly describe three processes by which heat can be transferred.",
@@ -1587,7 +1673,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen008"
+    "question_id": "cbse_xi_keph2dd_c203_gen008",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss why a blacksmith might heat an iron ring before fitting it onto the rim of a wooden wheel, and how thermal expansion plays a role in this process.",
@@ -1601,7 +1688,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen009"
+    "question_id": "cbse_xi_keph2dd_c203_gen009",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the concept of thermal expansion and discuss two practical applications where this phenomenon is important.",
@@ -1615,7 +1703,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen010"
+    "question_id": "cbse_xi_keph2dd_c203_gen010",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the importance of accurate temperature measurement in physics. In your answer, include comparisons of different temperature scales such as Celsius and Kelvin, and explain why absolute temperature is crucial in the formulation of the ideal gas law.",
@@ -1629,7 +1718,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen011"
+    "question_id": "cbse_xi_keph2dd_c203_gen011",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In physics, temperature is defined as the measure of the hotness of a body without any relation to the motion of its particles.",
@@ -1643,7 +1733,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen012"
+    "question_id": "cbse_xi_keph2dd_c203_gen012",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: During the boiling process of water, the temperature remains constant despite the continuous flow of heat into the system.",
@@ -1657,7 +1748,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen013"
+    "question_id": "cbse_xi_keph2dd_c203_gen013",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The ideal gas equation uses absolute temperature to relate the state variables of a gas.",
@@ -1671,7 +1763,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen014"
+    "question_id": "cbse_xi_keph2dd_c203_gen014",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "A mass of 500 g of water is heated from 20°C to 100°C. Given that the specific heat capacity of water is 4.18 J/g°C, calculate the amount of heat required. Provide your answer in joules with appropriate precision.",
@@ -1685,7 +1778,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen015"
+    "question_id": "cbse_xi_keph2dd_c203_gen015",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "A container holds 2 moles of an ideal gas at a pressure of 101.3 kPa and a volume of 22.4 L. Using the ideal gas law with R = 8.314 J/(mol·K), calculate the absolute temperature of the gas. Express your answer in kelvins.",
@@ -1699,7 +1793,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen016"
+    "question_id": "cbse_xi_keph2dd_c203_gen016",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "A metal rod with an initial length of 1 m expands by 0.5 cm when heated from 20°C to 120°C. Calculate the coefficient of linear expansion (α) for the rod. Express your answer in per °C.",
@@ -1713,7 +1808,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen017"
+    "question_id": "cbse_xi_keph2dd_c203_gen017",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "An object cools from 90°C to 70°C in 10 minutes in an environment maintained at 20°C. Using Newton's law of cooling, determine the cooling constant (k) if the law is given by T(t) = T_ambient + (T_initial - T_ambient)e^(-kt). Provide k in per minute.",
@@ -1727,7 +1823,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen018"
+    "question_id": "cbse_xi_keph2dd_c203_gen018",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following best describes Newton's law of cooling?",
@@ -1746,7 +1843,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen157"
+    "question_id": "cbse_xi_keph2dd_c203_gen157",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Which factor does the constant k depend on in the equation –dQ/dt = k (T2 – T1)?",
@@ -1765,7 +1863,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen158"
+    "question_id": "cbse_xi_keph2dd_c203_gen158",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "In the experiment verifying Newton's law of cooling, the graph of loge (T2 – T1) versus time is expected to be:",
@@ -1784,7 +1883,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen159"
+    "question_id": "cbse_xi_keph2dd_c203_gen159",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "What is the correct expression for the temperature T2 as a function of time t, according to Newton's law of cooling?",
@@ -1803,7 +1903,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen160"
+    "question_id": "cbse_xi_keph2dd_c203_gen160",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Newton's law of cooling is used to study the cooling processes such as the cooling of a cup of tea on a table. Which heat transfer modes are considered in this approximation?",
@@ -1822,7 +1923,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen161"
+    "question_id": "cbse_xi_keph2dd_c203_gen161",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Explain why Newton's law of cooling is a valid approximation only for small differences in temperature.",
@@ -1836,7 +1938,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen162"
+    "question_id": "cbse_xi_keph2dd_c203_gen162",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Describe the experimental setup used to verify Newton's law of cooling as discussed in the textbook section.",
@@ -1850,7 +1953,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen163"
+    "question_id": "cbse_xi_keph2dd_c203_gen163",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Derive the integrated form of Newton's law of cooling starting from the differential equation dT2/(T2 – T1) = –K dt.",
@@ -1864,7 +1968,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen164"
+    "question_id": "cbse_xi_keph2dd_c203_gen164",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Discuss the limitations of applying Newton's law of cooling to systems with large temperature differences.",
@@ -1878,7 +1983,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen165"
+    "question_id": "cbse_xi_keph2dd_c203_gen165",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Design an experiment using the described setups to measure the cooling constant K for a hot liquid. What factors would you consider to ensure accurate determination of K?",
@@ -1892,7 +1998,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen166"
+    "question_id": "cbse_xi_keph2dd_c203_gen166",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "True or False: The graph of loge (T2 – T1) versus time for a cooling body should yield a straight line with a negative slope.",
@@ -1906,7 +2013,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen167"
+    "question_id": "cbse_xi_keph2dd_c203_gen167",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "True or False: Newton's law of cooling is an accurate model for heat loss in a system regardless of the magnitude of the temperature difference between the body and its surroundings.",
@@ -1920,7 +2028,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen168"
+    "question_id": "cbse_xi_keph2dd_c203_gen168",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "A pan containing food cools from 100°C to 90°C in 3 minutes in a room maintained at 25°C. Using Newton's law of cooling, estimate the time required for the pan to cool from 80°C to 78°C.",
@@ -1934,7 +2043,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen169"
+    "question_id": "cbse_xi_keph2dd_c203_gen169",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "A hot body of mass 0.5 kg and specific heat capacity 4200 J/kg°C cools according to the relation T2 = T1 + C'e^(–Kt). In an experiment, the plot of ln(T2 – T1) versus time yields a slope of –0.02 per second. Calculate (a) the cooling constant K, and (b) the constant k in the relation –dQ/dt = k (T2 – T1).",
@@ -1948,7 +2058,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen170"
+    "question_id": "cbse_xi_keph2dd_c203_gen170",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "In an experiment, a body cools from 65°C to 50°C in 10 minutes in a room at 20°C. Calculate the time required for the temperature difference (between the body and room temperature) to reduce to half its initial value.",
@@ -1962,7 +2073,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen171"
+    "question_id": "cbse_xi_keph2dd_c203_gen171",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "For a body cooling in a room at 15°C, the temperature difference drops from 60°C to 40°C in 5 minutes. Calculate the time constant τ (tau) of the cooling process.",
@@ -1976,7 +2088,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "10_section_10_10",
-    "question_id": "cbse_xi_keph2dd_c203_gen172"
+    "question_id": "cbse_xi_keph2dd_c203_gen172",
+    "section_name": "10.10 NEWTON'S LAW OF COOLING"
   },
   {
     "question_text": "Which of the following best defines temperature as discussed in the section?",
@@ -1995,7 +2108,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen019"
+    "question_id": "cbse_xi_keph2dd_c203_gen019",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Which unit is used to express the SI unit of heat energy transferred?",
@@ -2014,7 +2128,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen020"
+    "question_id": "cbse_xi_keph2dd_c203_gen020",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Heat is defined as the energy transferred due to a difference in temperature. Which statement reflects the direction of this energy transfer correctly?",
@@ -2033,7 +2148,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen021"
+    "question_id": "cbse_xi_keph2dd_c203_gen021",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "In a given scenario, a glass of ice-cold water is left on a table during a hot day. Which of the following statements is true regarding the heat transfer in this scenario?",
@@ -2052,7 +2168,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen022"
+    "question_id": "cbse_xi_keph2dd_c203_gen022",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Considering that both temperature and heat affect matter, which of these effects is NOT directly mentioned as a result of heating an object in the section?",
@@ -2071,7 +2188,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen023"
+    "question_id": "cbse_xi_keph2dd_c203_gen023",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Define heat in the context of thermal energy transfer as described in the section.",
@@ -2085,7 +2203,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen024"
+    "question_id": "cbse_xi_keph2dd_c203_gen024",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Why is human touch considered an unreliable method for measuring temperature scientifically?",
@@ -2099,7 +2218,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen025"
+    "question_id": "cbse_xi_keph2dd_c203_gen025",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Explain the process of achieving thermal equilibrium when a hot tea and the surrounding environment interact.",
@@ -2113,7 +2233,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen026"
+    "question_id": "cbse_xi_keph2dd_c203_gen026",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "List the SI unit used for heat and the two common units used for temperature, as mentioned in the section.",
@@ -2127,7 +2248,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen027"
+    "question_id": "cbse_xi_keph2dd_c203_gen027",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Discuss how and why heat flows between a system and its surroundings when there exists a temperature difference. Include real-life examples in your discussion.",
@@ -2141,7 +2263,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen028"
+    "question_id": "cbse_xi_keph2dd_c203_gen028",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Explain the several effects that heating an object can have on its physical properties, as mentioned in the section.",
@@ -2155,7 +2278,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen029"
+    "question_id": "cbse_xi_keph2dd_c203_gen029",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Design a simple experiment to measure the rate of heat transfer between a hot liquid and its surrounding environment. Describe the apparatus, procedure, and expected outcome.",
@@ -2169,7 +2293,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen030"
+    "question_id": "cbse_xi_keph2dd_c203_gen030",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Temperature is an absolute measure of how much thermal energy an object has. True or False?",
@@ -2183,7 +2308,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen031"
+    "question_id": "cbse_xi_keph2dd_c203_gen031",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Heat always flows from a warmer body to a colder body. True or False?",
@@ -2197,7 +2323,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen032"
+    "question_id": "cbse_xi_keph2dd_c203_gen032",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Using the information from the section, explain why relying solely on the sense of touch is insufficient for accurate temperature measurement in scientific experiments. True or False?",
@@ -2211,7 +2338,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen033"
+    "question_id": "cbse_xi_keph2dd_c203_gen033",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "A thermometer reads 37°C. Convert this temperature to Kelvin.",
@@ -2225,7 +2353,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen034"
+    "question_id": "cbse_xi_keph2dd_c203_gen034",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Convert a temperature of 100°C to Kelvin.",
@@ -2239,7 +2368,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen035"
+    "question_id": "cbse_xi_keph2dd_c203_gen035",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "A glass tumbler of ice-cold water absorbs 500 J of heat from the environment, causing its temperature to increase by 5°C. Calculate the heat capacity of the water in joules per degree Celsius.",
@@ -2253,7 +2383,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen036"
+    "question_id": "cbse_xi_keph2dd_c203_gen036",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "A cup of tea at 90°C cools down to 25°C as it loses 6500 J of heat energy to the environment. If the rate of heat transfer is 10 J per minute, determine how many minutes it takes for the tea to lose the 6500 J of energy.",
@@ -2267,7 +2398,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_xi_keph2dd_c203_gen037"
+    "question_id": "cbse_xi_keph2dd_c203_gen037",
+    "section_name": "10.2 TEMPERATURE AND HEAT"
   },
   {
     "question_text": "Which of the following best defines an isolated system in the context of calorimetry?",
@@ -2286,7 +2418,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen117"
+    "question_id": "cbse_xi_keph2dd_c203_gen117",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "What is the device called that is used to measure heat transfer in a calorimetry experiment?",
@@ -2305,7 +2438,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen118"
+    "question_id": "cbse_xi_keph2dd_c203_gen118",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "Which materials are typically used for the vessel and the stirrer in a calorimeter?",
@@ -2324,7 +2458,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen119"
+    "question_id": "cbse_xi_keph2dd_c203_gen119",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "In a calorimetry experiment, the heat lost by a hot object is equal to the heat gained by a cold object during thermal equilibrium. Which of the following equations correctly represents this principle when the temperature difference for the hot object is (T_initial_hot - T_final) and for the cold object is (T_final - T_initial_cold)?",
@@ -2343,7 +2478,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen120"
+    "question_id": "cbse_xi_keph2dd_c203_gen120",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "In the example provided, what is the net temperature change for both the water and the calorimeter?",
@@ -2362,7 +2498,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen121"
+    "question_id": "cbse_xi_keph2dd_c203_gen121",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "Define calorimetry in your own words.",
@@ -2376,7 +2513,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen122"
+    "question_id": "cbse_xi_keph2dd_c203_gen122",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "Explain the purpose of the wooden jacket and insulating material used in the construction of a calorimeter.",
@@ -2390,7 +2528,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen123"
+    "question_id": "cbse_xi_keph2dd_c203_gen123",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "State the principle used to determine the specific heat capacity of a solid in a calorimetry experiment.",
@@ -2404,7 +2543,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen124"
+    "question_id": "cbse_xi_keph2dd_c203_gen124",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "What is the function of the mercury thermometer in a calorimeter?",
@@ -2418,7 +2558,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen125"
+    "question_id": "cbse_xi_keph2dd_c203_gen125",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "Discuss the design features of a calorimeter and explain how each component contributes to accurate heat measurement.",
@@ -2432,7 +2573,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen126"
+    "question_id": "cbse_xi_keph2dd_c203_gen126",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "Analyze the steps in determining the specific heat capacity of a solid using calorimetry. Discuss how the conservation of energy and the measurement of temperature changes are applied in the experimental procedure.",
@@ -2446,7 +2588,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen127"
+    "question_id": "cbse_xi_keph2dd_c203_gen127",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "Evaluate the potential sources of error in calorimetry experiments, such as the determination of specific heat capacity, and suggest methods to minimize these errors.",
@@ -2460,7 +2603,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen128"
+    "question_id": "cbse_xi_keph2dd_c203_gen128",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "True or False: In a perfectly insulated calorimeter, the heat lost by the hot object is exactly equal to the heat gained by the cold object.",
@@ -2474,7 +2618,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen129"
+    "question_id": "cbse_xi_keph2dd_c203_gen129",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "True or False: The metallic vessel in a calorimeter must always be made from the same material as the test substance for measuring specific heat capacity.",
@@ -2488,7 +2633,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen130"
+    "question_id": "cbse_xi_keph2dd_c203_gen130",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "True or False: Using insulation in a calorimeter completely eliminates all possible heat loss during an experiment.",
@@ -2502,7 +2648,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen131"
+    "question_id": "cbse_xi_keph2dd_c203_gen131",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "A 0.047 kg aluminium sphere at 100 °C is dropped into a calorimeter containing 0.25 kg of water and a 0.14 kg copper calorimeter. If the initial temperature of the water and calorimeter is 20 °C and the system reaches an equilibrium temperature of 23 °C, calculate the specific heat capacity of aluminium. Given: specific heat of water is 4180 J/(kg·K) and copper is 386 J/(kg·K).",
@@ -2516,7 +2663,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen132"
+    "question_id": "cbse_xi_keph2dd_c203_gen132",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "A 0.05 kg copper block at 90 °C is placed in a calorimeter containing 0.30 kg of water at 25 °C with a 0.20 kg copper calorimeter. Determine the final equilibrium temperature. Given: specific heat of copper is 386 J/(kg·K) and water is 4180 J/(kg·K).",
@@ -2530,7 +2678,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen133"
+    "question_id": "cbse_xi_keph2dd_c203_gen133",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "In a calorimetry experiment, a 0.1 kg sample of an unknown metal at 150 °C is dropped into a calorimeter containing 0.3 kg of water and a calorimeter of 0.2 kg (made of copper) at 20 °C. The final equilibrium temperature is 30 °C. Given that the specific heat of water is 4180 J/(kg·K) and copper is 386 J/(kg·K), determine the specific heat capacity of the unknown metal.",
@@ -2544,7 +2693,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen134"
+    "question_id": "cbse_xi_keph2dd_c203_gen134",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "A 0.08 kg steel ball heated to 150 °C is introduced into a calorimeter that contains 0.20 kg of water at 25 °C and has an aluminium calorimeter weighing 0.1 kg. If the final temperature of the system is 30 °C, calculate the specific heat capacity of steel. Given: specific heat capacity of water = 4180 J/(kg·K), aluminium = 900 J/(kg·K).",
@@ -2558,7 +2708,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen135"
+    "question_id": "cbse_xi_keph2dd_c203_gen135",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "In the calorimetry example, if the calorimeter loses 5% of the heat to the surroundings, recalculate the specific heat capacity of aluminium. Use the following data: mass of aluminium is 0.047 kg, initial temperature is 100 °C, final temperature is 23 °C; water mass is 0.25 kg; calorimeter mass is 0.14 kg; water and calorimeter initial temperature is 20 °C; specific heat capacities: water = 4180 J/(kg·K), copper = 386 J/(kg·K).",
@@ -2572,7 +2723,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "07_section_10_7",
-    "question_id": "cbse_xi_keph2dd_c203_gen136"
+    "question_id": "cbse_xi_keph2dd_c203_gen136",
+    "section_name": "10.7 CALORIMETRY"
   },
   {
     "question_text": "Which of the following are the three distinct modes of heat transfer?",
@@ -2591,7 +2743,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen138"
+    "question_id": "cbse_xi_keph2dd_c203_gen138",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Which of the following materials is considered a good thermal insulator based on its low thermal conductivity?",
@@ -2610,7 +2763,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen139"
+    "question_id": "cbse_xi_keph2dd_c203_gen139",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Wien's displacement law relates the maximum wavelength of emission of a blackbody to its temperature. Which statement best describes this relationship?",
@@ -2629,7 +2783,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen140"
+    "question_id": "cbse_xi_keph2dd_c203_gen140",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Which mode of heat transfer does not require any physical medium and can occur in vacuum?",
@@ -2648,7 +2803,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen141"
+    "question_id": "cbse_xi_keph2dd_c203_gen141",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "In the formula for steady state heat conduction, H = K A (T_C - T_D)/L, what does K represent?",
@@ -2667,7 +2823,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen142"
+    "question_id": "cbse_xi_keph2dd_c203_gen142",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Define conduction as a mode of heat transfer. Include in your answer the basic physical mechanism by which it occurs.",
@@ -2681,7 +2838,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen143"
+    "question_id": "cbse_xi_keph2dd_c203_gen143",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Explain the role of convection in heat transfer and provide one real-life example where natural convection occurs.",
@@ -2695,7 +2853,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen144"
+    "question_id": "cbse_xi_keph2dd_c203_gen144",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "What is emissivity in the context of thermal radiation? How does it affect the rate of heat transfer by radiation?",
@@ -2709,7 +2868,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen145"
+    "question_id": "cbse_xi_keph2dd_c203_gen145",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "State the Stefan-Boltzmann law for a perfect radiator and explain its significance in heat transfer by radiation.",
@@ -2723,7 +2883,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen146"
+    "question_id": "cbse_xi_keph2dd_c203_gen146",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Discuss the differences between conduction, convection, and radiation as modes of heat transfer. Provide examples for each mode from everyday life.",
@@ -2737,7 +2898,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen147"
+    "question_id": "cbse_xi_keph2dd_c203_gen147",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Explain how a metallic layer in modern arctic clothing helps reduce net heat loss from the body using the Stefan-Boltzmann law.",
@@ -2751,7 +2913,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen148"
+    "question_id": "cbse_xi_keph2dd_c203_gen148",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Describe an experimental setup to measure the thermal conductivity of a metal rod using two reservoirs at different temperatures. What factors should be controlled to minimize error in the measurement?",
@@ -2765,7 +2928,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen149"
+    "question_id": "cbse_xi_keph2dd_c203_gen149",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "In conduction, the rate of heat transfer is independent of the temperature difference between two points. True or False?",
@@ -2779,7 +2943,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen150"
+    "question_id": "cbse_xi_keph2dd_c203_gen150",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Radiation can occur in a vacuum because it relies on electromagnetic waves that do not need a material medium to propagate. True or False?",
@@ -2793,7 +2958,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen151"
+    "question_id": "cbse_xi_keph2dd_c203_gen151",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Calculate the heat current through a copper rod with a cross-sectional area of 0.01 m², a length of 0.5 m, when one end is at 350 K and the other is at 300 K. Given that the thermal conductivity of copper is 385 W/m·K.",
@@ -2807,7 +2973,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen152"
+    "question_id": "cbse_xi_keph2dd_c203_gen152",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "A tungsten filament at 3000 K with an emissivity of 0.4 has a surface area of 0.3 cm² (note: 0.3 cm² = 0.3 x 10⁻⁴ m²). Use the Stefan-Boltzmann law to calculate the power it radiates.",
@@ -2821,7 +2988,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen153"
+    "question_id": "cbse_xi_keph2dd_c203_gen153",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "In a system consisting of a steel rod and a copper rod, the steel rod has a length of 15.0 cm, thermal conductivity of 50.2 W/m·K, and a cross-sectional area twice that of the copper rod. The copper rod has a length of 10.0 cm and a thermal conductivity of 385 W/m·K. If one end (attached to the furnace) is at 300 °C and the opposite end is at 0 °C, calculate the junction temperature between the two rods.",
@@ -2835,7 +3003,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen154"
+    "question_id": "cbse_xi_keph2dd_c203_gen154",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "An iron bar (L = 0.1 m, A = 0.02 m², K = 79 W/m·K) is soldered end-to-end with a brass bar (L = 0.1 m, A = 0.02 m², K = 109 W/m·K). The free ends of the bars are maintained at 373 K and 273 K, respectively. Calculate (i) the junction temperature, (ii) the equivalent thermal conductivity of the compound bar, and (iii) the heat current through the compound bar.",
@@ -2849,7 +3018,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen155"
+    "question_id": "cbse_xi_keph2dd_c203_gen155",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Estimate the net radiative heat loss from a human body having a surface area of 1.9 m². Assume the skin temperature is 28 °C (301 K), the surrounding temperature is 22 °C (295 K), and the emissivity of skin is 0.97. Use the Stefan-Boltzmann law for net radiative loss.",
@@ -2863,7 +3033,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen156"
+    "question_id": "cbse_xi_keph2dd_c203_gen156",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Which of the following terms correctly describes the process by which a solid turns into a liquid?",
@@ -2882,6 +3053,7 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "08_section_10_8",
-    "question_id": "cbse_xi_keph2dd_c203_gen137"
+    "question_id": "cbse_xi_keph2dd_c203_gen137",
+    "section_name": "10.8 CHANGE OF STATE"
   }
 ]

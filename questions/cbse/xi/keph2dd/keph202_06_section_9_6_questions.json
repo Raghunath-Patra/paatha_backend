@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen095"
+    "question_id": "cbse_xi_keph2dd_c202_gen095",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Molecules at the surface of a liquid have extra energy compared to those in the interior because:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen096"
+    "question_id": "cbse_xi_keph2dd_c202_gen096",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Regarding the angle of contact, which statement is correct?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen097"
+    "question_id": "cbse_xi_keph2dd_c202_gen097",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Which equation correctly relates the capillary rise h in a tube to the surface tension S, radius a, and contact angle θ?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen098"
+    "question_id": "cbse_xi_keph2dd_c202_gen098",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Based on Table 9.3, which liquid has the highest surface tension at 20 °C?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen099"
+    "question_id": "cbse_xi_keph2dd_c202_gen099",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Explain why free liquid drops assume a spherical shape when gravitational effects are negligible.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen100"
+    "question_id": "cbse_xi_keph2dd_c202_gen100",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Define the term 'angle of contact' in the context of surface tension and explain its significance.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen101"
+    "question_id": "cbse_xi_keph2dd_c202_gen101",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Using the concept of work done against surface tension, derive the relation between the force F applied to stretch a liquid film by a small distance d and the surface tension S of the film.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen102"
+    "question_id": "cbse_xi_keph2dd_c202_gen102",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Discuss how surface tension contributes to the phenomenon of capillary rise. Include in your discussion the role of the contact angle and definition of the capillary rise equation.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen103"
+    "question_id": "cbse_xi_keph2dd_c202_gen103",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "Explain why a soap bubble requires a higher internal pressure compared to the pressure outside, and contrast this with a liquid drop. Provide reasons based on the interfaces involved.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen104"
+    "question_id": "cbse_xi_keph2dd_c202_gen104",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "True or False: Surface tension is a phenomenon observed only in liquids because gases do not form a definite free surface.",
@@ -181,7 +191,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen105"
+    "question_id": "cbse_xi_keph2dd_c202_gen105",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "True or False: According to the capillary rise equation, reducing the tube radius increases the height of the liquid rise.",
@@ -200,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen106"
+    "question_id": "cbse_xi_keph2dd_c202_gen106",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "A vertical capillary tube of radius 0.05 cm is immersed in water at 20 °C. Given that the surface tension of water is 0.073 N/m, the density of water is 1000 kg/m³, g = 9.8 m/s², and the contact angle is 0° (thus cos θ = 1), calculate the height of capillary rise in the tube.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen107"
+    "question_id": "cbse_xi_keph2dd_c202_gen107",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "A liquid film with a surface tension of 0.0727 N/m is stretched such that its total surface area increases by 0.02 m². Calculate the additional energy stored in the film.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen108"
+    "question_id": "cbse_xi_keph2dd_c202_gen108",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "At the end of a capillary tube with a diameter of 2.00 mm, a hemispherical bubble is formed. If the surface tension of water is 7.30 × 10^-2 N/m, calculate the excess pressure inside the bubble.",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen109"
+    "question_id": "cbse_xi_keph2dd_c202_gen109",
+    "section_name": "9.6 SURFACE TENSION"
   },
   {
     "question_text": "A soap bubble in air has a radius of 5 mm. If the surface tension of the soap solution is 0.073 N/m, calculate the excess pressure inside the soap bubble.",
@@ -256,6 +271,7 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xi_keph2dd_c202_gen110"
+    "question_id": "cbse_xi_keph2dd_c202_gen110",
+    "section_name": "9.6 SURFACE TENSION"
   }
 ]

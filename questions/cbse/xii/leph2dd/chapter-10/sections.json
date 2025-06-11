@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "10.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "10.2 HUYGENS PRINCIPLE"
+    },
+    {
+      "number": 3,
+      "name": "10.3 REFRACTION AND REFLECTION OF PLANE WAVES USING HUYGENS PRINCIPLE"
+    },
+    {
+      "number": 4,
+      "name": "10.4 COHERENT AND INCOHERENT ADDITION OF WAVES"
+    },
+    {
+      "number": 5,
+      "name": "10.5 INTERFERENCE OF LIGHT WAVES AND YOUNG'S EXPERIMENT"
+    },
+    {
+      "number": 6,
+      "name": "10.6 DIFFRACTION"
+    },
+    {
+      "number": 7,
+      "name": "10.7 POLARISATION"
+    }
+  ]
+}

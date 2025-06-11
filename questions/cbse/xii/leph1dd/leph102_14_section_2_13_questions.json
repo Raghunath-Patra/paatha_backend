@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen223"
+    "question_id": "cbse_xii_leph1dd_c102_gen223",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "What is the expression for the capacitance of a parallel plate capacitor filled with vacuum?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen224"
+    "question_id": "cbse_xii_leph1dd_c102_gen224",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "When a linear dielectric fully occupies the space between capacitor plates, the potential difference becomes V = (sigma - sigma_p)/epsilon0 * d. Given that sigma - sigma_p = sigma/K, what is the modified expression for V?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen225"
+    "question_id": "cbse_xii_leph1dd_c102_gen225",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "The product epsilon0 * K is defined as the permittivity of the medium. What is it denoted by?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen226"
+    "question_id": "cbse_xii_leph1dd_c102_gen226",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "For a linear dielectric, the polarization causes an effective reduction in the free surface charge density so that sigma - sigma_p equals sigma divided by which of the following?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen227"
+    "question_id": "cbse_xii_leph1dd_c102_gen227",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Define the dielectric constant of a substance.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen228"
+    "question_id": "cbse_xii_leph1dd_c102_gen228",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Explain why the dielectric constant (K) is always greater than 1 for all dielectric materials.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen229"
+    "question_id": "cbse_xii_leph1dd_c102_gen229",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "How does the insertion of a dielectric modify the potential difference across a capacitor for a given amount of free charge?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen230"
+    "question_id": "cbse_xii_leph1dd_c102_gen230",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Express the relationship between the capacitance with a dielectric (C) and the capacitance in vacuum (C0).",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen231"
+    "question_id": "cbse_xii_leph1dd_c102_gen231",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Discuss quantitatively how inserting a dielectric slab that does not fully occupy the space between the plates, as in Example 2.8, changes the capacitance of a parallel plate capacitor.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen232"
+    "question_id": "cbse_xii_leph1dd_c102_gen232",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Derive the expression for the capacitance of a parallel plate capacitor when a linear dielectric completely fills the gap between the plates.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen233"
+    "question_id": "cbse_xii_leph1dd_c102_gen233",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "Analyze how dielectric polarization reduces the effective electric field in a capacitor and explain the subsequent impact on capacitance.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen234"
+    "question_id": "cbse_xii_leph1dd_c102_gen234",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "True or False: For any capacitor, when a dielectric is fully inserted between the plates, the dielectric constant (K) is defined as the ratio of the capacitance with the dielectric to the capacitance with vacuum.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen235"
+    "question_id": "cbse_xii_leph1dd_c102_gen235",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "True or False: The permittivity of a medium, epsilon, is always less than the permittivity of vacuum when a dielectric is introduced.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen236"
+    "question_id": "cbse_xii_leph1dd_c102_gen236",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "A parallel plate capacitor has a plate area of 0.02 m² and a plate separation of 0.005 m. If a dielectric with dielectric constant K = 4 is fully inserted between the plates, calculate the new capacitance. Use epsilon0 = 8.85e-12 F/m.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen237"
+    "question_id": "cbse_xii_leph1dd_c102_gen237",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "A dielectric slab with a dielectric constant K = 5 has a thickness equal to 0.75d, where d is the plate separation in a parallel plate capacitor. Using the method from Example 2.8, determine the factor by which the capacitance increases relative to the vacuum capacitor capacitance C0.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen238"
+    "question_id": "cbse_xii_leph1dd_c102_gen238",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "A capacitor in vacuum has a capacitance C0 of 2 pF. If a dielectric with dielectric constant K = 3 is fully inserted between its plates, what is the new capacitance?",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen239"
+    "question_id": "cbse_xii_leph1dd_c102_gen239",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   },
   {
     "question_text": "A vacuum-filled parallel plate capacitor has a potential difference of 100 V and a plate separation of 0.01 m, giving an electric field E0 = 10000 V/m. When a dielectric with K = 2 is inserted fully between the plates, determine the new electric field and resulting potential difference.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "14_section_2_13",
-    "question_id": "cbse_xii_leph1dd_c102_gen240"
+    "question_id": "cbse_xii_leph1dd_c102_gen240",
+    "section_name": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE"
   }
 ]

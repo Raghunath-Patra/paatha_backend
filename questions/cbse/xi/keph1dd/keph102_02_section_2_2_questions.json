@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen037"
+    "question_id": "cbse_xi_keph1dd_c102_gen037",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "What is the differential coefficient of position with respect to time, and how is it related to instantaneous velocity?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen038"
+    "question_id": "cbse_xi_keph1dd_c102_gen038",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "On a position-time graph, the instantaneous velocity at t = 4 s is represented by:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen039"
+    "question_id": "cbse_xi_keph1dd_c102_gen039",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "For an object moving with uniform motion, the instantaneous velocity is:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen040"
+    "question_id": "cbse_xi_keph1dd_c102_gen040",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Define instantaneous speed and explain its relation to instantaneous velocity in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen041"
+    "question_id": "cbse_xi_keph1dd_c102_gen041",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Explain why the average speed over a finite time interval may be greater than or equal to the magnitude of the average velocity.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen042"
+    "question_id": "cbse_xi_keph1dd_c102_gen042",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Describe the numerical method used in the text to approximate instantaneous velocity from a position-time graph. What role does decreasing Δt play in this process?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen043"
+    "question_id": "cbse_xi_keph1dd_c102_gen043",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Discuss the limiting process in calculating instantaneous velocity using data points from a position-time graph. Explain why reducing Δt leads to a more accurate determination of the tangent slope.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen044"
+    "question_id": "cbse_xi_keph1dd_c102_gen044",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Explain the advantages and limitations of using differential calculus versus graphical methods for determining instantaneous velocity.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen045"
+    "question_id": "cbse_xi_keph1dd_c102_gen045",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "True or False: The instantaneous velocity at a specific time is always equal to the average velocity computed over any finite time interval.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen046"
+    "question_id": "cbse_xi_keph1dd_c102_gen046",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "True or False: In uniform motion, the instantaneous velocity at any instant is equal to the average velocity over any time interval.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen047"
+    "question_id": "cbse_xi_keph1dd_c102_gen047",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "True or False: The instantaneous speed of an object is the absolute value of its instantaneous velocity.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen048"
+    "question_id": "cbse_xi_keph1dd_c102_gen048",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Using the position function x = 0.08 t³, estimate the average velocity at t = 4 s using a time interval Δt = 0.5 s. Assume the interval is centered at t = 4 s and use the values: t₁ = 3.75 s and t₂ = 4.25 s. Show your work.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen049"
+    "question_id": "cbse_xi_keph1dd_c102_gen049",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Differentiate the position function x = 0.08 t³ to find the instantaneous velocity at t = 4 s.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen050"
+    "question_id": "cbse_xi_keph1dd_c102_gen050",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "For an object with the position function x = a + b t², where a = 8.5 m and b = 2.5 m/s², calculate: (a) The position at t = 2 s; (b) The instantaneous velocity at t = 2 s; (c) The average velocity between t = 2 s and t = 4 s.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen051"
+    "question_id": "cbse_xi_keph1dd_c102_gen051",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Using the function x = 0.08 t³, explain how the limiting value of Δx/Δt as Δt approaches zero gives the instantaneous velocity at t = 4 s.",
@@ -241,6 +256,7 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen052"
+    "question_id": "cbse_xi_keph1dd_c102_gen052",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   }
 ]

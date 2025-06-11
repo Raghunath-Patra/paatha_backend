@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen038"
+    "question_id": "cbse_xii_lemh2dd_c205_gen038",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Two lines with direction ratios a₁, b₁, c₁ and a₂, b₂, c₂ are parallel if:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen039"
+    "question_id": "cbse_xii_lemh2dd_c205_gen039",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Two lines with direction ratios a₁, b₁, c₁ and a₂, b₂, c₂ are perpendicular if:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen040"
+    "question_id": "cbse_xii_lemh2dd_c205_gen040",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "When direction cosines l₁, m₁, n₁ and l₂, m₂, n₂ are given for two lines, the cosine of the angle between them is:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen041"
+    "question_id": "cbse_xii_lemh2dd_c205_gen041",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Define 'direction ratios' and 'direction cosines' in the context of lines in space.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen042"
+    "question_id": "cbse_xii_lemh2dd_c205_gen042",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "State the formula for the sine of the acute angle between two lines given their direction ratios.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen043"
+    "question_id": "cbse_xii_lemh2dd_c205_gen043",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "What is the geometric interpretation of the points P and Q as defined in the section, and how are they used to find the angle between lines?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen044"
+    "question_id": "cbse_xii_lemh2dd_c205_gen044",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Derive the expression for the sine of the acute angle between two lines with direction ratios a₁, b₁, c₁ and a₂, b₂, c₂ starting from the cosine formula.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen045"
+    "question_id": "cbse_xii_lemh2dd_c205_gen045",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Prove that when using direction cosines, the formula for the cosine of the acute angle between two lines simplifies to l₁l₂ + m₁m₂ + n₁n₂.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen046"
+    "question_id": "cbse_xii_lemh2dd_c205_gen046",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Find the acute angle between the lines with direction ratios (2, -3, 6) and (4, 1, -2).",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen047"
+    "question_id": "cbse_xii_lemh2dd_c205_gen047",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Determine the angle between the lines given by the equations: r = (1, -2, 3) + λ (2, 0, 1) and r = (4, 0, -1) + μ (1, 3, 2).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen048"
+    "question_id": "cbse_xii_lemh2dd_c205_gen048",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "For the lines given in Cartesian form: (x + 2)/3 = (y - 1)/4 = (z + 5)/(-2) and (x - 1)/2 = (y + 3)/(-1) = (z - 4)/3, calculate the acute angle between the lines.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen049"
+    "question_id": "cbse_xii_lemh2dd_c205_gen049",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "If the lines given by r = (2, -1, 4) + λ (1, 2, -3) and r = (0, 3, -2) + μ (2, -4, 1) do not pass through the origin, explain how to compute the angle between them and find the angle.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen050"
+    "question_id": "cbse_xii_lemh2dd_c205_gen050",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "MCQ: For two lines in space that intersect, what is the shortest distance between them?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen051"
+    "question_id": "cbse_xii_lemh2dd_c205_gen051",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "MCQ: In a three-dimensional space, lines that are neither intersecting nor parallel are known as:",
@@ -237,7 +251,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen052"
+    "question_id": "cbse_xii_lemh2dd_c205_gen052",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "MCQ: Which of the following is true regarding the shortest distance between two skew lines?",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen053"
+    "question_id": "cbse_xii_lemh2dd_c205_gen053",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "MCQ: The vector formula for the shortest distance d between two skew lines with direction vectors b₁ and b₂ and points with position vectors a₁ and a₂ respectively is given by which of the following expressions?",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen054"
+    "question_id": "cbse_xii_lemh2dd_c205_gen054",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Short Answer: Define skew lines and provide an example scenario that illustrates their existence in a three-dimensional space.",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen055"
+    "question_id": "cbse_xii_lemh2dd_c205_gen055",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Short Answer: State the vector formula for the shortest distance between two skew lines given by r = a₁ + λb₁ and r = a₂ + μb₂.",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen056"
+    "question_id": "cbse_xii_lemh2dd_c205_gen056",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Short Answer: Write the Cartesian form for the distance between two lines given by x - x₁ / a₁ = y - y₁ / b₁ = z - z₁ / c₁ and x - x₂ / a₂ = y - y₂ / b₂ = z - z₂ / c₂.",
@@ -317,7 +336,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen057"
+    "question_id": "cbse_xii_lemh2dd_c205_gen057",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Short Answer: Explain why the perpendicular segment connecting two parallel lines gives the shortest distance between them.",
@@ -331,7 +351,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen058"
+    "question_id": "cbse_xii_lemh2dd_c205_gen058",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Long Answer: Derive the formula for the shortest distance between two skew lines given by the equations r = a₁ + λb₁ and r = a₂ + μb₂.",
@@ -345,7 +366,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen059"
+    "question_id": "cbse_xii_lemh2dd_c205_gen059",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Long Answer: Derive the formula for the shortest distance between two parallel lines represented by r = a₁ + λb and r = a₂ + μb.",
@@ -359,7 +381,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen060"
+    "question_id": "cbse_xii_lemh2dd_c205_gen060",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Long Answer: Discuss the criteria under which two lines in space are defined as skew. In your answer, explain how you would determine if they are skew and outline the steps to compute the shortest distance between them.",
@@ -373,7 +396,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen061"
+    "question_id": "cbse_xii_lemh2dd_c205_gen061",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Numerical: Find the shortest distance between the skew lines given by the equations r = (1, 2, 3) + λ(2, -1, 1) and r = (4, 0, -2) + μ(1, 3, 2).",
@@ -387,7 +411,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen062"
+    "question_id": "cbse_xii_lemh2dd_c205_gen062",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Numerical: Calculate the shortest distance between the parallel lines given by r = (2, -1, 4) + λ(3, 2, -1) and r = (5, 1, 0) + μ(3, 2, -1).",
@@ -401,7 +426,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen063"
+    "question_id": "cbse_xii_lemh2dd_c205_gen063",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Numerical: The lines l₁: r = (−1, 4, 2) + λ(1, 0, −2) and l₂: r = (3, −2, 1) + μ(2, 4, 1) are skew. Compute the shortest distance between them.",
@@ -415,7 +441,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "07_section_11_5",
-    "question_id": "cbse_xii_lemh2dd_c205_gen064"
+    "question_id": "cbse_xii_lemh2dd_c205_gen064",
+    "section_name": "11.5 Shortest Distance between Two Lines"
   },
   {
     "question_text": "Show that the three lines with direction cosines (-12/13, 3/13, 4/13), (4/13, -12/13, 3/13) and (3/13, 4/13, -12/13) are mutually perpendicular.",
@@ -629,7 +656,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen001"
+    "question_id": "cbse_xii_lemh2dd_c205_gen001",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Which prominent mathematician's portrait is included in the textbook to highlight his contribution to various fields, including calculus and number theory?",
@@ -648,7 +676,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen002"
+    "question_id": "cbse_xii_lemh2dd_c205_gen002",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Which of the following is NOT one of the topics discussed in Section 11.1 regarding geometry using vectors?",
@@ -667,7 +696,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen003"
+    "question_id": "cbse_xii_lemh2dd_c205_gen003",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Define the term 'direction cosines' as introduced in the section.",
@@ -681,7 +711,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen004"
+    "question_id": "cbse_xii_lemh2dd_c205_gen004",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "What are 'direction ratios' of a line and how do they differ from direction cosines?",
@@ -695,7 +726,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen005"
+    "question_id": "cbse_xii_lemh2dd_c205_gen005",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Explain why it can be advantageous to translate results from vector form into Cartesian form.",
@@ -709,7 +741,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen006"
+    "question_id": "cbse_xii_lemh2dd_c205_gen006",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "List at least four geometric parameters or quantities related to lines and planes in space that are studied in Section 11.1.",
@@ -723,7 +756,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen007"
+    "question_id": "cbse_xii_lemh2dd_c205_gen007",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Prove that the vector equation of a line in three-dimensional space can be expressed equivalently in its Cartesian form. Derive the relation starting from the parametric form.",
@@ -737,7 +771,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen008"
+    "question_id": "cbse_xii_lemh2dd_c205_gen008",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Derive the formula for the distance of a point from a plane using vector methods. Assume the plane has equation Ax + By + Cz + D = 0 and the point is P(x₁, y₁, z₁).",
@@ -751,7 +786,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen009"
+    "question_id": "cbse_xii_lemh2dd_c205_gen009",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Given two points P(1, 2, 3) and Q(4, 6, 8), find (a) the direction ratios, and (b) the direction cosines of the line joining them.",
@@ -765,7 +801,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen010"
+    "question_id": "cbse_xii_lemh2dd_c205_gen010",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Find the angle between two lines given by their direction vectors d₁ = (2, -1, 2) and d₂ = (1, 0, 3).",
@@ -779,7 +816,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen011"
+    "question_id": "cbse_xii_lemh2dd_c205_gen011",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Two skew lines in space have direction vectors d₁ = (1, 2, 3) and d₂ = (2, 3, 4), with a point on the first line as P(1, 0, 1) and on the second line as Q(2, -1, 0). Calculate the shortest distance between these two skew lines.",
@@ -793,7 +831,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen012"
+    "question_id": "cbse_xii_lemh2dd_c205_gen012",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "If a line makes angles 90°, 135°, 45° with the x, y and z-axes respectively, find its direction cosines.",
@@ -877,7 +916,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen013"
+    "question_id": "cbse_xii_lemh2dd_c205_gen013",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "If a directed line in space has direction cosines l, m, and n, which of the following equations always holds true?",
@@ -896,7 +936,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen014"
+    "question_id": "cbse_xii_lemh2dd_c205_gen014",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Given a line with direction ratios a, b, and c, which of the following formulas correctly gives its direction cosines?",
@@ -915,7 +956,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen015"
+    "question_id": "cbse_xii_lemh2dd_c205_gen015",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "When the direction of a line is reversed, what happens to its direction cosines?",
@@ -934,7 +976,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen016"
+    "question_id": "cbse_xii_lemh2dd_c205_gen016",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Define 'direction cosines' for a directed line in three-dimensional space.",
@@ -948,7 +991,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen017"
+    "question_id": "cbse_xii_lemh2dd_c205_gen017",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "State the relationship between a line’s direction cosines and its direction ratios.",
@@ -962,7 +1006,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen018"
+    "question_id": "cbse_xii_lemh2dd_c205_gen018",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Explain how to find the direction cosines of a line passing through two points P(x₁, y₁, z₁) and Q(x₂, y₂, z₂).",
@@ -976,7 +1021,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen019"
+    "question_id": "cbse_xii_lemh2dd_c205_gen019",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "What advantage does drawing a line through the origin, parallel to a given line not passing through the origin, offer when computing direction cosines?",
@@ -990,7 +1036,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen020"
+    "question_id": "cbse_xii_lemh2dd_c205_gen020",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Prove that for any directed line in space with direction cosines l, m, n, the identity l² + m² + n² = 1 holds true.",
@@ -1004,7 +1051,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen021"
+    "question_id": "cbse_xii_lemh2dd_c205_gen021",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Derive the formula for the direction cosines of a line given its direction ratios a, b, and c.",
@@ -1018,7 +1066,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen022"
+    "question_id": "cbse_xii_lemh2dd_c205_gen022",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Determine the direction cosines of a line that makes angles 90°, 60°, and 30° with the x-, y-, and z-axes respectively.",
@@ -1032,7 +1081,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen023"
+    "question_id": "cbse_xii_lemh2dd_c205_gen023",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Find the direction cosines of a line with direction ratios 2, -1, -2.",
@@ -1046,7 +1096,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen024"
+    "question_id": "cbse_xii_lemh2dd_c205_gen024",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Find the direction cosines of the line joining the points P(-2, 4, -5) and Q(1, 2, 3).",
@@ -1060,7 +1111,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen025"
+    "question_id": "cbse_xii_lemh2dd_c205_gen025",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Show that the points A(2, 3, -4), B(1, -2, 3), and C(3, 8, -11) are collinear using direction ratios.",
@@ -1074,7 +1126,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen026"
+    "question_id": "cbse_xii_lemh2dd_c205_gen026",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Find the angle between the lines whose direction ratios are a, b, c and (b – c, c – a, a – b).",
@@ -1158,7 +1211,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen027"
+    "question_id": "cbse_xii_lemh2dd_c205_gen027",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Which of the following expressions represents the Cartesian form of the equation of a line with direction ratios a, b, c and passing through the point (x₁, y₁, z₁)?",
@@ -1177,7 +1231,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen028"
+    "question_id": "cbse_xii_lemh2dd_c205_gen028",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "When the parameter λ is eliminated from the parametric equations x = x₁ + λa, y = y₁ + λb, and z = z₁ + λc, which of the following results is obtained?",
@@ -1196,7 +1251,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen029"
+    "question_id": "cbse_xii_lemh2dd_c205_gen029",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Define 'direction ratios' in the context of lines in space.",
@@ -1210,7 +1266,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen030"
+    "question_id": "cbse_xii_lemh2dd_c205_gen030",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Explain the relationship between the vector and Cartesian equations of a line in space.",
@@ -1224,7 +1281,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen031"
+    "question_id": "cbse_xii_lemh2dd_c205_gen031",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "What conditions must be met for a line in space to be uniquely determined?",
@@ -1238,7 +1296,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen032"
+    "question_id": "cbse_xii_lemh2dd_c205_gen032",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Derive the Cartesian equation of a line given its vector equation r = a + λb, where a is the position vector of a point A(x₁, y₁, z₁) and b = ai + bj + ck. Provide a detailed derivation including the elimination of the parameter λ.",
@@ -1252,7 +1311,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen033"
+    "question_id": "cbse_xii_lemh2dd_c205_gen033",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Prove that if the equation of the line is given by (x - x₁)/a = (y - y₁)/b = (z - z₁)/c, then the line passes through the point A(x₁, y₁, z₁) and has direction ratios a, b, c.",
@@ -1266,7 +1326,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen034"
+    "question_id": "cbse_xii_lemh2dd_c205_gen034",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Find the vector and Cartesian equations of the line passing through the point (3, -1, 2) and parallel to the vector 2i - j + 4k.",
@@ -1280,7 +1341,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen035"
+    "question_id": "cbse_xii_lemh2dd_c205_gen035",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Given two points P(1, 0, -2) and Q(4, 3, 1), determine the vector and Cartesian equations of the line joining these points.",
@@ -1294,7 +1356,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen036"
+    "question_id": "cbse_xii_lemh2dd_c205_gen036",
+    "section_name": "11.3 Equation of a Line in Space"
   },
   {
     "question_text": "Find the parametric equations and then eliminate the parameter to obtain the Cartesian equation of the line passing through A(-2, 5, 1) and parallel to the vector b = (3, -4, 2).",
@@ -1308,6 +1371,7 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_xii_lemh2dd_c205_gen037"
+    "question_id": "cbse_xii_lemh2dd_c205_gen037",
+    "section_name": "11.3 Equation of a Line in Space"
   }
 ]

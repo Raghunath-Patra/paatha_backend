@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen043"
+    "question_id": "cbse_x_jemh1dd_c108_gen043",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "When dividing the Pythagorean identity by AB² in a right-angled triangle, which trigonometric identity is obtained?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen044"
+    "question_id": "cbse_x_jemh1dd_c108_gen044",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Which of the following identities is true when dividing the Pythagorean theorem by BC²?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen045"
+    "question_id": "cbse_x_jemh1dd_c108_gen045",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "For which range of angle A is the identity 1 + tan² A = sec² A valid?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen046"
+    "question_id": "cbse_x_jemh1dd_c108_gen046",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Define a trigonometric identity. Explain why cos²A + sin²A = 1 is considered a trigonometric identity.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen047"
+    "question_id": "cbse_x_jemh1dd_c108_gen047",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Express cos A, tan A, and sec A in terms of sin A for an angle A in the range [0°, 90°].",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen048"
+    "question_id": "cbse_x_jemh1dd_c108_gen048",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Given that tan A = 1/√3 for an acute angle A, determine the values of cot A, sec A, cos A, sin A, and cosec A.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen049"
+    "question_id": "cbse_x_jemh1dd_c108_gen049",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Prove that 1 + tan²A = sec²A using the Pythagorean theorem applied to a right-angled triangle.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen050"
+    "question_id": "cbse_x_jemh1dd_c108_gen050",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Prove that (cot A – cos A)/(cot A + cos A) = (cosec A – 1)/(cosec A + 1) by expressing all functions in terms of sine and cosine.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen051"
+    "question_id": "cbse_x_jemh1dd_c108_gen051",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Prove that sec A (1 – sin A)(sec A + tan A) = 1 using the identities cos² A + sin² A = 1 and 1 + tan² A = sec² A.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen052"
+    "question_id": "cbse_x_jemh1dd_c108_gen052",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "If sin θ = 0.6 for an acute angle θ, calculate cos θ, tan θ, sec θ, cot θ, and cosec θ.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen053"
+    "question_id": "cbse_x_jemh1dd_c108_gen053",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Given that tan A = 0.5 for an angle A in [0°, 90°), compute sec A and then find cos A.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen054"
+    "question_id": "cbse_x_jemh1dd_c108_gen054",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "If cos A = 0.9 for an acute angle A, determine sin A using the Pythagorean identity, and then compute tan A.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen055"
+    "question_id": "cbse_x_jemh1dd_c108_gen055",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "For an acute angle A, if tan A = 2, determine sin A and cos A.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen056"
+    "question_id": "cbse_x_jemh1dd_c108_gen056",
+    "section_name": "8.4 Trigonometric Identities"
   },
   {
     "question_text": "Using the identities discussed in this section, explain how the knowledge of one trigonometric ratio can help in determining all the other six trigonometric ratios for an acute angle. Illustrate your answer with a numerical example.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh108",
     "section_id": "07_section_8_4",
-    "question_id": "cbse_x_jemh1dd_c108_gen057"
+    "question_id": "cbse_x_jemh1dd_c108_gen057",
+    "section_name": "8.4 Trigonometric Identities"
   }
 ]

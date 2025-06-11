@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen055"
+    "question_id": "cbse_xi_kemh1dd_c108_gen055",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Which of the following expressions correctly represents A - G, where A is the arithmetic mean and G is the geometric mean of two positive numbers a and b?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen056"
+    "question_id": "cbse_xi_kemh1dd_c108_gen056",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Which inequality always holds true for two positive real numbers with their arithmetic mean A and geometric mean G?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen057"
+    "question_id": "cbse_xi_kemh1dd_c108_gen057",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Define the arithmetic mean (A.M.) and geometric mean (G.M.) for two positive real numbers a and b.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen058"
+    "question_id": "cbse_xi_kemh1dd_c108_gen058",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Explain why the relationship A ≥ G holds for any two positive numbers a and b.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen059"
+    "question_id": "cbse_xi_kemh1dd_c108_gen059",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Derive the expression for A - G in terms of a and b, given that A = (a + b)/2 and G = √(ab).",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen060"
+    "question_id": "cbse_xi_kemh1dd_c108_gen060",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Prove that for any two positive real numbers a and b, the arithmetic mean is always greater than or equal to the geometric mean.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen061"
+    "question_id": "cbse_xi_kemh1dd_c108_gen061",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Using the identity (a - b)² = (a + b)² - 4ab, derive an expression for (a - b)² in terms of the arithmetic mean and geometric mean when A.M. = (a+b)/2 and G.M. = √(ab).",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen062"
+    "question_id": "cbse_xi_kemh1dd_c108_gen062",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "If the arithmetic mean and geometric mean of two numbers are 13 and 12 respectively, find the two numbers.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen063"
+    "question_id": "cbse_xi_kemh1dd_c108_gen063",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Find the two numbers whose arithmetic mean is 15 and geometric mean is 12.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen064"
+    "question_id": "cbse_xi_kemh1dd_c108_gen064",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "If the arithmetic mean (A.M.) and geometric mean (G.M.) of two numbers are 20 and 16 respectively, determine the two numbers.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen065"
+    "question_id": "cbse_xi_kemh1dd_c108_gen065",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "Find the two numbers if their arithmetic mean is 7 and their geometric mean is √10.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen066"
+    "question_id": "cbse_xi_kemh1dd_c108_gen066",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   },
   {
     "question_text": "If √a + √b = k for two positive numbers a and b, express A - G in terms of k and √(ab), given that A = (a + b)/2 and G = √(ab).",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "07_section_8_5",
-    "question_id": "cbse_xi_kemh1dd_c108_gen067"
+    "question_id": "cbse_xi_kemh1dd_c108_gen067",
+    "section_name": "8.5 Relationship Between A.M. and G.M."
   }
 ]

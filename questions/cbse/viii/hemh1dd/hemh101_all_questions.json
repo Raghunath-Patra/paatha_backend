@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen015"
+    "question_id": "cbse_viii_hemh1dd_c101_gen015",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Which statement correctly describes the closure property for whole numbers?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen016"
+    "question_id": "cbse_viii_hemh1dd_c101_gen016",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Which of the following operations is commutative for rational numbers?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen017"
+    "question_id": "cbse_viii_hemh1dd_c101_gen017",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Define the closure property in the context of integers. Provide the definition along with an example for one operation.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen018"
+    "question_id": "cbse_viii_hemh1dd_c101_gen018",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Explain why rational numbers are closed under multiplication and subtraction but not completely under division.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen019"
+    "question_id": "cbse_viii_hemh1dd_c101_gen019",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "State the role of 0 in addition and the role of 1 in multiplication for rational numbers.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen020"
+    "question_id": "cbse_viii_hemh1dd_c101_gen020",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Prove that the sum of any two rational numbers is a rational number using the definition of a rational number.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen021"
+    "question_id": "cbse_viii_hemh1dd_c101_gen021",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Using the distributive property, show that for any rational numbers b and c, -3/4 × (b + c) = (-3/4 × b) + (-3/4 × c).",
@@ -124,21 +131,23 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen022"
+    "question_id": "cbse_viii_hemh1dd_c101_gen022",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Evaluate the expression {7/5 × (-3/12)} + {7/5 × 5/12} and state whether the result is a rational number.",
     "type": "Numerical",
     "difficulty": "Easy",
     "options": null,
-    "correct_answer": "The expression evaluates to 0, which is a rational number.",
+    "correct_answer": "The expression evaluates to 7/30, which is a rational number.",
     "explanation": "Step 1: Calculate each term: 7/5 × (-3/12) = -21/60 and 7/5 × 5/12 = 35/60. \nStep 2: Add these two results: (-21/60) + (35/60) = 14/60 = 7/30. \nStep 3: (Correction) Re-check terms: Actually, 7/5 × (-3/12) = -21/60 and 7/5 × 5/12 = 35/60 so their sum is 14/60, which simplifies to 7/30. \nSince 7/30 is a fraction of two integers, it is rational.",
     "topic": "Properties of Rational Numbers – Distributivity",
     "bloom_level": "Apply",
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen023"
+    "question_id": "cbse_viii_hemh1dd_c101_gen023",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Calculate the value of -5/3 ÷ (2/5) and express your answer in simplest form.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen024"
+    "question_id": "cbse_viii_hemh1dd_c101_gen024",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Evaluate the expression {9/16 × 4/12} + {9/16 × (-3/9)} and simplify your answer.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen025"
+    "question_id": "cbse_viii_hemh1dd_c101_gen025",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Find the value of the expression 3/7 + (-6/11) + (-8/21) + (5/22) using LCM for denominators, and provide a step-by-step solution.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen026"
+    "question_id": "cbse_viii_hemh1dd_c101_gen026",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Evaluate the product -4/5 × 3/7 × 15/16 × (-14/9) using the associative and commutative properties, and show all your working.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen027"
+    "question_id": "cbse_viii_hemh1dd_c101_gen027",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Name the property under multiplication used in each of the following: (i) -4/5 × 1 = 1 × -4/5 = -4/5, (ii) -13/17 × -2/7 = -2/7 × -13/17, (iii) -19/29 × 29/-19 = 1.",
@@ -252,7 +265,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen001"
+    "question_id": "cbse_viii_hemh1dd_c101_gen001",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which number set must be used to solve the equation x + 18 = 5?",
@@ -271,7 +285,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen002"
+    "question_id": "cbse_viii_hemh1dd_c101_gen002",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "The equation 2x = 3 has the solution x = 3/2. Which number set does 3/2 belong to?",
@@ -290,7 +305,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen003"
+    "question_id": "cbse_viii_hemh1dd_c101_gen003",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Identify the type of solution for the equation 5x + 7 = 0.",
@@ -309,7 +325,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen004"
+    "question_id": "cbse_viii_hemh1dd_c101_gen004",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Define the following: natural numbers, whole numbers, integers, and rational numbers.",
@@ -323,7 +340,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen005"
+    "question_id": "cbse_viii_hemh1dd_c101_gen005",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Explain why the equation x + 5 = 5 cannot be solved if we restrict x to be a natural number.",
@@ -337,7 +355,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen006"
+    "question_id": "cbse_viii_hemh1dd_c101_gen006",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Discuss the importance of expanding our number systems (from natural numbers to whole numbers to integers to rational numbers) when solving equations.",
@@ -351,7 +370,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen007"
+    "question_id": "cbse_viii_hemh1dd_c101_gen007",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Describe the difference between a solution that is a whole number and one that is an integer.",
@@ -365,7 +385,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen008"
+    "question_id": "cbse_viii_hemh1dd_c101_gen008",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Prove that the equation x + 5 = 5 has no solution in the set of natural numbers.",
@@ -379,7 +400,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen009"
+    "question_id": "cbse_viii_hemh1dd_c101_gen009",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Provide a complete justification for why the equation 2x = 3 does not have an integer solution but has a rational solution.",
@@ -393,7 +415,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen010"
+    "question_id": "cbse_viii_hemh1dd_c101_gen010",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Solve the equation x + 2 = 13. Show all steps in your solution process.",
@@ -407,7 +430,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen011"
+    "question_id": "cbse_viii_hemh1dd_c101_gen011",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Solve the equation 5x + 7 = 0 and identify the number system to which the solution belongs. Provide step-by-step working.",
@@ -421,7 +445,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen012"
+    "question_id": "cbse_viii_hemh1dd_c101_gen012",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Solve the equation x + 18 = 5. Determine whether the solution is a whole number and explain your reasoning.",
@@ -435,7 +460,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen013"
+    "question_id": "cbse_viii_hemh1dd_c101_gen013",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Solve the equation 2x = 3 and express your answer as a fraction in its simplest form.",
@@ -449,6 +475,7 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen014"
+    "question_id": "cbse_viii_hemh1dd_c101_gen014",
+    "section_name": "1.1 Introduction"
   }
 ]

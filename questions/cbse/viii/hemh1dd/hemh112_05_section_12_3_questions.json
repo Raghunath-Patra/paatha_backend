@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen027"
+    "question_id": "cbse_viii_hemh1dd_c112_gen027",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "What is the value of 5x²y divided by 5xy?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen028"
+    "question_id": "cbse_viii_hemh1dd_c112_gen028",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "When the trinomial 4y³ + 5y² + 6y is divided by 2y, which of the following is obtained?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen029"
+    "question_id": "cbse_viii_hemh1dd_c112_gen029",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "Define the division of algebraic expressions and explain why cancellation of common factors is important in this process.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen030"
+    "question_id": "cbse_viii_hemh1dd_c112_gen030",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "What is the inverse operation of multiplication, and why is it fundamental in the division of algebraic expressions?",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen031"
+    "question_id": "cbse_viii_hemh1dd_c112_gen031",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "Outline the steps needed for dividing a monomial by another monomial using factorization.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen032"
+    "question_id": "cbse_viii_hemh1dd_c112_gen032",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "Prove that dividing a polynomial by a non-zero monomial can be accomplished by dividing each term individually. Provide a detailed derivation using the polynomial 4y³ + 5y² + 6y and the monomial 2y as an example.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen033"
+    "question_id": "cbse_viii_hemh1dd_c112_gen033",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "Derive the general method for dividing an algebraic expression when common factors exist, and illustrate your derivation with the example: 24(x²yz + xy²z + xyz²) ÷ 8xyz.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen034"
+    "question_id": "cbse_viii_hemh1dd_c112_gen034",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "Divide 63a²b⁴c⁶ by 7a²b²c³ and simplify the result.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen035"
+    "question_id": "cbse_viii_hemh1dd_c112_gen035",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "Divide 24xy²z³ by 6yz² and provide the simplified expression.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen036"
+    "question_id": "cbse_viii_hemh1dd_c112_gen036",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "Divide -20x⁴ by 10x² and simplify the expression.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen037"
+    "question_id": "cbse_viii_hemh1dd_c112_gen037",
+    "section_name": "12.3 Division of Algebraic Expressions"
   },
   {
     "question_text": "Divide 24(x²yz + xy²z + xyz²) by 8xyz and simplify the resulting expression.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "05_section_12_3",
-    "question_id": "cbse_viii_hemh1dd_c112_gen038"
+    "question_id": "cbse_viii_hemh1dd_c112_gen038",
+    "section_name": "12.3 Division of Algebraic Expressions"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen070"
+    "question_id": "cbse_xii_lech1dd_c102_gen070",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "Faraday's first law of electrolysis states that the amount of the substance liberated at an electrode is proportional to which of the following?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen071"
+    "question_id": "cbse_xii_lech1dd_c102_gen071",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "Which statement best describes the role of inert electrodes in an electrolytic cell?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen072"
+    "question_id": "cbse_xii_lech1dd_c102_gen072",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "Overpotential is an extra potential applied during electrolysis. What is its primary reason?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen073"
+    "question_id": "cbse_xii_lech1dd_c102_gen073",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "Aluminium is produced industrially by electrolysis. Which of the following correctly represents the electrolytic process used to produce aluminium?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen074"
+    "question_id": "cbse_xii_lech1dd_c102_gen074",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "Define overpotential and explain its significance in electrolysis.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen075"
+    "question_id": "cbse_xii_lech1dd_c102_gen075",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "What is the Faraday constant and why is it important in quantitative electrolysis calculations?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen076"
+    "question_id": "cbse_xii_lech1dd_c102_gen076",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "List the products of electrolysis for molten NaCl and aqueous NaCl solution.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen077"
+    "question_id": "cbse_xii_lech1dd_c102_gen077",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "Explain in detail the process of electrorefining of copper, including the reactions taking place at both electrodes.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen078"
+    "question_id": "cbse_xii_lech1dd_c102_gen078",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "Discuss the differences in the products of electrolysis when using aqueous NaCl versus molten NaCl. Include the relevant electrode reactions in your explanation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen079"
+    "question_id": "cbse_xii_lech1dd_c102_gen079",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "True or False: In an electrolytic cell, the anode is negatively charged.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen080"
+    "question_id": "cbse_xii_lech1dd_c102_gen080",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "True or False: According to Faraday's laws, the amount of substance produced at an electrode is directly proportional to the current passing through the electrolyte.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen081"
+    "question_id": "cbse_xii_lech1dd_c102_gen081",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "A CuSO₄ solution is electrolyzed for 5 minutes using a current of 2 A. Calculate the mass of copper deposited at the cathode. (Molar mass of Cu = 63 g/mol, 1 Faraday = 96500 C/mol)",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen082"
+    "question_id": "cbse_xii_lech1dd_c102_gen082",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "During the electrolytic production of magnesium, the reaction Mg²⁺ + 2e⁻ → Mg(s) is used. Calculate the charge in coulombs required to produce 0.972 g of magnesium. (Molar mass of Mg = 24.3 g/mol, 1 Faraday = 96500 C/mol)",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen083"
+    "question_id": "cbse_xii_lech1dd_c102_gen083",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "In the electrolytic deposition of silver using the reaction Ag⁺ + e⁻ → Ag(s), if 96500 C of charge is theoretically required to deposit 108 g of Ag but the process occurs at 80% efficiency, calculate the actual mass of silver deposited.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen084"
+    "question_id": "cbse_xii_lech1dd_c102_gen084",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   },
   {
     "question_text": "If a current of 50000 A is used to produce aluminium via the reaction Al³⁺ + 3e⁻ → Al(s), calculate the number of moles of electrons passed in 1 minute. (1 Faraday = 96500 C/mol)",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "09_section_2_5",
-    "question_id": "cbse_xii_lech1dd_c102_gen085"
+    "question_id": "cbse_xii_lech1dd_c102_gen085",
+    "section_name": "2.5 Electrolytic Cells and Electrolysis"
   }
 ]

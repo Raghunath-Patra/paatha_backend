@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen040"
+    "question_id": "cbse_x_jemh1dd_c103_gen040",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "For the pair of equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0, if a₁/a₂ = b₁/b₂ ≠ c₁/c₂, then the system is:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen041"
+    "question_id": "cbse_x_jemh1dd_c103_gen041",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Under which condition is the substitution method most effective for solving a pair of linear equations?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen042"
+    "question_id": "cbse_x_jemh1dd_c103_gen042",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Which method is based on adding or subtracting two equations to eliminate one of the variables?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen043"
+    "question_id": "cbse_x_jemh1dd_c103_gen043",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Define a consistent system of linear equations.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen044"
+    "question_id": "cbse_x_jemh1dd_c103_gen044",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Explain the difference between dependent and independent systems of linear equations.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen045"
+    "question_id": "cbse_x_jemh1dd_c103_gen045",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "State the condition for a pair of linear equations to have a unique solution using the coefficients a, b, and c.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen046"
+    "question_id": "cbse_x_jemh1dd_c103_gen046",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Prove that if the graphs of two linear equations are parallel, the corresponding system of equations is inconsistent.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen047"
+    "question_id": "cbse_x_jemh1dd_c103_gen047",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Demonstrate the elimination method by solving the system of equations: 3x + 2y = 16 and 2x - 5y = -9.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen048"
+    "question_id": "cbse_x_jemh1dd_c103_gen048",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Solve the system of equations using the Graphical Method: 2x + y = 4 and x - y = 1. Provide a step-by-step solution.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen049"
+    "question_id": "cbse_x_jemh1dd_c103_gen049",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Solve the following system using the Substitution Method: x + 2y = 5 and 3x - y = 4. Show all steps.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen050"
+    "question_id": "cbse_x_jemh1dd_c103_gen050",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Solve the system of linear equations using the Elimination Method: 4x + 6y = 8 and 2x - y = -1. Provide detailed step-by-step work.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen051"
+    "question_id": "cbse_x_jemh1dd_c103_gen051",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Given the modified pair of equations: 7x + 3y - 21 = 0 and 2x - y + 4 = 0, solve for x and y.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen052"
+    "question_id": "cbse_x_jemh1dd_c103_gen052",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Determine whether the system below is consistent, inconsistent, or dependent: 6x - 3y + 9 = 0 and 2x - y + 3 = 0. Justify your answer.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen053"
+    "question_id": "cbse_x_jemh1dd_c103_gen053",
+    "section_name": "3.4 Summary"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen001"
+    "question_id": "cbse_x_jemh1dd_c114_gen001",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "Which statement is true regarding the probability of a sure event?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen002"
+    "question_id": "cbse_x_jemh1dd_c114_gen002",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "If the probability of an event E is 0.7, what is the probability of its complement (not E)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen003"
+    "question_id": "cbse_x_jemh1dd_c114_gen003",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "When a fair die is thrown, what is the probability of rolling an 8?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen004"
+    "question_id": "cbse_x_jemh1dd_c114_gen004",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "Define theoretical probability.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen005"
+    "question_id": "cbse_x_jemh1dd_c114_gen005",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "Explain the difference between elementary and compound events.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen006"
+    "question_id": "cbse_x_jemh1dd_c114_gen006",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "What are complementary events? Provide an example.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen007"
+    "question_id": "cbse_x_jemh1dd_c114_gen007",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "Prove that for any event E, P(Ē) = 1 − P(E), assuming that all outcomes are equally likely.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen008"
+    "question_id": "cbse_x_jemh1dd_c114_gen008",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "Discuss and justify why the probability of an impossible event is 0 and the probability of a sure event is 1, providing examples from coin tossing and dice rolling.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen009"
+    "question_id": "cbse_x_jemh1dd_c114_gen009",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "Explain how the concept of probability extends from experiments with a finite number of outcomes to those with infinitely many outcomes using the musical chair example.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen010"
+    "question_id": "cbse_x_jemh1dd_c114_gen010",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "A box contains 3 blue, 2 white, and 4 red marbles. Calculate the probability of drawing a red marble.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen011"
+    "question_id": "cbse_x_jemh1dd_c114_gen011",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "A bag contains 4 red balls and 1 blue ball. What is the probability of drawing a blue ball?",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen012"
+    "question_id": "cbse_x_jemh1dd_c114_gen012",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "Two dice are thrown simultaneously. What is the probability that the sum of the numbers on the dice is 8?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen013"
+    "question_id": "cbse_x_jemh1dd_c114_gen013",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   },
   {
     "question_text": "Harpreet tosses two coins simultaneously. Compute the probability of getting at least one head.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_x_jemh1dd_c114_gen014"
+    "question_id": "cbse_x_jemh1dd_c114_gen014",
+    "section_name": "14.1 Probability — A Theoretical Approach"
   }
 ]

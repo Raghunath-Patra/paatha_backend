@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen138"
+    "question_id": "cbse_xi_keph2dd_c203_gen138",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Which of the following materials is considered a good thermal insulator based on its low thermal conductivity?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen139"
+    "question_id": "cbse_xi_keph2dd_c203_gen139",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Wien's displacement law relates the maximum wavelength of emission of a blackbody to its temperature. Which statement best describes this relationship?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen140"
+    "question_id": "cbse_xi_keph2dd_c203_gen140",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Which mode of heat transfer does not require any physical medium and can occur in vacuum?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen141"
+    "question_id": "cbse_xi_keph2dd_c203_gen141",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "In the formula for steady state heat conduction, H = K A (T_C - T_D)/L, what does K represent?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen142"
+    "question_id": "cbse_xi_keph2dd_c203_gen142",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Define conduction as a mode of heat transfer. Include in your answer the basic physical mechanism by which it occurs.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen143"
+    "question_id": "cbse_xi_keph2dd_c203_gen143",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Explain the role of convection in heat transfer and provide one real-life example where natural convection occurs.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen144"
+    "question_id": "cbse_xi_keph2dd_c203_gen144",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "What is emissivity in the context of thermal radiation? How does it affect the rate of heat transfer by radiation?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen145"
+    "question_id": "cbse_xi_keph2dd_c203_gen145",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "State the Stefan-Boltzmann law for a perfect radiator and explain its significance in heat transfer by radiation.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen146"
+    "question_id": "cbse_xi_keph2dd_c203_gen146",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Discuss the differences between conduction, convection, and radiation as modes of heat transfer. Provide examples for each mode from everyday life.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen147"
+    "question_id": "cbse_xi_keph2dd_c203_gen147",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Explain how a metallic layer in modern arctic clothing helps reduce net heat loss from the body using the Stefan-Boltzmann law.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen148"
+    "question_id": "cbse_xi_keph2dd_c203_gen148",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Describe an experimental setup to measure the thermal conductivity of a metal rod using two reservoirs at different temperatures. What factors should be controlled to minimize error in the measurement?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen149"
+    "question_id": "cbse_xi_keph2dd_c203_gen149",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "In conduction, the rate of heat transfer is independent of the temperature difference between two points. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen150"
+    "question_id": "cbse_xi_keph2dd_c203_gen150",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Radiation can occur in a vacuum because it relies on electromagnetic waves that do not need a material medium to propagate. True or False?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen151"
+    "question_id": "cbse_xi_keph2dd_c203_gen151",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Calculate the heat current through a copper rod with a cross-sectional area of 0.01 m², a length of 0.5 m, when one end is at 350 K and the other is at 300 K. Given that the thermal conductivity of copper is 385 W/m·K.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen152"
+    "question_id": "cbse_xi_keph2dd_c203_gen152",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "A tungsten filament at 3000 K with an emissivity of 0.4 has a surface area of 0.3 cm² (note: 0.3 cm² = 0.3 x 10⁻⁴ m²). Use the Stefan-Boltzmann law to calculate the power it radiates.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen153"
+    "question_id": "cbse_xi_keph2dd_c203_gen153",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "In a system consisting of a steel rod and a copper rod, the steel rod has a length of 15.0 cm, thermal conductivity of 50.2 W/m·K, and a cross-sectional area twice that of the copper rod. The copper rod has a length of 10.0 cm and a thermal conductivity of 385 W/m·K. If one end (attached to the furnace) is at 300 °C and the opposite end is at 0 °C, calculate the junction temperature between the two rods.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen154"
+    "question_id": "cbse_xi_keph2dd_c203_gen154",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "An iron bar (L = 0.1 m, A = 0.02 m², K = 79 W/m·K) is soldered end-to-end with a brass bar (L = 0.1 m, A = 0.02 m², K = 109 W/m·K). The free ends of the bars are maintained at 373 K and 273 K, respectively. Calculate (i) the junction temperature, (ii) the equivalent thermal conductivity of the compound bar, and (iii) the heat current through the compound bar.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen155"
+    "question_id": "cbse_xi_keph2dd_c203_gen155",
+    "section_name": "10.9 HEAT TRANSFER"
   },
   {
     "question_text": "Estimate the net radiative heat loss from a human body having a surface area of 1.9 m². Assume the skin temperature is 28 °C (301 K), the surrounding temperature is 22 °C (295 K), and the emissivity of skin is 0.97. Use the Stefan-Boltzmann law for net radiative loss.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "09_section_10_9",
-    "question_id": "cbse_xi_keph2dd_c203_gen156"
+    "question_id": "cbse_xi_keph2dd_c203_gen156",
+    "section_name": "10.9 HEAT TRANSFER"
   }
 ]

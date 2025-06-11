@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen016"
+    "question_id": "cbse_x_jemh1dd_c104_gen016",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Which of the following represents the standard form of a quadratic equation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen017"
+    "question_id": "cbse_x_jemh1dd_c104_gen017",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Which of the following equations, after proper simplification, becomes a quadratic equation?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen018"
+    "question_id": "cbse_x_jemh1dd_c104_gen018",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Define the standard form of a quadratic equation and give a suitable example.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen019"
+    "question_id": "cbse_x_jemh1dd_c104_gen019",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Why is it important to express a quadratic equation in its standard form? Provide a brief explanation.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen020"
+    "question_id": "cbse_x_jemh1dd_c104_gen020",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Represent the following real-world situation mathematically: A cottage industry produces a number of toys in a day. The cost to produce each toy is given by (55 - x) rupees, where x is the number of toys produced. If the total production cost for the day was ₹750, form the quadratic equation representing the scenario.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen021"
+    "question_id": "cbse_x_jemh1dd_c104_gen021",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Derive the quadratic equation from the following problem: 'John and Jivanti together have 45 marbles. Each loses 5 marbles, after which the product of the number of marbles they have is 124.' Clearly define your variables and show each step.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen022"
+    "question_id": "cbse_x_jemh1dd_c104_gen022",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Prove that the equation (x + 2)³ = x³ – 4 simplifies to a quadratic equation. Provide all necessary algebraic steps.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen023"
+    "question_id": "cbse_x_jemh1dd_c104_gen023",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Solve the quadratic equation x² - 45x + 324 = 0 and interpret the solution in the context of the marble problem (where x is the number of marbles John had before losing any).",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen024"
+    "question_id": "cbse_x_jemh1dd_c104_gen024",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Solve the quadratic equation x² - 55x + 750 = 0 by factoring, and explain how this relates to the toy production problem discussed in the section.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen025"
+    "question_id": "cbse_x_jemh1dd_c104_gen025",
+    "section_name": "4.2 Quadratic Equations"
   },
   {
     "question_text": "Solve the quadratic equation 2x² + 3x - 5 = 0 using the quadratic formula. Show every step clearly.",
@@ -166,6 +176,7 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_x_jemh1dd_c104_gen026"
+    "question_id": "cbse_x_jemh1dd_c104_gen026",
+    "section_name": "4.2 Quadratic Equations"
   }
 ]

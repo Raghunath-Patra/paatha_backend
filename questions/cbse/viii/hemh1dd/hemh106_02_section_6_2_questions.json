@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen014"
+    "question_id": "cbse_viii_hemh1dd_c106_gen014",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "How many cubes of side 1 cm are needed to form a cube of side 3 cm?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen015"
+    "question_id": "cbse_viii_hemh1dd_c106_gen015",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "If n is an odd integer, what can be said about the parity of n³?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen016"
+    "question_id": "cbse_viii_hemh1dd_c106_gen016",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Which of the following numbers is a perfect cube?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen017"
+    "question_id": "cbse_viii_hemh1dd_c106_gen017",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Define a cube number and provide two examples.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen018"
+    "question_id": "cbse_viii_hemh1dd_c106_gen018",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Determine whether 9 is a perfect cube. Justify your answer.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen019"
+    "question_id": "cbse_viii_hemh1dd_c106_gen019",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Explain the pattern of expressing cube numbers as the sum of consecutive odd numbers. Specifically, how many consecutive odd numbers are needed to obtain the sum equal to 8³?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen020"
+    "question_id": "cbse_viii_hemh1dd_c106_gen020",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Prove that if in the prime factorization of a number every prime factor appears three times, then the number is a perfect cube.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen021"
+    "question_id": "cbse_viii_hemh1dd_c106_gen021",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Derive a general expression for the difference between two consecutive cubes, i.e., show that (n+1)³ - n³ equals 3n² + 3n + 1. Explain the significance of this expression.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen022"
+    "question_id": "cbse_viii_hemh1dd_c106_gen022",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Find the one’s digit of the cube of 8888.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen023"
+    "question_id": "cbse_viii_hemh1dd_c106_gen023",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Calculate the cube of 15.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen024"
+    "question_id": "cbse_viii_hemh1dd_c106_gen024",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "Express 12³ in its prime factorization form and verify that it is a perfect cube.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen025"
+    "question_id": "cbse_viii_hemh1dd_c106_gen025",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "392 is not a perfect cube. Determine the smallest natural number by which 392 must be multiplied to become a perfect cube.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen026"
+    "question_id": "cbse_viii_hemh1dd_c106_gen026",
+    "section_name": "6.2 Cubes"
   },
   {
     "question_text": "A cuboid has dimensions 15 cm × 30 cm × 15 cm. How many such cuboids are needed to form a perfect cube?",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_viii_hemh1dd_c106_gen027"
+    "question_id": "cbse_viii_hemh1dd_c106_gen027",
+    "section_name": "6.2 Cubes"
   }
 ]

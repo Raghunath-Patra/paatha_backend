@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen026"
+    "question_id": "cbse_xii_lemh2dd_c203_gen026",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "In the expression φ(x) = a sin(x + b) where a, b ∈ ℝ, what does assigning specific values to a and b produce?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen027"
+    "question_id": "cbse_xii_lemh2dd_c203_gen027",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Identify the characteristic property that distinguishes a particular solution from a general solution in a differential equation.",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen028"
+    "question_id": "cbse_xii_lemh2dd_c203_gen028",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Which function among the following is a general solution to the differential equation y'' + y = 0?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen029"
+    "question_id": "cbse_xii_lemh2dd_c203_gen029",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Define a particular solution of a differential equation in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen030"
+    "question_id": "cbse_xii_lemh2dd_c203_gen030",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Describe the process used to verify if a given function is a solution to a differential equation.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen031"
+    "question_id": "cbse_xii_lemh2dd_c203_gen031",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Explain the difference between the general and particular solutions of a differential equation.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen032"
+    "question_id": "cbse_xii_lemh2dd_c203_gen032",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Prove that the function y = a cos x + b sin x, where a, b ∈ ℝ, is a solution of the differential equation y'' + y = 0.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen033"
+    "question_id": "cbse_xii_lemh2dd_c203_gen033",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Provide a detailed derivation to verify that y = e^(−3x) is a solution of the differential equation y'' + y' − 6y = 0.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen034"
+    "question_id": "cbse_xii_lemh2dd_c203_gen034",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Given the general solution φ(x) = a sin(x + b) for the differential equation y'' + y = 0, find the particular solution when a = 2 and b = π/2. Compute φ(π) for this particular solution.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen035"
+    "question_id": "cbse_xii_lemh2dd_c203_gen035",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "For the general solution y = a sin(x + b) of the differential equation y'' + y = 0, determine the particular solution when a = 3 and b = 0. Then, compute y(π/2).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen036"
+    "question_id": "cbse_xii_lemh2dd_c203_gen036",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Verify by substitution that y = 4 cos x - 2 sin x is a solution to the differential equation y'' + y = 0.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen037"
+    "question_id": "cbse_xii_lemh2dd_c203_gen037",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   },
   {
     "question_text": "Evaluate the function y = 2 sin(x + π/2) at x = 0, π/4, and π. Show all intermediate steps.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_xii_lemh2dd_c203_gen038"
+    "question_id": "cbse_xii_lemh2dd_c203_gen038",
+    "section_name": "9.3 General and Particular Solutions of a Differential Equation"
   }
 ]

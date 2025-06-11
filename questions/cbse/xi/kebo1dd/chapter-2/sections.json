@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "2.1 KINGDOM MONERA"
+    },
+    {
+      "number": 2,
+      "name": "2.2 KINGDOM PROTISTA"
+    },
+    {
+      "number": 3,
+      "name": "2.3 KINGDOM FUNGI"
+    },
+    {
+      "number": 4,
+      "name": "2.4 KINGDOM PLANTAE"
+    },
+    {
+      "number": 5,
+      "name": "2.5 KINGDOM ANIMALIA"
+    },
+    {
+      "number": 6,
+      "name": "2.6 VIRUSES, VIROIDS, PRIONS AND LICHENS"
+    }
+  ]
+}

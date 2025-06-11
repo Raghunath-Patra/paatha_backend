@@ -1,0 +1,36 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "7.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
+    },
+    {
+      "number": 3,
+      "name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
+    },
+    {
+      "number": 4,
+      "name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
+    },
+    {
+      "number": 5,
+      "name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
+    },
+    {
+      "number": 6,
+      "name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
+    },
+    {
+      "number": 7,
+      "name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
+    },
+    {
+      "number": 8,
+      "name": "7.8 TRANSFORMERS"
+    }
+  ]
+}

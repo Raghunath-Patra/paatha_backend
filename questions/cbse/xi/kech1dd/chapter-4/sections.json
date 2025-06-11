@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "4.1 KÖssel-Lew is Approach to Chemical Bonding"
+    },
+    {
+      "number": 2,
+      "name": "4.2 Ionic or Electrovalent Bond**"
+    },
+    {
+      "number": 3,
+      "name": "4.3 Bond Parameters**"
+    },
+    {
+      "number": 4,
+      "name": "4.4 The Valence Shell Electron Pair Repulsion (VSEPR) Theory**"
+    },
+    {
+      "number": 5,
+      "name": "4.5 Valence Bond Theory**"
+    },
+    {
+      "number": 6,
+      "name": "4.6 Hybridisation**"
+    },
+    {
+      "number": 7,
+      "name": "4.7 Molecular Orbital Theory"
+    },
+    {
+      "number": 8,
+      "name": "4.8 BONDING IN SOME HOMONUCLEAR DIATOMIC MOLECULES**"
+    },
+    {
+      "number": 9,
+      "name": "4.9 Hydrogen Bonding**"
+    }
+  ]
+}

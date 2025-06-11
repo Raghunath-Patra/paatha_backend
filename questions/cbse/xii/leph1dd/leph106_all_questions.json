@@ -120,7 +120,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen111"
+    "question_id": "cbse_xii_leph1dd_c106_gen111",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "What is the SI unit of inductance?",
@@ -139,7 +140,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen112"
+    "question_id": "cbse_xii_leph1dd_c106_gen112",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Which of the following equations correctly represents the self-induced emf in a coil experiencing a change in current?",
@@ -158,7 +160,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen113"
+    "question_id": "cbse_xii_leph1dd_c106_gen113",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "How is the mutual inductance (M) of two long coaxial solenoids expressed in terms of n1, n2, r1, and l?",
@@ -177,7 +180,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen114"
+    "question_id": "cbse_xii_leph1dd_c106_gen114",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Which analogy best describes self-inductance based on its electromagnetic behavior?",
@@ -196,7 +200,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen115"
+    "question_id": "cbse_xii_leph1dd_c106_gen115",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Define flux linkage and provide its mathematical relation for a coil of N turns.",
@@ -210,7 +215,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen116"
+    "question_id": "cbse_xii_leph1dd_c106_gen116",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "State the formula for self-inductance of a coil and briefly explain its significance in electromagnetic induction.",
@@ -224,7 +230,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen117"
+    "question_id": "cbse_xii_leph1dd_c106_gen117",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "What is mutual inductance and how is it expressed mathematically for two coaxial solenoids?",
@@ -238,7 +245,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen118"
+    "question_id": "cbse_xii_leph1dd_c106_gen118",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Explain why, under most practical conditions, the mutual inductance M12 equals M21.",
@@ -252,7 +260,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen119"
+    "question_id": "cbse_xii_leph1dd_c106_gen119",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Derive the formula for the mutual inductance of two long coaxial solenoids having turn densities n1 and n2, inner solenoid radius r1, and length l.",
@@ -266,7 +275,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen120"
+    "question_id": "cbse_xii_leph1dd_c106_gen120",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Derive the expression for the self-inductance of a long solenoid and discuss how this quantity is analogous to mass in mechanics.",
@@ -280,7 +290,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen121"
+    "question_id": "cbse_xii_leph1dd_c106_gen121",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Discuss the concept of back emf resulting from self-induction and its role in energy storage in an inductor. Include the expression for energy stored in the magnetic field.",
@@ -294,7 +305,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen122"
+    "question_id": "cbse_xii_leph1dd_c106_gen122",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "The SI unit of inductance is the Henry. True or False?",
@@ -308,7 +320,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen123"
+    "question_id": "cbse_xii_leph1dd_c106_gen123",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Self-inductance depends on how quickly the current changes in time. True or False?",
@@ -322,7 +335,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen124"
+    "question_id": "cbse_xii_leph1dd_c106_gen124",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "The mutual inductance of two coils is independent of their relative separation and orientation. True or False?",
@@ -336,7 +350,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen125"
+    "question_id": "cbse_xii_leph1dd_c106_gen125",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "A pair of long coaxial solenoids have turn densities of 200 turns/m for the inner solenoid and 150 turns/m for the outer solenoid. The inner solenoid has a radius of 0.01 m and the common length is 0.5 m. Calculate the mutual inductance between these two solenoids using M = mu0 * n1 * n2 * pi * r1^2 * l. (Use mu0 = 4pi x 10^-7 H/m)",
@@ -350,7 +365,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen126"
+    "question_id": "cbse_xii_leph1dd_c106_gen126",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Calculate the self-inductance of a long solenoid with a turn density of 1000 turns/m, cross-sectional area of 0.02 m^2, and length 1 m using L = mu0 * n^2 * A * l. (Use mu0 = 4pi x 10^-7 H/m)",
@@ -364,7 +380,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen127"
+    "question_id": "cbse_xii_leph1dd_c106_gen127",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Two concentric circular coils are placed such that the inner coil has a radius of 0.005 m and the outer coil has a radius of 0.05 m, with the inner coil much smaller than the outer. Using M = (mu0 * pi * r1^2) / (2 * r2), calculate the mutual inductance. (Use mu0 = 4pi x 10^-7 H/m)",
@@ -378,7 +395,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen128"
+    "question_id": "cbse_xii_leph1dd_c106_gen128",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "For an inductor with self-inductance L of 0.05 H carrying a current of 2 A, calculate the energy stored in its magnetic field using W = (1/2) L I^2.",
@@ -392,7 +410,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen129"
+    "question_id": "cbse_xii_leph1dd_c106_gen129",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "A solenoid has a magnetic field B of 0.1 T, a cross-sectional area A of 0.03 m^2, and a length of 0.5 m. Calculate the total magnetic energy stored in the solenoid using the energy density method: U = (B^2/(2 mu0)) * (A * l). (Use mu0 = 4pi x 10^-7 H/m)",
@@ -406,7 +425,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen130"
+    "question_id": "cbse_xii_leph1dd_c106_gen130",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "What is the expression for motional emf induced in a moving conductor in a uniform magnetic field?",
@@ -425,7 +445,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen092"
+    "question_id": "cbse_xii_leph1dd_c106_gen092",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "When the rod PQ in the rectangular loop moves towards the left, how does the magnetic flux through the loop change?",
@@ -444,7 +465,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen093"
+    "question_id": "cbse_xii_leph1dd_c106_gen093",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A charge q moving with speed v in a magnetic field B experiences a force due to the Lorentz interaction. Which expression correctly represents the magnitude of this force?",
@@ -463,7 +485,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen094"
+    "question_id": "cbse_xii_leph1dd_c106_gen094",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Which explanation best describes the origin of induced emf in a stationary conductor when the magnetic field is changing?",
@@ -482,7 +505,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen095"
+    "question_id": "cbse_xii_leph1dd_c106_gen095",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "In Example 6.7 a wheel with metallic spokes is used. Why is the number of spokes immaterial in determining the induced emf across the wheel?",
@@ -501,7 +525,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen096"
+    "question_id": "cbse_xii_leph1dd_c106_gen096",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Define motional emf in the context of electromagnetic induction.",
@@ -515,7 +540,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen097"
+    "question_id": "cbse_xii_leph1dd_c106_gen097",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "What role does the changing area of a loop play in electromagnetic induction?",
@@ -529,7 +555,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen098"
+    "question_id": "cbse_xii_leph1dd_c106_gen098",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "State Faraday’s law as it applies to a conductor moving in a constant magnetic field.",
@@ -543,7 +570,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen099"
+    "question_id": "cbse_xii_leph1dd_c106_gen099",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Explain qualitatively how the Lorentz force leads to charge separation in a moving conductor.",
@@ -557,7 +585,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen100"
+    "question_id": "cbse_xii_leph1dd_c106_gen100",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Derive the expression for the motional emf induced in a conductor moving with constant velocity v in a uniform magnetic field B.",
@@ -571,7 +600,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen101"
+    "question_id": "cbse_xii_leph1dd_c106_gen101",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Discuss the differences between the emf induced in a moving conductor and that in a stationary conductor with a changing magnetic field. In your answer, include the roles of the Lorentz force and the induced electric field.",
@@ -585,7 +615,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen102"
+    "question_id": "cbse_xii_leph1dd_c106_gen102",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Propose an experimental setup to measure the induced emf in a rotating metallic rod circuit. Describe how you would vary the parameters and the expected outcomes.",
@@ -599,7 +630,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen103"
+    "question_id": "cbse_xii_leph1dd_c106_gen103",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "True or False: In a stationary conductor, any induced current is solely due to the presence of an electric field generated by a time-varying magnetic field.",
@@ -613,7 +645,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen104"
+    "question_id": "cbse_xii_leph1dd_c106_gen104",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "True or False: When a conductor moves in a uniform and constant magnetic field, there is no induced emf because the magnetic field does not change with time.",
@@ -627,7 +660,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen105"
+    "question_id": "cbse_xii_leph1dd_c106_gen105",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A 0.8 m long rod moves to the left with a speed of 3 m/s in a uniform magnetic field of 0.5 T. Calculate the induced emf across the rod.",
@@ -641,7 +675,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen106"
+    "question_id": "cbse_xii_leph1dd_c106_gen106",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A rectangular loop has a fixed width of 0.4 m and a variable length x. If a rod moves such that x decreases at a rate of 2 m/s in a uniform magnetic field of 0.2 T, calculate the magnitude of the induced emf.",
@@ -655,7 +690,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen107"
+    "question_id": "cbse_xii_leph1dd_c106_gen107",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "In Example 6.6, a rod of length 1 m rotates with a frequency of 50 rev/s in a uniform magnetic field of 1 T. Derive the expression for the induced emf between the center and the rim of the circular ring.",
@@ -669,7 +705,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen108"
+    "question_id": "cbse_xii_leph1dd_c106_gen108",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A metallic wheel with a radius of 0.75 m rotates at 90 rev/min in a uniform magnetic field of 0.3 T perpendicular to its plane. Calculate the induced emf between the center and the rim.",
@@ -683,7 +720,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen109"
+    "question_id": "cbse_xii_leph1dd_c106_gen109",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A conducting rod of length 1.2 m moves with a speed of 4 m/s in a magnetic field of 0.1 T. If the rod makes an angle of 30° with the direction perpendicular to the magnetic field, calculate the effective induced emf.",
@@ -697,7 +735,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen110"
+    "question_id": "cbse_xii_leph1dd_c106_gen110",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Which phenomenon involves the generation of an electric current in a closed circuit by a changing magnetic field?",
@@ -716,7 +755,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen001"
+    "question_id": "cbse_xii_leph1dd_c106_gen001",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Who are the two scientists credited with conclusively demonstrating that electric currents can be induced by changing magnetic fields?",
@@ -735,7 +775,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen002"
+    "question_id": "cbse_xii_leph1dd_c106_gen002",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "What key observation did Oersted make that first suggested a connection between electricity and magnetism?",
@@ -754,7 +795,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen003"
+    "question_id": "cbse_xii_leph1dd_c106_gen003",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "In Faraday's experiments, what essential role did the relative motion between a magnet and a wire loop play?",
@@ -773,7 +815,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen004"
+    "question_id": "cbse_xii_leph1dd_c106_gen004",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Which groundbreaking discovery directly led to the development of modern generators and transformers?",
@@ -792,7 +835,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen005"
+    "question_id": "cbse_xii_leph1dd_c106_gen005",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Define electromagnetic induction.",
@@ -806,7 +850,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen006"
+    "question_id": "cbse_xii_leph1dd_c106_gen006",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Explain how an electric current can be induced in a wire loop when exposed to a magnetic field.",
@@ -820,7 +865,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen007"
+    "question_id": "cbse_xii_leph1dd_c106_gen007",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Describe a practical application of electromagnetic induction mentioned or implied in the text.",
@@ -834,7 +880,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen008"
+    "question_id": "cbse_xii_leph1dd_c106_gen008",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the significance of Faraday and Henry's experiments and how they influenced modern civilization.",
@@ -848,7 +895,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen009"
+    "question_id": "cbse_xii_leph1dd_c106_gen009",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the historical development of the relationship between electricity and magnetism, referencing key experiments and scientists mentioned in the text.",
@@ -862,7 +910,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen010"
+    "question_id": "cbse_xii_leph1dd_c106_gen010",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Explain in detail the concept of electromagnetic induction and analyze its impact on the development of modern electrical devices, providing examples.",
@@ -876,7 +925,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen011"
+    "question_id": "cbse_xii_leph1dd_c106_gen011",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Evaluate the experimental methodologies used by Faraday and Henry in investigating electromagnetic induction. Identify potential sources of error in these experiments and discuss how their findings transformed theoretical physics into practical applications.",
@@ -890,7 +940,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen012"
+    "question_id": "cbse_xii_leph1dd_c106_gen012",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Moving electric charges produce magnetic fields. True or False?",
@@ -904,7 +955,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen013"
+    "question_id": "cbse_xii_leph1dd_c106_gen013",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A stationary magnet placed near a wire loop can induce an electric current in the loop. True or False?",
@@ -918,7 +970,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen014"
+    "question_id": "cbse_xii_leph1dd_c106_gen014",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A coil with 20 turns and an area of 0.05 m² is exposed to a magnetic field that increases uniformly at a rate of 0.1 T/s. Calculate the magnitude of the induced emf in the coil.",
@@ -932,7 +985,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen015"
+    "question_id": "cbse_xii_leph1dd_c106_gen015",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A circular loop with an area of 0.2 m² experiences a change in magnetic flux from 0 to 0.6 T m² in 3 seconds. Calculate the average induced emf in the loop.",
@@ -946,7 +1000,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen016"
+    "question_id": "cbse_xii_leph1dd_c106_gen016",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A solenoid having 100 turns and a cross-sectional area of 0.01 m² experiences a decrease in magnetic field from 0.5 T to 0.2 T over a time period of 2 seconds. Calculate the magnitude of the induced emf in the solenoid.",
@@ -960,7 +1015,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen017"
+    "question_id": "cbse_xii_leph1dd_c106_gen017",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A transformer coil with 500 turns operates such that the rate of change of magnetic flux linking each turn is 0.05 T m²/s. What is the induced emf in the transformer coil?",
@@ -974,7 +1030,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xii_leph1dd_c106_gen018"
+    "question_id": "cbse_xii_leph1dd_c106_gen018",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following statements best describes the phenomenon demonstrated in Experiment 6.1?",
@@ -993,7 +1050,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen019"
+    "question_id": "cbse_xii_leph1dd_c106_gen019",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "In Experiment 6.2, when coil C2 carrying a steady current is moved towards coil C1, the galvanometer shows a deflection. Which of the following best explains this observation?",
@@ -1012,7 +1070,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen020"
+    "question_id": "cbse_xii_leph1dd_c106_gen020",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "Which observation confirms that it is the change in magnetic flux that induces electric current rather than the presence of a magnetic field?",
@@ -1031,7 +1090,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen021"
+    "question_id": "cbse_xii_leph1dd_c106_gen021",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "In Experiment 6.3, why does the galvanometer show a momentary deflection when the tapping key is pressed or released, but no deflection when the key is held pressed?",
@@ -1050,7 +1110,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen022"
+    "question_id": "cbse_xii_leph1dd_c106_gen022",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "What effect does inserting an iron rod into the coils have on the deflection observed in Experiment 6.3, and why?",
@@ -1069,7 +1130,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen023"
+    "question_id": "cbse_xii_leph1dd_c106_gen023",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "Explain why no current is induced in a coil when a magnet is held stationary relative to it.",
@@ -1083,7 +1145,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen024"
+    "question_id": "cbse_xii_leph1dd_c106_gen024",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "Describe the role of relative motion in electromagnetic induction as observed in the experiments.",
@@ -1097,7 +1160,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen025"
+    "question_id": "cbse_xii_leph1dd_c106_gen025",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "How does the direction of the induced current in a coil change depending on whether the magnet is approached or withdrawn from it?",
@@ -1111,7 +1175,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen026"
+    "question_id": "cbse_xii_leph1dd_c106_gen026",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "In the context of Experiment 6.3, discuss how the insertion of an iron rod affects mutual induction and the observed galvanometer deflection.",
@@ -1125,7 +1190,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen027"
+    "question_id": "cbse_xii_leph1dd_c106_gen027",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "Compare and contrast the experimental setups of Experiments 6.1 and 6.2, highlighting the significance of motion in each setup.",
@@ -1139,7 +1205,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen028"
+    "question_id": "cbse_xii_leph1dd_c106_gen028",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "True or False: In Experiment 6.1, the galvanometer shows continuous deflection as long as the magnet is kept in motion near the coil.",
@@ -1153,7 +1220,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen029"
+    "question_id": "cbse_xii_leph1dd_c106_gen029",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "True or False: When coil C2 in Experiment 6.3 is held stationary with a constant current, no current is induced in coil C1 regardless of any external manipulation.",
@@ -1167,7 +1235,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen030"
+    "question_id": "cbse_xii_leph1dd_c106_gen030",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "A bar magnet moves towards a coil with a speed of 0.5 m/s and produces an induced EMF of 0.2 V. If the speed of the magnet is doubled while all other factors remain constant, what would be the expected induced EMF?",
@@ -1181,7 +1250,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen031"
+    "question_id": "cbse_xii_leph1dd_c106_gen031",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "In an experiment similar to Experiment 6.1, if a coil with 200 turns and a cross-sectional area of 0.01 m² experiences a change in magnetic field from 0.5 T to 0.2 T in 0.1 s, estimate the induced EMF.",
@@ -1195,7 +1265,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen032"
+    "question_id": "cbse_xii_leph1dd_c106_gen032",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "A secondary coil C2 is connected to a battery that supplies a constant current. If C2 is moved such that the magnetic flux through a nearby coil C1 changes at a rate of 0.05 Wb/s and C1 has 150 turns, calculate the induced EMF in C1.",
@@ -1209,7 +1280,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen033"
+    "question_id": "cbse_xii_leph1dd_c106_gen033",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "In a mutual induction experiment, if the induced EMF in coil C1 suddenly drops to zero when the current in coil C2 becomes constant, explain the reason based on Faraday's law.",
@@ -1223,7 +1295,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen034"
+    "question_id": "cbse_xii_leph1dd_c106_gen034",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "A coil with 100 turns and an effective cross-sectional area of 0.02 m² is used in an induction experiment. If the magnetic field experienced by the coil decreases uniformly from 0.8 T to 0.3 T in 0.2 s due to the motion of a magnet, determine the magnitude of the induced EMF.",
@@ -1237,7 +1310,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xii_leph1dd_c106_gen035"
+    "question_id": "cbse_xii_leph1dd_c106_gen035",
+    "section_name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
   },
   {
     "question_text": "Which of the following best describes the basic principle behind an AC generator?",
@@ -1256,7 +1330,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen131"
+    "question_id": "cbse_xii_leph1dd_c106_gen131",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Which law explains the induction of emf in a rotating coil in an AC generator?",
@@ -1275,7 +1350,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen132"
+    "question_id": "cbse_xii_leph1dd_c106_gen132",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "In an AC generator, increasing which parameter will directly increase the maximum induced emf?",
@@ -1294,7 +1370,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen133"
+    "question_id": "cbse_xii_leph1dd_c106_gen133",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Why do some countries use a frequency of 60 Hz for AC generators while others use 50 Hz?",
@@ -1313,7 +1390,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen134"
+    "question_id": "cbse_xii_leph1dd_c106_gen134",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "What role do slip rings and brushes play in an AC generator?",
@@ -1332,7 +1410,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen135"
+    "question_id": "cbse_xii_leph1dd_c106_gen135",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Explain why the effective area of a rotating loop in an AC generator is given by A cos θ.",
@@ -1346,7 +1425,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen136"
+    "question_id": "cbse_xii_leph1dd_c106_gen136",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "What is the significance of the coil being at 90° and 270° with respect to the magnetic field in an AC generator?",
@@ -1360,7 +1440,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen137"
+    "question_id": "cbse_xii_leph1dd_c106_gen137",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Compare the working principles of hydro-electric generators and nuclear power generators as discussed in the section.",
@@ -1374,7 +1455,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen138"
+    "question_id": "cbse_xii_leph1dd_c106_gen138",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Why does the emf in an AC generator change its sign periodically?",
@@ -1388,7 +1470,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen139"
+    "question_id": "cbse_xii_leph1dd_c106_gen139",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Provide a detailed explanation of how the rotation of a coil in a magnetic field induces an alternating electromotive force (emf).",
@@ -1402,7 +1485,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen140"
+    "question_id": "cbse_xii_leph1dd_c106_gen140",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Analyze the equation ε = ε₀ sin ωt to explain how the maximum voltage is determined and under what conditions it occurs.",
@@ -1416,7 +1500,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen141"
+    "question_id": "cbse_xii_leph1dd_c106_gen141",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Evaluate the advantages and disadvantages of designing a generator in which the electromagnets are rotated instead of the coils.",
@@ -1430,7 +1515,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen142"
+    "question_id": "cbse_xii_leph1dd_c106_gen142",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "True or False: The emf produced in an AC generator never changes its polarity during operation.",
@@ -1444,7 +1530,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen143"
+    "question_id": "cbse_xii_leph1dd_c106_gen143",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "True or False: In an AC generator, the maximum induced emf occurs when the angle between the area vector and the magnetic field is 90° or 270°.",
@@ -1458,7 +1545,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen144"
+    "question_id": "cbse_xii_leph1dd_c106_gen144",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "True or False: Hydro-electric generators use nuclear fuel to heat water for steam production.",
@@ -1472,7 +1560,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen145"
+    "question_id": "cbse_xii_leph1dd_c106_gen145",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "A stationary bicycle is connected to a generator with a 50-turn coil of area 0.20 m². The coil rotates at 1 revolution per second in a uniform magnetic field of 0.05 T. Calculate the maximum induced emf in the coil.",
@@ -1486,7 +1575,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen146"
+    "question_id": "cbse_xii_leph1dd_c106_gen146",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "A coil with 100 turns, an area of 0.10 m², and placed in a 0.02 T magnetic field rotates with an angular speed of 10 rad/s. Determine the induced emf in the coil at t = 0.1 s.",
@@ -1500,7 +1590,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen147"
+    "question_id": "cbse_xii_leph1dd_c106_gen147",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "If the frequency of an AC generator increases from 50 Hz to 60 Hz and the other parameters remain constant, by what factor does the maximum induced emf change?",
@@ -1514,7 +1605,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen148"
+    "question_id": "cbse_xii_leph1dd_c106_gen148",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "A generator has a coil with 200 turns and an area of 0.15 m² in a magnetic field of 0.08 T. If the maximum induced emf is measured to be 12 V, calculate the angular speed ω and the corresponding frequency of the generator.",
@@ -1528,7 +1620,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen149"
+    "question_id": "cbse_xii_leph1dd_c106_gen149",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "A stationary coil consisting of 150 turns and an area of 0.12 m² is used in a generator operating in a uniform magnetic field of 0.03 T. If the maximum induced emf is required to be 3 V, determine the angular speed ω of the coil.",
@@ -1542,7 +1635,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen150"
+    "question_id": "cbse_xii_leph1dd_c106_gen150",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Which of the following best states Lenz's law?",
@@ -1561,7 +1655,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen071"
+    "question_id": "cbse_xii_leph1dd_c106_gen071",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "When the North pole of a bar magnet is pushed towards a closed coil, what is the direction of the induced current relative to an observer on the magnet side?",
@@ -1580,7 +1675,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen072"
+    "question_id": "cbse_xii_leph1dd_c106_gen072",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "In an open circuit setup where a coil is subjected to a changing magnetic field, where is the induced emf observed?",
@@ -1599,7 +1695,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen073"
+    "question_id": "cbse_xii_leph1dd_c106_gen073",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Which physical principle prevents the creation of a perpetual-motion machine in the context of electromagnetic induction?",
@@ -1618,7 +1715,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen074"
+    "question_id": "cbse_xii_leph1dd_c106_gen074",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Which phenomenon is responsible for converting mechanical work into thermal energy when a magnet is moved relative to a coil?",
@@ -1637,7 +1735,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen075"
+    "question_id": "cbse_xii_leph1dd_c106_gen075",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Explain in your own words how Lenz's law is related to the conservation of energy in electromagnetic induction.",
@@ -1651,7 +1750,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen076"
+    "question_id": "cbse_xii_leph1dd_c106_gen076",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Describe what happens to the induced current in a coil when a bar magnet is moved away from it and explain the reason for this behavior.",
@@ -1665,7 +1765,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen077"
+    "question_id": "cbse_xii_leph1dd_c106_gen077",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "In your own words, explain why no induced current flows when a loop is completely inside or completely outside a magnetic field region.",
@@ -1679,7 +1780,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen078"
+    "question_id": "cbse_xii_leph1dd_c106_gen078",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Briefly describe the factors that influence the magnitude of the magnetic flux through a loop.",
@@ -1693,7 +1795,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen079"
+    "question_id": "cbse_xii_leph1dd_c106_gen079",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Discuss the principle of Lenz's law and its implications for energy conservation, using the example of a bar magnet approaching a conductive coil. Explain how the induced current creates a magnetic field that opposes the motion of the magnet.",
@@ -1707,7 +1810,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen080"
+    "question_id": "cbse_xii_leph1dd_c106_gen080",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Evaluate the role of Joule heating in the energy dissipated when a magnet is moved relative to a coil. Provide an in-depth explanation relating this phenomenon to the work done against the induced magnetic force.",
@@ -1721,7 +1825,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen081"
+    "question_id": "cbse_xii_leph1dd_c106_gen081",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Analyze the experiment where planar loops of various shapes move into and out of a magnetic field. How do the shape and orientation of the loop affect the induced current? Provide a detailed explanation of the underlying principles determining the direction and magnitude of the induced current.",
@@ -1735,7 +1840,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen082"
+    "question_id": "cbse_xii_leph1dd_c106_gen082",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "True or False: According to Lenz's law, the induced current always creates a magnetic field that reinforces the change in magnetic flux.",
@@ -1749,7 +1855,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen083"
+    "question_id": "cbse_xii_leph1dd_c106_gen083",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "True or False: In an open circuit subjected to a changing magnetic field, an induced emf can be observed across the circuit’s open ends.",
@@ -1763,7 +1870,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen084"
+    "question_id": "cbse_xii_leph1dd_c106_gen084",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "True or False: If a bar magnet is pushed towards a coil, the induced current within the coil flows in a clockwise direction when observed from the magnet side.",
@@ -1777,7 +1885,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen085"
+    "question_id": "cbse_xii_leph1dd_c106_gen085",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A coil experiences a change in magnetic flux at a constant rate of 0.05 Weber per second. Calculate the magnitude of the induced emf in the coil.",
@@ -1791,7 +1900,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen086"
+    "question_id": "cbse_xii_leph1dd_c106_gen086",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A rectangular loop with an area of 0.2 m² enters a uniform magnetic field of 0.5 T. If the loop takes 4 seconds to be fully immersed in the field, calculate the average induced emf in the loop.",
@@ -1805,7 +1915,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen087"
+    "question_id": "cbse_xii_leph1dd_c106_gen087",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A circular loop of radius 0.1 m moves with a constant velocity of 2 m/s while exiting a uniform magnetic field region with a field strength of 0.3 T. If the entire loop exits the field in 0.5 seconds, calculate the average induced emf during the passage.",
@@ -1819,7 +1930,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen088"
+    "question_id": "cbse_xii_leph1dd_c106_gen088",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A coil with 50 turns experiences a decrease in magnetic flux of 0.2 Weber over 2 seconds. Calculate the total induced emf in the coil.",
@@ -1833,7 +1945,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen089"
+    "question_id": "cbse_xii_leph1dd_c106_gen089",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "In an experiment, a rectangular loop is pushed into a uniform magnetic field and 2 Joules of work are done in 1 second against the induced force. If the resistance of the coil is 4 ohms, calculate the average induced current in the coil.",
@@ -1847,7 +1960,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen090"
+    "question_id": "cbse_xii_leph1dd_c106_gen090",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A rectangular loop of dimensions 0.4 m by 0.5 m, having 3 turns, is withdrawn from a uniform magnetic field region of 1 T in 0.8 seconds. Calculate the induced emf in one turn and the total induced emf for the multi-turn coil.",
@@ -1861,7 +1975,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen091"
+    "question_id": "cbse_xii_leph1dd_c106_gen091",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Which of the following expressions correctly represents the magnetic flux through a flat surface placed in a uniform magnetic field?",
@@ -1880,7 +1995,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen036"
+    "question_id": "cbse_xii_leph1dd_c106_gen036",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "What is the SI unit of magnetic flux?",
@@ -1899,7 +2015,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen037"
+    "question_id": "cbse_xii_leph1dd_c106_gen037",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Magnetic flux is considered which type of quantity?",
@@ -1918,7 +2035,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen038"
+    "question_id": "cbse_xii_leph1dd_c106_gen038",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "How is the concept of magnetic flux extended to a curved surface with a nonuniform magnetic field?",
@@ -1937,7 +2055,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen039"
+    "question_id": "cbse_xii_leph1dd_c106_gen039",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Define magnetic flux and state its mathematical representation.",
@@ -1951,7 +2070,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen040"
+    "question_id": "cbse_xii_leph1dd_c106_gen040",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Explain the concept of the area as a vector in the context of magnetic flux.",
@@ -1965,7 +2085,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen041"
+    "question_id": "cbse_xii_leph1dd_c106_gen041",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "How is magnetic flux computed for a curved surface in a nonuniform magnetic field?",
@@ -1979,7 +2100,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen042"
+    "question_id": "cbse_xii_leph1dd_c106_gen042",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Discuss the physical significance of magnetic flux in Faraday's law of electromagnetic induction, including how changes in flux can induce an emf.",
@@ -1993,7 +2115,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen043"
+    "question_id": "cbse_xii_leph1dd_c106_gen043",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Derive the expression for magnetic flux through a flat surface placed in a uniform magnetic field, and explain the influence of the angle between the magnetic field and the surface normal.",
@@ -2007,7 +2130,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen044"
+    "question_id": "cbse_xii_leph1dd_c106_gen044",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "True or False: Magnetic flux is a vector quantity because it involves a dot product between the magnetic field and the area vector.",
@@ -2021,7 +2145,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen045"
+    "question_id": "cbse_xii_leph1dd_c106_gen045",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "True or False: The equation φ_B = BA cosθ is only applicable to flat surfaces in uniform magnetic fields and cannot be extended to curved or nonuniform surfaces.",
@@ -2035,7 +2160,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen046"
+    "question_id": "cbse_xii_leph1dd_c106_gen046",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Calculate the magnetic flux through a flat rectangular surface with an area of 3.0 m² placed in a uniform magnetic field of 0.8 T, where the field makes an angle of 45° with the normal to the surface.",
@@ -2049,7 +2175,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen047"
+    "question_id": "cbse_xii_leph1dd_c106_gen047",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "A surface is divided into two regions. In Region 1, the magnetic field is 0.5 T, the area is 1.0 m², and the field is perpendicular to the area (θ = 0°). In Region 2, the magnetic field is 0.2 T, the area is 2.0 m², and the field makes an angle of 60° with the normal. Calculate the total magnetic flux through the entire surface.",
@@ -2063,7 +2190,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen048"
+    "question_id": "cbse_xii_leph1dd_c106_gen048",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "A circular loop with an area of 0.1 m² is placed in a magnetic field of 1.5 T such that the normal to the loop makes an initial angle of 30° with the field. If the loop is rotated uniformly to an angle of 90° over a period of 5 seconds, calculate the change in magnetic flux through the loop during this rotation.",
@@ -2077,7 +2205,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen049"
+    "question_id": "cbse_xii_leph1dd_c106_gen049",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Determine the total magnetic flux through a surface with an area of 4 m² that is divided into three equal parts. In these parts, the magnetic fields are 0.4 T with an angle of 0°, 0.6 T with an angle of 60°, and 0.8 T with an angle of 45° respectively. Assume each part has equal area.",
@@ -2091,7 +2220,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xii_leph1dd_c106_gen050"
+    "question_id": "cbse_xii_leph1dd_c106_gen050",
+    "section_name": "6.3 MAGNETIC FLUX"
   },
   {
     "question_text": "Which of the following statements best describes Faraday's law of electromagnetic induction?",
@@ -2110,7 +2240,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen051"
+    "question_id": "cbse_xii_leph1dd_c106_gen051",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "In Faraday's law, what does the negative sign in the equation emf = -dΦ/dt represent?",
@@ -2129,7 +2260,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen052"
+    "question_id": "cbse_xii_leph1dd_c106_gen052",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "Which method is NOT a way to change the magnetic flux through a coil as per the textbook section?",
@@ -2148,7 +2280,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen053"
+    "question_id": "cbse_xii_leph1dd_c106_gen053",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "What is the effect of increasing the number of turns (N) in a coil on the induced emf, assuming all other factors remain constant?",
@@ -2167,7 +2300,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen054"
+    "question_id": "cbse_xii_leph1dd_c106_gen054",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "In Experiment 6.3, which of the following changes causes an induced emf in coil C1?",
@@ -2186,7 +2320,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen055"
+    "question_id": "cbse_xii_leph1dd_c106_gen055",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "Briefly explain how moving a magnet towards and away from a coil produces an induced emf.",
@@ -2200,7 +2335,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen056"
+    "question_id": "cbse_xii_leph1dd_c106_gen056",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "List the factors that determine the magnetic flux through a given surface.",
@@ -2214,7 +2350,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen057"
+    "question_id": "cbse_xii_leph1dd_c106_gen057",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "Define magnetic flux and state its SI unit.",
@@ -2228,7 +2365,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen058"
+    "question_id": "cbse_xii_leph1dd_c106_gen058",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "Explain why the earth's magnetic field does not produce an induced emf in a stationary loop despite threading the loop.",
@@ -2242,7 +2380,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen059"
+    "question_id": "cbse_xii_leph1dd_c106_gen059",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "Discuss in detail the process by which a changing magnetic flux in a multi-turn coil results in an induced emf. Include the role of the number of turns and demonstrate how the total emf is calculated.",
@@ -2256,7 +2395,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen060"
+    "question_id": "cbse_xii_leph1dd_c106_gen060",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "Analyze Experiment 6.3 and describe how pressing and releasing the tapping key in coil C2 leads to the induction of current in coil C1. Your answer should include the changes in current and magnetic flux.",
@@ -2270,7 +2410,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen061"
+    "question_id": "cbse_xii_leph1dd_c106_gen061",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "Evaluate the advantages and limitations of using Faraday's law in the design of devices such as generators and transformers. Provide examples to support your evaluation.",
@@ -2284,7 +2425,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen062"
+    "question_id": "cbse_xii_leph1dd_c106_gen062",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "True or False: A change in the area of a coil placed in a constant magnetic field will induce an emf.",
@@ -2298,7 +2440,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen063"
+    "question_id": "cbse_xii_leph1dd_c106_gen063",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "True or False: When a coil is rotated 180° in a uniform magnetic field, the change in magnetic flux is zero if the field is symmetric.",
@@ -2312,7 +2455,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen064"
+    "question_id": "cbse_xii_leph1dd_c106_gen064",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "True or False: The negative sign in Faraday's law is purely a mathematical convention and has no physical meaning.",
@@ -2326,7 +2470,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen065"
+    "question_id": "cbse_xii_leph1dd_c106_gen065",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "A square loop with side length 10 cm and resistance 0.5 ohm is placed vertically in a magnetic field of 0.10 T. The magnetic flux through the loop decreases to zero in 0.70 s. Calculate the magnitude of the induced emf and the induced current.",
@@ -2340,7 +2485,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen066"
+    "question_id": "cbse_xii_leph1dd_c106_gen066",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "A circular coil of 10 cm radius, having 500 turns and a resistance of 2 ohm, is rotated 180° about its vertical diameter in 0.25 s. Given that the horizontal component of the earth's magnetic field is 3.0×10^-5 T, determine the induced emf and induced current in the coil.",
@@ -2354,7 +2500,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen067"
+    "question_id": "cbse_xii_leph1dd_c106_gen067",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "A coil with 50 turns and an area of 0.02 m² is subjected to a reduction in a uniform magnetic field from 0.5 T to 0.2 T in 0.5 s. Calculate the magnitude of the induced emf in the coil.",
@@ -2368,7 +2515,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen068"
+    "question_id": "cbse_xii_leph1dd_c106_gen068",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "A coil comprising 100 turns and having an area of 0.01 m² is rotated such that its magnetic flux changes from 0.005 Wb to -0.005 Wb in 1 s. Calculate the induced emf in the coil.",
@@ -2382,7 +2530,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen069"
+    "question_id": "cbse_xii_leph1dd_c106_gen069",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   },
   {
     "question_text": "For a coil with 200 turns experiencing a rate of change of flux of 0.02 Wb/s, if its resistance is 5 ohm, determine the induced emf and the resulting current in the coil.",
@@ -2396,6 +2545,7 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xii_leph1dd_c106_gen070"
+    "question_id": "cbse_xii_leph1dd_c106_gen070",
+    "section_name": "6.4 FARADAY'S LAW OF INDUCTION"
   }
 ]

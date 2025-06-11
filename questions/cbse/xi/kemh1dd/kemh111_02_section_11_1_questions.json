@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen001"
+    "question_id": "cbse_xi_kemh1dd_c111_gen001",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "To determine the location of a point in three-dimensional space, how many coordinates are needed?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen002"
+    "question_id": "cbse_xi_kemh1dd_c111_gen002",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Leonhard Euler is a prominent figure in mathematics. Which area of mathematics is he least associated with?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen003"
+    "question_id": "cbse_xi_kemh1dd_c111_gen003",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Define the 'coordinate axes' in a plane.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen004"
+    "question_id": "cbse_xi_kemh1dd_c111_gen004",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Explain why three coordinates are necessary to define the position of a point in space.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen005"
+    "question_id": "cbse_xi_kemh1dd_c111_gen005",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "List the three mutually perpendicular planes used in a typical room to represent any point's position.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen006"
+    "question_id": "cbse_xi_kemh1dd_c111_gen006",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Describe the process of setting up a three-dimensional coordinate system for a room.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen007"
+    "question_id": "cbse_xi_kemh1dd_c111_gen007",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Compare and contrast the use of two-dimensional and three-dimensional coordinate systems. Provide real-life examples for each.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen008"
+    "question_id": "cbse_xi_kemh1dd_c111_gen008",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Provide a detailed proof or explanation of how the inclusion of a third coordinate enables the complete representation of object positions in space. Explain using the concept of perpendicular distances to the coordinate planes.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen009"
+    "question_id": "cbse_xi_kemh1dd_c111_gen009",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "A point in a 2D plane is given by the coordinates (3, 4). Determine its perpendicular distances from the x-axis and the y-axis.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen010"
+    "question_id": "cbse_xi_kemh1dd_c111_gen010",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Given a point in space with coordinates (a, b, c), describe how to determine its perpendicular distances from the three coordinate planes.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen011"
+    "question_id": "cbse_xi_kemh1dd_c111_gen011",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "In a room, the central tip of a ceiling fan is located 2 meters from one wall, 3 meters from the adjacent wall, and 4 meters above the floor. Express the coordinates of the fan's tip with reference to the three coordinate planes.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen012"
+    "question_id": "cbse_xi_kemh1dd_c111_gen012",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "A beam of light is projected from point A with coordinates (2, -3, 5) directly toward the plane x = 0 (a wall). If the beam is projected perpendicularly to this wall, what will be the coordinates of the point at which it meets the wall?",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xi_kemh1dd_c111_gen013"
+    "question_id": "cbse_xi_kemh1dd_c111_gen013",
+    "section_name": "11.1 Introduction"
   }
 ]

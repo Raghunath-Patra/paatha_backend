@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen203"
+    "question_id": "cbse_xii_leph1dd_c102_gen203",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "In a parallel plate capacitor, using the infinite plane sheet approximation, what is the net electric field in the region outside the plates (above the top plate or below the bottom plate)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen204"
+    "question_id": "cbse_xii_leph1dd_c102_gen204",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "For a parallel plate capacitor with plates having uniform surface charge densities of +σ and -σ, what is the magnitude of the electric field (E) between the plates?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen205"
+    "question_id": "cbse_xii_leph1dd_c102_gen205",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Which of the following statements about the fringing effect in a parallel plate capacitor is correct?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen206"
+    "question_id": "cbse_xii_leph1dd_c102_gen206",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "What is the expression for the capacitance (C) of a parallel plate capacitor with a vacuum between the plates?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen207"
+    "question_id": "cbse_xii_leph1dd_c102_gen207",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Define capacitance for a parallel plate capacitor and provide the formula used to calculate it in a vacuum.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen208"
+    "question_id": "cbse_xii_leph1dd_c102_gen208",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Explain why the electric field between the plates of a parallel plate capacitor is considered uniform (assuming d² << A).",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen209"
+    "question_id": "cbse_xii_leph1dd_c102_gen209",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "What is the relationship between the potential difference V across the plates and the electric field E in a parallel plate capacitor?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen210"
+    "question_id": "cbse_xii_leph1dd_c102_gen210",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "How does increasing the separation d between the plates affect the capacitance of a parallel plate capacitor?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen211"
+    "question_id": "cbse_xii_leph1dd_c102_gen211",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Discuss the assumptions inherent in using the infinite plane sheet approximation for calculating the electric field in a parallel plate capacitor.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen212"
+    "question_id": "cbse_xii_leph1dd_c102_gen212",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Derive the expression for the capacitance of a parallel plate capacitor starting from the electric field created by each plate.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen213"
+    "question_id": "cbse_xii_leph1dd_c102_gen213",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Explore the implications of fringing effects on the electric field distribution in a real parallel plate capacitor with finite plate dimensions.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen214"
+    "question_id": "cbse_xii_leph1dd_c102_gen214",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "True or False: The net electric field outside an ideal parallel plate capacitor with infinitely large plates is zero.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen215"
+    "question_id": "cbse_xii_leph1dd_c102_gen215",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "True or False: The potential difference between the plates of a parallel plate capacitor is independent of the distance between the plates.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen216"
+    "question_id": "cbse_xii_leph1dd_c102_gen216",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "True or False: The capacitance of a parallel plate capacitor with a vacuum between its plates depends solely on the geometry of the capacitor.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen217"
+    "question_id": "cbse_xii_leph1dd_c102_gen217",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "A parallel plate capacitor has plates of area 0.5 m² separated by a distance of 2 × 10⁻³ m. Calculate its capacitance using ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen218"
+    "question_id": "cbse_xii_leph1dd_c102_gen218",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Calculate the magnitude of the electric field between the plates if the charge on one plate is 1 × 10⁻⁶ C and the plate area is 0.1 m². Use ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen219"
+    "question_id": "cbse_xii_leph1dd_c102_gen219",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "A capacitor has a capacitance of 15 pF (15 × 10⁻¹² F) and a plate separation of 1 × 10⁻³ m. What is the required area of the plates? Use ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen220"
+    "question_id": "cbse_xii_leph1dd_c102_gen220",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "A parallel plate capacitor is constructed with plates of area 1 m² and a separation of 1 mm. If the charge on the capacitor is 4.425 × 10⁻⁹ C, calculate the capacitance and the potential difference between the plates. Use ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen221"
+    "question_id": "cbse_xii_leph1dd_c102_gen221",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   },
   {
     "question_text": "Calculate the required plate area for a capacitor to have a capacitance of 1 F with a plate separation of 1 cm. Use ε₀ = 8.85 × 10⁻¹² C²/(N·m²).",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "13_section_2_12",
-    "question_id": "cbse_xii_leph1dd_c102_gen222"
+    "question_id": "cbse_xii_leph1dd_c102_gen222",
+    "section_name": "2.12 THE PARALLEL PLATE CAPACITOR"
   }
 ]

@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "10.1 Carbohydrates"
+    },
+    {
+      "number": 2,
+      "name": "10.2 Proteins"
+    },
+    {
+      "number": 3,
+      "name": "10.3 Enzymes"
+    },
+    {
+      "number": 4,
+      "name": "10.4 Vitamins"
+    },
+    {
+      "number": 5,
+      "name": "10.5 Nucleic Acids"
+    },
+    {
+      "number": 6,
+      "name": "10.6 Hormones"
+    }
+  ]
+}

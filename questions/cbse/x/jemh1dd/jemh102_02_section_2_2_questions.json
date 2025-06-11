@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen014"
+    "question_id": "cbse_x_jemh1dd_c102_gen014",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "For a quadratic polynomial ax² + bx + c (where a ≠ 0), if the graph touches the x-axis at exactly one point, what does the discriminant (b² − 4ac) equal?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen015"
+    "question_id": "cbse_x_jemh1dd_c102_gen015",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "If a polynomial is of degree 4, what is the maximum number of points at which its graph can intersect the x-axis?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen016"
+    "question_id": "cbse_x_jemh1dd_c102_gen016",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "Which of the following statements is true about a quadratic polynomial whose graph does not meet the x-axis?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen017"
+    "question_id": "cbse_x_jemh1dd_c102_gen017",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "Define the geometrical meaning of a zero of a polynomial.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen018"
+    "question_id": "cbse_x_jemh1dd_c102_gen018",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "State the maximum number of zeros that a cubic polynomial can have and explain your answer briefly.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen019"
+    "question_id": "cbse_x_jemh1dd_c102_gen019",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "Describe the difference in the graph of a quadratic polynomial ax² + bx + c when a > 0 versus when a < 0.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen020"
+    "question_id": "cbse_x_jemh1dd_c102_gen020",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "List the three possible cases for the relationship between the graph of a quadratic polynomial and the x-axis.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen021"
+    "question_id": "cbse_x_jemh1dd_c102_gen021",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "Prove using a geometrical argument that the linear polynomial ax + b (with a ≠ 0) has exactly one zero.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen022"
+    "question_id": "cbse_x_jemh1dd_c102_gen022",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "Explain why a polynomial of degree n has at most n real zeros, using examples from linear, quadratic, and cubic polynomials.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen023"
+    "question_id": "cbse_x_jemh1dd_c102_gen023",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "Find the zeros of the quadratic polynomial x² − 3x − 4 using a table of values or factorization.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen024"
+    "question_id": "cbse_x_jemh1dd_c102_gen024",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "Determine the zeros of the cubic polynomial x³ − 4x and demonstrate the steps of your factorization.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen025"
+    "question_id": "cbse_x_jemh1dd_c102_gen025",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "For the line given by y = −2x + 4, find the x-intercept by showing your work.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen026"
+    "question_id": "cbse_x_jemh1dd_c102_gen026",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   },
   {
     "question_text": "Find the zero(s) of the quadratic polynomial 2x² + 8x + 8 and determine their multiplicity.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "02_section_2_2",
-    "question_id": "cbse_x_jemh1dd_c102_gen027"
+    "question_id": "cbse_x_jemh1dd_c102_gen027",
+    "section_name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
   }
 ]

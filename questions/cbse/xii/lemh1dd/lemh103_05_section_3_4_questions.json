@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen016"
+    "question_id": "cbse_xii_lemh1dd_c103_gen016",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "If A and B are matrices of the same dimensions, which property is always true for matrix addition?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen017"
+    "question_id": "cbse_xii_lemh1dd_c103_gen017",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Consider matrices A = [a₍ᵢⱼ₎] and B = [b₍ᵢⱼ₎] of the same order. The matrix (A – B) is defined as:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen018"
+    "question_id": "cbse_xii_lemh1dd_c103_gen018",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Matrix multiplication is generally not commutative. Which of the following examples best illustrates this property?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen019"
+    "question_id": "cbse_xii_lemh1dd_c103_gen019",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Define matrix addition and list the necessary condition for its definition.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen020"
+    "question_id": "cbse_xii_lemh1dd_c103_gen020",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Explain the process of multiplying a matrix by a scalar, and provide an example.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen021"
+    "question_id": "cbse_xii_lemh1dd_c103_gen021",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "What is the significance of the zero matrix in matrix operations?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen022"
+    "question_id": "cbse_xii_lemh1dd_c103_gen022",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Prove that matrix multiplication is associative; that is, for any matrices A, B, and C (provided the products are defined), show that (AB)C = A(BC).",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen023"
+    "question_id": "cbse_xii_lemh1dd_c103_gen023",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Given matrices A and B, if 2A + 3X = 5B, express X in terms of A and B. Provide the derivation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen024"
+    "question_id": "cbse_xii_lemh1dd_c103_gen024",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Calculate the sum of the matrices: A = [ 80  60; 75 65; 90 85 ] and B = [ 90 50; 70 55; 75 75 ].",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen025"
+    "question_id": "cbse_xii_lemh1dd_c103_gen025",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Multiply the matrix A = [3 1 1.5; √5 7 -3; 2 0 5] by the scalar 3 and show each step.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen026"
+    "question_id": "cbse_xii_lemh1dd_c103_gen026",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Compute the product of matrices C = [1 -1 2; 0 3 4] and D = [2 7; -1 1; 5 -4]. Show the detailed computation of each entry.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen027"
+    "question_id": "cbse_xii_lemh1dd_c103_gen027",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "A group conducted a promotional campaign through three modes: telephone, house calls, and letters. The cost per contact is given by the matrix A = [40; 100; 50] (in paise). In city X, the number of contacts made for each mode is [1000, 500, 5000] and in city Y, [1000, 500, 10000]. Calculate the total expenditure (in rupees) for each city, given that 100 paise = 1 rupee.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen028"
+    "question_id": "cbse_xii_lemh1dd_c103_gen028",
+    "section_name": "3.4 Operations on Matrices**"
   }
 ]

@@ -119,7 +119,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen090"
+    "question_id": "cbse_xii_leph2dd_c206_gen090",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "In a full-wave rectifier that utilizes a centre-tap transformer and two diodes, what happens during one positive half-cycle of the AC input?",
@@ -138,7 +139,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen091"
+    "question_id": "cbse_xii_leph2dd_c206_gen091",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Which component is added to a rectifier circuit to reduce the ac ripple and produce a more steady dc voltage?",
@@ -157,7 +159,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen092"
+    "question_id": "cbse_xii_leph2dd_c206_gen092",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Which of the following accurately describes the role of the diode in a rectifier circuit?",
@@ -176,7 +179,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen093"
+    "question_id": "cbse_xii_leph2dd_c206_gen093",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Which rectifier circuit is considered more efficient in converting AC to DC?",
@@ -195,7 +199,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen094"
+    "question_id": "cbse_xii_leph2dd_c206_gen094",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Explain the operation of a half-wave rectifier and describe how the output waveform is obtained.",
@@ -209,7 +214,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen095"
+    "question_id": "cbse_xii_leph2dd_c206_gen095",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Define reverse saturation current in the context of diode operation and explain its significance in rectifier circuits.",
@@ -223,7 +229,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen096"
+    "question_id": "cbse_xii_leph2dd_c206_gen096",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Describe how a capacitor filter works in the rectifier circuit to reduce the ac ripple and achieve a smoother dc output.",
@@ -237,7 +244,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen097"
+    "question_id": "cbse_xii_leph2dd_c206_gen097",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "What is meant by the time constant in a capacitor filter circuit, and which parameters does it depend on?",
@@ -251,7 +259,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen098"
+    "question_id": "cbse_xii_leph2dd_c206_gen098",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Compare and contrast the half-wave and full-wave rectifier circuits, focusing on their circuit configuration, output waveform, and efficiency.",
@@ -265,7 +274,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen099"
+    "question_id": "cbse_xii_leph2dd_c206_gen099",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Analyze the operation of a centre-tap full-wave rectifier circuit. Describe the conduction process for each half-cycle, indicating the role of the transformer and diodes in producing the full-wave rectified output.",
@@ -279,7 +289,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen100"
+    "question_id": "cbse_xii_leph2dd_c206_gen100",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Evaluate the role of a capacitor filter in a rectifier circuit. Discuss its effect on the output voltage and suggest any improvements or alternatives for achieving a purer dc output.",
@@ -293,7 +304,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen101"
+    "question_id": "cbse_xii_leph2dd_c206_gen101",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "True or False: In a half-wave rectifier, output voltage is produced during both the positive and negative half-cycles of the ac input.",
@@ -307,7 +319,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen102"
+    "question_id": "cbse_xii_leph2dd_c206_gen102",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "True or False: A full-wave rectifier using two diodes requires a centre-tap transformer to properly rectify both halves of the ac input.",
@@ -321,7 +334,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen103"
+    "question_id": "cbse_xii_leph2dd_c206_gen103",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "True or False: Using a reverse breakdown voltage lower than the peak ac voltage in a rectifier circuit protects the diode from reverse breakdown.",
@@ -335,7 +349,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen104"
+    "question_id": "cbse_xii_leph2dd_c206_gen104",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "A half-wave rectifier circuit is supplied with an AC input having a peak voltage of 10 V. Assuming an ideal diode and no filtering, calculate the average dc output voltage across the load resistor.",
@@ -349,7 +364,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen105"
+    "question_id": "cbse_xii_leph2dd_c206_gen105",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "A full-wave rectifier circuit using a centre-tap transformer produces a peak voltage of 15 V across the load resistor. Determine the average dc output voltage of the circuit.",
@@ -363,7 +379,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen106"
+    "question_id": "cbse_xii_leph2dd_c206_gen106",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Determine the time constant for a capacitor filter used in a rectifier circuit if the capacitance is 1000 μF and the load resistance is 1 kΩ.",
@@ -377,7 +394,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen107"
+    "question_id": "cbse_xii_leph2dd_c206_gen107",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "A full-wave rectifier supplies a load current of 10 mA and has a ripple frequency of 100 Hz. If the desired ripple voltage is less than 0.5 V, calculate the minimum capacitance required for the filter.",
@@ -391,7 +409,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen108"
+    "question_id": "cbse_xii_leph2dd_c206_gen108",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "In a half-wave rectifier circuit with a capacitor filter, the capacitor charges to 10 V at the peak of the waveform. If the time constant is 0.5 s, calculate the voltage across the capacitor after 0.5 s of discharge (assuming no recharge during this interval).",
@@ -405,7 +424,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen109"
+    "question_id": "cbse_xii_leph2dd_c206_gen109",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Which of the following correctly represents the range of electrical conductivity for metals as given in the section?",
@@ -424,7 +444,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen018"
+    "question_id": "cbse_xii_leph2dd_c206_gen018",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Which of the following ranges correctly matches the resistivity of semiconductors as given in the text?",
@@ -443,7 +464,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen019"
+    "question_id": "cbse_xii_leph2dd_c206_gen019",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Which condition best distinguishes a metal from a semiconductor based on the energy band theory described?",
@@ -462,7 +484,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen020"
+    "question_id": "cbse_xii_leph2dd_c206_gen020",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "What happens when the energy gap Eg is greater than 3 eV, according to the text?",
@@ -481,7 +504,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen021"
+    "question_id": "cbse_xii_leph2dd_c206_gen021",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "In a semiconductor crystal such as silicon, if there are N atoms, how many available energy states exist in the outermost electron orbit?",
@@ -500,7 +524,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen022"
+    "question_id": "cbse_xii_leph2dd_c206_gen022",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Explain the difference between elemental semiconductors and compound semiconductors as described in the section.",
@@ -514,7 +539,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen023"
+    "question_id": "cbse_xii_leph2dd_c206_gen023",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Define the energy band gap Eg and its significance in determining the electrical conduction properties of a material.",
@@ -528,7 +554,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen024"
+    "question_id": "cbse_xii_leph2dd_c206_gen024",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "What role do temperature and the energy gap Eg play in the conduction process of semiconductors?",
@@ -542,7 +569,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen025"
+    "question_id": "cbse_xii_leph2dd_c206_gen025",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Describe the electron distribution in the conduction and valence bands of silicon at absolute zero temperature.",
@@ -556,7 +584,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen026"
+    "question_id": "cbse_xii_leph2dd_c206_gen026",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Discuss how the energy band model explains the conduction processes in metals, semiconductors, and insulators.",
@@ -570,7 +599,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen027"
+    "question_id": "cbse_xii_leph2dd_c206_gen027",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Compare and contrast the conductivity properties of metals and semiconductors using both resistivity values and energy band structures.",
@@ -584,7 +614,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen028"
+    "question_id": "cbse_xii_leph2dd_c206_gen028",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Explain the process by which thermal excitation creates free charge carriers in a semiconductor and how this relates to the creation of vacancies in the valence band.",
@@ -598,7 +629,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen029"
+    "question_id": "cbse_xii_leph2dd_c206_gen029",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "True or False: At absolute zero, the conduction band in pure silicon is completely empty.",
@@ -612,7 +644,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen030"
+    "question_id": "cbse_xii_leph2dd_c206_gen030",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "True or False: A semiconductor always has a larger energy band gap Eg than an insulator.",
@@ -626,7 +659,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen031"
+    "question_id": "cbse_xii_leph2dd_c206_gen031",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "True or False: The total number of outer (valence) electrons in a silicon crystal is equal to 4 times the number of atoms present.",
@@ -640,7 +674,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen032"
+    "question_id": "cbse_xii_leph2dd_c206_gen032",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Numerical: Using the resistivity ranges provided, state the range of resistivity values (in Ω m) for metals and insulators as described in the text.",
@@ -654,7 +689,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen033"
+    "question_id": "cbse_xii_leph2dd_c206_gen033",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Numerical: In a silicon crystal containing 10^20 atoms, calculate (a) the total number of valence electrons and (b) the number of available energy states in the outermost electron orbit.",
@@ -668,7 +704,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen034"
+    "question_id": "cbse_xii_leph2dd_c206_gen034",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Numerical: A semiconductor exhibits a conductivity of 10^2 S m^-1. Given the typical conductivity range for semiconductors is 10^-6 to 10^5 S m^-1, determine whether this value falls in the lower, middle, or higher part of the range and justify your answer.",
@@ -682,7 +719,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen035"
+    "question_id": "cbse_xii_leph2dd_c206_gen035",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Numerical: An insulator has a resistivity of 10^15 Ω m. If a sample of this insulator is 0.5 m long with a cross-sectional area of 1×10^-6 m^2, calculate its resistance using the formula R = ρ L / A.",
@@ -696,7 +734,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen036"
+    "question_id": "cbse_xii_leph2dd_c206_gen036",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Numerical: In a semiconductor, suppose only 0.1% of the total 4N valence electrons receive enough thermal energy to jump into the conduction band at room temperature. If a silicon sample contains 10^22 atoms, compute: (a) the total number of valence electrons, (b) the number of electrons in the conduction band, and (c) the number of vacancies created in the valence band.",
@@ -710,7 +749,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "03_section_14_2",
-    "question_id": "cbse_xii_leph2dd_c206_gen037"
+    "question_id": "cbse_xii_leph2dd_c206_gen037",
+    "section_name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
   },
   {
     "question_text": "Which device, used before the discovery of the transistor in 1948, controls the electron flow using a heated cathode in a vacuum?",
@@ -729,7 +769,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen001"
+    "question_id": "cbse_xii_leph2dd_c206_gen001",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "In a vacuum tube, which electrode emits electrons when heated?",
@@ -748,7 +789,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen002"
+    "question_id": "cbse_xii_leph2dd_c206_gen002",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Why is a vacuum necessary within a vacuum tube?",
@@ -767,7 +809,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen003"
+    "question_id": "cbse_xii_leph2dd_c206_gen003",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Which naturally occurring crystal, when used with a metal point contact, was employed as a detector for radio waves?",
@@ -786,7 +829,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen004"
+    "question_id": "cbse_xii_leph2dd_c206_gen004",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Compared to vacuum tubes, solid-state semiconductor devices are known for which of the following advantages?",
@@ -805,7 +849,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen005"
+    "question_id": "cbse_xii_leph2dd_c206_gen005",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why a vacuum is necessary inside a vacuum tube.",
@@ -819,7 +864,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen006"
+    "question_id": "cbse_xii_leph2dd_c206_gen006",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Describe the main advantages semiconductor devices have over vacuum tubes.",
@@ -833,7 +879,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen007"
+    "question_id": "cbse_xii_leph2dd_c206_gen007",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "What early discovery in the 1930s paved the way for semiconductor electronics?",
@@ -847,7 +894,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen008"
+    "question_id": "cbse_xii_leph2dd_c206_gen008",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Identify two significant limitations of vacuum tubes as mentioned in the text.",
@@ -861,7 +909,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen009"
+    "question_id": "cbse_xii_leph2dd_c206_gen009",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Compare and contrast the structure and operation of vacuum tubes and semiconductor devices. In your answer, discuss why there was a significant shift from vacuum tubes to semiconductor technology.",
@@ -875,7 +924,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen010"
+    "question_id": "cbse_xii_leph2dd_c206_gen010",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the role of the galena crystal in the early development of semiconductor technology. How did its use as a radio wave detector influence later advancements?",
@@ -889,7 +939,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen011"
+    "question_id": "cbse_xii_leph2dd_c206_gen011",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In a vacuum diode, electrons flow from the anode to the cathode.",
@@ -903,7 +954,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen012"
+    "question_id": "cbse_xii_leph2dd_c206_gen012",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Solid-state semiconductor devices operate by controlling the supply and flow of charge carriers within the solid itself, without the need for an evacuated space or external heating.",
@@ -917,7 +969,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen013"
+    "question_id": "cbse_xii_leph2dd_c206_gen013",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "A vacuum tube operates at 100 V. If the operating voltage is decreased by 50%, what is the new operating voltage?",
@@ -931,7 +984,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen014"
+    "question_id": "cbse_xii_leph2dd_c206_gen014",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Calculate the energy supplied by a vacuum tube operating at 100 V when a single electron (charge = 1.6 x 10^-19 C) is emitted. Express your answer in joules.",
@@ -945,7 +999,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen015"
+    "question_id": "cbse_xii_leph2dd_c206_gen015",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "A semiconductor device operates at 5 V, while a vacuum tube operates at 100 V. If a process involves 1000 electrons passing through each device every second, calculate and compare the energy consumed per second by each device. Use the electron charge of 1.6 x 10^-19 C.",
@@ -959,7 +1014,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen016"
+    "question_id": "cbse_xii_leph2dd_c206_gen016",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "In a vacuum tube device, the gap between the cathode and the anode is 2 cm and a voltage of 100 V is applied across them. Assuming an electron is released from rest, estimate the time it takes for the electron to reach the anode. Use the electron charge 1.6 x 10^-19 C, electron mass 9.1 x 10^-31 kg, and the equation d = 0.5 x a x t^2 where a = (e x V/d)/m.",
@@ -973,7 +1029,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen017"
+    "question_id": "cbse_xii_leph2dd_c206_gen017",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following best describes the effect of applying a forward bias to a p-n junction diode?",
@@ -992,7 +1049,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen073"
+    "question_id": "cbse_xii_leph2dd_c206_gen073",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Under reverse bias, what is the effective barrier height of a p-n junction diode?",
@@ -1011,7 +1069,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen074"
+    "question_id": "cbse_xii_leph2dd_c206_gen074",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "In a forward-biased p-n junction diode, the process where electrons cross over to the p-side and holes cross to the n-side is known as:",
@@ -1030,7 +1089,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen075"
+    "question_id": "cbse_xii_leph2dd_c206_gen075",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "What is the approximate threshold (cut-in) voltage for a silicon diode?",
@@ -1049,7 +1109,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen076"
+    "question_id": "cbse_xii_leph2dd_c206_gen076",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Which of the following correctly describes the importance of the depletion region in a p-n junction diode?",
@@ -1068,7 +1129,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen077"
+    "question_id": "cbse_xii_leph2dd_c206_gen077",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Define the depletion region in a p-n junction diode and explain its significance.",
@@ -1082,7 +1144,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen078"
+    "question_id": "cbse_xii_leph2dd_c206_gen078",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "How is dynamic resistance (rₑ) defined for a diode, and through what experimental method is it measured?",
@@ -1096,7 +1159,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen079"
+    "question_id": "cbse_xii_leph2dd_c206_gen079",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "What happens to the width of the depletion layer when a diode is reverse biased, and what is the underlying reason for this behavior?",
@@ -1110,7 +1174,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen080"
+    "question_id": "cbse_xii_leph2dd_c206_gen080",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Explain the mechanism of forward bias in a p-n junction diode. In your answer include a discussion of the barrier potential, carrier injection, and the resulting current flow.",
@@ -1124,7 +1189,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen081"
+    "question_id": "cbse_xii_leph2dd_c206_gen081",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Compare and contrast the conduction mechanisms in forward and reverse bias conditions of a p-n junction diode. Include discussion on carrier injection, diffusion, drift current, and the effect of barrier potential.",
@@ -1138,7 +1204,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen082"
+    "question_id": "cbse_xii_leph2dd_c206_gen082",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "True or False: In reverse bias, the diode current is highly dependent on the magnitude of the applied voltage throughout the operating range.",
@@ -1152,7 +1219,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen083"
+    "question_id": "cbse_xii_leph2dd_c206_gen083",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "True or False: The dynamic resistance of a diode in forward bias is generally much lower than its resistance in reverse bias.",
@@ -1166,7 +1234,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen084"
+    "question_id": "cbse_xii_leph2dd_c206_gen084",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "A silicon diode shows a forward voltage of 0.7 V at 10 mA and 0.8 V at 20 mA. Calculate the dynamic (forward bias) resistance of the diode.",
@@ -1180,7 +1249,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen085"
+    "question_id": "cbse_xii_leph2dd_c206_gen085",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "In reverse bias, a diode exhibits a voltage of -10 V with a corresponding current of -1 µA. Calculate its reverse bias resistance.",
@@ -1194,7 +1264,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen086"
+    "question_id": "cbse_xii_leph2dd_c206_gen086",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "If a forward-biased silicon diode shows an increase in voltage from 0.7 V to 0.9 V accompanied by an increase in current from 10 mA to 20 mA, determine the diode's dynamic resistance in this region.",
@@ -1208,7 +1279,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen087"
+    "question_id": "cbse_xii_leph2dd_c206_gen087",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "A p-n junction diode has a breakdown voltage (V_br) of -50 V. Just before breakdown, its reverse current is 2 µA. When the voltage is increased by 0.5 V beyond breakdown, the reverse current jumps to 100 µA. Calculate the approximate dynamic resistance in the breakdown region.",
@@ -1222,7 +1294,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen088"
+    "question_id": "cbse_xii_leph2dd_c206_gen088",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Discuss how the I-V characteristics of a p-n junction diode are experimentally determined. Include details on the role of the potentiometer, the measurement instruments used in forward and reverse bias, and the significance of the observed voltage-current curve.",
@@ -1236,7 +1309,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen089"
+    "question_id": "cbse_xii_leph2dd_c206_gen089",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "What type of bond primarily holds the atoms together in intrinsic semiconductors such as Si and Ge?",
@@ -1255,7 +1329,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen038"
+    "question_id": "cbse_xii_leph2dd_c206_gen038",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "As the temperature increases in an intrinsic semiconductor, which of the following processes occurs?",
@@ -1274,7 +1349,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen039"
+    "question_id": "cbse_xii_leph2dd_c206_gen039",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "In an intrinsic semiconductor, how are the concentrations of conduction electrons (nₑ) and holes (nₕ) related?",
@@ -1293,7 +1369,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen040"
+    "question_id": "cbse_xii_leph2dd_c206_gen040",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Which statement best describes the behavior of an intrinsic semiconductor at 0 K?",
@@ -1312,7 +1389,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen041"
+    "question_id": "cbse_xii_leph2dd_c206_gen041",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Why is carbon an insulator while silicon and germanium act as intrinsic semiconductors?",
@@ -1331,7 +1409,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen042"
+    "question_id": "cbse_xii_leph2dd_c206_gen042",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Define the term 'intrinsic carrier concentration' in the context of semiconductors.",
@@ -1345,7 +1424,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen043"
+    "question_id": "cbse_xii_leph2dd_c206_gen043",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Explain what is meant by a 'hole' in a semiconductor.",
@@ -1359,7 +1439,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen044"
+    "question_id": "cbse_xii_leph2dd_c206_gen044",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Discuss the effect of increasing temperature on the conduction process in an intrinsic semiconductor.",
@@ -1373,7 +1454,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen045"
+    "question_id": "cbse_xii_leph2dd_c206_gen045",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Describe the process of recombination in intrinsic semiconductors at equilibrium.",
@@ -1387,7 +1469,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen046"
+    "question_id": "cbse_xii_leph2dd_c206_gen046",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Explain how the diamond-like structure of silicon and germanium contributes to their semiconducting properties.",
@@ -1401,7 +1484,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen047"
+    "question_id": "cbse_xii_leph2dd_c206_gen047",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Discuss the role of thermal energy in ionizing atoms within an intrinsic semiconductor and its effect on generation of conduction electrons and holes.",
@@ -1415,7 +1499,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen048"
+    "question_id": "cbse_xii_leph2dd_c206_gen048",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Analyze the energy band diagrams of an intrinsic semiconductor at 0 K and at T > 0 K, and explain the implications on its electrical properties.",
@@ -1429,7 +1514,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen049"
+    "question_id": "cbse_xii_leph2dd_c206_gen049",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "True or False: In an intrinsic semiconductor, the number of free electrons generated is always equal to the number of holes created.",
@@ -1443,7 +1529,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen050"
+    "question_id": "cbse_xii_leph2dd_c206_gen050",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "True or False: The movement of holes in a semiconductor represents the actual physical motion of positive charge carriers within the lattice.",
@@ -1457,7 +1544,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen051"
+    "question_id": "cbse_xii_leph2dd_c206_gen051",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "True or False: Increasing the temperature of an intrinsic semiconductor always increases its conductivity.",
@@ -1471,7 +1559,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen052"
+    "question_id": "cbse_xii_leph2dd_c206_gen052",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "A silicon sample at room temperature (300 K) has an intrinsic carrier concentration nᵢ = 1.5 x 10¹⁰ cm⁻³. If the sample volume is 1 cm³, calculate the total number of conduction electrons present in the sample.",
@@ -1485,7 +1574,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen053"
+    "question_id": "cbse_xii_leph2dd_c206_gen053",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "A semiconductor has an intrinsic carrier concentration of nᵢ = 2 x 10¹³ cm⁻³. How many electron-hole pairs will be present in a 0.5 cm³ sample of this semiconductor?",
@@ -1499,7 +1589,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen054"
+    "question_id": "cbse_xii_leph2dd_c206_gen054",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Using the relationship nᵢ ∝ exp(-E₉/(2kT)), estimate the ratio of intrinsic carrier concentrations for germanium and silicon at room temperature (300 K), given E₉ for Ge is 0.66 eV and for Si is 1.12 eV. Assume kT ≈ 0.026 eV.",
@@ -1513,7 +1604,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen055"
+    "question_id": "cbse_xii_leph2dd_c206_gen055",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "In a semiconductor device, if the electron current (Iₑ) is measured to be 5 mA and the hole current (Iₕ) is 3 mA under an applied electric field, what is the total current (I)?",
@@ -1527,7 +1619,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "04_section_14_3",
-    "question_id": "cbse_xii_leph2dd_c206_gen056"
+    "question_id": "cbse_xii_leph2dd_c206_gen056",
+    "section_name": "14.3 INTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "What is doping in the context of semiconductors?",
@@ -1546,7 +1639,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen057"
+    "question_id": "cbse_xii_leph2dd_c206_gen057",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Which of the following impurities is typically used to create an n-type semiconductor by doping silicon?",
@@ -1565,7 +1659,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen058"
+    "question_id": "cbse_xii_leph2dd_c206_gen058",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "The energy required to free the extra (fifth) electron from a pentavalent dopant in silicon is approximately:",
@@ -1584,7 +1679,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen059"
+    "question_id": "cbse_xii_leph2dd_c206_gen059",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "In a p-n junction, the depletion region is characterized by:",
@@ -1603,7 +1699,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen060"
+    "question_id": "cbse_xii_leph2dd_c206_gen060",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "In a p-type semiconductor, which statement best describes the majority charge carriers?",
@@ -1622,7 +1719,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen061"
+    "question_id": "cbse_xii_leph2dd_c206_gen061",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Short Answer: Explain the primary difference between intrinsic and extrinsic semiconductors.",
@@ -1636,7 +1734,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen062"
+    "question_id": "cbse_xii_leph2dd_c206_gen062",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Short Answer: Why is it important for the dopant atom to be nearly the same size as the semiconductor atom in doping?",
@@ -1650,7 +1749,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen063"
+    "question_id": "cbse_xii_leph2dd_c206_gen063",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Short Answer: How do donor and acceptor impurities affect the concentration of majority and minority charge carriers in extrinsic semiconductors?",
@@ -1664,7 +1764,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen064"
+    "question_id": "cbse_xii_leph2dd_c206_gen064",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Long Answer: Describe in detail the formation process of a p-n junction. Include explanations of how diffusion and drift currents develop and lead to equilibrium.",
@@ -1678,7 +1779,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen065"
+    "question_id": "cbse_xii_leph2dd_c206_gen065",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Long Answer: Explain how the energy band diagram of a semiconductor is modified by doping with pentavalent and trivalent impurities. Include the positions of the donor and acceptor energy levels relative to the conduction and valence bands.",
@@ -1692,7 +1794,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen066"
+    "question_id": "cbse_xii_leph2dd_c206_gen066",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "True/False: In an n-type semiconductor, electrons are the majority carriers.",
@@ -1706,7 +1809,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen067"
+    "question_id": "cbse_xii_leph2dd_c206_gen067",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "True/False: In a p-type semiconductor, the introduced dopants result in electrons being the majority carriers.",
@@ -1720,7 +1824,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen068"
+    "question_id": "cbse_xii_leph2dd_c206_gen068",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "True/False: The depletion region in a p-n junction is completely free of any electrical charges.",
@@ -1734,7 +1839,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen069"
+    "question_id": "cbse_xii_leph2dd_c206_gen069",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Numerical: A pure silicon crystal has an atomic density of 5 × 10^28 atoms/m^3 and is doped with 1 ppm (parts per million) of a pentavalent impurity. Given that the intrinsic electron concentration n_i is 1.5 × 10^16 m^(-3), calculate the electron and hole concentrations in the doped silicon.",
@@ -1748,7 +1854,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen070"
+    "question_id": "cbse_xii_leph2dd_c206_gen070",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Numerical: In a p-n junction, the depletion region is approximately 0.1 micrometers wide and the barrier potential is 0.7 V. Calculate the average electric field in the depletion region.",
@@ -1762,7 +1869,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen071"
+    "question_id": "cbse_xii_leph2dd_c206_gen071",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   },
   {
     "question_text": "Numerical: For a p-type semiconductor doped with trivalent impurities, if the majority carrier (hole) concentration is 1 × 10^23 m^(-3) and the intrinsic carrier concentration n_i is 1.5 × 10^16 m^(-3), calculate the minority electron concentration.",
@@ -1776,6 +1884,7 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "05_section_14_4",
-    "question_id": "cbse_xii_leph2dd_c206_gen072"
+    "question_id": "cbse_xii_leph2dd_c206_gen072",
+    "section_name": "14.4 EXTRINSIC SEMICONDUCTOR"
   }
 ]

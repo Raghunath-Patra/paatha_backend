@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen082"
+    "question_id": "cbse_xii_lemh2dd_c201_gen082",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Which of the following is true regarding the evaluation of a definite integral when an antiderivative exists?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen083"
+    "question_id": "cbse_xii_lemh2dd_c201_gen083",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Which condition is necessary for the expression F(b) - F(a) to correctly represent the definite integral ∫ₐᵇ f(x) dx?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen084"
+    "question_id": "cbse_xii_lemh2dd_c201_gen084",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Identify the correct notation for a definite integral of f from 0 to 5.",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen085"
+    "question_id": "cbse_xii_lemh2dd_c201_gen085",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Define the definite integral of a function f on the interval [a, b].",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen086"
+    "question_id": "cbse_xii_lemh2dd_c201_gen086",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Explain the significance of the lower limit a and the upper limit b in the notation ∫ₐᵇ f(x) dx.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen087"
+    "question_id": "cbse_xii_lemh2dd_c201_gen087",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Differentiate between a definite and an indefinite integral.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen088"
+    "question_id": "cbse_xii_lemh2dd_c201_gen088",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "State the Fundamental Theorem of Calculus as it applies to definite integrals.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen089"
+    "question_id": "cbse_xii_lemh2dd_c201_gen089",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Prove the Fundamental Theorem of Calculus Part II for a continuous function f on [a, b].",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen090"
+    "question_id": "cbse_xii_lemh2dd_c201_gen090",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Explain and prove why the limit of the Riemann sum defines the definite integral of a function f on [a, b].",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen091"
+    "question_id": "cbse_xii_lemh2dd_c201_gen091",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Evaluate the definite integral ∫₁⁴ 2x dx.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen092"
+    "question_id": "cbse_xii_lemh2dd_c201_gen092",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Evaluate the definite integral ∫₀ᴨ sin x dx.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen093"
+    "question_id": "cbse_xii_lemh2dd_c201_gen093",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Evaluate the definite integral ∫₂⁵ 3 dx.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen094"
+    "question_id": "cbse_xii_lemh2dd_c201_gen094",
+    "section_name": "7.7 Definite Integral"
   },
   {
     "question_text": "Evaluate the definite integral ∫₀² 4x dx.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "15_section_7_7",
-    "question_id": "cbse_xii_lemh2dd_c201_gen095"
+    "question_id": "cbse_xii_lemh2dd_c201_gen095",
+    "section_name": "7.7 Definite Integral"
   }
 ]

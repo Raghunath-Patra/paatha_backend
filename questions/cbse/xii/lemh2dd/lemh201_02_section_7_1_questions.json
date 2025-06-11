@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen001"
+    "question_id": "cbse_xii_lemh2dd_c201_gen001",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "The Fundamental Theorem of Calculus connects which of the following?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen002"
+    "question_id": "cbse_xii_lemh2dd_c201_gen002",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Which of the following problems motivated the development of Integral Calculus?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen003"
+    "question_id": "cbse_xii_lemh2dd_c201_gen003",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Based on the historical note in the section, who is recognized as one of the founders of Calculus along with Isaac Newton?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen004"
+    "question_id": "cbse_xii_lemh2dd_c201_gen004",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Define the derivative in the context of its application to finding the tangent line to a curve.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen005"
+    "question_id": "cbse_xii_lemh2dd_c201_gen005",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Explain what is meant by an 'anti derivative' or 'primitive' of a function.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen006"
+    "question_id": "cbse_xii_lemh2dd_c201_gen006",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "State the Fundamental Theorem of Calculus and briefly explain its importance in connecting differentiation and integration.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen007"
+    "question_id": "cbse_xii_lemh2dd_c201_gen007",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "What are the two primary types of integrals discussed in the section, and what problems do they each address?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen008"
+    "question_id": "cbse_xii_lemh2dd_c201_gen008",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Prove the Fundamental Theorem of Calculus using the definition of the definite integral and differentiation. Illustrate your proof with a specific example.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen009"
+    "question_id": "cbse_xii_lemh2dd_c201_gen009",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Given a function f that is differentiable over an interval I, outline the process of determining an anti derivative of f, and discuss potential difficulties that may arise in this process.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen010"
+    "question_id": "cbse_xii_lemh2dd_c201_gen010",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "A particle moves along a straight line with an instantaneous velocity given by v(t) = 3t² (m/s), where t is time in seconds. Calculate the displacement of the particle between t = 1 s and t = 3 s.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen011"
+    "question_id": "cbse_xii_lemh2dd_c201_gen011",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Find the indefinite integral of f(x) = 2x.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen012"
+    "question_id": "cbse_xii_lemh2dd_c201_gen012",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Calculate the definite integral ∫[0 to 4] x dx.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen013"
+    "question_id": "cbse_xii_lemh2dd_c201_gen013",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Given that f′(x) = 6x and f(2) = 10, find the function f(x) and then determine f(5).",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xii_lemh2dd_c201_gen014"
+    "question_id": "cbse_xii_lemh2dd_c201_gen014",
+    "section_name": "7.1 Introduction"
   }
 ]

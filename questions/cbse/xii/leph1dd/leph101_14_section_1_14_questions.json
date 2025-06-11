@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen244"
+    "question_id": "cbse_xii_leph1dd_c101_gen244",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "The total electric flux through the curved cylindrical part of the Gaussian surface for an infinite wire is given by which of the following?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen245"
+    "question_id": "cbse_xii_leph1dd_c101_gen245",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "For a uniformly charged infinite plane sheet with surface charge density σ, which expression correctly gives the electric field on either side of the sheet?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen246"
+    "question_id": "cbse_xii_leph1dd_c101_gen246",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Inside a uniformly charged thin spherical shell, the electric field is:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen247"
+    "question_id": "cbse_xii_leph1dd_c101_gen247",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Gauss's law is most fundamentally connected to which of the following underlying physical principles?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen248"
+    "question_id": "cbse_xii_leph1dd_c101_gen248",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Describe the symmetry arguments used when applying Gauss's Law to determine the electric field of an infinitely long, uniformly charged wire.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen249"
+    "question_id": "cbse_xii_leph1dd_c101_gen249",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "For a uniformly charged infinite plane sheet, explain why only two faces of the chosen Gaussian surface (such as a rectangular box) contribute to the total flux.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen250"
+    "question_id": "cbse_xii_leph1dd_c101_gen250",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Why is the assumption of an infinitely long wire crucial when using Gauss's Law to determine its electric field?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen251"
+    "question_id": "cbse_xii_leph1dd_c101_gen251",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "What is the advantage of selecting a spherical Gaussian surface when calculating the electric field of a uniformly charged thin spherical shell?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen252"
+    "question_id": "cbse_xii_leph1dd_c101_gen252",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Derive the expression for the electric field E at a distance x from an infinite plane sheet with uniform surface charge density σ using Gauss's Law.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen253"
+    "question_id": "cbse_xii_leph1dd_c101_gen253",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Using Gauss's Law, derive the electric field for points outside a uniformly charged thin spherical shell and show that it behaves as if the entire charge were concentrated at the center.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen254"
+    "question_id": "cbse_xii_leph1dd_c101_gen254",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Consider an early atomic model with a positively charged nucleus of charge Ze and a uniform negative charge distributed within a sphere of radius R. Using Gauss's Law, derive the expression for the electric field at a distance r from the nucleus for both (a) r < R and (b) r > R.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen255"
+    "question_id": "cbse_xii_leph1dd_c101_gen255",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "True or False: For a uniformly charged thin spherical shell, the electric field is zero at all points inside the shell.",
@@ -209,7 +221,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen256"
+    "question_id": "cbse_xii_leph1dd_c101_gen256",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "True or False: In every application of Gauss's Law, the electric field is constant over the entire Gaussian surface.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen257"
+    "question_id": "cbse_xii_leph1dd_c101_gen257",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "True or False: When expressing a vector as A = A (unit vector), the algebraic value A can be negative, indicating that the direction of the vector is opposite to that of the unit vector.",
@@ -247,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen258"
+    "question_id": "cbse_xii_leph1dd_c101_gen258",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Calculate the electric field at a distance of 0.05 m from an infinitely long wire with a uniform linear charge density of 2.0×10⁻⁹ C/m. Use ε₀ = 8.85×10⁻¹² C²/(N·m²).",
@@ -261,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen259"
+    "question_id": "cbse_xii_leph1dd_c101_gen259",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Determine the electric field on either side of an infinite plane sheet that carries a surface charge density of 5.0×10⁻⁶ C/m². Use ε₀ = 8.85×10⁻¹² C²/(N·m²).",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen260"
+    "question_id": "cbse_xii_leph1dd_c101_gen260",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "A uniformly charged thin spherical shell has a radius of 0.1 m and a surface charge density of 4.0×10⁻⁶ C/m². Calculate the electric field at a point 0.2 m from the center of the shell. Use ε₀ = 8.85×10⁻¹² C²/(N·m²).",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen261"
+    "question_id": "cbse_xii_leph1dd_c101_gen261",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "For an atomic model with a nucleus of charge Ze = +2e and a uniform negative charge distributed within a sphere of radius 1.0×10⁻¹⁰ m, calculate the electric field at a point located at r = 0.5×10⁻¹⁰ m from the nucleus. Use e = 1.6×10⁻¹⁹ C and ε₀ = 8.85×10⁻¹² C²/(N·m²).",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen262"
+    "question_id": "cbse_xii_leph1dd_c101_gen262",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   },
   {
     "question_text": "Verify that for a uniformly charged thin spherical shell with a total charge q = 1.0×10⁻⁸ C and radius 0.2 m, the electric field inside the shell (r < 0.2 m) is zero, and compute the electric field at a point where r = 0.3 m.",
@@ -317,6 +336,7 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "14_section_1_14",
-    "question_id": "cbse_xii_leph1dd_c101_gen263"
+    "question_id": "cbse_xii_leph1dd_c101_gen263",
+    "section_name": "1.14 APPLICATIONS OF GAUSS'S LAW"
   }
 ]

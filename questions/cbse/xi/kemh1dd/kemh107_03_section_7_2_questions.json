@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen015"
+    "question_id": "cbse_xi_kemh1dd_c107_gen015",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "In the binomial expansion (a + b)ⁿ, the power of a in successive terms decreases by 1 while that of b increases by 1. Which of the following expressions correctly represents the second term in the expansion?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen016"
+    "question_id": "cbse_xi_kemh1dd_c107_gen016",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Using the binomial theorem, evaluate (1 - 1)ⁿ for any positive integer n (n ≥ 1). What is the result?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen017"
+    "question_id": "cbse_xi_kemh1dd_c107_gen017",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "What is the value of the binomial coefficient ⁿC₀ in the expansion of (a + b)ⁿ?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen018"
+    "question_id": "cbse_xi_kemh1dd_c107_gen018",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Define the binomial coefficient ⁿCₖ and express it in terms of factorials.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen019"
+    "question_id": "cbse_xi_kemh1dd_c107_gen019",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "State Pascal’s Identity and explain its role in constructing Pascal’s Triangle.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen020"
+    "question_id": "cbse_xi_kemh1dd_c107_gen020",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Prove the Binomial Theorem using mathematical induction for (a + b)ⁿ.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen021"
+    "question_id": "cbse_xi_kemh1dd_c107_gen021",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Using the Binomial Theorem, derive the expansion for (x - y)ⁿ and explain the pattern of alternating signs.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen022"
+    "question_id": "cbse_xi_kemh1dd_c107_gen022",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Expand (x + 3)³ using the Binomial Theorem.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen023"
+    "question_id": "cbse_xi_kemh1dd_c107_gen023",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Expand (2x + 3y)⁵ using Pascal's Triangle and show detailed working.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen024"
+    "question_id": "cbse_xi_kemh1dd_c107_gen024",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Compute (98)⁵ by expressing 98 as (100 - 2) and expanding using the Binomial Theorem.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen025"
+    "question_id": "cbse_xi_kemh1dd_c107_gen025",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Expand (x² + 3/x)⁴ using the Binomial Theorem and simplify your answer.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen026"
+    "question_id": "cbse_xi_kemh1dd_c107_gen026",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Find the sum of the coefficients in the expansion of (1 + x)ⁿ. What value do you obtain when x = 1?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen027"
+    "question_id": "cbse_xi_kemh1dd_c107_gen027",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   },
   {
     "question_text": "Using the Binomial Theorem, prove that 6ⁿ – 5n always leaves a remainder of 1 when divided by 25.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_kemh1dd_c107_gen028"
+    "question_id": "cbse_xi_kemh1dd_c107_gen028",
+    "section_name": "7.2 Binomial Theorem for Positive Integral Indices"
   }
 ]

@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "4.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "4.2 MAGNETIC FORCE"
+    },
+    {
+      "number": 3,
+      "name": "4.3 MOTION IN A MAGNETIC FIELD"
+    },
+    {
+      "number": 4,
+      "name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
+    },
+    {
+      "number": 5,
+      "name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
+    },
+    {
+      "number": 6,
+      "name": "4.6 AMPERE’S CIRCUITAL LAW"
+    },
+    {
+      "number": 7,
+      "name": "4.7 THE SOLENOID"
+    },
+    {
+      "number": 8,
+      "name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
+    },
+    {
+      "number": 9,
+      "name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
+    },
+    {
+      "number": 10,
+      "name": "4.10 THE MOVING COIL GALVANOMETER"
+    }
+  ]
+}

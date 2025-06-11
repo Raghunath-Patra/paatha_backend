@@ -302,7 +302,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen106"
+    "question_id": "cbse_xi_keph1dd_c106_gen106",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "For a system of n particles, the total linear momentum is given by which of the following expressions?",
@@ -321,7 +322,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen107"
+    "question_id": "cbse_xi_keph1dd_c106_gen107",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Which of the following statements is true when the sum of external forces on a system is zero?",
@@ -340,7 +342,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen108"
+    "question_id": "cbse_xi_keph1dd_c106_gen108",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Identify the equation that extends Newton's second law for a system of particles.",
@@ -359,7 +362,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen109"
+    "question_id": "cbse_xi_keph1dd_c106_gen109",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "In a binary star system with no external forces, how are the individual star trajectories best described in the center-of-mass frame?",
@@ -378,7 +382,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen110"
+    "question_id": "cbse_xi_keph1dd_c106_gen110",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Explain why analyzing systems of particles in the center-of-mass frame is often more convenient than using the laboratory frame.",
@@ -392,7 +397,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen111"
+    "question_id": "cbse_xi_keph1dd_c106_gen111",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Define the center-of-mass velocity for a system of particles and describe its significance in relation to the total momentum of the system.",
@@ -406,7 +412,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen112"
+    "question_id": "cbse_xi_keph1dd_c106_gen112",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Derive the relationship between dP/dt and the external force (F_ext) acting on a system of particles.",
@@ -420,7 +427,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen113"
+    "question_id": "cbse_xi_keph1dd_c106_gen113",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "In your own words, describe what happens to the center-of-mass motion of a system when the sum of external forces is zero.",
@@ -434,7 +442,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen114"
+    "question_id": "cbse_xi_keph1dd_c106_gen114",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Discuss the principle of conservation of linear momentum in the context of a radioactive decay process, using the example of a radium nucleus decaying into a radon nucleus and an alpha particle.",
@@ -448,7 +457,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen115"
+    "question_id": "cbse_xi_keph1dd_c106_gen115",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Explain in detail how separating the motion of the center of mass and the motion about the center of mass can simplify the analysis of complex particle systems.",
@@ -462,7 +472,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen116"
+    "question_id": "cbse_xi_keph1dd_c106_gen116",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Analyze the motion of a binary star system by comparing the trajectories in the laboratory frame with those in the center-of-mass frame.",
@@ -476,7 +487,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen117"
+    "question_id": "cbse_xi_keph1dd_c106_gen117",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "True or False: If no external force acts on a system of particles, then the velocity of each particle remains constant.",
@@ -490,7 +502,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen118"
+    "question_id": "cbse_xi_keph1dd_c106_gen118",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "True or False: According to the extended form of Newton's second law for a system of particles, dP/dt equals the net external force acting on the system.",
@@ -504,7 +517,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen119"
+    "question_id": "cbse_xi_keph1dd_c106_gen119",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "True or False: In the center-of-mass frame, the total momentum of the system is always zero.",
@@ -518,7 +532,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen120"
+    "question_id": "cbse_xi_keph1dd_c106_gen120",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "A system consists of two particles. Particle 1 has a mass of 2 kg and moves at 5 m/s along the x-axis, while Particle 2 has a mass of 3 kg and moves at 2 m/s along the same x-axis. Calculate the total momentum of the system.",
@@ -532,7 +547,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen121"
+    "question_id": "cbse_xi_keph1dd_c106_gen121",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "A system with a constant mass of 10 kg has its center-of-mass velocity increase uniformly from 0 m/s to 8 m/s in 4 seconds. Determine the magnitude of the net external force acting on the system.",
@@ -546,7 +562,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen122"
+    "question_id": "cbse_xi_keph1dd_c106_gen122",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "A radium nucleus at rest decays into a radon nucleus and an alpha particle. If the alpha particle is ejected with a momentum of 5.0×10⁻²⁰ kg m/s to the right, what is the magnitude and direction of the momentum of the radon nucleus?",
@@ -560,7 +577,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen123"
+    "question_id": "cbse_xi_keph1dd_c106_gen123",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "In a binary star system, two stars of masses 4×10³⁰ kg and 6×10³⁰ kg are separated by 2×10¹¹ m. Calculate the distance of each star from the center of mass.",
@@ -574,7 +592,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen124"
+    "question_id": "cbse_xi_keph1dd_c106_gen124",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "A system consists of three particles with masses 1 kg, 2 kg, and 3 kg. Their velocities are given by the vectors (2, 0, 0) m/s, (-1, 3, 0) m/s, and (0, -2, 4) m/s respectively. Determine the total momentum vector of the system.",
@@ -588,7 +607,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen125"
+    "question_id": "cbse_xi_keph1dd_c106_gen125",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Which of the following formulas correctly defines the centre of mass X for a two-particle system with masses m₁ and m₂ located at positions x₁ and x₂ respectively?",
@@ -607,7 +627,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen053"
+    "question_id": "cbse_xi_keph1dd_c106_gen053",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "For two particles of equal mass located at positions x₁ and x₂, what is the location of the centre of mass?",
@@ -626,7 +647,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen054"
+    "question_id": "cbse_xi_keph1dd_c106_gen054",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Which statement best explains why the centre of mass of a homogeneous thin rod lies at its geometric centre?",
@@ -645,7 +667,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen055"
+    "question_id": "cbse_xi_keph1dd_c106_gen055",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "In a three-particle system located in a plane with coordinates (x₁, y₁), (x₂, y₂), and (x₃, y₃) and masses m₁, m₂, and m₃ respectively, which of these formulas correctly gives the y-coordinate of the centre of mass?",
@@ -664,7 +687,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen056"
+    "question_id": "cbse_xi_keph1dd_c106_gen056",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Define the centre of mass for a continuous mass distribution and explain how it is determined using integration.",
@@ -678,7 +702,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen057"
+    "question_id": "cbse_xi_keph1dd_c106_gen057",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "How does the concept of reflection symmetry help in determining the centre of mass for homogeneous bodies such as rings, discs, and rods?",
@@ -692,7 +717,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen058"
+    "question_id": "cbse_xi_keph1dd_c106_gen058",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Explain why the centre of mass of a triangular lamina made of a homogeneous material is located at its centroid.",
@@ -706,7 +732,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen059"
+    "question_id": "cbse_xi_keph1dd_c106_gen059",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Derive the expression for the centre of mass of a continuously distributed mass along an object using integration. Include the steps starting from the division of the body into small mass elements.",
@@ -720,7 +747,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen060"
+    "question_id": "cbse_xi_keph1dd_c106_gen060",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Discuss how you would determine the centre of mass of an L-shaped lamina if the masses making up its constituent parts are not equal. What steps would you follow?",
@@ -734,7 +762,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen061"
+    "question_id": "cbse_xi_keph1dd_c106_gen061",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "True or False: For a homogeneous ring, disc, sphere, or thick rod with uniform density, the centre of mass always coincides with the geometric centre.",
@@ -748,7 +777,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen062"
+    "question_id": "cbse_xi_keph1dd_c106_gen062",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "True or False: If the origin of the coordinate system is chosen to be the centre of mass of a system, then the vector sum Σ mᵢ rᵢ equals zero.",
@@ -762,7 +792,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen063"
+    "question_id": "cbse_xi_keph1dd_c106_gen063",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "A two-particle system consists of masses 3 kg and 5 kg. They are located on the x-axis at positions 2 m and 6 m respectively from the origin. Calculate the x-coordinate of the centre of mass.",
@@ -776,7 +807,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen064"
+    "question_id": "cbse_xi_keph1dd_c106_gen064",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Three particles are located on a straight line at positions 1 m, 3 m, and 5 m respectively. Their masses are 2 kg, 4 kg, and 6 kg. Determine the centre of mass of the system.",
@@ -790,7 +822,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen065"
+    "question_id": "cbse_xi_keph1dd_c106_gen065",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Using the coordinates (0, 0), (0.5, 0) and (0.25, 0.25√3) for three particles with masses 100 g, 150 g, and 200 g respectively, calculate the x and y coordinates of the centre of mass. (Express your answers in meters.)",
@@ -804,7 +837,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen066"
+    "question_id": "cbse_xi_keph1dd_c106_gen066",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Find the coordinates of the centroid (and hence the centre of mass) of a right-angled triangular lamina with vertices at (0, 0), (3, 0), and (0, 4).",
@@ -818,7 +852,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen067"
+    "question_id": "cbse_xi_keph1dd_c106_gen067",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "An L-shaped lamina consists of three adjoining squares each of side 1 m. If the centres of the squares are located at (0.5, 0.5), (1.5, 0.5), and (0.5, 1.5) with mass 1 kg each, calculate the overall centre of mass of the lamina.",
@@ -832,7 +867,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen068"
+    "question_id": "cbse_xi_keph1dd_c106_gen068",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Which equation correctly expresses the total linear momentum of a system of particles?",
@@ -851,7 +887,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen126"
+    "question_id": "cbse_xi_keph1dd_c106_gen126",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "According to Newton's second law for a system of particles, what does the time derivative of the total momentum (dP/dt) equal?",
@@ -870,7 +907,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen127"
+    "question_id": "cbse_xi_keph1dd_c106_gen127",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "If the sum of external forces on a system is zero, what can be said about its total momentum?",
@@ -889,7 +927,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen128"
+    "question_id": "cbse_xi_keph1dd_c106_gen128",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "In the analysis of a binary star system, the individual motions of the stars can be separated into which two components?",
@@ -908,7 +947,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen129"
+    "question_id": "cbse_xi_keph1dd_c106_gen129",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "For the radioactive decay of a radium nucleus into radon and an alpha particle, in which frame do the product particles move back-to-back?",
@@ -927,7 +967,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen130"
+    "question_id": "cbse_xi_keph1dd_c106_gen130",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Explain the concept of the center-of-mass velocity in a system of particles.",
@@ -941,7 +982,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen131"
+    "question_id": "cbse_xi_keph1dd_c106_gen131",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Briefly describe how internal forces affect individual particle trajectories in a system and why they do not alter the motion of the center-of-mass.",
@@ -955,7 +997,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen132"
+    "question_id": "cbse_xi_keph1dd_c106_gen132",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Write the expression for the total linear momentum of a system of n particles.",
@@ -969,7 +1012,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen133"
+    "question_id": "cbse_xi_keph1dd_c106_gen133",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Discuss the conservation of momentum in the radioactive decay of a radium nucleus. In your answer, explain how the momenta of the radon nucleus and the alpha particle relate to the initial momentum of the radium nucleus.",
@@ -983,7 +1027,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen134"
+    "question_id": "cbse_xi_keph1dd_c106_gen134",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Explain how analyzing the motion of a binary star system by separating the center-of-mass motion from the orbital motion of the stars simplifies the problem. Include a discussion on the role of external forces.",
@@ -997,7 +1042,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen135"
+    "question_id": "cbse_xi_keph1dd_c106_gen135",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "True or False: If the net external force acting on a system of particles is zero, then the acceleration of the center of mass is also zero.",
@@ -1011,7 +1057,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen136"
+    "question_id": "cbse_xi_keph1dd_c106_gen136",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "True or False: In the center-of-mass frame of a binary star system, the stars can be seen moving in random, uncorrelated paths.",
@@ -1025,7 +1072,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen137"
+    "question_id": "cbse_xi_keph1dd_c106_gen137",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "True or False: Internal forces can change the individual momenta of particles in a system but do not affect the total momentum of the system.",
@@ -1039,7 +1087,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen138"
+    "question_id": "cbse_xi_keph1dd_c106_gen138",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "A system consists of two particles. Particle 1 has a mass of 2 kg and is moving in the x-direction at 3 m/s. Particle 2 has a mass of 3 kg and is moving in the y-direction at 4 m/s. Calculate the total linear momentum vector of the system and the velocity of the center of mass.",
@@ -1053,7 +1102,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen139"
+    "question_id": "cbse_xi_keph1dd_c106_gen139",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "A moving radium nucleus with a momentum of 20 kg·m/s decays into a radon nucleus and an alpha particle. If the alpha particle is observed to have a momentum of 8 kg·m/s in one direction, what is the momentum (magnitude and direction) of the radon nucleus?",
@@ -1067,7 +1117,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen140"
+    "question_id": "cbse_xi_keph1dd_c106_gen140",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "In a binary star system, two stars each of mass 2 x 10^30 kg are observed. If one star has a velocity of (1 x 10^4, 0, 0) m/s and the other has a velocity of (-1 x 10^4, 0, 0) m/s, calculate the velocity of the center of mass.",
@@ -1081,7 +1132,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen141"
+    "question_id": "cbse_xi_keph1dd_c106_gen141",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "A system consists of three particles with masses 1 kg, 2 kg, and 3 kg. Their velocities (in m/s) are given as follows: Particle 1: (1, 2, 3), Particle 2: (4, 0, -1), Particle 3: (-2, 3, 1). Calculate the total momentum vector of the system.",
@@ -1095,7 +1147,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen142"
+    "question_id": "cbse_xi_keph1dd_c106_gen142",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "A particle of mass 5 kg is moving with a constant momentum of 40 kg·m/s. Determine its velocity.",
@@ -1109,7 +1162,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_4",
-    "question_id": "cbse_xi_keph1dd_c106_gen143"
+    "question_id": "cbse_xi_keph1dd_c106_gen143",
+    "section_name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
   },
   {
     "question_text": "Which of the following equations correctly represents the centre of mass for two particles with masses m1 and m2 located at positions x1 and x2?",
@@ -1128,7 +1182,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen037"
+    "question_id": "cbse_xi_keph1dd_c106_gen037",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "For a system of n particles along the x-axis, the centre of mass is given by which of the following expressions?",
@@ -1147,7 +1202,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen038"
+    "question_id": "cbse_xi_keph1dd_c106_gen038",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "For a homogeneous (uniform) thin rod, why does the centre of mass coincide with its geometric centre?",
@@ -1166,7 +1222,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen039"
+    "question_id": "cbse_xi_keph1dd_c106_gen039",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "In a triangular lamina with uniformly distributed mass, the centre of mass coincides with which of the following?",
@@ -1185,7 +1242,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen040"
+    "question_id": "cbse_xi_keph1dd_c106_gen040",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Which expression correctly represents the centre of mass for a continuous mass distribution in vector form?",
@@ -1204,7 +1262,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen041"
+    "question_id": "cbse_xi_keph1dd_c106_gen041",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Define the centre of mass for a system of particles in your own words and state its mathematical expression for a two-particle system.",
@@ -1218,7 +1277,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen042"
+    "question_id": "cbse_xi_keph1dd_c106_gen042",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Explain why a homogeneous thin rod has its centre of mass at its geometric centre using the concept of reflection symmetry.",
@@ -1232,7 +1292,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen043"
+    "question_id": "cbse_xi_keph1dd_c106_gen043",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Using the centre of mass formula for particles not lying in a straight line, derive the expressions for the X and Y coordinates of the centre of mass for three particles with masses m1, m2, m3 located at (x1, y1), (x2, y2), and (x3, y3) respectively.",
@@ -1246,7 +1307,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen044"
+    "question_id": "cbse_xi_keph1dd_c106_gen044",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Discuss how the centre of mass of a rigid body is determined using the concept of continuous mass distribution. In your answer, explain the transition from discrete summation to integration.",
@@ -1260,7 +1322,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen045"
+    "question_id": "cbse_xi_keph1dd_c106_gen045",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "An L-shaped lamina is formed by three squares of equal area. If the squares had different masses, describe how you would determine the centre of mass of the lamina.",
@@ -1274,7 +1337,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen046"
+    "question_id": "cbse_xi_keph1dd_c106_gen046",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "True or False: In a homogeneous thin rod, the centre of mass does not coincide with the geometric centre.",
@@ -1288,7 +1352,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen047"
+    "question_id": "cbse_xi_keph1dd_c106_gen047",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "True or False: The medians of a triangle are always concurrent and their point of intersection represents the centre of mass for a uniformly distributed triangular lamina.",
@@ -1302,7 +1367,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen048"
+    "question_id": "cbse_xi_keph1dd_c106_gen048",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Numerical Problem: Calculate the centre of mass along the x-axis for two point masses, where 3 kg is located at x = 2 m and 7 kg is located at x = 6 m.",
@@ -1316,7 +1382,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen049"
+    "question_id": "cbse_xi_keph1dd_c106_gen049",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Numerical Problem: Find the centre of mass coordinates for three particles in a plane. The particles are located at (0, 0) with mass 2 kg, (4, 0) with mass 2 kg, and (2, 3) with mass 4 kg.",
@@ -1330,7 +1397,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen050"
+    "question_id": "cbse_xi_keph1dd_c106_gen050",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Numerical Problem: A uniform triangular lamina has vertices at (0, 0), (6, 0) and (0, 4). Calculate the coordinates of the centre of mass of the lamina.",
@@ -1344,7 +1412,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen051"
+    "question_id": "cbse_xi_keph1dd_c106_gen051",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Numerical Problem: An L-shaped lamina is constructed from three 1 m by 1 m squares. The centres of the squares are at (0.5, 0.5), (1.5, 0.5), and (0.5, 1.5) with masses 1 kg each. Compute the centre of mass of the lamina.",
@@ -1358,7 +1427,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen052"
+    "question_id": "cbse_xi_keph1dd_c106_gen052",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Which of the following conditions must be satisfied for a rigid body to be in complete mechanical equilibrium?",
@@ -1377,7 +1447,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen270"
+    "question_id": "cbse_xi_keph1dd_c106_gen270",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "In a system of forces acting on a rigid body and in translational equilibrium, which of the following statements describes the torque (moment) of a couple?",
@@ -1396,7 +1467,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen271"
+    "question_id": "cbse_xi_keph1dd_c106_gen271",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Which equation correctly represents the principle of moments for a lever system?",
@@ -1415,7 +1487,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen272"
+    "question_id": "cbse_xi_keph1dd_c106_gen272",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A pair of equal and opposite forces acting at different lines of action on a rigid body is known as:",
@@ -1434,7 +1507,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen273"
+    "question_id": "cbse_xi_keph1dd_c106_gen273",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "In a uniform gravitational field, the center of gravity of a body coincides with:",
@@ -1453,7 +1527,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen274"
+    "question_id": "cbse_xi_keph1dd_c106_gen274",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Define mechanical equilibrium for a rigid body.",
@@ -1467,7 +1542,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen275"
+    "question_id": "cbse_xi_keph1dd_c106_gen275",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Explain what a 'couple' means in the context of rigid body mechanics.",
@@ -1481,7 +1557,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen276"
+    "question_id": "cbse_xi_keph1dd_c106_gen276",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Describe one experimental method to locate the center of gravity of an irregularly shaped object.",
@@ -1495,7 +1572,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen277"
+    "question_id": "cbse_xi_keph1dd_c106_gen277",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Derive and explain why the moment of a couple is independent of the point about which the torques are taken, using the given definitions.",
@@ -1509,7 +1587,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen278"
+    "question_id": "cbse_xi_keph1dd_c106_gen278",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Explain the principle of moments for a lever and discuss how the mechanical advantage is determined.",
@@ -1523,7 +1602,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen279"
+    "question_id": "cbse_xi_keph1dd_c106_gen279",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: A rigid body can be in partial equilibrium if it is only in translational equilibrium but not in rotational equilibrium.",
@@ -1537,7 +1617,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen280"
+    "question_id": "cbse_xi_keph1dd_c106_gen280",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: In an extended object with uniform gravitational field, the center of gravity and center of mass are different.",
@@ -1551,7 +1632,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen281"
+    "question_id": "cbse_xi_keph1dd_c106_gen281",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: For rotational equilibrium, the sum of the moments must be nonzero.",
@@ -1565,7 +1647,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen282"
+    "question_id": "cbse_xi_keph1dd_c106_gen282",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A lever has a load arm length of 0.5 m and an effort arm length of 1.5 m. If a 100 N load is applied, calculate the effort required to maintain equilibrium.",
@@ -1579,7 +1662,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen283"
+    "question_id": "cbse_xi_keph1dd_c106_gen283",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A uniform metal rod 70 cm long and weighing 4.00 kg is supported on two knife-edges placed 10 cm from each end. A load of 6.00 kg is suspended at a point 30 cm from one end. Calculate the reaction forces at the supports. (Assume g = 9.8 m/s²)",
@@ -1593,7 +1677,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen284"
+    "question_id": "cbse_xi_keph1dd_c106_gen284",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A 3 m long ladder weighing 20 kg leans against a frictionless wall. The foot of the ladder is 1 m from the wall. Assuming the weight of the ladder acts at its midpoint, determine the reaction force exerted by the wall.",
@@ -1607,7 +1692,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen285"
+    "question_id": "cbse_xi_keph1dd_c106_gen285",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Two forces, each of magnitude 50 N, act on a rigid body to form a couple. If the distance between their lines of action is 0.8 m, calculate the moment of the couple.",
@@ -1621,7 +1707,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen286"
+    "question_id": "cbse_xi_keph1dd_c106_gen286",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Which kinematic quantity in rotational motion is analogous to the velocity in linear motion?",
@@ -1640,7 +1727,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen302"
+    "question_id": "cbse_xi_keph1dd_c106_gen302",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which of the following equations is NOT a standard kinematic equation for rotational motion with uniform angular acceleration?",
@@ -1659,7 +1747,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen303"
+    "question_id": "cbse_xi_keph1dd_c106_gen303",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "To derive the equation ω = ω₀ + αt for uniform angular acceleration, which fundamental mathematical step is performed?",
@@ -1678,7 +1767,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen304"
+    "question_id": "cbse_xi_keph1dd_c106_gen304",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In the derivation of angular kinematics equations, the constant of integration is determined by which initial condition?",
@@ -1697,7 +1787,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen305"
+    "question_id": "cbse_xi_keph1dd_c106_gen305",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In the coordinate system of Fig.6.29, what is the fixed axis about which the body rotates?",
@@ -1716,7 +1807,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen306"
+    "question_id": "cbse_xi_keph1dd_c106_gen306",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Define angular displacement in the context of rotational motion and describe how it is measured.",
@@ -1730,7 +1822,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen307"
+    "question_id": "cbse_xi_keph1dd_c106_gen307",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Describe the relationship between angular velocity and time when a rotational body is subject to uniform angular acceleration.",
@@ -1744,7 +1837,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen308"
+    "question_id": "cbse_xi_keph1dd_c106_gen308",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Explain why, for rotational motion about a fixed axis, the angular velocity can be treated as a scalar quantity.",
@@ -1758,7 +1852,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen309"
+    "question_id": "cbse_xi_keph1dd_c106_gen309",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "State the equation for angular displacement under uniform angular acceleration and identify each term in the equation.",
@@ -1772,7 +1867,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen310"
+    "question_id": "cbse_xi_keph1dd_c106_gen310",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Derive the equation for angular displacement, θ = θ₀ + ω₀t + (1/2)αt², starting from the definition of angular velocity.",
@@ -1786,7 +1882,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen311"
+    "question_id": "cbse_xi_keph1dd_c106_gen311",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Discuss the analogy between translational and rotational kinematics and explain how this analogy aids in understanding complex rotational dynamics.",
@@ -1800,7 +1897,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen312"
+    "question_id": "cbse_xi_keph1dd_c106_gen312",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: In rotational kinematics about a fixed axis, the angular velocity can be treated as a scalar quantity because its direction remains constant during the motion.",
@@ -1814,7 +1912,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen313"
+    "question_id": "cbse_xi_keph1dd_c106_gen313",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: The equation ω² = ω₀² + 2α(θ - θ₀) is valid for cases with non-uniform angular acceleration.",
@@ -1828,7 +1927,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen314"
+    "question_id": "cbse_xi_keph1dd_c106_gen314",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: When converting revolutions per minute to radians per second, it is necessary to multiply by 2π and then divide by 60.",
@@ -1842,7 +1942,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen315"
+    "question_id": "cbse_xi_keph1dd_c106_gen315",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A motor wheel's angular speed is increased from 1200 rpm to 3120 rpm uniformly in 16 seconds. Calculate the angular acceleration in rad/s².",
@@ -1856,7 +1957,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen316"
+    "question_id": "cbse_xi_keph1dd_c106_gen316",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Using the previous example of a motor wheel, determine the total number of revolutions made during the 16 second interval.",
@@ -1870,7 +1972,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen317"
+    "question_id": "cbse_xi_keph1dd_c106_gen317",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A wheel rotates with a uniform angular acceleration of 2 rad/s². If its angular velocity increases from 5 rad/s to 15 rad/s, calculate the total angular displacement during this increase.",
@@ -1884,7 +1987,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen318"
+    "question_id": "cbse_xi_keph1dd_c106_gen318",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A disc starts from rest and rotates with a constant angular acceleration. It covers an angular displacement of 20π radians in 10 seconds. Calculate the angular acceleration and its final angular velocity.",
@@ -1898,7 +2002,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen319"
+    "question_id": "cbse_xi_keph1dd_c106_gen319",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which of the following equations is analogous to Newton's second law for rotational motion?",
@@ -1917,7 +2022,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen357"
+    "question_id": "cbse_xi_keph1dd_c106_gen357",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Which of the following expressions correctly represents the work done by a torque during an infinitesimal angular displacement?",
@@ -1936,7 +2042,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen358"
+    "question_id": "cbse_xi_keph1dd_c106_gen358",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "In calculating the torque on a rigid body rotating about a fixed axis, which force components are considered?",
@@ -1955,7 +2062,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen359"
+    "question_id": "cbse_xi_keph1dd_c106_gen359",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "What is the rotational analogue of mass in linear motion?",
@@ -1974,7 +2082,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen360"
+    "question_id": "cbse_xi_keph1dd_c106_gen360",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Which equation correctly relates power, torque, and angular velocity in rotational motion?",
@@ -1993,7 +2102,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen361"
+    "question_id": "cbse_xi_keph1dd_c106_gen361",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Define moment of inertia and explain its significance in rotational motion.",
@@ -2007,7 +2117,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen362"
+    "question_id": "cbse_xi_keph1dd_c106_gen362",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Explain why, for a body rotating about a fixed axis, only forces in the plane perpendicular to the axis and the corresponding perpendicular components of the position vectors are considered in calculating torque.",
@@ -2021,7 +2132,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen363"
+    "question_id": "cbse_xi_keph1dd_c106_gen363",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "State the relationship between the work done by a torque and the angular displacement of a rotating body.",
@@ -2035,7 +2147,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen364"
+    "question_id": "cbse_xi_keph1dd_c106_gen364",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Derive the expression for the work done by a torque acting on a rotating body and compare it with the expression for work in linear motion.",
@@ -2049,7 +2162,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen365"
+    "question_id": "cbse_xi_keph1dd_c106_gen365",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Discuss the dynamics of rotational motion about a fixed axis, focusing on how external torques perform work and increase the kinetic energy of a rigid body.",
@@ -2063,7 +2177,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen366"
+    "question_id": "cbse_xi_keph1dd_c106_gen366",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Analyze Example 6.12: Describe the steps used to calculate the angular acceleration of the flywheel, and explain how the work done by the pull is related to the rotational kinetic energy of the wheel.",
@@ -2077,7 +2192,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen367"
+    "question_id": "cbse_xi_keph1dd_c106_gen367",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "True or False: In rotational motion, components of the position vector along the axis contribute to the torque about the fixed axis.",
@@ -2091,7 +2207,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen368"
+    "question_id": "cbse_xi_keph1dd_c106_gen368",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "True or False: The equation F = Ma in linear motion is directly analogous to tau = I alpha in rotational motion.",
@@ -2105,7 +2222,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen369"
+    "question_id": "cbse_xi_keph1dd_c106_gen369",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "True or False: In the calculation of work done by a torque, only the component of force perpendicular to the radius is used.",
@@ -2119,7 +2237,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen370"
+    "question_id": "cbse_xi_keph1dd_c106_gen370",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A uniform disk of mass 10 kg and radius 0.5 m is subjected to a constant tangential force of 15 N. Given that the moment of inertia for a disk is I = (1/2)MR², calculate (a) the angular acceleration of the disk, and (b) the work done when the disk rotates through an angle of 4 rad.",
@@ -2133,7 +2252,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen371"
+    "question_id": "cbse_xi_keph1dd_c106_gen371",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A rotor has a moment of inertia of 2 kg·m² and reaches a final angular velocity of 8 rad/s. Calculate its rotational kinetic energy.",
@@ -2147,7 +2267,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen372"
+    "question_id": "cbse_xi_keph1dd_c106_gen372",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A flywheel with a moment of inertia of 0.5 kg·m² accelerates from rest to an angular velocity of 6 rad/s under a constant torque, with an angular acceleration of 3 rad/s². Calculate (a) the torque applied and (b) the work done after the flywheel rotates through 10 rad.",
@@ -2161,7 +2282,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen373"
+    "question_id": "cbse_xi_keph1dd_c106_gen373",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A cord of negligible weight is wound around a wheel of radius 0.1 m. A constant force of 20 N is applied tangentially, and the wheel has a moment of inertia of 0.3 kg·m². (a) Calculate the angular acceleration of the wheel, and (b) determine the rotational kinetic energy after an angular displacement of 8 rad, assuming the wheel starts from rest.",
@@ -2175,7 +2297,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen374"
+    "question_id": "cbse_xi_keph1dd_c106_gen374",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Which of the following best describes pure translational motion of a rigid body?",
@@ -2194,7 +2317,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen017"
+    "question_id": "cbse_xi_keph1dd_c106_gen017",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "What is the key difference between pure translation and rolling motion of a rigid body on an inclined plane?",
@@ -2213,7 +2337,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen018"
+    "question_id": "cbse_xi_keph1dd_c106_gen018",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "During the rotation of a rigid body about a fixed axis, which particle remains stationary?",
@@ -2232,7 +2357,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen019"
+    "question_id": "cbse_xi_keph1dd_c106_gen019",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Which one of the following is an example of rotational motion about a fixed axis?",
@@ -2251,7 +2377,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen020"
+    "question_id": "cbse_xi_keph1dd_c106_gen020",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "For a cylinder rolling down an inclined plane without slipping, what condition is necessary regarding the velocity at the point of contact?",
@@ -2270,7 +2397,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen021"
+    "question_id": "cbse_xi_keph1dd_c106_gen021",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Define the centre of mass and explain its significance in analyzing the motion of an extended body.",
@@ -2284,7 +2412,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen022"
+    "question_id": "cbse_xi_keph1dd_c106_gen022",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "What is an ideal rigid body? Briefly describe its key property.",
@@ -2298,7 +2427,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen023"
+    "question_id": "cbse_xi_keph1dd_c106_gen023",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the phenomenon of precession as it relates to a spinning top. What causes the top's axis to trace a cone?",
@@ -2312,7 +2442,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen024"
+    "question_id": "cbse_xi_keph1dd_c106_gen024",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "How does rotation about a fixed axis influence the velocities of points located at different distances from the axis?",
@@ -2326,7 +2457,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen025"
+    "question_id": "cbse_xi_keph1dd_c106_gen025",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Compare and contrast pure translational motion with combined translational and rotational motion. Include examples for each type of motion.",
@@ -2340,7 +2472,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen026"
+    "question_id": "cbse_xi_keph1dd_c106_gen026",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Describe in detail the motion of a rolling cylinder down an inclined plane. How do translation and rotation combine in this scenario?",
@@ -2354,7 +2487,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen027"
+    "question_id": "cbse_xi_keph1dd_c106_gen027",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the importance of defining the centre of mass when analyzing the motion of extended bodies. How does it simplify the problem?",
@@ -2368,7 +2502,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen028"
+    "question_id": "cbse_xi_keph1dd_c106_gen028",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In pure translational motion, different points on a rigid body can have different velocities at a given instant.",
@@ -2382,7 +2517,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen029"
+    "question_id": "cbse_xi_keph1dd_c106_gen029",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Real bodies can be treated as ideal rigid bodies because they never deform when forces are applied.",
@@ -2396,7 +2532,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen030"
+    "question_id": "cbse_xi_keph1dd_c106_gen030",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: For a cylinder rolling without slipping, the instantaneous velocity of the point of contact with the surface is zero.",
@@ -2410,7 +2547,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen031"
+    "question_id": "cbse_xi_keph1dd_c106_gen031",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A cylinder with a radius of 0.5 m is rolling without slipping down an inclined plane. If the centre of mass of the cylinder is moving at 2.0 m/s, what is its angular velocity?",
@@ -2424,7 +2562,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen032"
+    "question_id": "cbse_xi_keph1dd_c106_gen032",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A point on a rotating rigid body is located 0.3 m away from the axis of rotation. If the angular velocity is 5 rad/s, calculate the linear speed of the point.",
@@ -2438,7 +2577,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen033"
+    "question_id": "cbse_xi_keph1dd_c106_gen033",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A 10-kg block is sliding down a frictionless inclined plane making an angle of 30° with the horizontal. Calculate the component of gravitational force acting along the plane.",
@@ -2452,7 +2592,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen034"
+    "question_id": "cbse_xi_keph1dd_c106_gen034",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Consider a rigid body rotating about a fixed axis with an angular velocity of 3 rad/s. If two particles on the body are at distances of 0.2 m and 0.5 m from the axis, calculate their respective linear speeds.",
@@ -2466,7 +2607,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen035"
+    "question_id": "cbse_xi_keph1dd_c106_gen035",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A rolling object moves with a translational speed of 3.0 m/s and rotates with an angular velocity of 6.0 rad/s. If the radius of the object is 0.5 m, does it satisfy the no-slipping condition? Explain.",
@@ -2480,7 +2622,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen036"
+    "question_id": "cbse_xi_keph1dd_c106_gen036",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following quantities has the same dimensions as work but is a vector quantity?",
@@ -2499,7 +2642,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen211"
+    "question_id": "cbse_xi_keph1dd_c106_gen211",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "For a particle moving in a circle, if a force acts along the radius, what is the torque produced about the center?",
@@ -2518,7 +2662,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen212"
+    "question_id": "cbse_xi_keph1dd_c106_gen212",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "The angular momentum of a particle is defined as:",
@@ -2537,7 +2682,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen213"
+    "question_id": "cbse_xi_keph1dd_c106_gen213",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "If the angle between the force vector and the position vector is 0° or 180°, what will be the magnitude of the torque produced?",
@@ -2556,7 +2702,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen214"
+    "question_id": "cbse_xi_keph1dd_c106_gen214",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "According to the rotational analog of Newton's second law, the time rate of change of angular momentum equals:",
@@ -2575,7 +2722,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen215"
+    "question_id": "cbse_xi_keph1dd_c106_gen215",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Define moment of force (torque) and state its vector equation.",
@@ -2589,7 +2737,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen216"
+    "question_id": "cbse_xi_keph1dd_c106_gen216",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "What is the physical significance of the term r sinθ in the torque and angular momentum equations?",
@@ -2603,7 +2752,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen217"
+    "question_id": "cbse_xi_keph1dd_c106_gen217",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "State the law of conservation of angular momentum for a system of particles when the net external torque is zero.",
@@ -2617,7 +2767,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen218"
+    "question_id": "cbse_xi_keph1dd_c106_gen218",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Why do internal torques cancel out in a system of particles, and how is this connected to Newton’s third law?",
@@ -2631,7 +2782,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen219"
+    "question_id": "cbse_xi_keph1dd_c106_gen219",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Derive the relation dL/dt = τ for a single particle starting from the definition L = r × p.",
@@ -2645,7 +2797,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen220"
+    "question_id": "cbse_xi_keph1dd_c106_gen220",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Discuss the principle of conservation of angular momentum in the context of the bicycle rim experiment described in the text. Explain how torque and precession are involved in the observed motion.",
@@ -2659,7 +2812,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen221"
+    "question_id": "cbse_xi_keph1dd_c106_gen221",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Compare and contrast torque and work in terms of their definitions, physical dimensions, and the type of quantity (vector or scalar) each represents.",
@@ -2673,7 +2827,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen222"
+    "question_id": "cbse_xi_keph1dd_c106_gen222",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: If a force is applied along the line of action that passes through the origin, then the torque about the origin will be zero.",
@@ -2687,7 +2842,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen223"
+    "question_id": "cbse_xi_keph1dd_c106_gen223",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: Reversing the direction of the applied force results in the reversal of the direction of the resulting torque.",
@@ -2701,7 +2857,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen224"
+    "question_id": "cbse_xi_keph1dd_c106_gen224",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: For a particle moving with constant velocity, if the direction of the velocity remains unchanged, then the perpendicular distance from the origin to the line of action of the velocity remains constant.",
@@ -2715,7 +2872,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen225"
+    "question_id": "cbse_xi_keph1dd_c106_gen225",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A particle is located at a point with a position vector (2, -3, 4) meters and is acted on by a force given by (5, 0, -2) Newtons. Calculate the torque (r × F) about the origin. Show your calculation steps.",
@@ -2729,7 +2887,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen226"
+    "question_id": "cbse_xi_keph1dd_c106_gen226",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A force of 10 N is applied at the edge of a door 0.8 m away from the hinge. The force makes an angle of 30° with the perpendicular to the door. Determine the magnitude of the torque exerted about the hinge.",
@@ -2743,7 +2902,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen227"
+    "question_id": "cbse_xi_keph1dd_c106_gen227",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Calculate the magnitude of the angular momentum of a 3 kg particle moving at 4 m/s if its position vector makes a 60° angle with its velocity vector and the distance from the origin is 2 m.",
@@ -2757,7 +2917,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen228"
+    "question_id": "cbse_xi_keph1dd_c106_gen228",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A particle has an angular momentum of 15 kg·m²/s about a given origin. If, at that instant, the particle's momentum is perpendicular to its position vector and the magnitude of its momentum is 5 kg·m/s, what is the magnitude of its position vector?",
@@ -2771,7 +2932,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen229"
+    "question_id": "cbse_xi_keph1dd_c106_gen229",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A system of particles has a total angular momentum of 50 kg·m²/s at time t = 0. If a constant external torque of 2 N·m is applied to the system for 10 seconds, what is the final total angular momentum of the system?",
@@ -2785,7 +2947,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen230"
+    "question_id": "cbse_xi_keph1dd_c106_gen230",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Which of the following best describes the direction of the angular velocity vector, ω, for a rigid body rotating about a fixed axis?",
@@ -2804,7 +2967,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen176"
+    "question_id": "cbse_xi_keph1dd_c106_gen176",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "For a particle in a rigid body undergoing rotational motion about a fixed axis, which of the following equations correctly relates the linear velocity, v, and the angular velocity, ω?",
@@ -2823,7 +2987,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen177"
+    "question_id": "cbse_xi_keph1dd_c106_gen177",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Consider a particle located exactly on the axis of rotation. What is its linear velocity?",
@@ -2842,7 +3007,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen178"
+    "question_id": "cbse_xi_keph1dd_c106_gen178",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "If the radius of the circular path of a particle in a rotating rigid body is doubled while its angular velocity remains constant, what happens to the linear speed of the particle?",
@@ -2861,7 +3027,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen179"
+    "question_id": "cbse_xi_keph1dd_c106_gen179",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Define angular velocity for a rigid body in rotational motion.",
@@ -2875,7 +3042,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen180"
+    "question_id": "cbse_xi_keph1dd_c106_gen180",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain why the cross product ω x r provides the instantaneous linear velocity vector of a particle in a rigid body undergoing rotation.",
@@ -2889,7 +3057,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen181"
+    "question_id": "cbse_xi_keph1dd_c106_gen181",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "What is the significance of the fact that particles along the rotation axis have zero linear velocity in a rigid body undergoing rotation about a fixed axis?",
@@ -2903,7 +3072,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen182"
+    "question_id": "cbse_xi_keph1dd_c106_gen182",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain in detail how angular velocity is defined as a vector quantity and discuss the method used to determine its direction for rotation about a fixed axis.",
@@ -2917,7 +3087,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen183"
+    "question_id": "cbse_xi_keph1dd_c106_gen183",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Compare and contrast the concepts of pure translation and pure rotation of a rigid body. Use the characteristics of uniform velocity and uniform angular velocity in your explanation.",
@@ -2931,7 +3102,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen184"
+    "question_id": "cbse_xi_keph1dd_c106_gen184",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: The magnitude of the angular velocity vector for a rotating body is given by dθ/dt.",
@@ -2945,7 +3117,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen185"
+    "question_id": "cbse_xi_keph1dd_c106_gen185",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: For any particle in a rigid body undergoing rotation about a fixed axis, the linear velocity is given by v = ω x r where r can be any position vector chosen arbitrarily in space.",
@@ -2959,7 +3132,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen186"
+    "question_id": "cbse_xi_keph1dd_c106_gen186",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A particle is located 0.5 meters from the axis of rotation of a rigid body. If the angular velocity of the body is 10 radians per second, calculate the linear velocity of the particle.",
@@ -2973,7 +3147,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen187"
+    "question_id": "cbse_xi_keph1dd_c106_gen187",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rotating disc has an initial angular velocity of 5 rad/s and an angular acceleration of 2 rad/s². What is its angular velocity after 4 seconds?",
@@ -2987,7 +3162,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen188"
+    "question_id": "cbse_xi_keph1dd_c106_gen188",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "If a particle is moving with a linear speed of 15 m/s and is located 3 m from the axis of rotation, determine the angular velocity of the particle.",
@@ -3001,7 +3177,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen189"
+    "question_id": "cbse_xi_keph1dd_c106_gen189",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rigid body rotates from rest with a constant angular acceleration. If it achieves an angular displacement of 2 rad in 2 seconds, calculate its angular acceleration.",
@@ -3015,7 +3192,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen190"
+    "question_id": "cbse_xi_keph1dd_c106_gen190",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A disc rotates with an angular acceleration of 3 rad/s² from rest. Determine the angular displacement in 2 seconds.",
@@ -3029,7 +3207,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen191"
+    "question_id": "cbse_xi_keph1dd_c106_gen191",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Which expression correctly defines the moment of inertia of a rotating rigid body about a fixed axis?",
@@ -3048,7 +3227,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen320"
+    "question_id": "cbse_xi_keph1dd_c106_gen320",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "The kinetic energy of a rotating body is given by 1/2 I ω². Which of the following expressions correctly represents the analogous kinetic energy in translational motion?",
@@ -3067,7 +3247,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen321"
+    "question_id": "cbse_xi_keph1dd_c106_gen321",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "For a thin ring of mass M and radius R rotating about an axis perpendicular to its plane at its center, what is the correct expression for the moment of inertia?",
@@ -3086,7 +3267,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen322"
+    "question_id": "cbse_xi_keph1dd_c106_gen322",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "How does increasing the radius of gyration affect the moment of inertia for a body of fixed mass?",
@@ -3105,7 +3287,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen323"
+    "question_id": "cbse_xi_keph1dd_c106_gen323",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Which of the following bodies has a moment of inertia given by I = M R²/4 when rotating about its diameter?",
@@ -3124,7 +3307,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen324"
+    "question_id": "cbse_xi_keph1dd_c106_gen324",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Define the term 'moment of inertia' in the context of rotational motion.",
@@ -3138,7 +3322,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen325"
+    "question_id": "cbse_xi_keph1dd_c106_gen325",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Explain why the moment of inertia is considered the rotational analogue of mass.",
@@ -3152,7 +3337,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen326"
+    "question_id": "cbse_xi_keph1dd_c106_gen326",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A thin rod of negligible mass has two small masses (each of mass M/2) attached at its ends, with the distance between the masses equal to l. Derive the expression for the moment of inertia of this system about an axis through its center and perpendicular to the rod.",
@@ -3166,7 +3352,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen327"
+    "question_id": "cbse_xi_keph1dd_c106_gen327",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Discuss the concept of the radius of gyration and explain how it is related to the moment of inertia of a body.",
@@ -3180,7 +3367,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen328"
+    "question_id": "cbse_xi_keph1dd_c106_gen328",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Derive the expression for the rotational kinetic energy of a rigid body rotating about a fixed axis starting from the kinetic energies of its constituent particles.",
@@ -3194,7 +3382,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen329"
+    "question_id": "cbse_xi_keph1dd_c106_gen329",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Analyze how the moment of inertia changes when a body’s axis of rotation is shifted. Use examples such as a thin rod and a circular disc to support your answer.",
@@ -3208,7 +3397,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen330"
+    "question_id": "cbse_xi_keph1dd_c106_gen330",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Design an experiment to demonstrate the effect of moment of inertia using a flywheel. Describe the procedure, expected observations, and how the concept of moment of inertia is illustrated.",
@@ -3222,7 +3412,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen331"
+    "question_id": "cbse_xi_keph1dd_c106_gen331",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "True or False: The moment of inertia of a rigid body depends solely on its mass and is independent of how its mass is distributed with respect to the rotation axis.",
@@ -3236,7 +3427,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen332"
+    "question_id": "cbse_xi_keph1dd_c106_gen332",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "True or False: In the expression for the kinetic energy of a rotating body, K = 1/2 I ω², the moment of inertia I is independent of the angular velocity ω.",
@@ -3250,7 +3442,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen333"
+    "question_id": "cbse_xi_keph1dd_c106_gen333",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "True or False: The radius of gyration is a fixed property of a body that does not depend on the chosen axis of rotation.",
@@ -3264,7 +3457,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen334"
+    "question_id": "cbse_xi_keph1dd_c106_gen334",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A thin ring with mass 5 kg and radius 0.5 m rotates about its central axis at an angular velocity of 10 rad/s. Calculate its moment of inertia and the rotational kinetic energy.",
@@ -3278,7 +3472,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen335"
+    "question_id": "cbse_xi_keph1dd_c106_gen335",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A rigid rod of negligible mass has two masses of 2 kg each attached at its ends, with the distance between the masses equal to 1 m. Compute the moment of inertia about an axis through the center perpendicular to the rod and the rotational kinetic energy if the system rotates at an angular velocity of 4 rad/s.",
@@ -3292,7 +3487,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen336"
+    "question_id": "cbse_xi_keph1dd_c106_gen336",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A circular disc with mass 3 kg and radius 0.2 m rotates about its diameter. Using the proper moment of inertia for this axis, calculate I and then determine the rotational kinetic energy if the angular velocity is 15 rad/s.",
@@ -3306,7 +3502,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen337"
+    "question_id": "cbse_xi_keph1dd_c106_gen337",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A solid cylinder of mass 10 kg and radius 0.3 m rotates about its central axis. Calculate its moment of inertia using the proper formula from the provided table and determine its rotational kinetic energy when the angular velocity is 20 rad/s.",
@@ -3320,7 +3517,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen338"
+    "question_id": "cbse_xi_keph1dd_c106_gen338",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Which of the following best defines a rigid body?",
@@ -3339,7 +3537,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen001"
+    "question_id": "cbse_xi_keph1dd_c106_gen001",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following conditions must be satisfied for a cylinder to roll without slipping?",
@@ -3358,7 +3557,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen002"
+    "question_id": "cbse_xi_keph1dd_c106_gen002",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "In a rigid body undergoing pure translational motion, which statement is true?",
@@ -3377,7 +3577,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen003"
+    "question_id": "cbse_xi_keph1dd_c106_gen003",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "When a rigid body rotates about a fixed axis, what is true about a point located on that axis?",
@@ -3396,7 +3597,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen004"
+    "question_id": "cbse_xi_keph1dd_c106_gen004",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "In the rolling motion of a cylinder, the motion is a combination of which two types of motion?",
@@ -3415,7 +3617,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen005"
+    "question_id": "cbse_xi_keph1dd_c106_gen005",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Define centre of mass and describe its significance in analyzing the motion of extended bodies.",
@@ -3429,7 +3632,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen006"
+    "question_id": "cbse_xi_keph1dd_c106_gen006",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why a spinning top exhibits precession.",
@@ -3443,7 +3647,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen007"
+    "question_id": "cbse_xi_keph1dd_c106_gen007",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "What is the significance of the fixed point in rotational motion?",
@@ -3457,7 +3662,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen008"
+    "question_id": "cbse_xi_keph1dd_c106_gen008",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the kinematics of rotational motion about a fixed axis, and explain how the linear velocity of points on the body depends on their distance from the axis.",
@@ -3471,7 +3677,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen009"
+    "question_id": "cbse_xi_keph1dd_c106_gen009",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Compare and contrast pure translational motion with a combination of translation and rotation, providing examples from the text.",
@@ -3485,7 +3692,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen010"
+    "question_id": "cbse_xi_keph1dd_c106_gen010",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In pure translational motion, all particles of a rigid body have the same velocity at every instant.",
@@ -3499,7 +3707,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen011"
+    "question_id": "cbse_xi_keph1dd_c106_gen011",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: For a cylinder rolling without slipping, the point of contact with the surface always has zero velocity relative to the surface.",
@@ -3513,7 +3722,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen012"
+    "question_id": "cbse_xi_keph1dd_c106_gen012",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A cylinder of radius 0.5 m rolls down an inclined plane without slipping. At an instant, its angular velocity is 4 rad/s. Calculate the linear velocity of its centre of mass.",
@@ -3527,7 +3737,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen013"
+    "question_id": "cbse_xi_keph1dd_c106_gen013",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "In a rigid body rotating about a fixed axis, a point located 0.3 m from the axis moves with a tangential speed of 1.5 m/s. Determine the angular velocity of the body.",
@@ -3541,7 +3752,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen014"
+    "question_id": "cbse_xi_keph1dd_c106_gen014",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A solid cylinder of mass 2 kg and radius 0.2 m is released from rest at the top of a 5 m long inclined plane that makes an angle of 30° with the horizontal. Assuming the cylinder rolls without slipping, determine its speed at the bottom of the incline.",
@@ -3555,7 +3767,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen015"
+    "question_id": "cbse_xi_keph1dd_c106_gen015",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A rigid body with a moment of inertia of 3 kg*m² experiences a constant torque of 5 N*m. Calculate its angular acceleration.",
@@ -3569,7 +3782,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen016"
+    "question_id": "cbse_xi_keph1dd_c106_gen016",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following is the proper expression for the moment of inertia (I) of a rigid body rotating about a fixed axis?",
@@ -3588,7 +3802,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen287"
+    "question_id": "cbse_xi_keph1dd_c106_gen287",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "In comparing translational and rotational motion, which of the following analogies is correct?",
@@ -3607,7 +3822,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen288"
+    "question_id": "cbse_xi_keph1dd_c106_gen288",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "For a thin rod rotating about an axis perpendicular to the rod at its midpoint, the radius of gyration (k) is given by:",
@@ -3626,7 +3842,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen289"
+    "question_id": "cbse_xi_keph1dd_c106_gen289",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "What are the SI units of moment of inertia?",
@@ -3645,7 +3862,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen290"
+    "question_id": "cbse_xi_keph1dd_c106_gen290",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Define moment of inertia and explain its physical significance in rotational motion.",
@@ -3659,7 +3877,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen291"
+    "question_id": "cbse_xi_keph1dd_c106_gen291",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Explain why the moment of inertia is not a fixed property like mass. Provide details in your answer.",
@@ -3673,7 +3892,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen292"
+    "question_id": "cbse_xi_keph1dd_c106_gen292",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "What is the radius of gyration and how is it related to the moment of inertia of a body?",
@@ -3687,7 +3907,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen293"
+    "question_id": "cbse_xi_keph1dd_c106_gen293",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Compare and contrast the expressions for kinetic energy in translational motion and rotational motion. Discuss the role of mass and moment of inertia in these expressions.",
@@ -3701,7 +3922,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen294"
+    "question_id": "cbse_xi_keph1dd_c106_gen294",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Discuss the practical importance of flywheels in machines such as steam engines and automobile engines, with reference to the concept of moment of inertia.",
@@ -3715,7 +3937,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen295"
+    "question_id": "cbse_xi_keph1dd_c106_gen295",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "True or False: The moment of inertia of a rigid body remains the same regardless of the chosen axis of rotation.",
@@ -3729,7 +3952,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen296"
+    "question_id": "cbse_xi_keph1dd_c106_gen296",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "True or False: For a thin circular ring rotating about its diameter, the moment of inertia is MR2/2.",
@@ -3743,7 +3967,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen297"
+    "question_id": "cbse_xi_keph1dd_c106_gen297",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A thin ring has a mass of 10 kg and a radius of 0.5 m. Calculate its moment of inertia when rotating about an axis perpendicular to its plane through its center.",
@@ -3757,7 +3982,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen298"
+    "question_id": "cbse_xi_keph1dd_c106_gen298",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A rigid rod of negligible mass has a length of 2 m and supports two small masses each of which is 2.5 kg, attached at its ends. Find the moment of inertia of the system about an axis perpendicular to the rod through its midpoint.",
@@ -3771,7 +3997,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen299"
+    "question_id": "cbse_xi_keph1dd_c106_gen299",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A circular disc with a mass of 8 kg and a radius of 0.4 m rotates about an axis perpendicular to its face at the center. Given that its moment of inertia is I = M R2/2, calculate I.",
@@ -3785,7 +4012,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen300"
+    "question_id": "cbse_xi_keph1dd_c106_gen300",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A thin rod system consists of two point masses with a total mass of 12 kg separated by a distance of 3 m, rotating about an axis through the center. Use the appropriate formula to determine the moment of inertia for the system.",
@@ -3799,7 +4027,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen301"
+    "question_id": "cbse_xi_keph1dd_c106_gen301",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "What is the magnitude of the vector product c of two vectors a and b, where theta is the angle between them?",
@@ -3818,7 +4047,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen161"
+    "question_id": "cbse_xi_keph1dd_c106_gen161",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "What is the result of the vector product of a vector a with itself, a x a?",
@@ -3837,7 +4067,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen162"
+    "question_id": "cbse_xi_keph1dd_c106_gen162",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Under reflection (mirror image), what happens to the vector product a x b?",
@@ -3856,7 +4087,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen163"
+    "question_id": "cbse_xi_keph1dd_c106_gen163",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Which hand rule is used to determine the direction of the vector product a x b?",
@@ -3875,7 +4107,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen164"
+    "question_id": "cbse_xi_keph1dd_c106_gen164",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Define the vector product of two vectors and list its key characteristics including its magnitude and direction.",
@@ -3889,7 +4122,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen165"
+    "question_id": "cbse_xi_keph1dd_c106_gen165",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Express the vector product a x b of two vectors a = (ax, ay, az) and b = (bx, by, bz) in component form using the determinant representation.",
@@ -3903,7 +4137,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen166"
+    "question_id": "cbse_xi_keph1dd_c106_gen166",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Explain the cyclic order rule for the elementary cross products of the unit vectors i, j, and k.",
@@ -3917,7 +4152,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen167"
+    "question_id": "cbse_xi_keph1dd_c106_gen167",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Derive the component form of the vector product a x b starting from its definition, and explain why reversing the order of the vectors changes its sign.",
@@ -3931,7 +4167,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen168"
+    "question_id": "cbse_xi_keph1dd_c106_gen168",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Discuss the similarities and differences between the scalar (dot) product and the vector (cross) product, including their distributive properties and behavior under reflection.",
@@ -3945,7 +4182,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen169"
+    "question_id": "cbse_xi_keph1dd_c106_gen169",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "True or False: The vector product (cross product) of two vectors is commutative.",
@@ -3959,7 +4197,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen170"
+    "question_id": "cbse_xi_keph1dd_c106_gen170",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "True or False: Reflecting both vectors in a vector product changes the sign of the resulting vector.",
@@ -3973,7 +4212,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen171"
+    "question_id": "cbse_xi_keph1dd_c106_gen171",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Given vectors a = (3, -4, 5) and b = (-2, 1, -3), calculate the scalar product a.b and the vector product a x b.",
@@ -3987,7 +4227,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen172"
+    "question_id": "cbse_xi_keph1dd_c106_gen172",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "If vector a = (8, 0, 0) and vector b = (0, 6, 0), compute the magnitude of the vector product a x b.",
@@ -4001,7 +4242,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen173"
+    "question_id": "cbse_xi_keph1dd_c106_gen173",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Determine the vector product a x b for a = (1, 2, 3) and b = (4, 5, 6) using the determinant method.",
@@ -4015,7 +4257,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen174"
+    "question_id": "cbse_xi_keph1dd_c106_gen174",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "A force F = (10, 0, 0) N acts on a lever with position vector r = (0, 0.5, 0) m. Calculate the moment (torque) M = r x F.",
@@ -4029,7 +4272,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "06_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen175"
+    "question_id": "cbse_xi_keph1dd_c106_gen175",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Which of the following conditions must be satisfied for translational equilibrium of a rigid body?",
@@ -4048,7 +4292,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen250"
+    "question_id": "cbse_xi_keph1dd_c106_gen250",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "For a lever in equilibrium, which equation represents the principle of moments?",
@@ -4067,7 +4312,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen251"
+    "question_id": "cbse_xi_keph1dd_c106_gen251",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Which object can be analyzed using only translational equilibrium conditions?",
@@ -4086,7 +4332,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen252"
+    "question_id": "cbse_xi_keph1dd_c106_gen252",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "What is a couple in the context of rigid body mechanics?",
@@ -4105,7 +4352,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen253"
+    "question_id": "cbse_xi_keph1dd_c106_gen253",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "In a system in rotational equilibrium, what is the total sum of the moments taken about any axis?",
@@ -4124,7 +4372,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen254"
+    "question_id": "cbse_xi_keph1dd_c106_gen254",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Explain the difference between complete (mechanical) equilibrium and partial equilibrium in a rigid body.",
@@ -4138,7 +4387,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen255"
+    "question_id": "cbse_xi_keph1dd_c106_gen255",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "State the principle of moments for a lever and provide its mathematical expression.",
@@ -4152,7 +4402,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen256"
+    "question_id": "cbse_xi_keph1dd_c106_gen256",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Describe one method to determine the center of gravity of an irregularly shaped object.",
@@ -4166,7 +4417,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen257"
+    "question_id": "cbse_xi_keph1dd_c106_gen257",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Define a couple and explain how it can cause rotation without translation.",
@@ -4180,7 +4432,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen258"
+    "question_id": "cbse_xi_keph1dd_c106_gen258",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Derive the conditions for mechanical equilibrium of a rigid body using both vector and scalar equations. Explain why, if translational equilibrium holds, the calculation of torques (moments) is independent of the choice of origin.",
@@ -4194,7 +4447,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen259"
+    "question_id": "cbse_xi_keph1dd_c106_gen259",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Discuss the principle of moments as applied to a lever, including the derivation of the mechanical advantage formula. Provide real-life examples of levers.",
@@ -4208,7 +4462,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen260"
+    "question_id": "cbse_xi_keph1dd_c106_gen260",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Explain the concept of the center of gravity and its relationship to the center of mass in a uniform gravitational field. Illustrate your answer with an example.",
@@ -4222,7 +4477,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen261"
+    "question_id": "cbse_xi_keph1dd_c106_gen261",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: A rigid body in complete mechanical equilibrium must have both zero net force and zero net torque.",
@@ -4236,7 +4492,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen262"
+    "question_id": "cbse_xi_keph1dd_c106_gen262",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: When a couple acts on a rigid body, the net moment produced depends on the point about which the moments are calculated.",
@@ -4250,7 +4507,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen263"
+    "question_id": "cbse_xi_keph1dd_c106_gen263",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: A particle in equilibrium only needs to satisfy the condition of translational equilibrium since it does not have any rotational degrees of freedom.",
@@ -4264,7 +4522,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen264"
+    "question_id": "cbse_xi_keph1dd_c106_gen264",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A light rod 2 m long has a couple applied to it by two forces of 20 N, one acting upward at one end and 20 N acting downward at the other end. Calculate the net torque produced by this couple about any point.",
@@ -4278,7 +4537,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen265"
+    "question_id": "cbse_xi_keph1dd_c106_gen265",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A lever is used to lift a load of 50 N placed 0.4 m from the fulcrum. If the effort is applied 1.2 m from the fulcrum on the opposite side, calculate the magnitude of the effort required and state the mechanical advantage of the lever.",
@@ -4292,7 +4552,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen266"
+    "question_id": "cbse_xi_keph1dd_c106_gen266",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A uniform 70 cm long rod weighing 4.00 kg is supported on two knifeedges located 10 cm from each end. A 6.00 kg load is suspended 30 cm from one end. Given g = 9.8 m/s², calculate the reaction forces at the knifeedges.",
@@ -4306,7 +4567,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen267"
+    "question_id": "cbse_xi_keph1dd_c106_gen267",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A 3 m long ladder weighing 20 kg leans against a frictionless wall with its foot 1 m away from the wall. Determine the reaction force exerted by the wall (F1) and the floor (F2). Use g = 9.8 m/s².",
@@ -4320,7 +4582,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen268"
+    "question_id": "cbse_xi_keph1dd_c106_gen268",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A uniform board 5 m long and weighing 30 kg is balanced on a fulcrum placed 2 m from one end. A load of 40 kg is placed at the other end. To achieve rotational equilibrium, what additional load must be placed at the end closer to the fulcrum (2 m from the fulcrum) on the short side? Use g = 9.8 m/s².",
@@ -4334,7 +4597,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen269"
+    "question_id": "cbse_xi_keph1dd_c106_gen269",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Which of the following equations best expresses the conservation of angular momentum for a symmetric body rotating about a fixed axis with no external torque?",
@@ -4353,7 +4617,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen415"
+    "question_id": "cbse_xi_keph1dd_c106_gen415",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "When a rigid body rotates about a fixed axis and there is no external torque, which component of the angular momentum remains constant?",
@@ -4372,7 +4637,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen416"
+    "question_id": "cbse_xi_keph1dd_c106_gen416",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In the equation L = I × ω for a symmetric body rotating about a fixed axis, what does the variable ω represent?",
@@ -4391,7 +4657,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen417"
+    "question_id": "cbse_xi_keph1dd_c106_gen417",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which law or principle allows us to write the equation dL/dt = τ for a rotating system?",
@@ -4410,7 +4677,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen418"
+    "question_id": "cbse_xi_keph1dd_c106_gen418",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A person sitting on a swivel chair spins with arms folded and then extends the arms outwards. What happens to the angular speed and why?",
@@ -4429,7 +4697,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen419"
+    "question_id": "cbse_xi_keph1dd_c106_gen419",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Explain the concept of moment of inertia and its significance in rotation about a fixed axis.",
@@ -4443,7 +4712,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen420"
+    "question_id": "cbse_xi_keph1dd_c106_gen420",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Briefly explain why in symmetric bodies the total angular momentum L equals the component Lz along the fixed rotation axis.",
@@ -4457,7 +4727,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen421"
+    "question_id": "cbse_xi_keph1dd_c106_gen421",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "What is the significance of the distance r⊥ (r perpendicular) in the calculation of a particle's angular momentum during rotation?",
@@ -4471,7 +4742,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen422"
+    "question_id": "cbse_xi_keph1dd_c106_gen422",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Differentiate the expression L = I × ω (assuming I is constant) with respect to time and explain its significance in relation to torque.",
@@ -4485,7 +4757,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen423"
+    "question_id": "cbse_xi_keph1dd_c106_gen423",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Discuss how the principle dL/dt = τ applies to a rigid body rotating about a fixed axis, particularly in the context of the experimental setups like the swivel chair demonstration.",
@@ -4499,7 +4772,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen424"
+    "question_id": "cbse_xi_keph1dd_c106_gen424",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Compare and contrast the angular momentum vectors of symmetric and non-symmetric bodies rotating about a fixed axis. How does the orientation of L change in each case?",
@@ -4513,7 +4787,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen425"
+    "question_id": "cbse_xi_keph1dd_c106_gen425",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Analyze the swivel chair experiment where a person changes arm position to control spin. Describe how conservation of angular momentum is maintained in this process and discuss any underlying physical assumptions.",
@@ -4527,7 +4802,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen426"
+    "question_id": "cbse_xi_keph1dd_c106_gen426",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: If no external torque acts on a rotating system, the magnitude of the total angular momentum remains constant.",
@@ -4541,7 +4817,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen427"
+    "question_id": "cbse_xi_keph1dd_c106_gen427",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: For a particle in rotation, the angular momentum vector is always parallel to its angular velocity vector.",
@@ -4555,7 +4832,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen428"
+    "question_id": "cbse_xi_keph1dd_c106_gen428",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: When a spinning diver reduces his moment of inertia by tucking his limbs in, his angular speed increases if no external torque acts.",
@@ -4569,7 +4847,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen429"
+    "question_id": "cbse_xi_keph1dd_c106_gen429",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A solid disk of mass 2 kg and radius 0.5 m rotates about a fixed axis through its center with an angular speed of 10 rad/s. Given that the moment of inertia for a solid disk is (1/2) m R², calculate the moment of inertia and the angular momentum of the disk.",
@@ -4583,7 +4862,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen430"
+    "question_id": "cbse_xi_keph1dd_c106_gen430",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A figure skater spins with an initial angular speed of 4 rad/s and has an initial moment of inertia of 2.5 kg m². If the skater pulls in her arms and reduces her moment of inertia to 1.5 kg m², what is her new angular speed assuming angular momentum is conserved?",
@@ -4597,7 +4877,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen431"
+    "question_id": "cbse_xi_keph1dd_c106_gen431",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A rigid body rotates about a fixed axis with an angular speed of 8 rad/s. If an external torque of 4 N m is applied and its moment of inertia is 2 kg m², calculate the angular acceleration of the body.",
@@ -4611,7 +4892,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen432"
+    "question_id": "cbse_xi_keph1dd_c106_gen432",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "During a diving maneuver, a diver’s moment of inertia decreases from 3 kg m² to 2 kg m². If his initial angular speed was 3 rad/s, what is his final angular speed assuming conservation of angular momentum?",
@@ -4625,7 +4907,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen433"
+    "question_id": "cbse_xi_keph1dd_c106_gen433",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A disc rotates about its fixed axis. Over a time period of 2 seconds, the measured rate of change of its angular momentum is 6 N m. If the moment of inertia is 1.2 kg m² (constant), calculate the angular acceleration and determine the change in angular speed over this period.",
@@ -4639,7 +4922,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen434"
+    "question_id": "cbse_xi_keph1dd_c106_gen434",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which physical quantity in rotational dynamics is analogous to mass in linear dynamics?",
@@ -4658,7 +4942,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen375"
+    "question_id": "cbse_xi_keph1dd_c106_gen375",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Which equation correctly represents the work done by a torque about a fixed axis?",
@@ -4677,7 +4962,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen376"
+    "question_id": "cbse_xi_keph1dd_c106_gen376",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "For a force F applied tangentially to the rim of a rotating object with radius R, which expression correctly calculates the torque produced?",
@@ -4696,7 +4982,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen377"
+    "question_id": "cbse_xi_keph1dd_c106_gen377",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "If a rotating body experiences an angular displacement dθ, moment of inertia I, and angular acceleration α, which expression best describes the change in its kinetic energy?",
@@ -4715,7 +5002,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen378"
+    "question_id": "cbse_xi_keph1dd_c106_gen378",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Newton's second law for rotational motion about a fixed axis is given by which of the following equations?",
@@ -4734,7 +5022,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen379"
+    "question_id": "cbse_xi_keph1dd_c106_gen379",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Define angular displacement in the context of rotational motion about a fixed axis.",
@@ -4748,7 +5037,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen380"
+    "question_id": "cbse_xi_keph1dd_c106_gen380",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "What components of torque are considered when analyzing rotational motion about a fixed axis?",
@@ -4762,7 +5052,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen381"
+    "question_id": "cbse_xi_keph1dd_c106_gen381",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Explain why forces acting in planes perpendicular to the fixed axis are particularly important in the analysis of rotational motion about that axis.",
@@ -4776,7 +5067,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen382"
+    "question_id": "cbse_xi_keph1dd_c106_gen382",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "List the analogues between linear motion and rotational motion as given in Table 6.2.",
@@ -4790,7 +5082,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen383"
+    "question_id": "cbse_xi_keph1dd_c106_gen383",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Derive the equation dW = τ dθ starting from the definition of work done by a force on a particle moving along a circular path. Explain the assumptions made in the derivation.",
@@ -4804,7 +5097,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen384"
+    "question_id": "cbse_xi_keph1dd_c106_gen384",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Discuss the roles of torque components parallel and perpendicular to a fixed axis in rotational motion, and explain why only one of these components is considered in work calculations.",
@@ -4818,7 +5112,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen385"
+    "question_id": "cbse_xi_keph1dd_c106_gen385",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Compare the work-energy principles in linear and rotational motion. Specifically, describe how the work done on a body is related to its kinetic energy change in both scenarios.",
@@ -4832,7 +5127,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen386"
+    "question_id": "cbse_xi_keph1dd_c106_gen386",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "For rotational motion about a fixed axis, only the components of force parallel to the axis are taken into account when calculating effective torque.",
@@ -4846,7 +5142,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen387"
+    "question_id": "cbse_xi_keph1dd_c106_gen387",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "In a perfectly rigid body, all work done by external torques is converted into an increase in kinetic energy of the body.",
@@ -4860,7 +5157,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen388"
+    "question_id": "cbse_xi_keph1dd_c106_gen388",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Angular acceleration is directly proportional to the applied torque and inversely proportional to the moment of inertia.",
@@ -4874,7 +5172,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen389"
+    "question_id": "cbse_xi_keph1dd_c106_gen389",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A flywheel of mass 30 kg is in the shape of a disc with a radius of 0.5 m. Its moment of inertia is given by I = ½ M R². If a 40 N force is applied tangentially to its rim, calculate the angular acceleration of the flywheel.",
@@ -4888,7 +5187,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen390"
+    "question_id": "cbse_xi_keph1dd_c106_gen390",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A force of 15 N is applied at a point 0.3 m from the axis on a turntable. Determine the work done by the torque when the table rotates by 4 radians.",
@@ -4902,7 +5202,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen391"
+    "question_id": "cbse_xi_keph1dd_c106_gen391",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A cord is wound around a disc of radius 0.25 m and mass 10 kg. A constant 20 N force is applied tangentially. Given that the moment of inertia for a disc is I = ½ M R², determine the angular acceleration and the kinetic energy of the disc after it has rotated through 5 radians (assuming it starts from rest).",
@@ -4916,7 +5217,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen392"
+    "question_id": "cbse_xi_keph1dd_c106_gen392",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A flywheel with a moment of inertia of 2 kg m² is subjected to a variable torque such that the angular acceleration is given by 3t (s⁻²), where t is time in seconds. Calculate the total work done by the torque from t = 0 to t = 4 s.",
@@ -4930,7 +5232,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen393"
+    "question_id": "cbse_xi_keph1dd_c106_gen393",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A flywheel of radius 0.4 m has a moment of inertia of 0.8 kg m². A constant 30 N force is applied tangentially via a cord wrapped around its rim. If 3 m of cord is unwound, determine (a) the angular acceleration, (b) the work done by the force, and (c) the final angular velocity assuming the flywheel starts from rest.",
@@ -4944,7 +5247,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen394"
+    "question_id": "cbse_xi_keph1dd_c106_gen394",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Which expression represents the position vector of the centre of mass for a system of n particles?",
@@ -4963,7 +5267,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen087"
+    "question_id": "cbse_xi_keph1dd_c106_gen087",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "In the derivation of the acceleration of the centre of mass, only external forces influence its motion because internal forces:",
@@ -4982,7 +5287,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen088"
+    "question_id": "cbse_xi_keph1dd_c106_gen088",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "What does the equation M·A = F_ext physically represent?",
@@ -5001,7 +5307,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen089"
+    "question_id": "cbse_xi_keph1dd_c106_gen089",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "During the differentiation of the centre of mass equation, why are the individual masses treated as constants?",
@@ -5020,7 +5327,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen090"
+    "question_id": "cbse_xi_keph1dd_c106_gen090",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Why does an explosion within a projectile not change the trajectory of its centre of mass?",
@@ -5039,7 +5347,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen091"
+    "question_id": "cbse_xi_keph1dd_c106_gen091",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Define the centre of mass for a system of particles and write the corresponding equation.",
@@ -5053,7 +5362,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen092"
+    "question_id": "cbse_xi_keph1dd_c106_gen092",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Explain why, when differentiating the centre of mass equation with respect to time, the masses are treated as constants.",
@@ -5067,7 +5377,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen093"
+    "question_id": "cbse_xi_keph1dd_c106_gen093",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Discuss the role of internal forces in determining the acceleration of the centre of mass and why they are often ignored in such analysis.",
@@ -5081,7 +5392,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen094"
+    "question_id": "cbse_xi_keph1dd_c106_gen094",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Explain how the concept of the centre of mass simplifies the analysis of the motion of a rigid body.",
@@ -5095,7 +5407,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen095"
+    "question_id": "cbse_xi_keph1dd_c106_gen095",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Derive the equation M·A = F_ext starting from the expression for the centre of mass R = (m₁r₁ + m₂r₂ + ... + mₙrₙ) / M and discuss the significance of this equation.",
@@ -5109,7 +5422,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen096"
+    "question_id": "cbse_xi_keph1dd_c106_gen096",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Using the example of a projectile that explodes mid-flight, explain how and why the centre of mass continues to follow the same parabolic path as if no explosion occurred.",
@@ -5123,7 +5437,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen097"
+    "question_id": "cbse_xi_keph1dd_c106_gen097",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Discuss the benefits and limitations of treating extended bodies as systems of particles in the study of dynamics.",
@@ -5137,7 +5452,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen098"
+    "question_id": "cbse_xi_keph1dd_c106_gen098",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "True or False: The acceleration of the centre of mass of a system is affected by both internal and external forces.",
@@ -5151,7 +5467,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen099"
+    "question_id": "cbse_xi_keph1dd_c106_gen099",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "True or False: After a projectile explodes mid-air, the centre of mass of the fragments continues along the same parabolic trajectory as if the explosion had not occurred.",
@@ -5165,7 +5482,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen100"
+    "question_id": "cbse_xi_keph1dd_c106_gen100",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A system consists of three particles with masses 2 kg, 3 kg, and 5 kg. Their position vectors are r₁ = (1, 0, 0) m, r₂ = (0, 2, 0) m, and r₃ = (0, 0, 3) m respectively. Calculate the position vector of the centre of mass.",
@@ -5179,7 +5497,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen101"
+    "question_id": "cbse_xi_keph1dd_c106_gen101",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A system of two particles has masses 4 kg and 6 kg moving along the x-axis with velocities 3 m/s and 5 m/s respectively. Find the velocity of the centre of mass.",
@@ -5193,7 +5512,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen102"
+    "question_id": "cbse_xi_keph1dd_c106_gen102",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A 10 kg projectile moving at 20 m/s explodes mid-air into two fragments of masses 4 kg and 6 kg. Assuming momentum is conserved, what is the velocity of the centre of mass after the explosion?",
@@ -5207,7 +5527,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen103"
+    "question_id": "cbse_xi_keph1dd_c106_gen103",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A system of four particles has masses m₁ = 1 kg, m₂ = 2 kg, m₃ = 3 kg, m₄ = 4 kg with positions along a line x₁ = 2 m, x₂ = 3 m, x₃ = 7 m, x₄ = 9 m respectively. Their velocities are v₁ = 1 m/s, v₂ = 0 m/s, v₃ = -1 m/s, and v₄ = 2 m/s. If a constant external force of 10 N acts on the system, find the velocity of the centre of mass and its acceleration.",
@@ -5221,7 +5542,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen104"
+    "question_id": "cbse_xi_keph1dd_c106_gen104",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A system of particles experiences an external force that causes its centre of mass to accelerate. If the net external force suddenly doubles while the mass remains the same, explain qualitatively how the acceleration of the centre of mass changes.",
@@ -5235,7 +5557,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen105"
+    "question_id": "cbse_xi_keph1dd_c106_gen105",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Which of the following best defines the instantaneous angular velocity of a rotating rigid body?",
@@ -5254,7 +5577,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen192"
+    "question_id": "cbse_xi_keph1dd_c106_gen192",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Which relationship correctly connects the linear velocity v of a particle to its angular velocity ω and the perpendicular distance r from the axis of rotation?",
@@ -5273,7 +5597,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen193"
+    "question_id": "cbse_xi_keph1dd_c106_gen193",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "For a particle on the axis of rotation in a rigid body, what is its linear velocity?",
@@ -5292,7 +5617,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen194"
+    "question_id": "cbse_xi_keph1dd_c106_gen194",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "For a rigid body in pure rotation about a fixed axis, which of the following is always true?",
@@ -5311,7 +5637,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen195"
+    "question_id": "cbse_xi_keph1dd_c106_gen195",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Which statement best describes the vector nature of angular velocity for a rotation about a fixed axis?",
@@ -5330,7 +5657,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen196"
+    "question_id": "cbse_xi_keph1dd_c106_gen196",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Define angular acceleration and provide its mathematical expression as used in rotational motion.",
@@ -5344,7 +5672,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen197"
+    "question_id": "cbse_xi_keph1dd_c106_gen197",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain the relation v = ω x r and describe the directions of the vectors involved.",
@@ -5358,7 +5687,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen198"
+    "question_id": "cbse_xi_keph1dd_c106_gen198",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Discuss what happens to the direction of the angular velocity vector ω when the sense of rotation of the rigid body changes.",
@@ -5372,7 +5702,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen199"
+    "question_id": "cbse_xi_keph1dd_c106_gen199",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "What is the significance of the vector product in the equation v = ω x r in rotational motion?",
@@ -5386,7 +5717,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen200"
+    "question_id": "cbse_xi_keph1dd_c106_gen200",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain in detail the vector nature of angular velocity and how it affects the linear velocity of a particle in a rotating rigid body.",
@@ -5400,7 +5732,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen201"
+    "question_id": "cbse_xi_keph1dd_c106_gen201",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Discuss and compare pure translation and pure rotation in a rigid body. Explain how angular velocity is used to characterize pure rotation.",
@@ -5414,7 +5747,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen202"
+    "question_id": "cbse_xi_keph1dd_c106_gen202",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain how the equation v = ω x r is derived and discuss its physical significance in determining the linear velocity of a particle moving in a circular path.",
@@ -5428,7 +5762,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen203"
+    "question_id": "cbse_xi_keph1dd_c106_gen203",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: For a rotation about a fixed axis, the direction of the angular velocity vector changes with time if the magnitude of ω changes.",
@@ -5442,7 +5777,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen204"
+    "question_id": "cbse_xi_keph1dd_c106_gen204",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: A particle located on the axis of rotation has a non-zero linear velocity because of its angular velocity.",
@@ -5456,7 +5792,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen205"
+    "question_id": "cbse_xi_keph1dd_c106_gen205",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: The cross product of ω and r results in a vector that is always perpendicular to both ω and the vector from the center of the circular path (CP), thus aligning with the tangent to the circle.",
@@ -5470,7 +5807,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen206"
+    "question_id": "cbse_xi_keph1dd_c106_gen206",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A particle moves in a circular path with a radius of 0.5 m and rotates with an angular velocity of 4 rad/s. Calculate its linear velocity.",
@@ -5484,7 +5822,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen207"
+    "question_id": "cbse_xi_keph1dd_c106_gen207",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rotating disc has an angular acceleration of 3 rad/s² and a point on its rim is located 0.25 m from the axis. Determine the tangential acceleration of that point.",
@@ -5498,7 +5837,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen208"
+    "question_id": "cbse_xi_keph1dd_c106_gen208",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rigid body rotates about the z-axis. A particle at point P, which is 2 m from the axis, moves with a linear velocity of 6 m/s. Calculate the angular velocity ω of the rigid body.",
@@ -5512,7 +5852,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen209"
+    "question_id": "cbse_xi_keph1dd_c106_gen209",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rotating top increases its angular velocity from 2 rad/s to 5 rad/s in 1.5 s. Calculate the average angular acceleration.",
@@ -5526,7 +5867,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen210"
+    "question_id": "cbse_xi_keph1dd_c106_gen210",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Which of the following equations correctly represents the angular velocity of a rotating body under constant angular acceleration?",
@@ -5545,7 +5887,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen339"
+    "question_id": "cbse_xi_keph1dd_c106_gen339",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In rotational kinematics, which variable is analogous to the linear displacement (x) in translational motion?",
@@ -5564,7 +5907,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen340"
+    "question_id": "cbse_xi_keph1dd_c106_gen340",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Why can angular velocity be treated as a scalar quantity rather than a full vector in the case of rotation about a fixed axis?",
@@ -5583,7 +5927,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen341"
+    "question_id": "cbse_xi_keph1dd_c106_gen341",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which equation of rotational motion corresponds to the translational equation v^2 = v0^2 + 2a(x - x0)?",
@@ -5602,7 +5947,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen342"
+    "question_id": "cbse_xi_keph1dd_c106_gen342",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "When integrating the constant angular acceleration equation to obtain omega = omega0 + alpha t, what is the integration constant?",
@@ -5621,7 +5967,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen343"
+    "question_id": "cbse_xi_keph1dd_c106_gen343",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Define angular acceleration and explain its significance in rotational motion.",
@@ -5635,7 +5982,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen344"
+    "question_id": "cbse_xi_keph1dd_c106_gen344",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Briefly describe how the equation for angular displacement (theta = theta0 + omega0 t + (1/2)alpha t^2) is derived from the definition of angular velocity.",
@@ -5649,7 +5997,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen345"
+    "question_id": "cbse_xi_keph1dd_c106_gen345",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Convert an angular speed of 1200 rpm to radians per second.",
@@ -5663,7 +6012,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen346"
+    "question_id": "cbse_xi_keph1dd_c106_gen346",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "State the analogy between the kinematic quantities in linear motion and those in rotational motion.",
@@ -5677,7 +6027,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen347"
+    "question_id": "cbse_xi_keph1dd_c106_gen347",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Derive the equation omega = omega0 + alpha t (Equation 6.36) from first principles for a rotating body with constant angular acceleration.",
@@ -5691,7 +6042,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen348"
+    "question_id": "cbse_xi_keph1dd_c106_gen348",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Explain how the kinematical equations for rotational motion are analogous to those for translational motion and discuss any underlying assumptions that allow this analogy.",
@@ -5705,7 +6057,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen349"
+    "question_id": "cbse_xi_keph1dd_c106_gen349",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A rigid body rotates with a uniform angular acceleration. Given that its initial angular displacement is theta0 and its initial angular velocity is omega0, derive an expression for the time required to complete 5 full revolutions.",
@@ -5719,7 +6072,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen350"
+    "question_id": "cbse_xi_keph1dd_c106_gen350",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: For rotation about a fixed axis, angular velocity is treated as a vector quantity.",
@@ -5733,7 +6087,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen351"
+    "question_id": "cbse_xi_keph1dd_c106_gen351",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: The equation theta = theta0 + omega0 t + (1/2)alpha t^2 incorporates the initial angular displacement theta0.",
@@ -5747,7 +6102,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen352"
+    "question_id": "cbse_xi_keph1dd_c106_gen352",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A motor wheel's angular speed increases from 1200 rpm to 3120 rpm in 16 seconds. Using the equation omega = omega0 + alpha t, determine (i) the angular acceleration in rad/s² and (ii) the total number of revolutions made during this time. Show all work.",
@@ -5761,7 +6117,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen353"
+    "question_id": "cbse_xi_keph1dd_c106_gen353",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A wheel starts from rest and rotates with a constant angular acceleration of 2 rad/s². Calculate (i) the angular displacement after 10 seconds, and (ii) the total number of revolutions completed. Provide all necessary calculations.",
@@ -5775,7 +6132,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen354"
+    "question_id": "cbse_xi_keph1dd_c106_gen354",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A flywheel initially rotates at 20 rad/s and decelerates uniformly with an angular acceleration of –0.5 rad/s² until it comes to a stop. Calculate the total angular displacement in radians and convert it to degrees. Show all steps.",
@@ -5789,7 +6147,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen355"
+    "question_id": "cbse_xi_keph1dd_c106_gen355",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "During a 20-second interval, a rotating object experiences an average angular acceleration of 3 rad/s², with an initial angular velocity of 10 rad/s. Estimate the approximate angular displacement assuming constant acceleration. Also, determine the number of revolutions made. Include full calculations.",
@@ -5803,7 +6162,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen356"
+    "question_id": "cbse_xi_keph1dd_c106_gen356",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which physical quantity is conserved when no external torque acts on a rotating system about a fixed axis?",
@@ -5822,7 +6182,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen395"
+    "question_id": "cbse_xi_keph1dd_c106_gen395",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "For a symmetric rigid body rotating about a fixed axis, the angular momentum L is given by I multiplied by ω. Which of the following statements is true regarding the direction of L?",
@@ -5841,7 +6202,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen396"
+    "question_id": "cbse_xi_keph1dd_c106_gen396",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In the case of a non-symmetric rigid body rotating about a fixed axis, what can be said about the relationship between the total angular momentum vector L and the angular velocity ω?",
@@ -5860,7 +6222,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen397"
+    "question_id": "cbse_xi_keph1dd_c106_gen397",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "When a person on a swivel chair extends their arms, they slow down the rotation. Which principle explains this observation?",
@@ -5879,7 +6242,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen398"
+    "question_id": "cbse_xi_keph1dd_c106_gen398",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In the equations for rotation about a fixed axis, what does the symbol I stand for?",
@@ -5898,7 +6262,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen399"
+    "question_id": "cbse_xi_keph1dd_c106_gen399",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Define angular momentum for a system of particles rotating about a fixed axis.",
@@ -5912,7 +6277,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen400"
+    "question_id": "cbse_xi_keph1dd_c106_gen400",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Explain why, in a symmetric rigid body rotating about a fixed axis, the components of angular momentum perpendicular to the axis cancel each other.",
@@ -5926,7 +6292,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen401"
+    "question_id": "cbse_xi_keph1dd_c106_gen401",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Write the equation that relates the net external torque to the rate of change of angular momentum for rotation about a fixed axis.",
@@ -5940,7 +6307,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen402"
+    "question_id": "cbse_xi_keph1dd_c106_gen402",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "How does altering the distribution of mass in a rotating system affect its angular velocity, assuming conservation of angular momentum?",
@@ -5954,7 +6322,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen403"
+    "question_id": "cbse_xi_keph1dd_c106_gen403",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Discuss the derivation of the equation τ = Iα for a rigid body rotating about a fixed axis, including the assumptions made regarding the moment of inertia and the external torque.",
@@ -5968,7 +6337,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen404"
+    "question_id": "cbse_xi_keph1dd_c106_gen404",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Analyze the experiment where a person on a swivel chair extends and retracts their arms during rotation. Explain how conservation of angular momentum plays a role and discuss the effect on angular velocity.",
@@ -5982,7 +6352,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen405"
+    "question_id": "cbse_xi_keph1dd_c106_gen405",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Evaluate the role of symmetry in the cancellation of the perpendicular component (L⊥) of angular momentum in a rotating rigid body. What happens in a non-symmetric body?",
@@ -5996,7 +6367,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen406"
+    "question_id": "cbse_xi_keph1dd_c106_gen406",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: In rotation about a fixed axis, if the external torque is zero, the total angular momentum remains constant.",
@@ -6010,7 +6382,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen407"
+    "question_id": "cbse_xi_keph1dd_c106_gen407",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: For a rotating particle, the angular momentum vector is always parallel to its velocity vector.",
@@ -6024,7 +6397,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen408"
+    "question_id": "cbse_xi_keph1dd_c106_gen408",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: When a gymnast changes body configuration during a flip in a system with negligible external torque, the change in moment of inertia leads to a change in angular velocity.",
@@ -6038,7 +6412,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen409"
+    "question_id": "cbse_xi_keph1dd_c106_gen409",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A symmetric disc with a moment of inertia of 0.5 kg·m² rotates about a fixed axis with an angular velocity of 10 rad/s. Calculate its angular momentum.",
@@ -6052,7 +6427,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen410"
+    "question_id": "cbse_xi_keph1dd_c106_gen410",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A skater reduces her moment of inertia from 2.5 kg·m² to 1.5 kg·m² during a spin. If her initial angular speed is 3 rad/s, what is her final angular speed given conservation of angular momentum?",
@@ -6066,7 +6442,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen411"
+    "question_id": "cbse_xi_keph1dd_c106_gen411",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A uniform rod of length 2 m and mass 4 kg is pivoted at one end. Its moment of inertia about the pivot is given by (1/3)mL². If the rod is given an initial angular velocity of 4 rad/s, calculate its angular momentum.",
@@ -6080,7 +6457,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen412"
+    "question_id": "cbse_xi_keph1dd_c106_gen412",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A rotating rigid body initially has a moment of inertia of 5 kg·m² and an angular velocity of 2 rad/s. An external torque increases its angular momentum linearly at a rate of 10 kg·m²/s². Calculate the angular acceleration and the new angular velocity after 4 seconds, assuming the moment of inertia remains constant.",
@@ -6094,7 +6472,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen413"
+    "question_id": "cbse_xi_keph1dd_c106_gen413",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A non-symmetric rigid body has a z-axis component of angular momentum Lz = 8 kg·m²/s and a total angular momentum magnitude of L = 10 kg·m²/s. Determine the magnitude of the perpendicular component L⊥ and the angle between the total angular momentum vector and the fixed axis.",
@@ -6108,7 +6487,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_12",
-    "question_id": "cbse_xi_keph1dd_c106_gen414"
+    "question_id": "cbse_xi_keph1dd_c106_gen414",
+    "section_name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which of the following vector products is used to define torque (moment of force)?",
@@ -6127,7 +6507,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen231"
+    "question_id": "cbse_xi_keph1dd_c106_gen231",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "When a force is applied along the hinge line of a door, which statement is true regarding the door's rotation?",
@@ -6146,7 +6527,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen232"
+    "question_id": "cbse_xi_keph1dd_c106_gen232",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "What is the SI unit of torque?",
@@ -6165,7 +6547,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen233"
+    "question_id": "cbse_xi_keph1dd_c106_gen233",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "If the direction of the force F is reversed while the position vector remains the same, what happens to the direction of the torque (r cross F)?",
@@ -6184,7 +6567,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen234"
+    "question_id": "cbse_xi_keph1dd_c106_gen234",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Angular momentum (l) of a particle is defined as:",
@@ -6203,7 +6587,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen235"
+    "question_id": "cbse_xi_keph1dd_c106_gen235",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Explain why a force applied in the direction of the position vector (i.e., parallel to r) produces zero torque.",
@@ -6217,7 +6602,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen236"
+    "question_id": "cbse_xi_keph1dd_c106_gen236",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "State the relationship between the time derivative of angular momentum and torque for a particle.",
@@ -6231,7 +6617,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen237"
+    "question_id": "cbse_xi_keph1dd_c106_gen237",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "What assumption regarding internal forces in a system of particles ensures that only external forces contribute to the total torque?",
@@ -6245,7 +6632,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen238"
+    "question_id": "cbse_xi_keph1dd_c106_gen238",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Describe the physical significance of r⊥ (r perpendicular) in the torque equation.",
@@ -6259,7 +6647,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen239"
+    "question_id": "cbse_xi_keph1dd_c106_gen239",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Discuss the vector nature of torque. Explain how reversing the direction of the force or reversing both the position vector and the force vector affects the direction of the resulting torque.",
@@ -6273,7 +6662,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen240"
+    "question_id": "cbse_xi_keph1dd_c106_gen240",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Elaborate on the derivation of the relation d(l)/dt = tau starting from the definition of angular momentum l = r cross p. Explain each step clearly.",
@@ -6287,7 +6677,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen241"
+    "question_id": "cbse_xi_keph1dd_c106_gen241",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Analyze the experimental setup involving a spinning bicycle rim suspended by strings. Explain how the applied torque leads to precession of the angular momentum vector.",
@@ -6301,7 +6692,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen242"
+    "question_id": "cbse_xi_keph1dd_c106_gen242",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: The magnitude of torque is given by r F cos(theta).",
@@ -6315,7 +6707,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen243"
+    "question_id": "cbse_xi_keph1dd_c106_gen243",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: In a system of particles, internal forces always contribute to the total torque acting on the system.",
@@ -6329,7 +6722,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen244"
+    "question_id": "cbse_xi_keph1dd_c106_gen244",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: The cross product property implies that r cross F equals negative F cross r.",
@@ -6343,7 +6737,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen245"
+    "question_id": "cbse_xi_keph1dd_c106_gen245",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A particle at the point (1, -1, 1) m is acted upon by a force (7, 3, -5) N. Calculate the torque about the origin using the determinant method. Provide your answer in Newton meters (N m).",
@@ -6357,7 +6752,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen246"
+    "question_id": "cbse_xi_keph1dd_c106_gen246",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A particle of mass 2 kg is moving with a constant velocity of 4 m/s. At a certain instant, its position vector makes an angle of 30° with its velocity, and the perpendicular distance from the line of motion to the origin is 3 m. Find the magnitude of its angular momentum about the origin.",
@@ -6371,7 +6767,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen247"
+    "question_id": "cbse_xi_keph1dd_c106_gen247",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A rigid body has a total angular momentum L = (5, -3, 7) kg m²/s. If no external torques act on the body, what will be the components of L after some time?",
@@ -6385,7 +6782,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen248"
+    "question_id": "cbse_xi_keph1dd_c106_gen248",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "In a spinning bicycle rim experiment, a torque of 15 N m is applied to a spinning rim having an angular momentum of 30 kg m²/s. Calculate the angular precession rate in rad/s using the relation between torque and angular momentum.",
@@ -6399,7 +6797,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen249"
+    "question_id": "cbse_xi_keph1dd_c106_gen249",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Which of the following equations correctly represents the center of mass (R) for a system of n particles?",
@@ -6418,7 +6817,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen069"
+    "question_id": "cbse_xi_keph1dd_c106_gen069",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Differentiating the center of mass equation with respect to time leads to an equation involving which of the following quantities?",
@@ -6437,7 +6837,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen070"
+    "question_id": "cbse_xi_keph1dd_c106_gen070",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Which of the following statements best summarizes the significance of Equation (6.11) in the text?",
@@ -6456,7 +6857,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen071"
+    "question_id": "cbse_xi_keph1dd_c106_gen071",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "When applying Newton's second law to a system of particles, why do the internal forces cancel out?",
@@ -6475,7 +6877,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen072"
+    "question_id": "cbse_xi_keph1dd_c106_gen072",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "According to the text, what assumption is made about the masses m1, m2, ... mn when differentiating the center of mass equation?",
@@ -6494,7 +6897,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen073"
+    "question_id": "cbse_xi_keph1dd_c106_gen073",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Explain in your own words how Equation (6.11) simplifies the analysis of a system of particles, regardless of any internal movements.",
@@ -6508,7 +6912,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen074"
+    "question_id": "cbse_xi_keph1dd_c106_gen074",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Describe a scenario in which a rigid body might benefit from treating it as a system of particles to analyze its motion. Include the role of translational and rotational components in your explanation.",
@@ -6522,7 +6927,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen075"
+    "question_id": "cbse_xi_keph1dd_c106_gen075",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Summarize the physical significance of the center of mass continuing along its original trajectory even after a projectile explodes into fragments, as illustrated by Figure 6.12.",
@@ -6536,7 +6942,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen076"
+    "question_id": "cbse_xi_keph1dd_c106_gen076",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Discuss how Newton's second law applies to the center of mass of a system of particles. In your answer, mention the roles of external and internal forces.",
@@ -6550,7 +6957,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen077"
+    "question_id": "cbse_xi_keph1dd_c106_gen077",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Apply the concept of the center of mass to explain how the motion of an object is analyzed when external forces are applied, even if the object is undergoing internal motion or rotation.",
@@ -6564,7 +6972,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen078"
+    "question_id": "cbse_xi_keph1dd_c106_gen078",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "The center of mass of a projectile always follows a parabolic path under gravity, even after an explosion. True or False?",
@@ -6578,7 +6987,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen079"
+    "question_id": "cbse_xi_keph1dd_c106_gen079",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Internal forces within a system contribute to the net external force acting on the center of mass. True or False?",
@@ -6592,7 +7002,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen080"
+    "question_id": "cbse_xi_keph1dd_c106_gen080",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A system of particles has a total mass of 10 kg and its center of mass is accelerating at 2 m/s². Calculate the total external force acting on the system.",
@@ -6606,7 +7017,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen081"
+    "question_id": "cbse_xi_keph1dd_c106_gen081",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "If a projectile explodes in mid-air and breaks into several fragments, with the total mass remaining 5 kg and the center of mass velocity just before explosion being 8 m/s, what is the momentum of the system after the explosion?",
@@ -6620,7 +7032,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen082"
+    "question_id": "cbse_xi_keph1dd_c106_gen082",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A moving system of particles has a total mass of 12 kg. At a given moment, its center of mass is accelerating at 3 m/s² while an external force of 36 N is acting on it. Verify if the system obeys Equation (6.11) and state your conclusion.",
@@ -6634,7 +7047,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen083"
+    "question_id": "cbse_xi_keph1dd_c106_gen083",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A rigid body with a mass of 15 kg is subjected to a net external force of 45 N. If an explosion inside the body causes internal rearrangements but no mass is lost, what will be the acceleration of the center of mass after the explosion?",
@@ -6648,7 +7062,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen084"
+    "question_id": "cbse_xi_keph1dd_c106_gen084",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Consider a system of particles with total mass 20 kg having its center of mass initially traveling with a velocity of 10 m/s. If a time-dependent external force causes a constant acceleration of 0.5 m/s², calculate the new velocity of the center of mass after 4 seconds.",
@@ -6662,7 +7077,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen085"
+    "question_id": "cbse_xi_keph1dd_c106_gen085",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "A projectile with a mass of 8 kg splits into two fragments after an internal explosion. If the center of mass was moving at 15 m/s prior to explosion and no external forces act other than gravity, what can be said about the velocity of the center of mass immediately after the explosion?",
@@ -6676,7 +7092,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_xi_keph1dd_c106_gen086"
+    "question_id": "cbse_xi_keph1dd_c106_gen086",
+    "section_name": "6.3 MOTION OF CENTRE OF MASS"
   },
   {
     "question_text": "Which of the following correctly expresses the magnitude of the vector product c produced by a x b?",
@@ -6695,7 +7112,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen144"
+    "question_id": "cbse_xi_keph1dd_c106_gen144",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Which property is correct regarding the cross product of two vectors a and b?",
@@ -6714,7 +7132,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen145"
+    "question_id": "cbse_xi_keph1dd_c106_gen145",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "According to the right hand rule for vector products, if you curl the fingers of your right hand from vector a to vector b, what does your extended thumb indicate?",
@@ -6733,7 +7152,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen146"
+    "question_id": "cbse_xi_keph1dd_c106_gen146",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "What happens to the vector product a x b under reflection (mirror image)?",
@@ -6752,7 +7172,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen147"
+    "question_id": "cbse_xi_keph1dd_c106_gen147",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "State the definition of the vector (cross) product of two vectors including its magnitude and direction criteria.",
@@ -6766,7 +7187,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen148"
+    "question_id": "cbse_xi_keph1dd_c106_gen148",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Explain why the vector product of a vector with itself (a x a) is a null vector.",
@@ -6780,7 +7202,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen149"
+    "question_id": "cbse_xi_keph1dd_c106_gen149",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Express the vector product of two vectors a and b in determinant form and explain the significance of using this representation.",
@@ -6794,7 +7217,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen150"
+    "question_id": "cbse_xi_keph1dd_c106_gen150",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Describe in detail how the right hand screw rule is used to determine the direction of the vector product of two vectors. Include the importance of using the smaller angle between the vectors.",
@@ -6808,7 +7232,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen151"
+    "question_id": "cbse_xi_keph1dd_c106_gen151",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Derive the expression for the vector product a x b from its component form and verify the anti-commutation property using the derived formula.",
@@ -6822,7 +7247,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen152"
+    "question_id": "cbse_xi_keph1dd_c106_gen152",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "True or False: The scalar product of two vectors is commutative.",
@@ -6836,7 +7262,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen153"
+    "question_id": "cbse_xi_keph1dd_c106_gen153",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "True or False: Under reflection, the vector product a x b changes its sign.",
@@ -6850,7 +7277,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen154"
+    "question_id": "cbse_xi_keph1dd_c106_gen154",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "True or False: The cross product of a vector with itself always results in a non-zero vector.",
@@ -6864,7 +7292,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen155"
+    "question_id": "cbse_xi_keph1dd_c106_gen155",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Given vectors a = (3, 0, 0) and b = (0, 4, 0), calculate a x b.",
@@ -6878,7 +7307,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen156"
+    "question_id": "cbse_xi_keph1dd_c106_gen156",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Compute the cross product of vectors a = (1, 2, 3) and b = (4, 5, 6) using the determinant method.",
@@ -6892,7 +7322,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen157"
+    "question_id": "cbse_xi_keph1dd_c106_gen157",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "For vectors a = (2, -1, 3) and b = (-1, 4, 2), find both the scalar (dot) product and the vector (cross) product. Also, verify that a x b equals - (b x a).",
@@ -6906,7 +7337,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen158"
+    "question_id": "cbse_xi_keph1dd_c106_gen158",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Given force vectors F1 = (5, -3, 2) N and F2 = (-2, 4, -1) N, calculate the vector product F1 x F2 and discuss its significance as a moment of force.",
@@ -6920,7 +7352,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen159"
+    "question_id": "cbse_xi_keph1dd_c106_gen159",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Given vectors a = (7, -2, 1) and b = (3, 0, 4), compute the scalar (dot) product and the vector (cross) product.",
@@ -6934,6 +7367,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen160"
+    "question_id": "cbse_xi_keph1dd_c106_gen160",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   }
 ]

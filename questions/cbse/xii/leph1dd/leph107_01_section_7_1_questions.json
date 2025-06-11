@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen001"
+    "question_id": "cbse_xii_leph1dd_c107_gen001",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "What is the primary advantage of using AC voltage over DC voltage in power transmission?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen002"
+    "question_id": "cbse_xii_leph1dd_c107_gen002",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Transformers are a key component in AC systems because they rely on which of the following principles?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen003"
+    "question_id": "cbse_xii_leph1dd_c107_gen003",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Which historical figure is credited with inventing the induction motor and contributing significantly to the development of AC systems?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen004"
+    "question_id": "cbse_xii_leph1dd_c107_gen004",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Define alternating current (AC) and state its typical waveform.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen005"
+    "question_id": "cbse_xii_leph1dd_c107_gen005",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the behavior of voltage and current in a pure resistor when connected to an AC source.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen006"
+    "question_id": "cbse_xii_leph1dd_c107_gen006",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Briefly describe the significance of the phase difference between voltage and current in AC circuits.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen007"
+    "question_id": "cbse_xii_leph1dd_c107_gen007",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why the majority of electrical energy is transmitted as AC rather than DC.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen008"
+    "question_id": "cbse_xii_leph1dd_c107_gen008",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss how alternating current (AC) circuits are utilized in everyday electrical devices. Provide examples to support your explanation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen009"
+    "question_id": "cbse_xii_leph1dd_c107_gen009",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Evaluate the impact of Nikola Tesla's contributions on the development of modern electrical engineering. Discuss both technical and societal implications.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen010"
+    "question_id": "cbse_xii_leph1dd_c107_gen010",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Analyze the phase relationship between voltage and current in an AC circuit, and compare the behavior in a circuit containing only resistors versus one containing reactive components (capacitors or inductors).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen011"
+    "question_id": "cbse_xii_leph1dd_c107_gen011",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In an AC circuit, the current always reaches its maximum value at the same instance as the voltage.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen012"
+    "question_id": "cbse_xii_leph1dd_c107_gen012",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Transformers can efficiently change voltage levels only when working with AC voltage.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen013"
+    "question_id": "cbse_xii_leph1dd_c107_gen013",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The term 'AC current' is redundant because 'AC' already implies that the current alternates.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen014"
+    "question_id": "cbse_xii_leph1dd_c107_gen014",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "A sinusoidal AC voltage is given by v = vₘ sin(ωt). If the maximum voltage vₘ is 120 V, what is the voltage when ωt = π/2?",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen015"
+    "question_id": "cbse_xii_leph1dd_c107_gen015",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "In an AC circuit, if both the voltage and current have a period of 2π seconds, determine the angular frequency ω.",
@@ -241,7 +256,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen016"
+    "question_id": "cbse_xii_leph1dd_c107_gen016",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "A resistor is connected to an AC voltage source described by v = 230 sin(ωt), where ω is 50 rad/s. If the resistance is 100 Ω, calculate the maximum current in the circuit.",
@@ -255,7 +271,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen017"
+    "question_id": "cbse_xii_leph1dd_c107_gen017",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Consider an AC circuit where the voltage is given by v = 240 sin(ωt) and the current by i = 12 sin(ωt - π/6). Calculate the phase difference in degrees and indicate which waveform is leading.",
@@ -269,6 +286,7 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen018"
+    "question_id": "cbse_xii_leph1dd_c107_gen018",
+    "section_name": "7.1 INTRODUCTION"
   }
 ]

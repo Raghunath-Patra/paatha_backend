@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen220"
+    "question_id": "cbse_xi_keph1dd_c105_gen220",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "At the bottom of a frictionless inclined plane of height h, the kinetic energy acquired by an object of mass m that started from rest is:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen221"
+    "question_id": "cbse_xi_keph1dd_c105_gen221",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Which property distinguishes a conservative force from a nonconservative force?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen222"
+    "question_id": "cbse_xi_keph1dd_c105_gen222",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "What is the derivative of gravitational potential energy V(h) = mgh with respect to height h for an object of mass m near the Earth's surface?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen223"
+    "question_id": "cbse_xi_keph1dd_c105_gen223",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Which of the following best explains the term 'potential energy'?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen224"
+    "question_id": "cbse_xi_keph1dd_c105_gen224",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Define potential energy and explain its physical significance using the example of a stretched bow-string.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen225"
+    "question_id": "cbse_xi_keph1dd_c105_gen225",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Explain why the gravitational force is given by the negative derivative of the gravitational potential energy function.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen226"
+    "question_id": "cbse_xi_keph1dd_c105_gen226",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "What conditions must be met for a force to be considered conservative?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen227"
+    "question_id": "cbse_xi_keph1dd_c105_gen227",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Discuss how the concept of potential energy leads to the conservation of mechanical energy in a system influenced only by conservative forces.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen228"
+    "question_id": "cbse_xi_keph1dd_c105_gen228",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Discuss the transformation of potential energy into kinetic energy with reference to the falling ball problem. In your answer, derive the relationship between potential and kinetic energy.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen229"
+    "question_id": "cbse_xi_keph1dd_c105_gen229",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Analyze the concept of potential energy in a one-dimensional conservative system. Provide a complete derivation of the expression F(x) = -dV/dx and discuss its physical implications.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen230"
+    "question_id": "cbse_xi_keph1dd_c105_gen230",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: For a conservative force, the work done depends on the specific path taken by an object between two points.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen231"
+    "question_id": "cbse_xi_keph1dd_c105_gen231",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: The unit of potential energy is the joule, which is dimensionally equivalent to [ML²T⁻²].",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen232"
+    "question_id": "cbse_xi_keph1dd_c105_gen232",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: An increase in kinetic energy always implies an equal decrease in potential energy irrespective of the type of force involved.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen233"
+    "question_id": "cbse_xi_keph1dd_c105_gen233",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A ball of mass 2 kg is lifted from the ground to a height of 5 m. Calculate its gravitational potential energy at that height.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen234"
+    "question_id": "cbse_xi_keph1dd_c105_gen234",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A rock of mass 3 kg is dropped from a height of 10 m. Assuming no air resistance, determine the speed of the rock just before it hits the ground using energy conservation.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen235"
+    "question_id": "cbse_xi_keph1dd_c105_gen235",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A car of mass 1000 kg slides down a frictionless incline of height 20 m. Determine its kinetic energy at the bottom of the incline.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen236"
+    "question_id": "cbse_xi_keph1dd_c105_gen236",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "If the gravitational force is -9.8 m/s² and the potential energy function is given as V(h) = mgh, find the change in potential energy when h increases by 3 m for an object of mass 5 kg.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen237"
+    "question_id": "cbse_xi_keph1dd_c105_gen237",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "For an object of mass m, the potential energy function is defined as V(x) = 2x², where x is the displacement in meters and V is in joules. Determine the force acting on the object when x = 4 m.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen238"
+    "question_id": "cbse_xi_keph1dd_c105_gen238",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   }
 ]

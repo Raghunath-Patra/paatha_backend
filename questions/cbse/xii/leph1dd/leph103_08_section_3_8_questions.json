@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen127"
+    "question_id": "cbse_xii_leph1dd_c103_gen127",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "For a metallic conductor, which of the following best describes the graph of resistivity versus temperature over a limited range compared to very low temperatures?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen128"
+    "question_id": "cbse_xii_leph1dd_c103_gen128",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Why does the resistivity of metals increase with temperature?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen129"
+    "question_id": "cbse_xii_leph1dd_c103_gen129",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "What is the dimension of the temperature coefficient of resistivity α?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen130"
+    "question_id": "cbse_xii_leph1dd_c103_gen130",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Which of the following materials is most suitable for wire bound standard resistors due to its minimal change in resistance with temperature?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen131"
+    "question_id": "cbse_xii_leph1dd_c103_gen131",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Define resistivity in the context of electrical conduction.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen132"
+    "question_id": "cbse_xii_leph1dd_c103_gen132",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Explain why the resistivity of semiconductors decreases with increasing temperature.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen133"
+    "question_id": "cbse_xii_leph1dd_c103_gen133",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Write down the linear relation used to approximate the resistivity of a metallic conductor over a limited temperature range.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen134"
+    "question_id": "cbse_xii_leph1dd_c103_gen134",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "How does the increase in electron collision frequency affect the resistivity of a metal?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen135"
+    "question_id": "cbse_xii_leph1dd_c103_gen135",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Discuss the key differences in the temperature dependence of resistivity between metals and semiconductors. Include relevant equations in your discussion.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen136"
+    "question_id": "cbse_xii_leph1dd_c103_gen136",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Evaluate the limitations of using the equation ρT = ρ0 [1 + α (T - T0)] for describing resistivity over large temperature ranges, and suggest why deviations occur at extremely low temperatures.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen137"
+    "question_id": "cbse_xii_leph1dd_c103_gen137",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Design an experimental procedure to measure the temperature coefficient of resistivity (α) for a metal. Your answer should include the required apparatus, the method of data collection, and the analysis process.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen138"
+    "question_id": "cbse_xii_leph1dd_c103_gen138",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "True or False: For metals, the temperature coefficient of resistivity is negative.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen139"
+    "question_id": "cbse_xii_leph1dd_c103_gen139",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "True or False: Nichrome exhibits a very weak dependence of resistivity on temperature, making it suitable for standard resistors.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen140"
+    "question_id": "cbse_xii_leph1dd_c103_gen140",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "True or False: In semiconductors, the density of free electrons decreases as temperature increases.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen141"
+    "question_id": "cbse_xii_leph1dd_c103_gen141",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "A metallic conductor has a resistance of 50 ohms at 20°C. If its temperature coefficient of resistivity is 0.004/°C, calculate its resistance at 70°C.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen142"
+    "question_id": "cbse_xii_leph1dd_c103_gen142",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Using the data from Example 3.3, an electric toaster has a resistance of 75.3 ohms at room temperature (27°C) and reaches a resistance of 85.8 ohms when connected to a 230 V supply drawing a current of 2.68 A. Given that the temperature coefficient of resistance of nichrome is 1.70 × 10^-4/°C, calculate the steady temperature of the nichrome element.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen143"
+    "question_id": "cbse_xii_leph1dd_c103_gen143",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "A platinum resistance thermometer has a resistance of 5 Ω at 0°C and 5.23 Ω at 100°C. If the resistance of the thermometer in a hot bath is measured to be 5.795 Ω, calculate the temperature of the bath.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen144"
+    "question_id": "cbse_xii_leph1dd_c103_gen144",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "For a semiconductor, the resistivity changes from 10 ohm-m at temperature T1 to 8 ohm-m at temperature T2, assuming that only the number of free electrons changes significantly. Estimate the percentage increase in the number of free electrons.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen145"
+    "question_id": "cbse_xii_leph1dd_c103_gen145",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "A nichrome wire has a resistance of 100 ohms at room temperature (25°C). When heated, its resistance increases to 110 ohms. Given that the temperature coefficient of resistance for nichrome is 1.70 × 10^-4/°C, calculate the change in temperature and the final temperature of the wire.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen146"
+    "question_id": "cbse_xii_leph1dd_c103_gen146",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   }
 ]

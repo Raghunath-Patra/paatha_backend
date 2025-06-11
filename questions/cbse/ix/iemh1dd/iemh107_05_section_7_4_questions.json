@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen044"
+    "question_id": "cbse_ix_iemh1dd_c107_gen044",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "In an isosceles triangle, which pair of angles has been proven to be equal?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen045"
+    "question_id": "cbse_ix_iemh1dd_c107_gen045",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "If the bisector of ∠A in triangle ABC is also perpendicular to side BC, what can be concluded about the triangle?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen046"
+    "question_id": "cbse_ix_iemh1dd_c107_gen046",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "When a triangle (with ∠B = ∠C = 50°) is cut out and folded along the bisector of ∠A, the vertex C falls on vertex B. What does this demonstrate about the sides of the triangle?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen047"
+    "question_id": "cbse_ix_iemh1dd_c107_gen047",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Define an isosceles triangle.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen048"
+    "question_id": "cbse_ix_iemh1dd_c107_gen048",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "State Theorem 7.3 regarding the relationship between angles and sides in a triangle.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen049"
+    "question_id": "cbse_ix_iemh1dd_c107_gen049",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Which congruence criterion is used in the proof that the angles opposite to equal sides of an isosceles triangle are equal?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen050"
+    "question_id": "cbse_ix_iemh1dd_c107_gen050",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Explain how the folding technique demonstrates that the sides opposite equal angles in a triangle are equal.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen051"
+    "question_id": "cbse_ix_iemh1dd_c107_gen051",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Prove Theorem 7.2: In an isosceles triangle, the angles opposite to the equal sides are equal.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen052"
+    "question_id": "cbse_ix_iemh1dd_c107_gen052",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Prove Theorem 7.3: In any triangle, if two angles are equal, then the sides opposite those angles are equal. Use the ASA congruence criterion in your proof.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen053"
+    "question_id": "cbse_ix_iemh1dd_c107_gen053",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Numerical Problem: In an isosceles triangle ABC, the equal sides AB and AC measure 5 cm each, while the base BC measures 6 cm. Use the cosine rule to find the measure of the vertex angle ∠A and hence determine the measure of the base angles.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen054"
+    "question_id": "cbse_ix_iemh1dd_c107_gen054",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Numerical Problem: In triangle ABC, AD is drawn perpendicular to BC. Given that the base BC = 12 cm and the altitude AD = 9 cm, compute the lengths of the equal sides AB and AC assuming triangle ABC is isosceles.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen055"
+    "question_id": "cbse_ix_iemh1dd_c107_gen055",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Numerical Problem: In an isosceles triangle with equal sides of length 3.5 cm and base of length 5 cm, verify the construction by calculating the altitude from the vertex to the base and then confirming that the corresponding base angles are equal.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen056"
+    "question_id": "cbse_ix_iemh1dd_c107_gen056",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Numerical Problem: In triangle ABC, ∠B and ∠C are both 50°, and side BC is 7 cm. Use the Law of Sines to determine the lengths of sides AB and AC.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen057"
+    "question_id": "cbse_ix_iemh1dd_c107_gen057",
+    "section_name": "7.4 Some Properties of a Triangle"
   }
 ]

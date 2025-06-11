@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen001"
+    "question_id": "cbse_xii_lemh2dd_c205_gen001",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Which prominent mathematician's portrait is included in the textbook to highlight his contribution to various fields, including calculus and number theory?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen002"
+    "question_id": "cbse_xii_lemh2dd_c205_gen002",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Which of the following is NOT one of the topics discussed in Section 11.1 regarding geometry using vectors?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen003"
+    "question_id": "cbse_xii_lemh2dd_c205_gen003",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Define the term 'direction cosines' as introduced in the section.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen004"
+    "question_id": "cbse_xii_lemh2dd_c205_gen004",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "What are 'direction ratios' of a line and how do they differ from direction cosines?",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen005"
+    "question_id": "cbse_xii_lemh2dd_c205_gen005",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Explain why it can be advantageous to translate results from vector form into Cartesian form.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen006"
+    "question_id": "cbse_xii_lemh2dd_c205_gen006",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "List at least four geometric parameters or quantities related to lines and planes in space that are studied in Section 11.1.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen007"
+    "question_id": "cbse_xii_lemh2dd_c205_gen007",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Prove that the vector equation of a line in three-dimensional space can be expressed equivalently in its Cartesian form. Derive the relation starting from the parametric form.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen008"
+    "question_id": "cbse_xii_lemh2dd_c205_gen008",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Derive the formula for the distance of a point from a plane using vector methods. Assume the plane has equation Ax + By + Cz + D = 0 and the point is P(x₁, y₁, z₁).",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen009"
+    "question_id": "cbse_xii_lemh2dd_c205_gen009",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Given two points P(1, 2, 3) and Q(4, 6, 8), find (a) the direction ratios, and (b) the direction cosines of the line joining them.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen010"
+    "question_id": "cbse_xii_lemh2dd_c205_gen010",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Find the angle between two lines given by their direction vectors d₁ = (2, -1, 2) and d₂ = (1, 0, 3).",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen011"
+    "question_id": "cbse_xii_lemh2dd_c205_gen011",
+    "section_name": "11.1 Introduction"
   },
   {
     "question_text": "Two skew lines in space have direction vectors d₁ = (1, 2, 3) and d₂ = (2, 3, 4), with a point on the first line as P(1, 0, 1) and on the second line as Q(2, -1, 0). Calculate the shortest distance between these two skew lines.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_xii_lemh2dd_c205_gen012"
+    "question_id": "cbse_xii_lemh2dd_c205_gen012",
+    "section_name": "11.1 Introduction"
   }
 ]

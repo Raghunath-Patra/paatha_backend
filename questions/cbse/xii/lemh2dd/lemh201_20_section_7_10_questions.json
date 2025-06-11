@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen120"
+    "question_id": "cbse_xii_lemh2dd_c201_gen120",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "For which type of function does the property ∫₋ₐᵃ f(x) dx = 2∫₀ᵃ f(x) dx hold true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen121"
+    "question_id": "cbse_xii_lemh2dd_c201_gen121",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Property P₃ relates the integral ∫ₐᵇ f(x) dx to an integral involving f(a+b–x). What substitution is primarily used in the proof of P₃?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen122"
+    "question_id": "cbse_xii_lemh2dd_c201_gen122",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Which property of definite integrals allows the splitting of an integral over [a, b] into two parts at an intermediate point c, i.e., ∫ₐᵇ f(x) dx = ∫ₐᶜ f(x) dx + ∫ᶜᵇ f(x) dx?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen123"
+    "question_id": "cbse_xii_lemh2dd_c201_gen123",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Define property P₀ for definite integrals and explain its significance regarding the integration variable.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen124"
+    "question_id": "cbse_xii_lemh2dd_c201_gen124",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Explain the significance of property P₄, which states that ∫₀ᵃ f(x) dx = ∫₀ᵃ f(a-x) dx. In what situations is this property particularly useful?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen125"
+    "question_id": "cbse_xii_lemh2dd_c201_gen125",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Using the definition of even functions, show in a brief explanation why for an even function f(x), ∫₋ₐᵃ f(x) dx = 2∫₀ᵃ f(x) dx.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen126"
+    "question_id": "cbse_xii_lemh2dd_c201_gen126",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Prove property P₃ by showing that ∫ₐᵇ f(x) dx = ∫ₐᵇ f(a+b-x) dx, and detail each substitution step in your proof.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen127"
+    "question_id": "cbse_xii_lemh2dd_c201_gen127",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Using property P₇, prove that for an odd function f(x) (i.e., f(–x) = –f(x)), the integral ∫₋ₐᵃ f(x) dx equals zero. Provide a complete step-by-step proof.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen128"
+    "question_id": "cbse_xii_lemh2dd_c201_gen128",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Evaluate the integral I = ∫₀ᴨ (x sin x)/(1 + cos² x) dx using symmetry properties. Show all the steps involved, including the substitution used and the final simplification.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen129"
+    "question_id": "cbse_xii_lemh2dd_c201_gen129",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Evaluate the integral ∫₋₁² |x³ - x| dx by splitting the interval according to the sign changes of the integrand. Provide a complete step-by-step solution.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen130"
+    "question_id": "cbse_xii_lemh2dd_c201_gen130",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Evaluate the integral ∫₋ᴨ⁄₄^(ᴨ⁄₄) sin²x dx using the properties of even functions. Provide a detailed step-by-step calculation.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen131"
+    "question_id": "cbse_xii_lemh2dd_c201_gen131",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   },
   {
     "question_text": "Evaluate the integral ∫₀^(ᴨ⁄₂) log(sin x) dx by using symmetry and properties of logarithms. Provide a complete solution with all necessary steps.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "20_section_7_10",
-    "question_id": "cbse_xii_lemh2dd_c201_gen132"
+    "question_id": "cbse_xii_lemh2dd_c201_gen132",
+    "section_name": "7.10 Some Properties of Definite Integrals"
   }
 ]

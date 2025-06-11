@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen219"
+    "question_id": "cbse_xii_leph1dd_c103_gen219",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "In a balanced Wheatstone bridge, what is the relationship between the four resistors?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen220"
+    "question_id": "cbse_xii_leph1dd_c103_gen220",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "When the Wheatstone bridge is balanced, what is the current through the galvanometer?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen221"
+    "question_id": "cbse_xii_leph1dd_c103_gen221",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Which fundamental law is applied along with Kirchhoff's junction rule to derive the balance condition in a Wheatstone bridge?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen222"
+    "question_id": "cbse_xii_leph1dd_c103_gen222",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "For a balanced Wheatstone bridge used to determine an unknown resistance R4, which of the following expresses R4 in terms of R1, R2, and R3?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen223"
+    "question_id": "cbse_xii_leph1dd_c103_gen223",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Define the term 'galvanometer arm' in the context of a Wheatstone bridge.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen224"
+    "question_id": "cbse_xii_leph1dd_c103_gen224",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "State the significance of attaining a balance condition in a Wheatstone bridge.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen225"
+    "question_id": "cbse_xii_leph1dd_c103_gen225",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "How does applying Kirchhoff's junction rule at the nodes of a Wheatstone bridge assist in deriving the balance condition?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen226"
+    "question_id": "cbse_xii_leph1dd_c103_gen226",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Explain how a Wheatstone bridge may be used to determine an unknown resistance. Provide a brief description of the procedure.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen227"
+    "question_id": "cbse_xii_leph1dd_c103_gen227",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Discuss in detail how Kirchhoff's rules are applied to derive the balance condition in a Wheatstone bridge. Explain the role of both the junction rule and the loop rule using mesh analysis.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen228"
+    "question_id": "cbse_xii_leph1dd_c103_gen228",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Analyze the effect of a non-zero internal resistance in the battery on the balance condition of a Wheatstone bridge. How would the derivation of the balance condition change if the internal resistance were included?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen229"
+    "question_id": "cbse_xii_leph1dd_c103_gen229",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "True or False: In a balanced Wheatstone bridge, the ratio R1/R2 is always equal to R3/R4.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen230"
+    "question_id": "cbse_xii_leph1dd_c103_gen230",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "True or False: Kirchhoff's loop rule states that the sum of the potential differences around any closed circuit loop is zero.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen231"
+    "question_id": "cbse_xii_leph1dd_c103_gen231",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "In a balanced Wheatstone bridge, if R1 = 50 Ω, R2 = 100 Ω, and R3 = 80 Ω, determine the value of the unknown resistor R4.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen232"
+    "question_id": "cbse_xii_leph1dd_c103_gen232",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "A Wheatstone bridge is balanced when R1 = 120 Ω and R2 = 300 Ω. If R3 is adjusted to 90 Ω at balance, calculate the unknown resistor R4.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen233"
+    "question_id": "cbse_xii_leph1dd_c103_gen233",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "In Example 3.7, a galvanometer current of approximately 4.87 mA was obtained. Given the relation from the mesh analysis that I2 equals 31.5 times Ig, verify the magnitude of I2 using the provided Ig value.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen234"
+    "question_id": "cbse_xii_leph1dd_c103_gen234",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "A Wheatstone bridge is set up with a battery voltage of 10 V. If the bridge is balanced with R1 = 100 Ω, R2 = 60 Ω, and R3 = 90 Ω, determine the unknown resistor R4. Then, analyze whether changing the battery voltage would affect the balance condition.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen235"
+    "question_id": "cbse_xii_leph1dd_c103_gen235",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "A Wheatstone bridge initially balanced has R1 = 200 Ω, R2 = 100 Ω, R3 = 150 Ω, and thus R4 = 75 Ω. If R4 then increases by 1%, calculate the resulting unbalanced voltage across the galvanometer when a 5 V battery is used. (Assume the galvanometer is ideal and the bridge is close to balance so that a voltage difference develops across the galvanometer)",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen236"
+    "question_id": "cbse_xii_leph1dd_c103_gen236",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   }
 ]

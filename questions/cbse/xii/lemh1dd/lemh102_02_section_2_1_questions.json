@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen001"
+    "question_id": "cbse_xii_lemh1dd_c102_gen001",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Trigonometric functions do not have inverses on their natural domains primarily because:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen002"
+    "question_id": "cbse_xii_lemh1dd_c102_gen002",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Restricting the domain of a trigonometric function like sin(x) is done to ensure that:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen003"
+    "question_id": "cbse_xii_lemh1dd_c102_gen003",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Inverse trigonometric functions are highly useful in solving which type of problems in calculus?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen004"
+    "question_id": "cbse_xii_lemh1dd_c102_gen004",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define an inverse function and list the conditions under which an inverse exists.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen005"
+    "question_id": "cbse_xii_lemh1dd_c102_gen005",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Explain why the natural domains of trigonometric functions, such as sin(x) and cos(x), do not allow for the direct definition of their inverse functions.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen006"
+    "question_id": "cbse_xii_lemh1dd_c102_gen006",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "What restrictions are imposed on the trigonometric functions to ensure that their inverse functions exist? Provide examples with the sine function.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen007"
+    "question_id": "cbse_xii_lemh1dd_c102_gen007",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Prove that if a function f is one-one and onto, then its inverse f⁻¹ exists. In your proof, clearly use the properties of one-one and onto functions.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen008"
+    "question_id": "cbse_xii_lemh1dd_c102_gen008",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Discuss and derive the process of restricting the domain of the sine function so that an inverse can be defined. Illustrate your explanation with a reference to its graph and explain the role of such restriction in practical applications.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen009"
+    "question_id": "cbse_xii_lemh1dd_c102_gen009",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Evaluate the integral ∫ dx/√(1-x²) and show that it equals arcsin(x) + C.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen010"
+    "question_id": "cbse_xii_lemh1dd_c102_gen010",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Calculate the value of arcsin(0.5) and explain your reasoning.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen011"
+    "question_id": "cbse_xii_lemh1dd_c102_gen011",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Differentiate y = arctan(x) with respect to x.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen012"
+    "question_id": "cbse_xii_lemh1dd_c102_gen012",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Solve for x in the equation sin⁻¹(x) = π/6.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen013"
+    "question_id": "cbse_xii_lemh1dd_c102_gen013",
+    "section_name": "2.1 Introduction"
   }
 ]

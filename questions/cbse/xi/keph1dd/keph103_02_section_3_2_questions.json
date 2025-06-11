@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen035"
+    "question_id": "cbse_xi_keph1dd_c103_gen035",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Two vectors are said to be equal if they have which of the following characteristics?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen036"
+    "question_id": "cbse_xi_keph1dd_c103_gen036",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "How is a vector typically represented in handwritten notes?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen037"
+    "question_id": "cbse_xi_keph1dd_c103_gen037",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Which of the following is NOT considered a scalar quantity?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen038"
+    "question_id": "cbse_xi_keph1dd_c103_gen038",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Given that the displacement vector is defined as the straight line joining initial and final positions, which of the following statements is true?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen039"
+    "question_id": "cbse_xi_keph1dd_c103_gen039",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Define a scalar quantity and provide two examples mentioned in the text.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen040"
+    "question_id": "cbse_xi_keph1dd_c103_gen040",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Describe how vectors are represented in textbooks and when written by hand.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen041"
+    "question_id": "cbse_xi_keph1dd_c103_gen041",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Explain the concept of a displacement vector and contrast it with the total path length traveled by an object.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen042"
+    "question_id": "cbse_xi_keph1dd_c103_gen042",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "What does it mean for two vectors to be equal? List the conditions that must be met.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen043"
+    "question_id": "cbse_xi_keph1dd_c103_gen043",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Discuss the differences between scalar and vector quantities. Include definitions, examples, and the basic rules of operations for each.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen044"
+    "question_id": "cbse_xi_keph1dd_c103_gen044",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Explain the role of the position vector in describing motion in a plane, and how the displacement vector is derived from position vectors.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen045"
+    "question_id": "cbse_xi_keph1dd_c103_gen045",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Analyze how the concept of free vectors versus localized vectors influences the treatment of forces in a physical system. Provide examples and explain their importance.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen046"
+    "question_id": "cbse_xi_keph1dd_c103_gen046",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "True or False: A scalar quantity is completely specified by a numerical value and its corresponding unit.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen047"
+    "question_id": "cbse_xi_keph1dd_c103_gen047",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "True or False: Shifting a vector parallel to itself alters its magnitude.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen048"
+    "question_id": "cbse_xi_keph1dd_c103_gen048",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "True or False: For two vectors to be considered equal, their tails and tips must coincide when one is shifted parallel to the other.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen049"
+    "question_id": "cbse_xi_keph1dd_c103_gen049",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "A rectangle has a length of 1.0 m and a breadth of 0.5 m. Calculate its perimeter.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen050"
+    "question_id": "cbse_xi_keph1dd_c103_gen050",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "On a particular day, the maximum temperature was 35.6 °C and the minimum temperature was 24.2 °C. Find the difference in temperature.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen051"
+    "question_id": "cbse_xi_keph1dd_c103_gen051",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "An aluminium cube has a side length of 10 cm and a mass of 2.7 kg. Calculate its volume in cubic meters and its density in kg/m³.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen052"
+    "question_id": "cbse_xi_keph1dd_c103_gen052",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "If an object travels along a curved path measuring 7.0 m but its displacement is only 5.0 m, calculate the difference between the path length and the magnitude of the displacement.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen053"
+    "question_id": "cbse_xi_keph1dd_c103_gen053",
+    "section_name": "3.2 SCALARS AND VECTORS"
   },
   {
     "question_text": "Two vectors A and B have magnitudes of 4.0 and 3.0 respectively and form a 90° angle. Using the parallelogram law, calculate the magnitude of their resultant vector.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xi_keph1dd_c103_gen054"
+    "question_id": "cbse_xi_keph1dd_c103_gen054",
+    "section_name": "3.2 SCALARS AND VECTORS"
   }
 ]

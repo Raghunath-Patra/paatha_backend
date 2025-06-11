@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen040"
+    "question_id": "cbse_xi_keph2dd_c204_gen040",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "In the experiment described, when two systems A and B are individually in thermal equilibrium with system C, what thermodynamic variable is identical in all three systems?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen041"
+    "question_id": "cbse_xi_keph2dd_c204_gen041",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Why is system C used in the experimental setup shown in Fig. 11.2(a) and (b)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen042"
+    "question_id": "cbse_xi_keph2dd_c204_gen042",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "In the experimental procedure, after system C is isolated and the wall between systems A and B is made conducting, why do the states of A and B not change further?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen043"
+    "question_id": "cbse_xi_keph2dd_c204_gen043",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "R. H. Fowler numbered the Zeroth Law as such because:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen044"
+    "question_id": "cbse_xi_keph2dd_c204_gen044",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Explain the significance of an adiabatic wall in the experimental setup described in the section.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen045"
+    "question_id": "cbse_xi_keph2dd_c204_gen045",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "In your own words, define thermal equilibrium. What does it imply about the state variables of the systems involved?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen046"
+    "question_id": "cbse_xi_keph2dd_c204_gen046",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "How does the existence of a reference system (like system C) assist in constructing a numerical scale for temperature?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen047"
+    "question_id": "cbse_xi_keph2dd_c204_gen047",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Discuss why replacing an adiabatic wall with a conducting wall between systems A and B does not alter their state when they are both in thermal equilibrium with system C.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen048"
+    "question_id": "cbse_xi_keph2dd_c204_gen048",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Explain how the Zeroth Law of Thermodynamics leads to the development of the concept of temperature.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen049"
+    "question_id": "cbse_xi_keph2dd_c204_gen049",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Describe an experimental setup based on Fig. 11.2 to verify the Zeroth Law of Thermodynamics. Include a discussion on how the state of the systems changes (or does not change) during the process.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen050"
+    "question_id": "cbse_xi_keph2dd_c204_gen050",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Evaluate the impact of correctly defining temperature through the Zeroth Law on modern thermodynamic research and instrumentation.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen051"
+    "question_id": "cbse_xi_keph2dd_c204_gen051",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "True or False: The Zeroth Law of Thermodynamics states that two systems in thermal equilibrium must also have equal pressures.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen052"
+    "question_id": "cbse_xi_keph2dd_c204_gen052",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "True or False: If system A and system B are each in thermal equilibrium with system C, then a thermometer placed in either A or B would read the same temperature.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen053"
+    "question_id": "cbse_xi_keph2dd_c204_gen053",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "True or False: Replacing an adiabatic wall between systems already in thermal equilibrium will always result in a change in their state variables.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen054"
+    "question_id": "cbse_xi_keph2dd_c204_gen054",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "System A (mass = 2.0 kg, specific heat = 500 J/kgK) is at an initial temperature of 280 K. System B (mass = 3.0 kg, specific heat = 400 J/kgK) is at an initial temperature of 320 K. When these systems are brought into thermal contact in an isolated environment, calculate the final equilibrium temperature. Show all steps in your calculation.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen055"
+    "question_id": "cbse_xi_keph2dd_c204_gen055",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "A thermometer is calibrated using the melting point of ice (273 K) and the boiling point of water (373 K). If a system shows a reading of 320 K on this thermometer, what is the temperature difference between this system and the melting point of ice?",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen056"
+    "question_id": "cbse_xi_keph2dd_c204_gen056",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Gas X in an adiabatic container is at 300 K and gas Y is at 350 K. If gas X has a heat capacity of 600 J/K and gas Y has a heat capacity of 400 J/K, and they are brought into thermal contact in an isolated system, what is the final equilibrium temperature?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen057"
+    "question_id": "cbse_xi_keph2dd_c204_gen057",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "A system with a heat capacity of 250 J/K undergoes a change in temperature from 290 K to 300 K when brought into contact with a thermal bath. Calculate the amount of heat absorbed by the system.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen058"
+    "question_id": "cbse_xi_keph2dd_c204_gen058",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "In an experiment demonstrating the Zeroth Law, system C is used as a thermal reservoir at 400 K. If system A (heat capacity = 500 J/K) initially at 370 K is brought into contact with system C, calculate the amount of heat gained by system A once it reaches equilibrium.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "03_section_11_3",
-    "question_id": "cbse_xi_keph2dd_c204_gen059"
+    "question_id": "cbse_xi_keph2dd_c204_gen059",
+    "section_name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
   }
 ]

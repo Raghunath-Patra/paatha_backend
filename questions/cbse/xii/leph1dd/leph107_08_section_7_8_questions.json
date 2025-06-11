@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen125"
+    "question_id": "cbse_xii_leph1dd_c107_gen125",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Which equation represents the relation between the secondary voltage (Vₛ) and the primary voltage (Vₚ) in an ideal transformer?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen126"
+    "question_id": "cbse_xii_leph1dd_c107_gen126",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "In a transformer, which of the following configurations provides the best flux linkage between coils?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen127"
+    "question_id": "cbse_xii_leph1dd_c107_gen127",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Which factor is increased when a transformer operates as a step-up transformer?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen128"
+    "question_id": "cbse_xii_leph1dd_c107_gen128",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Which of the following does NOT contribute to energy losses in real transformers?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen129"
+    "question_id": "cbse_xii_leph1dd_c107_gen129",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Describe the roles of the primary and secondary coils in a transformer.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen130"
+    "question_id": "cbse_xii_leph1dd_c107_gen130",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "List and explain the three main assumptions used in deriving the transformer voltage ratio equation.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen131"
+    "question_id": "cbse_xii_leph1dd_c107_gen131",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Explain why, in the ideal transformer model, the primary current does not become infinite despite the assumption of zero resistance in the primary coil.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen132"
+    "question_id": "cbse_xii_leph1dd_c107_gen132",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Identify and briefly describe the main sources of energy losses in real transformers.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen133"
+    "question_id": "cbse_xii_leph1dd_c107_gen133",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Explain in detail how a transformer operates, including the process of induction and the relationships between the turns ratio, voltage, and current.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen134"
+    "question_id": "cbse_xii_leph1dd_c107_gen134",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Compare the two different configurations for winding the primary and secondary coils in a transformer and analyze how each configuration affects the magnetic flux linkage and overall transformer efficiency.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen135"
+    "question_id": "cbse_xii_leph1dd_c107_gen135",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Discuss the role of step-up and step-down transformers in large-scale electrical power transmission. In your answer, explain the advantages and trade-offs associated with each type.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen136"
+    "question_id": "cbse_xii_leph1dd_c107_gen136",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "True or False: In an ideal transformer, the voltage across the secondary coil (Vₛ) is equal to the induced electromotive force (emf) in the secondary.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen137"
+    "question_id": "cbse_xii_leph1dd_c107_gen137",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "True or False: Eddy currents do not cause any energy losses in a transformer.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen138"
+    "question_id": "cbse_xii_leph1dd_c107_gen138",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "True or False: In a transformer operating as a step-up transformer, the secondary current is greater than the primary current.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen139"
+    "question_id": "cbse_xii_leph1dd_c107_gen139",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "A transformer has a primary coil with 100 turns and a secondary coil with 200 turns. If the input voltage is 220 V and the primary current is 10 A, calculate the secondary voltage and current assuming an ideal transformer.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen140"
+    "question_id": "cbse_xii_leph1dd_c107_gen140",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "In a step-down transformer, the primary coil has 200 turns and the secondary coil has 100 turns. If 500 V is applied to the primary and the primary current is 5 A, determine the secondary voltage and current assuming an ideal transformer.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen141"
+    "question_id": "cbse_xii_leph1dd_c107_gen141",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Calculate the output-input voltage ratio for a transformer with a primary coil of 150 turns and a secondary coil of 75 turns. Also, specify whether the transformer is a step-up or step-down type.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen142"
+    "question_id": "cbse_xii_leph1dd_c107_gen142",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "A well-designed transformer operates at 95% efficiency. If the input power is 1000 W, estimate the power loss in the transformer.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen143"
+    "question_id": "cbse_xii_leph1dd_c107_gen143",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "A transformer has a primary coil with 50 turns and a secondary coil with 150 turns. If an alternating voltage of 110 V is applied to the primary and the measured secondary current is 2 A, verify whether this is consistent with the ideal transformer equations. Assume ideal conditions for calculation.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen144"
+    "question_id": "cbse_xii_leph1dd_c107_gen144",
+    "section_name": "7.8 TRANSFORMERS"
   }
 ]

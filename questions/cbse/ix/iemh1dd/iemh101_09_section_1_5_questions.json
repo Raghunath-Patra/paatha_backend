@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen056"
+    "question_id": "cbse_ix_iemh1dd_c101_gen056",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "What is the value of a⁰ for any non-zero number a?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen057"
+    "question_id": "cbse_ix_iemh1dd_c101_gen057",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Which exponent law allows us to simplify (7³ × 9³) as (63³)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen058"
+    "question_id": "cbse_ix_iemh1dd_c101_gen058",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Evaluate 23¹⁰ ÷ 23⁷ using the laws of exponents.",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen059"
+    "question_id": "cbse_ix_iemh1dd_c101_gen059",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Define a^(m/n) in terms of radicals.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen060"
+    "question_id": "cbse_ix_iemh1dd_c101_gen060",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "State the extended laws of exponents for a positive real number when the exponents are rational numbers.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen061"
+    "question_id": "cbse_ix_iemh1dd_c101_gen061",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Express 4^(3/2) in radical form and simplify the expression.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen062"
+    "question_id": "cbse_ix_iemh1dd_c101_gen062",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Simplify 2^(2/3) × 2^(1/3) and explain each step used in the process.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen063"
+    "question_id": "cbse_ix_iemh1dd_c101_gen063",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Prove that the law a^(m) × a^(n) = a^(m + n) holds for any positive real number a and rational exponents m and n, by using the definition of rational exponents.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen064"
+    "question_id": "cbse_ix_iemh1dd_c101_gen064",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Derive the simplified form of 7^(1/5) ÷ 7^(1/3) by expressing the result as a single power of 7.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen065"
+    "question_id": "cbse_ix_iemh1dd_c101_gen065",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Using the two different methods provided in the text, show that 4^(3/2) simplifies to the same value regardless of the approach.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen066"
+    "question_id": "cbse_ix_iemh1dd_c101_gen066",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Simplify (5²)⁷ using the laws of exponents and provide each step.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen067"
+    "question_id": "cbse_ix_iemh1dd_c101_gen067",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Simplify the expression 23¹⁰ ÷ 23⁷ and explain the reasoning.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen068"
+    "question_id": "cbse_ix_iemh1dd_c101_gen068",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Compute (3^(1/5))⁴ and detail the steps in your solution.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen069"
+    "question_id": "cbse_ix_iemh1dd_c101_gen069",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   },
   {
     "question_text": "Simplify 7^(1/5) ÷ 7^(1/3) and express the answer as a power of 7.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "09_section_1_5",
-    "question_id": "cbse_ix_iemh1dd_c101_gen070"
+    "question_id": "cbse_ix_iemh1dd_c101_gen070",
+    "section_name": "1.5 Laws of Exponents for Real Numbers"
   }
 ]

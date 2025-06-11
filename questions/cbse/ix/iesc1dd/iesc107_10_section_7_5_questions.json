@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen052"
+    "question_id": "cbse_ix_iesc1dd_c107_gen052",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Which equation would you use to determine the distance covered by an object in uniformly accelerated motion when the time interval is not known?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen053"
+    "question_id": "cbse_ix_iesc1dd_c107_gen053",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "A vehicle decelerates uniformly from a speed of 16 m/s to rest in 4 seconds. Which of the following is the correct acceleration?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen054"
+    "question_id": "cbse_ix_iesc1dd_c107_gen054",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Define uniform acceleration.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen055"
+    "question_id": "cbse_ix_iesc1dd_c107_gen055",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Explain the physical significance of the equation s = ut + ½at² in kinematics.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen056"
+    "question_id": "cbse_ix_iesc1dd_c107_gen056",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "How can equation (7.7), 2as = v² – u², be derived from equations (7.5) and (7.6)?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen057"
+    "question_id": "cbse_ix_iesc1dd_c107_gen057",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Describe the steps to calculate the stopping distance for a car when the brakes provide a constant deceleration.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen058"
+    "question_id": "cbse_ix_iesc1dd_c107_gen058",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "A runner starts from rest and accelerates uniformly to a speed of 8 m/s in 4 seconds; then runs at this constant speed for 10 seconds; and finally decelerates uniformly to rest in 3 seconds. Calculate the total distance covered during the run.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen059"
+    "question_id": "cbse_ix_iesc1dd_c107_gen059",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "True or False: The equation v = u + at is only valid if the acceleration is constant.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen060"
+    "question_id": "cbse_ix_iesc1dd_c107_gen060",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "True or False: The equation s = ut + ½at² can be used to calculate the displacement of an object even when its acceleration is not uniform. If false, explain why.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen061"
+    "question_id": "cbse_ix_iesc1dd_c107_gen061",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Convert 72 km/h to m/s and explain the conversion process.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen062"
+    "question_id": "cbse_ix_iesc1dd_c107_gen062",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "True or False: If a car decelerates uniformly from 15 m/s to 5 m/s over 4 seconds, the distance covered during deceleration is greater than the distance if the car had stopped from 15 m/s in the same time interval. Provide correction if the statement is false.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen063"
+    "question_id": "cbse_ix_iesc1dd_c107_gen063",
+    "section_name": "7.5 Equations of Motion"
   }
 ]

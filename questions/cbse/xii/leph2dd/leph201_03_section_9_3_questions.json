@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen039"
+    "question_id": "cbse_xii_leph2dd_c201_gen039",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "When light passes from air into water, what property of water determines that the refracted ray bends toward the normal?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen040"
+    "question_id": "cbse_xii_leph2dd_c201_gen040",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "In a rectangular slab of glass, what is the relationship between the incident ray and the emergent ray after undergoing refraction at both surfaces?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen041"
+    "question_id": "cbse_xii_leph2dd_c201_gen041",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "Which mathematical relationship correctly represents the connection between the refractive indices of two media, n21 (medium 2 with respect to medium 1) and n12 (medium 1 with respect to medium 2)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen042"
+    "question_id": "cbse_xii_leph2dd_c201_gen042",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "When a light ray passes from a denser medium into a rarer medium, which of the following best describes the behavior of the refracted ray?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen043"
+    "question_id": "cbse_xii_leph2dd_c201_gen043",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "Define optical density and explain how it differs from mass density.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen044"
+    "question_id": "cbse_xii_leph2dd_c201_gen044",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "State Snell's Law and describe the significance of the constant n21 in the law.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen045"
+    "question_id": "cbse_xii_leph2dd_c201_gen045",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "Explain the phenomenon of lateral displacement of a light ray when it passes through a parallel-sided rectangular slab.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen046"
+    "question_id": "cbse_xii_leph2dd_c201_gen046",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "Why does an object, such as the bottom of a tank filled with water, appear shallower than its actual depth when viewed from above? Provide an explanation based on the principles of refraction.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen047"
+    "question_id": "cbse_xii_leph2dd_c201_gen047",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "Describe the process of refraction when a light ray passes from air into a denser medium, highlighting the roles of the angle of incidence and the angle of refraction. Include reference to Snell's Law in your answer.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen048"
+    "question_id": "cbse_xii_leph2dd_c201_gen048",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "Discuss how the refractive index affects the apparent depth of an object submerged in water. In your answer, include the mathematical relationship between real depth, apparent depth, and the refractive index, and describe the physical significance of this relationship.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen049"
+    "question_id": "cbse_xii_leph2dd_c201_gen049",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "Examine the relationship between the refractive indices n21 and n12 as given in the section. Analyze the implications of the equation n12 = 1/n21 for optical experiments involving two media, and provide examples to illustrate your discussion.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen050"
+    "question_id": "cbse_xii_leph2dd_c201_gen050",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "True or False: The incident ray, refracted ray, and the normal at the point of incidence all lie in different planes.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen051"
+    "question_id": "cbse_xii_leph2dd_c201_gen051",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "True or False: Optical density is a measure of mass per unit volume.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen052"
+    "question_id": "cbse_xii_leph2dd_c201_gen052",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "True or False: When light travels from a denser medium into a rarer medium, the angle of refraction is always greater than the angle of incidence.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen053"
+    "question_id": "cbse_xii_leph2dd_c201_gen053",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "An incident ray in air (n = 1.00) strikes a glass surface (n = 1.50) at an angle of incidence of 40°. Using Snell's Law, calculate the angle of refraction inside the glass. Provide your answer in degrees.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen054"
+    "question_id": "cbse_xii_leph2dd_c201_gen054",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "A light ray enters a rectangular glass slab of thickness 5 cm at an incident angle of 30° in air. The refractive index of glass is 1.60. First, calculate the angle of refraction using Snell's Law, and then determine the lateral shift of the ray as it emerges from the slab. Provide your answer in centimeters.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen055"
+    "question_id": "cbse_xii_leph2dd_c201_gen055",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "Determine the apparent depth of a fish in a lake if the real depth is 10 m and the refractive index of water relative to air is 1.33. Provide your answer in meters.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen056"
+    "question_id": "cbse_xii_leph2dd_c201_gen056",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "A ray of light traveling in water (n = 1.33) strikes the water-air interface at an angle of 60° within the water. Calculate the angle of refraction in air. If the calculation leads to an impossible value, explain why.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen057"
+    "question_id": "cbse_xii_leph2dd_c201_gen057",
+    "section_name": "9.3 REFRACTION"
   },
   {
     "question_text": "A beam of light passes from medium A into medium B. If the angle of incidence in medium A is 50° and the measured angle of refraction in medium B is 30°, calculate the refractive index of medium B with respect to medium A.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xii_leph2dd_c201_gen058"
+    "question_id": "cbse_xii_leph2dd_c201_gen058",
+    "section_name": "9.3 REFRACTION"
   }
 ]

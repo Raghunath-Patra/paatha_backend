@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "9.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "9.2 REFLECTION OF LIGHT BY SPHERICAL MIRRORS"
+    },
+    {
+      "number": 3,
+      "name": "9.3 REFRACTION"
+    },
+    {
+      "number": 4,
+      "name": "9.4 TOTAL INTERNAL REFLECTION"
+    },
+    {
+      "number": 5,
+      "name": "9.5 REFRACTION AT SPHERICAL SURFACES AND BY LENSES"
+    },
+    {
+      "number": 6,
+      "name": "9.6 REFRACTION THROUGH A PRISM"
+    },
+    {
+      "number": 7,
+      "name": "9.7 OPTICAL INSTRUMENTS"
+    }
+  ]
+}

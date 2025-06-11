@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "2.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "2.2 Cartesian Products of Sets"
+    },
+    {
+      "number": 3,
+      "name": "2.3 Relations"
+    },
+    {
+      "number": 4,
+      "name": "2.4 Functions"
+    }
+  ]
+}

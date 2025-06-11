@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen037"
+    "question_id": "cbse_ix_iesc1dd_c108_gen037",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "2. Which one of the following equations is the mathematical formulation of Newton's Second Law of Motion?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen038"
+    "question_id": "cbse_ix_iesc1dd_c108_gen038",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "3. If a constant force is applied to an object, the change in the object's momentum is directly proportional to which of the following?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen039"
+    "question_id": "cbse_ix_iesc1dd_c108_gen039",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "4. What is the SI unit of force defined as 1 kg·m/s² called?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen040"
+    "question_id": "cbse_ix_iesc1dd_c108_gen040",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "5. In your own words, define momentum and explain its vector nature.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen041"
+    "question_id": "cbse_ix_iesc1dd_c108_gen041",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "6. Explain why a fielder pulls his hands backward when catching a fast-moving cricket ball.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen042"
+    "question_id": "cbse_ix_iesc1dd_c108_gen042",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "7. What does a negative value for force indicate in the context of deceleration, such as when a motorcar comes to a stop?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen043"
+    "question_id": "cbse_ix_iesc1dd_c108_gen043",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "8. Derive the expression for acceleration starting from the impulse-momentum equation Ft = m(v – u).",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen044"
+    "question_id": "cbse_ix_iesc1dd_c108_gen044",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "9. A car of mass 1000 kg is initially traveling at 30 m/s and comes to a complete stop in 4 seconds when the brakes are applied. Calculate the magnitude and direction of the braking force. Explain what the negative sign in your answer represents.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen045"
+    "question_id": "cbse_ix_iesc1dd_c108_gen045",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "10. Discuss how Newton's Second Law of Motion is demonstrated in real-life situations such as cushioning falls in high jump competitions and in the technique of catching a fast-moving cricket ball. In your discussion, analyze how varying the time interval affects the force experienced.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen046"
+    "question_id": "cbse_ix_iesc1dd_c108_gen046",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "11. A force of 5 N accelerates a mass m₁ at 10 m/s² and a mass m₂ at 20 m/s² when applied separately. If the two masses are tied together, calculate the combined acceleration and explain how the addition of masses influences the acceleration.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen047"
+    "question_id": "cbse_ix_iesc1dd_c108_gen047",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "12. True or False: According to the first law of motion, an object at rest remains at rest indefinitely even if external forces are applied.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen048"
+    "question_id": "cbse_ix_iesc1dd_c108_gen048",
+    "section_name": "8.4 Second Law of Motion"
   },
   {
     "question_text": "13. True or False: The SI unit for momentum is the newton (N). If false, provide the correct unit.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "iesc108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_ix_iesc1dd_c108_gen049"
+    "question_id": "cbse_ix_iesc1dd_c108_gen049",
+    "section_name": "8.4 Second Law of Motion"
   }
 ]

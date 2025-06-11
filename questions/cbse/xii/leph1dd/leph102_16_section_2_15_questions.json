@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen260"
+    "question_id": "cbse_xii_leph1dd_c102_gen260",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Which one of the following factors does NOT affect the capacitance of a parallel plate capacitor?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen261"
+    "question_id": "cbse_xii_leph1dd_c102_gen261",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "The energy density of an electric field is given by u = (1/2)ε₀E². Which of the following statements is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen262"
+    "question_id": "cbse_xii_leph1dd_c102_gen262",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "During the process of charging a capacitor, the infinitesimal work done in transferring a small charge dq is given by V dq. Which of the following statements is false?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen263"
+    "question_id": "cbse_xii_leph1dd_c102_gen263",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "In which scenario is it observed that half of the initial energy stored in a capacitor is lost when the configuration is changed?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen264"
+    "question_id": "cbse_xii_leph1dd_c102_gen264",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Define capacitance and provide its mathematical expression for a parallel plate capacitor.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen265"
+    "question_id": "cbse_xii_leph1dd_c102_gen265",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Explain the significance of the factor (1/2) in the formula U = (1/2)CV² for the energy stored in a capacitor.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen266"
+    "question_id": "cbse_xii_leph1dd_c102_gen266",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Describe how the energy stored in a capacitor relates to the electric field between its plates.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen267"
+    "question_id": "cbse_xii_leph1dd_c102_gen267",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Briefly explain why, when two identical capacitors are connected together after one is charged, the final stored energy is less than the initial energy.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen268"
+    "question_id": "cbse_xii_leph1dd_c102_gen268",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Derive the expression for the energy stored in a capacitor starting from the work done to transfer an infinitesimal charge dq across a potential difference V, and show that U = Q²/(2C).",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen269"
+    "question_id": "cbse_xii_leph1dd_c102_gen269",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Explain, in detail, how the energy density expression u = (1/2)ε₀E² is obtained for a parallel plate capacitor. Include the assumptions used in the derivation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen270"
+    "question_id": "cbse_xii_leph1dd_c102_gen270",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Compare and contrast how energy is stored in a capacitor versus in a battery. Focus on the location and the nature of the stored energy.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen271"
+    "question_id": "cbse_xii_leph1dd_c102_gen271",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "True or False: The work done in charging a capacitor is independent of the specific process path followed during the charging.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen272"
+    "question_id": "cbse_xii_leph1dd_c102_gen272",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "True or False: Increasing the separation between the plates of a parallel plate capacitor, while keeping the area constant, leads to a decrease in the capacitance.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen273"
+    "question_id": "cbse_xii_leph1dd_c102_gen273",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "True or False: If all energy losses are neglected, a capacitor will release all its stored energy when it discharges.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen274"
+    "question_id": "cbse_xii_leph1dd_c102_gen274",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "A parallel plate capacitor has a plate area of 0.02 square meters and a plate separation of 0.001 meters. Using ε₀ = 8.85 x 10⁻¹² F/m, calculate its capacitance. If this capacitor is charged to a voltage of 200 V, compute the energy stored within it. Provide your answers with appropriate units.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen275"
+    "question_id": "cbse_xii_leph1dd_c102_gen275",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "A 900 pF capacitor is connected to a 100 V battery. (a) Calculate the charge on the capacitor. (b) Determine the energy stored in the capacitor. Use 1 pF = 1 x 10⁻¹² F.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen276"
+    "question_id": "cbse_xii_leph1dd_c102_gen276",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "Two identical 500 pF capacitors are each charged to 50 V. They are then connected in parallel with their opposite plates connected together. (a) Determine the final voltage across the combined system. (b) Calculate the total stored energy after connection.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen277"
+    "question_id": "cbse_xii_leph1dd_c102_gen277",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "A capacitor has its stored energy given by U = (1/2)ε₀E²A d, where A d is the volume between its plates. If the plate separation d is doubled while keeping the plate area and stored charge constant, what happens to the stored energy?",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen278"
+    "question_id": "cbse_xii_leph1dd_c102_gen278",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   },
   {
     "question_text": "A capacitor initially stores 10 µJ of energy when fully charged. If this capacitor is disconnected from its battery and then connected in parallel to an identical uncharged capacitor, what is the final total stored energy? Explain the energy loss.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "16_section_2_15",
-    "question_id": "cbse_xii_leph1dd_c102_gen279"
+    "question_id": "cbse_xii_leph1dd_c102_gen279",
+    "section_name": "2.15 ENERGY STORED IN A CAPACITOR"
   }
 ]

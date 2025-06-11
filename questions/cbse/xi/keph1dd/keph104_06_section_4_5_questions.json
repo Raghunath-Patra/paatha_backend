@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen164"
+    "question_id": "cbse_xi_keph1dd_c104_gen164",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "According to Newton's second law expressed in differential form, if the mass is constant, then the net force acting on an object is given by:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen165"
+    "question_id": "cbse_xi_keph1dd_c104_gen165",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "What physical quantity is defined as the product of force and the time duration over which it acts?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen166"
+    "question_id": "cbse_xi_keph1dd_c104_gen166",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "A bullet of mass 0.04 kg moving at 90 m/s is stopped by a heavy block over a distance of 0.6 m. Which of the following is the best estimate of the average resistive force acting on the bullet?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen167"
+    "question_id": "cbse_xi_keph1dd_c104_gen167",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "Newton's second law applies to a system of particles by considering which of the following?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen168"
+    "question_id": "cbse_xi_keph1dd_c104_gen168",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "Explain why a lighter object, when acted upon by the same force for the same time interval as a heavier object, attains a greater speed.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen169"
+    "question_id": "cbse_xi_keph1dd_c104_gen169",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "Define momentum and discuss its vector nature.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen170"
+    "question_id": "cbse_xi_keph1dd_c104_gen170",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "What is the SI unit of force and how is it defined in terms of mass and acceleration?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen171"
+    "question_id": "cbse_xi_keph1dd_c104_gen171",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "Discuss qualitatively how the time interval over which a force is applied affects the magnitude of the force necessary to change an object's momentum. In your answer, include the example of a cricketer catching a ball.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen172"
+    "question_id": "cbse_xi_keph1dd_c104_gen172",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "Analyze the application of Newton's second law to a system of particles. Explain why the net external force is considered over the internal forces when determining the acceleration of the center of mass.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen173"
+    "question_id": "cbse_xi_keph1dd_c104_gen173",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "True or False: Newton's second law, F = m × a, is valid only when the mass of the object remains constant.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen174"
+    "question_id": "cbse_xi_keph1dd_c104_gen174",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "True or False: Impulse is defined solely as the force applied on an object, regardless of the time duration.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen175"
+    "question_id": "cbse_xi_keph1dd_c104_gen175",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "True or False: A stone moving in a horizontal circle at a constant speed does not require any net force because its speed is constant.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen176"
+    "question_id": "cbse_xi_keph1dd_c104_gen176",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "A bullet with a mass of 0.04 kg is moving at a speed of 90 m/s and comes to a stop after penetrating a wooden block over 0.6 m. Assuming the acceleration is constant, calculate the average resistive force exerted by the block on the bullet. Show your calculations.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen177"
+    "question_id": "cbse_xi_keph1dd_c104_gen177",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "A particle's motion is described by the equation: y = u t + (1/2) g t², where u = 5 m/s and g = 9.8 m/s². Determine the velocity and the force acting on the particle at time t = 2 seconds, assuming the mass of the particle is 2 kg. Provide detailed calculations.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen178"
+    "question_id": "cbse_xi_keph1dd_c104_gen178",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "An object of mass 3 kg experiences an impulse of 12 N·s. Calculate the change in velocity of the object, and determine the average force if the impulse was applied over 0.5 seconds. Provide step-by-step calculations.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen179"
+    "question_id": "cbse_xi_keph1dd_c104_gen179",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   },
   {
     "question_text": "A stone of mass 0.5 kg is being rotated in a horizontal circle of radius 2 m at a constant speed of 4 m/s. Calculate the centripetal force acting on the stone. Detail your solution.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "06_section_4_5",
-    "question_id": "cbse_xi_keph1dd_c104_gen180"
+    "question_id": "cbse_xi_keph1dd_c104_gen180",
+    "section_name": "4.5 NEWTON'S SECOND LAW OF MOTION"
   }
 ]

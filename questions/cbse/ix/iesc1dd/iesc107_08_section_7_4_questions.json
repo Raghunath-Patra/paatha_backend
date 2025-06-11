@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen040"
+    "question_id": "cbse_ix_iesc1dd_c107_gen040",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "What does the slope of a distance–time graph represent?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen041"
+    "question_id": "cbse_ix_iesc1dd_c107_gen041",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Consider a car moving with a uniform velocity of 40 km/h. What is the distance traveled by the car in 2 hours as represented by its velocity–time graph?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen042"
+    "question_id": "cbse_ix_iesc1dd_c107_gen042",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Define 'uniform speed' and describe how it is represented on a distance–time graph.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen043"
+    "question_id": "cbse_ix_iesc1dd_c107_gen043",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "How can you determine the speed of an object from its distance–time graph? Explain your method briefly.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen044"
+    "question_id": "cbse_ix_iesc1dd_c107_gen044",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Describe the main differences between a distance–time graph for uniform motion and that for accelerated motion.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen045"
+    "question_id": "cbse_ix_iesc1dd_c107_gen045",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Explain how displacement can be determined from a velocity–time graph. Illustrate your explanation with examples of both uniform and accelerated motion.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen046"
+    "question_id": "cbse_ix_iesc1dd_c107_gen046",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Using the data provided in Activity 7.9, plot a distance–time graph for the train and calculate its average speed between stations A and B, and between B and C. Explain your process and reasoning.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen047"
+    "question_id": "cbse_ix_iesc1dd_c107_gen047",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "True or False: In a velocity–time graph, a horizontal line indicates that the object is accelerating.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen048"
+    "question_id": "cbse_ix_iesc1dd_c107_gen048",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "True or False: A curved distance–time graph always indicates that an object is decelerating.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen049"
+    "question_id": "cbse_ix_iesc1dd_c107_gen049",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "What does the area under a velocity–time graph represent?",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen050"
+    "question_id": "cbse_ix_iesc1dd_c107_gen050",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "If a velocity–time graph for a vehicle shows a triangular region with an area of 150 m during its motion, what does this area represent?",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen051"
+    "question_id": "cbse_ix_iesc1dd_c107_gen051",
+    "section_name": "7.4 Graphical Representation of Motion"
   }
 ]

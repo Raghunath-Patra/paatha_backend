@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen077"
+    "question_id": "cbse_xii_leph1dd_c104_gen077",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "For a circular current loop of radius R with a point P along its axis at a distance x from the center, what is the expression for r², where r is the distance from any current element to P?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen078"
+    "question_id": "cbse_xii_leph1dd_c104_gen078",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "When summing the contributions from all elements of a circular loop, which component of the magnetic field cancels out due to symmetry?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen079"
+    "question_id": "cbse_xii_leph1dd_c104_gen079",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "What does the right-hand thumb rule indicate for a current-carrying circular loop?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen080"
+    "question_id": "cbse_xii_leph1dd_c104_gen080",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "In the formula B = (μ₀ I R²)/(2(x² + R²)^(3/2)) for the magnetic field on the axis of a circular loop, what happens to the field when x becomes very large compared to R?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen081"
+    "question_id": "cbse_xii_leph1dd_c104_gen081",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Explain why the perpendicular components of the magnetic field from each infinitesimal current element cancel when integrated over a complete circular loop.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen082"
+    "question_id": "cbse_xii_leph1dd_c104_gen082",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Derive the expression for cosθ used in calculating the x-component (dBₓ) of the magnetic field, and state its value in terms of R and x.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen083"
+    "question_id": "cbse_xii_leph1dd_c104_gen083",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "What is the significance of the expression r² = x² + R² in deriving the magnetic field on the axis of a circular current loop?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen084"
+    "question_id": "cbse_xii_leph1dd_c104_gen084",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "List the assumptions made in evaluating the magnetic field along the axis of a circular current loop.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen085"
+    "question_id": "cbse_xii_leph1dd_c104_gen085",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Provide a step-by-step derivation of the formula for the magnetic field at a point on the axis of a circular current loop using the Biot-Savart law.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen086"
+    "question_id": "cbse_xii_leph1dd_c104_gen086",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Discuss in detail how the cancellation of the perpendicular magnetic field components influences the net magnetic field calculation for a current loop. Include a discussion on symmetry in your answer.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen087"
+    "question_id": "cbse_xii_leph1dd_c104_gen087",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Contrast the magnetic field produced by a complete circular loop with that of a semicircular arc. In your answer, mention both the similarities and differences in the field contributions.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen088"
+    "question_id": "cbse_xii_leph1dd_c104_gen088",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "The magnetic field at the center of a circular loop is given by B₀ = μ₀ I/(2R).",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen089"
+    "question_id": "cbse_xii_leph1dd_c104_gen089",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "All infinitesimal segments of a circular coil contribute equally in magnitude and direction to the net magnetic field on the axis.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen090"
+    "question_id": "cbse_xii_leph1dd_c104_gen090",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "The straight segments attached to a semicircular arc contribute to the net magnetic field at the center of the arc.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen091"
+    "question_id": "cbse_xii_leph1dd_c104_gen091",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Calculate the magnetic field at a point 0.1 m along the axis of a circular loop with radius 0.05 m carrying a current of 5 A. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen092"
+    "question_id": "cbse_xii_leph1dd_c104_gen092",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "A 100-turn coil of radius 0.1 m carries a current of 1 A. Calculate the magnetic field at the center of the coil. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen093"
+    "question_id": "cbse_xii_leph1dd_c104_gen093",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "A current of 2 A flows through a circular loop of radius 0.2 m. Calculate the magnetic field at a point 0.3 m along the axis of the loop. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen094"
+    "question_id": "cbse_xii_leph1dd_c104_gen094",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Determine the distance along the axis at which the magnetic field due to a circular loop of radius 0.1 m carrying a current of 3 A is reduced to half its value at the center. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen095"
+    "question_id": "cbse_xii_leph1dd_c104_gen095",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "A circular coil undergoes a modification where the current is increased by 50% while the coil's radius is decreased by 20%. Calculate the percentage change in the magnetic field at the center of the coil.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen096"
+    "question_id": "cbse_xii_leph1dd_c104_gen096",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   }
 ]

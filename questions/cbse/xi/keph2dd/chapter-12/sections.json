@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "12.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "12.2 MOLECULAR NATURE OF MATTER"
+    },
+    {
+      "number": 3,
+      "name": "12.3 BEHAVIOUR OF GASES"
+    },
+    {
+      "number": 4,
+      "name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
+    },
+    {
+      "number": 5,
+      "name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
+    },
+    {
+      "number": 6,
+      "name": "12.6 SPECIFIC HEAT CAPACITY"
+    },
+    {
+      "number": 7,
+      "name": "12.7 MEAN FREE PATH"
+    }
+  ]
+}

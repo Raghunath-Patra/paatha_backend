@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen001"
+    "question_id": "cbse_xi_kemh1dd_c110_gen001",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Who is credited with giving the names 'parabola' and 'hyperbola'?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen002"
+    "question_id": "cbse_xi_kemh1dd_c110_gen002",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Which conic section is formed when a plane is tangent to one nappe of a cone (i.e., parallel to a generating line of the cone)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen003"
+    "question_id": "cbse_xi_kemh1dd_c110_gen003",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Which of the following application areas does NOT typically involve the use of conic sections?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen004"
+    "question_id": "cbse_xi_kemh1dd_c110_gen004",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Define an ellipse in mathematical terms.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen005"
+    "question_id": "cbse_xi_kemh1dd_c110_gen005",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "What is meant by a 'conic section'?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen006"
+    "question_id": "cbse_xi_kemh1dd_c110_gen006",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "State the historical significance of Apollonius in the study of conic sections.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen007"
+    "question_id": "cbse_xi_kemh1dd_c110_gen007",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "List two real-life applications of conic sections mentioned in the section.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen008"
+    "question_id": "cbse_xi_kemh1dd_c110_gen008",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Derive the standard equation of a circle given its center at (h,k) and radius r.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen009"
+    "question_id": "cbse_xi_kemh1dd_c110_gen009",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Prove that an ellipse is the set of all points (x, y) for which the sum of the distances from the two fixed foci is constant.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen010"
+    "question_id": "cbse_xi_kemh1dd_c110_gen010",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Explain how the intersection of a plane with a double-napped right circular cone yields different curves. Your explanation should include the conditions that determine whether the conic is a circle, ellipse, parabola, or hyperbola.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen011"
+    "question_id": "cbse_xi_kemh1dd_c110_gen011",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "An ellipse has its foci at (−3, 0) and (3, 0) with a constant sum of distances equal to 10. Determine the standard equation of the ellipse.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen012"
+    "question_id": "cbse_xi_kemh1dd_c110_gen012",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Determine the radius and center of the circle given by the equation x² + y² − 6x + 4y + 9 = 0.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen013"
+    "question_id": "cbse_xi_kemh1dd_c110_gen013",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Find the coordinates of the foci of the ellipse given by the equation x²/49 + y²/36 = 1.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen014"
+    "question_id": "cbse_xi_kemh1dd_c110_gen014",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "A parabolic reflector has a focal length of 10 cm. Write its equation in standard form and identify the coordinates of its focus.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xi_kemh1dd_c110_gen015"
+    "question_id": "cbse_xi_kemh1dd_c110_gen015",
+    "section_name": "10.1 Introduction"
   }
 ]

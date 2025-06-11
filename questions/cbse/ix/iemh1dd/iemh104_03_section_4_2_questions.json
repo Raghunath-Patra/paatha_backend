@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen015"
+    "question_id": "cbse_ix_iemh1dd_c104_gen015",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Which operation does NOT leave the solution of a linear equation unchanged?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen016"
+    "question_id": "cbse_ix_iemh1dd_c104_gen016",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "The equation 5y = 2 can be rewritten in standard form as:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen017"
+    "question_id": "cbse_ix_iemh1dd_c104_gen017",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "The equation x - 4 = √3 y is equivalent to which of the following standard forms?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen018"
+    "question_id": "cbse_ix_iemh1dd_c104_gen018",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Write the equation 4 = 5x - 3y in standard form and identify the coefficients a, b, and c.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen019"
+    "question_id": "cbse_ix_iemh1dd_c104_gen019",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Define a linear equation in two variables and state the conditions on its coefficients.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen020"
+    "question_id": "cbse_ix_iemh1dd_c104_gen020",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Express the following scenario as a linear equation: In a cricket match, two batsmen scored a total of 176 runs. Represent the individual scores by x and y.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen021"
+    "question_id": "cbse_ix_iemh1dd_c104_gen021",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Prove that multiplying both sides of a linear equation by a non-zero constant does not change its solution set. Provide step-by-step reasoning.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen022"
+    "question_id": "cbse_ix_iemh1dd_c104_gen022",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Derive the standard form of the equation x = -5 and explain why it is considered a linear equation in two variables.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen023"
+    "question_id": "cbse_ix_iemh1dd_c104_gen023",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Write the equation 2x - 5 = 0 in standard form and solve for x.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen024"
+    "question_id": "cbse_ix_iemh1dd_c104_gen024",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Rearrange the equation 3 = √2 x - 7y into the standard form and identify the coefficients a, b, and c.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen025"
+    "question_id": "cbse_ix_iemh1dd_c104_gen025",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "In a cricket match, two batsmen together scored 176 runs. If one batsman scored 70 runs, set up a linear equation in two variables representing the situation and determine the score of the other batsman.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen026"
+    "question_id": "cbse_ix_iemh1dd_c104_gen026",
+    "section_name": "4.2 Linear Equations"
   }
 ]

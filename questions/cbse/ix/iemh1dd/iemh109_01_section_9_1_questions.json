@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen001"
+    "question_id": "cbse_ix_iemh1dd_c109_gen001",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "Which theorem states that equal chords of a circle subtend equal angles at the centre?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen002"
+    "question_id": "cbse_ix_iemh1dd_c109_gen002",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "If chord AB in a circle subtends an angle of 80° at the centre and chord CD subtends an angle of 80° at the centre, what can be concluded about the chords AB and CD?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen003"
+    "question_id": "cbse_ix_iemh1dd_c109_gen003",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "Define the term 'angle subtended by a chord at a point' in your own words.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen004"
+    "question_id": "cbse_ix_iemh1dd_c109_gen004",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "State Theorem 9.1 and explain its significance in relation to chords and central angles.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen005"
+    "question_id": "cbse_ix_iemh1dd_c109_gen005",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "Describe the relationship between the length of a chord and the angle it subtends at the centre of a circle. What happens when you use two equal chords?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen006"
+    "question_id": "cbse_ix_iemh1dd_c109_gen006",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "Prove Theorem 9.1: Equal chords of a circle subtend equal angles at the centre. Your proof should include a detailed justification using the SSS criterion.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen007"
+    "question_id": "cbse_ix_iemh1dd_c109_gen007",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "Prove the converse of Theorem 9.1: If the angles subtended by two chords at the centre of a circle are equal, then the chords are equal. Include the necessary steps and justification in your proof.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen008"
+    "question_id": "cbse_ix_iemh1dd_c109_gen008",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "In a circle of radius 10 cm, a chord subtends an angle of 60° at the centre. Using the formula chord = 2R sin(θ/2), calculate the length of the chord.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen009"
+    "question_id": "cbse_ix_iemh1dd_c109_gen009",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "A chord in a circle of radius 7 cm subtends a central angle of 90°. Determine the length of the chord.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen010"
+    "question_id": "cbse_ix_iemh1dd_c109_gen010",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "Two chords in a circle subtend central angles of 50° and 70° respectively. Without calculating their exact lengths, explain which chord is longer and why.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen011"
+    "question_id": "cbse_ix_iemh1dd_c109_gen011",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   },
   {
     "question_text": "A circle has two chords, AB and CD. If the central angles ∠AOB and ∠COD are 80° and 120° respectively, find the ratio of the lengths of chords AB and CD using the chord length formula.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "01_section_9_1",
-    "question_id": "cbse_ix_iemh1dd_c109_gen012"
+    "question_id": "cbse_ix_iemh1dd_c109_gen012",
+    "section_name": "9.1 Angle Subtended by a Chord at a Point"
   }
 ]

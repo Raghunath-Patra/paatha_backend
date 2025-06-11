@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "14.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
+    },
+    {
+      "number": 3,
+      "name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
+    },
+    {
+      "number": 4,
+      "name": "14.4 THE SPEED OF A TRAVELLING WAVE"
+    },
+    {
+      "number": 5,
+      "name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
+    },
+    {
+      "number": 6,
+      "name": "14.6 REFLECTION OF WAVES"
+    },
+    {
+      "number": 7,
+      "name": "14.7 BEATS"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "2.1 Discovery of Sub-atomic Particles"
+    },
+    {
+      "number": 2,
+      "name": "2.2 Atomic Models"
+    },
+    {
+      "number": 3,
+      "name": "2.3 Developments Leading to the Bohr's Model of Atom**"
+    },
+    {
+      "number": 4,
+      "name": "2.4 Bohr's Model for Hydrogen Atom**"
+    },
+    {
+      "number": 5,
+      "name": "2.5 Towards Quantum Mechanical Model of the Atom**"
+    },
+    {
+      "number": 6,
+      "name": "2.6 Quantum Mechanical Model of Atom**"
+    }
+  ]
+}

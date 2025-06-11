@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen042"
+    "question_id": "cbse_xi_kemh1dd_c108_gen042",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "The nth term of a geometric progression with first term a and common ratio r is given by:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen043"
+    "question_id": "cbse_xi_kemh1dd_c108_gen043",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "If the sum of the first n terms of a G.P. with common ratio r (r ≠ 1) is given by Sₙ = a(1 - rⁿ)/(1 - r), what will be the sum when r = 1?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen044"
+    "question_id": "cbse_xi_kemh1dd_c108_gen044",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "Consider the G.P. with terms 5, –15, 45, ... What is the common ratio of the sequence?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen045"
+    "question_id": "cbse_xi_kemh1dd_c108_gen045",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "Define a geometric progression (G.P.) and state the condition for a sequence to be classified as a G.P.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen046"
+    "question_id": "cbse_xi_kemh1dd_c108_gen046",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "What is the geometric mean between two positive numbers a and b? Provide the formula and a brief explanation.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen047"
+    "question_id": "cbse_xi_kemh1dd_c108_gen047",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "Given that the 3rd term of a G.P. is 24 and the 6th term is 192, find the first term and the common ratio. Explain your reasoning.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen048"
+    "question_id": "cbse_xi_kemh1dd_c108_gen048",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "Derive the formula for the nth term of a geometric progression starting from the first term a and the common ratio r.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen049"
+    "question_id": "cbse_xi_kemh1dd_c108_gen049",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "Prove the sum formula for a finite geometric progression Sₙ = a(1 - rⁿ)/(1 - r) when r ≠ 1.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen050"
+    "question_id": "cbse_xi_kemh1dd_c108_gen050",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "Given the G.P. 3, 6, 12, 24, ... calculate (a) the 10th term, and (b) the sum of the first 10 terms.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen051"
+    "question_id": "cbse_xi_kemh1dd_c108_gen051",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "In the G.P. 2, 8, 32, ..., determine which term is 131072.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen052"
+    "question_id": "cbse_xi_kemh1dd_c108_gen052",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "Insert two geometric means between 1 and 81. Determine both the common ratio and the inserted means.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen053"
+    "question_id": "cbse_xi_kemh1dd_c108_gen053",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   },
   {
     "question_text": "A sequence is defined by 7, 77, 777, 7777, ... Express the sum of the first n terms of this sequence in terms of n by relating it to a geometric series.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "kemh108",
     "section_id": "06_section_8_4",
-    "question_id": "cbse_xi_kemh1dd_c108_gen054"
+    "question_id": "cbse_xi_kemh1dd_c108_gen054",
+    "section_name": "8.4 Geometric Progression (G. P.)"
   }
 ]

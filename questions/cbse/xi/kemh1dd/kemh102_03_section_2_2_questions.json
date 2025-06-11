@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen014"
+    "question_id": "cbse_xi_kemh1dd_c102_gen014",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "If set A has 2 elements and set B has 3 elements, how many elements are there in A × B?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen015"
+    "question_id": "cbse_xi_kemh1dd_c102_gen015",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Which of the following statements is true regarding ordered pairs (p, q) and (q, p)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen016"
+    "question_id": "cbse_xi_kemh1dd_c102_gen016",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "If either one of the sets in a Cartesian product is the empty set, what will be the result of the product?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen017"
+    "question_id": "cbse_xi_kemh1dd_c102_gen017",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Define the Cartesian product of two sets and explain why the order of elements in an ordered pair is important.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen018"
+    "question_id": "cbse_xi_kemh1dd_c102_gen018",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Explain the result of the operation A × A × A for a set A, and give an example when A = {1, 2}.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen019"
+    "question_id": "cbse_xi_kemh1dd_c102_gen019",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "State the formula relating the number of elements in the Cartesian product A × B to the number of elements in A and B. Briefly justify the formula.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen020"
+    "question_id": "cbse_xi_kemh1dd_c102_gen020",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Explain, with an example, why P × Q is generally not equal to Q × P.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen021"
+    "question_id": "cbse_xi_kemh1dd_c102_gen021",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Prove that if either set A or set B is infinite, then the Cartesian product A × B is infinite.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen022"
+    "question_id": "cbse_xi_kemh1dd_c102_gen022",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Let A = {1, 2, 3}, B = {3, 4}, and C = {4, 5, 6}. Determine the sets (i) A × (B ∩ C), (ii) (A × B) ∩ (A × C), (iii) A × (B ∪ C) and (iv) (A × B) ∪ (A × C). Provide full working steps.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen023"
+    "question_id": "cbse_xi_kemh1dd_c102_gen023",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "A school has 3 teams {Red, Blue, Green} and 4 subjects {Math, Science, English, History}. How many distinct team–subject pairs can be formed for organizing inter-team competitions? Show your calculations.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen024"
+    "question_id": "cbse_xi_kemh1dd_c102_gen024",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Given two sets P = {a, b} and Q = {1, 2, 3}, list all ordered pairs in both P × Q and Q × P, and verify that although they contain the same number of elements, they are not equal. Provide detailed steps.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen025"
+    "question_id": "cbse_xi_kemh1dd_c102_gen025",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "A city issues vehicle license codes using two components: the state code from set A = {DL, MP, KA} and a unique number from set B = {01, 02, 03, 04}. Calculate the total number of license codes that can be issued, and list an example of such a code.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen026"
+    "question_id": "cbse_xi_kemh1dd_c102_gen026",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Consider the sets A = {x, y} and B = {1, 2, 3, 4}. Form P = A × B. Then, if an element (x, b) from P is removed, what is the new number of elements? Provide justification.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen027"
+    "question_id": "cbse_xi_kemh1dd_c102_gen027",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "In a research study, a computer scientist uses the Cartesian product R × R (where R is the set of real numbers) to represent all points on a plane. Explain how this representation helps in understanding the geometry of the plane. Provide detailed insights.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen028"
+    "question_id": "cbse_xi_kemh1dd_c102_gen028",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Given that R × R × R represents all points in three-dimensional space, how many ordered triplets will there be if R is replaced by a finite set S = {0, 1}? Show your working and reasoning.",
@@ -241,6 +256,7 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen029"
+    "question_id": "cbse_xi_kemh1dd_c102_gen029",
+    "section_name": "2.2 Cartesian Products of Sets"
   }
 ]

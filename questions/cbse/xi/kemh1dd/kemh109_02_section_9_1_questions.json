@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen001"
+    "question_id": "cbse_xi_kemh1dd_c109_gen001",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "What is the correct formula for the midpoint of the line segment joining the points (x₁, y₁) and (x₂, y₂)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen002"
+    "question_id": "cbse_xi_kemh1dd_c109_gen002",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Which of the following formulas properly calculates the distance between two points P(x₁, y₁) and Q(x₂, y₂) in the plane?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen003"
+    "question_id": "cbse_xi_kemh1dd_c109_gen003",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Who is credited with the systematic development of analytical geometry?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen004"
+    "question_id": "cbse_xi_kemh1dd_c109_gen004",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Define coordinate geometry and explain its significance in relating algebra and geometry.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen005"
+    "question_id": "cbse_xi_kemh1dd_c109_gen005",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Explain the method to find the coordinates of a point that divides a line segment joining two points (x₁, y₁) and (x₂, y₂) internally in the ratio m:n.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen006"
+    "question_id": "cbse_xi_kemh1dd_c109_gen006",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Why does the distance formula between two points in the coordinate plane represent an application of the Pythagorean theorem? Provide an explanation.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen007"
+    "question_id": "cbse_xi_kemh1dd_c109_gen007",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Define collinearity in the context of coordinate geometry and describe a method to verify if three points are collinear.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen008"
+    "question_id": "cbse_xi_kemh1dd_c109_gen008",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Derive the formula for the distance between two points P(x₁, y₁) and Q(x₂, y₂) using the Pythagorean theorem.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen009"
+    "question_id": "cbse_xi_kemh1dd_c109_gen009",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Prove that if the area of a triangle formed by three points is zero, then the points must be collinear.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen010"
+    "question_id": "cbse_xi_kemh1dd_c109_gen010",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Derive the section formula for the internal division of a line segment joining the points (x₁, y₁) and (x₂, y₂) by a point that divides the segment in the ratio m:n.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen011"
+    "question_id": "cbse_xi_kemh1dd_c109_gen011",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Calculate the distance between the points (6, –4) and (3, 0). Show all steps.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen012"
+    "question_id": "cbse_xi_kemh1dd_c109_gen012",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Given the coordinates A(1, –3) and B(–3, 9), find the coordinates of the point that divides AB internally in the ratio 1:3. Provide step-by-step workings.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen013"
+    "question_id": "cbse_xi_kemh1dd_c109_gen013",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Find the midpoint of the line segment connecting the points (2, 7) and (–4, –5). Provide a detailed solution.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen014"
+    "question_id": "cbse_xi_kemh1dd_c109_gen014",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Compute the area of the triangle with vertices at (4, 4), (3, –2), and (–3, 16). Show your step-by-step solution.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen015"
+    "question_id": "cbse_xi_kemh1dd_c109_gen015",
+    "section_name": "9.1 Introduction"
   }
 ]

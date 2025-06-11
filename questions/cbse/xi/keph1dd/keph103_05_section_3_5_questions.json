@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen147"
+    "question_id": "cbse_xi_keph1dd_c103_gen147",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "What is the magnitude of a unit vector?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen148"
+    "question_id": "cbse_xi_keph1dd_c103_gen148",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "In a rectangular coordinate system, if A is given as A = Ax i + Ay j, which relationship correctly represents its magnitude?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen149"
+    "question_id": "cbse_xi_keph1dd_c103_gen149",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Which equation correctly relates the components of a vector A and the angle θ it makes with the x-axis?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen150"
+    "question_id": "cbse_xi_keph1dd_c103_gen150",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "How are the direction cosines of a 3D vector A related to its components?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen151"
+    "question_id": "cbse_xi_keph1dd_c103_gen151",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Explain why any non-zero vector A in a plane can be expressed as a linear combination of two non-collinear vectors a and b.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen152"
+    "question_id": "cbse_xi_keph1dd_c103_gen152",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Define a unit vector and state its properties as discussed in the section.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen153"
+    "question_id": "cbse_xi_keph1dd_c103_gen153",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Derive the expression for the magnitude of a vector A given its x-component Ax and y-component Ay.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen154"
+    "question_id": "cbse_xi_keph1dd_c103_gen154",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "What are the direction angles of a vector A, and how are they used to resolve A into its components in three dimensions?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen155"
+    "question_id": "cbse_xi_keph1dd_c103_gen155",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Discuss in detail how the resolution of a vector A into its components along unit vectors i and j is related to trigonometric functions. Include a derivation of the formulas for Ax and Ay.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen156"
+    "question_id": "cbse_xi_keph1dd_c103_gen156",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Evaluate the benefits and limitations of resolving vectors using non-rectangular axes versus rectangular coordinate systems.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen157"
+    "question_id": "cbse_xi_keph1dd_c103_gen157",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Create and solve a theoretical problem involving the resolution of a 3D vector into its components along the x, y, and z axes. Explain your method.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen158"
+    "question_id": "cbse_xi_keph1dd_c103_gen158",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "True or False: A vector can only be resolved into components if it lies along the coordinate axes.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen159"
+    "question_id": "cbse_xi_keph1dd_c103_gen159",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "True or False: The magnitude of vector A in a 2D system is always equal to Ax + Ay.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen160"
+    "question_id": "cbse_xi_keph1dd_c103_gen160",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "True or False: The unit vectors i, j, and k in a rectangular coordinate system are perpendicular to each other.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen161"
+    "question_id": "cbse_xi_keph1dd_c103_gen161",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A vector A has a magnitude of 10 units and makes an angle of 30° with the x-axis in the xy-plane. Calculate its x and y components.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen162"
+    "question_id": "cbse_xi_keph1dd_c103_gen162",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A vector B is given by B = (-3, 4) in the xy-plane. Compute the magnitude of B and the angle it makes with the positive x-axis.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen163"
+    "question_id": "cbse_xi_keph1dd_c103_gen163",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "Resolve a 3D vector C with a magnitude of 12 units and direction cosines cosα = 0.5, cosβ = 0.866, and cosγ = 0 into its components. Does this vector lie on the xy-plane?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen164"
+    "question_id": "cbse_xi_keph1dd_c103_gen164",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A vector D is given in component form as D = 7 i - 24 j. Determine its magnitude and the angle it makes with the positive x-axis.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen165"
+    "question_id": "cbse_xi_keph1dd_c103_gen165",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   },
   {
     "question_text": "A vector E in the xy-plane has components E_x = 8 units and E_y = -6 units. Calculate its magnitude and the angle it makes with the x-axis, ensuring you correctly identify the quadrant.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xi_keph1dd_c103_gen166"
+    "question_id": "cbse_xi_keph1dd_c103_gen166",
+    "section_name": "3.5 RESOLUTION OF VECTORS"
   }
 ]

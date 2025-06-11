@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen066"
+    "question_id": "cbse_x_jesc1dd_c111_gen066",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "MCQ: What is the equivalent resistance (Rs) of three resistors R1, R2, and R3 connected in series?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen067"
+    "question_id": "cbse_x_jesc1dd_c111_gen067",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "MCQ: In a series circuit, the total potential difference supplied by the battery is divided among the resistors. Which relationship correctly represents this division for three resistors?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen068"
+    "question_id": "cbse_x_jesc1dd_c111_gen068",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "MCQ: In Activity 11.4, the ammeter reading remains constant regardless of its position in the series circuit. What does this observation indicate?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen069"
+    "question_id": "cbse_x_jesc1dd_c111_gen069",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "Short Answer: Define a resistor network arranged in series and state one key characteristic of current flow within it.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen070"
+    "question_id": "cbse_x_jesc1dd_c111_gen070",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "Short Answer: Explain the concept of equivalent resistance in a series combination of resistors.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen071"
+    "question_id": "cbse_x_jesc1dd_c111_gen071",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "Short Answer: Why is the total voltage across a series circuit equal to the sum of the individual voltage drops across each resistor?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen072"
+    "question_id": "cbse_x_jesc1dd_c111_gen072",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "Short Answer: Using Ohm's law, describe how the relation V = IR applies to each resistor in a series circuit.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen073"
+    "question_id": "cbse_x_jesc1dd_c111_gen073",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "Long Answer: Describe the experiment outlined in Activity 11.4 involving three resistors in series. What observations are expected, and what do these observations reveal about the behavior of current in a series circuit?",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen074"
+    "question_id": "cbse_x_jesc1dd_c111_gen074",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "Long Answer: Explain the step-by-step process used in Activity 11.5 to determine the potential differences across individual resistors in a series circuit. How is the relationship between the battery voltage and the individual voltage drops verified?",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen075"
+    "question_id": "cbse_x_jesc1dd_c111_gen075",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "Long Answer: Evaluate Example 11.7 where an electric lamp (20 Ω) and a conductor (4 Ω) are connected in series with a 6 V battery. Outline the steps to calculate the total resistance, the current in the circuit, and the voltage drops across the lamp and the conductor.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen076"
+    "question_id": "cbse_x_jesc1dd_c111_gen076",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "True/False: In a series circuit, the current changes from one component to another due to variations in resistance.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen077"
+    "question_id": "cbse_x_jesc1dd_c111_gen077",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "True/False: The total resistance in a series circuit is always less than any of the individual resistances in the circuit.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen078"
+    "question_id": "cbse_x_jesc1dd_c111_gen078",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   },
   {
     "question_text": "True/False: Ohm’s law can be applied individually to each resistor in a series circuit to determine the voltage drop across it.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "10_section_11_6",
-    "question_id": "cbse_x_jesc1dd_c111_gen079"
+    "question_id": "cbse_x_jesc1dd_c111_gen079",
+    "section_name": "11.6 RESISTANCE OF A SYSTEM OF RESISTORS"
   }
 ]

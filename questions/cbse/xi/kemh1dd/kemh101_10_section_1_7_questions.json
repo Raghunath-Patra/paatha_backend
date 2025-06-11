@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen085"
+    "question_id": "cbse_xi_kemh1dd_c101_gen085",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "In most textbooks, what symbol is used to denote the universal set?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen086"
+    "question_id": "cbse_xi_kemh1dd_c101_gen086",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Consider the study of natural numbers. If A is the set of all even numbers (a subset of natural numbers), which statement is correct regarding the relationship between the universal set U and A?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen087"
+    "question_id": "cbse_xi_kemh1dd_c101_gen087",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "In population studies, if U represents all people in the world, which of the following could serve as a valid subset?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen088"
+    "question_id": "cbse_xi_kemh1dd_c101_gen088",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Define the universal set in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen089"
+    "question_id": "cbse_xi_kemh1dd_c101_gen089",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Provide two examples of universal sets in different contexts and explain why they are chosen as universal sets.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen090"
+    "question_id": "cbse_xi_kemh1dd_c101_gen090",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Explain the importance of choosing an appropriate universal set in solving problems involving subsets.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen091"
+    "question_id": "cbse_xi_kemh1dd_c101_gen091",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Describe how the concept of a universal set can be applied when analyzing the relationships between different subsets in a problem context.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen092"
+    "question_id": "cbse_xi_kemh1dd_c101_gen092",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Discuss the role of the universal set in probability theory where events are subsets of a universal set and provide an example involving dice rolls or card draws.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen093"
+    "question_id": "cbse_xi_kemh1dd_c101_gen093",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Prove that if A is a subset of the universal set U, then the complement of A (denoted by A') is also a subset of U.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen094"
+    "question_id": "cbse_xi_kemh1dd_c101_gen094",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Given the universal set U = {1, 2, 3, …, 100} and the subset A as the set of all prime numbers in U, determine the number of elements in the complement of A.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen095"
+    "question_id": "cbse_xi_kemh1dd_c101_gen095",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "In a school of 500 students, let U be the universal set of students. If 200 students participate in soccer, 150 in basketball, and 50 in both, calculate the number of students who participate in at least one sport.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen096"
+    "question_id": "cbse_xi_kemh1dd_c101_gen096",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "In a survey of 1000 residents, 300 are left-handed and 200 wear glasses with 100 residents being both left-handed and wearing glasses. Calculate the number of residents who are neither left-handed nor wear glasses.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen097"
+    "question_id": "cbse_xi_kemh1dd_c101_gen097",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Let U be the set of integers from 1 to 50 and A be the set of even numbers within U. Find the cardinality of A and the cardinality of the complement A'.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen098"
+    "question_id": "cbse_xi_kemh1dd_c101_gen098",
+    "section_name": "1.7 Universal Set"
   },
   {
     "question_text": "Given the universal set U = {1, 2, 3, …, 50} and two subsets A = {multiples of 3 in U} and B = {multiples of 5 in U}, compute the number of elements in A ∪ B.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "10_section_1_7",
-    "question_id": "cbse_xi_kemh1dd_c101_gen099"
+    "question_id": "cbse_xi_kemh1dd_c101_gen099",
+    "section_name": "1.7 Universal Set"
   }
 ]

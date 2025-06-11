@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen056"
+    "question_id": "cbse_xi_keph1dd_c105_gen056",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "For an object falling from a height h under gravity, what is the work done by the gravitational force?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen057"
+    "question_id": "cbse_xi_keph1dd_c105_gen057",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "In the vector form of the work-energy theorem, the dot product of force and displacement (F · d) represents:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen058"
+    "question_id": "cbse_xi_keph1dd_c105_gen058",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Which of the following is true about the work-energy theorem as presented in the section?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen059"
+    "question_id": "cbse_xi_keph1dd_c105_gen059",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "In a three-dimensional context, the equation v^2 - u^2 = 2 a · d involves a dot product. What does this dot product a · d specifically account for?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen060"
+    "question_id": "cbse_xi_keph1dd_c105_gen060",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Define work in terms of force and displacement.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen061"
+    "question_id": "cbse_xi_keph1dd_c105_gen061",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Explain how the equation (1/2 m v^2 - 1/2 m u^2) = F · d motivates the definition of kinetic energy.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen062"
+    "question_id": "cbse_xi_keph1dd_c105_gen062",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "What does the work-energy theorem state regarding the net work done on a particle?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen063"
+    "question_id": "cbse_xi_keph1dd_c105_gen063",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Derive the equation (1/2 m v^2 - 1/2 m u^2) = F · d starting from the relation v^2 - u^2 = 2 a s and using Newton's Second Law.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen064"
+    "question_id": "cbse_xi_keph1dd_c105_gen064",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Discuss the limitations of the derived equation (1/2 m v^2 - 1/2 m u^2 = F · d) when dealing with variable forces, and outline how the work-energy theorem can be generalized in such cases.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen065"
+    "question_id": "cbse_xi_keph1dd_c105_gen065",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Using vector notation, explain the significance of the dot product in the work-energy equation and its physical interpretation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen066"
+    "question_id": "cbse_xi_keph1dd_c105_gen066",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "True or False: In the context presented, if only gravitational force acts on an object in free fall, then the work done by gravity equals the change in the object's kinetic energy.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen067"
+    "question_id": "cbse_xi_keph1dd_c105_gen067",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "True or False: The equation (1/2 m v^2 - 1/2 m u^2 = F · d) holds true regardless of whether the force acting on the object is constant or variable.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen068"
+    "question_id": "cbse_xi_keph1dd_c105_gen068",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "A car of mass 1000 kg accelerates from rest to a speed of 20 m/s. Calculate the net work done on the car.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen069"
+    "question_id": "cbse_xi_keph1dd_c105_gen069",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "An object of mass 10 kg speeds up from 5 m/s to 15 m/s over a displacement of 10 m under a constant net force. Calculate the work done on the object and verify that it matches the change in kinetic energy.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen070"
+    "question_id": "cbse_xi_keph1dd_c105_gen070",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "A 1.5 kg ball increases its speed from 4 m/s to 8 m/s. Calculate the change in its kinetic energy.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen071"
+    "question_id": "cbse_xi_keph1dd_c105_gen071",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "An object of mass 3 kg moves over a displacement of 10 m with a constant net force component of 5 N along the displacement. Determine the work done on the object.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen072"
+    "question_id": "cbse_xi_keph1dd_c105_gen072",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Given an acceleration vector a = (3 m/s², 4 m/s²) and a displacement vector d = (5 m, 2 m) for an object of mass 2 kg, calculate the work done on the object using the work-energy theorem.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen073"
+    "question_id": "cbse_xi_keph1dd_c105_gen073",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "A raindrop of mass 1.00 g falls from a height of 1.00 km and hits the ground with a speed of 50.0 m/s. Using g = 10 m/s², calculate the work done by both the gravitational force and the resistive force.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen074"
+    "question_id": "cbse_xi_keph1dd_c105_gen074",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   }
 ]

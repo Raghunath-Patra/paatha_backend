@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen035"
+    "question_id": "cbse_xi_keph2dd_c205_gen035",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "What is the value of the universal gas constant R (in SI units) as given in the text?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen036"
+    "question_id": "cbse_xi_keph2dd_c205_gen036",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "According to Avogadro's hypothesis, how many molecules are contained in 22.4 liters of an ideal gas at S.T.P.?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen037"
+    "question_id": "cbse_xi_keph2dd_c205_gen037",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Which gas law states that for a fixed temperature, the pressure of a given mass of gas varies inversely with its volume?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen038"
+    "question_id": "cbse_xi_keph2dd_c205_gen038",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Dalton's law of partial pressures describes the total pressure of a gas mixture as:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen039"
+    "question_id": "cbse_xi_keph2dd_c205_gen039",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Define the Boltzmann constant as mentioned in the text and state its numerical value in SI units.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen040"
+    "question_id": "cbse_xi_keph2dd_c205_gen040",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Explain Avogadro's hypothesis and discuss its significance in relating the behavior of different gases at fixed temperature and pressure.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen041"
+    "question_id": "cbse_xi_keph2dd_c205_gen041",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Discuss why real gases deviate from ideal gas behavior at high pressures and low temperatures. Provide examples using the figures referenced in the text.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen042"
+    "question_id": "cbse_xi_keph2dd_c205_gen042",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Derive an expression for the density of an ideal gas using the relationship P = (ρRT)/M₀ and discuss how density changes with temperature and pressure.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen043"
+    "question_id": "cbse_xi_keph2dd_c205_gen043",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Using the concepts introduced in the section, analyze the spacing between water molecules in water vapor compared to liquid water. Use the density of water and the estimated molecular volume provided in the examples to support your answer.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen044"
+    "question_id": "cbse_xi_keph2dd_c205_gen044",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "True or False: At low pressures and high temperatures, real gases behave exactly like ideal gases with no deviations.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen045"
+    "question_id": "cbse_xi_keph2dd_c205_gen045",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "True or False: According to Dalton's law, the partial pressure of a gas in a mixture is determined by the number of moles of the gas, independent of its molecular weight.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen046"
+    "question_id": "cbse_xi_keph2dd_c205_gen046",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "A gas mixture contains a total of 5 moles at a temperature of 300 K in a 10-liter container. Calculate the total pressure of the gas in pascals. (Use R = 8.314 J/(mol·K) and note that 10 liters = 0.01 m³.)",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen047"
+    "question_id": "cbse_xi_keph2dd_c205_gen047",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Water vapor at 100°C and 1 atm has a density of 0.6 kg/m³, while liquid water has a density of 1000 kg/m³. Estimate the ratio of the molecular volume to the total volume occupied by the water vapor.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen048"
+    "question_id": "cbse_xi_keph2dd_c205_gen048",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Using the data provided (density of water = 1000 kg/m³, molar mass of water = 18 g/mol, Avogadro's number = 6×10²³), calculate the approximate radius of a water molecule assuming it is spherical. Show all steps.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen049"
+    "question_id": "cbse_xi_keph2dd_c205_gen049",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "A vessel contains two nonreactive gases: neon (monatomic) and oxygen (diatomic). The ratio of their partial pressures is 3:2. Given the atomic mass of neon = 20.2 u and the molecular mass of oxygen = 32.0 u, calculate: (i) the ratio of the number of molecules of neon to oxygen, and (ii) the ratio of their mass densities.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen050"
+    "question_id": "cbse_xi_keph2dd_c205_gen050",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   }
 ]

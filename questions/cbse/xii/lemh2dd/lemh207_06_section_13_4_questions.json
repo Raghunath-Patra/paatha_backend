@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen041"
+    "question_id": "cbse_xii_lemh2dd_c207_gen041",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "If two events A and B are mutually exclusive and both have non-zero probability, which statement is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen042"
+    "question_id": "cbse_xii_lemh2dd_c207_gen042",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "In an experiment where three coins are tossed, let E be the event 'three heads or three tails' and F be the event 'at least two heads'. What is the probability of the event E ∩ F?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen043"
+    "question_id": "cbse_xii_lemh2dd_c207_gen043",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "For events E and F (with non-zero probabilities), which of the following statements is true regarding conditional probability if E and F are independent?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen044"
+    "question_id": "cbse_xii_lemh2dd_c207_gen044",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Define independent events in the context of probability theory and state the necessary conditions for two events to be considered independent.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen045"
+    "question_id": "cbse_xii_lemh2dd_c207_gen045",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Differentiate between independent events and mutually exclusive events. Provide a concise explanation.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen046"
+    "question_id": "cbse_xii_lemh2dd_c207_gen046",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "State the multiplication rule for probabilities. Then, explain its specific form when the events involved are independent.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen047"
+    "question_id": "cbse_xii_lemh2dd_c207_gen047",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Prove that if events E and F are independent, then E and Fʹ (the complement of F) are also independent.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen048"
+    "question_id": "cbse_xii_lemh2dd_c207_gen048",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Prove that if events E and F are independent, then P(E ∩ Fʹ) = P(E)·P(Fʹ). Provide a step-by-step derivation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen049"
+    "question_id": "cbse_xii_lemh2dd_c207_gen049",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Three events A, B, and C are defined in an experiment. They are said to be mutually independent if they satisfy P(A ∩ B) = P(A)·P(B), P(A ∩ C) = P(A)·P(C), P(B ∩ C) = P(B)·P(C), and P(A ∩ B ∩ C) = P(A)·P(B)·P(C). Prove that satisfying only the pairwise independence (i.e., the first three conditions) is not sufficient to guarantee mutual independence. Illustrate your explanation with an example.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen050"
+    "question_id": "cbse_xii_lemh2dd_c207_gen050",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Discuss the difference between independent events and independent experiments. Provide an example to illustrate your answer.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen051"
+    "question_id": "cbse_xii_lemh2dd_c207_gen051",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "A single card is drawn from a standard deck of 52 playing cards. Let event E be 'the card is a spade' and event F be 'the card is an ace'. Verify numerically whether E and F are independent.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen052"
+    "question_id": "cbse_xii_lemh2dd_c207_gen052",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "A fair six-sided die is thrown. Let event E be 'the number is a multiple of 3' and event F be 'the number is even'. Compute P(E), P(F), and P(E ∩ F) to determine whether E and F are independent.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen053"
+    "question_id": "cbse_xii_lemh2dd_c207_gen053",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "In an experiment involving three simultaneous coin tosses, consider the events: E = 'three heads or three tails', F = 'at least two heads', and G = 'at most two heads'. Calculate P(E), P(F), P(G), and the probabilities for the intersections P(E ∩ F), P(E ∩ G), and P(F ∩ G). Based on these calculations, determine which pairs of events are independent.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen054"
+    "question_id": "cbse_xii_lemh2dd_c207_gen054",
+    "section_name": "13.4 Independent Events"
   },
   {
     "question_text": "Two unbiased dice are thrown simultaneously. Let event A be 'the first die shows an odd number' and event B be 'the second die shows an odd number'. Verify whether A and B are independent by computing P(A), P(B), and P(A ∩ B).",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "06_section_13_4",
-    "question_id": "cbse_xii_lemh2dd_c207_gen055"
+    "question_id": "cbse_xii_lemh2dd_c207_gen055",
+    "section_name": "13.4 Independent Events"
   }
 ]

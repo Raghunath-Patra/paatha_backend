@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen001"
+    "question_id": "cbse_viii_hesc1dd_c111_gen001",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "Why do acidic liquids like lemon juice and vinegar conduct electricity better than pure distilled water?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen002"
+    "question_id": "cbse_viii_hesc1dd_c111_gen002",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "Which of the following statements about LEDs compared to traditional bulbs is correct in the context of testing weak currents?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen003"
+    "question_id": "cbse_viii_hesc1dd_c111_gen003",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "According to Table 11.1, which of the following liquids is classified as a good conductor of electricity?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen004"
+    "question_id": "cbse_viii_hesc1dd_c111_gen004",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "Explain why it is important to test the functionality of the tester apparatus (circuit) before using it to test liquids.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen005"
+    "question_id": "cbse_viii_hesc1dd_c111_gen005",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "What steps would you take to troubleshoot the tester if the bulb does not glow when the free ends are connected?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen006"
+    "question_id": "cbse_viii_hesc1dd_c111_gen006",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "Describe how the deflection of the compass needle in Activity 11.3 indicates electrical conduction in a liquid.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen007"
+    "question_id": "cbse_viii_hesc1dd_c111_gen007",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "Why does distilled water not conduct electricity, and what change occurs when salt is dissolved in it?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen008"
+    "question_id": "cbse_viii_hesc1dd_c111_gen008",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "Discuss in detail the process described in Activity 11.5, explaining why solutions of acids, bases, and salts conduct electricity while a sugar solution does not.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen009"
+    "question_id": "cbse_viii_hesc1dd_c111_gen009",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "Explain how the magnetic effect of an electric current is utilized in Activity 11.3 to detect weak currents, and comment on the advantages of using an LED in such testers.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen010"
+    "question_id": "cbse_viii_hesc1dd_c111_gen010",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "True or False: Distilled water is a good conductor of electricity. Provide an explanation for your answer.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen011"
+    "question_id": "cbse_viii_hesc1dd_c111_gen011",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   },
   {
     "question_text": "True or False: A sugar solution conducts electricity as well as a salt solution. If false, correct the statement.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "hesc111",
     "section_id": "02_section_11_1",
-    "question_id": "cbse_viii_hesc1dd_c111_gen012"
+    "question_id": "cbse_viii_hesc1dd_c111_gen012",
+    "section_name": "11.1 Do Liquids Conduct Electricity?"
   }
 ]

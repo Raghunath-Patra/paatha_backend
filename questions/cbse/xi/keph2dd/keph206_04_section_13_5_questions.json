@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen112"
+    "question_id": "cbse_xi_keph2dd_c206_gen112",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "According to the textbook section, the acceleration in simple harmonic motion is directly proportional to which of the following variables?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen113"
+    "question_id": "cbse_xi_keph2dd_c206_gen113",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In the expression x(t) = A cos(ωt + ϕ) describing the displacement in SHM, what does A represent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen114"
+    "question_id": "cbse_xi_keph2dd_c206_gen114",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "The period T of simple harmonic motion is related to the angular frequency ω by which of the following expressions?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen115"
+    "question_id": "cbse_xi_keph2dd_c206_gen115",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which graph among the following best represents the velocity in simple harmonic motion?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen116"
+    "question_id": "cbse_xi_keph2dd_c206_gen116",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define uniform circular motion and explain how it is related to simple harmonic motion.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen117"
+    "question_id": "cbse_xi_keph2dd_c206_gen117",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain the significance of the negative sign in the velocity (v(t) = -ωA sin(ωt + ϕ)) and acceleration (a(t) = -ω²A cos(ωt + ϕ)) equations in simple harmonic motion.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen118"
+    "question_id": "cbse_xi_keph2dd_c206_gen118",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How does the projection of the velocity vector from uniform circular motion lead to the sinusoidal form of the velocity function in SHM?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen119"
+    "question_id": "cbse_xi_keph2dd_c206_gen119",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Given x(t) = A cos(ωt), derive the expression for acceleration a(t).",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen120"
+    "question_id": "cbse_xi_keph2dd_c206_gen120",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the velocity function v(t) = -ωA sin(ωt + ϕ) from the displacement function x(t) = A cos(ωt + ϕ) using differentiation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen121"
+    "question_id": "cbse_xi_keph2dd_c206_gen121",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the method of reference circle, explain geometrically why the acceleration in simple harmonic motion is always directed toward the equilibrium position.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen122"
+    "question_id": "cbse_xi_keph2dd_c206_gen122",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss the phase relationships between displacement, velocity, and acceleration in simple harmonic motion, and explain how these relationships are reflected in their respective graphs.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen123"
+    "question_id": "cbse_xi_keph2dd_c206_gen123",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In simple harmonic motion, when the displacement is zero, the acceleration is also zero. True or false?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen124"
+    "question_id": "cbse_xi_keph2dd_c206_gen124",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "The maximum speed in simple harmonic motion occurs when the displacement is at its maximum. True or false?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen125"
+    "question_id": "cbse_xi_keph2dd_c206_gen125",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Differentiating the displacement function with respect to time gives the velocity in simple harmonic motion. True or false?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen126"
+    "question_id": "cbse_xi_keph2dd_c206_gen126",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle oscillates with x(t) = 3 cos(4t). Calculate the displacement, velocity, and acceleration of the particle at t = 0.5 s.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen127"
+    "question_id": "cbse_xi_keph2dd_c206_gen127",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "For a body oscillating with the equation x = 8 cos(πt + π/6), determine the angular frequency ω, the time period T, and the displacement at t = 1 s.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen128"
+    "question_id": "cbse_xi_keph2dd_c206_gen128",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Given x(t) = 6 cos(2t) for a particle in SHM, find the maximum speed and maximum acceleration of the particle.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen129"
+    "question_id": "cbse_xi_keph2dd_c206_gen129",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle in SHM has a maximum acceleration of 50 m/s² and an amplitude of 5 m. Calculate its angular frequency ω and period T.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen130"
+    "question_id": "cbse_xi_keph2dd_c206_gen130",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the example from the textbook where x = 5 cos(2πt + π/4), verify the calculated speed at t = 1.5 s.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen131"
+    "question_id": "cbse_xi_keph2dd_c206_gen131",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen058"
+    "question_id": "cbse_ix_iemh1dd_c107_gen058",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "In the context of right triangles, what does the RHS congruence rule stand for?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen059"
+    "question_id": "cbse_ix_iemh1dd_c107_gen059",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Which of the following sets of triangle conditions is NOT sufficient to guarantee triangle congruence?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen060"
+    "question_id": "cbse_ix_iemh1dd_c107_gen060",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "If two right triangles have a hypotenuse of equal length and one corresponding side equal in length, which congruence rule should be used to prove that the triangles are congruent?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen061"
+    "question_id": "cbse_ix_iemh1dd_c107_gen061",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Define the SSS congruence rule in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen062"
+    "question_id": "cbse_ix_iemh1dd_c107_gen062",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Explain the RHS congruence rule and give an example of when it would be used.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen063"
+    "question_id": "cbse_ix_iemh1dd_c107_gen063",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Discuss the difference between the conditions SAS and SSA in establishing triangle congruence. Why is SSA not a valid criterion for triangle congruence?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen064"
+    "question_id": "cbse_ix_iemh1dd_c107_gen064",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Prove that if a point P is equidistant from two intersecting lines l and m at point A, then the line joining A and P bisects the angle between l and m. Provide a detailed proof using the RHS congruence rule.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen065"
+    "question_id": "cbse_ix_iemh1dd_c107_gen065",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Given two triangles with sides of lengths 4 cm, 3.5 cm, and 4.5 cm, describe a constructive procedure to verify their congruence using the SSS rule. Include all necessary steps.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen066"
+    "question_id": "cbse_ix_iemh1dd_c107_gen066",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Two right triangles have a hypotenuse measuring 10 cm and one leg measuring 6 cm. Demonstrate using the RHS congruence rule that these two triangles are congruent. Show your calculations.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen067"
+    "question_id": "cbse_ix_iemh1dd_c107_gen067",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Triangle 1 has sides of lengths 5 cm, 7 cm, and 8 cm. Triangle 2 also has sides 5 cm, 7 cm, and 8 cm. Using the SSS rule, determine if the triangles are congruent, and show your working.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen068"
+    "question_id": "cbse_ix_iemh1dd_c107_gen068",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Two right triangles have sides (other than the hypotenuse) that are 3 cm and 4 cm in one triangle, and 4 cm and 3 cm in the second triangle, with both having a hypotenuse of 5 cm. Verify their congruence using appropriate congruence criteria and show all calculations.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen069"
+    "question_id": "cbse_ix_iemh1dd_c107_gen069",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   }
 ]

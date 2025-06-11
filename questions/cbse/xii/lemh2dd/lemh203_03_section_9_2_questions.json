@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen014"
+    "question_id": "cbse_xii_lemh2dd_c203_gen014",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Which of the following equations DOES NOT have a defined degree?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen015"
+    "question_id": "cbse_xii_lemh2dd_c203_gen015",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Which of the following statements correctly identifies an ordinary differential equation (ODE)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen016"
+    "question_id": "cbse_xii_lemh2dd_c203_gen016",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Define a differential equation in the context of dependent and independent variables. Include how it differs from algebraic equations.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen017"
+    "question_id": "cbse_xii_lemh2dd_c203_gen017",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "What is the relationship between the order of a differential equation and its highest order derivative?",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen018"
+    "question_id": "cbse_xii_lemh2dd_c203_gen018",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Explain why the degree of the differential equation y' + sin(y') = 0 is not defined.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen019"
+    "question_id": "cbse_xii_lemh2dd_c203_gen019",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Prove that the differential equation y''' + y² + e^(y') = 0 does not have a defined degree.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen020"
+    "question_id": "cbse_xii_lemh2dd_c203_gen020",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Determine the order and degree of the differential equation y''' + 2y'' + y' = 0, and explain the method you used.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen021"
+    "question_id": "cbse_xii_lemh2dd_c203_gen021",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Determine the order and degree of the differential equation: (d²y/dx²)² + cos(dy/dx) = 0.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen022"
+    "question_id": "cbse_xii_lemh2dd_c203_gen022",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Determine the order and degree of the differential equation: dy/dα = e^(α).",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen023"
+    "question_id": "cbse_xii_lemh2dd_c203_gen023",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "Given the differential equation: (ds/dt)^4 + 3s (d²s/dt²) = 0, determine its order and degree.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen024"
+    "question_id": "cbse_xii_lemh2dd_c203_gen024",
+    "section_name": "9.2 Basic Concepts"
   },
   {
     "question_text": "For the differential equation: y'' + 2y' + sin(y) = 0, determine its order and state whether its degree is defined.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xii_lemh2dd_c203_gen025"
+    "question_id": "cbse_xii_lemh2dd_c203_gen025",
+    "section_name": "9.2 Basic Concepts"
   }
 ]

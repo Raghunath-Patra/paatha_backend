@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "9.1 Gravitation"
+    },
+    {
+      "number": 2,
+      "name": "9.2 Free Fall"
+    },
+    {
+      "number": 3,
+      "name": "9.3 Mass"
+    },
+    {
+      "number": 4,
+      "name": "9.4 Weight"
+    },
+    {
+      "number": 5,
+      "name": "9.5 Thrust and Pressure"
+    },
+    {
+      "number": 6,
+      "name": "9.6 Archimedes’ Principle"
+    }
+  ]
+}

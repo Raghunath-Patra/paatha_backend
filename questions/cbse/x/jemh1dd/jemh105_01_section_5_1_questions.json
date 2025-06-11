@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen001"
+    "question_id": "cbse_x_jemh1dd_c105_gen001",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "What is the common difference in the sequence representing the ladder rungs: 45 cm, 43 cm, 41 cm, …?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen002"
+    "question_id": "cbse_x_jemh1dd_c105_gen002",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Consider Reena's job salary progression with an initial monthly salary of ₹8000 and an annual increment of ₹500. What is the nth term (annual salary) of this arithmetic sequence?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen003"
+    "question_id": "cbse_x_jemh1dd_c105_gen003",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "In a savings scheme, the amount becomes 5/4 times itself after every 3 years. Which of the following sequences best represents this pattern?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen004"
+    "question_id": "cbse_x_jemh1dd_c105_gen004",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Define an arithmetic progression (AP) and provide one real-life example mentioned in the section.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen005"
+    "question_id": "cbse_x_jemh1dd_c105_gen005",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "What is meant by the term 'common difference' in an arithmetic progression? Illustrate your answer using the sequence of ladder rung lengths.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen006"
+    "question_id": "cbse_x_jemh1dd_c105_gen006",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "State and explain the formula for the sum of the first n terms of an arithmetic progression.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen007"
+    "question_id": "cbse_x_jemh1dd_c105_gen007",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Derive the sum formula for the first n terms of an arithmetic progression, i.e., show that Sₙ = n/2 [2a + (n - 1)d].",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen008"
+    "question_id": "cbse_x_jemh1dd_c105_gen008",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Prove that the nth term formula for an arithmetic progression is aₙ = a + (n - 1)d.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen009"
+    "question_id": "cbse_x_jemh1dd_c105_gen009",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Reena started her job with a monthly salary of ₹8000 and an annual increment of ₹500. Calculate her monthly salary in the 10th year.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen010"
+    "question_id": "cbse_x_jemh1dd_c105_gen010",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "A ladder has rungs with lengths forming an arithmetic progression: 45 cm, 43 cm, 41 cm, … If the ladder has 8 rungs, find the total length of all the rungs combined.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen011"
+    "question_id": "cbse_x_jemh1dd_c105_gen011",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "In Shakila’s money box scheme, she initially deposits ₹100 and increases the deposit by ₹50 every year. Calculate the amount in the money box on her daughter’s 10th birthday.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen012"
+    "question_id": "cbse_x_jemh1dd_c105_gen012",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "A construction toy follows a pattern where the total number of unit squares in a square of side length n is given by n². How many unit squares are there in a square with side length 7?",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_x_jemh1dd_c105_gen013"
+    "question_id": "cbse_x_jemh1dd_c105_gen013",
+    "section_name": "5.1 Introduction"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen039"
+    "question_id": "cbse_xii_leph1dd_c102_gen039",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Which of the following statements about the work done in bringing a unit positive test charge from infinity to a point P in the electric field of a point charge Q is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen040"
+    "question_id": "cbse_xii_leph1dd_c102_gen040",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "For a point charge Q < 0, which of the following correctly describes the sign of the electric potential V and the work done in bringing a unit positive charge from infinity?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen041"
+    "question_id": "cbse_xii_leph1dd_c102_gen041",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "If the electric potential due to a point charge is given by V = Q/(4πε₀ r), what happens to V as r tends to infinity?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen042"
+    "question_id": "cbse_xii_leph1dd_c102_gen042",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Explain briefly why the work done in bringing a unit positive test charge from infinity to a point P in the electric field of a point charge is independent of the path taken.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen043"
+    "question_id": "cbse_xii_leph1dd_c102_gen043",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Define the electric potential due to a point charge and describe how it is calculated using the concept of work done.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen044"
+    "question_id": "cbse_xii_leph1dd_c102_gen044",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Compare the electric potential due to a positive point charge versus a negative point charge. What are the differences in the sign and implications for work done?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen045"
+    "question_id": "cbse_xii_leph1dd_c102_gen045",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Derive the expression for the electric potential V at a point P due to a point charge Q by integrating the electrostatic force from infinity to r.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen046"
+    "question_id": "cbse_xii_leph1dd_c102_gen046",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Discuss how the variation of the electric potential (proportional to 1/r) and the electric field (proportional to 1/r²) with distance from a point charge are graphically represented and what physical insights can be drawn from the difference in their rates of decrease.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen047"
+    "question_id": "cbse_xii_leph1dd_c102_gen047",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "True or False: The work done in bringing a unit positive test charge from infinity to any point in the electric field of a point charge Q is path dependent.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen048"
+    "question_id": "cbse_xii_leph1dd_c102_gen048",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "True or False: When bringing a unit positive test charge from infinity to a point near a negative point charge, the work done by the electrostatic force is positive.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen049"
+    "question_id": "cbse_xii_leph1dd_c102_gen049",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "A point charge Q = 4 × 10⁻⁷ C is located at the origin. Calculate the electric potential V at a point located 9 cm from the charge.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen050"
+    "question_id": "cbse_xii_leph1dd_c102_gen050",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "Using the potential calculated in the previous problem, determine the work done in bringing a charge of 2 × 10⁻⁹ C from infinity to the point 9 cm from the charge.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen051"
+    "question_id": "cbse_xii_leph1dd_c102_gen051",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "A point charge Q = 3 × 10⁻⁷ C creates an electric potential of 20000 V at a point. Calculate the distance r from the charge where this potential is observed.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen052"
+    "question_id": "cbse_xii_leph1dd_c102_gen052",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "A point charge of 5 × 10⁻⁷ C is placed at the origin. Calculate the electric potential difference between two points, one at 0.05 m and the other at 0.15 m from the charge.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen053"
+    "question_id": "cbse_xii_leph1dd_c102_gen053",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   },
   {
     "question_text": "A point charge of 3 × 10⁻⁷ C produces a potential V at a distance r. If the potential is measured as 60000 V, derive an expression to calculate r and compute its value.",
@@ -241,6 +256,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_xii_leph1dd_c102_gen054"
+    "question_id": "cbse_xii_leph1dd_c102_gen054",
+    "section_name": "2.3 POTENTIAL DUE TO A POINT CHARGE"
   }
 ]

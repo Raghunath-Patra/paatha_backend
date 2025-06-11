@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "5.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "5.2 THE BAR MAGNET"
+    },
+    {
+      "number": 3,
+      "name": "5.3 MAGNETISM AND GAUSS'S LAW"
+    },
+    {
+      "number": 4,
+      "name": "5.4 MAGNETISATION AND MAGNETIC INTENSITY"
+    },
+    {
+      "number": 5,
+      "name": "5.5 MAGNETIC PROPERTIES OF MATERIALS"
+    }
+  ]
+}

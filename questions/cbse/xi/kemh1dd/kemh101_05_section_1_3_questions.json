@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen027"
+    "question_id": "cbse_xi_kemh1dd_c101_gen027",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Which of the following sets is an example of an empty set based on the given definitions?\n\nA = { x : x is an even prime number greater than 2 }\nB = { x : x^2 = 4 and x is odd }\nC = { x : 1 < x < 2, where x is a natural number }\nD = { x : x is a student presently studying in Class XI }",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen028"
+    "question_id": "cbse_xi_kemh1dd_c101_gen028",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Consider the set B = { x : x is a student presently studying in both Classes X and XI } as defined in the textbook. Which of the following statements is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen029"
+    "question_id": "cbse_xi_kemh1dd_c101_gen029",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Define an empty set in your own words.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen030"
+    "question_id": "cbse_xi_kemh1dd_c101_gen030",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Explain why the set D = { x : x² = 4, where x is odd } is an empty set.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen031"
+    "question_id": "cbse_xi_kemh1dd_c101_gen031",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Provide an example of an empty set that is not mentioned in the textbook section and justify why it is empty.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen032"
+    "question_id": "cbse_xi_kemh1dd_c101_gen032",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Prove that the set B = { x : x is a student presently studying in both Classes X and XI } is an empty set. Provide a detailed explanation based on the properties of classes.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen033"
+    "question_id": "cbse_xi_kemh1dd_c101_gen033",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Discuss why the set A = { x : 1 < x < 2, where x is a natural number } is empty even though the inequality 1 < x < 2 has solutions in the real numbers.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen034"
+    "question_id": "cbse_xi_kemh1dd_c101_gen034",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "A school records that there are 40 students in Class XI. If set A is defined as the set of students in Class XI and set B is defined as the set of students enrolled in both Class X and Class XI, find the number of elements in each set.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen035"
+    "question_id": "cbse_xi_kemh1dd_c101_gen035",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Determine whether the set E = { x : x² – 2 = 0 and x is a rational number } is empty. Provide a step-by-step justification.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen036"
+    "question_id": "cbse_xi_kemh1dd_c101_gen036",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Let F = { x : x divides 6 and x is an odd integer }. List all the elements in F and determine its cardinality.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen037"
+    "question_id": "cbse_xi_kemh1dd_c101_gen037",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Calculate the cardinality of the empty set and explain why the result holds true.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen038"
+    "question_id": "cbse_xi_kemh1dd_c101_gen038",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "Consider the set J = { x : x is a prime number less than 10 }. Find the elements of J and compute its cardinality.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen039"
+    "question_id": "cbse_xi_kemh1dd_c101_gen039",
+    "section_name": "1.3 The Empty Set"
   },
   {
     "question_text": "If a teacher mistakenly creates the set K = { x : x is an even prime number } and then later refines it to L = { x : x is an even prime number greater than 2 }, find the cardinality of both sets and explain the difference.",
@@ -208,6 +221,7 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xi_kemh1dd_c101_gen040"
+    "question_id": "cbse_xi_kemh1dd_c101_gen040",
+    "section_name": "1.3 The Empty Set"
   }
 ]

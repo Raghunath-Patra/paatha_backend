@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen014"
+    "question_id": "cbse_x_jemh1dd_c111_gen014",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "Which formula correctly represents the area of a sector of a circle with radius r and central angle θ in degrees?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen015"
+    "question_id": "cbse_x_jemh1dd_c111_gen015",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "The area of a segment of a circle is given by the difference between the area of a sector and what other area?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen016"
+    "question_id": "cbse_x_jemh1dd_c111_gen016",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "If the length of an arc is computed as (θ/360) × 2πr, what is the arc length when r = 5 and θ = 60°?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen017"
+    "question_id": "cbse_x_jemh1dd_c111_gen017",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "Define 'arc length' and explain how it is related to the circumference of a circle.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen018"
+    "question_id": "cbse_x_jemh1dd_c111_gen018",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "Explain why the area of a segment of a circle is found by subtracting the area of the triangle from the area of the corresponding sector.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen019"
+    "question_id": "cbse_x_jemh1dd_c111_gen019",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "State the formulas for the length of an arc and the area of a sector of a circle in your own words.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen020"
+    "question_id": "cbse_x_jemh1dd_c111_gen020",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "Derive the formula for the area of a segment of a circle, starting from the formulas for the area of a sector and the area of the corresponding triangle.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen021"
+    "question_id": "cbse_x_jemh1dd_c111_gen021",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "Prove that when the central angle θ is 180°, the area of the sector is half the area of the circle.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen022"
+    "question_id": "cbse_x_jemh1dd_c111_gen022",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "A circle has a radius of 7 units. Find the length of an arc corresponding to a central angle of 45°. Provide a complete step-by-step solution.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen023"
+    "question_id": "cbse_x_jemh1dd_c111_gen023",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "Calculate the area of a sector with a radius of 10 units and a central angle of 120°. Show all your working steps.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen024"
+    "question_id": "cbse_x_jemh1dd_c111_gen024",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "A circle has a radius of 9 units. A chord creates a segment such that the corresponding sector has a central angle of 80°. Compute both the area of the sector and then the area of the segment if the area of the triangle in the sector is 16 square units. Provide a complete solution.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen025"
+    "question_id": "cbse_x_jemh1dd_c111_gen025",
+    "section_name": "11.2 Summary"
   },
   {
     "question_text": "Determine the central angle (in degrees) of a sector if the area of the sector is 50 square units and the circle has a radius of 5 units. Provide detailed calculations.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_x_jemh1dd_c111_gen026"
+    "question_id": "cbse_x_jemh1dd_c111_gen026",
+    "section_name": "11.2 Summary"
   }
 ]

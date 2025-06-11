@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen040"
+    "question_id": "cbse_x_jemh1dd_c102_gen040",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "What is the maximum number of zeroes a quadratic polynomial can have?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen041"
+    "question_id": "cbse_x_jemh1dd_c102_gen041",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "For a cubic polynomial p(x) = ax³ + bx² + cx + d with zeroes α, β, and γ, what is the value of αβγ in terms of the coefficients?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen042"
+    "question_id": "cbse_x_jemh1dd_c102_gen042",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "Let p(x) = ax² + bx + c (with a ≠ 0). Which relationship correctly expresses the connection between its zeroes α, β and the coefficients?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen043"
+    "question_id": "cbse_x_jemh1dd_c102_gen043",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "Define a quadratic polynomial.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen044"
+    "question_id": "cbse_x_jemh1dd_c102_gen044",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "State the relationships between the zeroes of a quadratic polynomial and its coefficients.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen045"
+    "question_id": "cbse_x_jemh1dd_c102_gen045",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "Explain what is meant by the zeroes of a polynomial.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen046"
+    "question_id": "cbse_x_jemh1dd_c102_gen046",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "State the relationships between the zeroes of a cubic polynomial and its coefficients.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen047"
+    "question_id": "cbse_x_jemh1dd_c102_gen047",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "Derive the expressions for the sum and product of the zeroes of a quadratic polynomial of the form ax² + bx + c (with a ≠ 0).",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen048"
+    "question_id": "cbse_x_jemh1dd_c102_gen048",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "Prove that if a cubic polynomial ax³ + bx² + cx + d (with a ≠ 0) has roots α, β, and γ, then the sum of the products of the roots taken two at a time is c/a.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen049"
+    "question_id": "cbse_x_jemh1dd_c102_gen049",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "For the quadratic polynomial 2x² - 8x + 6 = 0, use Vieta's formulas to find the sum and product of its zeroes.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen050"
+    "question_id": "cbse_x_jemh1dd_c102_gen050",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "If α and β are the zeroes of the quadratic polynomial 3x² + kx - 5 = 0, and it is given that α + β = 2, find the value of k.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen051"
+    "question_id": "cbse_x_jemh1dd_c102_gen051",
+    "section_name": "2.4 Summary"
   },
   {
     "question_text": "Given the cubic polynomial x³ - 6x² + 11x - 6 = 0, verify Vieta’s formulas by calculating (i) the sum of the zeroes, (ii) the sum of the products of the zeroes taken two at a time, and (iii) the product of the zeroes.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_x_jemh1dd_c102_gen052"
+    "question_id": "cbse_x_jemh1dd_c102_gen052",
+    "section_name": "2.4 Summary"
   }
 ]

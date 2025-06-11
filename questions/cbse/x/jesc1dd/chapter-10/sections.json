@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "10.1 THE HUMAN EYE"
+    },
+    {
+      "number": 2,
+      "name": "10.2 DEFECTS OF VISION AND THEIR CORRECTION"
+    },
+    {
+      "number": 3,
+      "name": "10.3 REFRACTION OF LIGHT THROUGH A PRISM"
+    },
+    {
+      "number": 4,
+      "name": "10.4 DISPERSION OF WHITE LIGHT BY A GLASS PRISM"
+    },
+    {
+      "number": 5,
+      "name": "10.5 ATMOSPHERIC REFRACTION"
+    },
+    {
+      "number": 6,
+      "name": "10.6 SCATTERING OF LIGHT"
+    }
+  ]
+}

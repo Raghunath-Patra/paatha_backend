@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen013"
+    "question_id": "cbse_xii_lemh2dd_c205_gen013",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "If a directed line in space has direction cosines l, m, and n, which of the following equations always holds true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen014"
+    "question_id": "cbse_xii_lemh2dd_c205_gen014",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Given a line with direction ratios a, b, and c, which of the following formulas correctly gives its direction cosines?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen015"
+    "question_id": "cbse_xii_lemh2dd_c205_gen015",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "When the direction of a line is reversed, what happens to its direction cosines?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen016"
+    "question_id": "cbse_xii_lemh2dd_c205_gen016",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Define 'direction cosines' for a directed line in three-dimensional space.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen017"
+    "question_id": "cbse_xii_lemh2dd_c205_gen017",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "State the relationship between a line’s direction cosines and its direction ratios.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen018"
+    "question_id": "cbse_xii_lemh2dd_c205_gen018",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Explain how to find the direction cosines of a line passing through two points P(x₁, y₁, z₁) and Q(x₂, y₂, z₂).",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen019"
+    "question_id": "cbse_xii_lemh2dd_c205_gen019",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "What advantage does drawing a line through the origin, parallel to a given line not passing through the origin, offer when computing direction cosines?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen020"
+    "question_id": "cbse_xii_lemh2dd_c205_gen020",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Prove that for any directed line in space with direction cosines l, m, n, the identity l² + m² + n² = 1 holds true.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen021"
+    "question_id": "cbse_xii_lemh2dd_c205_gen021",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Derive the formula for the direction cosines of a line given its direction ratios a, b, and c.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen022"
+    "question_id": "cbse_xii_lemh2dd_c205_gen022",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Determine the direction cosines of a line that makes angles 90°, 60°, and 30° with the x-, y-, and z-axes respectively.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen023"
+    "question_id": "cbse_xii_lemh2dd_c205_gen023",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Find the direction cosines of a line with direction ratios 2, -1, -2.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen024"
+    "question_id": "cbse_xii_lemh2dd_c205_gen024",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Find the direction cosines of the line joining the points P(-2, 4, -5) and Q(1, 2, 3).",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen025"
+    "question_id": "cbse_xii_lemh2dd_c205_gen025",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   },
   {
     "question_text": "Show that the points A(2, 3, -4), B(1, -2, 3), and C(3, 8, -11) are collinear using direction ratios.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_lemh2dd_c205_gen026"
+    "question_id": "cbse_xii_lemh2dd_c205_gen026",
+    "section_name": "11.2 Direction Cosines and Direction Ratios of a Line"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen027"
+    "question_id": "cbse_x_jemh1dd_c103_gen027",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "After substituting one variable in the second equation, you end up with an identity (e.g., 18 = 18). What does this indicate about the system of equations?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen028"
+    "question_id": "cbse_x_jemh1dd_c103_gen028",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Two rails are represented by the equations: x + 2y – 4 = 0 and 2x + 4y – 12 = 0. What is the nature of their intersection?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen029"
+    "question_id": "cbse_x_jemh1dd_c103_gen029",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "In the age problem—'Seven years ago, I was seven times as old as you' and 'Three years from now, I shall be three times as old as you'—which variable is more convenient to express in terms of the other to use the substitution method?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen030"
+    "question_id": "cbse_x_jemh1dd_c103_gen030",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Define the substitution method in solving a pair of linear equations.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen031"
+    "question_id": "cbse_x_jemh1dd_c103_gen031",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Explain why the substitution method is particularly useful for solving linear equations that have non-integral solutions.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen032"
+    "question_id": "cbse_x_jemh1dd_c103_gen032",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Under what circumstances does the substitution method yield infinitely many solutions for a pair of linear equations?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen033"
+    "question_id": "cbse_x_jemh1dd_c103_gen033",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Solve the following system of linear equations using the substitution method: 5x – 3y = 7 and 2x + y = 6.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen034"
+    "question_id": "cbse_x_jemh1dd_c103_gen034",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Demonstrate why obtaining an identity (such as 18 = 18) during the substitution process implies that the system of equations has infinitely many solutions. Support your answer with a brief proof using an example.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen035"
+    "question_id": "cbse_x_jemh1dd_c103_gen035",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Solve the system of equations using the substitution method: 7x – 15y = 2 and x + 2y = 3.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen036"
+    "question_id": "cbse_x_jemh1dd_c103_gen036",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Aftab tells his daughter, 'Seven years ago, I was seven times as old as you' and 'Three years from now, I shall be three times as old as you.' Determine their current ages using the substitution method.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen037"
+    "question_id": "cbse_x_jemh1dd_c103_gen037",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "In a shop, the cost of 2 pencils and 3 erasers is ₹9, and the cost of 4 pencils and 6 erasers is ₹18. Find the cost of each pencil and each eraser, and explain the nature of the solution obtained.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen038"
+    "question_id": "cbse_x_jemh1dd_c103_gen038",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Determine if the following pair of equations representing two rails intersect: x + 2y – 4 = 0 and 2x + 4y – 12 = 0, using the substitution method.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen039"
+    "question_id": "cbse_x_jemh1dd_c103_gen039",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   }
 ]

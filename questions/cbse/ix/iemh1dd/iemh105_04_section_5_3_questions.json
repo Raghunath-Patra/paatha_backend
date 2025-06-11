@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen031"
+    "question_id": "cbse_ix_iemh1dd_c105_gen031",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Which of the following is NOT one of Euclid’s axioms as listed in the section?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen032"
+    "question_id": "cbse_ix_iemh1dd_c105_gen032",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Which of Euclid’s postulates states that a circle can be drawn with any centre and any radius?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen033"
+    "question_id": "cbse_ix_iemh1dd_c105_gen033",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "According to Theorem 5.1, what is the maximum number of points in common that two distinct lines can have?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen034"
+    "question_id": "cbse_ix_iemh1dd_c105_gen034",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Define the term 'undefined term' in modern geometry and provide an example.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen035"
+    "question_id": "cbse_ix_iemh1dd_c105_gen035",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Explain the difference between an axiom and a theorem in the context of Euclidean geometry.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen036"
+    "question_id": "cbse_ix_iemh1dd_c105_gen036",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Briefly describe Euclid’s Postulate 2 and discuss its significance in the construction of geometric figures.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen037"
+    "question_id": "cbse_ix_iemh1dd_c105_gen037",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Discuss the significance of Theorem 5.1, which states that two distinct lines cannot have more than one point in common.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen038"
+    "question_id": "cbse_ix_iemh1dd_c105_gen038",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Using Euclid's Axiom 2 (\"If equals are added to equals, the wholes are equal\"), prove that if a = b and c = d, then a + c = b + d. Provide a step-by-step proof.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen039"
+    "question_id": "cbse_ix_iemh1dd_c105_gen039",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Discuss and evaluate the role of Euclid's axioms and postulates in laying the foundation for modern geometry. Explain how the acceptance of undefined terms (e.g., point, line, and plane) contributes to the logical structure and rigor of geometric proofs.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen040"
+    "question_id": "cbse_ix_iemh1dd_c105_gen040",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "A line segment of length 7 units is extended by an additional segment equal in length to the original segment. What is the new total length of the line?",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen041"
+    "question_id": "cbse_ix_iemh1dd_c105_gen041",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "According to Euclid’s Postulate 3, a circle can be drawn with any centre and radius. Given a circle with a radius of 5 units, calculate its circumference.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen042"
+    "question_id": "cbse_ix_iemh1dd_c105_gen042",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Two line segments of lengths 8 units and 3 units are given. If an equal segment of length 4 units is added to each, determine the resulting sums and state whether they are equal.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen043"
+    "question_id": "cbse_ix_iemh1dd_c105_gen043",
+    "section_name": "5.3 Summary"
   },
   {
     "question_text": "Based on Euclid’s Axiom 7, which states that halves of the same thing are equal, suppose the half of segment AB is 6 units. If another segment CD is equal in total length to AB, what is the length of the half of CD?",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_ix_iemh1dd_c105_gen044"
+    "question_id": "cbse_ix_iemh1dd_c105_gen044",
+    "section_name": "5.3 Summary"
   }
 ]

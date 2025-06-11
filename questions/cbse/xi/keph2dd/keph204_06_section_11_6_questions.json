@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen096"
+    "question_id": "cbse_xi_keph2dd_c204_gen096",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Which of the following is the correct unit for molar specific heat capacity?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen097"
+    "question_id": "cbse_xi_keph2dd_c204_gen097",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "For an ideal gas, which relation between the molar specific heats at constant pressure (Cp) and constant volume (Cv) is correct?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen098"
+    "question_id": "cbse_xi_keph2dd_c204_gen098",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Based on the equipartition theorem, what is the predicted molar specific heat capacity for a solid at room temperature?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen099"
+    "question_id": "cbse_xi_keph2dd_c204_gen099",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "How does the specific heat capacity of water vary with temperature between 0°C and 100°C?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen100"
+    "question_id": "cbse_xi_keph2dd_c204_gen100",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Define specific heat capacity and state its unit in SI.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen101"
+    "question_id": "cbse_xi_keph2dd_c204_gen101",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Describe how the heat capacity per mole of a substance is defined from the heat capacity per mass.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen102"
+    "question_id": "cbse_xi_keph2dd_c204_gen102",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Explain why the molar specific heat capacity of solids is approximately equal to 3R at ordinary temperatures.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen103"
+    "question_id": "cbse_xi_keph2dd_c204_gen103",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Derive the relation Cp - Cv = R for one mole of an ideal gas using the first law of thermodynamics and the ideal gas law.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen104"
+    "question_id": "cbse_xi_keph2dd_c204_gen104",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Discuss why predictions of molar specific heat capacities using the equipartition theorem may break down at low temperatures for solids.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen105"
+    "question_id": "cbse_xi_keph2dd_c204_gen105",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: The specific heat capacity of water remains constant over the temperature range 0°C to 100°C.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen106"
+    "question_id": "cbse_xi_keph2dd_c204_gen106",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: For an ideal gas, the internal energy depends only on the temperature regardless of the volume or pressure conditions.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen107"
+    "question_id": "cbse_xi_keph2dd_c204_gen107",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Calculate the energy required to raise the temperature of 2 kg of water from 20°C to 25°C. Use the specific heat capacity of water as 4186 J/(kg·K).",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen108"
+    "question_id": "cbse_xi_keph2dd_c204_gen108",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A solid has a specific heat capacity of 900 J/(kg·K). Determine the amount of heat needed to raise the temperature of 5 kg of this solid by 10°C.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen109"
+    "question_id": "cbse_xi_keph2dd_c204_gen109",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Using the equipartition theorem, calculate the total internal energy for 1 mole of atoms in a solid at 300 K. Assume R = 8.314 J/(mol·K).",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen110"
+    "question_id": "cbse_xi_keph2dd_c204_gen110",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "For 1 mole of an ideal gas with a molar specific heat capacity at constant volume, Cv, equal to 20 J/(mol·K), determine the molar specific heat capacity at constant pressure, Cp, and calculate the heat required to raise its temperature by 10 K at constant pressure.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "06_section_11_6",
-    "question_id": "cbse_xi_keph2dd_c204_gen111"
+    "question_id": "cbse_xi_keph2dd_c204_gen111",
+    "section_name": "11.6 SPECIFIC HEAT CAPACITY"
   }
 ]

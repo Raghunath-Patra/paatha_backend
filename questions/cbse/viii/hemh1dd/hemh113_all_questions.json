@@ -107,7 +107,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen013"
+    "question_id": "cbse_viii_hemh1dd_c113_gen013",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Why does the graph of the cost versus litres of petrol pass through the origin?",
@@ -126,7 +127,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen014"
+    "question_id": "cbse_viii_hemh1dd_c113_gen014",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Consider a modified petrol pricing scenario where a fixed service charge is added to the total cost. Which statement best describes the graph of cost vs. litres in this case?",
@@ -145,7 +147,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen015"
+    "question_id": "cbse_viii_hemh1dd_c113_gen015",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "According to the principal and simple interest example, if a senior citizen wishes to earn an annual interest of ₹70 at a 10% rate, what deposit should be made?",
@@ -164,7 +167,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen016"
+    "question_id": "cbse_viii_hemh1dd_c113_gen016",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Define the terms 'independent variable' and 'dependent variable' in your own words based on their usage in everyday applications like electricity billing.",
@@ -178,7 +182,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen017"
+    "question_id": "cbse_viii_hemh1dd_c113_gen017",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Explain why a graph representing direct variation is always a straight line.",
@@ -192,7 +197,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen018"
+    "question_id": "cbse_viii_hemh1dd_c113_gen018",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Using the time-distance graph concept, describe the procedure to determine the time taken to cover a specific distance.",
@@ -206,7 +212,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen019"
+    "question_id": "cbse_viii_hemh1dd_c113_gen019",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "What does 'direct variation' mean? Provide an example from everyday life to illustrate your explanation.",
@@ -220,7 +227,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen020"
+    "question_id": "cbse_viii_hemh1dd_c113_gen020",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Derive the equation of the line representing the cost of petrol based on this table:\n\nNo. of Litres: 10, 15, 20, 25\nCost (in ₹): 500, 750, 1000, 1250\n\nShow all steps and explain why the graph is linear.",
@@ -234,7 +242,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen021"
+    "question_id": "cbse_viii_hemh1dd_c113_gen021",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "For a bank deposit scenario where senior citizens earn a 10% simple interest per annum, derive the general formula linking the deposit amount (P) and the simple interest (SI). Draw a conceptual graph to explain why the relationship indicates direct variation.",
@@ -248,7 +257,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen022"
+    "question_id": "cbse_viii_hemh1dd_c113_gen022",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Ajit rides his scooter at a constant speed of 30 km/hr. Analyze and explain how the distance covered is a linear function of time. Include a graphical representation in your explanation and state any assumptions made.",
@@ -262,7 +272,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen023"
+    "question_id": "cbse_viii_hemh1dd_c113_gen023",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Using the petrol cost table (10 litres = ₹500, 15 litres = ₹750, 20 litres = ₹1000, 25 litres = ₹1250), calculate the amount payable for 12 litres of petrol.",
@@ -276,7 +287,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen024"
+    "question_id": "cbse_viii_hemh1dd_c113_gen024",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "For a deposit of ₹350 in a bank offering 10% simple interest per annum, compute the annual simple interest earned.",
@@ -290,7 +302,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen025"
+    "question_id": "cbse_viii_hemh1dd_c113_gen025",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Ajit rides his scooter at a constant speed of 30 km/hr. Calculate the distance he covers in 2 hours and 45 minutes.",
@@ -304,7 +317,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen026"
+    "question_id": "cbse_viii_hemh1dd_c113_gen026",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "At a petrol pump, aside from the cost per litre, a fixed service fee of ₹50 is added to the total transaction. If the cost per litre remains at ₹50, write the modified equation for the total cost (C) in terms of the number of litres (L) and then calculate the cost for 20 litres.",
@@ -318,7 +332,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_viii_hemh1dd_c113_gen027"
+    "question_id": "cbse_viii_hemh1dd_c113_gen027",
+    "section_name": "13.2 Some Applications"
   },
   {
     "question_text": "Draw the graph for the following table of values showing the cost of apples. Use a suitable scale on the axes.\n\nNumber of apples: 1, 2, 3, 4, 5\nCost (in ₹): 5, 10, 15, 20, 25\n\nPlot the points and join them to form the graph.",
@@ -389,7 +404,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen001"
+    "question_id": "cbse_viii_hemh1dd_c113_gen001",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "In the line graph that compares the total runs scored by batsmen A and B over 10 matches, what does the horizontal (x) axis represent?",
@@ -408,7 +424,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen002"
+    "question_id": "cbse_viii_hemh1dd_c113_gen002",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Looking at a car travel line graph, if there is a horizontal line segment over a time period, what does this indicate about the car's movement during that interval?",
@@ -427,7 +444,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen003"
+    "question_id": "cbse_viii_hemh1dd_c113_gen003",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Define a line graph and describe its typical components.",
@@ -441,7 +459,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen004"
+    "question_id": "cbse_viii_hemh1dd_c113_gen004",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Explain why a graphical representation of data is often preferred over a tabular form when depicting trends.",
@@ -455,7 +474,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen005"
+    "question_id": "cbse_viii_hemh1dd_c113_gen005",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "In the time-temperature graph where temperature was recorded at 6 a.m., 10 a.m., 2 p.m., and 6 p.m., explain how you can infer that the temperature at 8 a.m. must have been more than 37°C, even though it was not directly recorded.",
@@ -469,7 +489,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen006"
+    "question_id": "cbse_viii_hemh1dd_c113_gen006",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Based on the line graph of batsmen A and B's performance over 10 matches, analyze their consistency and performance trends. Consider their peaks, valleys, and any match where their scores were equal.",
@@ -483,7 +504,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen007"
+    "question_id": "cbse_viii_hemh1dd_c113_gen007",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Examine the line graph that illustrates a car's journey from City P to City Q. Provide a comprehensive analysis of the car's speed variability throughout the journey, using the distances covered in consecutive hours and any periods of stoppage as evidence.",
@@ -497,7 +519,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen008"
+    "question_id": "cbse_viii_hemh1dd_c113_gen008",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "A time-temperature graph shows the following data: 7 a.m. – 36°C, 11 a.m. – 39°C, 3 p.m. – 38°C, and 7 p.m. – 34°C. Calculate (a) the temperature change between 7 a.m. and 11 a.m., and (b) the temperature change between 3 p.m. and 7 p.m.",
@@ -511,7 +534,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen009"
+    "question_id": "cbse_viii_hemh1dd_c113_gen009",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "A car travels from City P to City Q, which are 400 km apart. The distance from City P is recorded as follows: 8 a.m. – 0 km; 9 a.m. – 60 km; 10 a.m. – 140 km; 11 a.m. – 180 km; 12 p.m. – 180 km; 1 p.m. – 250 km; 2 p.m. – 400 km. Determine the distance covered during each consecutive hour and identify any period when the car stopped.",
@@ -525,7 +549,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen010"
+    "question_id": "cbse_viii_hemh1dd_c113_gen010",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "For a player whose performance over 12 matches can be modeled as follows: his score increases steadily by 5 runs per match until the 6th match, where he scores 50 runs; thereafter, his score decreases by 10 runs per match. Determine his score in the 10th match.",
@@ -539,7 +564,8 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen011"
+    "question_id": "cbse_viii_hemh1dd_c113_gen011",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Consider a graph representing temperatures recorded every 3 hours in a day with the values: 6 a.m. – 32°F, 9 a.m. – 35°F, 12 p.m. – 40°F, 3 p.m. – 42°F, 6 p.m. – 38°F, 9 p.m. – 36°F. Identify the time when the maximum temperature occurred and calculate the time difference (in hours) between the occurrence of the maximum and the minimum temperature.",
@@ -553,6 +579,7 @@
     "source": "generated",
     "chapter_id": "hemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_viii_hemh1dd_c113_gen012"
+    "question_id": "cbse_viii_hemh1dd_c113_gen012",
+    "section_name": "13.1 Introduction"
   }
 ]

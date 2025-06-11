@@ -146,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen046"
+    "question_id": "cbse_x_jemh1dd_c101_gen046",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "If a prime p divides a² for some positive integer a, which one of the following is true?",
@@ -165,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen047"
+    "question_id": "cbse_x_jemh1dd_c101_gen047",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Which formula correctly expresses the LCM of three positive numbers p, q, and r in terms of p, q, r, and their HCF’s?",
@@ -184,7 +186,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen048"
+    "question_id": "cbse_x_jemh1dd_c101_gen048",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "State the Fundamental Theorem of Arithmetic and explain its significance in number theory.",
@@ -198,7 +201,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen049"
+    "question_id": "cbse_x_jemh1dd_c101_gen049",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Define a prime number and explain why the number 1 is not considered prime.",
@@ -212,7 +216,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen050"
+    "question_id": "cbse_x_jemh1dd_c101_gen050",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "State and explain the property: 'If p is a prime and p divides a², then p divides a' using an example for clarity.",
@@ -226,7 +231,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen051"
+    "question_id": "cbse_x_jemh1dd_c101_gen051",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Prove that √2 is irrational using the method of contradiction.",
@@ -240,7 +246,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen052"
+    "question_id": "cbse_x_jemh1dd_c101_gen052",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Prove that √3 is irrational by assuming it can be written in lowest terms as a fraction p/q and deriving a contradiction.",
@@ -254,7 +261,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen053"
+    "question_id": "cbse_x_jemh1dd_c101_gen053",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Factorise the composite number 84 into its prime factors and verify the uniqueness of the factorisation.",
@@ -268,7 +276,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen054"
+    "question_id": "cbse_x_jemh1dd_c101_gen054",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Given the numbers 48, 180, and 210, calculate the HCF and LCM using the relationships provided and verify that HCF(p, q, r) × LCM(p, q, r) ≠ p × q × r.",
@@ -282,7 +291,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen055"
+    "question_id": "cbse_x_jemh1dd_c101_gen055",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "For the numbers 8, 12, and 20, compute HCF(p, q, r) and LCM(p, q, r) using the formulas: LCM = [p×q×r×HCF(p, q, r)] / [HCF(p, q)×HCF(q, r)×HCF(p, r)] and HCF = [p×q×r×LCM(p, q, r)] / [LCM(p, q)×LCM(q, r)×LCM(p, r)].",
@@ -296,7 +306,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen056"
+    "question_id": "cbse_x_jemh1dd_c101_gen056",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Which of the following best states Euclid’s division algorithm?",
@@ -315,7 +326,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen001"
+    "question_id": "cbse_x_jemh1dd_c101_gen001",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which theorem explains that every composite number can be expressed as a product of primes in a unique way?",
@@ -334,7 +346,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen002"
+    "question_id": "cbse_x_jemh1dd_c101_gen002",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "A rational number p/q will have a terminating decimal expansion if and only if the prime factorization of the denominator (after simplification) contains which of the following primes exclusively?",
@@ -353,7 +366,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen003"
+    "question_id": "cbse_x_jemh1dd_c101_gen003",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which of the following applications is NOT directly associated with the Fundamental Theorem of Arithmetic as discussed in the section?",
@@ -372,7 +386,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen004"
+    "question_id": "cbse_x_jemh1dd_c101_gen004",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Define Euclid’s division algorithm in your own words.",
@@ -386,7 +401,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen005"
+    "question_id": "cbse_x_jemh1dd_c101_gen005",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "State the Fundamental Theorem of Arithmetic.",
@@ -400,7 +416,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen006"
+    "question_id": "cbse_x_jemh1dd_c101_gen006",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Describe the condition under which a rational number p/q will have a terminating decimal expansion based on the prime factorization of q.",
@@ -414,7 +431,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen007"
+    "question_id": "cbse_x_jemh1dd_c101_gen007",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Explain how Euclid's division algorithm can be used to compute the Highest Common Factor (HCF) of two positive integers.",
@@ -428,7 +446,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen008"
+    "question_id": "cbse_x_jemh1dd_c101_gen008",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Prove that the square root of 2 (√2) is irrational using the concept of unique prime factorization.",
@@ -442,7 +461,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen009"
+    "question_id": "cbse_x_jemh1dd_c101_gen009",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Discuss the various applications of Euclid's division algorithm, including its role in computing the HCF of two numbers.",
@@ -456,7 +476,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen010"
+    "question_id": "cbse_x_jemh1dd_c101_gen010",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Use Euclid’s division algorithm to find the remainder when 123 is divided by 7.",
@@ -470,7 +491,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen011"
+    "question_id": "cbse_x_jemh1dd_c101_gen011",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Find the Highest Common Factor (HCF) of 56 and 98 using the Euclid's division algorithm.",
@@ -484,7 +506,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen012"
+    "question_id": "cbse_x_jemh1dd_c101_gen012",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Express 180 as a product of its prime factors.",
@@ -498,7 +521,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen013"
+    "question_id": "cbse_x_jemh1dd_c101_gen013",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Determine whether the decimal expansion of the rational number 7/28 is terminating or repeating. Justify your answer using prime factorization.",
@@ -512,7 +536,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen014"
+    "question_id": "cbse_x_jemh1dd_c101_gen014",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Find the HCF of 144 and 60 using Euclid’s division algorithm.",
@@ -526,7 +551,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen015"
+    "question_id": "cbse_x_jemh1dd_c101_gen015",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "A rational number is expressed as 17/250. Determine whether its decimal expansion terminates or repeats, and explain your reasoning using prime factorization.",
@@ -540,7 +566,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen016"
+    "question_id": "cbse_x_jemh1dd_c101_gen016",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which of the following best states the Fundamental Theorem of Arithmetic?",
@@ -559,7 +586,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen017"
+    "question_id": "cbse_x_jemh1dd_c101_gen017",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "For a number of the form 4ⁿ, where n is a natural number, which prime factor will always appear in its prime factorization?",
@@ -578,7 +606,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen018"
+    "question_id": "cbse_x_jemh1dd_c101_gen018",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Given the prime factorization 32760 = 2³ × 3² × 5 × 7 × 13, which of the following statements is true?",
@@ -597,7 +626,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen019"
+    "question_id": "cbse_x_jemh1dd_c101_gen019",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Which of the following statements about the relationship between HCF and LCM is true?",
@@ -616,7 +646,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen020"
+    "question_id": "cbse_x_jemh1dd_c101_gen020",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Define the Fundamental Theorem of Arithmetic.",
@@ -630,7 +661,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen021"
+    "question_id": "cbse_x_jemh1dd_c101_gen021",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Explain why 4ⁿ never ends with zero for any natural number n.",
@@ -644,7 +676,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen022"
+    "question_id": "cbse_x_jemh1dd_c101_gen022",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "What does it mean when we say the prime factorization of a number is unique apart from the order of factors?",
@@ -658,7 +691,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen023"
+    "question_id": "cbse_x_jemh1dd_c101_gen023",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "What is the significance of Carl Friedrich Gauss in relation to the Fundamental Theorem of Arithmetic?",
@@ -672,7 +706,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen024"
+    "question_id": "cbse_x_jemh1dd_c101_gen024",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Prove that every composite number can be represented as a product of primes. Outline the proof of the Fundamental Theorem of Arithmetic.",
@@ -686,7 +721,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen025"
+    "question_id": "cbse_x_jemh1dd_c101_gen025",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Discuss the uniqueness of prime factorization. Use the example 32760 = 2³ × 3² × 5 × 7 × 13 to illustrate your answer, and explain why the order of the factors does not affect the unique representation.",
@@ -700,7 +736,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen026"
+    "question_id": "cbse_x_jemh1dd_c101_gen026",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Using the Fundamental Theorem of Arithmetic, derive and prove that for any two positive integers a and b, HCF(a, b) × LCM(a, b) = a × b.",
@@ -714,7 +751,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen027"
+    "question_id": "cbse_x_jemh1dd_c101_gen027",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Find the prime factorization of 123456789 and verify that it can be expressed as 3² × 3803 × 3607. Show all the steps involved.",
@@ -728,7 +766,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen028"
+    "question_id": "cbse_x_jemh1dd_c101_gen028",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Using the prime factorization method, calculate the HCF and LCM of the numbers 96 and 404. Provide clear working for each step.",
@@ -742,7 +781,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen029"
+    "question_id": "cbse_x_jemh1dd_c101_gen029",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Find the HCF and LCM of 6, 72, and 120 using the prime factorization method. Show detailed steps of your work.",
@@ -756,7 +796,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen030"
+    "question_id": "cbse_x_jemh1dd_c101_gen030",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "A composite number has the prime factorization 2⁴ × 3² × 5. Determine the total number of positive factors (including 1 and the number itself).",
@@ -770,7 +811,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_x_jemh1dd_c101_gen031"
+    "question_id": "cbse_x_jemh1dd_c101_gen031",
+    "section_name": "1.2 The Fundamental Theorem of Arithmetic"
   },
   {
     "question_text": "Which theorem is used to conclude that if a prime number p divides a² then p must also divide a?",
@@ -789,7 +831,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen032"
+    "question_id": "cbse_x_jemh1dd_c101_gen032",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Which of the following expressions is irrational according to the proofs discussed in the section?",
@@ -808,7 +851,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen033"
+    "question_id": "cbse_x_jemh1dd_c101_gen033",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Which statement is true regarding the sum or product of a rational number and an irrational number?",
@@ -827,7 +871,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen034"
+    "question_id": "cbse_x_jemh1dd_c101_gen034",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "In the context of the proofs presented, which of the following numbers is NOT necessarily irrational?",
@@ -846,7 +891,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen035"
+    "question_id": "cbse_x_jemh1dd_c101_gen035",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Define an irrational number in your own words.",
@@ -860,7 +906,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen036"
+    "question_id": "cbse_x_jemh1dd_c101_gen036",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "State Theorem 1.2 as it relates to divisibility and prime numbers.",
@@ -874,7 +921,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen037"
+    "question_id": "cbse_x_jemh1dd_c101_gen037",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Explain the idea of 'proof by contradiction' as used to prove the irrationality of √2.",
@@ -888,7 +936,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen038"
+    "question_id": "cbse_x_jemh1dd_c101_gen038",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Why does showing that both a and b have a common factor when assuming √2 = a/b lead to a contradiction?",
@@ -902,7 +951,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen039"
+    "question_id": "cbse_x_jemh1dd_c101_gen039",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Prove in detail that √2 is an irrational number using the method of proof by contradiction.",
@@ -916,7 +966,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen040"
+    "question_id": "cbse_x_jemh1dd_c101_gen040",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Prove that √p is irrational for any prime number p.",
@@ -930,7 +981,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen041"
+    "question_id": "cbse_x_jemh1dd_c101_gen041",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Assume that √2 can be expressed as a fraction r/s in lowest terms. Show step-by-step how you deduce that r must be even and how this leads to a contradiction.",
@@ -944,7 +996,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen042"
+    "question_id": "cbse_x_jemh1dd_c101_gen042",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Assume that √3 = a/b with a and b coprime. Derive the contradiction that shows √3 is irrational by detailing the divisibility steps.",
@@ -958,7 +1011,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen043"
+    "question_id": "cbse_x_jemh1dd_c101_gen043",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Given that 3√2 is assumed to be rational and can be expressed as a fraction a/b in lowest terms, show the steps that lead to a contradiction regarding the irrationality of √2.",
@@ -972,7 +1026,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen044"
+    "question_id": "cbse_x_jemh1dd_c101_gen044",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   },
   {
     "question_text": "Assume that 5 - √3 is rational and can be written as a fraction a/b in lowest terms. Use a step-by-step argument to show that this assumption leads to the irrationality of √3, hence a contradiction.",
@@ -986,6 +1041,7 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "04_section_1_3",
-    "question_id": "cbse_x_jemh1dd_c101_gen045"
+    "question_id": "cbse_x_jemh1dd_c101_gen045",
+    "section_name": "1.3 Revisiting Irrational Numbers"
   }
 ]

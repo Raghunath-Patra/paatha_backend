@@ -1,0 +1,100 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "6.1 INTRODUCTION"
+    },
+    {
+      "number": 1,
+      "name": "6.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "6.2 CENTRE OF MASS"
+    },
+    {
+      "number": 2,
+      "name": "6.2 CENTRE OF MASS"
+    },
+    {
+      "number": 3,
+      "name": "6.3 MOTION OF CENTRE OF MASS"
+    },
+    {
+      "number": 3,
+      "name": "6.3 MOTION OF CENTRE OF MASS"
+    },
+    {
+      "number": 4,
+      "name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
+    },
+    {
+      "number": 4,
+      "name": "6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES"
+    },
+    {
+      "number": 5,
+      "name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
+    },
+    {
+      "number": 5,
+      "name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
+    },
+    {
+      "number": 6,
+      "name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
+    },
+    {
+      "number": 6,
+      "name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
+    },
+    {
+      "number": 7,
+      "name": "6.7 TORQUE AND ANGULAR MOMENTUM"
+    },
+    {
+      "number": 7,
+      "name": "6.7 TORQUE AND ANGULAR MOMENTUM"
+    },
+    {
+      "number": 8,
+      "name": "6.8 EQUILIBRIUM OF A RIGID BODY"
+    },
+    {
+      "number": 8,
+      "name": "6.8 EQUILIBRIUM OF A RIGID BODY"
+    },
+    {
+      "number": 9,
+      "name": "6.9 MOMENT OF INERTIA"
+    },
+    {
+      "number": 9,
+      "name": "6.9 MOMENT OF INERTIA"
+    },
+    {
+      "number": 10,
+      "name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
+    },
+    {
+      "number": 10,
+      "name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
+    },
+    {
+      "number": 11,
+      "name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
+    },
+    {
+      "number": 11,
+      "name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
+    },
+    {
+      "number": 12,
+      "name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
+    },
+    {
+      "number": 12,
+      "name": "6.12 ANGULAR MOMENTUM IN CASE OF ROTATION ABOUT A FIXED AXIS**"
+    }
+  ]
+}

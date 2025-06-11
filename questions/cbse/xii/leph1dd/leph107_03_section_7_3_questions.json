@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen037"
+    "question_id": "cbse_xii_leph1dd_c107_gen037",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Which statement correctly describes the phasor representation of an ac source connected to a resistor?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen038"
+    "question_id": "cbse_xii_leph1dd_c107_gen038",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "In a resistor circuit, what is the phase difference between the voltage and current phasors?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen039"
+    "question_id": "cbse_xii_leph1dd_c107_gen039",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Which circuit elements typically show a phase difference between voltage and current in ac circuits?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen040"
+    "question_id": "cbse_xii_leph1dd_c107_gen040",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "At any given instant, what do the vertical projections of the rotating phasors V and I represent?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen041"
+    "question_id": "cbse_xii_leph1dd_c107_gen041",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Explain the role of the rotating phasor in representing ac voltage and how its vertical projection relates to the sinusoidal behavior observed in ac circuits.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen042"
+    "question_id": "cbse_xii_leph1dd_c107_gen042",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Describe how the magnitude of a phasor is related to the peak value of the corresponding sinusoidal function in ac circuits.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen043"
+    "question_id": "cbse_xii_leph1dd_c107_gen043",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "How does using a phasor diagram simplify the analysis of ac circuits that include inductors and capacitors compared to directly analyzing the time-varying sinusoidal functions?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen044"
+    "question_id": "cbse_xii_leph1dd_c107_gen044",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Discuss how the phasor method is used to analyze ac circuits containing resistors, inductors, and capacitors. Compare the phase relationships observed between voltage and current in these different types of circuits.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen045"
+    "question_id": "cbse_xii_leph1dd_c107_gen045",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Derive the relationship between the vertical projection of a rotating phasor and the corresponding sinusoidal function, and explain its importance in the context of ac circuit analysis.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen046"
+    "question_id": "cbse_xii_leph1dd_c107_gen046",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Explain how the continuous rotation of a phasor with angular frequency ω results in the generation of a sinusoidal waveform for voltage and current, and describe the role of ω in this process.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen047"
+    "question_id": "cbse_xii_leph1dd_c107_gen047",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "True or False: For a resistor circuit, the voltage and current phasors are always perpendicular to each other.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen048"
+    "question_id": "cbse_xii_leph1dd_c107_gen048",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "True or False: In phasor representation, the magnitude of the phasor equals the peak value of the sinusoidal function it represents.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen049"
+    "question_id": "cbse_xii_leph1dd_c107_gen049",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "True or False: In circuits containing capacitors and inductors, the phase difference between voltage and current is always exactly 90 degrees.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen050"
+    "question_id": "cbse_xii_leph1dd_c107_gen050",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "An ac voltage is represented by a phasor with a peak value of 120 V and rotates with an angular speed of 100 rad/s. Calculate the instantaneous voltage at t = 0.05 s.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen051"
+    "question_id": "cbse_xii_leph1dd_c107_gen051",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "A resistor circuit has an ac voltage with a peak value of 100 V and a corresponding current with a peak value of 2 A. If the voltage is represented by v = 100 sin (ωt) and the resistor ensures that current is in phase with voltage, determine the instantaneous current when ωt = π/6.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen052"
+    "question_id": "cbse_xii_leph1dd_c107_gen052",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "In an inductor circuit where the current is given by i = 1 A sin (ωt) and the voltage leads the current by 90° with a peak voltage of 10 V, write the expression for the instantaneous voltage.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen053"
+    "question_id": "cbse_xii_leph1dd_c107_gen053",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "A phasor rotates with an angular speed of 200 rad/s. Calculate the angular displacement after 0.01 s and then determine the vertical projection (sinusoidal value) if the phasor has an amplitude of 30 units.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen054"
+    "question_id": "cbse_xii_leph1dd_c107_gen054",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   }
 ]

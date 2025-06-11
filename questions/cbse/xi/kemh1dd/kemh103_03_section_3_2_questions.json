@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen013"
+    "question_id": "cbse_xi_kemh1dd_c103_gen013",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "In a unit circle, an arc of length 1 subtends an angle of:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen014"
+    "question_id": "cbse_xi_kemh1dd_c103_gen014",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "How many degrees are there in one complete revolution?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen015"
+    "question_id": "cbse_xi_kemh1dd_c103_gen015",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "Which of the following is the correct conversion of 1° into radians?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen016"
+    "question_id": "cbse_xi_kemh1dd_c103_gen016",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "Define the following terms: initial side, terminal side, and vertex of an angle. Also, state what is meant by a positive angle.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen017"
+    "question_id": "cbse_xi_kemh1dd_c103_gen017",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "Describe the difference between degree measure and radian measure of angles.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen018"
+    "question_id": "cbse_xi_kemh1dd_c103_gen018",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "Explain the relationship between the arc length (l), radius (r), and the angle in radian (θ).",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen019"
+    "question_id": "cbse_xi_kemh1dd_c103_gen019",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "Prove that π radians is equivalent to 180° using the properties of a circle.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen020"
+    "question_id": "cbse_xi_kemh1dd_c103_gen020",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "Derive the conversion formulas from degrees to radians and from radians to degrees. Illustrate your derivation with an example.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen021"
+    "question_id": "cbse_xi_kemh1dd_c103_gen021",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "Convert 40° 20′ into radian measure. Show all your work.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen022"
+    "question_id": "cbse_xi_kemh1dd_c103_gen022",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "Convert 6 radians into degrees with step-by-step explanation.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen023"
+    "question_id": "cbse_xi_kemh1dd_c103_gen023",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "A central angle of 60° in a circle intercepts an arc of length 37.4 cm. Find the radius of the circle using π = 22/7. Show your work.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen024"
+    "question_id": "cbse_xi_kemh1dd_c103_gen024",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "The minute hand of a watch is 1.5 cm long. How far does its tip move in 40 minutes? (Use π = 3.14). Provide all steps.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen025"
+    "question_id": "cbse_xi_kemh1dd_c103_gen025",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "The arcs of equal length in two circles subtend angles of 65° and 110° respectively at the centres. Find the ratio of their radii.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen026"
+    "question_id": "cbse_xi_kemh1dd_c103_gen026",
+    "section_name": "3.2 Angles"
   },
   {
     "question_text": "A rapidly spinning wheel makes 15 revolutions per second. Calculate the angle in radians that the wheel turns in one second.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "03_section_3_2",
-    "question_id": "cbse_xi_kemh1dd_c103_gen027"
+    "question_id": "cbse_xi_kemh1dd_c103_gen027",
+    "section_name": "3.2 Angles"
   }
 ]

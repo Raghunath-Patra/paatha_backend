@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen027"
+    "question_id": "cbse_ix_iesc1dd_c107_gen027",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Consider the following scenarios: (1) A car speeding up on a straight road, (2) A ball thrown vertically upward, (3) A freely falling object, (4) A car moving in city traffic with irregular speed changes. Which scenario best represents uniformly accelerated motion?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen028"
+    "question_id": "cbse_ix_iesc1dd_c107_gen028",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "A bicycle accelerates uniformly from rest to 10 m/s in 20 seconds and then decelerates uniformly to 4 m/s in 4 seconds. What are the acceleration values during the speeding up and slowing down phases, respectively?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen029"
+    "question_id": "cbse_ix_iesc1dd_c107_gen029",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "In which scenario is the acceleration in the direction of the velocity?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen030"
+    "question_id": "cbse_ix_iesc1dd_c107_gen030",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Define acceleration. What is the formula for acceleration in terms of velocity and time?",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen031"
+    "question_id": "cbse_ix_iesc1dd_c107_gen031",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Differentiate between uniformly accelerated motion and non-uniformly accelerated motion.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen032"
+    "question_id": "cbse_ix_iesc1dd_c107_gen032",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Explain why acceleration can be negative and what does a negative acceleration indicate about the motion of an object?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen033"
+    "question_id": "cbse_ix_iesc1dd_c107_gen033",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Discuss two real-world examples that demonstrate acceleration in the direction of motion and acceleration against the direction of motion. Include explanations on how each scenario reflects the principle of acceleration.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen034"
+    "question_id": "cbse_ix_iesc1dd_c107_gen034",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "A bicyclist starts from rest and reaches a velocity of 6 m/s in 30 seconds. Later, the bicyclist applies brakes and reduces the velocity to 4 m/s in 5 seconds. Describe the changes in acceleration during these two intervals and explain what the sign of acceleration signifies in both cases.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen035"
+    "question_id": "cbse_ix_iesc1dd_c107_gen035",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Using the concept of acceleration, analyze the motion of a freely falling object near the Earth's surface. Explain why its acceleration is nearly constant and how this concept applies to everyday observations.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen036"
+    "question_id": "cbse_ix_iesc1dd_c107_gen036",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "True or False: If an object's velocity remains constant along a straight line, its acceleration is zero.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen037"
+    "question_id": "cbse_ix_iesc1dd_c107_gen037",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "True or False: In a scenario where upward direction is considered positive, a ball thrown vertically upward experiences negative acceleration even as it ascends.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen038"
+    "question_id": "cbse_ix_iesc1dd_c107_gen038",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "True or False: Uniform acceleration means that the acceleration always acts in the direction of the object's motion.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen039"
+    "question_id": "cbse_ix_iesc1dd_c107_gen039",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "In a distance–time graph, what quantity is represented on the x–axis?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen040"
+    "question_id": "cbse_ix_iesc1dd_c107_gen040",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "What does the slope of a distance–time graph represent?",
@@ -237,7 +251,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen041"
+    "question_id": "cbse_ix_iesc1dd_c107_gen041",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Consider a car moving with a uniform velocity of 40 km/h. What is the distance traveled by the car in 2 hours as represented by its velocity–time graph?",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen042"
+    "question_id": "cbse_ix_iesc1dd_c107_gen042",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Define 'uniform speed' and describe how it is represented on a distance–time graph.",
@@ -270,7 +286,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen043"
+    "question_id": "cbse_ix_iesc1dd_c107_gen043",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "How can you determine the speed of an object from its distance–time graph? Explain your method briefly.",
@@ -284,7 +301,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen044"
+    "question_id": "cbse_ix_iesc1dd_c107_gen044",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Describe the main differences between a distance–time graph for uniform motion and that for accelerated motion.",
@@ -298,7 +316,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen045"
+    "question_id": "cbse_ix_iesc1dd_c107_gen045",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Explain how displacement can be determined from a velocity–time graph. Illustrate your explanation with examples of both uniform and accelerated motion.",
@@ -312,7 +331,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen046"
+    "question_id": "cbse_ix_iesc1dd_c107_gen046",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "Using the data provided in Activity 7.9, plot a distance–time graph for the train and calculate its average speed between stations A and B, and between B and C. Explain your process and reasoning.",
@@ -326,7 +346,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen047"
+    "question_id": "cbse_ix_iesc1dd_c107_gen047",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "True or False: In a velocity–time graph, a horizontal line indicates that the object is accelerating.",
@@ -340,7 +361,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen048"
+    "question_id": "cbse_ix_iesc1dd_c107_gen048",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "True or False: A curved distance–time graph always indicates that an object is decelerating.",
@@ -354,7 +376,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen049"
+    "question_id": "cbse_ix_iesc1dd_c107_gen049",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "What does the area under a velocity–time graph represent?",
@@ -368,7 +391,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen050"
+    "question_id": "cbse_ix_iesc1dd_c107_gen050",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "If a velocity–time graph for a vehicle shows a triangular region with an area of 150 m during its motion, what does this area represent?",
@@ -387,7 +411,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_ix_iesc1dd_c107_gen051"
+    "question_id": "cbse_ix_iesc1dd_c107_gen051",
+    "section_name": "7.4 Graphical Representation of Motion"
   },
   {
     "question_text": "When will you say a body is in (i) uniform acceleration? (ii) non-uniform acceleration?",
@@ -489,7 +514,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen001"
+    "question_id": "cbse_ix_iesc1dd_c107_gen001",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "When an object returns to its starting point after a journey, what is its displacement?",
@@ -508,7 +534,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen002"
+    "question_id": "cbse_ix_iesc1dd_c107_gen002",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "Which of the following devices measures the total distance traveled by a vehicle?",
@@ -527,7 +554,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen003"
+    "question_id": "cbse_ix_iesc1dd_c107_gen003",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "An object moves from O to A and then back to B along the same straight line, covering a total distance of 85 km, and its magnitude of displacement is 35 km. What does this imply about the object's path?",
@@ -546,7 +574,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen004"
+    "question_id": "cbse_ix_iesc1dd_c107_gen004",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "Define displacement.",
@@ -560,7 +589,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen005"
+    "question_id": "cbse_ix_iesc1dd_c107_gen005",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "Explain the difference between distance and displacement in the context of a journey from point O to point A and then back to point O.",
@@ -574,7 +604,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen006"
+    "question_id": "cbse_ix_iesc1dd_c107_gen006",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "Discuss why the magnitude of displacement can never exceed the distance traveled by an object.",
@@ -588,7 +619,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen007"
+    "question_id": "cbse_ix_iesc1dd_c107_gen007",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "Describe how you would use a metre scale and a long rope to measure both the distance and the magnitude of displacement in a basketball court, as outlined in Activity 7.3.",
@@ -602,7 +634,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen008"
+    "question_id": "cbse_ix_iesc1dd_c107_gen008",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "A car is driven from Bhubaneshwar to New Delhi with an odometer reading of 1850 km. Explain why the straight-line displacement between these cities, as seen on a road map, is significantly less than 1850 km. Discuss the factors affecting this difference.",
@@ -616,7 +649,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen009"
+    "question_id": "cbse_ix_iesc1dd_c107_gen009",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "True or False: Distance is a vector quantity that includes both magnitude and direction.",
@@ -630,7 +664,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen010"
+    "question_id": "cbse_ix_iesc1dd_c107_gen010",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "True or False: If an object returns to its starting position after a journey, its magnitude of displacement is always equal to the total distance traveled.",
@@ -644,7 +679,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen011"
+    "question_id": "cbse_ix_iesc1dd_c107_gen011",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "True or False: In any motion along a straight line, the magnitude of displacement is always less than or equal to the distance covered.",
@@ -658,7 +694,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen012"
+    "question_id": "cbse_ix_iesc1dd_c107_gen012",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "Discuss how the choice of a reference point (origin) can affect the description of an object’s position. Provide examples to illustrate your answer.",
@@ -672,7 +709,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen013"
+    "question_id": "cbse_ix_iesc1dd_c107_gen013",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "What does an odometer measure in a vehicle, and why might this measurement differ from the direct displacement between the start and end points?",
@@ -686,7 +724,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_ix_iesc1dd_c107_gen014"
+    "question_id": "cbse_ix_iesc1dd_c107_gen014",
+    "section_name": "7.1 Describing Motion"
   },
   {
     "question_text": "In Fig. 7.2(a), a scoreboard shows a speed of 143 km/h. What does this value represent?",
@@ -705,7 +744,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen015"
+    "question_id": "cbse_ix_iesc1dd_c107_gen015",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Referring to Fig. 7.2(b), what information is conveyed by a road sign displaying 50 km/h and 40 km/h?",
@@ -724,7 +764,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen016"
+    "question_id": "cbse_ix_iesc1dd_c107_gen016",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "If a car travels 100 km in 2 hours, which of the following represents the correct calculation of its average speed?",
@@ -743,7 +784,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen017"
+    "question_id": "cbse_ix_iesc1dd_c107_gen017",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "When an object moves along a straight line but its speed varies, which of the following formulas is used to determine its average speed?",
@@ -762,7 +804,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen018"
+    "question_id": "cbse_ix_iesc1dd_c107_gen018",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Define the term 'speed' and name its SI unit.",
@@ -776,7 +819,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen019"
+    "question_id": "cbse_ix_iesc1dd_c107_gen019",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "What is the difference between speed and velocity?",
@@ -790,7 +834,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen020"
+    "question_id": "cbse_ix_iesc1dd_c107_gen020",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "How do you calculate the average speed of an object that travels a total distance s in a total time t?",
@@ -804,7 +849,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen021"
+    "question_id": "cbse_ix_iesc1dd_c107_gen021",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Explain how average velocity is calculated when an object moves in a definite direction and how it might differ from average speed.",
@@ -818,7 +864,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen022"
+    "question_id": "cbse_ix_iesc1dd_c107_gen022",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "A car travels 16 m in 4 seconds and then another 16 m in 2 seconds. Explain the process of calculating its average speed and determine the value.",
@@ -832,7 +879,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen023"
+    "question_id": "cbse_ix_iesc1dd_c107_gen023",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Discuss how you would measure the distance to a lightning strike using the time interval between seeing lightning and hearing thunder. Include the necessary formula and any unit conversions.",
@@ -846,7 +894,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen024"
+    "question_id": "cbse_ix_iesc1dd_c107_gen024",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "True or False: Average velocity is always equal to average speed. Provide corrections if the statement is false.",
@@ -860,7 +909,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen025"
+    "question_id": "cbse_ix_iesc1dd_c107_gen025",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "True or False: The formula for average speed (total distance ÷ total time) can be used even if an object’s speed is not constant. If false, correct the statement.",
@@ -874,7 +924,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen026"
+    "question_id": "cbse_ix_iesc1dd_c107_gen026",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Which of the following statements is true about uniform circular motion?",
@@ -893,7 +944,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen064"
+    "question_id": "cbse_ix_iesc1dd_c107_gen064",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "What provides the centripetal force necessary for an object to maintain uniform circular motion when it is whirled on a thread?",
@@ -912,7 +964,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen065"
+    "question_id": "cbse_ix_iesc1dd_c107_gen065",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "When an object moving in a circular path at constant speed is released (i.e., when the centripetal force is removed), what path does it follow?",
@@ -931,7 +984,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen066"
+    "question_id": "cbse_ix_iesc1dd_c107_gen066",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "An athlete runs around a hexagonal track (with 6 equal sides) at uniform speed on the straight sections. How many times does the athlete change direction during one complete lap around the track?",
@@ -950,7 +1004,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen067"
+    "question_id": "cbse_ix_iesc1dd_c107_gen067",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Define 'uniform circular motion'.",
@@ -964,7 +1019,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen068"
+    "question_id": "cbse_ix_iesc1dd_c107_gen068",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "What is centripetal acceleration and how does it relate to the change in an object’s direction during uniform circular motion?",
@@ -978,7 +1034,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen069"
+    "question_id": "cbse_ix_iesc1dd_c107_gen069",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Using the formula v = 2πr/t, calculate the speed of an athlete running around a circular track of radius 50 meters in 80 seconds. Show your working.",
@@ -992,7 +1049,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen070"
+    "question_id": "cbse_ix_iesc1dd_c107_gen070",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Describe the process by which a stone attached to a thread exhibits uniform circular motion and explain what happens when the stone is released. Your answer should include the role of centripetal force and inertia.",
@@ -1006,7 +1064,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen071"
+    "question_id": "cbse_ix_iesc1dd_c107_gen071",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Discuss how increasing the number of sides of a regular polygonal track eventually leads to a circular track. Include in your discussion the impact on the direction changes and the concept of tangential velocity.",
@@ -1020,7 +1079,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen072"
+    "question_id": "cbse_ix_iesc1dd_c107_gen072",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "True or False: An object moving along a circular path at constant speed is not accelerating because its speed is constant.",
@@ -1034,7 +1094,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen073"
+    "question_id": "cbse_ix_iesc1dd_c107_gen073",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "True or False: Once the centripetal force (provided by a tensioned string) is removed from an object in circular motion, the object continues moving along the circular path due to its inertia.",
@@ -1048,7 +1109,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen074"
+    "question_id": "cbse_ix_iesc1dd_c107_gen074",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "State Newton's First Law of Motion and explain how it applies to an object in uniform circular motion when the centripetal force is suddenly removed.",
@@ -1062,7 +1124,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen075"
+    "question_id": "cbse_ix_iesc1dd_c107_gen075",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Explain how the concept of uniform circular motion applies to planetary orbits. Highlight both the similarities and differences between a satellite in a circular orbit and an athlete running on a circular track.",
@@ -1076,7 +1139,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen076"
+    "question_id": "cbse_ix_iesc1dd_c107_gen076",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "An athlete completes one round of a circular track of diameter 200 m in 40 s. What will be the distance covered and the displacement at the end of 2 minutes 20 s?",
@@ -1433,7 +1497,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen052"
+    "question_id": "cbse_ix_iesc1dd_c107_gen052",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Which equation would you use to determine the distance covered by an object in uniformly accelerated motion when the time interval is not known?",
@@ -1452,7 +1517,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen053"
+    "question_id": "cbse_ix_iesc1dd_c107_gen053",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "A vehicle decelerates uniformly from a speed of 16 m/s to rest in 4 seconds. Which of the following is the correct acceleration?",
@@ -1471,7 +1537,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen054"
+    "question_id": "cbse_ix_iesc1dd_c107_gen054",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Define uniform acceleration.",
@@ -1485,7 +1552,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen055"
+    "question_id": "cbse_ix_iesc1dd_c107_gen055",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Explain the physical significance of the equation s = ut + ½at² in kinematics.",
@@ -1499,7 +1567,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen056"
+    "question_id": "cbse_ix_iesc1dd_c107_gen056",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "How can equation (7.7), 2as = v² – u², be derived from equations (7.5) and (7.6)?",
@@ -1513,7 +1582,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen057"
+    "question_id": "cbse_ix_iesc1dd_c107_gen057",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Describe the steps to calculate the stopping distance for a car when the brakes provide a constant deceleration.",
@@ -1527,7 +1597,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen058"
+    "question_id": "cbse_ix_iesc1dd_c107_gen058",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "A runner starts from rest and accelerates uniformly to a speed of 8 m/s in 4 seconds; then runs at this constant speed for 10 seconds; and finally decelerates uniformly to rest in 3 seconds. Calculate the total distance covered during the run.",
@@ -1541,7 +1612,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen059"
+    "question_id": "cbse_ix_iesc1dd_c107_gen059",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "True or False: The equation v = u + at is only valid if the acceleration is constant.",
@@ -1555,7 +1627,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen060"
+    "question_id": "cbse_ix_iesc1dd_c107_gen060",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "True or False: The equation s = ut + ½at² can be used to calculate the displacement of an object even when its acceleration is not uniform. If false, explain why.",
@@ -1569,7 +1642,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen061"
+    "question_id": "cbse_ix_iesc1dd_c107_gen061",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "Convert 72 km/h to m/s and explain the conversion process.",
@@ -1583,7 +1657,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen062"
+    "question_id": "cbse_ix_iesc1dd_c107_gen062",
+    "section_name": "7.5 Equations of Motion"
   },
   {
     "question_text": "True or False: If a car decelerates uniformly from 15 m/s to 5 m/s over 4 seconds, the distance covered during deceleration is greater than the distance if the car had stopped from 15 m/s in the same time interval. Provide correction if the statement is false.",
@@ -1597,6 +1672,7 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_ix_iesc1dd_c107_gen063"
+    "question_id": "cbse_ix_iesc1dd_c107_gen063",
+    "section_name": "7.5 Equations of Motion"
   }
 ]

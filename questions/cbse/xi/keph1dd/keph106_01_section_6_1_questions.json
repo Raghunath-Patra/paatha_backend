@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen001"
+    "question_id": "cbse_xi_keph1dd_c106_gen001",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following conditions must be satisfied for a cylinder to roll without slipping?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen002"
+    "question_id": "cbse_xi_keph1dd_c106_gen002",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "In a rigid body undergoing pure translational motion, which statement is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen003"
+    "question_id": "cbse_xi_keph1dd_c106_gen003",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "When a rigid body rotates about a fixed axis, what is true about a point located on that axis?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen004"
+    "question_id": "cbse_xi_keph1dd_c106_gen004",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "In the rolling motion of a cylinder, the motion is a combination of which two types of motion?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen005"
+    "question_id": "cbse_xi_keph1dd_c106_gen005",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Define centre of mass and describe its significance in analyzing the motion of extended bodies.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen006"
+    "question_id": "cbse_xi_keph1dd_c106_gen006",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why a spinning top exhibits precession.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen007"
+    "question_id": "cbse_xi_keph1dd_c106_gen007",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "What is the significance of the fixed point in rotational motion?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen008"
+    "question_id": "cbse_xi_keph1dd_c106_gen008",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the kinematics of rotational motion about a fixed axis, and explain how the linear velocity of points on the body depends on their distance from the axis.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen009"
+    "question_id": "cbse_xi_keph1dd_c106_gen009",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "Compare and contrast pure translational motion with a combination of translation and rotation, providing examples from the text.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen010"
+    "question_id": "cbse_xi_keph1dd_c106_gen010",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In pure translational motion, all particles of a rigid body have the same velocity at every instant.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen011"
+    "question_id": "cbse_xi_keph1dd_c106_gen011",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: For a cylinder rolling without slipping, the point of contact with the surface always has zero velocity relative to the surface.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen012"
+    "question_id": "cbse_xi_keph1dd_c106_gen012",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A cylinder of radius 0.5 m rolls down an inclined plane without slipping. At an instant, its angular velocity is 4 rad/s. Calculate the linear velocity of its centre of mass.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen013"
+    "question_id": "cbse_xi_keph1dd_c106_gen013",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "In a rigid body rotating about a fixed axis, a point located 0.3 m from the axis moves with a tangential speed of 1.5 m/s. Determine the angular velocity of the body.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen014"
+    "question_id": "cbse_xi_keph1dd_c106_gen014",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A solid cylinder of mass 2 kg and radius 0.2 m is released from rest at the top of a 5 m long inclined plane that makes an angle of 30° with the horizontal. Assuming the cylinder rolls without slipping, determine its speed at the bottom of the incline.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen015"
+    "question_id": "cbse_xi_keph1dd_c106_gen015",
+    "section_name": "6.1 INTRODUCTION"
   },
   {
     "question_text": "A rigid body with a moment of inertia of 3 kg*m² experiences a constant torque of 5 N*m. Calculate its angular acceleration.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_xi_keph1dd_c106_gen016"
+    "question_id": "cbse_xi_keph1dd_c106_gen016",
+    "section_name": "6.1 INTRODUCTION"
   }
 ]

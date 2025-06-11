@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen165"
+    "question_id": "cbse_xii_leph1dd_c103_gen165",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Which of the following statements best describes the role of internal resistance (r) in an electrolytic cell?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen166"
+    "question_id": "cbse_xii_leph1dd_c103_gen166",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "If a cell has an emf of 12 V and an internal resistance of 2 ohms, and it is connected to a resistor of 10 ohms, what is the terminal voltage across the resistor?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen167"
+    "question_id": "cbse_xii_leph1dd_c103_gen167",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "What is the maximum current (Imax) that can be drawn from a cell in terms of its emf (ε) and internal resistance (r)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen168"
+    "question_id": "cbse_xii_leph1dd_c103_gen168",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "In the expression I = ε / (R + r), if the external resistor R is much larger than the internal resistance r, what assumption is made for practical calculations?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen169"
+    "question_id": "cbse_xii_leph1dd_c103_gen169",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Define electromotive force (emf) in the context of an electrolytic cell.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen170"
+    "question_id": "cbse_xii_leph1dd_c103_gen170",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Explain why the potential difference across an external resistor is given by V = I R in a circuit with an electrolytic cell.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen171"
+    "question_id": "cbse_xii_leph1dd_c103_gen171",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Calculate the current I in a circuit where a cell with emf ε and internal resistance r is connected to an external resistor R.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen172"
+    "question_id": "cbse_xii_leph1dd_c103_gen172",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Describe the effect of increasing the internal resistance of a cell on the current delivered to an external load.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen173"
+    "question_id": "cbse_xii_leph1dd_c103_gen173",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Discuss the energy conversion process in an electrolytic cell when a resistor R is connected. In your answer, include how chemical energy is first converted to electrical energy and then to heat energy.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen174"
+    "question_id": "cbse_xii_leph1dd_c103_gen174",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Compare the performance of an electrolytic cell with that of a dry cell in terms of internal resistance. How does internal resistance affect the efficiency and maximum current that can be drawn from the cell?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen175"
+    "question_id": "cbse_xii_leph1dd_c103_gen175",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "True or False: The electromotive force (emf) of a cell is a force measured in newtons.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen176"
+    "question_id": "cbse_xii_leph1dd_c103_gen176",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "True or False: When no current flows through a cell, the potential difference between its electrodes is equal to the emf of the cell.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen177"
+    "question_id": "cbse_xii_leph1dd_c103_gen177",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "A cell has an emf of 9 V and an internal resistance of 1 ohm. If an external resistor of 8 ohm is connected to the cell, calculate the current flowing in the circuit and the voltage across the resistor.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen178"
+    "question_id": "cbse_xii_leph1dd_c103_gen178",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "A cell supplies a current of 0.5 A when connected to a resistor of 20 ohm. If the emf of the cell is 15 V, determine the internal resistance of the cell.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen179"
+    "question_id": "cbse_xii_leph1dd_c103_gen179",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "A cell has an emf of 12 V and an internal resistance of 3 ohm. Initially, it is connected to a 15 ohm resistor. If the external resistor is halved, calculate the original terminal voltage and the new terminal voltage. What is the change in terminal voltage?",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen180"
+    "question_id": "cbse_xii_leph1dd_c103_gen180",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Determine the maximum current that can be drawn from a cell with an emf of 6 V and an internal resistance of 0.5 ohm.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen181"
+    "question_id": "cbse_xii_leph1dd_c103_gen181",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Design a scenario where the internal resistance of a cell significantly affects the terminal voltage for varying loads. For a cell with an emf of 10 V and an internal resistance of 2 ohm, compute the terminal voltage for external resistors of 2 ohm, 5 ohm, and 10 ohm. Analyze how the terminal voltage changes with different load resistances.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen182"
+    "question_id": "cbse_xii_leph1dd_c103_gen182",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   }
 ]

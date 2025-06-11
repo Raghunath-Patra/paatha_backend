@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "11.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "11.2 THERMAL EQUILIBRIUM"
+    },
+    {
+      "number": 3,
+      "name": "11.3 ZEROTH LAW OF THERMODYNAMICS"
+    },
+    {
+      "number": 4,
+      "name": "11.4 HEAT, INTERNAL ENERGY AND WORK"
+    },
+    {
+      "number": 5,
+      "name": "11.5 FIRST LAW OF THERMODYNAMICS"
+    },
+    {
+      "number": 6,
+      "name": "11.6 SPECIFIC HEAT CAPACITY"
+    },
+    {
+      "number": 7,
+      "name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
+    },
+    {
+      "number": 8,
+      "name": "11.8 THERMODYNAMIC PROCESSES"
+    },
+    {
+      "number": 8,
+      "name": "11.8 THERMODYNAMIC PROCESSES"
+    },
+    {
+      "number": 9,
+      "name": "11.9 SECOND LAW OF THERMODYNAMICS"
+    },
+    {
+      "number": 9,
+      "name": "11.9 SECOND LAW OF THERMODYNAMICS"
+    },
+    {
+      "number": 10,
+      "name": "11.10 REVERSIBLE AND IRREVERSIBLE PROCESSES"
+    },
+    {
+      "number": 10,
+      "name": "11.10 REVERSIBLE AND IRREVERSIBLE PROCESSES"
+    },
+    {
+      "number": 11,
+      "name": "11.11 CARNOT ENGINE"
+    },
+    {
+      "number": 11,
+      "name": "11.11 CARNOT ENGINE"
+    }
+  ]
+}

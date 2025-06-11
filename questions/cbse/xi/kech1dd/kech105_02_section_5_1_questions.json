@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen001"
+    "question_id": "cbse_xi_kech1dd_c105_gen001",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "In which type of system is there an exchange of both energy and matter between the system and its surroundings?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen002"
+    "question_id": "cbse_xi_kech1dd_c105_gen002",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Which of the following best describes an adiabatic wall in a thermodynamic system?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen003"
+    "question_id": "cbse_xi_kech1dd_c105_gen003",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Why is the internal energy U considered a state function?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen004"
+    "question_id": "cbse_xi_kech1dd_c105_gen004",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Which of the following equations correctly represents the first law of thermodynamics?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen005"
+    "question_id": "cbse_xi_kech1dd_c105_gen005",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Describe the differences between open, closed, and isolated systems in thermodynamics.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen006"
+    "question_id": "cbse_xi_kech1dd_c105_gen006",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Explain why state functions such as temperature, volume, and pressure are independent of the process path.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen007"
+    "question_id": "cbse_xi_kech1dd_c105_gen007",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Define the term 'boundary' in a thermodynamic system and describe its significance.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen008"
+    "question_id": "cbse_xi_kech1dd_c105_gen008",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Discuss how Joule's experiments demonstrated the equivalence of mechanical work and heat in an adiabatic process, including details about the experimental setup and observations.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen009"
+    "question_id": "cbse_xi_kech1dd_c105_gen009",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Compare the effects of applying 1 kJ of mechanical work and 1 kJ of electrical work on a system under adiabatic conditions. Explain why the change in internal energy is identical in both cases.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen010"
+    "question_id": "cbse_xi_kech1dd_c105_gen010",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "True or False: A closed system is allowed to exchange matter with its surroundings.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen011"
+    "question_id": "cbse_xi_kech1dd_c105_gen011",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "True or False: In an isolated system, neither energy nor matter can be exchanged with the surroundings, resulting in a constant internal energy.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen012"
+    "question_id": "cbse_xi_kech1dd_c105_gen012",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "A system is insulated such that it undergoes an adiabatic process. If 1000 J of work is done on the system, calculate the change in internal energy (∆U).",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen013"
+    "question_id": "cbse_xi_kech1dd_c105_gen013",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "In a closed system, if 500 J of heat is absorbed and no work is done, what is the change in internal energy (∆U) of the system?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen014"
+    "question_id": "cbse_xi_kech1dd_c105_gen014",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "During a process in a closed system, the system does 200 J of work on the surroundings while absorbing 150 J of heat. Calculate the change in internal energy (∆U) of the system.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen015"
+    "question_id": "cbse_xi_kech1dd_c105_gen015",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "A system undergoes two different processes. In the first process, 1 kJ of electrical work is done on it in an adiabatic system (q = 0) leading to a temperature increase of 10°C. In the second process, 1 kJ of mechanical work is performed under the same adiabatic conditions with an identical temperature increase. Verify using the first law of thermodynamics that the change in internal energy is the same in both cases.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen016"
+    "question_id": "cbse_xi_kech1dd_c105_gen016",
+    "section_name": "5.1 Thermodynamic terms"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen070"
+    "question_id": "cbse_xi_keph1dd_c101_gen070",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "If 4.700 m is converted to 4700 mm without using scientific notation, how many significant figures would be incorrectly inferred from 4700 mm?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen071"
+    "question_id": "cbse_xi_keph1dd_c101_gen071",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Why does a change in units not affect the number of significant figures reported in a measurement?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen072"
+    "question_id": "cbse_xi_keph1dd_c101_gen072",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "When performing multiplication or division, the final answer must be rounded to the same number of significant figures as which of the following?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen073"
+    "question_id": "cbse_xi_keph1dd_c101_gen073",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "In addition or subtraction, how is the precision of the final result determined?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen074"
+    "question_id": "cbse_xi_keph1dd_c101_gen074",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Explain why scientific notation is recommended when reporting measurements with significant figures.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen075"
+    "question_id": "cbse_xi_keph1dd_c101_gen075",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Describe the rules for arithmetic operations involving significant figures when multiplying, dividing, adding, or subtracting.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen076"
+    "question_id": "cbse_xi_keph1dd_c101_gen076",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "What is the relative error in a measurement of 1.02 g with an uncertainty of ±0.01 g, and how does it compare with a measurement of 9.89 g with the same uncertainty?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen077"
+    "question_id": "cbse_xi_keph1dd_c101_gen077",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Why is it important to retain one extra significant digit in intermediate calculations during multi-step computations?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen078"
+    "question_id": "cbse_xi_keph1dd_c101_gen078",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Discuss in detail the various rules for determining significant figures, highlighting the treatment of non-zero digits, zeros between non-zeros, leading zeros, and trailing zeros with and without a decimal point.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen079"
+    "question_id": "cbse_xi_keph1dd_c101_gen079",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Compare and contrast the rules used for retaining significant figures in multiplication/division with those used for addition/subtraction.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen080"
+    "question_id": "cbse_xi_keph1dd_c101_gen080",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Evaluate an experimental procedure where multiple measurements with differing uncertainties are combined in a multi-step calculation. Suggest improvements to minimize cumulative rounding-off errors and enhance precision.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen081"
+    "question_id": "cbse_xi_keph1dd_c101_gen081",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "True or False: The location of the decimal point affects the number of significant figures in a measurement.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen082"
+    "question_id": "cbse_xi_keph1dd_c101_gen082",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "True or False: Multiplying or dividing an exact number (like 2 or π) by a measured value does not change the number of significant figures in the final result.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen083"
+    "question_id": "cbse_xi_keph1dd_c101_gen083",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "True or False: In scientific notation, trailing zeros in the base number are not considered significant.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen084"
+    "question_id": "cbse_xi_keph1dd_c101_gen084",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "A mass of 4.237 g and a volume of 2.51 cm³ are measured. Calculate the density and express it with the correct number of significant figures.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen085"
+    "question_id": "cbse_xi_keph1dd_c101_gen085",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Each edge of a cube is measured to be 7.203 m (with 4 significant figures). Calculate the total surface area and volume of the cube, rounding your answers appropriately.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen086"
+    "question_id": "cbse_xi_keph1dd_c101_gen086",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Multiply 2.308 cm (4 significant figures) by 5.6 (2 significant figures). What is the product, rounded appropriately?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen087"
+    "question_id": "cbse_xi_keph1dd_c101_gen087",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   },
   {
     "question_text": "Subtract 0.304 m from 0.307 m and express the result with the proper number of significant figures.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "03_section_1_3",
-    "question_id": "cbse_xi_keph1dd_c101_gen088"
+    "question_id": "cbse_xi_keph1dd_c101_gen088",
+    "section_name": "1.3 SIGNIFICANT FIGURES"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen026"
+    "question_id": "cbse_xi_kemh1dd_c112_gen026",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "For the function g(x) = |x| (with x ≠ 0), what is the limit as x approaches 0?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen027"
+    "question_id": "cbse_xi_kemh1dd_c112_gen027",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "In a piecewise function defined by f(x) = 1 for x ≤ 0 and f(x) = 2 for x > 0, what are the left-hand limit and right-hand limit as x approaches 0?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen028"
+    "question_id": "cbse_xi_kemh1dd_c112_gen028",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "Given the function h(x) defined graphically with an open circle at x = 2, and values near x = 2 approaching 4, what is lim₍ₓ→2₎ h(x)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen029"
+    "question_id": "cbse_xi_kemh1dd_c112_gen029",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "Define the term 'limit of a function as x approaches a value a'.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen030"
+    "question_id": "cbse_xi_kemh1dd_c112_gen030",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "Explain what is meant by right-hand limit and left-hand limit of a function.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen031"
+    "question_id": "cbse_xi_kemh1dd_c112_gen031",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "How can the limit of a function be analyzed even if the function is not defined at the point of interest? Provide an explanation with an example.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen032"
+    "question_id": "cbse_xi_kemh1dd_c112_gen032",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "Discuss the significance of having different one-sided limits. What does it imply if the left-hand and right-hand limits at a point are not equal?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen033"
+    "question_id": "cbse_xi_kemh1dd_c112_gen033",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "Prove that for any polynomial function, the limit as x approaches any finite value a is just the value of the polynomial at a.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen034"
+    "question_id": "cbse_xi_kemh1dd_c112_gen034",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "Derive the definition of the limit of a function using the ε-δ language for a function f(x) at a point a (you do not need to prove a specific limit, just outline the structure of the definition).",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen035"
+    "question_id": "cbse_xi_kemh1dd_c112_gen035",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "Calculate the limit lim₍ₓ→0₎ (x² + 3x) using direct substitution, and explain your steps.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen036"
+    "question_id": "cbse_xi_kemh1dd_c112_gen036",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "Evaluate lim₍ₓ→2₎ ( (x² - 4) / (x - 2) ). Provide step-by-step simplification.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen037"
+    "question_id": "cbse_xi_kemh1dd_c112_gen037",
+    "section_name": "12.3 Limits"
   },
   {
     "question_text": "For the function f(x) defined piecewise by f(x) = 1 for x ≤ 0 and f(x) = 2 for x > 0, calculate the limits lim₍ₓ→0⁻₎ f(x) and lim₍ₓ→0⁺₎ f(x) and comment on the overall limit at x = 0.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_xi_kemh1dd_c112_gen038"
+    "question_id": "cbse_xi_kemh1dd_c112_gen038",
+    "section_name": "12.3 Limits"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "3.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
+    },
+    {
+      "number": 3,
+      "name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
+    },
+    {
+      "number": 4,
+      "name": "3.4 Summary"
+    }
+  ]
+}

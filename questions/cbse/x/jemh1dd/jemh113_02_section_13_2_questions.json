@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen015"
+    "question_id": "cbse_x_jemh1dd_c113_gen015",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "In the assumed mean method, if 'a' is the assumed mean and dᵢ = xᵢ - a, which of the following equations correctly gives the mean (x̄) of the data?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen016"
+    "question_id": "cbse_x_jemh1dd_c113_gen016",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "In the step-deviation method, given uᵢ = (xᵢ - a)/h, which of the following correctly expresses the relationship between the mean ū and the actual mean x̄?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen017"
+    "question_id": "cbse_x_jemh1dd_c113_gen017",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "When converting ungrouped data into grouped data using class intervals and class marks, the mean calculated may differ slightly from the exact mean. Which of the following is the main reason for this difference?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen018"
+    "question_id": "cbse_x_jemh1dd_c113_gen018",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Define the term 'class mark' in the context of grouped data and provide its formula.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen019"
+    "question_id": "cbse_x_jemh1dd_c113_gen019",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Briefly explain the purpose of converting ungrouped data into grouped data.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen020"
+    "question_id": "cbse_x_jemh1dd_c113_gen020",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Explain why the mean obtained from the direct method using raw data is more accurate than the mean obtained from grouped data using the midpoint assumption.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen021"
+    "question_id": "cbse_x_jemh1dd_c113_gen021",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Derive the relation between the mean of the deviations (d̄) and the actual mean (x̄) in the assumed mean method.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen022"
+    "question_id": "cbse_x_jemh1dd_c113_gen022",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Discuss the advantages of using the assumed mean method or step-deviation method over the direct method for computing the mean when dealing with large numbers.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen023"
+    "question_id": "cbse_x_jemh1dd_c113_gen023",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "The following grouped frequency table shows the marks obtained by 40 students in an exam:\n\nClass Interval: 30–40, 40–50, 50–60, 60–70\nFrequency (fᵢ): 5, 12, 15, 8\n\nUsing the direct method, calculate the mean mark. (Find the class mark for each interval before computing.)",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen024"
+    "question_id": "cbse_x_jemh1dd_c113_gen024",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "Given the following grouped frequency table of daily temperatures (in °C) over a 30-day period:\n\nClass Interval (°C): 20–25, 25–30, 30–35, 35–40\nFrequency (fᵢ): 4, 10, 12, 4\n\nUsing the step-deviation method with an assumed mean a = 32.5 and class size h = 5, compute the mean temperature.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen025"
+    "question_id": "cbse_x_jemh1dd_c113_gen025",
+    "section_name": "13.2 Mean of Grouped Data"
   },
   {
     "question_text": "A cricket analyst recorded the number of wickets taken by bowlers in different ranges, summarized as follows:\n\nNumber of Wickets (Class Interval): 50–100, 100–150, 150–200, 200–250\nNumber of Bowlers (fᵢ): 8, 15, 10, 7\n\nUsing the assumed mean method with an assumed mean a = 125, compute the mean number of wickets.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_x_jemh1dd_c113_gen026"
+    "question_id": "cbse_x_jemh1dd_c113_gen026",
+    "section_name": "13.2 Mean of Grouped Data"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen001"
+    "question_id": "cbse_x_jemh1dd_c112_gen001",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "A test tube, as shown in the textbook, is an example of which combination of solids?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen002"
+    "question_id": "cbse_x_jemh1dd_c112_gen002",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "When calculating the surface area of a composite solid, which of the following approaches is most appropriate?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen003"
+    "question_id": "cbse_x_jemh1dd_c112_gen003",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Which of the following is NOT one of the basic solids you learned from Class IX?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen004"
+    "question_id": "cbse_x_jemh1dd_c112_gen004",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Define a composite solid in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen005"
+    "question_id": "cbse_x_jemh1dd_c112_gen005",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Explain why a test tube (a combination of a cylinder and a hemisphere) cannot be classified under the basic solids you learned earlier.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen006"
+    "question_id": "cbse_x_jemh1dd_c112_gen006",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "List three everyday objects that can be considered as composite solids and briefly mention the basic solids they are made of.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen007"
+    "question_id": "cbse_x_jemh1dd_c112_gen007",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Define surface area and volume in the context of three-dimensional solids.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen008"
+    "question_id": "cbse_x_jemh1dd_c112_gen008",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Explain in detail how you would calculate the total volume of a tanker truck modeled as a cylinder with two hemispherical ends. Provide the step-by-step derivation and list the formulas used.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen009"
+    "question_id": "cbse_x_jemh1dd_c112_gen009",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "Prove that when calculating the surface area of a composite solid, you must subtract the area of the overlapping region. Use the example of a test tube (a cylinder with a hemispherical bottom) in your explanation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen010"
+    "question_id": "cbse_x_jemh1dd_c112_gen010",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "A storage tank is constructed in the shape of a cylinder with two hemispherical ends. If the radius of the tank is 3 m and the height of the cylindrical part is 10 m, calculate its total volume. Show all steps.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen011"
+    "question_id": "cbse_x_jemh1dd_c112_gen011",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "A water tank is designed as a composite solid with an open top. It consists of a cylinder of height 8 m and a hemispherical bottom. If the radius of both the cylinder and the hemisphere is 3 m, calculate the total external surface area that needs to be painted, considering that the top is open and the circular interface between the cylinder and hemisphere should not be painted twice. Provide your complete solution.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen012"
+    "question_id": "cbse_x_jemh1dd_c112_gen012",
+    "section_name": "12.1 Introduction"
   },
   {
     "question_text": "A test tube is modeled as a composite solid composed of a cylinder (height = 12 cm, radius = 2 cm) and a hemispherical bottom (radius = 2 cm). Calculate its total volume. Provide a detailed step-by-step solution.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_x_jemh1dd_c112_gen013"
+    "question_id": "cbse_x_jemh1dd_c112_gen013",
+    "section_name": "12.1 Introduction"
   }
 ]

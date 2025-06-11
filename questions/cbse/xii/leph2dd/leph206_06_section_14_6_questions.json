@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen073"
+    "question_id": "cbse_xii_leph2dd_c206_gen073",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Under reverse bias, what is the effective barrier height of a p-n junction diode?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen074"
+    "question_id": "cbse_xii_leph2dd_c206_gen074",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "In a forward-biased p-n junction diode, the process where electrons cross over to the p-side and holes cross to the n-side is known as:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen075"
+    "question_id": "cbse_xii_leph2dd_c206_gen075",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "What is the approximate threshold (cut-in) voltage for a silicon diode?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen076"
+    "question_id": "cbse_xii_leph2dd_c206_gen076",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Which of the following correctly describes the importance of the depletion region in a p-n junction diode?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen077"
+    "question_id": "cbse_xii_leph2dd_c206_gen077",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Define the depletion region in a p-n junction diode and explain its significance.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen078"
+    "question_id": "cbse_xii_leph2dd_c206_gen078",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "How is dynamic resistance (rₑ) defined for a diode, and through what experimental method is it measured?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen079"
+    "question_id": "cbse_xii_leph2dd_c206_gen079",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "What happens to the width of the depletion layer when a diode is reverse biased, and what is the underlying reason for this behavior?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen080"
+    "question_id": "cbse_xii_leph2dd_c206_gen080",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Explain the mechanism of forward bias in a p-n junction diode. In your answer include a discussion of the barrier potential, carrier injection, and the resulting current flow.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen081"
+    "question_id": "cbse_xii_leph2dd_c206_gen081",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Compare and contrast the conduction mechanisms in forward and reverse bias conditions of a p-n junction diode. Include discussion on carrier injection, diffusion, drift current, and the effect of barrier potential.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen082"
+    "question_id": "cbse_xii_leph2dd_c206_gen082",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "True or False: In reverse bias, the diode current is highly dependent on the magnitude of the applied voltage throughout the operating range.",
@@ -181,7 +191,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen083"
+    "question_id": "cbse_xii_leph2dd_c206_gen083",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "True or False: The dynamic resistance of a diode in forward bias is generally much lower than its resistance in reverse bias.",
@@ -200,7 +211,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen084"
+    "question_id": "cbse_xii_leph2dd_c206_gen084",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "A silicon diode shows a forward voltage of 0.7 V at 10 mA and 0.8 V at 20 mA. Calculate the dynamic (forward bias) resistance of the diode.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen085"
+    "question_id": "cbse_xii_leph2dd_c206_gen085",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "In reverse bias, a diode exhibits a voltage of -10 V with a corresponding current of -1 µA. Calculate its reverse bias resistance.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen086"
+    "question_id": "cbse_xii_leph2dd_c206_gen086",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "If a forward-biased silicon diode shows an increase in voltage from 0.7 V to 0.9 V accompanied by an increase in current from 10 mA to 20 mA, determine the diode's dynamic resistance in this region.",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen087"
+    "question_id": "cbse_xii_leph2dd_c206_gen087",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "A p-n junction diode has a breakdown voltage (V_br) of -50 V. Just before breakdown, its reverse current is 2 µA. When the voltage is increased by 0.5 V beyond breakdown, the reverse current jumps to 100 µA. Calculate the approximate dynamic resistance in the breakdown region.",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen088"
+    "question_id": "cbse_xii_leph2dd_c206_gen088",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   },
   {
     "question_text": "Discuss how the I-V characteristics of a p-n junction diode are experimentally determined. Include details on the role of the potentiometer, the measurement instruments used in forward and reverse bias, and the significance of the observed voltage-current curve.",
@@ -270,6 +286,7 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xii_leph2dd_c206_gen089"
+    "question_id": "cbse_xii_leph2dd_c206_gen089",
+    "section_name": "14.6 SEMICONDUCTOR DIODE"
   }
 ]

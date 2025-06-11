@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen143"
+    "question_id": "cbse_xi_keph2dd_c201_gen143",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Which equation correctly represents the shear modulus G in terms of applied force F, length L, area A, and displacement Δx?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen144"
+    "question_id": "cbse_xi_keph2dd_c201_gen144",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Poisson's ratio is defined as the ratio of lateral strain to longitudinal strain in a stretched wire. Which expression below correctly represents it?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen145"
+    "question_id": "cbse_xi_keph2dd_c201_gen145",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Why is the bulk modulus always expressed as a positive value?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen146"
+    "question_id": "cbse_xi_keph2dd_c201_gen146",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Among the following materials, which is expected to have the highest shear modulus based on typical values provided?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen147"
+    "question_id": "cbse_xi_keph2dd_c201_gen147",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Define the term 'strain' and explain its relation with Young's modulus.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen148"
+    "question_id": "cbse_xi_keph2dd_c201_gen148",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "What are the units of Young's modulus and why do they have those units?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen149"
+    "question_id": "cbse_xi_keph2dd_c201_gen149",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Describe the significance of the proportional region in the stress-strain curve and its importance in engineering design.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen150"
+    "question_id": "cbse_xi_keph2dd_c201_gen150",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Explain how the elastic potential energy per unit volume in a stretched wire is calculated.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen151"
+    "question_id": "cbse_xi_keph2dd_c201_gen151",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Explain the role of elastic moduli in engineering design, particularly how the selection of materials depends on their Young's, shear, and bulk moduli. Include discussion on practical applications and material comparisons.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen152"
+    "question_id": "cbse_xi_keph2dd_c201_gen152",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Discuss Poisson's ratio by defining it, explaining how it is determined from measurements on a stretched wire, and stating its significance in describing material behavior under tensile stress.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen153"
+    "question_id": "cbse_xi_keph2dd_c201_gen153",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Young's modulus has units of Pascal because strain is dimensionless.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen154"
+    "question_id": "cbse_xi_keph2dd_c201_gen154",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "The shear modulus of a material is generally greater than its Young's modulus.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen155"
+    "question_id": "cbse_xi_keph2dd_c201_gen155",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Gases have large compressibilities, meaning they are highly compressible compared to solids. This statement is true or false?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen156"
+    "question_id": "cbse_xi_keph2dd_c201_gen156",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "A structural steel rod has a radius of 10 mm and a length of 1.0 m. A force of 100 kN is applied to stretch it. Given that the Young's modulus for structural steel is 2.0 x 10^11 N/m², calculate: (a) the stress in the rod, (b) the elongation of the rod, and (c) the strain.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen157"
+    "question_id": "cbse_xi_keph2dd_c201_gen157",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "A copper wire of length 2.2 m and a steel wire of length 1.6 m (both with a diameter of 3.0 mm) are connected end to end and stretched under a load that produces a total elongation of 0.70 mm. Given that the Young's modulus of copper is 1.1 x 10^11 N/m² and that of steel is 2.0 x 10^11 N/m², calculate the applied load.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen158"
+    "question_id": "cbse_xi_keph2dd_c201_gen158",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "In a human pyramid act, a performer's two thighbones (each with a length of 0.5 m and an effective radius of 2.0 cm) support a load of 2156 N (total weight above the performer) equally distributed between the two bones. Given the Young's modulus for bone is 9.4 x 10^9 N/m², calculate the compression (ΔL) in each thighbone.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen159"
+    "question_id": "cbse_xi_keph2dd_c201_gen159",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "A square lead slab with a side length of 50 cm and a thickness of 10 cm is subjected to a shearing force of 9.0 x 10^4 N on its narrow face. If the lower edge is fixed, calculate the horizontal displacement of the upper edge given that the shear modulus for lead is 5.6 x 10^9 N/m².",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen160"
+    "question_id": "cbse_xi_keph2dd_c201_gen160",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "The average depth of the Indian Ocean is about 3000 m. Given the density of water as 1000 kg/m³, gravitational acceleration as 10 m/s², and the bulk modulus of water as 2.2 x 10^9 N/m², calculate the fractional compression (ΔV/V) of water at the bottom of the ocean.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen161"
+    "question_id": "cbse_xi_keph2dd_c201_gen161",
+    "section_name": "8.5 ELASTIC MODULI"
   }
 ]

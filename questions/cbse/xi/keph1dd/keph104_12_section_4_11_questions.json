@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen377"
+    "question_id": "cbse_xi_keph1dd_c104_gen377",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "In applying Newton's third law while drawing free-body diagrams for interacting bodies, which statement is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen378"
+    "question_id": "cbse_xi_keph1dd_c104_gen378",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Which of the following choices correctly describes the procedure to choose a system when solving a mechanics problem?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen379"
+    "question_id": "cbse_xi_keph1dd_c104_gen379",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "According to the text, which of these is NOT included in the free-body diagram of a chosen system?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen380"
+    "question_id": "cbse_xi_keph1dd_c104_gen380",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "In analyzing an assembly of bodies, why is it critical to identify internal forces separately from external forces when preparing free-body diagrams?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen381"
+    "question_id": "cbse_xi_keph1dd_c104_gen381",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Define a free-body diagram as used in solving problems in mechanics.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen382"
+    "question_id": "cbse_xi_keph1dd_c104_gen382",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "List the steps for systematically solving a problem in mechanics as described in the text.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen383"
+    "question_id": "cbse_xi_keph1dd_c104_gen383",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Explain why two forces acting on the same object that are equal and opposite are not considered an action-reaction pair.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen384"
+    "question_id": "cbse_xi_keph1dd_c104_gen384",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Describe the procedure for solving a mechanics problem using free-body diagrams, starting from choosing a system to applying Newton's laws. Include references to how action-reaction pairs are used in the diagram.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen385"
+    "question_id": "cbse_xi_keph1dd_c104_gen385",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Critically evaluate the importance of drawing accurate free-body diagrams in the resolution of mechanics problems, and discuss potential errors that could result in analytical mistakes.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen386"
+    "question_id": "cbse_xi_keph1dd_c104_gen386",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "True or False: In a free-body diagram, it is acceptable to include forces exerted by the system on its environment.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen387"
+    "question_id": "cbse_xi_keph1dd_c104_gen387",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "True or False: Action-reaction pairs can be shown as forces acting on the same body.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen388"
+    "question_id": "cbse_xi_keph1dd_c104_gen388",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "A wooden block of mass 2 kg rests on a horizontal floor. When an iron cylinder of mass 25 kg is placed on the block, the assembly accelerates downward at 0.1 m/s2. Given g = 10 m/s2, calculate the normal force exerted by the floor on the block alone (before yielding) and on the assembly (after yielding).",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen389"
+    "question_id": "cbse_xi_keph1dd_c104_gen389",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "In a modified experiment, a system consisting of a 3 kg block and a 12 kg cylinder accelerates downward at 0.2 m/s2 on a horizontal floor. If g = 10 m/s2, determine the normal force exerted by the floor on the system.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen390"
+    "question_id": "cbse_xi_keph1dd_c104_gen390",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "A system on a horizontal floor is accelerating downward due to the yielding of a soft floor. The system consists of a mass m1 on top of a mass m2, where m1 = 2 kg and m2 = 25 kg, and the observed acceleration is 0.1 m/s2 downward. Determine the magnitude of the net force acting on the assembly and explain the relationship between this net force and the change in the normal force compared to the system's weight.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen391"
+    "question_id": "cbse_xi_keph1dd_c104_gen391",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   },
   {
     "question_text": "Design an experiment based on free-body diagrams to measure the action force of a system on a floor. Briefly outline the procedure and explain the calculations needed to deduce the force from the observed acceleration. Assume you have a block and a cylinder available.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "12_section_4_11",
-    "question_id": "cbse_xi_keph1dd_c104_gen392"
+    "question_id": "cbse_xi_keph1dd_c104_gen392",
+    "section_name": "4.11 SOLVING PROBLEMS IN MECHANICS"
   }
 ]

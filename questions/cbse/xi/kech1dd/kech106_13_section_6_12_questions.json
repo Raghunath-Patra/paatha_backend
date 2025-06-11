@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen001"
+    "question_id": "cbse_xi_kech1dd_c106_gen001",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "For a buffer made of acetic acid and sodium acetate, if both components are present in equal molar concentrations, what will be the pH of the solution?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen002"
+    "question_id": "cbse_xi_kech1dd_c106_gen002",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "Which of the following buffer systems would be best suited to achieve a pH around 9.25?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen003"
+    "question_id": "cbse_xi_kech1dd_c106_gen003",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "In the buffer equation pH = pKa + log([Salt]/[Acid]), what will happen to the pH if the concentration of the salt is doubled while the concentration of the acid remains constant?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen004"
+    "question_id": "cbse_xi_kech1dd_c106_gen004",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "What is the pKa value used for preparing an acetic acid buffer?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen005"
+    "question_id": "cbse_xi_kech1dd_c106_gen005",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "Define the Henderson–Hasselbalch equation and state its significance in buffer solution preparation.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen006"
+    "question_id": "cbse_xi_kech1dd_c106_gen006",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "Explain why the pH of a buffer solution is not affected by dilution.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen007"
+    "question_id": "cbse_xi_kech1dd_c106_gen007",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "Derive the Henderson–Hasselbalch equation starting from the acid dissociation constant expression for a weak acid HA in water.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen008"
+    "question_id": "cbse_xi_kech1dd_c106_gen008",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "Design a buffer solution with a target pH of 5.50 using a weak acid with a pKa of 5.00. Describe your approach including the ratio of salt to acid required.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen009"
+    "question_id": "cbse_xi_kech1dd_c106_gen009",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "Compare and contrast the preparation of an acidic buffer using a weak acid with a strong base salt versus a basic buffer using a weak base with a strong acid salt. Discuss the differences in their equations and applications.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen010"
+    "question_id": "cbse_xi_kech1dd_c106_gen010",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "True or False: Diluting a buffer solution significantly changes its pH.",
@@ -181,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen011"
+    "question_id": "cbse_xi_kech1dd_c106_gen011",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "True or False: In a buffer solution, when the concentrations of the acid and its conjugate base are equal, the pH of the solution equals the pKa of the acid.",
@@ -200,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen012"
+    "question_id": "cbse_xi_kech1dd_c106_gen012",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "A buffer is prepared using acetic acid (pKa = 4.76) and sodium acetate. If the desired pH is 5.00, calculate the required ratio of sodium acetate to acetic acid using the Henderson–Hasselbalch equation.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen013"
+    "question_id": "cbse_xi_kech1dd_c106_gen013",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "Calculate the pH of a buffer solution prepared by mixing 0.3 M acetic acid with 0.1 M sodium acetate. Assume the pKa of acetic acid is 4.76.",
@@ -228,7 +241,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen014"
+    "question_id": "cbse_xi_kech1dd_c106_gen014",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "For a buffer prepared with ammonium chloride and ammonium hydroxide (pKa = 9.25), if the concentration of ammonium chloride is 0.15 M and that of ammonium hydroxide is 0.10 M, what is the pH of the buffer?",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen015"
+    "question_id": "cbse_xi_kech1dd_c106_gen015",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   },
   {
     "question_text": "A buffer solution is made by mixing a weak acid with its salt in equal concentrations, resulting in a pH equal to the acid's pKa. If an additional 0.05 M of the weak acid is added to an initial mixture containing 0.50 M acid and 0.50 M salt, calculate the new pH of the buffer. Assume the pKa of the acid is 4.76.",
@@ -256,6 +271,7 @@
     "source": "generated",
     "chapter_id": "kech106",
     "section_id": "13_section_6_12",
-    "question_id": "cbse_xi_kech1dd_c106_gen016"
+    "question_id": "cbse_xi_kech1dd_c106_gen016",
+    "section_name": "6.12 BUFFER SOLUTIONS"
   }
 ]

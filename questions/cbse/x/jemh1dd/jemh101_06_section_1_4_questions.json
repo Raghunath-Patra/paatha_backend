@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen046"
+    "question_id": "cbse_x_jemh1dd_c101_gen046",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "If a prime p divides a² for some positive integer a, which one of the following is true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen047"
+    "question_id": "cbse_x_jemh1dd_c101_gen047",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Which formula correctly expresses the LCM of three positive numbers p, q, and r in terms of p, q, r, and their HCF’s?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen048"
+    "question_id": "cbse_x_jemh1dd_c101_gen048",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "State the Fundamental Theorem of Arithmetic and explain its significance in number theory.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen049"
+    "question_id": "cbse_x_jemh1dd_c101_gen049",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Define a prime number and explain why the number 1 is not considered prime.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen050"
+    "question_id": "cbse_x_jemh1dd_c101_gen050",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "State and explain the property: 'If p is a prime and p divides a², then p divides a' using an example for clarity.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen051"
+    "question_id": "cbse_x_jemh1dd_c101_gen051",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Prove that √2 is irrational using the method of contradiction.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen052"
+    "question_id": "cbse_x_jemh1dd_c101_gen052",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Prove that √3 is irrational by assuming it can be written in lowest terms as a fraction p/q and deriving a contradiction.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen053"
+    "question_id": "cbse_x_jemh1dd_c101_gen053",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Factorise the composite number 84 into its prime factors and verify the uniqueness of the factorisation.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen054"
+    "question_id": "cbse_x_jemh1dd_c101_gen054",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "Given the numbers 48, 180, and 210, calculate the HCF and LCM using the relationships provided and verify that HCF(p, q, r) × LCM(p, q, r) ≠ p × q × r.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen055"
+    "question_id": "cbse_x_jemh1dd_c101_gen055",
+    "section_name": "1.4 Summary"
   },
   {
     "question_text": "For the numbers 8, 12, and 20, compute HCF(p, q, r) and LCM(p, q, r) using the formulas: LCM = [p×q×r×HCF(p, q, r)] / [HCF(p, q)×HCF(q, r)×HCF(p, r)] and HCF = [p×q×r×LCM(p, q, r)] / [LCM(p, q)×LCM(q, r)×LCM(p, r)].",
@@ -166,6 +176,7 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_x_jemh1dd_c101_gen056"
+    "question_id": "cbse_x_jemh1dd_c101_gen056",
+    "section_name": "1.4 Summary"
   }
 ]

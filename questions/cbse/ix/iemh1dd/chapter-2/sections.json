@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "2.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "2.2 Polynomials in One Variable"
+    },
+    {
+      "number": 3,
+      "name": "2.3 Zeroes of a Polynomial"
+    },
+    {
+      "number": 4,
+      "name": "2.4 Factorisation of Polynomials"
+    },
+    {
+      "number": 5,
+      "name": "2.5 Algebraic Identities"
+    },
+    {
+      "number": 6,
+      "name": "2.6 Summary"
+    }
+  ]
+}

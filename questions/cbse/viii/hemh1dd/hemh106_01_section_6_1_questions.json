@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen001"
+    "question_id": "cbse_viii_hemh1dd_c106_gen001",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Identify the correct representation of 1729 as a sum of two cubes.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen002"
+    "question_id": "cbse_viii_hemh1dd_c106_gen002",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Which one of the following numbers is NOT given as an example of a Hardy–Ramanujan number in the note box?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen003"
+    "question_id": "cbse_viii_hemh1dd_c106_gen003",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Which of the following is a true statement regarding cubes?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen004"
+    "question_id": "cbse_viii_hemh1dd_c106_gen004",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Define what is meant by a cube and a cube root.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen005"
+    "question_id": "cbse_viii_hemh1dd_c106_gen005",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Explain in your own words why 1729 is regarded as a Hardy–Ramanujan number.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen006"
+    "question_id": "cbse_viii_hemh1dd_c106_gen006",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Discuss the importance of exploring patterns in cubes, and how Ramanujan's experiments with numbers have influenced modern number theory.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen007"
+    "question_id": "cbse_viii_hemh1dd_c106_gen007",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Prove that 1729 is the smallest number that can be expressed as the sum of two cubes in two distinct ways. In your answer, explain why no smaller number can have this property.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen008"
+    "question_id": "cbse_viii_hemh1dd_c106_gen008",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Discuss the significance of patterns among cubes in number theory. Provide a derivation of how one can identify two different pairs of cube numbers that might sum to the same number, and discuss the challenges involved in finding such pairs.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen009"
+    "question_id": "cbse_viii_hemh1dd_c106_gen009",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Calculate 12³ and 1³, then verify that their sum equals 1729.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen010"
+    "question_id": "cbse_viii_hemh1dd_c106_gen010",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Given the pairs (10, 9) and (12, 1), verify numerically that both pairs yield the same sum when expressed as cubes.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen011"
+    "question_id": "cbse_viii_hemh1dd_c106_gen011",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Find the cube roots of 1728 and 1, and verify that these values correctly represent the components in the expression 12³ + 1³.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen012"
+    "question_id": "cbse_viii_hemh1dd_c106_gen012",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Using the note box information, verify that 4104 can be expressed as the sum of two cubes in two different ways: using the pairs (2, 16) and (9, 15).",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "hemh106",
     "section_id": "01_section_6_1",
-    "question_id": "cbse_viii_hemh1dd_c106_gen013"
+    "question_id": "cbse_viii_hemh1dd_c106_gen013",
+    "section_name": "6.1 Introduction"
   }
 ]

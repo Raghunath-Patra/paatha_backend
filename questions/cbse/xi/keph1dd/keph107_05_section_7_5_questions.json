@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen142"
+    "question_id": "cbse_xi_keph1dd_c107_gen142",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "For a point inside the Earth at a distance r from its center, which statement accurately describes the gravitational influence of the concentric shells that lie outside the radius r?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen143"
+    "question_id": "cbse_xi_keph1dd_c107_gen143",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "What assumption is made about Earth's mass distribution in deriving the equations for gravitational force both inside and outside the Earth?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen144"
+    "question_id": "cbse_xi_keph1dd_c107_gen144",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "For a mass m located at a distance r from the center of the Earth (with r < RE), what is the expression for the gravitational force acting on it?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen145"
+    "question_id": "cbse_xi_keph1dd_c107_gen145",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Explain why the spherical shells of the Earth that lie outside a radius r do not contribute to the gravitational force on a mass located at a distance r from the center.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen146"
+    "question_id": "cbse_xi_keph1dd_c107_gen146",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Derive the expression for the gravitational acceleration g at the surface of the Earth starting from Newton's law of gravitation.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen147"
+    "question_id": "cbse_xi_keph1dd_c107_gen147",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "How can the measurement of the acceleration due to gravity g combined with the values of G and RE be used to estimate the mass of the Earth?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen148"
+    "question_id": "cbse_xi_keph1dd_c107_gen148",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Discuss in detail the role of the shell theorem in deriving the expression for gravitational force inside the Earth and explain how the uniform density assumption leads to a force that varies linearly with distance from the center.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen149"
+    "question_id": "cbse_xi_keph1dd_c107_gen149",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Discuss the potential challenges and limitations in using a uniform density model for the Earth when calculating the gravitational force, especially for points below the Earth's surface.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen150"
+    "question_id": "cbse_xi_keph1dd_c107_gen150",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: For a point mass located inside the Earth, all concentric spherical shells, regardless of their radii, contribute equally to the gravitational force on the mass.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen151"
+    "question_id": "cbse_xi_keph1dd_c107_gen151",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: The gravitational acceleration at the Earth’s surface is given by g = GME/RE^2.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen152"
+    "question_id": "cbse_xi_keph1dd_c107_gen152",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: If the Earth were not of uniform density, the formula g = GME/RE^2 would still exactly apply at all points within the Earth.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen153"
+    "question_id": "cbse_xi_keph1dd_c107_gen153",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "A student is given the following values: gravitational constant G = 6.67 x 10^-11 N m^2/kg^2, Earth's radius RE = 6.37 x 10^6 m, and Earth's mass ME = 5.97 x 10^24 kg. Calculate the gravitational acceleration g at the Earth's surface.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen154"
+    "question_id": "cbse_xi_keph1dd_c107_gen154",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Assuming a uniform density for the Earth, calculate the gravitational acceleration at a depth corresponding to r = 0.5 RE. Use g (at surface) = 9.81 m/s^2.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen155"
+    "question_id": "cbse_xi_keph1dd_c107_gen155",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "A mass of 2 kg is located at a depth where r = 0.8 RE inside the Earth. If the gravitational force acting on it is measured to be 12.5 N, determine the gravitational acceleration at the Earth’s surface.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen156"
+    "question_id": "cbse_xi_keph1dd_c107_gen156",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Using the relation between gravitational acceleration and density for a uniform Earth, derive an expression for Earth's density ρ in terms of g, RE, and G, and then calculate ρ given g = 9.81 m/s^2, RE = 6.37 x 10^6 m, and G = 6.67 x 10^-11 N m^2/kg^2.",
@@ -241,6 +256,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen157"
+    "question_id": "cbse_xi_keph1dd_c107_gen157",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   }
 ]

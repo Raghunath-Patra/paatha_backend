@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen097"
+    "question_id": "cbse_xii_leph1dd_c104_gen097",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "What method is used to determine the direction of the magnetic field around a current-carrying conductor?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen098"
+    "question_id": "cbse_xii_leph1dd_c104_gen098",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "For a circular Amperian loop surrounding an infinitely long straight conductor, what type of symmetry does the magnetic field possess?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen099"
+    "question_id": "cbse_xii_leph1dd_c104_gen099",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "When an Amperian loop is chosen such that the magnetic field (B) is tangential and constant over a segment of length L, the simplified form of Ampere's law is written as:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen100"
+    "question_id": "cbse_xii_leph1dd_c104_gen100",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "In the context of Ampere's circuital law, what does Iₑ represent?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen101"
+    "question_id": "cbse_xii_leph1dd_c104_gen101",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Define Ampere's circuital law in your own words.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen102"
+    "question_id": "cbse_xii_leph1dd_c104_gen102",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Explain why it is advantageous to choose an Amperian loop where the magnetic field is either tangential and constant, normal, or zero.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen103"
+    "question_id": "cbse_xii_leph1dd_c104_gen103",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "State the conditions under which Ampere's law simplifies the calculation of the magnetic field in a system.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen104"
+    "question_id": "cbse_xii_leph1dd_c104_gen104",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Briefly describe the relationship between Ampere's law and the Biot-Savart law.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen105"
+    "question_id": "cbse_xii_leph1dd_c104_gen105",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Discuss the application of Ampere's circuital law in determining the magnetic field around a long straight current-carrying wire. In your answer, address the role of cylindrical symmetry and its impact on the derivation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen106"
+    "question_id": "cbse_xii_leph1dd_c104_gen106",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Explain how the right-hand rule is applied differently for determining the direction of the magnetic field along a straight current-carrying wire versus on the axis of a current loop.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen107"
+    "question_id": "cbse_xii_leph1dd_c104_gen107",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Evaluate the limitations of using Ampere's circuital law in cases of asymmetrical current distributions compared to its successful application in high symmetry situations.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen108"
+    "question_id": "cbse_xii_leph1dd_c104_gen108",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "True or False: Ampere's circuital law can be used to calculate the magnetic field in any arbitrary current configuration.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen109"
+    "question_id": "cbse_xii_leph1dd_c104_gen109",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "True or False: The magnetic field produced by an infinitely long current-carrying wire decreases inversely with the distance from the wire.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen110"
+    "question_id": "cbse_xii_leph1dd_c104_gen110",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "An infinitely long straight wire carries a current of 10 A. Calculate the magnetic field at a distance of 0.05 m from the wire. (Use µ₀ = 4π × 10⁻⁷ H/m.)",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen111"
+    "question_id": "cbse_xii_leph1dd_c104_gen111",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "A cylindrical conductor of radius 0.1 m carries a uniformly distributed current of 20 A. Calculate the magnetic field at a point 0.05 m from the center of the conductor.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen112"
+    "question_id": "cbse_xii_leph1dd_c104_gen112",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "For the same cylindrical conductor (radius 0.1 m, current 20 A), calculate the magnetic field at a point 0.15 m from the center (outside the conductor).",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen113"
+    "question_id": "cbse_xii_leph1dd_c104_gen113",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Derive the expression for the enclosed current Iₑ inside a cylindrical conductor of radius a carrying a total current I, when using an Amperian loop of radius r (with r < a). Show that Iₑ = I (r²/a²).",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen114"
+    "question_id": "cbse_xii_leph1dd_c104_gen114",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   }
 ]

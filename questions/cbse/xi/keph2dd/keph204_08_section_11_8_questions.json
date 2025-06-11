@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen147"
+    "question_id": "cbse_xi_keph2dd_c204_gen147",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Which equation correctly represents the behaviour of an ideal gas during an isothermal process?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen148"
+    "question_id": "cbse_xi_keph2dd_c204_gen148",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "In an adiabatic process for an ideal gas, which of the following expressions remains constant?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen149"
+    "question_id": "cbse_xi_keph2dd_c204_gen149",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "For an isobaric process, which of the following formulas correctly expresses the work done by the gas?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen150"
+    "question_id": "cbse_xi_keph2dd_c204_gen150",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Which of the following processes involves no work being done by or on the gas?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen151"
+    "question_id": "cbse_xi_keph2dd_c204_gen151",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Define a quasi-static process in your own words and explain why it is considered an idealization in thermodynamics.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen152"
+    "question_id": "cbse_xi_keph2dd_c204_gen152",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Explain why, in an isothermal process for an ideal gas, the heat absorbed equals the work done by the gas.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen153"
+    "question_id": "cbse_xi_keph2dd_c204_gen153",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Describe the main differences between isothermal, isobaric, isochoric, and adiabatic processes.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen154"
+    "question_id": "cbse_xi_keph2dd_c204_gen154",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Derive the expression for the work done by an ideal gas during an isothermal process when it expands from an initial volume V1 to a final volume V2 at constant temperature T.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen155"
+    "question_id": "cbse_xi_keph2dd_c204_gen155",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Explain the derivation of the work done during an adiabatic process for an ideal gas, starting from the adiabatic relation P V^(γ) = constant.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen156"
+    "question_id": "cbse_xi_keph2dd_c204_gen156",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "Discuss the characteristics of a cyclic process in thermodynamics and explain why the net change in internal energy over one complete cycle is zero.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen157"
+    "question_id": "cbse_xi_keph2dd_c204_gen157",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "True or False: In an isothermal process of an ideal gas, the internal energy remains unchanged.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen158"
+    "question_id": "cbse_xi_keph2dd_c204_gen158",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "True or False: By definition, an adiabatic process must have no heat exchange between the system and its surroundings.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen159"
+    "question_id": "cbse_xi_keph2dd_c204_gen159",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "True or False: An adiabatic process is always irreversible because it involves no heat exchange with the surroundings.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen160"
+    "question_id": "cbse_xi_keph2dd_c204_gen160",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "An ideal gas undergoes an isothermal expansion at 300 K. If 1 mole of gas expands from a volume of 2 L to 4 L, calculate the work done by the gas. (Use R = 8.314 J/(mol·K); note that ln(2) is approximately 0.693.)",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen161"
+    "question_id": "cbse_xi_keph2dd_c204_gen161",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "A sample of 2 moles of an ideal gas undergoes an adiabatic expansion. Initially, the gas is at 500 K and 10 atm with a volume of 1 L. After the process, the pressure drops to 5 atm. Assuming the gas behaves ideally and using the relation P V^(γ) = constant with γ = 1.4, calculate the final volume and the work done, given that work is W = (P2 V2 - P1 V1) / (1 - γ). (Hint: You may first find V2 using P1 V1^(γ) = P2 V2^(γ)).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen162"
+    "question_id": "cbse_xi_keph2dd_c204_gen162",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "In an isobaric process, 3 moles of an ideal gas are heated from 250 K to 350 K at constant pressure. Calculate the work done by the gas. (Use R = 8.314 J/(mol·K))",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen163"
+    "question_id": "cbse_xi_keph2dd_c204_gen163",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   },
   {
     "question_text": "An ideal gas at constant volume receives 500 J of heat. If the molar specific heat at constant volume (Cv) is 20 J/(mol·K) and the quantity of gas is 2 moles, calculate the change in temperature of the gas.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "08_section_11_8",
-    "question_id": "cbse_xi_keph2dd_c204_gen164"
+    "question_id": "cbse_xi_keph2dd_c204_gen164",
+    "section_name": "11.8 THERMODYNAMIC PROCESSES"
   }
 ]

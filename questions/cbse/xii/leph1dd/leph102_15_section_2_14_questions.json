@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen241"
+    "question_id": "cbse_xii_leph1dd_c102_gen241",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "What is the formula for the effective capacitance (C) when n capacitors are connected in series?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen242"
+    "question_id": "cbse_xii_leph1dd_c102_gen242",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "In a parallel combination of capacitors, which one of the following remains the same across all capacitors?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen243"
+    "question_id": "cbse_xii_leph1dd_c102_gen243",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "When two capacitors with different capacitances are connected in series, how does the voltage drop distribute across them?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen244"
+    "question_id": "cbse_xii_leph1dd_c102_gen244",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "In the network example provided with four 10 μF capacitors connected to a 500 V supply, what is the equivalent capacitance of the network?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen245"
+    "question_id": "cbse_xii_leph1dd_c102_gen245",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Define effective capacitance for capacitors connected in series.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen246"
+    "question_id": "cbse_xii_leph1dd_c102_gen246",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Explain why the charges on capacitors connected in series are identical.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen247"
+    "question_id": "cbse_xii_leph1dd_c102_gen247",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Write the formula for the effective capacitance of capacitors connected in parallel.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen248"
+    "question_id": "cbse_xii_leph1dd_c102_gen248",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Describe how the potential differences add up in a series combination of capacitors.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen249"
+    "question_id": "cbse_xii_leph1dd_c102_gen249",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Analyze the process by which charges redistribute in a series combination of capacitors when connected to a battery. Discuss why the net charge on each capacitor becomes zero.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen250"
+    "question_id": "cbse_xii_leph1dd_c102_gen250",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Discuss the advantages and limitations of combining capacitors in parallel, especially regarding effective capacitance and charge distribution.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen251"
+    "question_id": "cbse_xii_leph1dd_c102_gen251",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "True or False: In a parallel capacitor configuration, all capacitors experience the same potential difference.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen252"
+    "question_id": "cbse_xii_leph1dd_c102_gen252",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "True or False: For capacitors in series, the total charge on the combination is the sum of the charges on each capacitor.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen253"
+    "question_id": "cbse_xii_leph1dd_c102_gen253",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "True or False: The equivalent capacitance of capacitors in series is always less than the smallest individual capacitor in the series.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen254"
+    "question_id": "cbse_xii_leph1dd_c102_gen254",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Calculate the effective capacitance of three capacitors connected in series with capacitances of 5 μF, 10 μF, and 15 μF. Provide the answer in μF to two decimal places.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen255"
+    "question_id": "cbse_xii_leph1dd_c102_gen255",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Find the effective capacitance of two capacitors connected in parallel with capacitances of 8 μF and 12 μF.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen256"
+    "question_id": "cbse_xii_leph1dd_c102_gen256",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "A capacitor network consists of two 20 μF capacitors connected in series, and this series combination is then connected in parallel with a 30 μF capacitor. Calculate the equivalent capacitance of the entire network.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen257"
+    "question_id": "cbse_xii_leph1dd_c102_gen257",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "For a series combination of four capacitors with capacitances of 4 μF, 6 μF, 8 μF, and 12 μF connected to a 240 V supply, calculate the voltage drop across the 12 μF capacitor. Give your answer in volts.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen258"
+    "question_id": "cbse_xii_leph1dd_c102_gen258",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   },
   {
     "question_text": "Using the example network with three 10 μF capacitors in series (forming an effective capacitance of 10/3 μF) connected in parallel with another 10 μF capacitor and a 500 V supply, verify the equivalent capacitance and calculate the charge on each capacitor. Provide your answers with appropriate units.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "15_section_2_14",
-    "question_id": "cbse_xii_leph1dd_c102_gen259"
+    "question_id": "cbse_xii_leph1dd_c102_gen259",
+    "section_name": "2.14 COMBINATION OF CAPACITORS"
   }
 ]

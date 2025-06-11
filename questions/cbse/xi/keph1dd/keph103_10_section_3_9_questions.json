@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen330"
+    "question_id": "cbse_xi_keph1dd_c103_gen330",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "In projectile motion, what are the accelerations along the horizontal (x) and vertical (y) directions?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen331"
+    "question_id": "cbse_xi_keph1dd_c103_gen331",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "For a projectile launched with an initial speed v₀ at an angle θ₀, at which angle is the horizontal range maximum?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen332"
+    "question_id": "cbse_xi_keph1dd_c103_gen332",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "Which of the following equations correctly represents the path of a projectile?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen333"
+    "question_id": "cbse_xi_keph1dd_c103_gen333",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "Briefly define projectile motion and explain the assumption made about air resistance in its analysis.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen334"
+    "question_id": "cbse_xi_keph1dd_c103_gen334",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "Derive the expression for the maximum height reached by a projectile, starting from its initial velocity components.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen335"
+    "question_id": "cbse_xi_keph1dd_c103_gen335",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "Explain the reason behind the independence of horizontal and vertical components in projectile motion.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen336"
+    "question_id": "cbse_xi_keph1dd_c103_gen336",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "Derive the parabola equation for the path of a projectile by eliminating the time variable from the horizontal and vertical displacement equations.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen337"
+    "question_id": "cbse_xi_keph1dd_c103_gen337",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "Discuss how the horizontal range equation, R = (v₀² sin 2θ₀)/g, is derived and why a launch angle of 45° yields the maximum range.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen338"
+    "question_id": "cbse_xi_keph1dd_c103_gen338",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "True or False: In projectile motion (neglecting air resistance), the horizontal component of velocity changes during the motion.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen339"
+    "question_id": "cbse_xi_keph1dd_c103_gen339",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "True or False: The total time of flight of a projectile is independent of the launch angle as long as it lands at the same vertical level from which it was launched. ",
@@ -181,7 +191,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen340"
+    "question_id": "cbse_xi_keph1dd_c103_gen340",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "A cricket ball is thrown with an initial speed of 28 m/s at an angle of 30° above the horizontal. Calculate (a) the maximum height reached, (b) the total time of flight, and (c) the horizontal range of the ball.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen341"
+    "question_id": "cbse_xi_keph1dd_c103_gen341",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "A hiker stands on the edge of a cliff that is 490 m above the ground and throws a stone horizontally at 15 m/s. Determine (a) the time taken for the stone to hit the ground and (b) the speed of the stone just before impact.",
@@ -209,7 +221,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen342"
+    "question_id": "cbse_xi_keph1dd_c103_gen342",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "A ball is projected from the ground with an initial speed of 20 m/s at an angle of 60° with respect to the horizontal. Calculate (a) the time to reach maximum height, and (b) the horizontal range of the ball.",
@@ -223,7 +236,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen343"
+    "question_id": "cbse_xi_keph1dd_c103_gen343",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "A projectile is launched at an initial speed of 25 m/s. Two different launch angles, 40° and 50°, are used. Explain why, according to Galileo's observation, these angles result in the same horizontal range.",
@@ -237,7 +251,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen344"
+    "question_id": "cbse_xi_keph1dd_c103_gen344",
+    "section_name": "3.9 PROJECTILE MOTION"
   },
   {
     "question_text": "A projectile is launched at 30 m/s at an angle of 20° above the horizontal. Determine (a) the time of flight, (b) the maximum height reached, and (c) the horizontal range.",
@@ -251,6 +266,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "10_section_3_9",
-    "question_id": "cbse_xi_keph1dd_c103_gen345"
+    "question_id": "cbse_xi_keph1dd_c103_gen345",
+    "section_name": "3.9 PROJECTILE MOTION"
   }
 ]

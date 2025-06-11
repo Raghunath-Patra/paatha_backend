@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen224"
+    "question_id": "cbse_xi_keph1dd_c103_gen224",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Which of the following statements best describes instantaneous velocity?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen225"
+    "question_id": "cbse_xi_keph1dd_c103_gen225",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "For motion in a plane, if the velocity vector is given by v = v_x î + v_y ĵ, how is the magnitude of the velocity calculated?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen226"
+    "question_id": "cbse_xi_keph1dd_c103_gen226",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "According to the text, what is the direction of the instantaneous velocity vector relative to the path of the object?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen227"
+    "question_id": "cbse_xi_keph1dd_c103_gen227",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A particle has velocity components of 3 m/s along the x-axis and 4 m/s along the y-axis. What is the magnitude of its velocity?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen228"
+    "question_id": "cbse_xi_keph1dd_c103_gen228",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Define the displacement vector in a two-dimensional plane in your own words.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen229"
+    "question_id": "cbse_xi_keph1dd_c103_gen229",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "How does average velocity differ from instantaneous velocity in two-dimensional motion?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen230"
+    "question_id": "cbse_xi_keph1dd_c103_gen230",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "What is the significance of taking the limit as Δt approaches zero when defining instantaneous velocity and acceleration?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen231"
+    "question_id": "cbse_xi_keph1dd_c103_gen231",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Explain how the angle of a velocity vector is determined from its components in a two-dimensional plane.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen232"
+    "question_id": "cbse_xi_keph1dd_c103_gen232",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Discuss the process of decomposing a position vector into its components and explain how these components are used to calculate displacement and velocity in two-dimensional motion. Provide a detailed explanation with reference to the equations described in the text.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen233"
+    "question_id": "cbse_xi_keph1dd_c103_gen233",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Explain the graphical interpretation of instantaneous velocity using the diagrams provided in the text, specifically referring to how the tangent to the path represents the velocity vector.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen234"
+    "question_id": "cbse_xi_keph1dd_c103_gen234",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "Evaluate the method of calculating acceleration from the velocity components by discussing its applicability and any limitations when dealing with non-uniform or curved motion in two dimensions.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen235"
+    "question_id": "cbse_xi_keph1dd_c103_gen235",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "True or False: The instantaneous velocity of an object is always directed along the tangent to the object’s path.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen236"
+    "question_id": "cbse_xi_keph1dd_c103_gen236",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "True or False: In two-dimensional motion, the x and y components of acceleration are always equal in magnitude.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen237"
+    "question_id": "cbse_xi_keph1dd_c103_gen237",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A particle has a position vector given by r = (2t î) + (3t² ĵ), where t is in seconds and r is in meters. Determine the velocity and acceleration vectors as functions of time.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen238"
+    "question_id": "cbse_xi_keph1dd_c103_gen238",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "At a certain instant, a particle has velocity components v_x = 5 m/s and v_y = 12 m/s. Calculate the magnitude of the velocity vector and its direction angle with respect to the x-axis.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen239"
+    "question_id": "cbse_xi_keph1dd_c103_gen239",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A particle moves such that over a time interval of 2 seconds, it covers 6 m in the x-direction and 8 m in the y-direction. Compute its average velocity vector, including its magnitude and components.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen240"
+    "question_id": "cbse_xi_keph1dd_c103_gen240",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A particle is moving in a plane and its displacement over a small time interval Δt is given by Δr = (4Δt î) + (3Δt ĵ). Assuming that the velocity components are constant during Δt, determine the instantaneous velocity of the particle.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen241"
+    "question_id": "cbse_xi_keph1dd_c103_gen241",
+    "section_name": "3.7 MOTION IN A PLANE"
   },
   {
     "question_text": "A particle moves in a circular path such that its position vector is given by r(t) = 3 cos(t) î + 3 sin(t) ĵ. Determine the instantaneous velocity vector and verify that its magnitude is constant.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xi_keph1dd_c103_gen242"
+    "question_id": "cbse_xi_keph1dd_c103_gen242",
+    "section_name": "3.7 MOTION IN A PLANE"
   }
 ]

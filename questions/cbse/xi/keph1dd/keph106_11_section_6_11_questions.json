@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen357"
+    "question_id": "cbse_xi_keph1dd_c106_gen357",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Which of the following expressions correctly represents the work done by a torque during an infinitesimal angular displacement?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen358"
+    "question_id": "cbse_xi_keph1dd_c106_gen358",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "In calculating the torque on a rigid body rotating about a fixed axis, which force components are considered?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen359"
+    "question_id": "cbse_xi_keph1dd_c106_gen359",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "What is the rotational analogue of mass in linear motion?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen360"
+    "question_id": "cbse_xi_keph1dd_c106_gen360",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Which equation correctly relates power, torque, and angular velocity in rotational motion?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen361"
+    "question_id": "cbse_xi_keph1dd_c106_gen361",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Define moment of inertia and explain its significance in rotational motion.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen362"
+    "question_id": "cbse_xi_keph1dd_c106_gen362",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Explain why, for a body rotating about a fixed axis, only forces in the plane perpendicular to the axis and the corresponding perpendicular components of the position vectors are considered in calculating torque.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen363"
+    "question_id": "cbse_xi_keph1dd_c106_gen363",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "State the relationship between the work done by a torque and the angular displacement of a rotating body.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen364"
+    "question_id": "cbse_xi_keph1dd_c106_gen364",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Derive the expression for the work done by a torque acting on a rotating body and compare it with the expression for work in linear motion.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen365"
+    "question_id": "cbse_xi_keph1dd_c106_gen365",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Discuss the dynamics of rotational motion about a fixed axis, focusing on how external torques perform work and increase the kinetic energy of a rigid body.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen366"
+    "question_id": "cbse_xi_keph1dd_c106_gen366",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Analyze Example 6.12: Describe the steps used to calculate the angular acceleration of the flywheel, and explain how the work done by the pull is related to the rotational kinetic energy of the wheel.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen367"
+    "question_id": "cbse_xi_keph1dd_c106_gen367",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "True or False: In rotational motion, components of the position vector along the axis contribute to the torque about the fixed axis.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen368"
+    "question_id": "cbse_xi_keph1dd_c106_gen368",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "True or False: The equation F = Ma in linear motion is directly analogous to tau = I alpha in rotational motion.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen369"
+    "question_id": "cbse_xi_keph1dd_c106_gen369",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "True or False: In the calculation of work done by a torque, only the component of force perpendicular to the radius is used.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen370"
+    "question_id": "cbse_xi_keph1dd_c106_gen370",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A uniform disk of mass 10 kg and radius 0.5 m is subjected to a constant tangential force of 15 N. Given that the moment of inertia for a disk is I = (1/2)MR², calculate (a) the angular acceleration of the disk, and (b) the work done when the disk rotates through an angle of 4 rad.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen371"
+    "question_id": "cbse_xi_keph1dd_c106_gen371",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A rotor has a moment of inertia of 2 kg·m² and reaches a final angular velocity of 8 rad/s. Calculate its rotational kinetic energy.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen372"
+    "question_id": "cbse_xi_keph1dd_c106_gen372",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A flywheel with a moment of inertia of 0.5 kg·m² accelerates from rest to an angular velocity of 6 rad/s under a constant torque, with an angular acceleration of 3 rad/s². Calculate (a) the torque applied and (b) the work done after the flywheel rotates through 10 rad.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen373"
+    "question_id": "cbse_xi_keph1dd_c106_gen373",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A cord of negligible weight is wound around a wheel of radius 0.1 m. A constant force of 20 N is applied tangentially, and the wheel has a moment of inertia of 0.3 kg·m². (a) Calculate the angular acceleration of the wheel, and (b) determine the rotational kinetic energy after an angular displacement of 8 rad, assuming the wheel starts from rest.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "11_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen374"
+    "question_id": "cbse_xi_keph1dd_c106_gen374",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   }
 ]

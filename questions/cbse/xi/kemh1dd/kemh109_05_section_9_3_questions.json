@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen031"
+    "question_id": "cbse_xi_kemh1dd_c109_gen031",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "In the point-slope form, the equation of a line passing through the fixed point (x₀, y₀) with slope m is given by:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen032"
+    "question_id": "cbse_xi_kemh1dd_c109_gen032",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Which of the following is the slope-intercept form of a line?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen033"
+    "question_id": "cbse_xi_kemh1dd_c109_gen033",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "If a line has an x-intercept d and slope m, which of the following equations correctly represents the line?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen034"
+    "question_id": "cbse_xi_kemh1dd_c109_gen034",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Define the term 'y-intercept' of a line.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen035"
+    "question_id": "cbse_xi_kemh1dd_c109_gen035",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "State the condition using the point-slope form that ensures a point P(x, y) lies on a line passing through a fixed point (x₀, y₀) with slope m.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen036"
+    "question_id": "cbse_xi_kemh1dd_c109_gen036",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Explain the difference between the equations of horizontal and vertical lines.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen037"
+    "question_id": "cbse_xi_kemh1dd_c109_gen037",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "What is the intercept form of the equation of a line? State what the intercepts represent in the equation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen038"
+    "question_id": "cbse_xi_kemh1dd_c109_gen038",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Derive the point-slope form of a line's equation starting from the definition of the slope for a line that passes through a fixed point (x₀, y₀) and an arbitrary point (x, y) on the line.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen039"
+    "question_id": "cbse_xi_kemh1dd_c109_gen039",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Prove that the slope-intercept form y = mx + c correctly represents a line with slope m and y-intercept c.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen040"
+    "question_id": "cbse_xi_kemh1dd_c109_gen040",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Find the equation of the horizontal line that passes through the point (2, –5).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen041"
+    "question_id": "cbse_xi_kemh1dd_c109_gen041",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Find the equation of the vertical line that passes through the point (4, 2).",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen042"
+    "question_id": "cbse_xi_kemh1dd_c109_gen042",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Find the equation of the line passing through the points (–1, 0) and (2, 4) using the two-point form.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen043"
+    "question_id": "cbse_xi_kemh1dd_c109_gen043",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "A line has an x-intercept of –3 and a y-intercept of 2. Find its equation in intercept form and then convert it to the general form.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen044"
+    "question_id": "cbse_xi_kemh1dd_c109_gen044",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   }
 ]

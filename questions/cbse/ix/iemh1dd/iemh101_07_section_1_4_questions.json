@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen042"
+    "question_id": "cbse_ix_iemh1dd_c101_gen042",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "What is the value of (√a + √b)(√a − √b) in terms of a and b?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen043"
+    "question_id": "cbse_ix_iemh1dd_c101_gen043",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "If 2 + √3 is added to 2√3, what type of number is the result?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen044"
+    "question_id": "cbse_ix_iemh1dd_c101_gen044",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "What is the correct rationalized form of the expression 1/(2 + √3)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen045"
+    "question_id": "cbse_ix_iemh1dd_c101_gen045",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Define an irrational number and provide an example, including its decimal expansion properties.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen046"
+    "question_id": "cbse_ix_iemh1dd_c101_gen046",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "List and explain the properties related to the operations on irrational numbers concerning closure under addition, subtraction, multiplication, and division by a nonzero rational.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen047"
+    "question_id": "cbse_ix_iemh1dd_c101_gen047",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Describe the geometric construction used to find √x for a given positive real number x. Include details such as the significance of the semicircle, midpoints, and perpendicular.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen048"
+    "question_id": "cbse_ix_iemh1dd_c101_gen048",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Prove that (√a + √b)(√a − √b) = a − b, stating each step clearly and using appropriate algebraic identities.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen049"
+    "question_id": "cbse_ix_iemh1dd_c101_gen049",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Using the geometric construction of √x, prove that the line segment BD constructed as in the method satisfies the condition BD = √x. Provide a detailed derivation using the Pythagorean theorem.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen050"
+    "question_id": "cbse_ix_iemh1dd_c101_gen050",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Calculate the product 6√5 × 2√5.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen051"
+    "question_id": "cbse_ix_iemh1dd_c101_gen051",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Simplify the expression (5 + √7)(2 + √5) and present each step clearly.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen052"
+    "question_id": "cbse_ix_iemh1dd_c101_gen052",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Rationalise the denominator of 1/(2 + √3), showing all the steps involved.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen053"
+    "question_id": "cbse_ix_iemh1dd_c101_gen053",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Rationalise the denominator of 5/(√3 − √5) and simplify your answer step-by-step.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen054"
+    "question_id": "cbse_ix_iemh1dd_c101_gen054",
+    "section_name": "1.4 Operations on Real Numbers"
   },
   {
     "question_text": "Express 1/√2 in its rationalised form and explain where this value lies on the number line.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "07_section_1_4",
-    "question_id": "cbse_ix_iemh1dd_c101_gen055"
+    "question_id": "cbse_ix_iemh1dd_c101_gen055",
+    "section_name": "1.4 Operations on Real Numbers"
   }
 ]

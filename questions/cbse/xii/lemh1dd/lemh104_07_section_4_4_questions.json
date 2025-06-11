@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen041"
+    "question_id": "cbse_xii_lemh1dd_c104_gen041",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "In the cofactor A₍ᵢⱼ₎ of an element a₍ᵢⱼ₎, what is the role of the factor (–1)^(i+j)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen042"
+    "question_id": "cbse_xii_lemh1dd_c104_gen042",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "Which of the following expressions correctly represents the expansion of a determinant along the first row in terms of cofactors?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen043"
+    "question_id": "cbse_xii_lemh1dd_c104_gen043",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "Define the term 'minor' of an element in a determinant and state its typical notation.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen044"
+    "question_id": "cbse_xii_lemh1dd_c104_gen044",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "Explain the purpose of the sign factor (–1)^(i+j) in the definition of a cofactor.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen045"
+    "question_id": "cbse_xii_lemh1dd_c104_gen045",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "Discuss why the determinant of a matrix can be expanded along any row or column without changing its value.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen046"
+    "question_id": "cbse_xii_lemh1dd_c104_gen046",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "Prove that if the elements of one row are multiplied by the cofactors of any other row, then their sum equals zero.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen047"
+    "question_id": "cbse_xii_lemh1dd_c104_gen047",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "Derive the formula for the expansion of a 3×3 determinant along the first row using minors and cofactors.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen048"
+    "question_id": "cbse_xii_lemh1dd_c104_gen048",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "Given the 3×3 determinant Δ = | 1  2  3 |\n                 | 4  5  6 |\n                 | 7  8  9 |, find the minor M₂₃ of the element 6 and compute its value.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen049"
+    "question_id": "cbse_xii_lemh1dd_c104_gen049",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "For the 2×2 determinant Δ = | 1  –2 |\n                              | 3   4 |, determine the minors and cofactors of all elements.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen050"
+    "question_id": "cbse_xii_lemh1dd_c104_gen050",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "For the determinant given by:\n| 2  -3   5 |\n| 6   0   4 |\n| 1   5  -7 |,\nfind the minors and cofactors of the elements a₁₁ and a₂₁.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen051"
+    "question_id": "cbse_xii_lemh1dd_c104_gen051",
+    "section_name": "4.4 Minors and Cofactors"
   },
   {
     "question_text": "Verify that for the determinant\n| 2  -3   5 |\n| 6   0   4 |\n| 1   5  -7 |,\nwe have a₁₁A₃₁ + a₁₂A₃₂ + a₁₃A₃₃ = 0. (Use the cofactors corresponding to the third row.)",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_xii_lemh1dd_c104_gen052"
+    "question_id": "cbse_xii_lemh1dd_c104_gen052",
+    "section_name": "4.4 Minors and Cofactors"
   }
 ]

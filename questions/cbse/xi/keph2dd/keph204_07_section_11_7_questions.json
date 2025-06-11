@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen112"
+    "question_id": "cbse_xi_keph2dd_c204_gen112",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "For an ideal gas, the equation of state is given by PV = μRT. Which two variables can be taken as independent for a fixed mass of gas?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen113"
+    "question_id": "cbse_xi_keph2dd_c204_gen113",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "In the equation ΔQ = ΔU + PΔV, what is the nature of the product PΔV?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen114"
+    "question_id": "cbse_xi_keph2dd_c204_gen114",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "Which scenario correctly represents a non-equilibrium thermodynamic process?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen115"
+    "question_id": "cbse_xi_keph2dd_c204_gen115",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "Identify the following as either intensive or extensive variables: internal energy, density, volume, and temperature.",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen116"
+    "question_id": "cbse_xi_keph2dd_c204_gen116",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "Define extensive and intensive variables in the context of thermodynamic systems and provide one example for each.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen117"
+    "question_id": "cbse_xi_keph2dd_c204_gen117",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "Explain why the equation of state for an ideal gas (PV = μRT) implies that there are only two independent state variables for a fixed amount of gas.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen118"
+    "question_id": "cbse_xi_keph2dd_c204_gen118",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "Discuss the importance of uniform temperature and pressure in defining an equilibrium state using examples from free expansion and chemical reactions.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen119"
+    "question_id": "cbse_xi_keph2dd_c204_gen119",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "Analyze how the consistency of thermodynamic equations can be checked using the classification of variables as intensive and extensive, using the equation ΔQ = ΔU + PΔV as an example.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen120"
+    "question_id": "cbse_xi_keph2dd_c204_gen120",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "The partition in a container is removed, allowing a gas to expand freely into a vacuum. If the initial pressure is 500 Pa and the volume doubles, what is the work done by the gas assuming ideal gas behavior?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen121"
+    "question_id": "cbse_xi_keph2dd_c204_gen121",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "A fixed amount of an ideal gas has an initial state of pressure 150 kPa and volume 2.0 L at a constant temperature. If the gas is compressed isothermally to a final volume of 1.0 L, calculate the final pressure using the ideal gas law.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen122"
+    "question_id": "cbse_xi_keph2dd_c204_gen122",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "For an ideal gas obeying the equation of state PV = μRT, if 0.5 moles of gas (μ = 0.5 moles) are at a temperature of 300 K and a pressure of 100 kPa, calculate the volume occupied by the gas. (Use R = 8.314 J/mol·K)",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen123"
+    "question_id": "cbse_xi_keph2dd_c204_gen123",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "A piston-cylinder device contains an ideal gas. During a process, the gas undergoes a volume change of 0.05 m³ under a constant pressure of 150 kPa. If the change in internal energy is measured to be 2000 J, calculate the heat added to the system using the equation ΔQ = ΔU + PΔV.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen124"
+    "question_id": "cbse_xi_keph2dd_c204_gen124",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "True or False: In thermodynamic systems, intensive variables such as temperature and pressure change when the system is divided into equal parts.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen125"
+    "question_id": "cbse_xi_keph2dd_c204_gen125",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   },
   {
     "question_text": "True or False: The equation PV = μRT is applicable to all gases under all conditions.",
@@ -232,6 +246,7 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "07_section_11_7",
-    "question_id": "cbse_xi_keph2dd_c204_gen126"
+    "question_id": "cbse_xi_keph2dd_c204_gen126",
+    "section_name": "11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE"
   }
 ]

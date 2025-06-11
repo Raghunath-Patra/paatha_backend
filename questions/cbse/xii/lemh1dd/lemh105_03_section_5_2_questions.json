@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen015"
+    "question_id": "cbse_xii_lemh1dd_c105_gen015",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Consider the function f defined as follows: f(x) = 1 for x ≤ 0 and f(x) = 2 for x > 0. Which of the following statements about f is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen016"
+    "question_id": "cbse_xii_lemh1dd_c105_gen016",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "For the function f defined by f(0) = 1 and f(x) = x³ + 3 for x ≠ 0, why is f discontinuous at x = 0?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen017"
+    "question_id": "cbse_xii_lemh1dd_c105_gen017",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Which of the following functions is continuous on its entire domain?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen018"
+    "question_id": "cbse_xii_lemh1dd_c105_gen018",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Define in your own words what it means for a function f to be continuous at a point c.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen019"
+    "question_id": "cbse_xii_lemh1dd_c105_gen019",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Explain why the function f(x) = |x| is continuous at x = 0.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen020"
+    "question_id": "cbse_xii_lemh1dd_c105_gen020",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "What is a jump discontinuity? Provide an example from the text.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen021"
+    "question_id": "cbse_xii_lemh1dd_c105_gen021",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Define what it means for a function f to be continuous on a closed interval [a, b].",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen022"
+    "question_id": "cbse_xii_lemh1dd_c105_gen022",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Prove that the function f(x) = tan x is continuous on its domain.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen023"
+    "question_id": "cbse_xii_lemh1dd_c105_gen023",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Prove that every polynomial function p(x) = a₀ + a₁x + ... + aₙxⁿ is continuous for all x ∈ ℝ.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen024"
+    "question_id": "cbse_xii_lemh1dd_c105_gen024",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Determine all points of discontinuity for the greatest integer function f(x) = [x].",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen025"
+    "question_id": "cbse_xii_lemh1dd_c105_gen025",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Consider the function defined by f(x) = { x + 2 if x ≤ 1, x – 2 if x > 1 }. Verify the continuity of f at x = 1.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen026"
+    "question_id": "cbse_xii_lemh1dd_c105_gen026",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Determine whether the function f(x) = 1/x is continuous at x = 2, and provide the reasoning.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen027"
+    "question_id": "cbse_xii_lemh1dd_c105_gen027",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "For the piecewise function f(x) = { x² for x < 0, x for x ≥ 0 }, verify the continuity at x = 0 by computing the left–hand and right–hand limits.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen028"
+    "question_id": "cbse_xii_lemh1dd_c105_gen028",
+    "section_name": "5.2 Continuity"
   },
   {
     "question_text": "Given the function f(x) = (x³ + 1)/(x + 1) for x ≠ -1 and f(-1) = 3, determine whether f is continuous at x = -1.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lemh1dd_c105_gen029"
+    "question_id": "cbse_xii_lemh1dd_c105_gen029",
+    "section_name": "5.2 Continuity"
   }
 ]

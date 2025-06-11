@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen015"
+    "question_id": "cbse_ix_iemh1dd_c111_gen015",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "In the experiment where a cone is filled and poured into a cylinder of the same base and height, how many cone volumes are required to fill the cylinder completely?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen016"
+    "question_id": "cbse_ix_iemh1dd_c111_gen016",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "Given a cone with volume V and a cylinder having the same base and height, what is the volume of the cylinder expressed in terms of V?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen017"
+    "question_id": "cbse_ix_iemh1dd_c111_gen017",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "In the context of a right circular cone, using the relationship l² = r² + h², what does l represent?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen018"
+    "question_id": "cbse_ix_iemh1dd_c111_gen018",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "Define a right circular cone and state its key properties.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen019"
+    "question_id": "cbse_ix_iemh1dd_c111_gen019",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "Explain why the volume of a cone is one-third of the volume of a cylinder with the same base and height.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen020"
+    "question_id": "cbse_ix_iemh1dd_c111_gen020",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "State the formula for the curved surface area of a right circular cone and explain each component of the formula.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen021"
+    "question_id": "cbse_ix_iemh1dd_c111_gen021",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "Derive the formula for the volume of a right circular cone using the method of integration.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen022"
+    "question_id": "cbse_ix_iemh1dd_c111_gen022",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "Using the method of geometric dissection and rearrangement, prove that the volume of a right circular cone is one-third of the volume of the corresponding cylinder.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen023"
+    "question_id": "cbse_ix_iemh1dd_c111_gen023",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "Calculate the volume of a right circular cone with a base radius of 5 cm and a height of 12 cm.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen024"
+    "question_id": "cbse_ix_iemh1dd_c111_gen024",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "A cone has a slant height of 13 cm and a vertical height of 12 cm. Find the radius of the cone and its volume.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen025"
+    "question_id": "cbse_ix_iemh1dd_c111_gen025",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "Monica plans to construct a conical tent using a canvas of area 600 m². After accounting for 2 m² wastage, she has 598 m² available for the curved surface. If the base radius of the tent is 10 m, calculate the slant height, the vertical height, and the volume of the tent.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen026"
+    "question_id": "cbse_ix_iemh1dd_c111_gen026",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   },
   {
     "question_text": "A conical water tank has a height of 10 m and a base radius of 5 m. Calculate the volume of water required to completely fill the tank.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "iemh111",
     "section_id": "05_section_11_3",
-    "question_id": "cbse_ix_iemh1dd_c111_gen027"
+    "question_id": "cbse_ix_iemh1dd_c111_gen027",
+    "section_name": "11.3 Volume of a Right Circular Cone"
   }
 ]

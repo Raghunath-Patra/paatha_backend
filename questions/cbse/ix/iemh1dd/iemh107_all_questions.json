@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen044"
+    "question_id": "cbse_ix_iemh1dd_c107_gen044",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "In an isosceles triangle, which pair of angles has been proven to be equal?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen045"
+    "question_id": "cbse_ix_iemh1dd_c107_gen045",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "If the bisector of ∠A in triangle ABC is also perpendicular to side BC, what can be concluded about the triangle?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen046"
+    "question_id": "cbse_ix_iemh1dd_c107_gen046",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "When a triangle (with ∠B = ∠C = 50°) is cut out and folded along the bisector of ∠A, the vertex C falls on vertex B. What does this demonstrate about the sides of the triangle?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen047"
+    "question_id": "cbse_ix_iemh1dd_c107_gen047",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Define an isosceles triangle.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen048"
+    "question_id": "cbse_ix_iemh1dd_c107_gen048",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "State Theorem 7.3 regarding the relationship between angles and sides in a triangle.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen049"
+    "question_id": "cbse_ix_iemh1dd_c107_gen049",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Which congruence criterion is used in the proof that the angles opposite to equal sides of an isosceles triangle are equal?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen050"
+    "question_id": "cbse_ix_iemh1dd_c107_gen050",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Explain how the folding technique demonstrates that the sides opposite equal angles in a triangle are equal.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen051"
+    "question_id": "cbse_ix_iemh1dd_c107_gen051",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Prove Theorem 7.2: In an isosceles triangle, the angles opposite to the equal sides are equal.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen052"
+    "question_id": "cbse_ix_iemh1dd_c107_gen052",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Prove Theorem 7.3: In any triangle, if two angles are equal, then the sides opposite those angles are equal. Use the ASA congruence criterion in your proof.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen053"
+    "question_id": "cbse_ix_iemh1dd_c107_gen053",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Numerical Problem: In an isosceles triangle ABC, the equal sides AB and AC measure 5 cm each, while the base BC measures 6 cm. Use the cosine rule to find the measure of the vertex angle ∠A and hence determine the measure of the base angles.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen054"
+    "question_id": "cbse_ix_iemh1dd_c107_gen054",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Numerical Problem: In triangle ABC, AD is drawn perpendicular to BC. Given that the base BC = 12 cm and the altitude AD = 9 cm, compute the lengths of the equal sides AB and AC assuming triangle ABC is isosceles.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen055"
+    "question_id": "cbse_ix_iemh1dd_c107_gen055",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Numerical Problem: In an isosceles triangle with equal sides of length 3.5 cm and base of length 5 cm, verify the construction by calculating the altitude from the vertex to the base and then confirming that the corresponding base angles are equal.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen056"
+    "question_id": "cbse_ix_iemh1dd_c107_gen056",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Numerical Problem: In triangle ABC, ∠B and ∠C are both 50°, and side BC is 7 cm. Use the Law of Sines to determine the lengths of sides AB and AC.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_ix_iemh1dd_c107_gen057"
+    "question_id": "cbse_ix_iemh1dd_c107_gen057",
+    "section_name": "7.4 Some Properties of a Triangle"
   },
   {
     "question_text": "Which of the following best states the SSS (Side-Side-Side) congruence rule for triangles?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen058"
+    "question_id": "cbse_ix_iemh1dd_c107_gen058",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "In the context of right triangles, what does the RHS congruence rule stand for?",
@@ -251,7 +266,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen059"
+    "question_id": "cbse_ix_iemh1dd_c107_gen059",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Which of the following sets of triangle conditions is NOT sufficient to guarantee triangle congruence?",
@@ -270,7 +286,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen060"
+    "question_id": "cbse_ix_iemh1dd_c107_gen060",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "If two right triangles have a hypotenuse of equal length and one corresponding side equal in length, which congruence rule should be used to prove that the triangles are congruent?",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen061"
+    "question_id": "cbse_ix_iemh1dd_c107_gen061",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Define the SSS congruence rule in your own words.",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen062"
+    "question_id": "cbse_ix_iemh1dd_c107_gen062",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Explain the RHS congruence rule and give an example of when it would be used.",
@@ -317,7 +336,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen063"
+    "question_id": "cbse_ix_iemh1dd_c107_gen063",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Discuss the difference between the conditions SAS and SSA in establishing triangle congruence. Why is SSA not a valid criterion for triangle congruence?",
@@ -331,7 +351,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen064"
+    "question_id": "cbse_ix_iemh1dd_c107_gen064",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Prove that if a point P is equidistant from two intersecting lines l and m at point A, then the line joining A and P bisects the angle between l and m. Provide a detailed proof using the RHS congruence rule.",
@@ -345,7 +366,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen065"
+    "question_id": "cbse_ix_iemh1dd_c107_gen065",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Given two triangles with sides of lengths 4 cm, 3.5 cm, and 4.5 cm, describe a constructive procedure to verify their congruence using the SSS rule. Include all necessary steps.",
@@ -359,7 +381,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen066"
+    "question_id": "cbse_ix_iemh1dd_c107_gen066",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Two right triangles have a hypotenuse measuring 10 cm and one leg measuring 6 cm. Demonstrate using the RHS congruence rule that these two triangles are congruent. Show your calculations.",
@@ -373,7 +396,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen067"
+    "question_id": "cbse_ix_iemh1dd_c107_gen067",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Triangle 1 has sides of lengths 5 cm, 7 cm, and 8 cm. Triangle 2 also has sides 5 cm, 7 cm, and 8 cm. Using the SSS rule, determine if the triangles are congruent, and show your working.",
@@ -387,7 +411,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen068"
+    "question_id": "cbse_ix_iemh1dd_c107_gen068",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Two right triangles have sides (other than the hypotenuse) that are 3 cm and 4 cm in one triangle, and 4 cm and 3 cm in the second triangle, with both having a hypotenuse of 5 cm. Verify their congruence using appropriate congruence criteria and show all calculations.",
@@ -401,7 +426,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "07_section_7_5",
-    "question_id": "cbse_ix_iemh1dd_c107_gen069"
+    "question_id": "cbse_ix_iemh1dd_c107_gen069",
+    "section_name": "7.5 Some More Criteria for Congruence of Triangles"
   },
   {
     "question_text": "∆ABC and ∆DBC are two isosceles triangles on the same base BC with vertices A and D on the same side of BC. If AD is extended to intersect BC at P, show that:\n(i) ∆ABD ≅ ∆ACD\n(ii) ∆ABP ≅ ∆ACP\n(iii) AP bisects ∠A as well as ∠D\n(iv) AP is the perpendicular bisector of BC.",
@@ -485,7 +511,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen070"
+    "question_id": "cbse_ix_iemh1dd_c107_gen070",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "In congruent figures, which of the following statements is true?",
@@ -504,7 +531,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen071"
+    "question_id": "cbse_ix_iemh1dd_c107_gen071",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Two circles are said to be congruent if:",
@@ -523,7 +551,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen072"
+    "question_id": "cbse_ix_iemh1dd_c107_gen072",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "What is the measure of each interior angle in an equilateral triangle?",
@@ -542,7 +571,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen073"
+    "question_id": "cbse_ix_iemh1dd_c107_gen073",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Define congruence in the context of geometric figures.",
@@ -556,7 +586,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen074"
+    "question_id": "cbse_ix_iemh1dd_c107_gen074",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "State the conditions for the SAS (Side-Angle-Side) congruence rule for triangles.",
@@ -570,7 +601,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen075"
+    "question_id": "cbse_ix_iemh1dd_c107_gen075",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Explain why circles with equal radii are considered congruent.",
@@ -584,7 +616,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen076"
+    "question_id": "cbse_ix_iemh1dd_c107_gen076",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "What does the AAS (Angle-Angle-Side) congruence rule state about triangles?",
@@ -598,7 +631,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen077"
+    "question_id": "cbse_ix_iemh1dd_c107_gen077",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Provide a detailed proof using the ASA (Angle-Side-Angle) congruence rule to show that two given triangles are congruent.",
@@ -612,7 +646,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen078"
+    "question_id": "cbse_ix_iemh1dd_c107_gen078",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Using the AAS (Angle-Angle-Side) criterion, prove that if ∠A = ∠P, ∠B = ∠Q, and side BC = side QR in triangles ABC and PQR respectively, then the triangles are congruent.",
@@ -626,7 +661,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen079"
+    "question_id": "cbse_ix_iemh1dd_c107_gen079",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Two right triangles have a hypotenuse of 10 units and one leg of 6 units. Use the RHS (Right angle-Hypotenuse-Side) criterion to determine if these triangles are congruent.",
@@ -640,7 +676,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen080"
+    "question_id": "cbse_ix_iemh1dd_c107_gen080",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "An equilateral triangle has a side length of 5 cm. Calculate the measure of each interior angle.",
@@ -654,7 +691,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen081"
+    "question_id": "cbse_ix_iemh1dd_c107_gen081",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Triangle ABC has sides AB = 7 cm, AC = 9 cm, with an included angle ∠A = 50°. Triangle PQR has sides PQ = 7 cm, PR = 9 cm, with an included angle ∠P = 50°. Use the SAS congruence rule to verify that triangle ABC is congruent to triangle PQR.",
@@ -668,7 +706,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen082"
+    "question_id": "cbse_ix_iemh1dd_c107_gen082",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Triangle ABC and triangle DEF have side lengths of 5 cm, 7 cm, and 8 cm respectively. Demonstrate using the SSS congruence rule that these triangles are congruent.",
@@ -682,7 +721,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen083"
+    "question_id": "cbse_ix_iemh1dd_c107_gen083",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Triangle ABC has angles 40° and 70° with side AB = 7 cm between them. Triangle DEF has angles 40° and 70° with side DE = 7 cm between those angles. Using the ASA rule, prove that triangle ABC is congruent to triangle DEF.",
@@ -696,7 +736,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_ix_iemh1dd_c107_gen084"
+    "question_id": "cbse_ix_iemh1dd_c107_gen084",
+    "section_name": "7.6 Summary"
   },
   {
     "question_text": "Which one of the following is NOT a property of a triangle?",
@@ -715,7 +756,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen001"
+    "question_id": "cbse_ix_iemh1dd_c107_gen001",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Which of the following is NOT a valid criterion for triangle congruence?",
@@ -734,7 +776,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen002"
+    "question_id": "cbse_ix_iemh1dd_c107_gen002",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "What does the notation ‘∆ABC’ represent?",
@@ -753,7 +796,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen003"
+    "question_id": "cbse_ix_iemh1dd_c107_gen003",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "How many angles are present in a triangle?",
@@ -772,7 +816,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen004"
+    "question_id": "cbse_ix_iemh1dd_c107_gen004",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Define a triangle. What are its basic elements?",
@@ -786,7 +831,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen005"
+    "question_id": "cbse_ix_iemh1dd_c107_gen005",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "List the primary properties of triangles as introduced in the section.",
@@ -800,7 +846,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen006"
+    "question_id": "cbse_ix_iemh1dd_c107_gen006",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "What does the term 'congruence of triangles' mean?",
@@ -814,7 +861,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen007"
+    "question_id": "cbse_ix_iemh1dd_c107_gen007",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Explain the term 'vertex' in the context of a triangle.",
@@ -828,7 +876,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen008"
+    "question_id": "cbse_ix_iemh1dd_c107_gen008",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Discuss the criteria for triangle congruence. Choose one criterion (e.g., SAS) and provide a detailed proof of why it ensures triangle congruence.",
@@ -842,7 +891,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen009"
+    "question_id": "cbse_ix_iemh1dd_c107_gen009",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Prove the Triangle Inequality Theorem which states that in any triangle, the sum of the lengths of any two sides is greater than the length of the remaining side.",
@@ -856,7 +906,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen010"
+    "question_id": "cbse_ix_iemh1dd_c107_gen010",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Given a triangle with side lengths 3, 4, and 5, verify using the triangle inequality theorem that these sides can form a valid triangle. Show your work.",
@@ -870,7 +921,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen011"
+    "question_id": "cbse_ix_iemh1dd_c107_gen011",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "A triangle has two angles measuring 45° and 55°. Find the measure of the third angle.",
@@ -884,7 +936,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen012"
+    "question_id": "cbse_ix_iemh1dd_c107_gen012",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "In triangle ΔABC, sides AB, BC, and AC measure 5, 7, and 10 respectively. Confirm whether these side lengths satisfy the triangle inequality theorem with detailed calculations.",
@@ -898,7 +951,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen013"
+    "question_id": "cbse_ix_iemh1dd_c107_gen013",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "A triangle has its angles in the ratio 2:3:4. Determine the measure of each angle.",
@@ -912,7 +966,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen014"
+    "question_id": "cbse_ix_iemh1dd_c107_gen014",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "In quadrilateral ACBD, AC = AD and AB bisects ∠CAD (see Fig. 7.16). Show that ΔABC ≅ ΔABD. What can you say about BC and BD?",
@@ -1035,7 +1090,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen015"
+    "question_id": "cbse_ix_iemh1dd_c107_gen015",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Which of the following pairs is an example of congruent figures?",
@@ -1054,7 +1110,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen016"
+    "question_id": "cbse_ix_iemh1dd_c107_gen016",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "In Fig. 7.3, which square is congruent to the base square?",
@@ -1073,7 +1130,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen017"
+    "question_id": "cbse_ix_iemh1dd_c107_gen017",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Define congruent figures in your own words.",
@@ -1087,7 +1145,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen018"
+    "question_id": "cbse_ix_iemh1dd_c107_gen018",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Explain how the concept of congruence is applied in making ice trays.",
@@ -1101,7 +1160,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen019"
+    "question_id": "cbse_ix_iemh1dd_c107_gen019",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "List two everyday examples (other than ice trays) where congruence plays an important role.",
@@ -1115,7 +1175,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen020"
+    "question_id": "cbse_ix_iemh1dd_c107_gen020",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "State the condition for two triangles to be congruent.",
@@ -1129,7 +1190,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen021"
+    "question_id": "cbse_ix_iemh1dd_c107_gen021",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Given triangle ABC with sides 4 cm, 4.5 cm, and 5 cm, determine which of the following triangles is not congruent to triangle ABC: a triangle with sides 4 cm, 5 cm, and 4.5 cm, and another with sides 5 cm, 4.5 cm, and 5 cm.",
@@ -1143,7 +1205,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen022"
+    "question_id": "cbse_ix_iemh1dd_c107_gen022",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "If triangle PQR is congruent to triangle ABC, explain the importance of writing the vertex correspondence correctly. Provide an example using P ↔ A, Q ↔ B, R ↔ C.",
@@ -1157,7 +1220,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen023"
+    "question_id": "cbse_ix_iemh1dd_c107_gen023",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Given two circles of equal radius, if one is placed over the other, describe the congruence property observed and explain why they are considered congruent.",
@@ -1171,7 +1235,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen024"
+    "question_id": "cbse_ix_iemh1dd_c107_gen024",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Construct two congruent equilateral triangles given a side length of 6 cm. Outline the steps necessary for the construction using a compass and straightedge.",
@@ -1185,7 +1250,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen025"
+    "question_id": "cbse_ix_iemh1dd_c107_gen025",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "A triangle has sides of lengths 3 cm, 4 cm, and 5 cm. If another triangle is drawn with sides 3 cm, 4 cm, and 6 cm, determine if the triangles are congruent. Show all steps.",
@@ -1199,7 +1265,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen026"
+    "question_id": "cbse_ix_iemh1dd_c107_gen026",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Triangle MNO has sides 7 cm, 8 cm, and 9 cm. Triangle XYZ has sides 9 cm, 7 cm, and 8 cm. Are triangles MNO and XYZ congruent? Provide step-by-step justification.",
@@ -1213,7 +1280,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen027"
+    "question_id": "cbse_ix_iemh1dd_c107_gen027",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Triangle ABC and triangle DEF are such that AB = DE, BC = EF, and ∠B = ∠E. Explain whether the triangles are necessarily congruent, and justify your answer with reasoning.",
@@ -1227,7 +1295,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen028"
+    "question_id": "cbse_ix_iemh1dd_c107_gen028",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Given triangle FDE is congruent to triangle ABC with the correspondence FD ↔ AB, DE ↔ BC, and EF ↔ CA, write the correct symbolic representation of this congruence.",
@@ -1241,7 +1310,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_ix_iemh1dd_c107_gen029"
+    "question_id": "cbse_ix_iemh1dd_c107_gen029",
+    "section_name": "7.2 Congruence of Triangles"
   },
   {
     "question_text": "Which of the following sets of elements is sufficient to prove the congruence of two triangles according to the SAS criterion?",
@@ -1260,7 +1330,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen030"
+    "question_id": "cbse_ix_iemh1dd_c107_gen030",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "In the Angle-Side-Angle (ASA) congruence rule, which element is included between the two given equal angles?",
@@ -1279,7 +1350,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen031"
+    "question_id": "cbse_ix_iemh1dd_c107_gen031",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Which of the following congruence criteria is generally NOT valid for proving the congruence of triangles?",
@@ -1298,7 +1370,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen032"
+    "question_id": "cbse_ix_iemh1dd_c107_gen032",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "When two intersecting lines are drawn, which property of vertically opposite angles is used in the proof of triangle congruence?",
@@ -1317,7 +1390,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen033"
+    "question_id": "cbse_ix_iemh1dd_c107_gen033",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Define the SAS (Side-Angle-Side) congruence rule and state why it is accepted as an axiom.",
@@ -1331,7 +1405,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen034"
+    "question_id": "cbse_ix_iemh1dd_c107_gen034",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Why is the equality of the three angles of a triangle not sufficient to guarantee the congruence of two triangles?",
@@ -1345,7 +1420,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen035"
+    "question_id": "cbse_ix_iemh1dd_c107_gen035",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "State the Angle-Angle-Side (AAS) congruence rule for triangles.",
@@ -1359,7 +1435,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen036"
+    "question_id": "cbse_ix_iemh1dd_c107_gen036",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Explain, with reference to triangle congruence proofs, how vertically opposite angles are used to establish congruence. Include a diagram description if necessary.",
@@ -1373,7 +1450,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen037"
+    "question_id": "cbse_ix_iemh1dd_c107_gen037",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Prove the Angle-Side-Angle (ASA) congruence theorem using cases based on the Side-Angle-Side (SAS) axiom. In your proof, discuss the possibility of the non-included side being greater than, less than, or equal to the corresponding side of the other triangle.",
@@ -1387,7 +1465,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen038"
+    "question_id": "cbse_ix_iemh1dd_c107_gen038",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Using the perpendicular bisector theorem, prove that for any point P on the perpendicular bisector of line segment AB, the distances PA and PB are equal. Provide a detailed proof.",
@@ -1401,7 +1480,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen039"
+    "question_id": "cbse_ix_iemh1dd_c107_gen039",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "A line segment AB measures 10 cm. Its perpendicular bisector passes through its midpoint, C. If a point P lies on the perpendicular bisector such that the distance PC is 6 cm, calculate the distances PA and PB.",
@@ -1415,7 +1495,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen040"
+    "question_id": "cbse_ix_iemh1dd_c107_gen040",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "In a triangle, two sides measure 2 cm and 4 cm, and the included angle is 50°. Use the cosine rule to calculate the length of the third side.",
@@ -1429,7 +1510,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen041"
+    "question_id": "cbse_ix_iemh1dd_c107_gen041",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "Two triangles have two sides with lengths 4 cm and 5 cm. In one triangle, the 50° angle is opposite the 5 cm side; in the other, the 50° angle is opposite the 4 cm side. Use the law of sines to show that these triangles are not congruent.",
@@ -1443,7 +1525,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen042"
+    "question_id": "cbse_ix_iemh1dd_c107_gen042",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "A triangle has two sides measuring 3 cm and 4 cm with an included angle of 60°. Use the cosine rule to find the length of the third side.",
@@ -1457,7 +1540,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_ix_iemh1dd_c107_gen043"
+    "question_id": "cbse_ix_iemh1dd_c107_gen043",
+    "section_name": "7.3 Criteria for Congruence of Triangles"
   },
   {
     "question_text": "In an isosceles triangle ABC, with AB = AC, the bisectors of ∠B and ∠C intersect each other at O. Join A to O. Show that (i) OB = OC and (ii) AO bisects ∠A.",

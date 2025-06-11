@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen284"
+    "question_id": "cbse_xi_keph1dd_c107_gen284",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "The equation V^2 = (G M_E)/(R_E + h) is obtained by equating which two forces acting on a satellite?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen285"
+    "question_id": "cbse_xi_keph1dd_c107_gen285",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Kepler's third law for satellites in circular orbits is given by T^2 = (4π^2 (R_E + h)^3)/(G M_E). Which of the following statements is true regarding this expression?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen286"
+    "question_id": "cbse_xi_keph1dd_c107_gen286",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "How does the orbital speed V of a satellite change as its altitude h increases?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen287"
+    "question_id": "cbse_xi_keph1dd_c107_gen287",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Which of the following methods can be used to determine the mass of the Earth?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen288"
+    "question_id": "cbse_xi_keph1dd_c107_gen288",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "State Kepler's third law as applied to satellites orbiting the Earth.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen289"
+    "question_id": "cbse_xi_keph1dd_c107_gen289",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Explain why the mass of the satellite does not appear in the expression for its orbital speed.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen290"
+    "question_id": "cbse_xi_keph1dd_c107_gen290",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Derive the expression for the orbital speed V of a satellite in a circular orbit around the Earth.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen291"
+    "question_id": "cbse_xi_keph1dd_c107_gen291",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Compare the orbital period formulas for a satellite in a low Earth orbit and one in a high orbit. Discuss the assumption made when h is negligible compared to R_E.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen292"
+    "question_id": "cbse_xi_keph1dd_c107_gen292",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Derive the orbital speed expression for a satellite in a circular orbit starting from the balance between gravitational and centripetal forces. Provide a step-by-step derivation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen293"
+    "question_id": "cbse_xi_keph1dd_c107_gen293",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Using Kepler's third law, discuss how the orbital period T of a satellite changes with altitude h. Also, mention any limitations when applying this formula to elliptical orbits.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen294"
+    "question_id": "cbse_xi_keph1dd_c107_gen294",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Design an experiment using Earth satellites to measure the gravitational constant G. Describe the necessary measurements and how you would analyze the data.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen295"
+    "question_id": "cbse_xi_keph1dd_c107_gen295",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: The Moon's period of revolution is approximately equal to its rotational period about its own axis.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen296"
+    "question_id": "cbse_xi_keph1dd_c107_gen296",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: For satellites very close to the Earth's surface, the orbital period can be approximated by T_0 = 2π sqrt(R_E/g).",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen297"
+    "question_id": "cbse_xi_keph1dd_c107_gen297",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: The formula T^2 = (4π^2/(G M_E)) (R_E + h)^3 can be used for elliptical orbits without any modifications.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen298"
+    "question_id": "cbse_xi_keph1dd_c107_gen298",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "A satellite in a low Earth orbit is assumed to be at h = 0. Given g = 9.8 m/s² and R_E = 6.4 × 10^6 m, calculate its orbital speed V using the relation V^2 = g R_E.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen299"
+    "question_id": "cbse_xi_keph1dd_c107_gen299",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "An artificial satellite orbits at an altitude of 400 km above the Earth's surface. Given R_E = 6.4 × 10^6 m, g = 9.8 m/s² (which gives T_0 ≈ 85 minutes when h = 0), estimate the orbital period T for this satellite.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen300"
+    "question_id": "cbse_xi_keph1dd_c107_gen300",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Phobos, one of Mars' moons, has an orbital period of 7 hours 39 minutes and an orbital radius of 9.4 × 10^3 km. Calculate the mass of Mars using the formula M = (4π^2 R^3)/(G T^2). (Use G = 6.67 × 10^-11 N m²/kg² and convert the orbital radius to meters.)",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen301"
+    "question_id": "cbse_xi_keph1dd_c107_gen301",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Using the data: g = 9.81 m/s², R_E = 6.37 × 10^6 m, distance to the Moon R = 3.84 × 10^8 m, and Moon's period T = 27.3 days, compute the Earth's mass using both the surface gravity method and the Moon's orbital motion method. Compare the two results.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen302"
+    "question_id": "cbse_xi_keph1dd_c107_gen302",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Express the constant k (given as 1 × 10^-13 s²/m³) in units of days²/km³, and then use it to calculate the Moon's orbital period if the Moon is at a distance of 3.84 × 10^5 km from the Earth.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen303"
+    "question_id": "cbse_xi_keph1dd_c107_gen303",
+    "section_name": "7.9 EARTH SATELLITES"
   }
 ]

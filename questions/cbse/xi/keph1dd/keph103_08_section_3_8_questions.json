@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen263"
+    "question_id": "cbse_xi_keph1dd_c103_gen263",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "In two-dimensional motion with constant acceleration, the motions in the x- and y-directions can be treated as independent. Which statement best explains this concept?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen264"
+    "question_id": "cbse_xi_keph1dd_c103_gen264",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "What is the displacement vector of an object moving in a plane with constant acceleration?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen265"
+    "question_id": "cbse_xi_keph1dd_c103_gen265",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "If an object moves in the x-y plane with constant acceleration, which of the following component equations is true for the y-direction?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen266"
+    "question_id": "cbse_xi_keph1dd_c103_gen266",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "Explain in your own words how the displacement equation r = r₀ + v₀t + (1/2)at² is derived from the concept of average velocity.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen267"
+    "question_id": "cbse_xi_keph1dd_c103_gen267",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "What initial conditions are assumed in the equation r = r₀ + v₀t + (1/2)at²?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen268"
+    "question_id": "cbse_xi_keph1dd_c103_gen268",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "Discuss why treating the motion in the x- and y-directions independently is valid in two-dimensional motion with constant acceleration.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen269"
+    "question_id": "cbse_xi_keph1dd_c103_gen269",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "Derive the displacement equation r = r₀ + v₀t + (1/2)at² for a particle starting from rest using calculus.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen270"
+    "question_id": "cbse_xi_keph1dd_c103_gen270",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "Evaluate the usefulness of separating the two-dimensional motion into independent x and y components when analyzing projectile motion.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen271"
+    "question_id": "cbse_xi_keph1dd_c103_gen271",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "True or False: The equation v = v₀ + at is valid for motion in both one and two dimensions provided that v and a are treated as vectors.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen272"
+    "question_id": "cbse_xi_keph1dd_c103_gen272",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "True or False: In the displacement equation r = r₀ + v₀t + (1/2)at², subtracting r₀ from r provides the total displacement of the object over time t.",
@@ -181,7 +191,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen273"
+    "question_id": "cbse_xi_keph1dd_c103_gen273",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "A particle starts from the origin with an initial velocity of 4 m/s in the x-direction and 3 m/s in the y-direction. It experiences constant accelerations of 2 m/s² in the x-direction and -1 m/s² in the y-direction. Calculate its position after 5 seconds.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen274"
+    "question_id": "cbse_xi_keph1dd_c103_gen274",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "A projectile is launched from the ground with an initial speed of 30 m/s at an angle such that its horizontal and vertical components of velocity are 20 m/s and 20 m/s respectively. If a constant horizontal acceleration of 1 m/s² is applied (in the direction of the initial horizontal velocity) and a vertical acceleration of -9.8 m/s² due to gravity acts, determine the displacement after 3 seconds.",
@@ -209,7 +221,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen275"
+    "question_id": "cbse_xi_keph1dd_c103_gen275",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "A car moving in a straight line (treated as motion along the x-axis) accelerates from rest with a constant acceleration of 3 m/s². Using the component form of the displacement equation, determine the distance traveled by the car in 8 seconds.",
@@ -223,7 +236,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen276"
+    "question_id": "cbse_xi_keph1dd_c103_gen276",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   },
   {
     "question_text": "A particle moves in the x-y plane with an initial velocity of 6 m/s in the x-direction and 2 m/s in the y-direction. It is subjected to a constant acceleration with components 4 m/s² in the x-direction and 3 m/s² in the y-direction. Find the time at which the x-coordinate reaches 80 m, and then compute the corresponding y-coordinate.",
@@ -237,6 +251,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xi_keph1dd_c103_gen277"
+    "question_id": "cbse_xi_keph1dd_c103_gen277",
+    "section_name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen013"
+    "question_id": "cbse_x_jesc1dd_c108_gen013",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "In Mendel's monohybrid cross, if a heterozygous tall pea plant (Tt) is self-pollinated, what fraction of the offspring is expected to be short (tt)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen014"
+    "question_id": "cbse_x_jesc1dd_c108_gen014",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "In a dihybrid cross between two heterozygous pea plants (RrYy), what is the expected phenotypic ratio of the offspring?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen015"
+    "question_id": "cbse_x_jesc1dd_c108_gen015",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "Which structure is directly responsible for determining the sex of a human being?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen016"
+    "question_id": "cbse_x_jesc1dd_c108_gen016",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "Define dominant and recessive traits and provide examples from Mendel's pea plant experiments.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen017"
+    "question_id": "cbse_x_jesc1dd_c108_gen017",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "What is the significance of using a test cross in confirming the genotypes of F2 progeny in Mendel’s experiments?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen018"
+    "question_id": "cbse_x_jesc1dd_c108_gen018",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "Explain the process by which germ cells ensure that offspring receive one complete set of chromosomes from each parent.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen019"
+    "question_id": "cbse_x_jesc1dd_c108_gen019",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "Briefly describe how a dihybrid cross demonstrates the concept of independent assortment using pea plant traits.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen020"
+    "question_id": "cbse_x_jesc1dd_c108_gen020",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "Discuss how Mendel’s experiments with pea plants contributed to our understanding of genetic inheritance. In your answer, explain both monohybrid and dihybrid crosses, and describe how the observed ratios led to the formulation of genetic laws.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen021"
+    "question_id": "cbse_x_jesc1dd_c108_gen021",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "Explain the molecular basis of trait expression using plant height as an example. In your response, include how enzyme efficiency and hormone production may affect the phenotype.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen022"
+    "question_id": "cbse_x_jesc1dd_c108_gen022",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "Design an experiment to determine whether a particular trait in a plant species is governed by dominant or recessive alleles. Your experimental design should include the selection of parental plants, the type of crosses you would perform, and how you would interpret the resulting offspring phenotypes.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen023"
+    "question_id": "cbse_x_jesc1dd_c108_gen023",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "True or False: Every human cell contains two copies of each chromosome, including germ cells.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen024"
+    "question_id": "cbse_x_jesc1dd_c108_gen024",
+    "section_name": "8.2 HEREDITY"
   },
   {
     "question_text": "True or False: In a dihybrid cross, the traits for seed color and seed shape are always inherited as a single linked unit because they are located on the same chromosome.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jesc108",
     "section_id": "04_section_8_2",
-    "question_id": "cbse_x_jesc1dd_c108_gen025"
+    "question_id": "cbse_x_jesc1dd_c108_gen025",
+    "section_name": "8.2 HEREDITY"
   }
 ]

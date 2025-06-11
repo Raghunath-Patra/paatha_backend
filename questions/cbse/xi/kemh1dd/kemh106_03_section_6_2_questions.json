@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen014"
+    "question_id": "cbse_xi_kemh1dd_c106_gen014",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "In the problem where Mohan has 3 pants and 2 shirts, how many different pairs of a pant and a shirt can he form?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen015"
+    "question_id": "cbse_xi_kemh1dd_c106_gen015",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Sabnam has 2 school bags, 3 tiffin boxes, and 2 water bottles. How many different ways can she carry these items (choosing one from each group)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen016"
+    "question_id": "cbse_xi_kemh1dd_c106_gen016",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "When forming 4-letter words from the letters of 'ROSE' without repetition, what is the number of possible arrangements?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen017"
+    "question_id": "cbse_xi_kemh1dd_c106_gen017",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Define the Fundamental Principle of Counting.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen018"
+    "question_id": "cbse_xi_kemh1dd_c106_gen018",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Explain briefly how a tree diagram is useful in solving counting problems.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen019"
+    "question_id": "cbse_xi_kemh1dd_c106_gen019",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "For Mohan’s wardrobe problem, write the multiplication expression used to compute the number of ways he can choose a pant and a shirt, and evaluate it.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen020"
+    "question_id": "cbse_xi_kemh1dd_c106_gen020",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Using the Fundamental Principle of Counting, derive the general formula for the number of outcomes when three independent events occur in succession with m, n, and p possible outcomes respectively. Provide a clear explanation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen021"
+    "question_id": "cbse_xi_kemh1dd_c106_gen021",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Suppose you have the letters R, O, S, and E. Explain, with proof, why the number of 4-letter arrangements without repetition is 24 and how this result changes if repetition is allowed.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen022"
+    "question_id": "cbse_xi_kemh1dd_c106_gen022",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "How many 2-digit even numbers can be formed using the digits 1, 2, 3, 4, 5 if repetition of digits is allowed?",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen023"
+    "question_id": "cbse_xi_kemh1dd_c106_gen023",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Mohan has 4 pants, 3 shirts, and 2 jackets. How many different outfit combinations can he form by choosing one of each?",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen024"
+    "question_id": "cbse_xi_kemh1dd_c106_gen024",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "How many different 3-letter words (with or without meaning) can be formed using the letters A, B, C, D, and E if no letter is repeated?",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen025"
+    "question_id": "cbse_xi_kemh1dd_c106_gen025",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Sabnam now has 3 school bags, 4 tiffin boxes, and 2 water bottles. Calculate the total number of different ways she can choose one item from each group. Justify your answer using the Fundamental Principle of Counting.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen026"
+    "question_id": "cbse_xi_kemh1dd_c106_gen026",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Using five flags of different colors, determine the number of signals that can be formed by arranging either 2, 3, 4, or all 5 flags vertically (order matters and no repetition is allowed). Provide a detailed calculation.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen027"
+    "question_id": "cbse_xi_kemh1dd_c106_gen027",
+    "section_name": "6.2 Fundamental Principle of Counting"
   }
 ]

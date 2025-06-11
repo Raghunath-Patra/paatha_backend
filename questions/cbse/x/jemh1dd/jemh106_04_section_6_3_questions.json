@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen031"
+    "question_id": "cbse_x_jemh1dd_c106_gen031",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "Thales is associated with which of the following theorems used to prove triangle similarity?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen032"
+    "question_id": "cbse_x_jemh1dd_c106_gen032",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "If a line drawn through a triangle divides two sides in the same ratio, what can be concluded about the line?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen033"
+    "question_id": "cbse_x_jemh1dd_c106_gen033",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "In any two equiangular triangles, which statement about their corresponding sides is always true?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen034"
+    "question_id": "cbse_x_jemh1dd_c106_gen034",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "Define what it means for two triangles to be equiangular.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen035"
+    "question_id": "cbse_x_jemh1dd_c106_gen035",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "State the Basic Proportionality Theorem and explain its significance in triangle similarity.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen036"
+    "question_id": "cbse_x_jemh1dd_c106_gen036",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "List the two conditions that must be satisfied for the similarity of triangles and provide an example of how these conditions might be verified in a geometric construction.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen037"
+    "question_id": "cbse_x_jemh1dd_c106_gen037",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "Using a diagram, explain why if a line divides two sides of a triangle in the same ratio, it must be parallel to the third side.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen038"
+    "question_id": "cbse_x_jemh1dd_c106_gen038",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "Provide a detailed proof of the Basic Proportionality Theorem using the concept of areas of triangles. Your proof should include all necessary steps and justify the proportionality of the segments on the sides.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen039"
+    "question_id": "cbse_x_jemh1dd_c106_gen039",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "Prove the converse of the Basic Proportionality Theorem (Theorem 6.2) using a contradiction approach. Assume that a line dividing two sides of a triangle in the same ratio is not parallel to the third side, and show that this leads to an inconsistency.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen040"
+    "question_id": "cbse_x_jemh1dd_c106_gen040",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "In triangle ABC, D is on side AB such that AD = 6 and DB = 4. If line DE is drawn parallel to BC intersecting AC at E, determine the ratio AD/AB and explain its significance in proving triangle similarity.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen041"
+    "question_id": "cbse_x_jemh1dd_c106_gen041",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "In trapezium ABCD with AB ∥ DC, points E and F are located on sides AD and BC respectively so that EF ∥ AB. If AE = 3 units and ED = 5 units, and it is known that AE/ED = BF/FC, compute the lengths of BF and FC if BF + FC = 16 units.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen042"
+    "question_id": "cbse_x_jemh1dd_c106_gen042",
+    "section_name": "6.3 Similarity of Triangles"
   },
   {
     "question_text": "In triangle PQR, point S divides side PQ and point T divides side PR such that PS : SQ = 4 : 6 and PT : TR = 3 : 2. Given that ∠PST = ∠PRQ, prove that triangle PQR is isosceles by showing that PQ = PR.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_x_jemh1dd_c106_gen043"
+    "question_id": "cbse_x_jemh1dd_c106_gen043",
+    "section_name": "6.3 Similarity of Triangles"
   }
 ]

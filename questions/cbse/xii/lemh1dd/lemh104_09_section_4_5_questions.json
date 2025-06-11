@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen053"
+    "question_id": "cbse_xii_lemh1dd_c104_gen053",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "For any square matrix A, which of the following identities is always true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen054"
+    "question_id": "cbse_xii_lemh1dd_c104_gen054",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "If a square matrix A has |A| = 0, which of the following is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen055"
+    "question_id": "cbse_xii_lemh1dd_c104_gen055",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "What is the correct formula for computing the inverse A⁻¹ of a non-singular square matrix A using its adjoint?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen056"
+    "question_id": "cbse_xii_lemh1dd_c104_gen056",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "Define the adjoint of a matrix.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen057"
+    "question_id": "cbse_xii_lemh1dd_c104_gen057",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "What does it mean for a square matrix A to be singular?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen058"
+    "question_id": "cbse_xii_lemh1dd_c104_gen058",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "Describe the steps involved in finding the inverse of a 2×2 matrix using its adjoint.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen059"
+    "question_id": "cbse_xii_lemh1dd_c104_gen059",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "State Theorem 1 that relates a square matrix A and its adjoint, and explain its significance.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen060"
+    "question_id": "cbse_xii_lemh1dd_c104_gen060",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "Prove that for any square matrix A, the identity A × (adj A) = |A| I holds.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen061"
+    "question_id": "cbse_xii_lemh1dd_c104_gen061",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "Given a matrix A that satisfies the equation A² – 4A + I = O, where I is the identity matrix and O is the zero matrix, derive an expression for A⁻¹.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen062"
+    "question_id": "cbse_xii_lemh1dd_c104_gen062",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "Find the adjoint of the 2×2 matrix A = [[2, 3], [1, 4]].",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen063"
+    "question_id": "cbse_xii_lemh1dd_c104_gen063",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "Given A = [[1, 3, 3], [1, 4, 3], [1, 3, 4]], verify that A × (adj A) = |A| I and use this to find A⁻¹.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen064"
+    "question_id": "cbse_xii_lemh1dd_c104_gen064",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "Given matrices A = [[2, 3], [1, -4]] and B = [[1, -2], [-1, 3]], verify that (AB)⁻¹ = B⁻¹ A⁻¹.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen065"
+    "question_id": "cbse_xii_lemh1dd_c104_gen065",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "Using the equation A² – 4A + I = O, compute the inverse of A where A = [[2, 3], [1, 2]].",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen066"
+    "question_id": "cbse_xii_lemh1dd_c104_gen066",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   },
   {
     "question_text": "For a 3×3 matrix A, express the determinant of its adjoint, |adj A|, in terms of |A|.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "09_section_4_5",
-    "question_id": "cbse_xii_lemh1dd_c104_gen067"
+    "question_id": "cbse_xii_lemh1dd_c104_gen067",
+    "section_name": "4.5 Adjoint and Inverse of a Matrix"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen045"
+    "question_id": "cbse_xi_kemh1dd_c102_gen045",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Consider the relation R from ℕ defined by R = {(x, y) : y = 2x, x, y ∈ ℕ}. Which of the following statements is true about this relation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen046"
+    "question_id": "cbse_xi_kemh1dd_c102_gen046",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Which of the following correctly describes the graph of a constant function f(x) = c, where c is a constant?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen047"
+    "question_id": "cbse_xi_kemh1dd_c102_gen047",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Given two real functions f and g defined on a set X ⊆ ℝ, the quotient function (f/g)(x) is defined by f(x)/g(x). Which of the following conditions is necessary for (f/g)(x) to be defined?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen048"
+    "question_id": "cbse_xi_kemh1dd_c102_gen048",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Define a function in your own words using the concept discussed in this section.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen049"
+    "question_id": "cbse_xi_kemh1dd_c102_gen049",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "For the function f(x) = x² defined on ℝ, determine the domain, codomain, and range.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen050"
+    "question_id": "cbse_xi_kemh1dd_c102_gen050",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Examine the relation R = {(2,2), (2,4), (3,3), (4,4)}. Explain why this relation is or is not a function.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen051"
+    "question_id": "cbse_xi_kemh1dd_c102_gen051",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Long Answer: Prove that the function f defined by f(x) = 1/x, with domain ℝ\\{0}, is indeed a function. Include in your answer a discussion on the domain, range, and any restrictions needed for f to be a valid function.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen052"
+    "question_id": "cbse_xi_kemh1dd_c102_gen052",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Long Answer: Let f and g be real functions defined on a set X ⊆ ℝ by f(x) = x² and g(x) = 2x + 1. Derive expressions for (f+g)(x), (f-g)(x), (f·g)(x), and (f/g)(x) (with the necessary restriction for division). Explain each step in your derivation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen053"
+    "question_id": "cbse_xi_kemh1dd_c102_gen053",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Numerical Problem: Let f be a real valued function defined by f(x) = 2x + 1 over ℕ. Complete the following table: \n\nx: 1, 2, 3, 4, 5, 6, 7 \n\nFind the corresponding y values (i.e., f(x)) and then state the domain and range of the function.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen054"
+    "question_id": "cbse_xi_kemh1dd_c102_gen054",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Numerical Problem: For the function f(x) = x², complete the following table (calculate f(x)) for x = -4, -3, -2, -1, 0, 1, 2, 3, 4, and identify the symmetry in the function.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen055"
+    "question_id": "cbse_xi_kemh1dd_c102_gen055",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Numerical Problem: Given the function f(x) = 1/x defined over ℝ\\{0}, calculate f(x) for x = -2, -1, -0.5, 0.25, 0.5, 1, 1.5, 2. Then, describe the behavior of the graph as x approaches 0 and as x goes to ±∞.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen056"
+    "question_id": "cbse_xi_kemh1dd_c102_gen056",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Which of the following best describes a mathematical relation between two sets?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen001"
+    "question_id": "cbse_xi_kemh1dd_c102_gen001",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Which statement correctly distinguishes a function from a general relation?",
@@ -223,7 +236,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen002"
+    "question_id": "cbse_xi_kemh1dd_c102_gen002",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "G. W. Leibniz is known for contributing to which fundamental mathematical concept?",
@@ -242,7 +256,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen003"
+    "question_id": "cbse_xi_kemh1dd_c102_gen003",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define what is meant by a 'pattern' in the context of mathematics as described in the text.",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen004"
+    "question_id": "cbse_xi_kemh1dd_c102_gen004",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "What does it mean to link pairs of objects from two sets? Explain briefly.",
@@ -270,7 +286,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen005"
+    "question_id": "cbse_xi_kemh1dd_c102_gen005",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Explain why mathematical relations are represented by ordered pairs.",
@@ -284,7 +301,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen006"
+    "question_id": "cbse_xi_kemh1dd_c102_gen006",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define a function in your own words and describe how it qualifies as a special type of relation.",
@@ -298,7 +316,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen007"
+    "question_id": "cbse_xi_kemh1dd_c102_gen007",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Given two sets A = {a, b} and B = {1, 2, 3}, list all possible relations from A to B and identify which of these relations can be classified as functions. Provide justification for your answer.",
@@ -312,7 +331,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen008"
+    "question_id": "cbse_xi_kemh1dd_c102_gen008",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Prove that a function represents a mathematically precise correspondence between quantities by discussing the criteria that a relation must meet to be considered a function.",
@@ -326,7 +346,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen009"
+    "question_id": "cbse_xi_kemh1dd_c102_gen009",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Given set A = {1, 2, 3} and set B = {'x', 'y'}, calculate the total number of ordered pairs that can be formed from these sets.",
@@ -340,7 +361,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen010"
+    "question_id": "cbse_xi_kemh1dd_c102_gen010",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "If a relation R from a set A with 4 elements to a set B with 5 elements contains 10 ordered pairs, what is the probability of randomly selecting an ordered pair from R, given the total number of possible ordered pairs from A to B?",
@@ -354,7 +376,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen011"
+    "question_id": "cbse_xi_kemh1dd_c102_gen011",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Determine the number of possible functions from a set of 3 elements to a set of 4 elements.",
@@ -368,7 +391,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen012"
+    "question_id": "cbse_xi_kemh1dd_c102_gen012",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Given a set A with 5 elements and a set B with 3 elements, calculate (a) the total number of relations from A to B, and (b) the number of functions from A to B.",
@@ -382,7 +406,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen013"
+    "question_id": "cbse_xi_kemh1dd_c102_gen013",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Which of the following best defines the Cartesian product of two non-empty sets P and Q?",
@@ -401,7 +426,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen014"
+    "question_id": "cbse_xi_kemh1dd_c102_gen014",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "If set A has 2 elements and set B has 3 elements, how many elements are there in A × B?",
@@ -420,7 +446,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen015"
+    "question_id": "cbse_xi_kemh1dd_c102_gen015",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Which of the following statements is true regarding ordered pairs (p, q) and (q, p)?",
@@ -439,7 +466,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen016"
+    "question_id": "cbse_xi_kemh1dd_c102_gen016",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "If either one of the sets in a Cartesian product is the empty set, what will be the result of the product?",
@@ -458,7 +486,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen017"
+    "question_id": "cbse_xi_kemh1dd_c102_gen017",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Define the Cartesian product of two sets and explain why the order of elements in an ordered pair is important.",
@@ -472,7 +501,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen018"
+    "question_id": "cbse_xi_kemh1dd_c102_gen018",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Explain the result of the operation A × A × A for a set A, and give an example when A = {1, 2}.",
@@ -486,7 +516,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen019"
+    "question_id": "cbse_xi_kemh1dd_c102_gen019",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "State the formula relating the number of elements in the Cartesian product A × B to the number of elements in A and B. Briefly justify the formula.",
@@ -500,7 +531,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen020"
+    "question_id": "cbse_xi_kemh1dd_c102_gen020",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Explain, with an example, why P × Q is generally not equal to Q × P.",
@@ -514,7 +546,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen021"
+    "question_id": "cbse_xi_kemh1dd_c102_gen021",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Prove that if either set A or set B is infinite, then the Cartesian product A × B is infinite.",
@@ -528,7 +561,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen022"
+    "question_id": "cbse_xi_kemh1dd_c102_gen022",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Let A = {1, 2, 3}, B = {3, 4}, and C = {4, 5, 6}. Determine the sets (i) A × (B ∩ C), (ii) (A × B) ∩ (A × C), (iii) A × (B ∪ C) and (iv) (A × B) ∪ (A × C). Provide full working steps.",
@@ -542,7 +576,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen023"
+    "question_id": "cbse_xi_kemh1dd_c102_gen023",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "A school has 3 teams {Red, Blue, Green} and 4 subjects {Math, Science, English, History}. How many distinct team–subject pairs can be formed for organizing inter-team competitions? Show your calculations.",
@@ -556,7 +591,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen024"
+    "question_id": "cbse_xi_kemh1dd_c102_gen024",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Given two sets P = {a, b} and Q = {1, 2, 3}, list all ordered pairs in both P × Q and Q × P, and verify that although they contain the same number of elements, they are not equal. Provide detailed steps.",
@@ -570,7 +606,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen025"
+    "question_id": "cbse_xi_kemh1dd_c102_gen025",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "A city issues vehicle license codes using two components: the state code from set A = {DL, MP, KA} and a unique number from set B = {01, 02, 03, 04}. Calculate the total number of license codes that can be issued, and list an example of such a code.",
@@ -584,7 +621,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen026"
+    "question_id": "cbse_xi_kemh1dd_c102_gen026",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Consider the sets A = {x, y} and B = {1, 2, 3, 4}. Form P = A × B. Then, if an element (x, b) from P is removed, what is the new number of elements? Provide justification.",
@@ -598,7 +636,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen027"
+    "question_id": "cbse_xi_kemh1dd_c102_gen027",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "In a research study, a computer scientist uses the Cartesian product R × R (where R is the set of real numbers) to represent all points on a plane. Explain how this representation helps in understanding the geometry of the plane. Provide detailed insights.",
@@ -612,7 +651,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen028"
+    "question_id": "cbse_xi_kemh1dd_c102_gen028",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Given that R × R × R represents all points in three-dimensional space, how many ordered triplets will there be if R is replaced by a finite set S = {0, 1}? Show your working and reasoning.",
@@ -626,7 +666,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_kemh1dd_c102_gen029"
+    "question_id": "cbse_xi_kemh1dd_c102_gen029",
+    "section_name": "2.2 Cartesian Products of Sets"
   },
   {
     "question_text": "Which of the following best defines a relation from a non-empty set A to a non-empty set B?",
@@ -645,7 +686,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen030"
+    "question_id": "cbse_xi_kemh1dd_c102_gen030",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "In an arrow diagram representing a relation, what is the 'range' of the relation?",
@@ -664,7 +706,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen031"
+    "question_id": "cbse_xi_kemh1dd_c102_gen031",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Consider an arrow diagram where an element 'b' in set P maps to two different elements in set Q. Which statement is true regarding this relation?",
@@ -683,7 +726,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen032"
+    "question_id": "cbse_xi_kemh1dd_c102_gen032",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "If a set A has p elements and a set B has q elements, how many different relations can be formed from A to B?",
@@ -702,7 +746,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen033"
+    "question_id": "cbse_xi_kemh1dd_c102_gen033",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Define the domain of a relation from a set A to a set B.",
@@ -716,7 +761,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen034"
+    "question_id": "cbse_xi_kemh1dd_c102_gen034",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Express the relation R defined on set A = {1, 2, 3, 4, 5, 6} by y = x + 1 in roster form.",
@@ -730,7 +776,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen035"
+    "question_id": "cbse_xi_kemh1dd_c102_gen035",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Define the set-builder notation for a relation between two sets.",
@@ -744,7 +791,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen036"
+    "question_id": "cbse_xi_kemh1dd_c102_gen036",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Differentiate between the range and the codomain of a relation.",
@@ -758,7 +806,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen037"
+    "question_id": "cbse_xi_kemh1dd_c102_gen037",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Prove that any relation from set A to set B is a subset of the Cartesian product A × B, and explain why the total number of relations is 2^(|A|×|B|).",
@@ -772,7 +821,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen038"
+    "question_id": "cbse_xi_kemh1dd_c102_gen038",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Given sets P = {a, b, c} and Q = {Ali, Bhanu, Binoy, Chandra, Divya} and a relation R defined by 'x is the first letter of the name y', list the ordered pairs in roster form and determine the domain, range, and codomain.",
@@ -786,7 +836,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen039"
+    "question_id": "cbse_xi_kemh1dd_c102_gen039",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "For the set A = {1, 2, 3} and B = {4, 5}, calculate the total number of relations from A to B.",
@@ -800,7 +851,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen040"
+    "question_id": "cbse_xi_kemh1dd_c102_gen040",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Given set A = {1, 2, 3, 4} and a relation R defined by R = {(x, y) : y = x + 1, with x, y ∈ A}, list out R in roster form and then identify its domain and range.",
@@ -814,7 +866,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen041"
+    "question_id": "cbse_xi_kemh1dd_c102_gen041",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "If a relation from sets A to B has a Cartesian product containing 10 ordered pairs, how many different relations from A to B can be formed?",
@@ -828,7 +881,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen042"
+    "question_id": "cbse_xi_kemh1dd_c102_gen042",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Consider set A = {1, 2, 3} and the relation R defined on A by R = {(x, y) : y = x²}. Write R in roster form and determine the domain and range.",
@@ -842,7 +896,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen043"
+    "question_id": "cbse_xi_kemh1dd_c102_gen043",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "For set P = {2, 3, 4} and set Q = {2, -2, 3, -3, 4}, suppose the relation R is defined by 'x is the absolute value of y' (i.e., x = |y|). Express R in roster form and determine the domain and range.",
@@ -856,7 +911,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen044"
+    "question_id": "cbse_xi_kemh1dd_c102_gen044",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Which of the following relations are functions? Give reasons. If it is a function, determine its domain and range. (i) {(2,1), (5,1), (8,1), (11,1), (14,1), (17,1)}; (ii) {(2,1), (4,2), (6,3), (8,4), (10,5), (12,6), (14,7)}; (iii) {(1,3), (1,5), (2,5)}.",

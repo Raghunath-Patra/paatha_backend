@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen030"
+    "question_id": "cbse_viii_hemh1dd_c110_gen030",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "What is the value of (2/3)^(-2) expressed in simplest form?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen031"
+    "question_id": "cbse_viii_hemh1dd_c110_gen031",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Simplify (–2)^(-3) × (–2)^(-4) and select the correct option.",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen032"
+    "question_id": "cbse_viii_hemh1dd_c110_gen032",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Define what is meant by a negative exponent. Provide the general definition.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen033"
+    "question_id": "cbse_viii_hemh1dd_c110_gen033",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "State the law for the product of powers when the bases are the same. Illustrate your answer with an example involving negative exponents.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen034"
+    "question_id": "cbse_viii_hemh1dd_c110_gen034",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Prove that for any non-zero integer a and any integers m and n, the law a^m × a^n = a^(m+n) holds, even when m and/or n are negative.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen035"
+    "question_id": "cbse_viii_hemh1dd_c110_gen035",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Express 4^(-3) as a power with base 2 and explain each step.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen036"
+    "question_id": "cbse_viii_hemh1dd_c110_gen036",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Simplify (–4)^5 × (–4)^(-10) and write your answer in exponential form.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen037"
+    "question_id": "cbse_viii_hemh1dd_c110_gen037",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Calculate 5^(-2) × 5^4 and simplify the result.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen038"
+    "question_id": "cbse_viii_hemh1dd_c110_gen038",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Simplify the expression (2^5 ÷ 2^8)^5 × 2^(-5) and express your answer in exponential form.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen039"
+    "question_id": "cbse_viii_hemh1dd_c110_gen039",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Simplify {(1/3)^(-2) – (1/2)^(-3)} ÷ (1/4)^(-2) and express your answer as a fraction.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen040"
+    "question_id": "cbse_viii_hemh1dd_c110_gen040",
+    "section_name": "10.3 Laws of Exponents"
   },
   {
     "question_text": "Evaluate (5/8)^(-7) × (8/5)^(-5) and simplify your answer, showing all steps.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_viii_hemh1dd_c110_gen041"
+    "question_id": "cbse_viii_hemh1dd_c110_gen041",
+    "section_name": "10.3 Laws of Exponents"
   }
 ]

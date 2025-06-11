@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen183"
+    "question_id": "cbse_xii_leph1dd_c102_gen183",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "In the equation C = Q/V, which statement is true for a fixed capacitor?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen184"
+    "question_id": "cbse_xii_leph1dd_c102_gen184",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "What is the approximate dielectric strength of air as mentioned in the text?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen185"
+    "question_id": "cbse_xii_leph1dd_c102_gen185",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Why is a capacitor with a large capacitance practically useful?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen186"
+    "question_id": "cbse_xii_leph1dd_c102_gen186",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Which symbol is used to represent a capacitor with fixed capacitance in circuit diagrams?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen187"
+    "question_id": "cbse_xii_leph1dd_c102_gen187",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Define capacitance in your own words.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen188"
+    "question_id": "cbse_xii_leph1dd_c102_gen188",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "What is the SI unit of capacitance and how is it defined?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen189"
+    "question_id": "cbse_xii_leph1dd_c102_gen189",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Discuss why a single conductor can serve as a capacitor when the other conductor is assumed to be at infinity.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen190"
+    "question_id": "cbse_xii_leph1dd_c102_gen190",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "List and briefly explain the factors that affect the capacitance of a capacitor.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen191"
+    "question_id": "cbse_xii_leph1dd_c102_gen191",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Discuss how the potential difference (V) between a capacitor's plates is related to the charge (Q) and how this relationship leads to the definition of capacitance.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen192"
+    "question_id": "cbse_xii_leph1dd_c102_gen192",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Analyze the role of dielectric strength in capacitor design and describe how it limits the maximum charge that can be stored.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen193"
+    "question_id": "cbse_xii_leph1dd_c102_gen193",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Critically evaluate the practical constraints on capacitor design, such as leakage due to high electric fields, and propose methods to optimize the design for high charge storage.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen194"
+    "question_id": "cbse_xii_leph1dd_c102_gen194",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "True or False: The total charge on a capacitor is simply Q, where Q is the charge on one of the conductors.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen195"
+    "question_id": "cbse_xii_leph1dd_c102_gen195",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "True or False: Increasing the separation between the capacitor plates, while keeping the charge constant, will increase the potential difference across the plates.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen196"
+    "question_id": "cbse_xii_leph1dd_c102_gen196",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "True or False: The leakage of charge in a capacitor due to a strong electric field is unrelated to the dielectric strength of the medium.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen197"
+    "question_id": "cbse_xii_leph1dd_c102_gen197",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "A capacitor with a capacitance of 10 µF is charged to a potential difference of 100 V. Calculate the charge stored on the capacitor.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen198"
+    "question_id": "cbse_xii_leph1dd_c102_gen198",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "Calculate the maximum potential difference that can be applied across a capacitor with a 1 cm gap in air, given that the dielectric strength of air is 3 × 10^6 V m⁻¹.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen199"
+    "question_id": "cbse_xii_leph1dd_c102_gen199",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "A capacitor must be designed to store 0.05 C of charge without exceeding a potential difference of 500 V. What is the minimum capacitance required for this capacitor?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen200"
+    "question_id": "cbse_xii_leph1dd_c102_gen200",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "A capacitor with a capacitance of 2 nF is connected to a 1000 V supply. If the plate separation is 0.5 mm, calculate the magnitude of the electric field between the plates.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen201"
+    "question_id": "cbse_xii_leph1dd_c102_gen201",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   },
   {
     "question_text": "In a capacitor circuit, using a dielectric material increases the capacitance by a factor of 4. How does the required potential difference change for storing the same charge compared to when no dielectric is used?",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "12_section_2_11",
-    "question_id": "cbse_xii_leph1dd_c102_gen202"
+    "question_id": "cbse_xii_leph1dd_c102_gen202",
+    "section_name": "2.11 CAPACITORS AND CAPACITANCE"
   }
 ]

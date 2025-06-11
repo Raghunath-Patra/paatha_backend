@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen067"
+    "question_id": "cbse_viii_hemh1dd_c107_gen067",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Which of the following scenarios exemplifies an application of the compound interest formula?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen068"
+    "question_id": "cbse_viii_hemh1dd_c107_gen068",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "A city's population increases by 5% per annum. Which expression correctly models the population at the end of 3 years if the initial population is P?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen069"
+    "question_id": "cbse_viii_hemh1dd_c107_gen069",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "A TV priced at ₹21,000 depreciates at 5% per annum. Which of the following shows the correct operation to find its value after one year?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen070"
+    "question_id": "cbse_viii_hemh1dd_c107_gen070",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Define compound interest and explain its significance in modeling population growth.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen071"
+    "question_id": "cbse_viii_hemh1dd_c107_gen071",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "What is depreciation? Describe how the compound interest formula is modified to determine the value of an item after depreciation for one year.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen072"
+    "question_id": "cbse_viii_hemh1dd_c107_gen072",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "If an item’s price increases at a rate of 10% per annum compounded annually, express the price after 3 years in terms of the initial price P.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen073"
+    "question_id": "cbse_viii_hemh1dd_c107_gen073",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Derive the compound interest formula A = P(1 + r/100)^t starting from the idea that the interest is compounded annually. Use this derivation to explain how compound growth applies to a city's population that increases by a fixed percentage each year.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen074"
+    "question_id": "cbse_viii_hemh1dd_c107_gen074",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Given an asset with an initial value P that depreciates at a rate of r% per annum, prove that its value after n years is given by P(1 - r/100)^n.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen075"
+    "question_id": "cbse_viii_hemh1dd_c107_gen075",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Calculate the compound interest earned on a sum of ₹8,000 for 2 years at an annual rate of 5% compounded annually.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen076"
+    "question_id": "cbse_viii_hemh1dd_c107_gen076",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "A machinery worth ₹10,500 depreciates by 5% per annum. Find its value after one year.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen077"
+    "question_id": "cbse_viii_hemh1dd_c107_gen077",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "The population of a city is currently 12 lakh and it increases at a rate of 4% per annum. Find the population of the city after 2 years.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen078"
+    "question_id": "cbse_viii_hemh1dd_c107_gen078",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "A bacterial culture grows at a rate of 20% per annum following a compound growth model. If the initial number of bacteria is 500, calculate the number of bacteria after 3 years.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen079"
+    "question_id": "cbse_viii_hemh1dd_c107_gen079",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   }
 ]

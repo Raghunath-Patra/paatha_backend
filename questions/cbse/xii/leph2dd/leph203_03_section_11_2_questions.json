@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen019"
+    "question_id": "cbse_xii_leph2dd_c203_gen019",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Which process involves heating a metal to enable electrons to escape?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen020"
+    "question_id": "cbse_xii_leph2dd_c203_gen020",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "In which units is the work function of a metal typically measured?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen021"
+    "question_id": "cbse_xii_leph2dd_c203_gen021",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Which mechanism uses a strong electric field of the order of 10^8 V/m to emit electrons from a metal?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen022"
+    "question_id": "cbse_xii_leph2dd_c203_gen022",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Which process requires light of a certain frequency to cause electron emission from a metal surface?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen023"
+    "question_id": "cbse_xii_leph2dd_c203_gen023",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Define electron emission and explain why free electrons are usually confined within the metal surface.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen024"
+    "question_id": "cbse_xii_leph2dd_c203_gen024",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "What is meant by the work function of a metal and why is it significant in the context of electron emission?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen025"
+    "question_id": "cbse_xii_leph2dd_c203_gen025",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "How does the nature of the metal surface influence its work function?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen026"
+    "question_id": "cbse_xii_leph2dd_c203_gen026",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Compare thermionic emission and photoelectric emission in terms of the energy source used to overcome the work function.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen027"
+    "question_id": "cbse_xii_leph2dd_c203_gen027",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Discuss the three primary methods of electron emission (thermionic, field, and photoelectric). In your discussion, include the physical principle behind how each method provides enough energy for electron emission.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen028"
+    "question_id": "cbse_xii_leph2dd_c203_gen028",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Evaluate how the work function influences the emission of electrons from metal surfaces and propose an experimental setup to measure a metal's work function.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen029"
+    "question_id": "cbse_xii_leph2dd_c203_gen029",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Critically analyze the challenges associated with field emission and propose potential solutions to overcome these challenges.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen030"
+    "question_id": "cbse_xii_leph2dd_c203_gen030",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Thermionic emission is a process where electrons are emitted from a metal due to the heating of the metal.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen031"
+    "question_id": "cbse_xii_leph2dd_c203_gen031",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "The work function is independent of the surface nature of the metal.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen032"
+    "question_id": "cbse_xii_leph2dd_c203_gen032",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "Photoelectric emission involves the release of electrons when light of any frequency is incident on the metal surface.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen033"
+    "question_id": "cbse_xii_leph2dd_c203_gen033",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "If the work function of a metal is 2 eV, calculate the minimum energy in joules required for an electron to escape from the metal surface. Use the conversion 1 eV = 1.602 x 10^-19 J.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen034"
+    "question_id": "cbse_xii_leph2dd_c203_gen034",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "An electron accelerated through a potential difference of 1 volt gains an energy of 1 eV. Convert this energy to joules.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen035"
+    "question_id": "cbse_xii_leph2dd_c203_gen035",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "A metal has a work function of 4.5 eV. If an electron in the metal absorbs a photon that gives it 5 eV of energy, what is the excess energy of the ejected photoelectron?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen036"
+    "question_id": "cbse_xii_leph2dd_c203_gen036",
+    "section_name": "11.2 ELECTRON EMISSION"
   },
   {
     "question_text": "A strong electric field of 1 x 10^8 V/m is applied to a metal surface to initiate field emission. For a metal with a work function of 3.2 eV, first convert the work function to joules, and then discuss qualitatively how this field strength helps electrons overcome the energy barrier.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xii_leph2dd_c203_gen037"
+    "question_id": "cbse_xii_leph2dd_c203_gen037",
+    "section_name": "11.2 ELECTRON EMISSION"
   }
 ]

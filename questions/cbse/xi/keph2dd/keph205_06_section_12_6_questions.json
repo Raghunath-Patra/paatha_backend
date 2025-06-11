@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen088"
+    "question_id": "cbse_xi_keph2dd_c205_gen088",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Which law is primarily used to determine the specific heat capacities of ideal gases as presented in this section?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen089"
+    "question_id": "cbse_xi_keph2dd_c205_gen089",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A diatomic molecule treated as a rigid rotator has how many degrees of freedom?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen090"
+    "question_id": "cbse_xi_keph2dd_c205_gen090",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "What is the ratio of specific heats (gamma) for an ideal diatomic gas modeled as a rigid rotator?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen091"
+    "question_id": "cbse_xi_keph2dd_c205_gen091",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "According to the predictions ignoring vibrational modes, what is the molar specific heat at constant volume (Cv) for a triatomic gas?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen092"
+    "question_id": "cbse_xi_keph2dd_c205_gen092",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Derive the expression for the molar specific heat at constant pressure (Cp) for a monatomic ideal gas, given its molar specific heat at constant volume (Cv) is 3/2 R.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen093"
+    "question_id": "cbse_xi_keph2dd_c205_gen093",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Explain briefly why the difference between Cp and Cv for any ideal gas is equal to R.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen094"
+    "question_id": "cbse_xi_keph2dd_c205_gen094",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "For a polyatomic gas with f vibrational modes, what is the general expression for the molar internal energy?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen095"
+    "question_id": "cbse_xi_keph2dd_c205_gen095",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Discuss how the law of equipartition of energy is used to predict the molar specific heat of solids, and why the predicted value is approximately 3R.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen096"
+    "question_id": "cbse_xi_keph2dd_c205_gen096",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Analyze the discrepancies between the predicted and measured specific heats for some polyatomic gases (e.g., CH4). What role do vibrational modes play in this disagreement?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen097"
+    "question_id": "cbse_xi_keph2dd_c205_gen097",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Compare and contrast the specific heat capacities of monatomic and diatomic gases. Discuss how the available degrees of freedom affect their internal energies and the corresponding values of gamma.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen098"
+    "question_id": "cbse_xi_keph2dd_c205_gen098",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: For any ideal gas, the difference between the molar specific heats at constant pressure and constant volume is always equal to the gas constant R.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen099"
+    "question_id": "cbse_xi_keph2dd_c205_gen099",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: The law of equipartition of energy is invalid at ordinary temperatures because vibrational modes do not contribute to the specific heats of gases.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen100"
+    "question_id": "cbse_xi_keph2dd_c205_gen100",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: In solids, the nearly constant volume means that the molar specific heats at constant pressure and constant volume are approximately equal.",
@@ -233,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen101"
+    "question_id": "cbse_xi_keph2dd_c205_gen101",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Calculate the amount of heat required to raise the temperature of 1 mole of helium gas by 20 K at constant volume. Use R = 8.31 J mol-1 K-1.",
@@ -247,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen102"
+    "question_id": "cbse_xi_keph2dd_c205_gen102",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A sample of 2 moles of O2 gas (treated as a diatomic gas) is heated at constant pressure from 300 K to 350 K. Compute the amount of heat absorbed using Cp = 7/2 R. Use R = 8.31 J mol-1 K-1.",
@@ -261,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen103"
+    "question_id": "cbse_xi_keph2dd_c205_gen103",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "For a polyatomic gas with 4 vibrational modes (f = 4), determine the molar specific heat at constant volume (Cv) and the ratio of specific heats (gamma).",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen104"
+    "question_id": "cbse_xi_keph2dd_c205_gen104",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A 44.8-litre cylinder of helium at standard temperature and pressure contains about 2 moles of gas. Calculate the heat needed to raise the temperature of the gas by 15 °C at constant volume. Use R = 8.31 J mol-1 K-1.",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen105"
+    "question_id": "cbse_xi_keph2dd_c205_gen105",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A sample of 0.5 mol of a solid is heated from 298 K to 348 K at constant pressure. Assuming the molar specific heat of the solid is 3R, calculate the heat required.",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen106"
+    "question_id": "cbse_xi_keph2dd_c205_gen106",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A diatomic gas with an additional vibrational mode has a molar specific heat at constant volume of 7/2 R. If 3 moles of such gas are heated at constant volume by 30 K, determine the heat added.",
@@ -317,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen107"
+    "question_id": "cbse_xi_keph2dd_c205_gen107",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   }
 ]

@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "10.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "10.2 Some Basic Concepts"
+    },
+    {
+      "number": 3,
+      "name": "10.3 Types of Vectors"
+    },
+    {
+      "number": 4,
+      "name": "10.4 Addition of Vectors"
+    },
+    {
+      "number": 5,
+      "name": "10.5 Multiplication of a Vector by a Scalar"
+    },
+    {
+      "number": 6,
+      "name": "10.6 Product of Two Vectors"
+    }
+  ]
+}

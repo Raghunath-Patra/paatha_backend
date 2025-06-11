@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen001"
+    "question_id": "cbse_x_jemh1dd_c103_gen001",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Given the scenario where each ride costs ₹3 and each game costs ₹4 and the total amount spent is ₹20, what is the correct cost equation that represents this situation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen002"
+    "question_id": "cbse_x_jemh1dd_c103_gen002",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "When we substitute y = (1/2)x into the equation 3x + 4y = 20, which of the following statements is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen003"
+    "question_id": "cbse_x_jemh1dd_c103_gen003",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Which of the following methods can be used to solve the system of equations y = (1/2)x and 3x + 4y = 20?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen004"
+    "question_id": "cbse_x_jemh1dd_c103_gen004",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Define a linear equation in two variables.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen005"
+    "question_id": "cbse_x_jemh1dd_c103_gen005",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Explain why substituting y = (1/2)x into the equation 3x + 4y = 20 is a valid method for solving the system of equations in the given problem.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen006"
+    "question_id": "cbse_x_jemh1dd_c103_gen006",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "What criteria must a solution (x, y) satisfy in the context of the problem involving rides and Hoopla games at the fair?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen007"
+    "question_id": "cbse_x_jemh1dd_c103_gen007",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Prove that the system of equations y = (1/2)x and 3x + 4y = 20 has a unique solution in the real numbers.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen008"
+    "question_id": "cbse_x_jemh1dd_c103_gen008",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Describe a systematic method to solve problems similar to the given scenario if a different total spending amount is provided. Explain the steps using the substitution method.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen009"
+    "question_id": "cbse_x_jemh1dd_c103_gen009",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Solve the system of equations: y = (1/2)x and 3x + 4y = 20.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen010"
+    "question_id": "cbse_x_jemh1dd_c103_gen010",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "A variation of the original problem: If each ride costs ₹5 and each game costs ₹3, and if the number of games played is half the number of rides with a total spending of ₹26, set up the equations and solve for the number of rides and games.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen011"
+    "question_id": "cbse_x_jemh1dd_c103_gen011",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "If Akhila had 8 rides at the fair, and the rule is that she played Hoopla half as many times as she rode the Giant Wheel, determine the number of games she played. Then, verify if spending based on the original pricing (₹3 per ride and ₹4 per game) results in a total expenditure of ₹20.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen012"
+    "question_id": "cbse_x_jemh1dd_c103_gen012",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "A person spent ₹50 on rides and games at a fair. Rides cost ₹4 each and games cost ₹5 each. If the number of games played is one-third of the number of rides, set up the corresponding system of equations and solve for the number of rides and games.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_x_jemh1dd_c103_gen013"
+    "question_id": "cbse_x_jemh1dd_c103_gen013",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "10 students of Class X took part in a Mathematics quiz. If the number of girls is 4 more than the number of boys, find the number of boys and girls who took part in the quiz.",
@@ -465,7 +478,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen027"
+    "question_id": "cbse_x_jemh1dd_c103_gen027",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "After substituting one variable in the second equation, you end up with an identity (e.g., 18 = 18). What does this indicate about the system of equations?",
@@ -484,7 +498,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen028"
+    "question_id": "cbse_x_jemh1dd_c103_gen028",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Two rails are represented by the equations: x + 2y – 4 = 0 and 2x + 4y – 12 = 0. What is the nature of their intersection?",
@@ -503,7 +518,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen029"
+    "question_id": "cbse_x_jemh1dd_c103_gen029",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "In the age problem—'Seven years ago, I was seven times as old as you' and 'Three years from now, I shall be three times as old as you'—which variable is more convenient to express in terms of the other to use the substitution method?",
@@ -522,7 +538,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen030"
+    "question_id": "cbse_x_jemh1dd_c103_gen030",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Define the substitution method in solving a pair of linear equations.",
@@ -536,7 +553,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen031"
+    "question_id": "cbse_x_jemh1dd_c103_gen031",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Explain why the substitution method is particularly useful for solving linear equations that have non-integral solutions.",
@@ -550,7 +568,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen032"
+    "question_id": "cbse_x_jemh1dd_c103_gen032",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Under what circumstances does the substitution method yield infinitely many solutions for a pair of linear equations?",
@@ -564,7 +583,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen033"
+    "question_id": "cbse_x_jemh1dd_c103_gen033",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Solve the following system of linear equations using the substitution method: 5x – 3y = 7 and 2x + y = 6.",
@@ -578,7 +598,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen034"
+    "question_id": "cbse_x_jemh1dd_c103_gen034",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Demonstrate why obtaining an identity (such as 18 = 18) during the substitution process implies that the system of equations has infinitely many solutions. Support your answer with a brief proof using an example.",
@@ -592,7 +613,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen035"
+    "question_id": "cbse_x_jemh1dd_c103_gen035",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Solve the system of equations using the substitution method: 7x – 15y = 2 and x + 2y = 3.",
@@ -606,7 +628,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen036"
+    "question_id": "cbse_x_jemh1dd_c103_gen036",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Aftab tells his daughter, 'Seven years ago, I was seven times as old as you' and 'Three years from now, I shall be three times as old as you.' Determine their current ages using the substitution method.",
@@ -620,7 +643,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen037"
+    "question_id": "cbse_x_jemh1dd_c103_gen037",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "In a shop, the cost of 2 pencils and 3 erasers is ₹9, and the cost of 4 pencils and 6 erasers is ₹18. Find the cost of each pencil and each eraser, and explain the nature of the solution obtained.",
@@ -634,7 +658,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen038"
+    "question_id": "cbse_x_jemh1dd_c103_gen038",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "Determine if the following pair of equations representing two rails intersect: x + 2y – 4 = 0 and 2x + 4y – 12 = 0, using the substitution method.",
@@ -648,7 +673,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_x_jemh1dd_c103_gen039"
+    "question_id": "cbse_x_jemh1dd_c103_gen039",
+    "section_name": "3.3 Algebraic Methods of Solving a Pair of Linear Equations"
   },
   {
     "question_text": "A pair of linear equations representing two non-intersecting lines is called:",
@@ -667,7 +693,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen040"
+    "question_id": "cbse_x_jemh1dd_c103_gen040",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "For the pair of equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0, if a₁/a₂ = b₁/b₂ ≠ c₁/c₂, then the system is:",
@@ -686,7 +713,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen041"
+    "question_id": "cbse_x_jemh1dd_c103_gen041",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Under which condition is the substitution method most effective for solving a pair of linear equations?",
@@ -705,7 +733,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen042"
+    "question_id": "cbse_x_jemh1dd_c103_gen042",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Which method is based on adding or subtracting two equations to eliminate one of the variables?",
@@ -724,7 +753,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen043"
+    "question_id": "cbse_x_jemh1dd_c103_gen043",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Define a consistent system of linear equations.",
@@ -738,7 +768,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen044"
+    "question_id": "cbse_x_jemh1dd_c103_gen044",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Explain the difference between dependent and independent systems of linear equations.",
@@ -752,7 +783,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen045"
+    "question_id": "cbse_x_jemh1dd_c103_gen045",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "State the condition for a pair of linear equations to have a unique solution using the coefficients a, b, and c.",
@@ -766,7 +798,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen046"
+    "question_id": "cbse_x_jemh1dd_c103_gen046",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Prove that if the graphs of two linear equations are parallel, the corresponding system of equations is inconsistent.",
@@ -780,7 +813,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen047"
+    "question_id": "cbse_x_jemh1dd_c103_gen047",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Demonstrate the elimination method by solving the system of equations: 3x + 2y = 16 and 2x - 5y = -9.",
@@ -794,7 +828,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen048"
+    "question_id": "cbse_x_jemh1dd_c103_gen048",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Solve the system of equations using the Graphical Method: 2x + y = 4 and x - y = 1. Provide a step-by-step solution.",
@@ -808,7 +843,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen049"
+    "question_id": "cbse_x_jemh1dd_c103_gen049",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Solve the following system using the Substitution Method: x + 2y = 5 and 3x - y = 4. Show all steps.",
@@ -822,7 +858,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen050"
+    "question_id": "cbse_x_jemh1dd_c103_gen050",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Solve the system of linear equations using the Elimination Method: 4x + 6y = 8 and 2x - y = -1. Provide detailed step-by-step work.",
@@ -836,7 +873,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen051"
+    "question_id": "cbse_x_jemh1dd_c103_gen051",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Given the modified pair of equations: 7x + 3y - 21 = 0 and 2x - y + 4 = 0, solve for x and y.",
@@ -850,7 +888,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen052"
+    "question_id": "cbse_x_jemh1dd_c103_gen052",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "Determine whether the system below is consistent, inconsistent, or dependent: 6x - 3y + 9 = 0 and 2x - y + 3 = 0. Justify your answer.",
@@ -864,7 +903,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "07_section_3_4",
-    "question_id": "cbse_x_jemh1dd_c103_gen053"
+    "question_id": "cbse_x_jemh1dd_c103_gen053",
+    "section_name": "3.4 Summary"
   },
   {
     "question_text": "If two linear equations are written as a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0, under which condition will the equations have a unique solution?",
@@ -883,7 +923,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen014"
+    "question_id": "cbse_x_jemh1dd_c103_gen014",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "A pair of linear equations represents parallel lines (hence no solution) when the following condition holds:",
@@ -902,7 +943,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen015"
+    "question_id": "cbse_x_jemh1dd_c103_gen015",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Which one of the following conditions on the ratios of coefficients indicates that two linear equations are coincident (dependent)?",
@@ -921,7 +963,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen016"
+    "question_id": "cbse_x_jemh1dd_c103_gen016",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Consider two linear equations. If they are inconsistent, what is the graphical representation of their lines?",
@@ -940,7 +983,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen017"
+    "question_id": "cbse_x_jemh1dd_c103_gen017",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Define the following terms as used in the graphical solution of a pair of linear equations: 1) Consistent, 2) Inconsistent, 3) Dependent.",
@@ -954,7 +998,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen018"
+    "question_id": "cbse_x_jemh1dd_c103_gen018",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Express the conditions for two lines to be (i) intersecting, (ii) coincident, and (iii) parallel, using the ratios a₁/a₂, b₁/b₂, and c₁/c₂.",
@@ -968,7 +1013,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen019"
+    "question_id": "cbse_x_jemh1dd_c103_gen019",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Given a pair of linear equations where the ratios are a₁/a₂ = 2/3, b₁/b₂ = 2/3, and c₁/c₂ = 5/6, determine the nature of the solution of these equations.",
@@ -982,7 +1028,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen020"
+    "question_id": "cbse_x_jemh1dd_c103_gen020",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Prove that if a₁/a₂ = b₁/b₂ = c₁/c₂ for two linear equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0, then the two equations are dependent and have infinitely many solutions.",
@@ -996,7 +1043,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen021"
+    "question_id": "cbse_x_jemh1dd_c103_gen021",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Graphically solve the pair of equations: 2x - y = 1 and x + y = 3. Provide a detailed solution including the steps to plot the graphs and determine the point of intersection.",
@@ -1010,7 +1058,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen022"
+    "question_id": "cbse_x_jemh1dd_c103_gen022",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Solve graphically the pair of equations: x - 2y = 0 and 3x + 4y = 20. Provide a step-by-step explanation of your solution including plotting of points.",
@@ -1024,7 +1073,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen023"
+    "question_id": "cbse_x_jemh1dd_c103_gen023",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Using the graphical method, verify whether the pair of equations 5x - 8y + 1 = 0 and 3x - (24/5)y + 3/5 = 0 are coincident, and explain your findings.",
@@ -1038,7 +1088,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen024"
+    "question_id": "cbse_x_jemh1dd_c103_gen024",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Champa bought some pants and skirts. The number of skirts is two less than twice the number of pants, and also four less than four times the number of pants. Form the equations and solve them graphically to find the number of pants and skirts purchased.",
@@ -1052,7 +1103,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen025"
+    "question_id": "cbse_x_jemh1dd_c103_gen025",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Graphically determine the point of intersection of the equations x + 3y = 6 and 2x - 3y = 12. Describe the steps taken to graph these equations and how the solution is verified.",
@@ -1066,7 +1118,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen026"
+    "question_id": "cbse_x_jemh1dd_c103_gen026",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Solve the following pair of linear equations by the substitution method: x + y = 14; x - y = 4.",

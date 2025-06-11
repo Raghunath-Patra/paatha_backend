@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen016"
+    "question_id": "cbse_viii_hemh1dd_c109_gen016",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "Which of the following methods is used to calculate the area of a polygon by dividing it into smaller, more manageable shapes?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen017"
+    "question_id": "cbse_viii_hemh1dd_c109_gen017",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "In a rhombus, the area is found using its diagonals. Which expression correctly represents its area if the diagonals are d₁ and d₂?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen018"
+    "question_id": "cbse_viii_hemh1dd_c109_gen018",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "When computing the area of a polygon by drawing a diagonal and dropping perpendiculars onto it, what is the role of the perpendiculars in the calculation?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen019"
+    "question_id": "cbse_viii_hemh1dd_c109_gen019",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "Define 'triangulation of a polygon' and explain how it helps in calculating the area of the polygon.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen020"
+    "question_id": "cbse_viii_hemh1dd_c109_gen020",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "Briefly explain why dividing a regular hexagon by one of its diagonals results in two congruent trapeziums or other symmetric shapes.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen021"
+    "question_id": "cbse_viii_hemh1dd_c109_gen021",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "List the steps required to calculate the area of a polygon using diagonals and perpendiculars.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen022"
+    "question_id": "cbse_viii_hemh1dd_c109_gen022",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "Prove that the area of a trapezium is given by ½ × (sum of the lengths of the parallel sides) × height, using a geometrical approach.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen023"
+    "question_id": "cbse_viii_hemh1dd_c109_gen023",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "Given a pentagon ABCDE, one method divides it into three triangles using diagonals, and another method divides it into two right-angled triangles and one trapezium. Provide a detailed explanation of both methods for calculating the area of the pentagon and discuss any advantages or disadvantages of each approach.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen024"
+    "question_id": "cbse_viii_hemh1dd_c109_gen024",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "A trapezium-shaped field has an area of 480 m², a height of 15 m, and one of the parallel sides is 20 m long. Find the length of the other parallel side.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen025"
+    "question_id": "cbse_viii_hemh1dd_c109_gen025",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Calculate the length of the other diagonal.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen026"
+    "question_id": "cbse_viii_hemh1dd_c109_gen026",
+    "section_name": "9.2 Area of a Polygon"
   },
   {
     "question_text": "A regular hexagon has a side length of 5 cm. Using either the method of dividing it into triangles or trapeziums, calculate the area of the hexagon. Verify that both methods give the same result.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "hemh109",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_viii_hemh1dd_c109_gen027"
+    "question_id": "cbse_viii_hemh1dd_c109_gen027",
+    "section_name": "9.2 Area of a Polygon"
   }
 ]

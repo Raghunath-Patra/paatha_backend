@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "12.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "12.2 Intuitive Idea of Derivatives"
+    },
+    {
+      "number": 3,
+      "name": "12.3 Limits"
+    },
+    {
+      "number": 4,
+      "name": "12.4 Limits of Trigonometric Functions"
+    },
+    {
+      "number": 5,
+      "name": "12.5 Derivatives"
+    }
+  ]
+}

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen193"
+    "question_id": "cbse_xi_keph1dd_c107_gen193",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "For small h relative to R_E, the acceleration due to gravity at a height h is approximated by g(h) = g (1 - ?). Which term correctly completes the expression?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen194"
+    "question_id": "cbse_xi_keph1dd_c107_gen194",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "At a depth d below the Earth's surface, the gravitational acceleration is given by:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen195"
+    "question_id": "cbse_xi_keph1dd_c107_gen195",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Which principle justifies that the gravitational force inside a uniform spherical shell is zero?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen196"
+    "question_id": "cbse_xi_keph1dd_c107_gen196",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "For a point mass inside the Earth at a depth d, why does only the mass in the smaller sphere of radius (R_E - d) contribute to the gravitational force?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen197"
+    "question_id": "cbse_xi_keph1dd_c107_gen197",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Derive the expression for gravitational acceleration g(h) at a height h above the Earth's surface in terms of g, h, and R_E using the approximation for h much smaller than R_E.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen198"
+    "question_id": "cbse_xi_keph1dd_c107_gen198",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Explain why the gravitational force on a mass m placed in a spherical shell is zero.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen199"
+    "question_id": "cbse_xi_keph1dd_c107_gen199",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "How is the mass of the smaller sphere M_s related to the total mass of the Earth M_E when a mass is located at a depth d below the Earth's surface?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen200"
+    "question_id": "cbse_xi_keph1dd_c107_gen200",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "What assumption is made about the height h compared to the Earth's radius R_E when approximating g(h)?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen201"
+    "question_id": "cbse_xi_keph1dd_c107_gen201",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Using the concept of gravitational potential, explain how the variation of g with height h above the Earth's surface is derived and approximated for small h.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen202"
+    "question_id": "cbse_xi_keph1dd_c107_gen202",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Discuss the significance of the result that gravitational acceleration is maximum at the Earth's surface and decreases both when moving upward and downward. Explain the physical principles behind this observation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen203"
+    "question_id": "cbse_xi_keph1dd_c107_gen203",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Derive the expression for gravitational acceleration g(d) at a depth d below the Earth's surface starting from the expression for gravitational force and using the concept of a reduced mass M_s.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen204"
+    "question_id": "cbse_xi_keph1dd_c107_gen204",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "True or False: The gravitational acceleration at a height h above the Earth can be exactly expressed as g (1 - 2h/R_E) for any value of h.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen205"
+    "question_id": "cbse_xi_keph1dd_c107_gen205",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "True or False: The force exerted by a spherical shell on a point mass located inside it is zero.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen206"
+    "question_id": "cbse_xi_keph1dd_c107_gen206",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "True or False: The gravitational acceleration decreases linearly with depth d below the Earth's surface according to the expression g (1 - d/R_E).",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen207"
+    "question_id": "cbse_xi_keph1dd_c107_gen207",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "A person stands at a height of 2 m above the Earth's surface. Given that the Earth's radius R_E = 6.4 × 10^6 m and the surface gravitational acceleration g is 9.8 m/s², calculate the gravitational acceleration g(h) using the approximation for h much smaller than R_E.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen208"
+    "question_id": "cbse_xi_keph1dd_c107_gen208",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Calculate the gravitational acceleration at a depth of 1000 m below the Earth's surface using the expression g(d) = g (1 - d/R_E), given R_E = 6.4 × 10^6 m and g = 9.8 m/s².",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen209"
+    "question_id": "cbse_xi_keph1dd_c107_gen209",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "A point mass m = 2 kg is located at a height h = 500 m above the Earth's surface. Using the formula F(h) = (G M_E m)/(R_E + h)^2 and knowing that g = G M_E/R_E^2, compute the gravitational force F(h) on the mass and compare it with the weight at the surface.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen210"
+    "question_id": "cbse_xi_keph1dd_c107_gen210",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "A point mass m = 5 kg is located at a depth d = 3000 m below the Earth's surface. Using g(d) = g (1 - d/R_E) with g = 9.8 m/s² and R_E = 6.4 × 10^6 m, calculate the gravitational force F(d) acting on the mass.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen211"
+    "question_id": "cbse_xi_keph1dd_c107_gen211",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   }
 ]

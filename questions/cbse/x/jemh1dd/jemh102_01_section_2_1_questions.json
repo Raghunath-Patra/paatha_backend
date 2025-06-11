@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen001"
+    "question_id": "cbse_x_jemh1dd_c102_gen001",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "For a linear polynomial of the form ax + b, which of the following expressions gives its zero?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen002"
+    "question_id": "cbse_x_jemh1dd_c102_gen002",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Which of the following polynomials is quadratic?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen003"
+    "question_id": "cbse_x_jemh1dd_c102_gen003",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define the term 'zero of a polynomial'.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen004"
+    "question_id": "cbse_x_jemh1dd_c102_gen004",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "What is the degree of the polynomial 7u⁶ - (3/2)u⁴ + 4u² + u - 8?",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen005"
+    "question_id": "cbse_x_jemh1dd_c102_gen005",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Explain the difference between a linear polynomial and a quadratic polynomial.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen006"
+    "question_id": "cbse_x_jemh1dd_c102_gen006",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Evaluate p(x) = x² - 3x - 4 at x = 2.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen007"
+    "question_id": "cbse_x_jemh1dd_c102_gen007",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Given the polynomial p(x) = x² - 3x - 4 with zeros -1 and 4, prove that it can be factored as (x + 1)(x - 4).",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen008"
+    "question_id": "cbse_x_jemh1dd_c102_gen008",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Using the division algorithm for polynomials, divide p(x) = 2x³ - 3x² + x - 5 by (x - 2) and determine the quotient and remainder.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen009"
+    "question_id": "cbse_x_jemh1dd_c102_gen009",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Evaluate the polynomial p(x) = x² - 3x - 4 at x = -1 and x = 4, and explain why these values indicate that -1 and 4 are its zeros.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen010"
+    "question_id": "cbse_x_jemh1dd_c102_gen010",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Find the zero of the linear polynomial p(x) = 3x + 6.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen011"
+    "question_id": "cbse_x_jemh1dd_c102_gen011",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Evaluate p(x) = x² - 3x - 4 at x = 0.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen012"
+    "question_id": "cbse_x_jemh1dd_c102_gen012",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Evaluate the polynomial p(u) = 7u⁶ - (3/2)u⁴ + 4u² + u - 8 at u = 1.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "jemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_x_jemh1dd_c102_gen013"
+    "question_id": "cbse_x_jemh1dd_c102_gen013",
+    "section_name": "2.1 Introduction"
   }
 ]

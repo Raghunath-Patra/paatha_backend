@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen017"
+    "question_id": "cbse_xii_lech1dd_c102_gen017",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "In a galvanic cell, which electrode is designated as the anode?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen018"
+    "question_id": "cbse_xii_lech1dd_c102_gen018",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "Which half-cell reaction corresponds to an oxidation process in a galvanic cell?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen019"
+    "question_id": "cbse_xii_lech1dd_c102_gen019",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "Given a galvanic cell with a copper half-cell having a standard electrode potential of +0.34 V and a zinc half-cell with -0.76 V, what is the cell potential?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen020"
+    "question_id": "cbse_xii_lech1dd_c102_gen020",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "Define a galvanic cell and explain the process by which it converts chemical energy into electrical energy.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen021"
+    "question_id": "cbse_xii_lech1dd_c102_gen021",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "Explain the functions of the salt bridge in a galvanic cell.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen022"
+    "question_id": "cbse_xii_lech1dd_c102_gen022",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "What is the standard hydrogen electrode (SHE) and why is its potential defined as zero?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen023"
+    "question_id": "cbse_xii_lech1dd_c102_gen023",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "Discuss how electrode potentials are measured in a galvanic cell and the role of the SHE in this measurement.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen024"
+    "question_id": "cbse_xii_lech1dd_c102_gen024",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "Compare the electron flow and current direction in a galvanic cell, explaining the reason for the difference between them.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen025"
+    "question_id": "cbse_xii_lech1dd_c102_gen025",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "True or False: In a galvanic cell, the electrode at which reduction occurs is called the anode.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen026"
+    "question_id": "cbse_xii_lech1dd_c102_gen026",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "True or False: The standard electrode potential for the standard hydrogen electrode is defined as 0 V under all standard conditions.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen027"
+    "question_id": "cbse_xii_lech1dd_c102_gen027",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "A Daniell cell is constructed using a copper half-cell with a standard electrode potential of +0.34 V and a zinc half-cell with a potential of -0.76 V. Calculate the cell potential of this galvanic cell. Show all steps and include units.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen028"
+    "question_id": "cbse_xii_lech1dd_c102_gen028",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "Consider a galvanic cell represented as Zn(s) | Zn²⁺(aq, 1 M) || Ag⁺(aq, 1 M) | Ag(s). If the standard electrode potential for the reaction Ag⁺(aq) + e⁻ → Ag(s) is +0.80 V and that for Zn²⁺(aq) + 2e⁻ → Zn(s) is -0.76 V, calculate the overall cell potential.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen029"
+    "question_id": "cbse_xii_lech1dd_c102_gen029",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "A galvanic cell is built with a platinum electrode immersed in a bromine solution. If the half-reaction at this electrode is ½ Br₂(aq) + e⁻ → Br⁻(aq) with a standard electrode potential of +1.07 V, what is the cell potential when this half-cell is used with a standard hydrogen electrode (SHE) as the reference? Provide your answer with units.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen030"
+    "question_id": "cbse_xii_lech1dd_c102_gen030",
+    "section_name": "2.2 Galvanic Cells"
   },
   {
     "question_text": "In a galvanic cell involving copper and zinc electrodes, the measured emf is 1.10 V. Verify this result using the given half-cell reactions: Cu²⁺(aq) + 2e⁻ → Cu(s) with E° = +0.34 V and Zn(s) → Zn²⁺(aq) + 2e⁻ with E° = -0.76 V. Describe the calculation process in detail.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lech1dd_c102_gen031"
+    "question_id": "cbse_xii_lech1dd_c102_gen031",
+    "section_name": "2.2 Galvanic Cells"
   }
 ]

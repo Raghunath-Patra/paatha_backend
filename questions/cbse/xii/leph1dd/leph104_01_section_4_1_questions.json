@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen001"
+    "question_id": "cbse_xii_leph1dd_c104_gen001",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "How do iron filings arrange themselves around a current-carrying wire, and what does this arrangement indicate about the magnetic field?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen002"
+    "question_id": "cbse_xii_leph1dd_c104_gen002",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "In Oersted's experiment, what happens to the deflection of the compass needle when the direction of the current is reversed?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen003"
+    "question_id": "cbse_xii_leph1dd_c104_gen003",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Which symbol is used in the chapter to depict a current that is emerging out of the plane of the paper?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen004"
+    "question_id": "cbse_xii_leph1dd_c104_gen004",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Which instrument mentioned in the section is used to detect small currents and voltages?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen005"
+    "question_id": "cbse_xii_leph1dd_c104_gen005",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Explain how the arrangement of iron filings around a current-carrying wire demonstrates the nature of the magnetic field produced.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen006"
+    "question_id": "cbse_xii_leph1dd_c104_gen006",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Name two scientists, other than Oersted, who played key roles in the development of the unified laws of electricity and magnetism.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen007"
+    "question_id": "cbse_xii_leph1dd_c104_gen007",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "What convention is used in the chapter to represent the direction of currents and magnetic fields with respect to the plane of the paper?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen008"
+    "question_id": "cbse_xii_leph1dd_c104_gen008",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Describe the experimental setup used by Oersted to demonstrate the relationship between electric currents and magnetic fields. Explain how his observation led to the conclusion that current-carrying wires produce magnetic fields.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen009"
+    "question_id": "cbse_xii_leph1dd_c104_gen009",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the significance of James Maxwell's unification of the laws of electricity and magnetism. How did this unification lead to the discovery and development of electromagnetic waves and modern communication technologies?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen010"
+    "question_id": "cbse_xii_leph1dd_c104_gen010",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In Oersted's experiment, the effect of the earth's magnetic field was significant in determining the deflection of the compass needle.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen011"
+    "question_id": "cbse_xii_leph1dd_c104_gen011",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Reversing the direction of the current in a wire always results in an increase in the deflection angle of a nearby compass needle.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen012"
+    "question_id": "cbse_xii_leph1dd_c104_gen012",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "A long, straight wire carries a current of 3 A. If a compass needle is placed 5 cm from the wire, calculate the magnetic field strength at the location of the needle using the formula B = (mu0 * I) / (2 * pi * r). Assume mu0 = 4pi x 10^-7 T*m/A. Provide your answer in Tesla.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen013"
+    "question_id": "cbse_xii_leph1dd_c104_gen013",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "A current of 5 A flows through a straight wire. Calculate the magnetic field 2 cm away from the wire. Use the formula B = (mu0 * I) / (2 * pi * r) with mu0 = 4pi x 10^-7 T*m/A. Provide your answer in Tesla with proper steps.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen014"
+    "question_id": "cbse_xii_leph1dd_c104_gen014",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "An electron is moving with a velocity of 2 x 10^6 m/s in a region where the magnetic field is 5.0 x 10^-5 T. Given the electron charge of 1.6 x 10^-19 C and its mass of 9.11 x 10^-31 kg, determine the radius of the circular path followed by the electron. Use the relation r = (m * v) / (q * B).",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen015"
+    "question_id": "cbse_xii_leph1dd_c104_gen015",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Calculate the magnetic field at a distance of 8 cm from a long, straight wire carrying a current of 10 A. Use the formula B = (mu0 * I) / (2 * pi * r) with mu0 = 4pi x 10^-7 T*m/A. Provide your answer in Tesla.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen016"
+    "question_id": "cbse_xii_leph1dd_c104_gen016",
+    "section_name": "4.1 INTRODUCTION"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen040"
+    "question_id": "cbse_xii_lemh1dd_c101_gen040",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Given functions f: {2, 3, 4, 5} → {3, 4, 5, 9} defined by f(2)=3, f(3)=4, f(4)=5, f(5)=5 and g: {3, 4, 5, 9} → {7, 11, 15} defined by g(3)=7, g(4)=7, g(5)=11 and g(9)=11, what is the value of (g ∘ f)(3)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen041"
+    "question_id": "cbse_xii_lemh1dd_c101_gen041",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Which statement is true regarding an invertible function f: X → Y?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen042"
+    "question_id": "cbse_xii_lemh1dd_c101_gen042",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Consider the functions f(x)=cos x and g(x)=3x² defined on ℝ. Which of the following is a correct observation?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen043"
+    "question_id": "cbse_xii_lemh1dd_c101_gen043",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Define the composition of two functions and provide its formal mathematical notation.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen044"
+    "question_id": "cbse_xii_lemh1dd_c101_gen044",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "What does it mean for a function f: X → Y to be invertible? Provide the necessary conditions.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen045"
+    "question_id": "cbse_xii_lemh1dd_c101_gen045",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Provide an example (other than those given in the textbook) of two functions f and g whose composition can be explicitly computed. Briefly describe your example and compute (g ∘ f)(x).",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen046"
+    "question_id": "cbse_xii_lemh1dd_c101_gen046",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "For the functions f(x)=cos x and g(x)=3x², explain why (g ∘ f) and (f ∘ g) yield different results. Illustrate with a specific value of x.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen047"
+    "question_id": "cbse_xii_lemh1dd_c101_gen047",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Prove that if a function f : X → Y is invertible, then f must be one-to-one and onto.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen048"
+    "question_id": "cbse_xii_lemh1dd_c101_gen048",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Let f : ℕ → Y be defined by f(x) = 4x + 3, where Y = { y ∈ ℕ : y = 4x + 3 for some x ∈ ℕ }. Prove that f is invertible and find its inverse function.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen049"
+    "question_id": "cbse_xii_lemh1dd_c101_gen049",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Using the functions from Example 15, compute (g ∘ f)(2).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen050"
+    "question_id": "cbse_xii_lemh1dd_c101_gen050",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "For f(x)=cos x and g(x)=3x², calculate (g ∘ f)(π/3) and (f ∘ g)(π/3). Provide your answers with appropriate justification.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen051"
+    "question_id": "cbse_xii_lemh1dd_c101_gen051",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Let f: {1, 2, 3} → {2, 4, 6} be defined by f(1)=2, f(2)=4, f(3)=6, and g: {2, 4, 6} → {3, 5, 7} be defined by g(2)=3, g(4)=5, g(6)=7. Find the composite function (g ∘ f) for each element in the domain.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen052"
+    "question_id": "cbse_xii_lemh1dd_c101_gen052",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Given f(x)=2x+1 and g(x)=x-1, compute the composite function (f ∘ g)(x) and determine if (f ∘ g) is invertible by finding its inverse.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen053"
+    "question_id": "cbse_xii_lemh1dd_c101_gen053",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Let f(x)=x³ and g(x)=√x, with the domain of g being x ≥ 0. Compute (g ∘ f)(2) and state the domain and range of the composite function.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen054"
+    "question_id": "cbse_xii_lemh1dd_c101_gen054",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   }
 ]

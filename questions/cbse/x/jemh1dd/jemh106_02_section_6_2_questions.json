@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen016"
+    "question_id": "cbse_x_jemh1dd_c106_gen016",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Two polygons of the same number of sides are similar when which of the following conditions hold?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen017"
+    "question_id": "cbse_x_jemh1dd_c106_gen017",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Which pair of figures is definitely not similar?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen018"
+    "question_id": "cbse_x_jemh1dd_c106_gen018",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Define 'similar figures' in your own words.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen019"
+    "question_id": "cbse_x_jemh1dd_c106_gen019",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Explain why all squares are similar even if they are of different sizes.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen020"
+    "question_id": "cbse_x_jemh1dd_c106_gen020",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Describe a method to verify whether two given quadrilaterals are similar using a real-life example such as a shadow cast by a cardboard cut-out.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen021"
+    "question_id": "cbse_x_jemh1dd_c106_gen021",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Prove that similarity is a transitive relation; that is, if polygon A is similar to polygon B, and polygon B is similar to polygon C, then polygon A is similar to polygon C.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen022"
+    "question_id": "cbse_x_jemh1dd_c106_gen022",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Given two similar quadrilaterals ABCD and PQRS, explain how to determine the scale factor between them. Include a numerical example where AB = 8 cm in quadrilateral ABCD and the corresponding side P Q = 12 cm in quadrilateral PQRS, and verify similarity by checking another pair of sides.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen023"
+    "question_id": "cbse_x_jemh1dd_c106_gen023",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "In the process of enlarging a photograph, a linear segment in the original image measures 35 mm and its corresponding segment in the enlarged image measures 55 mm. What is the scale factor for this enlargement?",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen024"
+    "question_id": "cbse_x_jemh1dd_c106_gen024",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "An original quadrilateral has side lengths of 8 cm, 10 cm, 7 cm, and 9 cm. Its enlarged image has the side corresponding to the 8 cm side measuring 12 cm. Determine the scale factor and the lengths of the other three sides in the enlarged image.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen025"
+    "question_id": "cbse_x_jemh1dd_c106_gen025",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Two similar triangles have corresponding side lengths in the ratio 2:3. If the perimeter of the smaller triangle is 20 cm, what is the perimeter of the larger triangle?",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen026"
+    "question_id": "cbse_x_jemh1dd_c106_gen026",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "A small photograph measures 4 cm by 5 cm. It is enlarged so that its width becomes 6 cm. Find the scale factor used and the dimensions of the enlarged photograph.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen027"
+    "question_id": "cbse_x_jemh1dd_c106_gen027",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "True or False: Two polygons can be similar if only their corresponding sides are proportional but their corresponding angles are not equal.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen028"
+    "question_id": "cbse_x_jemh1dd_c106_gen028",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Draw and label a diagram to illustrate how a light source casting a shadow demonstrates the concept of similarity between a polygon and its shadow. Briefly explain your diagram.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen029"
+    "question_id": "cbse_x_jemh1dd_c106_gen029",
+    "section_name": "6.2 Similar Figures"
   },
   {
     "question_text": "Using the concept of similarity, explain why world maps drawn using a representative fraction (scale factor) maintain the true shape of the geographical area. Include a discussion of the role of corresponding angles and side ratios.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_x_jemh1dd_c106_gen030"
+    "question_id": "cbse_x_jemh1dd_c106_gen030",
+    "section_name": "6.2 Similar Figures"
   }
 ]

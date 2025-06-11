@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen045"
+    "question_id": "cbse_xi_kemh1dd_c109_gen045",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "For two lines to be parallel, which condition must hold true regarding their slopes?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen046"
+    "question_id": "cbse_xi_kemh1dd_c109_gen046",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Consider two parallel lines given in general form: Ax + By + C₁ = 0 and Ax + By + C₂ = 0. Which of the following is the correct expression for the distance between them?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen047"
+    "question_id": "cbse_xi_kemh1dd_c109_gen047",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Define the perpendicular distance of a point from a line.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen048"
+    "question_id": "cbse_xi_kemh1dd_c109_gen048",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Explain the significance of the segment QR in the derivation of the distance formula for a point and a line.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen049"
+    "question_id": "cbse_xi_kemh1dd_c109_gen049",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Describe why the area of triangle PQR is utilized in the derivation of the distance from a point to a line.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen050"
+    "question_id": "cbse_xi_kemh1dd_c109_gen050",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Derive the formula for the perpendicular distance from a point (x₁, y₁) to the line Ax + By + C = 0 using the area of the triangle formed by the point and the intercepts of the line.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen051"
+    "question_id": "cbse_xi_kemh1dd_c109_gen051",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Prove that for two parallel lines given by Ax + By + C₁ = 0 and Ax + By + C₂ = 0, the distance between them is given by d = |C₁ - C₂| / √(A² + B²).",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen052"
+    "question_id": "cbse_xi_kemh1dd_c109_gen052",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Find the perpendicular distance of the point (3, –5) from the line 3x – 4y – 26 = 0.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen053"
+    "question_id": "cbse_xi_kemh1dd_c109_gen053",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Find the distance between the two parallel lines: 2x – 5y + 7 = 0 and 2x – 5y – 3 = 0.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen054"
+    "question_id": "cbse_xi_kemh1dd_c109_gen054",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Determine the distance of the point (-2, 3) from the line 4x + 3y + 12 = 0.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen055"
+    "question_id": "cbse_xi_kemh1dd_c109_gen055",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "For the line 5x + 6y – 30 = 0, compute its x-intercept and y-intercept, and then determine the distance between these intercepts.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen056"
+    "question_id": "cbse_xi_kemh1dd_c109_gen056",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Given the point (x₁, y₁) lies outside the line Ax + By + C = 0, show that scaling the coefficients A, B, and C by a nonzero constant k does not change the perpendicular distance from the point to the line.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen057"
+    "question_id": "cbse_xi_kemh1dd_c109_gen057",
+    "section_name": "9.4 Distance of a Point From a Line"
   }
 ]

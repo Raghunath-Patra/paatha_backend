@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen001"
+    "question_id": "cbse_xi_kemh1dd_c113_gen001",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "In an even-numbered dataset, how is the median determined?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen002"
+    "question_id": "cbse_xi_kemh1dd_c113_gen002",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which of the following statements about data variability is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen003"
+    "question_id": "cbse_xi_kemh1dd_c113_gen003",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "What is the standard form of the equation of an ellipse centered at the origin?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen004"
+    "question_id": "cbse_xi_kemh1dd_c113_gen004",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Define 'measure of dispersion' and list two examples.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen005"
+    "question_id": "cbse_xi_kemh1dd_c113_gen005",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Explain the difference between the mean and the median using the batsmen scores example discussed in the section.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen006"
+    "question_id": "cbse_xi_kemh1dd_c113_gen006",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "What does the clustering of dots in a dot plot indicate about a dataset?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen007"
+    "question_id": "cbse_xi_kemh1dd_c113_gen007",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Discuss why measures of central tendency might be insufficient to fully characterize a dataset, using the batsmen examples as an illustration. Include in your discussion an explanation of variability.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen008"
+    "question_id": "cbse_xi_kemh1dd_c113_gen008",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Derive the steps to calculate the median for an even-numbered dataset and illustrate with an example of your choice.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen009"
+    "question_id": "cbse_xi_kemh1dd_c113_gen009",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Batsman C scored the following runs in 8 matches: 45, 56, 78, 90, 34, 67, 50, 68. Calculate the mean and the median of these scores.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen010"
+    "question_id": "cbse_xi_kemh1dd_c113_gen010",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Using the runs scored by Batsman A mentioned in the section (minimum = 0 and maximum = 117), compute the range of the scores.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen011"
+    "question_id": "cbse_xi_kemh1dd_c113_gen011",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Consider the dataset: 30, 50, 50, 60, 70, 80, 90, 100. First, compute the mean and median. Then, add an outlier value of 150 to the dataset, and compute the new mean and median. Which measure of central tendency is less affected by the outlier?",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen012"
+    "question_id": "cbse_xi_kemh1dd_c113_gen012",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "For the ellipse described in the section with the equation x²/a² + y²/b² = 1, if a = 5 and b = 3, verify whether the point (3,2) lies on the ellipse.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen013"
+    "question_id": "cbse_xi_kemh1dd_c113_gen013",
+    "section_name": "13.1 Introduction"
   }
 ]

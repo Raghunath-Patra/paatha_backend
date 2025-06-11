@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen015"
+    "question_id": "cbse_ix_iemh1dd_c112_gen015",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "In constructing a histogram for a grouped frequency distribution with uniform class widths, which element of the rectangles is made proportional to the frequency?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen016"
+    "question_id": "cbse_ix_iemh1dd_c112_gen016",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "When classes of a histogram have varying widths, what adjustment is required to correctly represent the frequency of each class?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen017"
+    "question_id": "cbse_ix_iemh1dd_c112_gen017",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "Identify and define the graphical representation obtained by joining the mid-points of the tops of adjacent rectangles in a histogram.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen018"
+    "question_id": "cbse_ix_iemh1dd_c112_gen018",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "Define a bar graph and explain its primary use in data representation.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen019"
+    "question_id": "cbse_ix_iemh1dd_c112_gen019",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "Explain the difference between a histogram and a bar graph, giving one key point for each difference.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen020"
+    "question_id": "cbse_ix_iemh1dd_c112_gen020",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "Discuss in detail the rationale behind adjusting the heights of rectangles in histograms that have classes with varying widths. Include in your answer how this adjustment ensures accurate data representation.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen021"
+    "question_id": "cbse_ix_iemh1dd_c112_gen021",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "Describe the steps involved in constructing a frequency polygon from a given histogram. Provide a logical justification for each step.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen022"
+    "question_id": "cbse_ix_iemh1dd_c112_gen022",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "The following frequency distribution represents the number of books read by students in a month:\n\nNumber of Books Read (Class Interval): 0-2, 3-5, 6-8, 9-11\nFrequency: 4, 7, 5, 2\n\n(a) Construct a histogram using this data assuming class widths are uniform.\n(b) Compute the mid-points for each class and explain how you would construct a frequency polygon from this histogram.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen023"
+    "question_id": "cbse_ix_iemh1dd_c112_gen023",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "Consider the following grouped frequency distribution with non-uniform class widths:\n\nClass Interval: 0-4, 4-7, 7-10, 10-15\nFrequency: 8, 12, 5, 10\n\n(a) Calculate the frequency density for each class.\n(b) Describe how you would use these densities to construct a histogram.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen024"
+    "question_id": "cbse_ix_iemh1dd_c112_gen024",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "A teacher collected data on the number of hours students studied per week. The data was grouped into the intervals: 0-5, 5-10, 10-15, and 15-20 with frequencies 3, 9, 12, and 6 respectively. \n\n(a) Draw the corresponding histogram assuming uniform class widths.\n(b) From the histogram, determine the mid-points of each class and plot the frequency polygon.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen025"
+    "question_id": "cbse_ix_iemh1dd_c112_gen025",
+    "section_name": "12.2 Summary"
   },
   {
     "question_text": "Critically evaluate the advantages and limitations of using frequency polygons over histograms in representing continuous data distributions.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "03_section_12_2",
-    "question_id": "cbse_ix_iemh1dd_c112_gen026"
+    "question_id": "cbse_ix_iemh1dd_c112_gen026",
+    "section_name": "12.2 Summary"
   }
 ]

@@ -198,7 +198,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen147"
+    "question_id": "cbse_xii_lebo1dd_c105_gen147",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "What was the initial estimated cost per base pair for sequencing in the Human Genome Project?",
@@ -217,7 +218,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen148"
+    "question_id": "cbse_xii_lebo1dd_c105_gen148",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Which of the following sequencing methods was primarily used in the Human Genome Project?",
@@ -236,7 +238,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen149"
+    "question_id": "cbse_xii_lebo1dd_c105_gen149",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Which hosts were commonly used for cloning DNA fragments during the Human Genome Project?",
@@ -255,7 +258,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen150"
+    "question_id": "cbse_xii_lebo1dd_c105_gen150",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "According to the text, which human chromosome’s sequence was completed only in May 2006?",
@@ -274,7 +278,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen151"
+    "question_id": "cbse_xii_lebo1dd_c105_gen151",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "List three major goals of the Human Genome Project.",
@@ -288,7 +293,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen152"
+    "question_id": "cbse_xii_lebo1dd_c105_gen152",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Briefly explain what is meant by Expressed Sequence Tags (ESTs) in the context of the Human Genome Project.",
@@ -302,7 +308,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen153"
+    "question_id": "cbse_xii_lebo1dd_c105_gen153",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Define 'sequence annotation' as used in DNA sequencing projects.",
@@ -316,7 +323,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen154"
+    "question_id": "cbse_xii_lebo1dd_c105_gen154",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Name two non-human organisms whose genomes have been sequenced as mentioned in the section.",
@@ -330,7 +338,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen155"
+    "question_id": "cbse_xii_lebo1dd_c105_gen155",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Discuss the significance of the Human Genome Project in the advancement of bioinformatics.",
@@ -344,7 +353,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen156"
+    "question_id": "cbse_xii_lebo1dd_c105_gen156",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Describe the two major approaches used in the Human Genome Project for sequencing the human genome, including the role of cloning and automated sequencing techniques.",
@@ -358,7 +368,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen157"
+    "question_id": "cbse_xii_lebo1dd_c105_gen157",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Evaluate the potential impacts of the Human Genome Project on healthcare and society, with emphasis on ethical, legal, and social issues (ELSI).",
@@ -372,7 +383,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen158"
+    "question_id": "cbse_xii_lebo1dd_c105_gen158",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "True or False: The human genome contains approximately 3.1647 billion base pairs.",
@@ -386,7 +398,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen159"
+    "question_id": "cbse_xii_lebo1dd_c105_gen159",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "True or False: Less than 2% of the human genome codes for proteins.",
@@ -400,7 +413,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen160"
+    "question_id": "cbse_xii_lebo1dd_c105_gen160",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "True or False: The Human Genome Project was completed in 2006.",
@@ -414,7 +428,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen161"
+    "question_id": "cbse_xii_lebo1dd_c105_gen161",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "True or False: Repetitive DNA sequences in the human genome have direct coding functions.",
@@ -428,7 +443,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen162"
+    "question_id": "cbse_xii_lebo1dd_c105_gen162",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "True or False: The Human Genome Project was coordinated by the U.S. Department of Energy and the National Institutes of Health.",
@@ -442,7 +458,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen163"
+    "question_id": "cbse_xii_lebo1dd_c105_gen163",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "True or False: Almost all (99.9%) nucleotide bases differ from one individual to another.",
@@ -456,7 +473,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen164"
+    "question_id": "cbse_xii_lebo1dd_c105_gen164",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Calculate the approximate number of books needed to store the entire human genome sequence if each book has 1,000 pages with 1,000 letters per page, given the genome contains approximately 3 x 10^9 base pairs.",
@@ -470,7 +488,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen165"
+    "question_id": "cbse_xii_lebo1dd_c105_gen165",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Based on the initial estimated sequencing cost of US $3 per base pair, compute the total estimated cost for sequencing the entire human genome containing 3 x 10^9 base pairs.",
@@ -484,7 +503,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xii_lebo1dd_c105_gen166"
+    "question_id": "cbse_xii_lebo1dd_c105_gen166",
+    "section_name": "5.9 HUMAN GENOME PROJECT"
   },
   {
     "question_text": "Which of the following is NOT a component of a transcription unit?",
@@ -503,7 +523,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen071"
+    "question_id": "cbse_xii_lebo1dd_c105_gen071",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "During transcription, which nucleotide base is used in RNA in place of thymine?",
@@ -522,7 +543,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen072"
+    "question_id": "cbse_xii_lebo1dd_c105_gen072",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "In which direction does RNA polymerase synthesize the RNA strand?",
@@ -541,7 +563,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen073"
+    "question_id": "cbse_xii_lebo1dd_c105_gen073",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Which enzyme-associated factor assists RNA polymerase in recognizing the promoter during bacterial transcription initiation?",
@@ -560,7 +583,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen074"
+    "question_id": "cbse_xii_lebo1dd_c105_gen074",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Which type of gene organization is typically observed in eukaryotic protein-coding genes?",
@@ -579,7 +603,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen075"
+    "question_id": "cbse_xii_lebo1dd_c105_gen075",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Explain why only one strand of DNA is used as a template during transcription.",
@@ -593,7 +618,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen076"
+    "question_id": "cbse_xii_lebo1dd_c105_gen076",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Define the role of the promoter region in a transcription unit.",
@@ -607,7 +633,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen077"
+    "question_id": "cbse_xii_lebo1dd_c105_gen077",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Briefly describe the difference between the coding strand and the template strand in a transcription unit.",
@@ -621,7 +648,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen078"
+    "question_id": "cbse_xii_lebo1dd_c105_gen078",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "List two major differences between prokaryotic and eukaryotic transcription.",
@@ -635,7 +663,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen079"
+    "question_id": "cbse_xii_lebo1dd_c105_gen079",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Discuss the process of transcription in bacteria, including the roles played by the sigma factor during initiation and the rho factor during termination.",
@@ -649,7 +678,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen080"
+    "question_id": "cbse_xii_lebo1dd_c105_gen080",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Explain the significance of introns and exons in eukaryotic genes and how the process of splicing contributes to gene expression regulation.",
@@ -663,7 +693,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen081"
+    "question_id": "cbse_xii_lebo1dd_c105_gen081",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Analyze how the 5'-3' directionality of RNA polymerization and the polarity of the DNA template strand determine the sequence and integrity of the resultant RNA molecule.",
@@ -677,7 +708,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen082"
+    "question_id": "cbse_xii_lebo1dd_c105_gen082",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "In transcription, both strands of DNA are copied into RNA simultaneously.",
@@ -691,7 +723,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen083"
+    "question_id": "cbse_xii_lebo1dd_c105_gen083",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "The coding strand is transcribed to produce mRNA.",
@@ -705,7 +738,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen084"
+    "question_id": "cbse_xii_lebo1dd_c105_gen084",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "RNA polymerase synthesizes RNA in the 5'-3' direction.",
@@ -719,7 +753,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen085"
+    "question_id": "cbse_xii_lebo1dd_c105_gen085",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "In eukaryotes, mRNA is produced without any post-transcriptional processing.",
@@ -733,7 +768,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen086"
+    "question_id": "cbse_xii_lebo1dd_c105_gen086",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "The promoter is located upstream (at the 5'-end) of the structural gene when referenced to the coding strand.",
@@ -747,7 +783,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen087"
+    "question_id": "cbse_xii_lebo1dd_c105_gen087",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Coupling of transcription and translation is a feature that occurs in prokaryotes.",
@@ -761,7 +798,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen088"
+    "question_id": "cbse_xii_lebo1dd_c105_gen088",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Given a DNA template strand sequence: 3' - ATGCATGCATGC - 5', what is the length (in nucleotides) of the corresponding RNA molecule synthesized?",
@@ -775,7 +813,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xii_lebo1dd_c105_gen089"
+    "question_id": "cbse_xii_lebo1dd_c105_gen089",
+    "section_name": "5.5 TRANSCRIPTION"
   },
   {
     "question_text": "Which of the following best explains why the genetic code is considered a triplet code?",
@@ -794,7 +833,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen090"
+    "question_id": "cbse_xii_lebo1dd_c105_gen090",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Which of the following codons do NOT code for any amino acid?",
@@ -813,7 +853,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen091"
+    "question_id": "cbse_xii_lebo1dd_c105_gen091",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Why is the genetic code described as degenerate?",
@@ -832,7 +873,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen092"
+    "question_id": "cbse_xii_lebo1dd_c105_gen092",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "AUG is considered the initiator codon because:",
@@ -851,7 +893,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen093"
+    "question_id": "cbse_xii_lebo1dd_c105_gen093",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Which molecule acts as an adaptor in translation by linking the mRNA codon to the respective amino acid?",
@@ -870,7 +913,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen094"
+    "question_id": "cbse_xii_lebo1dd_c105_gen094",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "In your own words, explain the concept of the genetic code being nearly universal.",
@@ -884,7 +928,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen095"
+    "question_id": "cbse_xii_lebo1dd_c105_gen095",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "List at least two technological advances or experiments that contributed to the deciphering of the genetic code.",
@@ -898,7 +943,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen096"
+    "question_id": "cbse_xii_lebo1dd_c105_gen096",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Why is it difficult to predict the nucleotide sequence solely from a given amino acid sequence?",
@@ -912,7 +958,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen097"
+    "question_id": "cbse_xii_lebo1dd_c105_gen097",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Briefly describe the effect of a frameshift mutation on protein translation.",
@@ -926,7 +973,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen098"
+    "question_id": "cbse_xii_lebo1dd_c105_gen098",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Explain the step-by-step process through which scientists deciphered the genetic code.",
@@ -940,7 +988,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen099"
+    "question_id": "cbse_xii_lebo1dd_c105_gen099",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Discuss how insertion or deletion mutations can lead to a frameshift and provide an example to illustrate the phenomenon.",
@@ -954,7 +1003,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen100"
+    "question_id": "cbse_xii_lebo1dd_c105_gen100",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Analyze the role of tRNA in translation and discuss how its structure is essential for its function.",
@@ -968,7 +1018,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen101"
+    "question_id": "cbse_xii_lebo1dd_c105_gen101",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "True or False: The complete set of 64 codons in the genetic code exclusively codes for amino acids.",
@@ -982,7 +1033,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen102"
+    "question_id": "cbse_xii_lebo1dd_c105_gen102",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "True or False: AUG is unique in that it codes for methionine and also functions as the start signal for translation.",
@@ -996,7 +1048,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen103"
+    "question_id": "cbse_xii_lebo1dd_c105_gen103",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "True or False: A frameshift mutation caused by a single nucleotide deletion will only affect the codon in which the deletion occurred.",
@@ -1010,7 +1063,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen104"
+    "question_id": "cbse_xii_lebo1dd_c105_gen104",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "True or False: tRNA molecules have anticodons that are complementary to the mRNA codons, facilitating proper translation.",
@@ -1024,7 +1078,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen105"
+    "question_id": "cbse_xii_lebo1dd_c105_gen105",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "True or False: The genetic code is entirely universal without any exceptions across all organisms.",
@@ -1038,7 +1093,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen106"
+    "question_id": "cbse_xii_lebo1dd_c105_gen106",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "True or False: Point mutations in the beta globin gene that change a single amino acid can lead to diseases such as sickle cell anemia.",
@@ -1052,7 +1108,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen107"
+    "question_id": "cbse_xii_lebo1dd_c105_gen107",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "If there are a total of 64 codons in the genetic code and 3 of them function as stop codons, calculate the number of codons that code for amino acids.",
@@ -1066,7 +1123,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xii_lebo1dd_c105_gen108"
+    "question_id": "cbse_xii_lebo1dd_c105_gen108",
+    "section_name": "5.6 GENETIC CODE"
   },
   {
     "question_text": "Which of the following components is NOT a part of a nucleotide?",
@@ -1085,7 +1143,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen001"
+    "question_id": "cbse_xii_lebo1dd_c105_gen001",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Which nitrogenous base is replaced by uracil in RNA?",
@@ -1104,7 +1163,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen002"
+    "question_id": "cbse_xii_lebo1dd_c105_gen002",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "What is the approximate distance between two consecutive base pairs in a DNA double helix?",
@@ -1123,7 +1183,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen003"
+    "question_id": "cbse_xii_lebo1dd_c105_gen003",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Chargaff's observation that the ratios of adenine to thymine and guanine to cytosine are constant in double-stranded DNA provided evidence for which of the following?",
@@ -1142,7 +1203,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen004"
+    "question_id": "cbse_xii_lebo1dd_c105_gen004",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "In the packaging of eukaryotic DNA, what is the basic unit in which DNA is first wrapped around histone octamers?",
@@ -1161,7 +1223,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen005"
+    "question_id": "cbse_xii_lebo1dd_c105_gen005",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Explain what is meant by the antiparallel arrangement of the two DNA strands.",
@@ -1175,7 +1238,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen006"
+    "question_id": "cbse_xii_lebo1dd_c105_gen006",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Define a phosphodiester bond and state its significance in the formation of a polynucleotide chain.",
@@ -1189,7 +1253,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen007"
+    "question_id": "cbse_xii_lebo1dd_c105_gen007",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Describe the role of histones in the packaging of eukaryotic DNA.",
@@ -1203,7 +1268,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen008"
+    "question_id": "cbse_xii_lebo1dd_c105_gen008",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Outline the structure of a nucleosome and its significance in chromatin organization.",
@@ -1217,7 +1283,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen009"
+    "question_id": "cbse_xii_lebo1dd_c105_gen009",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Discuss the importance of complementary base pairing in DNA replication and how it ensures genetic fidelity.",
@@ -1231,7 +1298,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen010"
+    "question_id": "cbse_xii_lebo1dd_c105_gen010",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Explain in detail how DNA is packaged inside a eukaryotic nucleus, describing the roles of nucleosomes, chromatin fibers, and higher order structures.",
@@ -1245,7 +1313,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen011"
+    "question_id": "cbse_xii_lebo1dd_c105_gen011",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Critically evaluate the contributions of Watson and Crick, Rosalind Franklin, and Chargaff in elucidating the structure of DNA.",
@@ -1259,7 +1328,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen012"
+    "question_id": "cbse_xii_lebo1dd_c105_gen012",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "DNA is a long polymer of nucleotides linked by phosphodiester bonds.",
@@ -1273,7 +1343,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen013"
+    "question_id": "cbse_xii_lebo1dd_c105_gen013",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "In DNA, thymine is replaced by uracil.",
@@ -1287,7 +1358,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen014"
+    "question_id": "cbse_xii_lebo1dd_c105_gen014",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "The DNA double helix is coiled in a right-handed fashion.",
@@ -1301,7 +1373,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen015"
+    "question_id": "cbse_xii_lebo1dd_c105_gen015",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Histones are negatively charged proteins that assist in DNA packaging within the nucleus.",
@@ -1315,7 +1388,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen016"
+    "question_id": "cbse_xii_lebo1dd_c105_gen016",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Euchromatin is considered to be transcriptionally active chromatin.",
@@ -1329,7 +1403,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen017"
+    "question_id": "cbse_xii_lebo1dd_c105_gen017",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "In DNA, the base pairing rule ensures that a purine always pairs with a pyrimidine.",
@@ -1343,7 +1418,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen018"
+    "question_id": "cbse_xii_lebo1dd_c105_gen018",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Given that the length of E. coli DNA is 1.36 mm and each base pair is 0.34 nm apart, calculate the number of base pairs present in E. coli DNA. Express your answer in scientific notation.",
@@ -1357,7 +1433,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen019"
+    "question_id": "cbse_xii_lebo1dd_c105_gen019",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "If the human haploid DNA content is 3.3 x 10^9 base pairs, calculate the approximate length of the DNA in meters, given that each base pair is 0.34 nm long.",
@@ -1371,7 +1448,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lebo1dd_c105_gen020"
+    "question_id": "cbse_xii_lebo1dd_c105_gen020",
+    "section_name": "5.1 THE DNA"
   },
   {
     "question_text": "Which of the following is NOT a level at which gene expression is regulated in eukaryotes?",
@@ -1390,7 +1468,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen129"
+    "question_id": "cbse_xii_lebo1dd_c105_gen129",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "In the lac operon, which gene codes for beta-galactosidase?",
@@ -1409,7 +1488,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen130"
+    "question_id": "cbse_xii_lebo1dd_c105_gen130",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "What is the role of the operator region in prokaryotic gene expression regulation?",
@@ -1428,7 +1508,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen131"
+    "question_id": "cbse_xii_lebo1dd_c105_gen131",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "Which of the following best describes the function of the y gene in the lac operon?",
@@ -1447,7 +1528,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen132"
+    "question_id": "cbse_xii_lebo1dd_c105_gen132",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "The regulation of the lac operon by the repressor protein in the absence of an inducer exemplifies which type of regulation?",
@@ -1466,7 +1548,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen133"
+    "question_id": "cbse_xii_lebo1dd_c105_gen133",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "What is the primary function of the lac operon in E. coli?",
@@ -1480,7 +1563,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen134"
+    "question_id": "cbse_xii_lebo1dd_c105_gen134",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "Describe the role of inducers in the regulation of the lac operon.",
@@ -1494,7 +1578,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen135"
+    "question_id": "cbse_xii_lebo1dd_c105_gen135",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "Explain why the lac operon is not induced by galactose even though it is one of the metabolic products of lactose hydrolysis.",
@@ -1508,7 +1593,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen136"
+    "question_id": "cbse_xii_lebo1dd_c105_gen136",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "Why is there always a very low level of expression of the lac operon in E. coli cells even when lactose is absent?",
@@ -1522,7 +1608,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen137"
+    "question_id": "cbse_xii_lebo1dd_c105_gen137",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "Explain the molecular mechanism by which the lac operon is regulated in the absence and presence of an inducer.",
@@ -1536,7 +1623,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen138"
+    "question_id": "cbse_xii_lebo1dd_c105_gen138",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "Analyze how the presence of lactose and absence of glucose affect the expression of the lac operon in E. coli.",
@@ -1550,7 +1638,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen139"
+    "question_id": "cbse_xii_lebo1dd_c105_gen139",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "Propose an experimental approach to study the regulation of the lac operon in E. coli. Include the role of inducers and repressors in your design.",
@@ -1564,7 +1653,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen140"
+    "question_id": "cbse_xii_lebo1dd_c105_gen140",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "True or False: The lac operon consists of three structural genes and one regulatory gene.",
@@ -1578,7 +1668,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen141"
+    "question_id": "cbse_xii_lebo1dd_c105_gen141",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "True or False: In the absence of an inducer, RNA polymerase efficiently transcribes the lac operon.",
@@ -1592,7 +1683,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen142"
+    "question_id": "cbse_xii_lebo1dd_c105_gen142",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "True or False: The binding of the repressor protein to the operator region prevents the formation of the primary transcript of the lac operon.",
@@ -1606,7 +1698,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen143"
+    "question_id": "cbse_xii_lebo1dd_c105_gen143",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "True or False: Glucose can act as an inducer for the lac operon.",
@@ -1620,7 +1713,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen144"
+    "question_id": "cbse_xii_lebo1dd_c105_gen144",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "True or False: Beta-galactosidase hydrolyzes lactose into galactose and glucose.",
@@ -1634,7 +1728,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen145"
+    "question_id": "cbse_xii_lebo1dd_c105_gen145",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "True or False: The interaction of the repressor with the operator region is an example of positive regulation.",
@@ -1648,7 +1743,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xii_lebo1dd_c105_gen146"
+    "question_id": "cbse_xii_lebo1dd_c105_gen146",
+    "section_name": "5.8 REGULATION OF GENE EXPRESSION"
   },
   {
     "question_text": "Based on the RNA World hypothesis, what was the first genetic material?",
@@ -1667,7 +1763,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen037"
+    "question_id": "cbse_xii_lebo1dd_c105_gen037",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "Which process is depicted by the Watson-Crick model as mentioned in the text?",
@@ -1686,7 +1783,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen038"
+    "question_id": "cbse_xii_lebo1dd_c105_gen038",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "Why did DNA evolve from RNA according to the text?",
@@ -1705,7 +1803,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen039"
+    "question_id": "cbse_xii_lebo1dd_c105_gen039",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "What is the main reason RNA is considered unsuitable as a long-term genetic material?",
@@ -1724,7 +1823,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen040"
+    "question_id": "cbse_xii_lebo1dd_c105_gen040",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "The diagram in the section illustrates which key process?",
@@ -1743,7 +1843,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen041"
+    "question_id": "cbse_xii_lebo1dd_c105_gen041",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "Briefly explain why RNA is considered the first genetic material.",
@@ -1757,7 +1858,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen042"
+    "question_id": "cbse_xii_lebo1dd_c105_gen042",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "What evidence supports the idea that RNA could act as both a genetic material and a catalyst?",
@@ -1771,7 +1873,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen043"
+    "question_id": "cbse_xii_lebo1dd_c105_gen043",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "What chemical modifications distinguish DNA from RNA in terms of stability?",
@@ -1785,7 +1888,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen044"
+    "question_id": "cbse_xii_lebo1dd_c105_gen044",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "Describe the key difference between RNA and DNA in terms of their roles as genetic materials.",
@@ -1799,7 +1903,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen045"
+    "question_id": "cbse_xii_lebo1dd_c105_gen045",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "Critically discuss the transition from RNA to DNA as the primary genetic material. In your discussion, include the roles of stability and repair mechanisms.",
@@ -1813,7 +1918,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen046"
+    "question_id": "cbse_xii_lebo1dd_c105_gen046",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "Analyze the diagram of DNA replication provided in the text. Discuss how the semiconservative model ensures accurate replication of genetic information.",
@@ -1827,7 +1933,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen047"
+    "question_id": "cbse_xii_lebo1dd_c105_gen047",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "True or False: According to the RNA World hypothesis, RNA functioned as both a genetic material and a catalyst.",
@@ -1841,7 +1948,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen048"
+    "question_id": "cbse_xii_lebo1dd_c105_gen048",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "True or False: DNA is less stable than RNA because it is single-stranded.",
@@ -1855,7 +1963,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen049"
+    "question_id": "cbse_xii_lebo1dd_c105_gen049",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "True or False: The diagram provided in the section illustrates the semiconservative model of DNA replication.",
@@ -1869,7 +1978,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen050"
+    "question_id": "cbse_xii_lebo1dd_c105_gen050",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "True or False: Chemical evolution theory supports the idea that proteins were the first genetic material before RNA.",
@@ -1883,7 +1993,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen051"
+    "question_id": "cbse_xii_lebo1dd_c105_gen051",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "True or False: DNA's complementary base pairing is essential for its repair mechanisms and resistance to changes.",
@@ -1897,7 +2008,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen052"
+    "question_id": "cbse_xii_lebo1dd_c105_gen052",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "True or False: RNA's catalytic activity was advantageous for long-term genetic stability.",
@@ -1911,7 +2023,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xii_lebo1dd_c105_gen053"
+    "question_id": "cbse_xii_lebo1dd_c105_gen053",
+    "section_name": "5.3 RNA WORLD"
   },
   {
     "question_text": "Which experiment first demonstrated that a 'transforming principle' from heat-killed bacteria could transfer virulence to non-virulent bacteria?",
@@ -1930,7 +2043,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen021"
+    "question_id": "cbse_xii_lebo1dd_c105_gen021",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "Which biochemical compound was ultimately identified as the genetic material due to its ability to transform R strain bacteria into S strain bacteria?",
@@ -1949,7 +2063,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen022"
+    "question_id": "cbse_xii_lebo1dd_c105_gen022",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "In the Hershey-Chase experiment, which radioactive isotope was used to label the DNA component of bacteriophages?",
@@ -1968,7 +2083,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen023"
+    "question_id": "cbse_xii_lebo1dd_c105_gen023",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "Which structural feature gives DNA additional stability compared to RNA?",
@@ -1987,7 +2103,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen024"
+    "question_id": "cbse_xii_lebo1dd_c105_gen024",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "Which one of the following is NOT a requirement for a molecule to be considered as genetic material?",
@@ -2006,7 +2123,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen025"
+    "question_id": "cbse_xii_lebo1dd_c105_gen025",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "Describe the significance of Griffith's transformation experiment in the discovery of genetic material.",
@@ -2020,7 +2138,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen026"
+    "question_id": "cbse_xii_lebo1dd_c105_gen026",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "Explain the role of DNase during the biochemical characterization of the transforming principle.",
@@ -2034,7 +2153,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen027"
+    "question_id": "cbse_xii_lebo1dd_c105_gen027",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "List two chemical differences between DNA and RNA that impact their functions as genetic materials.",
@@ -2048,7 +2168,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen028"
+    "question_id": "cbse_xii_lebo1dd_c105_gen028",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "Discuss how the Hershey-Chase experiment provided unequivocal proof that DNA is the genetic material.",
@@ -2062,7 +2183,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen029"
+    "question_id": "cbse_xii_lebo1dd_c105_gen029",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "Compare and contrast the properties of DNA and RNA that make DNA more suitable for long-term storage of genetic information while RNA is more suited for dynamic functions.",
@@ -2076,7 +2198,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen030"
+    "question_id": "cbse_xii_lebo1dd_c105_gen030",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "True or False: Griffith's experiment proved that proteins were the primary carriers of genetic information.",
@@ -2090,7 +2213,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen031"
+    "question_id": "cbse_xii_lebo1dd_c105_gen031",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "True or False: In the Hershey-Chase experiment, the bacterial cells exhibited radioactivity only when infected with phages labeled with radioactive phosphorus.",
@@ -2104,7 +2228,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen032"
+    "question_id": "cbse_xii_lebo1dd_c105_gen032",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "True or False: The presence of the 2'-OH group in RNA makes it more chemically stable than DNA.",
@@ -2118,7 +2243,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen033"
+    "question_id": "cbse_xii_lebo1dd_c105_gen033",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "True or False: The transforming principle observed by Griffith could survive the heating process that killed the S strain bacteria.",
@@ -2132,7 +2258,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen034"
+    "question_id": "cbse_xii_lebo1dd_c105_gen034",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "True or False: Both DNA and RNA are capable of mutation, but RNA tends to mutate faster due to its instability.",
@@ -2146,7 +2273,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen035"
+    "question_id": "cbse_xii_lebo1dd_c105_gen035",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "If 85% of bacteria incorporate radioactive DNA after infection by phages labeled with radioactive phosphorus, how many bacteria would show radioactivity in a culture of 200 cells?",
@@ -2160,7 +2288,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xii_lebo1dd_c105_gen036"
+    "question_id": "cbse_xii_lebo1dd_c105_gen036",
+    "section_name": "5.2 THE SEARCH FOR GENETIC MATERIAL"
   },
   {
     "question_text": "According to Watson and Crick, what is the mechanism by which DNA replicates?",
@@ -2179,7 +2308,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen054"
+    "question_id": "cbse_xii_lebo1dd_c105_gen054",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Which method did Meselson and Stahl use to separate DNA molecules based on density?",
@@ -2198,7 +2328,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen055"
+    "question_id": "cbse_xii_lebo1dd_c105_gen055",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Which enzyme catalyzes the polymerisation of deoxynucleotides during DNA replication in E. coli?",
@@ -2217,7 +2348,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen056"
+    "question_id": "cbse_xii_lebo1dd_c105_gen056",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Why is DNA synthesis discontinuous on one strand at the replication fork?",
@@ -2236,7 +2368,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen057"
+    "question_id": "cbse_xii_lebo1dd_c105_gen057",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "In the Meselson-Stahl experiment, which heavy isotope was used to label the parental DNA?",
@@ -2255,7 +2388,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen058"
+    "question_id": "cbse_xii_lebo1dd_c105_gen058",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Briefly describe semiconservative replication.",
@@ -2269,7 +2403,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen059"
+    "question_id": "cbse_xii_lebo1dd_c105_gen059",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "What dual role do deoxyribonucleoside triphosphates play during DNA replication?",
@@ -2283,7 +2418,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen060"
+    "question_id": "cbse_xii_lebo1dd_c105_gen060",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Define the replication fork in the context of DNA replication.",
@@ -2297,7 +2433,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen061"
+    "question_id": "cbse_xii_lebo1dd_c105_gen061",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Explain how the Meselson-Stahl experiment demonstrated semiconservative replication of DNA.",
@@ -2311,7 +2448,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen062"
+    "question_id": "cbse_xii_lebo1dd_c105_gen062",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Discuss the challenges and solutions associated with replicating long DNA molecules in cells.",
@@ -2325,7 +2463,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen063"
+    "question_id": "cbse_xii_lebo1dd_c105_gen063",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: The Meselson-Stahl experiment made use of radioactive isotopes to label the DNA.",
@@ -2339,7 +2478,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen064"
+    "question_id": "cbse_xii_lebo1dd_c105_gen064",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: DNA-dependent DNA polymerases can initiate the DNA replication process on their own.",
@@ -2353,7 +2493,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen065"
+    "question_id": "cbse_xii_lebo1dd_c105_gen065",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: After one generation in 14N medium, all DNA molecules in E. coli become light in density.",
@@ -2367,7 +2508,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen066"
+    "question_id": "cbse_xii_lebo1dd_c105_gen066",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: The high-energy phosphate bonds found in deoxyribonucleoside triphosphates are used both as building blocks for DNA and as an energy source during polymerisation.",
@@ -2381,7 +2523,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen067"
+    "question_id": "cbse_xii_lebo1dd_c105_gen067",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: Semiconservative replication implies that both strands of a DNA molecule in the daughter cells are entirely synthesized de novo.",
@@ -2395,7 +2538,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen068"
+    "question_id": "cbse_xii_lebo1dd_c105_gen068",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Given that E. coli completes replication of 4.6×10^6 base pairs in 18 minutes, calculate the approximate rate of polymerisation in base pairs per second.",
@@ -2409,7 +2553,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen069"
+    "question_id": "cbse_xii_lebo1dd_c105_gen069",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "If E. coli is allowed to grow for 80 minutes after being transferred to 14N medium, what are the expected proportions of DNA molecules with light and hybrid densities?",
@@ -2423,7 +2568,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen070"
+    "question_id": "cbse_xii_lebo1dd_c105_gen070",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "What is the primary basis for individual uniqueness in DNA fingerprinting?",
@@ -2442,7 +2588,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen001"
+    "question_id": "cbse_xii_lebo1dd_c105_gen001",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Which technique is used to separate DNA fragments by size during DNA fingerprinting?",
@@ -2461,7 +2608,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen002"
+    "question_id": "cbse_xii_lebo1dd_c105_gen002",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Which satellite DNA, known for its high degree of polymorphism, is used as a probe in DNA fingerprinting as developed by Alec Jeffreys?",
@@ -2480,7 +2628,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen003"
+    "question_id": "cbse_xii_lebo1dd_c105_gen003",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Which step in DNA fingerprinting involves transferring separated DNA fragments onto synthetic membranes?",
@@ -2499,7 +2648,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen004"
+    "question_id": "cbse_xii_lebo1dd_c105_gen004",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Why are noncoding repetitive DNA regions especially suitable for DNA fingerprinting?",
@@ -2518,7 +2668,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen005"
+    "question_id": "cbse_xii_lebo1dd_c105_gen005",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Define DNA polymorphism in your own words.",
@@ -2532,7 +2683,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen006"
+    "question_id": "cbse_xii_lebo1dd_c105_gen006",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "List and briefly explain the six steps involved in the traditional DNA fingerprinting technique.",
@@ -2546,7 +2698,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen007"
+    "question_id": "cbse_xii_lebo1dd_c105_gen007",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Explain how DNA fingerprinting can be used in forensic science.",
@@ -2560,7 +2713,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen008"
+    "question_id": "cbse_xii_lebo1dd_c105_gen008",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "How do mutations contribute to DNA polymorphism?",
@@ -2574,7 +2728,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen009"
+    "question_id": "cbse_xii_lebo1dd_c105_gen009",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Discuss the importance of repetitive DNA sequences in the context of DNA fingerprinting and genetic diversity mapping.",
@@ -2588,7 +2743,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen010"
+    "question_id": "cbse_xii_lebo1dd_c105_gen010",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Describe the process of Southern blot hybridization used in DNA fingerprinting, detailing each step and its significance.",
@@ -2602,7 +2758,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen011"
+    "question_id": "cbse_xii_lebo1dd_c105_gen011",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Evaluate the advantages and potential limitations of using DNA fingerprinting over full genomic sequencing for individual identification.",
@@ -2616,7 +2773,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen012"
+    "question_id": "cbse_xii_lebo1dd_c105_gen012",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "DNA fingerprinting can identify individuals even with DNA obtained from hair follicles.",
@@ -2630,7 +2788,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen013"
+    "question_id": "cbse_xii_lebo1dd_c105_gen013",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Noncoding regions of DNA are not useful in DNA fingerprinting since they do not code for proteins.",
@@ -2644,7 +2803,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen014"
+    "question_id": "cbse_xii_lebo1dd_c105_gen014",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Monozygotic twins have identical DNA fingerprints.",
@@ -2658,7 +2818,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen015"
+    "question_id": "cbse_xii_lebo1dd_c105_gen015",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "PCR amplification has increased the sensitivity of DNA fingerprinting, allowing analysis from a single cell.",
@@ -2672,7 +2833,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen016"
+    "question_id": "cbse_xii_lebo1dd_c105_gen016",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "The VNTR regions used in DNA fingerprinting are classified as micro-satellites due to their very small size.",
@@ -2686,7 +2848,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen017"
+    "question_id": "cbse_xii_lebo1dd_c105_gen017",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "DNA fingerprinting is a slow and expensive process if compared to full genome sequencing.",
@@ -2700,7 +2863,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen018"
+    "question_id": "cbse_xii_lebo1dd_c105_gen018",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Assuming the human genome is 3×10^9 base pairs and 99.9 percent of the base sequence is the same among humans, calculate the approximate number of base pairs that differ between individuals.",
@@ -2714,7 +2878,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen019"
+    "question_id": "cbse_xii_lebo1dd_c105_gen019",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "The size range of VNTRs varies from 0.1 kb to 20 kb. If a VNTR region is measured at 5 kb and contains repeats of 0.5 kb each, how many repeat units are present?",
@@ -2728,7 +2893,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xii_lebo1dd_c105_gen020"
+    "question_id": "cbse_xii_lebo1dd_c105_gen020",
+    "section_name": "5.10 DNA FINGERPRINTING"
   },
   {
     "question_text": "Which process involves the polymerisation of amino acids to form a polypeptide according to the text?",
@@ -2747,7 +2913,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen109"
+    "question_id": "cbse_xii_lebo1dd_c105_gen109",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Which energy source is required for the activation of amino acids during tRNA charging?",
@@ -2766,7 +2933,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen110"
+    "question_id": "cbse_xii_lebo1dd_c105_gen110",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Which component of the ribosome acts as the catalyst for peptide bond formation in bacteria?",
@@ -2785,7 +2953,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen111"
+    "question_id": "cbse_xii_lebo1dd_c105_gen111",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Which of the following best describes the role of untranslated regions (UTRs) in mRNA?",
@@ -2804,7 +2973,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen112"
+    "question_id": "cbse_xii_lebo1dd_c105_gen112",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "What must occur for a peptide bond to form between two amino acids during translation?",
@@ -2823,7 +2993,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen113"
+    "question_id": "cbse_xii_lebo1dd_c105_gen113",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Explain the process of charging of tRNA.",
@@ -2837,7 +3008,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen114"
+    "question_id": "cbse_xii_lebo1dd_c105_gen114",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Describe the role of the large ribosomal subunit during translation.",
@@ -2851,7 +3023,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen115"
+    "question_id": "cbse_xii_lebo1dd_c105_gen115",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Identify and explain the significance of untranslated regions (UTRs) in mRNA.",
@@ -2865,7 +3038,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen116"
+    "question_id": "cbse_xii_lebo1dd_c105_gen116",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "What is the function of the initiator tRNA in translation?",
@@ -2879,7 +3053,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen117"
+    "question_id": "cbse_xii_lebo1dd_c105_gen117",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Discuss the process of translation initiation, including the roles of mRNA, initiator tRNA, and ribosome subunits.",
@@ -2893,7 +3068,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen118"
+    "question_id": "cbse_xii_lebo1dd_c105_gen118",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Analyze the steps involved in tRNA charging and explain why the input of energy is necessary for peptide bond formation.",
@@ -2907,7 +3083,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen119"
+    "question_id": "cbse_xii_lebo1dd_c105_gen119",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Evaluate the structural and functional significance of the ribosome in protein synthesis.",
@@ -2921,7 +3098,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen120"
+    "question_id": "cbse_xii_lebo1dd_c105_gen120",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "True or False: The process of translation converts the nucleotide sequence of mRNA into an amino acid sequence.",
@@ -2935,7 +3113,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen121"
+    "question_id": "cbse_xii_lebo1dd_c105_gen121",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "True or False: tRNA charging with amino acids does not require energy input from ATP.",
@@ -2949,7 +3128,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen122"
+    "question_id": "cbse_xii_lebo1dd_c105_gen122",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "True or False: The ribosome passes along the mRNA from the 5' to 3' end during translation.",
@@ -2963,7 +3143,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen123"
+    "question_id": "cbse_xii_lebo1dd_c105_gen123",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "True or False: During translation, the stop codon is recognized by tRNA molecules that add a terminal amino acid to the polypeptide.",
@@ -2977,7 +3158,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen124"
+    "question_id": "cbse_xii_lebo1dd_c105_gen124",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "True or False: Untranslated regions (UTRs) within an mRNA are translated into peptides.",
@@ -2991,7 +3173,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen125"
+    "question_id": "cbse_xii_lebo1dd_c105_gen125",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "If the activation of one amino acid for tRNA charging requires the hydrolysis of 1 molecule of ATP, how many molecules of ATP are needed to charge 10 amino acids?",
@@ -3005,7 +3188,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen126"
+    "question_id": "cbse_xii_lebo1dd_c105_gen126",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "Assuming the ribosome adds one amino acid per codon, how many amino acids will be present in a polypeptide if an mRNA contains 150 codons between the start and stop codons?",
@@ -3019,7 +3203,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen127"
+    "question_id": "cbse_xii_lebo1dd_c105_gen127",
+    "section_name": "5.7 TRANSLATION"
   },
   {
     "question_text": "True or False: The ribosome is composed solely of rRNA.",
@@ -3033,6 +3218,7 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xii_lebo1dd_c105_gen128"
+    "question_id": "cbse_xii_lebo1dd_c105_gen128",
+    "section_name": "5.7 TRANSLATION"
   }
 ]

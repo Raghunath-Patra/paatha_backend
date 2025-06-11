@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen043"
+    "question_id": "cbse_xii_lemh2dd_c201_gen043",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "For the integral ∫ dx/√(a² - x²), which result is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen044"
+    "question_id": "cbse_xii_lemh2dd_c201_gen044",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Which substitution is typically used to derive the antiderivative of ∫ dx/(x² + a²)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen045"
+    "question_id": "cbse_xii_lemh2dd_c201_gen045",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Define the method of completing the square and explain how it is used in integrating rational functions.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen046"
+    "question_id": "cbse_xii_lemh2dd_c201_gen046",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "State the standard integral formula for ∫ dx/(x² - a²).",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen047"
+    "question_id": "cbse_xii_lemh2dd_c201_gen047",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Explain why the substitution x = a secθ is used in the integration of ∫ dx/√(x² - a²).",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen048"
+    "question_id": "cbse_xii_lemh2dd_c201_gen048",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Show that differentiating (1/(2a)) log|((a + x)/(a - x))| yields 1/(a² - x²). Provide your steps.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen049"
+    "question_id": "cbse_xii_lemh2dd_c201_gen049",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Derive the formula for ∫ dx/(x² + a²) using the substitution x = a tanθ and show all steps.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen050"
+    "question_id": "cbse_xii_lemh2dd_c201_gen050",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Prove that ∫ dx/√(x² + a²) = log|x + √(x² + a²)| + C using a trigonometric substitution. Present a full derivation.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen051"
+    "question_id": "cbse_xii_lemh2dd_c201_gen051",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Evaluate the integral ∫ dx/(x² - 16) and provide a step-by-step solution.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen052"
+    "question_id": "cbse_xii_lemh2dd_c201_gen052",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Evaluate the integral ∫ dx/√(2x - x²) using a suitable substitution. Provide detailed steps.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen053"
+    "question_id": "cbse_xii_lemh2dd_c201_gen053",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Evaluate the integral ∫ dx/(x² - 6x + 13) by completing the square and using the appropriate inverse trigonometric integration formula.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen054"
+    "question_id": "cbse_xii_lemh2dd_c201_gen054",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   },
   {
     "question_text": "Evaluate the integral ∫ (x + 2)/(2x² + 6x + 5) dx and show your work step-by-step.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "08_section_7_4",
-    "question_id": "cbse_xii_lemh2dd_c201_gen055"
+    "question_id": "cbse_xii_lemh2dd_c201_gen055",
+    "section_name": "7.4 Integrals of Some Particular Functions"
   }
 ]

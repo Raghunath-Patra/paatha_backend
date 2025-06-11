@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen092"
+    "question_id": "cbse_xii_leph1dd_c106_gen092",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "When the rod PQ in the rectangular loop moves towards the left, how does the magnetic flux through the loop change?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen093"
+    "question_id": "cbse_xii_leph1dd_c106_gen093",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A charge q moving with speed v in a magnetic field B experiences a force due to the Lorentz interaction. Which expression correctly represents the magnitude of this force?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen094"
+    "question_id": "cbse_xii_leph1dd_c106_gen094",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Which explanation best describes the origin of induced emf in a stationary conductor when the magnetic field is changing?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen095"
+    "question_id": "cbse_xii_leph1dd_c106_gen095",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "In Example 6.7 a wheel with metallic spokes is used. Why is the number of spokes immaterial in determining the induced emf across the wheel?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen096"
+    "question_id": "cbse_xii_leph1dd_c106_gen096",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Define motional emf in the context of electromagnetic induction.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen097"
+    "question_id": "cbse_xii_leph1dd_c106_gen097",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "What role does the changing area of a loop play in electromagnetic induction?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen098"
+    "question_id": "cbse_xii_leph1dd_c106_gen098",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "State Faraday’s law as it applies to a conductor moving in a constant magnetic field.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen099"
+    "question_id": "cbse_xii_leph1dd_c106_gen099",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Explain qualitatively how the Lorentz force leads to charge separation in a moving conductor.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen100"
+    "question_id": "cbse_xii_leph1dd_c106_gen100",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Derive the expression for the motional emf induced in a conductor moving with constant velocity v in a uniform magnetic field B.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen101"
+    "question_id": "cbse_xii_leph1dd_c106_gen101",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Discuss the differences between the emf induced in a moving conductor and that in a stationary conductor with a changing magnetic field. In your answer, include the roles of the Lorentz force and the induced electric field.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen102"
+    "question_id": "cbse_xii_leph1dd_c106_gen102",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "Propose an experimental setup to measure the induced emf in a rotating metallic rod circuit. Describe how you would vary the parameters and the expected outcomes.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen103"
+    "question_id": "cbse_xii_leph1dd_c106_gen103",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "True or False: In a stationary conductor, any induced current is solely due to the presence of an electric field generated by a time-varying magnetic field.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen104"
+    "question_id": "cbse_xii_leph1dd_c106_gen104",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "True or False: When a conductor moves in a uniform and constant magnetic field, there is no induced emf because the magnetic field does not change with time.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen105"
+    "question_id": "cbse_xii_leph1dd_c106_gen105",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A 0.8 m long rod moves to the left with a speed of 3 m/s in a uniform magnetic field of 0.5 T. Calculate the induced emf across the rod.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen106"
+    "question_id": "cbse_xii_leph1dd_c106_gen106",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A rectangular loop has a fixed width of 0.4 m and a variable length x. If a rod moves such that x decreases at a rate of 2 m/s in a uniform magnetic field of 0.2 T, calculate the magnitude of the induced emf.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen107"
+    "question_id": "cbse_xii_leph1dd_c106_gen107",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "In Example 6.6, a rod of length 1 m rotates with a frequency of 50 rev/s in a uniform magnetic field of 1 T. Derive the expression for the induced emf between the center and the rim of the circular ring.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen108"
+    "question_id": "cbse_xii_leph1dd_c106_gen108",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A metallic wheel with a radius of 0.75 m rotates at 90 rev/min in a uniform magnetic field of 0.3 T perpendicular to its plane. Calculate the induced emf between the center and the rim.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen109"
+    "question_id": "cbse_xii_leph1dd_c106_gen109",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   },
   {
     "question_text": "A conducting rod of length 1.2 m moves with a speed of 4 m/s in a magnetic field of 0.1 T. If the rod makes an angle of 30° with the direction perpendicular to the magnetic field, calculate the effective induced emf.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "06_section_6_6",
-    "question_id": "cbse_xii_leph1dd_c106_gen110"
+    "question_id": "cbse_xii_leph1dd_c106_gen110",
+    "section_name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
   }
 ]

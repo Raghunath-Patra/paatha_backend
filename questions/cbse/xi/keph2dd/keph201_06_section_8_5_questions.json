@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen162"
+    "question_id": "cbse_xi_keph2dd_c201_gen162",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "In the formula for shear modulus (G = F/(A × theta)), what is the unit of the angular deformation, theta?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen163"
+    "question_id": "cbse_xi_keph2dd_c201_gen163",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "What is the SI unit for bulk modulus (B)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen164"
+    "question_id": "cbse_xi_keph2dd_c201_gen164",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "For most solids, the shear modulus (G) is approximately what fraction of Young's modulus (Y)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen165"
+    "question_id": "cbse_xi_keph2dd_c201_gen165",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Which of the following materials typically has a very low Young's modulus compared to metals such as steel and copper?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen166"
+    "question_id": "cbse_xi_keph2dd_c201_gen166",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Define elastic potential energy per unit volume stored in a stretched wire.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen167"
+    "question_id": "cbse_xi_keph2dd_c201_gen167",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "What is Poisson's ratio and how is it calculated for a stretched wire?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen168"
+    "question_id": "cbse_xi_keph2dd_c201_gen168",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Explain the concept of bulk modulus in your own words.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen169"
+    "question_id": "cbse_xi_keph2dd_c201_gen169",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "State the SI units of Young's modulus and shear modulus.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen170"
+    "question_id": "cbse_xi_keph2dd_c201_gen170",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Discuss the importance of elastic moduli (Young's modulus, shear modulus, and bulk modulus) in structural design. Provide examples based on different materials.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen171"
+    "question_id": "cbse_xi_keph2dd_c201_gen171",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Describe an experiment to determine Young's modulus of a new metal wire. Outline the necessary apparatus, procedure, and calculations.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen172"
+    "question_id": "cbse_xi_keph2dd_c201_gen172",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Explain how Poisson's ratio relates the lateral contraction to the longitudinal extension of a stretched wire and discuss its significance in the behavior of materials.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen173"
+    "question_id": "cbse_xi_keph2dd_c201_gen173",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Tensile strain in a material is the same regardless of whether the applied stress is tensile or compressive.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen174"
+    "question_id": "cbse_xi_keph2dd_c201_gen174",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Gases have higher bulk moduli than solids because they compress less under pressure.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen175"
+    "question_id": "cbse_xi_keph2dd_c201_gen175",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "A steel rod with a length of 2.0 m and a cross-sectional area of 2.0e-4 m² is subjected to a tensile force of 40,000 N. Calculate the stress, strain, and elongation of the rod. (Young's modulus for steel = 2.0e11 N/m²)",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen176"
+    "question_id": "cbse_xi_keph2dd_c201_gen176",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "An aluminium wire with a cross-sectional area of 0.5 mm² and an original length of 1 m is stretched by 0.1% of its length. Given that the Young's modulus for aluminium is 70e9 N/m², determine the force required to achieve this stretch.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen177"
+    "question_id": "cbse_xi_keph2dd_c201_gen177",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "A square lead slab with sides of 0.5 m and a thickness of 0.1 m is subjected to a shear force of 9.0e4 N along its narrow face. Given that the shear modulus for lead is 5.6e9 N/m², calculate the lateral displacement of the upper edge of the slab.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen178"
+    "question_id": "cbse_xi_keph2dd_c201_gen178",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "A wire of volume 1.0e-5 m³ is stretched such that its elastic potential energy per unit volume is 250 J/m³ and the stress in the wire is 5000 N/m². Determine the strain in the wire.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen179"
+    "question_id": "cbse_xi_keph2dd_c201_gen179",
+    "section_name": "8.5 ELASTIC MODULI"
   },
   {
     "question_text": "Calculate the fractional volume compression of water at the bottom of a 4000 m deep ocean. Assume the density of water is 1000 kg/m³, g = 10 m/s², and the bulk modulus of water is 2.2e9 N/m².",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "06_section_8_5",
-    "question_id": "cbse_xi_keph2dd_c201_gen180"
+    "question_id": "cbse_xi_keph2dd_c201_gen180",
+    "section_name": "8.5 ELASTIC MODULI"
   }
 ]

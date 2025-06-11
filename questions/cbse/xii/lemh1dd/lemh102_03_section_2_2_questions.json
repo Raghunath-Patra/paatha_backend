@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen014"
+    "question_id": "cbse_xii_lemh1dd_c102_gen014",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "The domain of the tangent function tan(x) excludes which of the following values?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen015"
+    "question_id": "cbse_xii_lemh1dd_c102_gen015",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Which of the following statements is true regarding the inverse sine function sin⁻¹?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen016"
+    "question_id": "cbse_xii_lemh1dd_c102_gen016",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "For an invertible function f: X → Y, which of the following is always true?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen017"
+    "question_id": "cbse_xii_lemh1dd_c102_gen017",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Define what is meant by the inverse of a function. Include the conditions required for an inverse function to exist.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen018"
+    "question_id": "cbse_xii_lemh1dd_c102_gen018",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Explain the concept of 'principal value branch' in the context of inverse trigonometric functions.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen019"
+    "question_id": "cbse_xii_lemh1dd_c102_gen019",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Why is it necessary to restrict the domain of the cosine function to [0, π] to define its inverse?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen020"
+    "question_id": "cbse_xii_lemh1dd_c102_gen020",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "List the domains and ranges of the inverse secant function sec⁻¹ when using its principal value branch.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen021"
+    "question_id": "cbse_xii_lemh1dd_c102_gen021",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Prove that the graph of an inverse function is the reflection of the graph of the original function about the line y = x.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen022"
+    "question_id": "cbse_xii_lemh1dd_c102_gen022",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Derive the relation sin(sin⁻¹(x)) = x for x ∈ [-1, 1] and discuss under what conditions sin⁻¹(sin(x)) = x holds true.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen023"
+    "question_id": "cbse_xii_lemh1dd_c102_gen023",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Discuss how restricting the domain of trigonometric functions (like sine, cosine, and tangent) facilitates the definition of their unique inverse functions. Support your answer with examples.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen024"
+    "question_id": "cbse_xii_lemh1dd_c102_gen024",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Find the principal value of sin⁻¹(1/√2) and show all the steps involved.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen025"
+    "question_id": "cbse_xii_lemh1dd_c102_gen025",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Evaluate cos⁻¹(1/2) and provide a step-by-step solution.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen026"
+    "question_id": "cbse_xii_lemh1dd_c102_gen026",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Find the principal value of tan⁻¹(√3) using the properties of the tangent function. Explain your steps.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen027"
+    "question_id": "cbse_xii_lemh1dd_c102_gen027",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Determine the principal value of cot⁻¹(-1/√3) and explain the reasoning behind the solution.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen028"
+    "question_id": "cbse_xii_lemh1dd_c102_gen028",
+    "section_name": "2.2 Basic Concepts"
   }
 ]

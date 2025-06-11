@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen029"
+    "question_id": "cbse_xii_lemh1dd_c103_gen029",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "If A is a 3×2 matrix, what is the dimension of its transpose A'?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen030"
+    "question_id": "cbse_xii_lemh1dd_c103_gen030",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Which of the following is a valid property of the transpose operation on matrices?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen031"
+    "question_id": "cbse_xii_lemh1dd_c103_gen031",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Consider matrices A (of size 2×3) and B (of size 3×4). If (AB)' = B'A', what is the dimension of (AB)'?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen032"
+    "question_id": "cbse_xii_lemh1dd_c103_gen032",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Define the transpose of a matrix.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen033"
+    "question_id": "cbse_xii_lemh1dd_c103_gen033",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "State and explain with an example the property (kA)' = kA', where k is any constant.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen034"
+    "question_id": "cbse_xii_lemh1dd_c103_gen034",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Explain why for any matrix A, the property (A')' = A holds.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen035"
+    "question_id": "cbse_xii_lemh1dd_c103_gen035",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Prove that for any two matrices A and B of the same order, (A + B)' = A' + B'.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen036"
+    "question_id": "cbse_xii_lemh1dd_c103_gen036",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Let A be a 3×2 matrix and B be a 2×3 matrix. Prove that (AB)' = B'A' by providing a step-by-step explanation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen037"
+    "question_id": "cbse_xii_lemh1dd_c103_gen037",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Find the transpose of the matrix A = [ [1, 2], [3, 4], [5, 6] ].",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen038"
+    "question_id": "cbse_xii_lemh1dd_c103_gen038",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Given matrices A = [ [2, -3, 4], [0, 5, 1] ] and B = [ [1, 2, 3], [4, 5, 6] ], compute (A + B)' and A' + B'. Verify that they are equal.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen039"
+    "question_id": "cbse_xii_lemh1dd_c103_gen039",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Let matrix B = [ [2, -1, 2], [1, 2, 4] ]. For k = -3, compute (kB)' and kB'. Verify that (kB)' = kB'.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen040"
+    "question_id": "cbse_xii_lemh1dd_c103_gen040",
+    "section_name": "3.5 Transpose of a Matrix"
   }
 ]

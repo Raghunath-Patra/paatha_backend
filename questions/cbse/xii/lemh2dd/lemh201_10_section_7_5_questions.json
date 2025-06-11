@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen056"
+    "question_id": "cbse_xii_lemh2dd_c201_gen056",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Determine the correct partial fraction decomposition for the rational function (x² + 1)/(x² - 5x + 6).",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen057"
+    "question_id": "cbse_xii_lemh2dd_c201_gen057",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "In the context of identities in partial fractions, what does the symbol '≡' signify?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen058"
+    "question_id": "cbse_xii_lemh2dd_c201_gen058",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Define a proper rational function and an improper rational function.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen059"
+    "question_id": "cbse_xii_lemh2dd_c201_gen059",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "State the standard forms of partial fraction decomposition for rational functions with denominators factorable into (i) distinct linear factors, (ii) repeated linear factors, and (iii) an irreducible quadratic factor.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen060"
+    "question_id": "cbse_xii_lemh2dd_c201_gen060",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Solve for A and B in the partial fraction decomposition: 1/[(x + 1)(x + 2)] = A/(x + 1) + B/(x + 2).",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen061"
+    "question_id": "cbse_xii_lemh2dd_c201_gen061",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Derive the integration of ∫ dx/[(x + 1)(x + 2)] using partial fractions and show how it leads to a logarithmic function.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen062"
+    "question_id": "cbse_xii_lemh2dd_c201_gen062",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Using the substitution y = sin φ, solve the integral ∫ [(3 sin φ - 2) cos φ] / [5 - cos² φ - 4 sin φ] dφ with partial fractions.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen063"
+    "question_id": "cbse_xii_lemh2dd_c201_gen063",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Evaluate the integral ∫ [x²/( (x² + 1)(x² + 4) )] dx.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen064"
+    "question_id": "cbse_xii_lemh2dd_c201_gen064",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Evaluate the integral ∫ [(x² + x + 1)/((x² + 1)(x + 2))] dx by decomposing it into partial fractions.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen065"
+    "question_id": "cbse_xii_lemh2dd_c201_gen065",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Determine the integral ∫ [(5x - 2)/((x + 1)²(x + 3))] dx using partial fractions.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen066"
+    "question_id": "cbse_xii_lemh2dd_c201_gen066",
+    "section_name": "7.5 Integration by Partial Fractions"
   },
   {
     "question_text": "Evaluate the integral ∫ [(x² + 1)/(x² - 5x + 6)] dx by first expressing it as a sum of a polynomial and a proper rational function.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "10_section_7_5",
-    "question_id": "cbse_xii_lemh2dd_c201_gen067"
+    "question_id": "cbse_xii_lemh2dd_c201_gen067",
+    "section_name": "7.5 Integration by Partial Fractions"
   }
 ]

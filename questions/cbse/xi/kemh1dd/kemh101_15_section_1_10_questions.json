@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen127"
+    "question_id": "cbse_xi_kemh1dd_c101_gen127",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Let U be the universal set of all prime numbers and A be the set of those primes which are not divisors of 42. Which of the following is the complement A'?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen128"
+    "question_id": "cbse_xi_kemh1dd_c101_gen128",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "De Morgan's law states which of the following equivalences?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen129"
+    "question_id": "cbse_xi_kemh1dd_c101_gen129",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Which of the following is always true for any subset A of U?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen130"
+    "question_id": "cbse_xi_kemh1dd_c101_gen130",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Define the complement of a set in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen131"
+    "question_id": "cbse_xi_kemh1dd_c101_gen131",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Explain De Morgan's law in set theory in your own words.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen132"
+    "question_id": "cbse_xi_kemh1dd_c101_gen132",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "State and explain the law of double complementation.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen133"
+    "question_id": "cbse_xi_kemh1dd_c101_gen133",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Describe the relationship between a universal set and its empty set in terms of complementation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen134"
+    "question_id": "cbse_xi_kemh1dd_c101_gen134",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Prove that for any two subsets A and B of a universal set U, (A ∪ B)' = A' ∩ B'.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen135"
+    "question_id": "cbse_xi_kemh1dd_c101_gen135",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Prove that for any two subsets A and B of a universal set U, (A ∩ B)' = A' ∪ B'.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen136"
+    "question_id": "cbse_xi_kemh1dd_c101_gen136",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Let U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and A = {1, 3, 5, 7, 9}. Find the complement A'.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen137"
+    "question_id": "cbse_xi_kemh1dd_c101_gen137",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Given U = {2, 3, 5, 7, 11, 13} and A = {3, 7, 11}, determine A' and verify the law A ∪ A' = U.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen138"
+    "question_id": "cbse_xi_kemh1dd_c101_gen138",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "Let U = {1, 2, 3, 4, 5, 6} with A = {2, 3} and B = {3, 4, 5}. Compute A', B', the intersection A' ∩ B', the union A ∪ B, and then verify that (A ∪ B)' = A' ∩ B'.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen139"
+    "question_id": "cbse_xi_kemh1dd_c101_gen139",
+    "section_name": "1.10 Complement of a Set"
   },
   {
     "question_text": "In a class, the universal set U represents all students. If A represents the set of all girls in the class, describe set A' and explain its significance.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "15_section_1_10",
-    "question_id": "cbse_xi_kemh1dd_c101_gen140"
+    "question_id": "cbse_xi_kemh1dd_c101_gen140",
+    "section_name": "1.10 Complement of a Set"
   }
 ]

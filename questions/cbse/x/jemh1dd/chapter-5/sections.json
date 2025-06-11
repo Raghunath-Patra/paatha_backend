@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "5.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "5.2 Arithmetic Progressions"
+    },
+    {
+      "number": 3,
+      "name": "5.3 nth Term of an AP"
+    },
+    {
+      "number": 4,
+      "name": "5.4 Sum of First n Terms of an AP"
+    },
+    {
+      "number": 5,
+      "name": "5.5 Summary"
+    }
+  ]
+}

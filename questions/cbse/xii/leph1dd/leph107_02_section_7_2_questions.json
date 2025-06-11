@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen019"
+    "question_id": "cbse_xii_leph1dd_c107_gen019",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "In a circuit with an AC source and a resistor, which equation represents Ohm's law for AC circuits using rms values?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen020"
+    "question_id": "cbse_xii_leph1dd_c107_gen020",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "In a pure resistor connected to an AC source, the voltage and current are:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen021"
+    "question_id": "cbse_xii_leph1dd_c107_gen021",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Kirchhoff's loop rule applied to an AC circuit containing only a resistor and an AC source yields which of the following equations?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen022"
+    "question_id": "cbse_xii_leph1dd_c107_gen022",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "What is the definition of effective or rms current in an AC circuit?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen023"
+    "question_id": "cbse_xii_leph1dd_c107_gen023",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Define rms voltage and explain its significance in comparing AC and DC circuits.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen024"
+    "question_id": "cbse_xii_leph1dd_c107_gen024",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Explain why the average instantaneous current over one full cycle in an AC circuit is zero, yet there is still power dissipation in a resistor.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen025"
+    "question_id": "cbse_xii_leph1dd_c107_gen025",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "State the expression for the instantaneous power dissipated in a resistor when an AC current flows through it.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen026"
+    "question_id": "cbse_xii_leph1dd_c107_gen026",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Derive the expression for the average power dissipated in an AC circuit with a resistor, starting from the instantaneous power expression.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen027"
+    "question_id": "cbse_xii_leph1dd_c107_gen027",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Discuss the importance of using rms values in AC circuits. Explain how rms values help in comparing AC circuits to DC circuits with reference to power calculations.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen028"
+    "question_id": "cbse_xii_leph1dd_c107_gen028",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Explain how Kirchhoff's loop rule is applied to derive the expression for current in a resistor connected to an AC voltage source.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen029"
+    "question_id": "cbse_xii_leph1dd_c107_gen029",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "True or False: In an AC circuit with only a resistor, the voltage and current are out of phase due to reactive effects.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen030"
+    "question_id": "cbse_xii_leph1dd_c107_gen030",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "True or False: The average value of the instantaneous current in a full cycle of an AC sinusoidal current is zero.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen031"
+    "question_id": "cbse_xii_leph1dd_c107_gen031",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "A resistor is connected to an AC source with a peak voltage of 400 V and has a resistance of 200 ohms. Calculate the peak current and the rms current in the circuit.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen032"
+    "question_id": "cbse_xii_leph1dd_c107_gen032",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "A light bulb rated at 60 W is connected to a household AC supply of 120 V (rms). Calculate the resistance of the bulb, the peak voltage of the source, and the rms current flowing through the bulb.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen033"
+    "question_id": "cbse_xii_leph1dd_c107_gen033",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "In an AC circuit, if the peak current through a resistor of 10 ohms is 5 A, compute the average power dissipated in the resistor.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen034"
+    "question_id": "cbse_xii_leph1dd_c107_gen034",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Given an AC circuit with a resistor, if the current amplitude is 8 A and the resistance is 50 ohms, compute the average power dissipated in the resistor.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen035"
+    "question_id": "cbse_xii_leph1dd_c107_gen035",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "An AC source produces a sinusoidal voltage with a peak amplitude of 311 V. If the measured rms current in the circuit is 0.5 A, determine the resistance of the circuit and verify its consistency with Ohm's law.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen036"
+    "question_id": "cbse_xii_leph1dd_c107_gen036",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   }
 ]

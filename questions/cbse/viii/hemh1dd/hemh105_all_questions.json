@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen030"
+    "question_id": "cbse_viii_hemh1dd_c105_gen030",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Between n² and (n + 1)², the total number of natural numbers (excluding the squares) is given by which formula?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen031"
+    "question_id": "cbse_viii_hemh1dd_c105_gen031",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "What is the sum of the first 4 odd natural numbers?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen032"
+    "question_id": "cbse_viii_hemh1dd_c105_gen032",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Which identity correctly represents the product of two consecutive odd numbers, for example, 11 × 13?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen033"
+    "question_id": "cbse_viii_hemh1dd_c105_gen033",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Define triangular numbers and briefly explain how combining two consecutive triangular numbers forms a square number.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen034"
+    "question_id": "cbse_viii_hemh1dd_c105_gen034",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Explain why there are 2n non-square numbers between n² and (n+1)².",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen035"
+    "question_id": "cbse_viii_hemh1dd_c105_gen035",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Why does the property hold that a natural number expressed as the sum of successive odd natural numbers starting from 1 is always a perfect square? Support your answer with reasoning.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen036"
+    "question_id": "cbse_viii_hemh1dd_c105_gen036",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Describe the observed pattern when squaring numbers composed entirely of the digit 1 (like 1, 11, 111, etc.).",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen037"
+    "question_id": "cbse_viii_hemh1dd_c105_gen037",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Prove by mathematical induction that the sum of the first n odd natural numbers is n².",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen038"
+    "question_id": "cbse_viii_hemh1dd_c105_gen038",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Derive the formula for the number of non-square numbers between n² and (n+1)² and discuss its significance.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen039"
+    "question_id": "cbse_viii_hemh1dd_c105_gen039",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Prove that the square of any odd number can be expressed as the sum of two consecutive integers, specifically as ((n²-1)/2) and ((n²+1)/2).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen040"
+    "question_id": "cbse_viii_hemh1dd_c105_gen040",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Determine the number of natural numbers lying strictly between 9² and 10², and between 11² and 12².",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen041"
+    "question_id": "cbse_viii_hemh1dd_c105_gen041",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Calculate the number of non-square numbers between 100² and 101².",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen042"
+    "question_id": "cbse_viii_hemh1dd_c105_gen042",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Find the sum of the first 7 odd natural numbers and verify that it equals 7².",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen043"
+    "question_id": "cbse_viii_hemh1dd_c105_gen043",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "Express 19² as the sum of two consecutive integers.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_viii_hemh1dd_c105_gen044"
+    "question_id": "cbse_viii_hemh1dd_c105_gen044",
+    "section_name": "5.3 Some More Interesting Patterns"
   },
   {
     "question_text": "What is the side length of a square whose area is 144 cm²?",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen059"
+    "question_id": "cbse_viii_hemh1dd_c105_gen059",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "A square has a side length of 8 cm. What is the length of its diagonal?",
@@ -265,7 +281,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen060"
+    "question_id": "cbse_viii_hemh1dd_c105_gen060",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "What is the positive square root of 49?",
@@ -284,7 +301,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen061"
+    "question_id": "cbse_viii_hemh1dd_c105_gen061",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Define the term ‘square root’ and give an example.",
@@ -298,7 +316,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen062"
+    "question_id": "cbse_viii_hemh1dd_c105_gen062",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Explain why in this chapter we consider only the positive square root when denoted by the symbol √.",
@@ -312,7 +331,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen063"
+    "question_id": "cbse_viii_hemh1dd_c105_gen063",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Describe the method of finding a square root by repeated subtraction of odd numbers.",
@@ -326,7 +346,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen064"
+    "question_id": "cbse_viii_hemh1dd_c105_gen064",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Prove that the sum of the first n odd natural numbers is equal to n².",
@@ -340,7 +361,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen065"
+    "question_id": "cbse_viii_hemh1dd_c105_gen065",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Using the prime factorisation method, determine whether 2352 is a perfect square. If it is not, find the smallest multiple of 2352 that is a perfect square and compute its square root.",
@@ -354,7 +376,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen066"
+    "question_id": "cbse_viii_hemh1dd_c105_gen066",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Find the square root of 324 using prime factorisation.",
@@ -368,7 +391,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen067"
+    "question_id": "cbse_viii_hemh1dd_c105_gen067",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Determine by repeated subtraction if 121 is a perfect square. If so, find its square root.",
@@ -382,7 +406,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen068"
+    "question_id": "cbse_viii_hemh1dd_c105_gen068",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "A right triangle has a hypotenuse of 5 cm and one of the sides is 3 cm long. Find the length of the third side.",
@@ -396,7 +421,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen069"
+    "question_id": "cbse_viii_hemh1dd_c105_gen069",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Find the square root of 6400 using the prime factorisation method.",
@@ -410,7 +436,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen070"
+    "question_id": "cbse_viii_hemh1dd_c105_gen070",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "The numbers 6, 9, and 15 are given. Find the smallest square number that is divisible by all three numbers.",
@@ -424,7 +451,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen071"
+    "question_id": "cbse_viii_hemh1dd_c105_gen071",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Briefly describe the procedure for finding the smallest number by which a given number must be divided to yield a perfect square. Use the example of 9408 in your explanation.",
@@ -438,7 +466,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen072"
+    "question_id": "cbse_viii_hemh1dd_c105_gen072",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Find the square root of each of the following numbers by Division method: 2304, 4489, 3481, 529, 3249, 1369, 5776, 7921, 576, 1024, 3136, 900.",
@@ -834,7 +863,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen073"
+    "question_id": "cbse_viii_hemh1dd_c105_gen073",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "When grouping the digits of the decimal part in the square root extraction process, which of the following is the correct procedure?",
@@ -853,7 +883,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen074"
+    "question_id": "cbse_viii_hemh1dd_c105_gen074",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "In the long division method for extracting square roots, why do we double the quotient obtained so far before determining the next digit?",
@@ -872,7 +903,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen075"
+    "question_id": "cbse_viii_hemh1dd_c105_gen075",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Define the bar method used for extracting square roots from a given number.",
@@ -886,7 +918,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen076"
+    "question_id": "cbse_viii_hemh1dd_c105_gen076",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Explain the difference in grouping the integral part and the decimal part of a number when using the square root extraction method.",
@@ -900,7 +933,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen077"
+    "question_id": "cbse_viii_hemh1dd_c105_gen077",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Why might you need to append a zero to the decimal part during the square root extraction process?",
@@ -914,7 +948,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen078"
+    "question_id": "cbse_viii_hemh1dd_c105_gen078",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Using the long division method, provide a detailed step-by-step solution to extract the square root of 17.64.",
@@ -928,7 +963,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen079"
+    "question_id": "cbse_viii_hemh1dd_c105_gen079",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "The area of a square plot is given as 2304 m². Prove that the side length of the square is the square root of 2304. Then, using the bar method, show all the steps to extract the square root.",
@@ -942,7 +978,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen080"
+    "question_id": "cbse_viii_hemh1dd_c105_gen080",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Using the bar method, find the square root of 12.25 and show each computation step.",
@@ -956,7 +993,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen081"
+    "question_id": "cbse_viii_hemh1dd_c105_gen081",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "There are 2401 students in a school who are arranged in rows and columns such that the number of rows equals the number of columns. Using the long division method, determine the number of rows.",
@@ -970,7 +1008,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen082"
+    "question_id": "cbse_viii_hemh1dd_c105_gen082",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Using the long division (bar) method, calculate the square root of 289.00. Provide detailed working for each step.",
@@ -984,7 +1023,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen083"
+    "question_id": "cbse_viii_hemh1dd_c105_gen083",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Apply the long division method to find the square root of 324.00. Show all your work and explain the reasoning in each step.",
@@ -998,7 +1038,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen084"
+    "question_id": "cbse_viii_hemh1dd_c105_gen084",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Which of the following expressions correctly represents the square of the sum (a + b)?",
@@ -1017,7 +1058,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen045"
+    "question_id": "cbse_viii_hemh1dd_c105_gen045",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Express 23² using the idea of writing 23 as (20 + 3) and choose the correct expansion:",
@@ -1036,7 +1078,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen046"
+    "question_id": "cbse_viii_hemh1dd_c105_gen046",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "For m = 4, using the formula 2m, m² – 1, m² + 1, what is the resulting Pythagorean triplet?",
@@ -1055,7 +1098,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen047"
+    "question_id": "cbse_viii_hemh1dd_c105_gen047",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Which of the following Pythagorean triplets is NOT generated by the formula 2m, m² – 1, m² + 1 (for some natural number m > 1)?",
@@ -1074,7 +1118,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen048"
+    "question_id": "cbse_viii_hemh1dd_c105_gen048",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Define a Pythagorean triplet and provide one example using small positive integers.",
@@ -1088,7 +1133,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen049"
+    "question_id": "cbse_viii_hemh1dd_c105_gen049",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Using the method shown in the textbook, calculate 42² by expressing 42 as (40 + 2). Show all the steps.",
@@ -1102,7 +1148,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen050"
+    "question_id": "cbse_viii_hemh1dd_c105_gen050",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Explain the pattern for squaring numbers that end with the digit 5 and illustrate your explanation with an example.",
@@ -1116,7 +1163,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen051"
+    "question_id": "cbse_viii_hemh1dd_c105_gen051",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Prove algebraically that for any natural number a, the square of any number ending in 5, given by (10a + 5)², equals 100a(a + 1) + 25.",
@@ -1130,7 +1178,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen052"
+    "question_id": "cbse_viii_hemh1dd_c105_gen052",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Derive and verify the formula for generating a Pythagorean triplet using any natural number m > 1 given by the set {2m, m² – 1, m² + 1}. Prove that these three numbers form a Pythagorean triplet.",
@@ -1144,7 +1193,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen053"
+    "question_id": "cbse_viii_hemh1dd_c105_gen053",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Calculate 39² using the expansion method by expressing 39 as (30 + 9). Show every step of your calculation.",
@@ -1158,7 +1208,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen054"
+    "question_id": "cbse_viii_hemh1dd_c105_gen054",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Find 95² using the shortcut formula for numbers ending in 5 and show the steps involved.",
@@ -1172,7 +1223,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen055"
+    "question_id": "cbse_viii_hemh1dd_c105_gen055",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Compute the squares of the following numbers by using the formulas taught: 15, 95, 105, and 205. Show all your work.",
@@ -1186,7 +1238,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen056"
+    "question_id": "cbse_viii_hemh1dd_c105_gen056",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Using the formula 2m, m² – 1, m² + 1, find a Pythagorean triplet that includes 12 as one of its members. Show all steps in your working.",
@@ -1200,7 +1253,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen057"
+    "question_id": "cbse_viii_hemh1dd_c105_gen057",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Describe the steps used to square a two-digit number (that does not necessarily end in 5) using the expansion method. Illustrate your explanation with a numerical example.",
@@ -1214,7 +1268,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_viii_hemh1dd_c105_gen058"
+    "question_id": "cbse_viii_hemh1dd_c105_gen058",
+    "section_name": "5.4 Finding the Square of a Number"
   },
   {
     "question_text": "Which of the following numbers is a perfect square?",
@@ -1233,7 +1288,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen001"
+    "question_id": "cbse_viii_hemh1dd_c105_gen001",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "What is the area of a square with side length n, where n is a natural number?",
@@ -1252,7 +1308,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen002"
+    "question_id": "cbse_viii_hemh1dd_c105_gen002",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Identify the perfect square among the following numbers: 30, 40, 50, 64.",
@@ -1271,7 +1328,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen003"
+    "question_id": "cbse_viii_hemh1dd_c105_gen003",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Given that 32 lies between 25 and 36, which statement best explains why 32 is not a perfect square?",
@@ -1290,7 +1348,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen004"
+    "question_id": "cbse_viii_hemh1dd_c105_gen004",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Define a square number.",
@@ -1304,7 +1363,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen005"
+    "question_id": "cbse_viii_hemh1dd_c105_gen005",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Explain why 32 is not classified as a square number.",
@@ -1318,7 +1378,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen006"
+    "question_id": "cbse_viii_hemh1dd_c105_gen006",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "List all the perfect square numbers between 1 and 100.",
@@ -1332,7 +1393,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen007"
+    "question_id": "cbse_viii_hemh1dd_c105_gen007",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Discuss why a number m is considered 'perfect' when m = n² for some natural number n. Include the properties that make these numbers unique.",
@@ -1346,7 +1408,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen008"
+    "question_id": "cbse_viii_hemh1dd_c105_gen008",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Prove that if n is a natural number, then (n + 1)² − n² = 2n + 1. Explain why this shows that the difference between consecutive square numbers is always odd.",
@@ -1360,7 +1423,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen009"
+    "question_id": "cbse_viii_hemh1dd_c105_gen009",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Derive a general formula for the difference between the (n+1)th perfect square and the nth perfect square. Discuss its implication regarding the distribution of square numbers among natural numbers.",
@@ -1374,7 +1438,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen010"
+    "question_id": "cbse_viii_hemh1dd_c105_gen010",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Calculate the area of a square with a side length of 7 cm.",
@@ -1388,7 +1453,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen011"
+    "question_id": "cbse_viii_hemh1dd_c105_gen011",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Find all the perfect square numbers between 30 and 40.",
@@ -1402,7 +1468,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen012"
+    "question_id": "cbse_viii_hemh1dd_c105_gen012",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Find the square of 8 and verify that it matches the corresponding entry in the table provided in the section.",
@@ -1416,7 +1483,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen013"
+    "question_id": "cbse_viii_hemh1dd_c105_gen013",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Determine if 121 is a perfect square and show all steps leading to your conclusion.",
@@ -1430,7 +1498,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_viii_hemh1dd_c105_gen014"
+    "question_id": "cbse_viii_hemh1dd_c105_gen014",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "What will be the unit digit of the squares of the following numbers: (i) 81, (ii) 272, (iii) 799, (iv) 3853, (v) 1234, (vi) 26387, (vii) 52698, (viii) 99880, (ix) 12796, (x) 55555?",
@@ -1566,7 +1635,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen015"
+    "question_id": "cbse_viii_hemh1dd_c105_gen015",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "What is the units digit of 73²?",
@@ -1585,7 +1655,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen016"
+    "question_id": "cbse_viii_hemh1dd_c105_gen016",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "If a square number ends in 1, which of the following must be true about the units digit of its root?",
@@ -1604,7 +1675,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen017"
+    "question_id": "cbse_viii_hemh1dd_c105_gen017",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "A number ending with three zeros is squared. According to the pattern discussed, how many zeros will the resulting square have?",
@@ -1623,7 +1695,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen018"
+    "question_id": "cbse_viii_hemh1dd_c105_gen018",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Define a perfect square number and explain why the units digit can help in determining whether a number can be a perfect square.",
@@ -1637,7 +1710,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen019"
+    "question_id": "cbse_viii_hemh1dd_c105_gen019",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "List all possible units digits that can occur in the square of any integer and justify why digits such as 2, 3, 7, or 8 are excluded.",
@@ -1651,7 +1725,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen020"
+    "question_id": "cbse_viii_hemh1dd_c105_gen020",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Explain why we cannot always decide if a number is a perfect square solely by examining its units digit. Provide an illustrative example.",
@@ -1665,7 +1740,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen021"
+    "question_id": "cbse_viii_hemh1dd_c105_gen021",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Discuss the relationship between the number of zeros at the end of a number and the number of zeros at the end of its square. Why are square numbers observed to have an even number of zeros at the end?",
@@ -1679,7 +1755,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen022"
+    "question_id": "cbse_viii_hemh1dd_c105_gen022",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Prove that if a square number ends in 1, then the original number must have a units digit of 1 or 9.",
@@ -1693,7 +1770,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen023"
+    "question_id": "cbse_viii_hemh1dd_c105_gen023",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Develop a general rule for determining the number of zeros at the end of the square of a number, given that the number ends with a certain count of zeros. Support your rule with examples.",
@@ -1707,7 +1785,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen024"
+    "question_id": "cbse_viii_hemh1dd_c105_gen024",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Determine the units digit for the square of each of the following numbers: 1234, 26387, 52698, 99880, 21222, and 9106.",
@@ -1721,7 +1800,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen025"
+    "question_id": "cbse_viii_hemh1dd_c105_gen025",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "For each of the numbers 1057, 23453, 7928, 222222, 1069, and 2061, decide whether it could be a perfect square based solely on its units digit.",
@@ -1735,7 +1815,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen026"
+    "question_id": "cbse_viii_hemh1dd_c105_gen026",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Write five numbers which can be quickly identified as not perfect squares by their units digit, and write five numbers for which the units digit alone is inconclusive in determining if they are perfect squares.",
@@ -1749,7 +1830,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen027"
+    "question_id": "cbse_viii_hemh1dd_c105_gen027",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Calculate the squares of 11, 14, 21, 16, and 19, and verify the pattern in their ending digits. What pattern do you observe?",
@@ -1763,7 +1845,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen028"
+    "question_id": "cbse_viii_hemh1dd_c105_gen028",
+    "section_name": "5.2 Properties of Square Numbers"
   },
   {
     "question_text": "Determine which among 123², 77², 82², 161², and 109² ends with the digit 1, using your knowledge of units digits.",
@@ -1777,6 +1860,7 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_viii_hemh1dd_c105_gen029"
+    "question_id": "cbse_viii_hemh1dd_c105_gen029",
+    "section_name": "5.2 Properties of Square Numbers"
   }
 ]

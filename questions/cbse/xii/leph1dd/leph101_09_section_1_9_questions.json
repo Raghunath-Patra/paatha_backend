@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen150"
+    "question_id": "cbse_xii_leph1dd_c101_gen150",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "For a closed surface, by convention, in which direction is the area vector taken?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen151"
+    "question_id": "cbse_xii_leph1dd_c101_gen151",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "If a flat surface is tilted by an angle θ relative to a uniform electric field, what is the effect on the electric flux through that surface?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen152"
+    "question_id": "cbse_xii_leph1dd_c101_gen152",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "Which statement about electric flux through a curved surface is correct?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen153"
+    "question_id": "cbse_xii_leph1dd_c101_gen153",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "Why is it not physically meaningful to say that the number of field lines equals E times dS?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen154"
+    "question_id": "cbse_xii_leph1dd_c101_gen154",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "Define electric flux in your own words.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen155"
+    "question_id": "cbse_xii_leph1dd_c101_gen155",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "Explain why the orientation of the area vector is critical when calculating electric flux.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen156"
+    "question_id": "cbse_xii_leph1dd_c101_gen156",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "How does the concept of electric flux assist in understanding Gauss's Law?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen157"
+    "question_id": "cbse_xii_leph1dd_c101_gen157",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "Describe the procedure for calculating the total electric flux through an irregular curved surface.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen158"
+    "question_id": "cbse_xii_leph1dd_c101_gen158",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "Discuss the significance of the cosine theta factor in the definition of electric flux.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen159"
+    "question_id": "cbse_xii_leph1dd_c101_gen159",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "Explain how the concept of electric flux through a surface is analogous to the flow of liquid across an area and highlight the key differences.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen160"
+    "question_id": "cbse_xii_leph1dd_c101_gen160",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "Design an experiment or thought experiment to illustrate how the electric flux through a surface depends on its orientation relative to a uniform electric field.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen161"
+    "question_id": "cbse_xii_leph1dd_c101_gen161",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "True or False: The unit of electric flux is Newton meter squared per Coulomb (N m²/C).",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen162"
+    "question_id": "cbse_xii_leph1dd_c101_gen162",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "True or False: Tilting an area element by 90° relative to a uniform electric field results in maximum electric flux through the element.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen163"
+    "question_id": "cbse_xii_leph1dd_c101_gen163",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "True or False: When calculating the flux through a closed surface, the outward normal is conventionally used for all area elements.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen164"
+    "question_id": "cbse_xii_leph1dd_c101_gen164",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "A flat surface with area 0.2 m² is placed perpendicular to a uniform electric field of 150 N/C. Calculate the electric flux through the surface.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen165"
+    "question_id": "cbse_xii_leph1dd_c101_gen165",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "A flat surface with area 0.5 m² is tilted at an angle of 60° relative to a uniform electric field of 200 N/C. Compute the electric flux through the surface.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen166"
+    "question_id": "cbse_xii_leph1dd_c101_gen166",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "A spherical Gaussian surface has a point where an infinitesimal area element of 0.01 m² is inclined at 45° relative to a uniform electric field of 120 N/C. Compute the component of the electric field normal to that area element and the resulting electric flux through it.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen167"
+    "question_id": "cbse_xii_leph1dd_c101_gen167",
+    "section_name": "1.9 ELECTRIC FLUX"
   },
   {
     "question_text": "An irregular surface is divided into three small elements: Element 1 has an area of 0.1 m² at 0°, Element 2 has an area of 0.15 m² at 30°, and Element 3 has an area of 0.2 m² at 60° relative to a uniform electric field of 250 N/C. Calculate the total electric flux through the entire surface.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "09_section_1_9",
-    "question_id": "cbse_xii_leph1dd_c101_gen168"
+    "question_id": "cbse_xii_leph1dd_c101_gen168",
+    "section_name": "1.9 ELECTRIC FLUX"
   }
 ]

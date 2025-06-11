@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen016"
+    "question_id": "cbse_xi_kemh1dd_c114_gen016",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Consider a sample space S = {ω₁, ω₂, ω₃, ω₄}. Which of the following assignments of probabilities is valid?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen017"
+    "question_id": "cbse_xi_kemh1dd_c114_gen017",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "If events A and B are mutually exclusive, then what is P(A ∪ B)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen018"
+    "question_id": "cbse_xi_kemh1dd_c114_gen018",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "In a coin toss experiment where outcomes have different probabilities, if event E is defined as 'both tosses yield the same result', which of the following expressions correctly represents P(E) when E = {HH, TT}?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen019"
+    "question_id": "cbse_xi_kemh1dd_c114_gen019",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Define an elementary event in the context of probability theory.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen020"
+    "question_id": "cbse_xi_kemh1dd_c114_gen020",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "State the three fundamental axioms of probability.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen021"
+    "question_id": "cbse_xi_kemh1dd_c114_gen021",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Explain the concept of 'Probability of not A' and how it is calculated.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen022"
+    "question_id": "cbse_xi_kemh1dd_c114_gen022",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "What does it mean when outcomes of a sample space are 'equally likely'? Explain briefly.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen023"
+    "question_id": "cbse_xi_kemh1dd_c114_gen023",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Prove that for any two events A and B, the probability of their union is given by P(A ∪ B) = P(A) + P(B) - P(A ∩ B).",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen024"
+    "question_id": "cbse_xi_kemh1dd_c114_gen024",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Derive the expression for the probability of an event E when outcomes are equally likely in a finite sample space S with n outcomes and event E contains m outcomes.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen025"
+    "question_id": "cbse_xi_kemh1dd_c114_gen025",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Using the axioms of probability, prove that the probability of the empty event (φ) is 0.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen026"
+    "question_id": "cbse_xi_kemh1dd_c114_gen026",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "A bag contains 9 discs: 4 red, 3 blue, and 2 yellow. If a disc is drawn at random, calculate the probability that: (i) the disc is red, (ii) the disc is yellow, (iii) the disc is blue, (iv) the disc is not blue, and (v) the disc is either red or blue.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen027"
+    "question_id": "cbse_xi_kemh1dd_c114_gen027",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "One card is drawn from a well-shuffled deck of 52 cards. Calculate the probabilities that the card drawn is: (i) a diamond, (ii) not an ace, (iii) a black card, (iv) not a diamond, and (v) not a black card.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen028"
+    "question_id": "cbse_xi_kemh1dd_c114_gen028",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Two students, Anil and Ashima, have probabilities of qualifying an exam as 0.05 and 0.10 respectively, with P(both qualify) = 0.02. Calculate the probability that: (a) both do not qualify, (b) at least one does not qualify, and (c) exactly one qualifies.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen029"
+    "question_id": "cbse_xi_kemh1dd_c114_gen029",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "From a group consisting of 2 men and 2 women, a committee of 2 persons is to be selected. Calculate the probability that the committee has: (a) no man, (b) exactly one man, and (c) two men.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen030"
+    "question_id": "cbse_xi_kemh1dd_c114_gen030",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   }
 ]

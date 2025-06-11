@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen090"
+    "question_id": "cbse_xi_keph1dd_c103_gen090",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "When a vector A is multiplied by a negative scalar, which of the following is true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen091"
+    "question_id": "cbse_xi_keph1dd_c103_gen091",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "Which statement is true about scalar multiplication when the scalar has its own physical dimension?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen092"
+    "question_id": "cbse_xi_keph1dd_c103_gen092",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "If vector A has a magnitude of 7 units and is multiplied by 2, what is the magnitude of the new vector?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen093"
+    "question_id": "cbse_xi_keph1dd_c103_gen093",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "Which scalar multiplication results in a vector with the same magnitude but opposite direction to vector A?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen094"
+    "question_id": "cbse_xi_keph1dd_c103_gen094",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "Define the effect of multiplying a vector by a real number on its magnitude and direction.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen095"
+    "question_id": "cbse_xi_keph1dd_c103_gen095",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "Explain the result of multiplying vector A by -1.5 as depicted in the textbook.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen096"
+    "question_id": "cbse_xi_keph1dd_c103_gen096",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "How does scalar multiplication apply when a vector representing velocity is multiplied by a time interval?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen097"
+    "question_id": "cbse_xi_keph1dd_c103_gen097",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "What is the dimensional significance when a scalar with its own physical dimension multiplies a vector?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen098"
+    "question_id": "cbse_xi_keph1dd_c103_gen098",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "Discuss in detail how scalar multiplication affects a vector's magnitude and direction. Provide examples using both positive and negative scalars.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen099"
+    "question_id": "cbse_xi_keph1dd_c103_gen099",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "Evaluate the role of scalar multiplication in various physics contexts, especially when the scalar carries its own physical dimension, such as multiplying velocity by time. Include a discussion on how this operation applies in deriving displacement.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen100"
+    "question_id": "cbse_xi_keph1dd_c103_gen100",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "Create a detailed explanation of the difference in outcomes when multiplying a vector by positive and negative scalars, including potential applications in real-world physics scenarios.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen101"
+    "question_id": "cbse_xi_keph1dd_c103_gen101",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "True or False: Multiplying a vector A by a positive real number always results in a vector pointing in the same direction as A.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen102"
+    "question_id": "cbse_xi_keph1dd_c103_gen102",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "True or False: When a vector is multiplied by a negative scalar, the magnitude of the resulting vector is the negative of the original vector's magnitude.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen103"
+    "question_id": "cbse_xi_keph1dd_c103_gen103",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "A vector A has a magnitude of 5 units. Calculate the magnitude and describe the direction of the vector when it is multiplied by 3.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen104"
+    "question_id": "cbse_xi_keph1dd_c103_gen104",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "Vector A has a magnitude of 8 meters and points east. Find the magnitude and direction of the vector -0.5A.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen105"
+    "question_id": "cbse_xi_keph1dd_c103_gen105",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "If a vector A, with a magnitude of 10 newtons pointing north, is multiplied by -2, what are the magnitude and direction of the resulting vector?",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen106"
+    "question_id": "cbse_xi_keph1dd_c103_gen106",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "A vector V has a magnitude of 12 units. Determine the magnitude and direction when it is multiplied by -1.25. Show your calculations.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen107"
+    "question_id": "cbse_xi_keph1dd_c103_gen107",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   },
   {
     "question_text": "A velocity vector of 20 m/s is multiplied by a time interval of 3 s. Calculate the resulting displacement vector's magnitude and state its direction relative to the velocity.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "04_section_3_3",
-    "question_id": "cbse_xi_keph1dd_c103_gen108"
+    "question_id": "cbse_xi_keph1dd_c103_gen108",
+    "section_name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
   }
 ]

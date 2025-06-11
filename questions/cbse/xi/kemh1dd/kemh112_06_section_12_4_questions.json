@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen039"
+    "question_id": "cbse_xi_kemh1dd_c112_gen039",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "For 0 < x < π/2, which of the following inequalities holds true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen040"
+    "question_id": "cbse_xi_kemh1dd_c112_gen040",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "What is the value of limₓ→0 (sin x)/x?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen041"
+    "question_id": "cbse_xi_kemh1dd_c112_gen041",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Which trigonometric identity is used to rewrite 1 − cos x when evaluating the limit limₓ→0 (1 - cos x)/x?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen042"
+    "question_id": "cbse_xi_kemh1dd_c112_gen042",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Define the Sandwich (Squeeze) Theorem in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen043"
+    "question_id": "cbse_xi_kemh1dd_c112_gen043",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Explain the geometric reasoning behind the inequality sin x < x < tan x as illustrated using the unit circle.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen044"
+    "question_id": "cbse_xi_kemh1dd_c112_gen044",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "State Theorem 3 regarding the relationship between functions and their limits when f(x) ≤ g(x) for all x in the domain.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen045"
+    "question_id": "cbse_xi_kemh1dd_c112_gen045",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Prove the inequality cos x < (sin x)/x < 1 for 0 < |x| < π/2 using the geometric approach provided in the textbook.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen046"
+    "question_id": "cbse_xi_kemh1dd_c112_gen046",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Derive the limit limₓ→0 (1 − cos x)/x = 0 using trigonometric identities and limit properties.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen047"
+    "question_id": "cbse_xi_kemh1dd_c112_gen047",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Evaluate limₓ→0 (sin 4x)/(sin 2x) by expressing the ratio in terms of (sin ax)/(ax).",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen048"
+    "question_id": "cbse_xi_kemh1dd_c112_gen048",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Evaluate limₓ→0 (tan x)/x.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen049"
+    "question_id": "cbse_xi_kemh1dd_c112_gen049",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "For x = 0.1 radians, numerically verify the inequality cos x < (sin x)/x < 1 by calculating approximate values.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen050"
+    "question_id": "cbse_xi_kemh1dd_c112_gen050",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Express E(x) = (sin 3x)/(sin x) in terms of (sin 3x)/(3x) and (sin x)/x, and evaluate limₓ→0 E(x).",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen051"
+    "question_id": "cbse_xi_kemh1dd_c112_gen051",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Explain why the trigonometric identity 1 − cos x = 2 sin²(x/2) is useful when evaluating limits of the form (1 − cos x)/x.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen052"
+    "question_id": "cbse_xi_kemh1dd_c112_gen052",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   },
   {
     "question_text": "Outline the step-by-step process for evaluating a limit of the form f(x)/g(x) when both numerator and denominator approach zero as x approaches a. Include the method of factor cancellation.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh112",
     "section_id": "06_section_12_4",
-    "question_id": "cbse_xi_kemh1dd_c112_gen053"
+    "question_id": "cbse_xi_kemh1dd_c112_gen053",
+    "section_name": "12.4 Limits of Trigonometric Functions"
   }
 ]

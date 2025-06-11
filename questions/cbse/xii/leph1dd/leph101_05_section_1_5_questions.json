@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen077"
+    "question_id": "cbse_xii_leph1dd_c101_gen077",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "In Coulomb's law, if the distance between two charges is doubled, what happens to the magnitude of the electric force between them?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen078"
+    "question_id": "cbse_xii_leph1dd_c101_gen078",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Which constant in Coulomb's law is defined as 1/(4πε₀) in SI units?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen079"
+    "question_id": "cbse_xii_leph1dd_c101_gen079",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "When an identical, uncharged sphere touches a charged sphere, what fraction of the original charge does each sphere have after contact?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen080"
+    "question_id": "cbse_xii_leph1dd_c101_gen080",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Which instrument did Coulomb primarily use to measure the force between charged metallic spheres?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen081"
+    "question_id": "cbse_xii_leph1dd_c101_gen081",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Define Coulomb's law in your own words.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen082"
+    "question_id": "cbse_xii_leph1dd_c101_gen082",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "What is the significance of the permittivity of free space, ε₀, in Coulomb's law?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen083"
+    "question_id": "cbse_xii_leph1dd_c101_gen083",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Describe how the charge distribution occurs when an identical uncharged sphere comes into contact with a charged sphere.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen084"
+    "question_id": "cbse_xii_leph1dd_c101_gen084",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "What does the inverse square dependence in Coulomb's law imply about the variation of electric force with distance?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen085"
+    "question_id": "cbse_xii_leph1dd_c101_gen085",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Explain in detail the experimental approach Coulomb used with a torsion balance to determine the inverse square nature of the electric force.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen086"
+    "question_id": "cbse_xii_leph1dd_c101_gen086",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Compare and contrast Coulomb's law with Newton's law of universal gravitation, focusing on their mathematical forms and the differences in the strengths of the two forces.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen087"
+    "question_id": "cbse_xii_leph1dd_c101_gen087",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Discuss how the choice of the constant k in Coulomb's law helps to define the unit of charge and the implications this has for measurements in electrostatics.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen088"
+    "question_id": "cbse_xii_leph1dd_c101_gen088",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "True or False: Coulomb's law, as stated in the textbook section, is valid for interactions between charges in any medium without modification.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen089"
+    "question_id": "cbse_xii_leph1dd_c101_gen089",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "True or False: If two like charges are placed a fixed distance apart, the force calculated using Coulomb's law will always be repulsive.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen090"
+    "question_id": "cbse_xii_leph1dd_c101_gen090",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "True or False: According to Coulomb's law, the force that a charged object exerts on another always violates Newton's third law of motion.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen091"
+    "question_id": "cbse_xii_leph1dd_c101_gen091",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Calculate the magnitude of the electric force between two charges of 1 C each separated by a distance of 1 m in vacuum. Use k = 9.0 × 10⁹ N·m²/C².",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen092"
+    "question_id": "cbse_xii_leph1dd_c101_gen092",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "An electron and a proton are separated by a distance of 1.0 × 10⁻¹⁰ m. Given the elementary charge is 1.6 × 10⁻¹⁹ C, the mass of an electron is 9.11 × 10⁻³¹ kg, and the mass of a proton is 1.67 × 10⁻²⁷ kg, calculate (a) the magnitude of the electrical force between them and (b) the acceleration of the electron.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen093"
+    "question_id": "cbse_xii_leph1dd_c101_gen093",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Two protons are separated by a distance of 1.0 × 10⁻¹⁵ m (approximately the size of a nucleus). Given that the proton mass is 1.67 × 10⁻²⁷ kg and the elementary charge is 1.6 × 10⁻¹⁹ C, calculate (a) the magnitude of the Coulomb repulsive force between them, and (b) the gravitational force between them. Use k = 9.0 × 10⁹ N·m²/C² and G = 6.67 × 10⁻¹¹ N·m²/kg².",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen094"
+    "question_id": "cbse_xii_leph1dd_c101_gen094",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "Consider two metallic spheres: Sphere A with charge q and Sphere B with charge q'. They are separated by a distance r and experience a force F = (1/(4πε₀)) (qq')/r². If an identical, uncharged sphere touches each of them so that their charges are equally divided, and then the distance between the spheres is reduced to r/2, what is the new force F' between the spheres?",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen095"
+    "question_id": "cbse_xii_leph1dd_c101_gen095",
+    "section_name": "1.5 COULOMB'S LAW"
   },
   {
     "question_text": "An electron and a proton initially experience an electrical force of 2.3 × 10⁻⁸ N when separated by 1.0 × 10⁻¹⁰ m. If the separation is doubled, what is the new force between them?",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "05_section_1_5",
-    "question_id": "cbse_xii_leph1dd_c101_gen096"
+    "question_id": "cbse_xii_leph1dd_c101_gen096",
+    "section_name": "1.5 COULOMB'S LAW"
   }
 ]

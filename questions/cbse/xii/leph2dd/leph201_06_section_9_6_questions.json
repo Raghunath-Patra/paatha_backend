@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen079"
+    "question_id": "cbse_xii_leph2dd_c201_gen079",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Which relation correctly represents the internal angles of refraction in the prism in terms of its apex angle A?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen080"
+    "question_id": "cbse_xii_leph2dd_c201_gen080",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Under which condition does the minimum deviation (Dm) occur for a triangular prism?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen081"
+    "question_id": "cbse_xii_leph2dd_c201_gen081",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Which equation correctly expresses the refractive index of the prism material in terms of the apex angle (A) and the minimum deviation (Dm)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen082"
+    "question_id": "cbse_xii_leph2dd_c201_gen082",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "For a thin prism, the minimum deviation Dm is related to its apex angle A and refractive index n21 by which expression?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen083"
+    "question_id": "cbse_xii_leph2dd_c201_gen083",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Explain what is meant by the 'angle of deviation' in a triangular prism.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen084"
+    "question_id": "cbse_xii_leph2dd_c201_gen084",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Derive the relationship between the two angles of refraction inside the prism (r1 and r2) and the prism's apex angle A.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen085"
+    "question_id": "cbse_xii_leph2dd_c201_gen085",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Why does a plot of the angle of deviation versus the angle of incidence typically yield two values for deviation (except at minimum deviation)?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen086"
+    "question_id": "cbse_xii_leph2dd_c201_gen086",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "In your own words, describe the experimental procedure used to determine the refractive index of a prism.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen087"
+    "question_id": "cbse_xii_leph2dd_c201_gen087",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Derive the equation for the deviation (δ) of a light ray passing through a triangular prism in terms of the angles of incidence (i) and emergence (e) and the prism's apex angle (A).",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen088"
+    "question_id": "cbse_xii_leph2dd_c201_gen088",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Explain the significance of the condition i = e in the behavior of a light ray passing through a prism and how it relates to the minimum deviation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen089"
+    "question_id": "cbse_xii_leph2dd_c201_gen089",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "Discuss how the equation for the refractive index, n21 = sin[(A + Dm)/2] / sin(A/2), is derived using the principles of geometric optics, and explain how it simplifies for a thin prism.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen090"
+    "question_id": "cbse_xii_leph2dd_c201_gen090",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "True or False: The angle of deviation in a triangular prism is independent of the angle of incidence.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen091"
+    "question_id": "cbse_xii_leph2dd_c201_gen091",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "True or False: Interchanging the incident angle and the emergent angle in a prism does not change the total deviation.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen092"
+    "question_id": "cbse_xii_leph2dd_c201_gen092",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "True or False: For a thin prism, the minimum deviation is directly proportional to the product of (n21 - 1) and the apex angle A.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen093"
+    "question_id": "cbse_xii_leph2dd_c201_gen093",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "A triangular prism has an apex angle A = 60° and a minimum deviation Dm = 40°. Calculate the refractive index n21. Use the formula n21 = sin[(A + Dm)/2] / sin(A/2), where angles are in degrees.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen094"
+    "question_id": "cbse_xii_leph2dd_c201_gen094",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "In a prism experiment, if the angle of incidence is 55° and the corresponding angle of emergence is 65° with an apex angle of 50°, calculate the total deviation δ.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen095"
+    "question_id": "cbse_xii_leph2dd_c201_gen095",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "For a prism under minimum deviation with an apex angle A = 40°, determine the internal angle of refraction r (i.e., r1 or r2).",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen096"
+    "question_id": "cbse_xii_leph2dd_c201_gen096",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "A thin prism has an apex angle A = 10° and a refractive index n21 = 1.2. Using the thin prism approximation, calculate the minimum deviation Dm.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen097"
+    "question_id": "cbse_xii_leph2dd_c201_gen097",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   },
   {
     "question_text": "In an experiment using a triangular prism with an apex angle A = 40° and a minimum deviation Dm = 30°, measurements yield sin[(A + Dm)/2] = 0.7193 and sin(A/2) = 0.3420. Calculate the refractive index n21.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph201",
     "section_id": "06_section_9_6",
-    "question_id": "cbse_xii_leph2dd_c201_gen098"
+    "question_id": "cbse_xii_leph2dd_c201_gen098",
+    "section_name": "9.6 REFRACTION THROUGH A PRISM"
   }
 ]

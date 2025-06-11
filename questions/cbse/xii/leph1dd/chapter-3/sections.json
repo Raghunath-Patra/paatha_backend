@@ -1,0 +1,56 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "3.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "3.2 ELECTRIC CURRENT"
+    },
+    {
+      "number": 3,
+      "name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
+    },
+    {
+      "number": 4,
+      "name": "3.4 OHM'S LAW"
+    },
+    {
+      "number": 5,
+      "name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
+    },
+    {
+      "number": 6,
+      "name": "3.6 LIMITATIONS OF OHM'S LAW"
+    },
+    {
+      "number": 7,
+      "name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
+    },
+    {
+      "number": 8,
+      "name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
+    },
+    {
+      "number": 9,
+      "name": "3.9 ELECTRICAL ENERGY, POWER"
+    },
+    {
+      "number": 10,
+      "name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
+    },
+    {
+      "number": 11,
+      "name": "3.11 CELLS IN SERIES AND IN PARALLEL"
+    },
+    {
+      "number": 12,
+      "name": "3.12 KIRCHHOFF'S RULES"
+    },
+    {
+      "number": 13,
+      "name": "3.13 WHEATSTONE BRIDGE"
+    }
+  ]
+}

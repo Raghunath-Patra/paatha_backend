@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen016"
+    "question_id": "cbse_ix_iemh1dd_c103_gen016",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Which quadrant in the Cartesian plane has points with coordinates of the form (–, +)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen017"
+    "question_id": "cbse_ix_iemh1dd_c103_gen017",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Which of the following points lies on the x-axis?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen018"
+    "question_id": "cbse_ix_iemh1dd_c103_gen018",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "What are the coordinates of the origin in a Cartesian plane?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen019"
+    "question_id": "cbse_ix_iemh1dd_c103_gen019",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Define the term 'abscissa' in the context of the Cartesian coordinate system.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen020"
+    "question_id": "cbse_ix_iemh1dd_c103_gen020",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Explain why any point on the x-axis always has a y-coordinate equal to zero.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen021"
+    "question_id": "cbse_ix_iemh1dd_c103_gen021",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Describe the positive directions of the x-axis and y-axis in the Cartesian system.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen022"
+    "question_id": "cbse_ix_iemh1dd_c103_gen022",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Illustrate and explain how the coordinate axes divide the plane into four quadrants, including the sign conventions used in each quadrant.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen023"
+    "question_id": "cbse_ix_iemh1dd_c103_gen023",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Prove that the coordinates of a point in the Cartesian plane uniquely determine its location. In your proof, explain why (3, 4) is distinct from (4, 3).",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen024"
+    "question_id": "cbse_ix_iemh1dd_c103_gen024",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Demonstrate how to determine the coordinates of a point using its perpendicular distances from the coordinate axes. Describe your method with an illustrative diagram and example.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen025"
+    "question_id": "cbse_ix_iemh1dd_c103_gen025",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Write the coordinates of point A if it is 4 units to the right of the y-axis and lies on the x-axis.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen026"
+    "question_id": "cbse_ix_iemh1dd_c103_gen026",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Find the coordinates of a point that is 7 units from the y-axis towards the left and 2 units from the x-axis upwards.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen027"
+    "question_id": "cbse_ix_iemh1dd_c103_gen027",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Given that point B lies in the third quadrant with a y-coordinate (ordinate) of –5 and is 6 units away from the y-axis, determine its coordinates.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen028"
+    "question_id": "cbse_ix_iemh1dd_c103_gen028",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "A point P has a perpendicular distance of 9 units from the y-axis and 8 units from the x-axis. If P lies in the second quadrant, what are its coordinates?",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen029"
+    "question_id": "cbse_ix_iemh1dd_c103_gen029",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Point Q is plotted such that its x-coordinate is the distance of 2/3 unit from the y-axis and its y-coordinate is 0. What are the coordinates of Q and on which axis does it lie?",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen030"
+    "question_id": "cbse_ix_iemh1dd_c103_gen030",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Which of the following is the correct coordinate of the origin?",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen031"
+    "question_id": "cbse_ix_iemh1dd_c103_gen031",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "In the Cartesian plane, which quadrant will a point with coordinates (–4, 5) lie in?",
@@ -265,7 +281,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen032"
+    "question_id": "cbse_ix_iemh1dd_c103_gen032",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "Identify the correct statement regarding the abscissa and ordinate of a point.",
@@ -284,7 +301,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen033"
+    "question_id": "cbse_ix_iemh1dd_c103_gen033",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "If (x, y) = (y, x), what can be deduced about x and y?",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen034"
+    "question_id": "cbse_ix_iemh1dd_c103_gen034",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "Define what is meant by the term 'Cartesian plane'.",
@@ -317,7 +336,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen035"
+    "question_id": "cbse_ix_iemh1dd_c103_gen035",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "Explain the significance of the coordinate axes and how they assist in locating a point in a plane.",
@@ -331,7 +351,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen036"
+    "question_id": "cbse_ix_iemh1dd_c103_gen036",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "What are the coordinates of any point lying on the x-axis and why?",
@@ -345,7 +366,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen037"
+    "question_id": "cbse_ix_iemh1dd_c103_gen037",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "How many quadrants does the Cartesian plane have? Describe the sign of the coordinates in each quadrant.",
@@ -359,7 +381,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen038"
+    "question_id": "cbse_ix_iemh1dd_c103_gen038",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "Prove that if (x, y) = (y, x) then x must be equal to y.",
@@ -373,7 +396,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen039"
+    "question_id": "cbse_ix_iemh1dd_c103_gen039",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "Discuss how the coordinate axes divide the plane into quadrants and analyze the importance of each quadrant in graphical representation.",
@@ -387,7 +411,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen040"
+    "question_id": "cbse_ix_iemh1dd_c103_gen040",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "A point P has coordinates (6, 0). Verify that P lies on the x-axis and explain why.",
@@ -401,7 +426,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen041"
+    "question_id": "cbse_ix_iemh1dd_c103_gen041",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "Point Q is given as (0, -8). Determine if Q lies on any of the coordinate axes and justify your answer.",
@@ -415,7 +441,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen042"
+    "question_id": "cbse_ix_iemh1dd_c103_gen042",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "Consider the following points: A = (-3, 4), B = (-2, -5), C = (4, -6), and D = (5, 7). Identify the quadrant in which each point lies or if it lies on an axis.",
@@ -429,7 +456,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen043"
+    "question_id": "cbse_ix_iemh1dd_c103_gen043",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "If a point R has coordinates (–7, 0), determine its location relative to the axes and explain the reasoning.",
@@ -443,7 +471,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_ix_iemh1dd_c103_gen044"
+    "question_id": "cbse_ix_iemh1dd_c103_gen044",
+    "section_name": "3.3 Summary"
   },
   {
     "question_text": "Write the answer of each of the following questions:\n(i) What is the name of the horizontal and the vertical lines drawn to determine the position of any point in the Cartesian plane?\n(ii) What is the name of each part of the plane formed by these two lines?\n(iii) Write the name of the point where these two lines intersect.",
@@ -514,7 +543,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen001"
+    "question_id": "cbse_ix_iemh1dd_c103_gen001",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "In Fig. 3.2(b) showing a dot on a sheet of paper, which two distances are used to precisely locate the dot?",
@@ -533,7 +563,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen002"
+    "question_id": "cbse_ix_iemh1dd_c103_gen002",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Which mathematician is credited with the development of the Cartesian system that underpins modern coordinate geometry?",
@@ -552,7 +583,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen003"
+    "question_id": "cbse_ix_iemh1dd_c103_gen003",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Which of the following statements about locating a point in a plane is false?",
@@ -571,7 +603,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen004"
+    "question_id": "cbse_ix_iemh1dd_c103_gen004",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Define what is meant by 'two independent pieces of information' when locating a point in a plane.",
@@ -585,7 +618,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen005"
+    "question_id": "cbse_ix_iemh1dd_c103_gen005",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Explain why the coordinate (5, 3) is not the same as (3, 5) in the context of a classroom seating plan.",
@@ -599,7 +633,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen006"
+    "question_id": "cbse_ix_iemh1dd_c103_gen006",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "What is the Cartesian system and why is it essential for describing positions in a plane?",
@@ -613,7 +648,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen007"
+    "question_id": "cbse_ix_iemh1dd_c103_gen007",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Describe how a seating plan activity, as presented in the text, helps in understanding the concept of coordinates.",
@@ -627,7 +663,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen008"
+    "question_id": "cbse_ix_iemh1dd_c103_gen008",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Discuss the importance of using two independent pieces of information to uniquely determine a position in a plane. Use examples from the street plan and the dot on a paper to support your answer.",
@@ -641,7 +678,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen009"
+    "question_id": "cbse_ix_iemh1dd_c103_gen009",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Derive how the position of a dot on a paper is determined by measuring its distances from two fixed, perpendicular lines. Provide a step-by-step explanation using the concept of ordered pairs.",
@@ -655,7 +693,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen010"
+    "question_id": "cbse_ix_iemh1dd_c103_gen010",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Evaluate the benefits and potential limitations of using the Cartesian coordinate system in everyday tasks, such as mapping a classroom or planning a route in a neighborhood.",
@@ -669,7 +708,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen011"
+    "question_id": "cbse_ix_iemh1dd_c103_gen011",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "In a classroom seating plan with 10 columns and 7 rows, if a student is seated at position (5, 3), how many rows must the student move upward to reach the top (assuming row 1 is at the bottom)?",
@@ -683,7 +723,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen012"
+    "question_id": "cbse_ix_iemh1dd_c103_gen012",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "A dot is positioned 5 cm from the left edge and 9 cm from the bottom edge of a paper. If a new dot is placed 3 cm to the right and 2 cm upward from the original dot, what are the new distances from the left and bottom edges?",
@@ -697,7 +738,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen013"
+    "question_id": "cbse_ix_iemh1dd_c103_gen013",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "A house is located at the intersection of the 2nd street and with house number 5. If streets and houses are 10 meters apart, calculate the straight-line distance from the intersection of the 1st street and house number 1 to this house.",
@@ -711,7 +753,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen014"
+    "question_id": "cbse_ix_iemh1dd_c103_gen014",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "In a classroom seating plan grid with 10 columns and 7 rows, if Sonia sits at (4, 1) and another student sits at (7, 5), calculate the horizontal and vertical differences between their positions and find the Euclidean distance between their desks (assuming each desk is 1 unit apart).",
@@ -725,6 +768,7 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen015"
+    "question_id": "cbse_ix_iemh1dd_c103_gen015",
+    "section_name": "3.1 Introduction"
   }
 ]

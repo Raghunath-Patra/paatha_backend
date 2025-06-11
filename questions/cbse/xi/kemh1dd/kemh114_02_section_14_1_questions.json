@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen001"
+    "question_id": "cbse_xi_kemh1dd_c114_gen001",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "When rolling a standard die, the event 'getting a prime number' is represented by which subset of the sample space?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen002"
+    "question_id": "cbse_xi_kemh1dd_c114_gen002",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Which of the following events is a sure event when rolling a die?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen003"
+    "question_id": "cbse_xi_kemh1dd_c114_gen003",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "For any event A in a sample space S, its complementary event A′ represents:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen004"
+    "question_id": "cbse_xi_kemh1dd_c114_gen004",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Define an event in the context of a random experiment.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen005"
+    "question_id": "cbse_xi_kemh1dd_c114_gen005",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "What are mutually exclusive events? Provide an example using the experiment of rolling a die.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen006"
+    "question_id": "cbse_xi_kemh1dd_c114_gen006",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Explain what is meant by a compound event. Give an example from coin toss experiments.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen007"
+    "question_id": "cbse_xi_kemh1dd_c114_gen007",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "What does the event 'A but not B' represent in set notation? Explain your answer.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen008"
+    "question_id": "cbse_xi_kemh1dd_c114_gen008",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Prove that for any event A in a sample space S, A and its complement A′ are mutually exclusive and exhaustive.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen009"
+    "question_id": "cbse_xi_kemh1dd_c114_gen009",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "For the experiment of tossing three coins, list all possible outcomes. Then verify that the events 'no head appears', 'exactly one head appears', and 'at least two heads appear' are mutually exclusive and exhaustive.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen010"
+    "question_id": "cbse_xi_kemh1dd_c114_gen010",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "In the experiment of tossing a coin twice, find the probability of the event 'exactly one head appears'.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen011"
+    "question_id": "cbse_xi_kemh1dd_c114_gen011",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "When rolling a die, calculate the probability of obtaining 'a prime number or an even number'.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen012"
+    "question_id": "cbse_xi_kemh1dd_c114_gen012",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "When two dice are thrown, find the probability that 'the sum of the numbers is greater than 9'.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen013"
+    "question_id": "cbse_xi_kemh1dd_c114_gen013",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "In an experiment with two dice, let event A be 'the sum is even' and event B be 'the sum is a multiple of 3'. Using the inclusion–exclusion principle, find P(A ∪ B).",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen014"
+    "question_id": "cbse_xi_kemh1dd_c114_gen014",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Three coins are tossed. Let event A be 'at least one head appears' and event B be 'exactly two tails appear'. Compute the conditional probability P(B|A).",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen015"
+    "question_id": "cbse_xi_kemh1dd_c114_gen015",
+    "section_name": "14.1 Event"
   }
 ]

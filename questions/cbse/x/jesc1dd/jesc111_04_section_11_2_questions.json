@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen015"
+    "question_id": "cbse_x_jesc1dd_c111_gen015",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "In a circuit, the voltmeter must be connected in which manner?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen016"
+    "question_id": "cbse_x_jesc1dd_c111_gen016",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "What will be the amount of work done in moving a charge of 3 C across a potential difference of 15 V?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen017"
+    "question_id": "cbse_x_jesc1dd_c111_gen017",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "Explain, using the water flow analogy, why charges start to move in a conductor.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen018"
+    "question_id": "cbse_x_jesc1dd_c111_gen018",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "Define the unit volt and provide its relation in terms of joules and coulombs.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen019"
+    "question_id": "cbse_x_jesc1dd_c111_gen019",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "Write the formula for electric potential difference in an electric circuit and explain what each symbol represents.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen020"
+    "question_id": "cbse_x_jesc1dd_c111_gen020",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "Describe in detail how a battery creates a potential difference and how this potential difference results in an electric current in a conducting wire.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen021"
+    "question_id": "cbse_x_jesc1dd_c111_gen021",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "Compare the water flow in a tube connected to a tank with electrons flowing in a metallic conductor. How do these analogies help in understanding the process of current flow?",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen022"
+    "question_id": "cbse_x_jesc1dd_c111_gen022",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "True or False: The voltmeter is connected in series with a circuit element to measure the potential difference across it.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen023"
+    "question_id": "cbse_x_jesc1dd_c111_gen023",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "True or False: One volt is defined as one joule per coulomb, meaning that if 1 coulomb of charge is moved through a potential difference of 1 volt, 1 joule of work is done.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen024"
+    "question_id": "cbse_x_jesc1dd_c111_gen024",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "A battery produces a potential difference of 9 V. How much work must be done to move 4 coulombs of charge from one terminal to the other?",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen025"
+    "question_id": "cbse_x_jesc1dd_c111_gen025",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   },
   {
     "question_text": "Design an experiment to measure the potential difference across a battery using a voltmeter. Describe the steps involved and precautions that should be taken.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "04_section_11_2",
-    "question_id": "cbse_x_jesc1dd_c111_gen026"
+    "question_id": "cbse_x_jesc1dd_c111_gen026",
+    "section_name": "11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE"
   }
 ]

@@ -159,7 +159,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen028"
+    "question_id": "cbse_xi_kemh1dd_c106_gen028",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "What is the value of 0! as defined in the text?",
@@ -178,7 +179,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen029"
+    "question_id": "cbse_xi_kemh1dd_c106_gen029",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Consider the word 'ROOT'. When arranging its letters, two of the letters are identical. Which of the following expressions correctly represents the number of distinct arrangements of the letters in 'ROOT'?",
@@ -197,7 +199,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen030"
+    "question_id": "cbse_xi_kemh1dd_c106_gen030",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "How many 3-digit numbers can be formed using the digits 0, 1, 2, 3, 4, 5 (with no repetition) that are actually 3-digit numbers?",
@@ -216,7 +219,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen031"
+    "question_id": "cbse_xi_kemh1dd_c106_gen031",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Define a permutation in the context of arranging objects. How does it differ from a combination?",
@@ -230,7 +234,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen032"
+    "question_id": "cbse_xi_kemh1dd_c106_gen032",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Describe the factorial notation and state the recursive relation that defines n!.",
@@ -244,7 +249,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen033"
+    "question_id": "cbse_xi_kemh1dd_c106_gen033",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "State and explain the formula for finding the number of permutations of n objects when some objects are identical, citing the general theorem.",
@@ -258,7 +264,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen034"
+    "question_id": "cbse_xi_kemh1dd_c106_gen034",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Prove that the number of permutations of n distinct objects taken r at a time is given by nPr = n! / (n-r)!. Provide a step-by-step derivation using the multiplication principle.",
@@ -272,7 +279,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen035"
+    "question_id": "cbse_xi_kemh1dd_c106_gen035",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Using the letters of the word 'INSTITUTE', calculate the number of distinct arrangements possible. Provide a detailed explanation of how repeated letters are accounted for in your calculation.",
@@ -286,7 +294,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen036"
+    "question_id": "cbse_xi_kemh1dd_c106_gen036",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Evaluate 7! – 5! and show all the steps in your calculation.",
@@ -300,7 +309,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen037"
+    "question_id": "cbse_xi_kemh1dd_c106_gen037",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Find the number of distinct permutations of the letters in the word 'ALLAHABAD'. Provide detailed steps including the treatment of repeated letters.",
@@ -314,7 +324,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen038"
+    "question_id": "cbse_xi_kemh1dd_c106_gen038",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Determine the number of 4-digit numbers that can be formed using the digits 1 to 9 (without repetition). Show your full working.",
@@ -328,7 +339,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "05_section_6_3",
-    "question_id": "cbse_xi_kemh1dd_c106_gen039"
+    "question_id": "cbse_xi_kemh1dd_c106_gen039",
+    "section_name": "6.3 Permutations"
   },
   {
     "question_text": "Evaluate (i) 8! and (ii) 4! – 3!.",
@@ -412,7 +424,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen040"
+    "question_id": "cbse_xi_kemh1dd_c106_gen040",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Which of the following equations correctly represents the relationship between permutations and combinations of n objects taken r at a time?",
@@ -431,7 +444,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen041"
+    "question_id": "cbse_xi_kemh1dd_c106_gen041",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Twelve persons are in a room and each person shakes hands with every other person exactly once. What is the total number of unique handshakes?",
@@ -450,7 +464,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen042"
+    "question_id": "cbse_xi_kemh1dd_c106_gen042",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Which formula below is used for calculating combinations of n objects taken r at a time?",
@@ -469,7 +484,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen043"
+    "question_id": "cbse_xi_kemh1dd_c106_gen043",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "In your own words, define the term 'combination' in the context of selecting r objects from n objects.",
@@ -483,7 +499,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen044"
+    "question_id": "cbse_xi_kemh1dd_c106_gen044",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "State and explain Theorem 5 regarding the relationship between permutations and combinations.",
@@ -497,7 +514,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen045"
+    "question_id": "cbse_xi_kemh1dd_c106_gen045",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Calculate the number of ways to select 3 cards from a standard deck of 52 playing cards.",
@@ -511,7 +529,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen046"
+    "question_id": "cbse_xi_kemh1dd_c106_gen046",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "A committee of 3 persons is to be formed from a group of 2 men and 3 women. How many committees can be formed that include exactly 1 man and 2 women?",
@@ -525,7 +544,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen047"
+    "question_id": "cbse_xi_kemh1dd_c106_gen047",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Seven points lie on a circle. How many chords can be drawn by joining these points pairwise?",
@@ -539,7 +559,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen048"
+    "question_id": "cbse_xi_kemh1dd_c106_gen048",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Prove that the combination formula is symmetric, i.e., show that nCr = nC(n–r) for all 0 ≤ r ≤ n.",
@@ -553,7 +574,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen049"
+    "question_id": "cbse_xi_kemh1dd_c106_gen049",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Derive the formula nPr = nCr × r! by explaining how permutations relate to combinations.",
@@ -567,7 +589,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen050"
+    "question_id": "cbse_xi_kemh1dd_c106_gen050",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "From a standard 52-card deck, find the number of ways to choose 4 cards such that exactly 2 are red and 2 are black.",
@@ -581,7 +604,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen051"
+    "question_id": "cbse_xi_kemh1dd_c106_gen051",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Given a suitcase number lock with 4 wheels, where the first digit is fixed as 7 and the remaining three digits are to be chosen without repetition from the remaining 9 digits, how many possible sequences exist?",
@@ -600,7 +624,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen001"
+    "question_id": "cbse_xi_kemh1dd_c106_gen001",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Which principle in counting techniques allows us to find the total number of outcomes by multiplying the number of choices for each independent event?",
@@ -619,7 +644,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen002"
+    "question_id": "cbse_xi_kemh1dd_c106_gen002",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "For arranging r objects from n distinct objects without repetition in a specific order, which formula correctly calculates the number of arrangements?",
@@ -638,7 +664,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen003"
+    "question_id": "cbse_xi_kemh1dd_c106_gen003",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Define permutation in the context of counting techniques and provide an example involving 3 objects arranged from a set of 5.",
@@ -652,7 +679,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen004"
+    "question_id": "cbse_xi_kemh1dd_c106_gen004",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Explain the fundamental counting principle and illustrate how it is applied to determine the number of outcomes when rolling two dice.",
@@ -666,7 +694,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen005"
+    "question_id": "cbse_xi_kemh1dd_c106_gen005",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "In the context of arranging digits on a number lock, explain what is meant by 'without repetition' and why this requirement is important.",
@@ -680,7 +709,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen006"
+    "question_id": "cbse_xi_kemh1dd_c106_gen006",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Derive the formula for permutations nPr = n!/(n - r)! using first principles, starting with the counting principle and factorial definitions.",
@@ -694,7 +724,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen007"
+    "question_id": "cbse_xi_kemh1dd_c106_gen007",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Discuss how combinatorial techniques, such as those used to determine the number of sequences for a number lock, can be applied to solve real-life problems efficiently. Provide a detailed explanation using the suitcase number lock example.",
@@ -708,7 +739,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen008"
+    "question_id": "cbse_xi_kemh1dd_c106_gen008",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A safe has a 5-digit code where the first digit is fixed as 7 and the remaining four digits must be chosen without repetition from the remaining 9 digits. Calculate the number of possible codes.",
@@ -722,7 +754,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen009"
+    "question_id": "cbse_xi_kemh1dd_c106_gen009",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "If repetition is allowed, how many ways can you arrange 4 digits selected from 10 possible digits (0–9)?",
@@ -736,7 +769,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen010"
+    "question_id": "cbse_xi_kemh1dd_c106_gen010",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A lock has 6 wheels, and each wheel displays a unique digit chosen from 0–9 without repetition. If the digits must be arranged in strictly increasing order, determine the total number of possible sequences.",
@@ -750,7 +784,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen011"
+    "question_id": "cbse_xi_kemh1dd_c106_gen011",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "For the ellipse defined by (x²/25) + (y²/9) = 1 (i.e., a = 5 and b = 3), determine the coordinates of the endpoints of its major and minor axes.",
@@ -764,7 +799,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen012"
+    "question_id": "cbse_xi_kemh1dd_c106_gen012",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Find the number of 4-digit sequences (numbers) that can be formed using the digits 0–9, with no repetition and the condition that the first digit cannot be 0.",
@@ -778,7 +814,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen013"
+    "question_id": "cbse_xi_kemh1dd_c106_gen013",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4 and 5 assuming that (i) repetition of the digits is allowed and (ii) repetition of the digits is not allowed?",
@@ -992,7 +1029,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen014"
+    "question_id": "cbse_xi_kemh1dd_c106_gen014",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "In the problem where Mohan has 3 pants and 2 shirts, how many different pairs of a pant and a shirt can he form?",
@@ -1011,7 +1049,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen015"
+    "question_id": "cbse_xi_kemh1dd_c106_gen015",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Sabnam has 2 school bags, 3 tiffin boxes, and 2 water bottles. How many different ways can she carry these items (choosing one from each group)?",
@@ -1030,7 +1069,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen016"
+    "question_id": "cbse_xi_kemh1dd_c106_gen016",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "When forming 4-letter words from the letters of 'ROSE' without repetition, what is the number of possible arrangements?",
@@ -1049,7 +1089,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen017"
+    "question_id": "cbse_xi_kemh1dd_c106_gen017",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Define the Fundamental Principle of Counting.",
@@ -1063,7 +1104,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen018"
+    "question_id": "cbse_xi_kemh1dd_c106_gen018",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Explain briefly how a tree diagram is useful in solving counting problems.",
@@ -1077,7 +1119,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen019"
+    "question_id": "cbse_xi_kemh1dd_c106_gen019",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "For Mohan’s wardrobe problem, write the multiplication expression used to compute the number of ways he can choose a pant and a shirt, and evaluate it.",
@@ -1091,7 +1134,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen020"
+    "question_id": "cbse_xi_kemh1dd_c106_gen020",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Using the Fundamental Principle of Counting, derive the general formula for the number of outcomes when three independent events occur in succession with m, n, and p possible outcomes respectively. Provide a clear explanation.",
@@ -1105,7 +1149,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen021"
+    "question_id": "cbse_xi_kemh1dd_c106_gen021",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Suppose you have the letters R, O, S, and E. Explain, with proof, why the number of 4-letter arrangements without repetition is 24 and how this result changes if repetition is allowed.",
@@ -1119,7 +1164,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen022"
+    "question_id": "cbse_xi_kemh1dd_c106_gen022",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "How many 2-digit even numbers can be formed using the digits 1, 2, 3, 4, 5 if repetition of digits is allowed?",
@@ -1133,7 +1179,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen023"
+    "question_id": "cbse_xi_kemh1dd_c106_gen023",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Mohan has 4 pants, 3 shirts, and 2 jackets. How many different outfit combinations can he form by choosing one of each?",
@@ -1147,7 +1194,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen024"
+    "question_id": "cbse_xi_kemh1dd_c106_gen024",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "How many different 3-letter words (with or without meaning) can be formed using the letters A, B, C, D, and E if no letter is repeated?",
@@ -1161,7 +1209,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen025"
+    "question_id": "cbse_xi_kemh1dd_c106_gen025",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Sabnam now has 3 school bags, 4 tiffin boxes, and 2 water bottles. Calculate the total number of different ways she can choose one item from each group. Justify your answer using the Fundamental Principle of Counting.",
@@ -1175,7 +1224,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen026"
+    "question_id": "cbse_xi_kemh1dd_c106_gen026",
+    "section_name": "6.2 Fundamental Principle of Counting"
   },
   {
     "question_text": "Using five flags of different colors, determine the number of signals that can be formed by arranging either 2, 3, 4, or all 5 flags vertically (order matters and no repetition is allowed). Provide a detailed calculation.",
@@ -1189,6 +1239,7 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "03_section_6_2",
-    "question_id": "cbse_xi_kemh1dd_c106_gen027"
+    "question_id": "cbse_xi_kemh1dd_c106_gen027",
+    "section_name": "6.2 Fundamental Principle of Counting"
   }
 ]

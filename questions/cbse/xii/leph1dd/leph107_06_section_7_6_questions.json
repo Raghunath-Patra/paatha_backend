@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen092"
+    "question_id": "cbse_xii_leph1dd_c107_gen092",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "In a series LCR circuit at resonance, which condition is satisfied?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen093"
+    "question_id": "cbse_xii_leph1dd_c107_gen093",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Which voltage in a series LCR circuit is in phase with the circuit current?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen094"
+    "question_id": "cbse_xii_leph1dd_c107_gen094",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "What does the phase angle φ represent in an LCR circuit?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen095"
+    "question_id": "cbse_xii_leph1dd_c107_gen095",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Which phenomenon is utilized in radio tuning by adjusting a circuit's resonant frequency?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen096"
+    "question_id": "cbse_xii_leph1dd_c107_gen096",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Describe the physical significance of the phase angle φ in a series LCR circuit and what information it provides about the circuit's behavior.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen097"
+    "question_id": "cbse_xii_leph1dd_c107_gen097",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Define the term 'resonant frequency' in the context of a series LCR circuit and provide its expression in terms of L and C.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen098"
+    "question_id": "cbse_xii_leph1dd_c107_gen098",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Explain how phasor diagrams assist in the analysis of an AC LCR circuit.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen099"
+    "question_id": "cbse_xii_leph1dd_c107_gen099",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "What happens to the current amplitude in a series LCR circuit when the circuit is driven at its resonant frequency?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen100"
+    "question_id": "cbse_xii_leph1dd_c107_gen100",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Using phasors, derive an expression for the current amplitude Im in a series LCR circuit powered by an AC source Vm sin(ωt).",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen101"
+    "question_id": "cbse_xii_leph1dd_c107_gen101",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Discuss the differences between the transient and steady-state solutions in an AC LCR circuit and explain why the transient solution is often ignored after a long time.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen102"
+    "question_id": "cbse_xii_leph1dd_c107_gen102",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "True or False: A series RC circuit can exhibit resonance similar to a series LCR circuit.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen103"
+    "question_id": "cbse_xii_leph1dd_c107_gen103",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "True or False: At the resonant frequency of a series LCR circuit, the voltages across the inductor and capacitor cancel each other, allowing the source voltage to appear entirely across the resistor.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen104"
+    "question_id": "cbse_xii_leph1dd_c107_gen104",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "A series circuit contains a resistor of 200 Ω and a capacitor of 15.0 μF connected to a 220 V, 50 Hz AC source. Calculate the impedance of the circuit and the resulting current amplitude. Show all your work.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen105"
+    "question_id": "cbse_xii_leph1dd_c107_gen105",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "In a series LCR circuit with R = 100 Ω, L = 1.00 mH, and C = 1.00 nF, determine the resonant angular frequency and the maximum current amplitude if the source voltage amplitude is 100 V.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen106"
+    "question_id": "cbse_xii_leph1dd_c107_gen106",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "A series LCR circuit has a resistor of 50 Ω, an inductor with inductive reactance Xl = 80 Ω, and a capacitor with capacitive reactance Xc = 120 Ω. Calculate the phase angle φ between the current and the source voltage using the formula tan φ = (Xc - Xl) / R.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen107"
+    "question_id": "cbse_xii_leph1dd_c107_gen107",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "A series LCR circuit operating at a frequency of 10 kHz has a resistor of 75 Ω, an inductor of 2.0 mH, and a capacitor of unknown value such that the phase angle φ is 0°. Determine the value of the capacitor required for resonance.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen108"
+    "question_id": "cbse_xii_leph1dd_c107_gen108",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "An AC source of amplitude 150 V is applied to a series LCR circuit that has an impedance of 250 Ω and a phase angle of 30°. Calculate the real power dissipated in the circuit.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen109"
+    "question_id": "cbse_xii_leph1dd_c107_gen109",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   }
 ]

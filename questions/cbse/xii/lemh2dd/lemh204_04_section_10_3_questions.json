@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen028"
+    "question_id": "cbse_xii_lemh2dd_c204_gen028",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "A vector with a magnitude equal to one unit is called:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen029"
+    "question_id": "cbse_xii_lemh2dd_c204_gen029",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "Two vectors that are parallel to the same line irrespective of their magnitudes are called:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen030"
+    "question_id": "cbse_xii_lemh2dd_c204_gen030",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "If vector AB is given, then the vector BA is considered the:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen031"
+    "question_id": "cbse_xii_lemh2dd_c204_gen031",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "Define coinitial vectors.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen032"
+    "question_id": "cbse_xii_lemh2dd_c204_gen032",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "What is a unit vector and how is it typically denoted?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen033"
+    "question_id": "cbse_xii_lemh2dd_c204_gen033",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "Define free vectors and explain their significance in vector operations.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen034"
+    "question_id": "cbse_xii_lemh2dd_c204_gen034",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "Under what conditions are two vectors considered equal?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen035"
+    "question_id": "cbse_xii_lemh2dd_c204_gen035",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "Prove that the negative of any vector has the same magnitude as the original vector, but opposite direction.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen036"
+    "question_id": "cbse_xii_lemh2dd_c204_gen036",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "A displacement vector OP has a magnitude of 40 km and is directed 30° west of south. Derive the east-west and north-south components of this vector.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen037"
+    "question_id": "cbse_xii_lemh2dd_c204_gen037",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "Given a vector a = (3, 4), find its corresponding unit vector.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen038"
+    "question_id": "cbse_xii_lemh2dd_c204_gen038",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "A vector b = (6, -8) is given. Calculate its negative vector and provide the resulting components.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen039"
+    "question_id": "cbse_xii_lemh2dd_c204_gen039",
+    "section_name": "10.3 Types of Vectors"
   },
   {
     "question_text": "Consider four vectors forming a closed loop in a square. If three of the vectors are given as a = (5, 0), b = (0, 5), and c = (−5, 0), determine the fourth vector d such that a + b + c + d = 0.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "04_section_10_3",
-    "question_id": "cbse_xii_lemh2dd_c204_gen040"
+    "question_id": "cbse_xii_lemh2dd_c204_gen040",
+    "section_name": "10.3 Types of Vectors"
   }
 ]

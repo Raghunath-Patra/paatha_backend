@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen019"
+    "question_id": "cbse_xi_keph1dd_c103_gen019",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Which operation is NOT typically defined for vectors according to the section?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen020"
+    "question_id": "cbse_xi_keph1dd_c103_gen020",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Why are vectors essential when transitioning from one-dimensional to two- or three-dimensional motion analysis?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen021"
+    "question_id": "cbse_xi_keph1dd_c103_gen021",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Which type of motion discussed in the section involves constant acceleration and often leads to the study of projectile motion?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen022"
+    "question_id": "cbse_xi_keph1dd_c103_gen022",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Uniform circular motion is particularly significant in daily life situations. Which of the following options is most closely associated with uniform circular motion?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen023"
+    "question_id": "cbse_xi_keph1dd_c103_gen023",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Define the term 'vector' in the context of describing motion in two or three dimensions.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen024"
+    "question_id": "cbse_xi_keph1dd_c103_gen024",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Explain how to perform the addition of two vectors in a plane.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen025"
+    "question_id": "cbse_xi_keph1dd_c103_gen025",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "How can the equations for motion in a plane be extended to describe motion in three dimensions?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen026"
+    "question_id": "cbse_xi_keph1dd_c103_gen026",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the role of vectors in enabling a better understanding of displacement, velocity, and acceleration when analyzing planar motion.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen027"
+    "question_id": "cbse_xi_keph1dd_c103_gen027",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Describe in detail the phenomenon of projectile motion, including the assumptions made about the acceleration and the significance of its analysis in physics.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen028"
+    "question_id": "cbse_xi_keph1dd_c103_gen028",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: A vector is completely described by its magnitude alone.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen029"
+    "question_id": "cbse_xi_keph1dd_c103_gen029",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In one-dimensional motion, the sign (+ or -) is sufficient to indicate direction, but for motion in a plane, vectors are necessary.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen030"
+    "question_id": "cbse_xi_keph1dd_c103_gen030",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "A ball is thrown horizontally from a 20 m high platform. Ignoring air resistance and using g = 9.8 m/s^2, calculate the time it takes for the ball to hit the ground.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen031"
+    "question_id": "cbse_xi_keph1dd_c103_gen031",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Two displacement vectors in a plane are given by A = (3 m, 4 m) and B = (5 m, -2 m). Calculate the resultant vector using vector addition.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen032"
+    "question_id": "cbse_xi_keph1dd_c103_gen032",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "An object undergoes uniform circular motion with a radius of 2 m and a constant speed of 4 m/s. Calculate the centripetal acceleration of the object.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen033"
+    "question_id": "cbse_xi_keph1dd_c103_gen033",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "A projectile is launched with an initial velocity that makes an angle of 30° with the horizontal. If its initial speed is 10 m/s, determine the velocity components in the horizontal and vertical directions.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_keph1dd_c103_gen034"
+    "question_id": "cbse_xi_keph1dd_c103_gen034",
+    "section_name": "3.1 INTRODUCTION"
   }
 ]

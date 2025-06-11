@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen070"
+    "question_id": "cbse_xii_lemh2dd_c204_gen070",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "If two nonzero vectors a and b satisfy a · b = 0, then which of the following statements is true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen071"
+    "question_id": "cbse_xii_lemh2dd_c204_gen071",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Which property of the scalar product is correctly stated below?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen072"
+    "question_id": "cbse_xii_lemh2dd_c204_gen072",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "The projection of a vector a on a line l (with unit vector direction p̂) is given by:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen073"
+    "question_id": "cbse_xii_lemh2dd_c204_gen073",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Define the scalar (dot) product of two vectors. Include in your answer the formula and any necessary conditions regarding the angle between the vectors.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen074"
+    "question_id": "cbse_xii_lemh2dd_c204_gen074",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "State the necessary and sufficient condition for two nonzero vectors a and b to be perpendicular using the scalar product.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen075"
+    "question_id": "cbse_xii_lemh2dd_c204_gen075",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Explain how the direction cosines of a vector a = a₁i + a₂j + a₃k are determined from its components.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen076"
+    "question_id": "cbse_xii_lemh2dd_c204_gen076",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Discuss how the projection vector of a vector a on a line l changes when the angle between a and l is 0 or π.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen077"
+    "question_id": "cbse_xii_lemh2dd_c204_gen077",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Prove that the scalar product is commutative, i.e., a · b = b · a, using the definition of dot product and properties of the cosine function.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen078"
+    "question_id": "cbse_xii_lemh2dd_c204_gen078",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Using the properties of the dot product, derive the triangle inequality |a + b| ≤ |a| + |b|. Provide a step-by-step explanation of your derivation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen079"
+    "question_id": "cbse_xii_lemh2dd_c204_gen079",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Given vectors a = 2i + 3j − k and b = i − 2j + 4k, calculate their dot product and use it to find the angle between them.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen080"
+    "question_id": "cbse_xii_lemh2dd_c204_gen080",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Find the projection of the vector a = 3i − j + 2k onto the vector b = i + 2j − 2k.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen081"
+    "question_id": "cbse_xii_lemh2dd_c204_gen081",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Given |a| = 2, |b| = 3 and a · b = 4, compute |a - b|.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen082"
+    "question_id": "cbse_xii_lemh2dd_c204_gen082",
+    "section_name": "10.6 Product of Two Vectors"
   },
   {
     "question_text": "Show that the points A(-2, 3, 5), B(1, 2, 3), and C(7, 0, -1) are collinear using the concept of vector addition.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "08_section_10_6",
-    "question_id": "cbse_xii_lemh2dd_c204_gen083"
+    "question_id": "cbse_xii_lemh2dd_c204_gen083",
+    "section_name": "10.6 Product of Two Vectors"
   }
 ]

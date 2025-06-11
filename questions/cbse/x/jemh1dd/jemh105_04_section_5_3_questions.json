@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen028"
+    "question_id": "cbse_x_jemh1dd_c105_gen028",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "In an arithmetic progression with first term 4 and common difference 3, which of the following is the 8th term?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen029"
+    "question_id": "cbse_x_jemh1dd_c105_gen029",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "Consider the sequence 15, 10, 5, ... Which is the common difference (d) of this AP?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen030"
+    "question_id": "cbse_x_jemh1dd_c105_gen030",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "If the 11th term of an AP is 65, given that the first term is 5 and the common difference is 6, which of the following values of n is correct?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen031"
+    "question_id": "cbse_x_jemh1dd_c105_gen031",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "Define an arithmetic progression (AP) and state its nth term formula.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen032"
+    "question_id": "cbse_x_jemh1dd_c105_gen032",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "Explain why the sequence 8000, 8500, 9000, 9500, ... forms an arithmetic progression.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen033"
+    "question_id": "cbse_x_jemh1dd_c105_gen033",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "Write an expression for the nth term of an AP whose first term is 'a' and common difference is 'd'. Then, provide the formula for the 5th term in terms of a and d.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen034"
+    "question_id": "cbse_x_jemh1dd_c105_gen034",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "How can you determine the number of terms in an arithmetic progression if the first term, the last term, and the common difference are known? State the relevant formula and briefly explain.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen035"
+    "question_id": "cbse_x_jemh1dd_c105_gen035",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "Prove that for any three numbers a, b, and c, they form an arithmetic progression if and only if 2b = a + c.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen036"
+    "question_id": "cbse_x_jemh1dd_c105_gen036",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "Derive the formula for the sum of the first n terms of an arithmetic progression.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen037"
+    "question_id": "cbse_x_jemh1dd_c105_gen037",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "Given that the 3rd term of an AP is 5 and the 7th term is 9, determine the first term and the common difference, and then list the first 6 terms of the AP.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen038"
+    "question_id": "cbse_x_jemh1dd_c105_gen038",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "Find the 10th term of the AP: 2, 7, 12, …",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen039"
+    "question_id": "cbse_x_jemh1dd_c105_gen039",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "For the arithmetic progression 21, 18, 15, …, determine which term is –81 and whether there exists any term equal to 0.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen040"
+    "question_id": "cbse_x_jemh1dd_c105_gen040",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "A flower bed has rows of rose plants such that the first row contains 23 plants, the second row 21 plants, the third row 19 plants, and so on until the last row has 5 plants. Find the number of rows in the flower bed.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen041"
+    "question_id": "cbse_x_jemh1dd_c105_gen041",
+    "section_name": "5.3 nth Term of an AP"
   },
   {
     "question_text": "How many two-digit numbers are divisible by 3? Represent these numbers as an arithmetic progression and determine the number of terms.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_x_jemh1dd_c105_gen042"
+    "question_id": "cbse_x_jemh1dd_c105_gen042",
+    "section_name": "5.3 nth Term of an AP"
   }
 ]

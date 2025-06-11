@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen001"
+    "question_id": "cbse_xii_lemh1dd_c105_gen001",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Which of the following is the derivative of ln(x)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen002"
+    "question_id": "cbse_xii_lemh1dd_c105_gen002",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "In differential calculus, which theorem relates the derivative of a function to its slope at a point?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen003"
+    "question_id": "cbse_xii_lemh1dd_c105_gen003",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Sir Isaac Newton is celebrated in the realm of mathematics for his contributions to which of the following fields?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen004"
+    "question_id": "cbse_xii_lemh1dd_c105_gen004",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Define continuity of a function at a point.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen005"
+    "question_id": "cbse_xii_lemh1dd_c105_gen005",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Explain the concept of differentiability and its relation to continuity.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen006"
+    "question_id": "cbse_xii_lemh1dd_c105_gen006",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "State the Fundamental Theorem of Calculus that links differentiation with integration.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen007"
+    "question_id": "cbse_xii_lemh1dd_c105_gen007",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "What is an inverse trigonometric function? Provide an example including its domain and range.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen008"
+    "question_id": "cbse_xii_lemh1dd_c105_gen008",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Prove that if a function is differentiable at a point, then it is continuous at that point.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen009"
+    "question_id": "cbse_xii_lemh1dd_c105_gen009",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Derive the differentiation formula for the exponential function f(x) = eˣ and explain why this derivative is unique among functions.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen010"
+    "question_id": "cbse_xii_lemh1dd_c105_gen010",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Differentiate f(x) = x³.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen011"
+    "question_id": "cbse_xii_lemh1dd_c105_gen011",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Differentiate f(x) = sin²(x) using the chain rule.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen012"
+    "question_id": "cbse_xii_lemh1dd_c105_gen012",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Find the derivative of f(x) = arcsin(x).",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen013"
+    "question_id": "cbse_xii_lemh1dd_c105_gen013",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Differentiate f(x) = ln(e^(2x) + 1).",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lemh1dd_c105_gen014"
+    "question_id": "cbse_xii_lemh1dd_c105_gen014",
+    "section_name": "5.1 Introduction"
   }
 ]

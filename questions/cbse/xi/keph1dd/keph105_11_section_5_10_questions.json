@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen349"
+    "question_id": "cbse_xi_keph1dd_c105_gen349",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which of the following is the SI unit for power?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen350"
+    "question_id": "cbse_xi_keph1dd_c105_gen350",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which of the following equations correctly represents instantaneous power?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen351"
+    "question_id": "cbse_xi_keph1dd_c105_gen351",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "The frictional force opposing an elevator's motion is given as 4000 N. Which of the following correctly describes the equation used to calculate the power delivered by the motor when the elevator is moving upward with a constant speed?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen352"
+    "question_id": "cbse_xi_keph1dd_c105_gen352",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which unit is still commonly used to describe engine outputs and is equivalent to 746 watts?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen353"
+    "question_id": "cbse_xi_keph1dd_c105_gen353",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Define instantaneous power and explain its relationship with force and velocity.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen354"
+    "question_id": "cbse_xi_keph1dd_c105_gen354",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "What is horsepower and how does it convert to watts?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen355"
+    "question_id": "cbse_xi_keph1dd_c105_gen355",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Explain why the kilowatt-hour is considered a unit of energy rather than a unit of power, and show its conversion to joules.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen356"
+    "question_id": "cbse_xi_keph1dd_c105_gen356",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Describe in detail the process of calculating the power delivered by a motor driving an elevator upward. Include in your answer how both gravitational and frictional forces are taken into account.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen357"
+    "question_id": "cbse_xi_keph1dd_c105_gen357",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Discuss the significance of power ratings in everyday appliances and explain how these ratings affect energy consumption and efficiency. Provide examples such as electrical bulbs and refrigerators.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen358"
+    "question_id": "cbse_xi_keph1dd_c105_gen358",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Power is a vector quantity. True or False?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen359"
+    "question_id": "cbse_xi_keph1dd_c105_gen359",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Instantaneous power can be calculated by multiplying the instantaneous force by the instantaneous velocity (taking only the component in the direction of the force). True or False?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen360"
+    "question_id": "cbse_xi_keph1dd_c105_gen360",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A kilowatt-hour is a unit of power. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen361"
+    "question_id": "cbse_xi_keph1dd_c105_gen361",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "An elevator has a maximum load mass of 1500 kg and moves upward at a constant speed of 3 m/s. If the frictional force opposing the motion is 3500 N and gravitational acceleration is 10 m/s², calculate the required power in watts and then convert it to horsepower (1 hp = 746 W).",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen362"
+    "question_id": "cbse_xi_keph1dd_c105_gen362",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A machine performs 720000 Joules of work in 240 seconds. What is its average power in watts?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen363"
+    "question_id": "cbse_xi_keph1dd_c105_gen363",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A 120 W light bulb is used for 15 hours. Calculate the energy consumed in kilowatt-hours and then convert this energy to joules.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen364"
+    "question_id": "cbse_xi_keph1dd_c105_gen364",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A motor delivers a constant power of 50000 W to an elevator for 30 seconds. Calculate the work done in joules and the distance traveled by the elevator if it moves at a constant speed of 2 m/s.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen365"
+    "question_id": "cbse_xi_keph1dd_c105_gen365",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "If a motor outputs a power calculated by the equation P = F × v and it delivers 44000 W while moving an elevator upward at 2 m/s, determine the total force that the motor must overcome.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen366"
+    "question_id": "cbse_xi_keph1dd_c105_gen366",
+    "section_name": "5.10 POWER"
   }
 ]

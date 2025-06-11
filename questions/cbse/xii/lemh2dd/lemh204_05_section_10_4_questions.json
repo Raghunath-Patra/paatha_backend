@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen041"
+    "question_id": "cbse_xii_lemh2dd_c204_gen041",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "Identify the correct statement of the parallelogram law of vector addition.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen042"
+    "question_id": "cbse_xii_lemh2dd_c204_gen042",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "Which property of vector addition is illustrated by the equation: a + b = b + a ?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen043"
+    "question_id": "cbse_xii_lemh2dd_c204_gen043",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "In vector addition, what is the role of the zero vector?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen044"
+    "question_id": "cbse_xii_lemh2dd_c204_gen044",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "Define vector addition using the triangle law and give a real-life example to illustrate it.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen045"
+    "question_id": "cbse_xii_lemh2dd_c204_gen045",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "Explain what is meant by the difference of two vectors (a - b) using the concept of vector addition.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen046"
+    "question_id": "cbse_xii_lemh2dd_c204_gen046",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "State and explain the associative property of vector addition using a diagram of connected vectors.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen047"
+    "question_id": "cbse_xii_lemh2dd_c204_gen047",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "Prove the commutative property of vector addition using the diagram of a parallelogram as illustrated in Fig 10.10.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen048"
+    "question_id": "cbse_xii_lemh2dd_c204_gen048",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "Using the triangle law, derive the expression for vector subtraction a - b and explain each step in your derivation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen049"
+    "question_id": "cbse_xii_lemh2dd_c204_gen049",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "Given two vectors a = (3, 4) and b = (1, 2), compute a + b using vector addition and show your working.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen050"
+    "question_id": "cbse_xii_lemh2dd_c204_gen050",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "A boat moves in a river where the boat's engine provides a velocity of 5 m/s due north, and the river flows at 3 m/s due east. Determine the resultant velocity (magnitude and direction) of the boat.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen051"
+    "question_id": "cbse_xii_lemh2dd_c204_gen051",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "If vector a = (7, -2) and vector b = (4, 6), calculate the difference a - b and provide a step-by-step explanation.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen052"
+    "question_id": "cbse_xii_lemh2dd_c204_gen052",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "Using the parallelogram law, find the magnitude and direction of the resultant vector when vectors a and b have magnitudes 8 and 6 respectively and form an angle of 60° between them.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen053"
+    "question_id": "cbse_xii_lemh2dd_c204_gen053",
+    "section_name": "10.4 Addition of Vectors"
   },
   {
     "question_text": "A vector has a magnitude of 10 units and is directed along a certain line. Construct a vector with the same magnitude but in the opposite direction. Describe your construction method and explain why the resultant sum of the original and the constructed vectors equals the zero vector.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "05_section_10_4",
-    "question_id": "cbse_xii_lemh2dd_c204_gen054"
+    "question_id": "cbse_xii_lemh2dd_c204_gen054",
+    "section_name": "10.4 Addition of Vectors"
   }
 ]

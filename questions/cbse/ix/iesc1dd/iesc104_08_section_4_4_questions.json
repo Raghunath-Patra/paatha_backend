@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen029"
+    "question_id": "cbse_ix_iesc1dd_c104_gen029",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "MCQ: Given an element with an electron configuration ending in ...2, 8, 1, what is its valency?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen030"
+    "question_id": "cbse_ix_iesc1dd_c104_gen030",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "MCQ: What is the valency of oxygen, and how is it determined from its electron configuration?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen031"
+    "question_id": "cbse_ix_iesc1dd_c104_gen031",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "MCQ: To achieve a stable electron configuration, atoms may lose, gain, or share electrons. Which of the following statements is correct?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen032"
+    "question_id": "cbse_ix_iesc1dd_c104_gen032",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "Short Answer: Define 'valence electrons'.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen033"
+    "question_id": "cbse_ix_iesc1dd_c104_gen033",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "Short Answer: Explain the concept of an 'octet' in the context of atomic structure.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen034"
+    "question_id": "cbse_ix_iesc1dd_c104_gen034",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "Short Answer: How does magnesium (Mg) achieve a stable electron configuration?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen035"
+    "question_id": "cbse_ix_iesc1dd_c104_gen035",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "Short Answer: Describe how the valency of elements that have nearly complete outer shells is determined.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen036"
+    "question_id": "cbse_ix_iesc1dd_c104_gen036",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "Long Answer: Discuss the electron arrangement in the first 18 elements and explain how their electron distributions determine their chemical reactivity and combining capacities (valencies). Include examples from the provided table.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen037"
+    "question_id": "cbse_ix_iesc1dd_c104_gen037",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "Long Answer: Explain, with appropriate examples and chemical equations, how atoms gain, lose, or share electrons in order to achieve a complete octet. Discuss both ionic and covalent bonding in your explanation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen038"
+    "question_id": "cbse_ix_iesc1dd_c104_gen038",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "Long Answer: Analyze the trend in valency among the first 18 elements as shown in the table. How does the electron configuration of an element determine whether it loses, gains, or shares electrons during chemical reactions?",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen039"
+    "question_id": "cbse_ix_iesc1dd_c104_gen039",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "True/False: Atoms with a full outer electron shell always have a valency of 0.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen040"
+    "question_id": "cbse_ix_iesc1dd_c104_gen040",
+    "section_name": "4.4 Valency"
   },
   {
     "question_text": "True/False: Fluorine has a valency of 7 because it has 7 electrons in its outermost shell.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "iesc104",
     "section_id": "08_section_4_4",
-    "question_id": "cbse_ix_iesc1dd_c104_gen041"
+    "question_id": "cbse_ix_iesc1dd_c104_gen041",
+    "section_name": "4.4 Valency"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen089"
+    "question_id": "cbse_xi_keph1dd_c102_gen089",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "The displacement of an object undergoing uniform acceleration can be determined from the area under its velocity-time curve. Which shapes make up this area?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen090"
+    "question_id": "cbse_xi_keph1dd_c102_gen090",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "Which of the following equations represents the relationship between the square of the velocity and displacement for an object under constant acceleration?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen091"
+    "question_id": "cbse_xi_keph1dd_c102_gen091",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "When the brakes are applied to a vehicle, its stopping distance reaches zero velocity. Which expression correctly gives the stopping distance in terms of initial velocity v₀ and deceleration a (note: a is negative in deceleration)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen092"
+    "question_id": "cbse_xi_keph1dd_c102_gen092",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "Which graph correctly represents the motion of an object in free fall (ignoring air resistance) in a velocity versus time diagram?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen093"
+    "question_id": "cbse_xi_keph1dd_c102_gen093",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "Explain what the equation v = v₀ + at represents in the context of uniformly accelerated motion.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen094"
+    "question_id": "cbse_xi_keph1dd_c102_gen094",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "Derive the expression for displacement x = v₀t + (1/2)at² using the area under the velocity-time graph.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen095"
+    "question_id": "cbse_xi_keph1dd_c102_gen095",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "State Galileo's law of odd numbers as it applies to free fall, and explain its significance.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen096"
+    "question_id": "cbse_xi_keph1dd_c102_gen096",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "For an object in free fall starting from rest, write the formula for displacement y as a function of time t.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen097"
+    "question_id": "cbse_xi_keph1dd_c102_gen097",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "Derive the kinematic equation x = v₀t + (1/2)at² using calculus methods starting from the definition of acceleration.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen098"
+    "question_id": "cbse_xi_keph1dd_c102_gen098",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "Discuss why the stopping distance of a vehicle is proportional to the square of its initial velocity and derive the expression for stopping distance.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen099"
+    "question_id": "cbse_xi_keph1dd_c102_gen099",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "True or False: Under constant acceleration, the average velocity of an object is given by the arithmetic mean (v + v₀)/2.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen100"
+    "question_id": "cbse_xi_keph1dd_c102_gen100",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "True or False: In free fall, when air resistance is neglected, the acceleration due to gravity is variable.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen101"
+    "question_id": "cbse_xi_keph1dd_c102_gen101",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "A car starts from rest and accelerates uniformly to reach a velocity of 30 m/s in 5 seconds. Calculate the displacement covered by the car during these 5 seconds.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen102"
+    "question_id": "cbse_xi_keph1dd_c102_gen102",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "A ball is thrown vertically upward with an initial velocity of 20 m/s. Assuming g = 10 m/s², calculate the maximum height reached by the ball.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen103"
+    "question_id": "cbse_xi_keph1dd_c102_gen103",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "A vehicle traveling at 25 m/s decelerates uniformly at -5 m/s² after the brakes are applied. Determine the stopping distance.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen104"
+    "question_id": "cbse_xi_keph1dd_c102_gen104",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   },
   {
     "question_text": "In a reaction time experiment using a ruler, if the ruler falls 0.25 m before being caught, estimate the reaction time. Use g = 9.8 m/s².",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "04_section_2_4",
-    "question_id": "cbse_xi_keph1dd_c102_gen105"
+    "question_id": "cbse_xi_keph1dd_c102_gen105",
+    "section_name": "2.4 KINEMATIC E**Q**UATIONS FOR UNIFORMLY ACCELERATED MOTION"
   }
 ]

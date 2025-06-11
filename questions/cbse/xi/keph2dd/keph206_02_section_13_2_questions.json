@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen017"
+    "question_id": "cbse_xi_keph2dd_c206_gen017",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "What is the period T of a cosine function f(t) = A cos(ωt)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen018"
+    "question_id": "cbse_xi_keph2dd_c206_gen018",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "In the equation h = ut + (1/2)gt² used for downward motion, what does the symbol u represent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen019"
+    "question_id": "cbse_xi_keph2dd_c206_gen019",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Simple harmonic motion (SHM) is characterized by a restoring force that is directly proportional to which of the following?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen020"
+    "question_id": "cbse_xi_keph2dd_c206_gen020",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Which of the following functions is not periodic based on the discussion in the section?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen021"
+    "question_id": "cbse_xi_keph2dd_c206_gen021",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Define periodic motion and provide one example of such a motion.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen022"
+    "question_id": "cbse_xi_keph2dd_c206_gen022",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Explain the difference between oscillatory motion and periodic motion.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen023"
+    "question_id": "cbse_xi_keph2dd_c206_gen023",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "How is frequency related to the period? Provide the equation and a brief explanation.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen024"
+    "question_id": "cbse_xi_keph2dd_c206_gen024",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Discuss the significance of Fourier series in the analysis of periodic functions.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen025"
+    "question_id": "cbse_xi_keph2dd_c206_gen025",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Describe simple harmonic motion (SHM) including the condition on the restoring force and provide a real-world example.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen026"
+    "question_id": "cbse_xi_keph2dd_c206_gen026",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Analyze the displacement function f(t) = A sin(ωt) + B cos(ωt) and show how it can be rewritten in the form f(t) = D sin(ωt + φ). Provide the expressions for D and φ in terms of A and B.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen027"
+    "question_id": "cbse_xi_keph2dd_c206_gen027",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Evaluate the effects of damping on oscillatory systems and suggest methods by which sustained oscillations can be achieved despite damping.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen028"
+    "question_id": "cbse_xi_keph2dd_c206_gen028",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: Every periodic motion is necessarily oscillatory.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen029"
+    "question_id": "cbse_xi_keph2dd_c206_gen029",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: In most experiments, the displacement variable for an oscillating system is measured from its equilibrium position.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen030"
+    "question_id": "cbse_xi_keph2dd_c206_gen030",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: Functions such as e^(-ωt) and log(ωt) can be used to describe physical displacements in periodic motions.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen031"
+    "question_id": "cbse_xi_keph2dd_c206_gen031",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "A quartz crystal in a timekeeping device vibrates with a period of 20 microseconds. Calculate its frequency in hertz (Hz).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen032"
+    "question_id": "cbse_xi_keph2dd_c206_gen032",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "A human heart beats 75 times in one minute. Determine the beat frequency in hertz and the period (time interval between successive beats).",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen033"
+    "question_id": "cbse_xi_keph2dd_c206_gen033",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "For a periodic function given by f(t) = A cos(ωt), if the function repeats every 0.5 seconds, calculate the angular frequency ω.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen034"
+    "question_id": "cbse_xi_keph2dd_c206_gen034",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "A system undergoing damped oscillations has its displacement described by f(t) = e^(-0.5t) sin(3t). Determine whether the underlying sinusoidal function is periodic and, if so, what its period is when ignoring the damping factor. Also, comment on the effect of the damping term.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen035"
+    "question_id": "cbse_xi_keph2dd_c206_gen035",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   }
 ]

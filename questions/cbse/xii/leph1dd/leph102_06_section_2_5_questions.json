@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen075"
+    "question_id": "cbse_xii_leph1dd_c102_gen075",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "The principle used to calculate the total potential at a point due to multiple charges is known as:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen076"
+    "question_id": "cbse_xii_leph1dd_c102_gen076",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "For a uniformly charged spherical shell, what is the potential inside the shell?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen077"
+    "question_id": "cbse_xii_leph1dd_c102_gen077",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Which of the following statements is correct regarding equipotential surfaces around a positive point charge?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen078"
+    "question_id": "cbse_xii_leph1dd_c102_gen078",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Define the electric potential due to a continuous charge distribution. Explain briefly.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen079"
+    "question_id": "cbse_xii_leph1dd_c102_gen079",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Explain the significance of choosing infinity as the reference point for electric potential.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen080"
+    "question_id": "cbse_xii_leph1dd_c102_gen080",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Why is the potential constant inside a uniformly charged spherical shell?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen081"
+    "question_id": "cbse_xii_leph1dd_c102_gen081",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Derive the expression for the net electric potential at a point P due to n point charges and explain how the superposition principle applies in this context.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen082"
+    "question_id": "cbse_xii_leph1dd_c102_gen082",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Discuss how the concept of potential difference influences the work done by the electric field on positive and negative charges. Include examples to support your explanation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen083"
+    "question_id": "cbse_xii_leph1dd_c102_gen083",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "True or False: The electric potential is a scalar quantity.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen084"
+    "question_id": "cbse_xii_leph1dd_c102_gen084",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "True or False: Inside a uniformly charged spherical shell, even though the electric field is zero, the electric potential varies with position.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen085"
+    "question_id": "cbse_xii_leph1dd_c102_gen085",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Two charges, 3 x 10⁻⁸ C and -2 x 10⁻⁸ C, are located 15 cm apart along the x-axis. Find the point(s) where the electric potential is zero, taking infinity as the reference potential.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen086"
+    "question_id": "cbse_xii_leph1dd_c102_gen086",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Calculate the potential at a point 25 cm from the center of a uniformly charged spherical shell of radius 10 cm carrying a total charge of 5 x 10⁻⁸ C. Assume the point is outside the shell.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen087"
+    "question_id": "cbse_xii_leph1dd_c102_gen087",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "For a continuous charge distribution with constant density 2 x 10⁻⁶ C/m³ in a volume of 0.01 m³, calculate the potential at a point P located 0.5 m away from the center of the volume, assuming the entire charge can be approximated as concentrated at the center.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen088"
+    "question_id": "cbse_xii_leph1dd_c102_gen088",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "A positive test charge of 1 x 10⁻⁶ C is moved from a point at potential 50 V to a point at potential -20 V. Calculate the work done by the external force.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen089"
+    "question_id": "cbse_xii_leph1dd_c102_gen089",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "Calculate the potential difference between two points located at distances 0.2 m and 0.5 m from a point charge of 4 x 10⁻⁹ C.",
@@ -241,7 +256,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen090"
+    "question_id": "cbse_xii_leph1dd_c102_gen090",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   },
   {
     "question_text": "A small negative charge is moved from point B at potential -10 V to point A at potential -2 V. If an external agency does 1 x 10⁻⁶ J of work to move the charge, determine the magnitude of the charge.",
@@ -255,6 +271,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xii_leph1dd_c102_gen091"
+    "question_id": "cbse_xii_leph1dd_c102_gen091",
+    "section_name": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES"
   }
 ]

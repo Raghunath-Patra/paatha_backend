@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen001"
+    "question_id": "cbse_xii_lech1dd_c105_gen001",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "Which of the following complexes exhibits an octahedral geometry as per Werner's assignments?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen002"
+    "question_id": "cbse_xii_lech1dd_c105_gen002",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "In the complex ion [CoCl₂(NH₃)₄]⁺, how many groups are directly attached to the cobalt ion as part of its secondary valence?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen003"
+    "question_id": "cbse_xii_lech1dd_c105_gen003",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "In a series of cobalt chloride-ammonia complexes, the compounds with the formula CoCl₃.4NH₃ (green and violet) exhibit different properties despite having the same empirical formula. This phenomenon is an example of which concept?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen004"
+    "question_id": "cbse_xii_lech1dd_c105_gen004",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "A 1:2 electrolyte in Werner’s formulation corresponds to which of the following complex ions?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen005"
+    "question_id": "cbse_xii_lech1dd_c105_gen005",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "Define the terms 'primary valence' and 'secondary valence' as stated in Werner's theory.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen006"
+    "question_id": "cbse_xii_lech1dd_c105_gen006",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "Why does the complex ion [Fe(CN)₆]⁴⁻ not dissociate into Fe²⁺ and CN⁻ ions when dissolved in water?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen007"
+    "question_id": "cbse_xii_lech1dd_c105_gen007",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "List the common geometrical shapes of coordination compounds mentioned in Werner's theory.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen008"
+    "question_id": "cbse_xii_lech1dd_c105_gen008",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "Explain how conductivity measurements support Werner's theory of coordination compounds.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen009"
+    "question_id": "cbse_xii_lech1dd_c105_gen009",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "Discuss the significance of Werner's theory in understanding the structure of coordination compounds. In your answer, include how experimental evidence such as AgCl precipitation and conductivity measurements validates the theory.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen010"
+    "question_id": "cbse_xii_lech1dd_c105_gen010",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "Explain the concept of isomerism in coordination compounds with specific reference to the cobalt chloride-ammonia complexes. How can two compounds with the same empirical formula exhibit different physical and chemical properties?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen011"
+    "question_id": "cbse_xii_lech1dd_c105_gen011",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "True or False: In Werner's theory, the secondary valence is equal to the coordination number and is satisfied exclusively by neutral molecules.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen012"
+    "question_id": "cbse_xii_lech1dd_c105_gen012",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "True or False: Conductivity measurements in solutions of coordination compounds support Werner's theory by showing that only the groups outside the coordination sphere are ionisable.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen013"
+    "question_id": "cbse_xii_lech1dd_c105_gen013",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "Calculate the number of moles of AgCl precipitated when 0.5 mole of [Co(NH₃)₆]Cl₃ is treated with excess AgNO₃ solution.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen014"
+    "question_id": "cbse_xii_lech1dd_c105_gen014",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "A coordination compound is formulated as [CoCl(NH₃)₅]Cl₂, which produces 2 moles of AgCl per mole upon reaction with excess AgNO₃. Explain how this information verifies the compound's formulation.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen015"
+    "question_id": "cbse_xii_lech1dd_c105_gen015",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "For the complex [CoCl₂(NH₃)₄]Cl, 1 mole yields 1 mole of AgCl when reacted with AgNO₃. Calculate the mass of AgCl precipitated from 0.25 mole of this compound if the molar mass of AgCl is 143.32 g/mol.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen016"
+    "question_id": "cbse_xii_lech1dd_c105_gen016",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   },
   {
     "question_text": "Given that [PtCl₄]²⁻ produces 0 mole of AgCl when reacted with AgNO₃, compare its behavior with that of [Co(NH₃)₆]Cl₃ which produces 3 moles of AgCl. Explain numerically what this difference indicates about the coordination sphere in these complexes.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "lech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xii_lech1dd_c105_gen017"
+    "question_id": "cbse_xii_lech1dd_c105_gen017",
+    "section_name": "5.1 Werner's Theory of Coordination Compounds"
   }
 ]

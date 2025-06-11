@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen029"
+    "question_id": "cbse_ix_iemh1dd_c101_gen029",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Which one of the following fractions will yield a terminating decimal expansion?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen030"
+    "question_id": "cbse_ix_iemh1dd_c101_gen030",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "When converting a repeating decimal to a fraction using the algebraic method, which step is essential?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen031"
+    "question_id": "cbse_ix_iemh1dd_c101_gen031",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "In the process of using long division to express 1/7 as a decimal, what observation can be made about the remainders encountered?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen032"
+    "question_id": "cbse_ix_iemh1dd_c101_gen032",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Define a terminating decimal expansion and provide one example.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen033"
+    "question_id": "cbse_ix_iemh1dd_c101_gen033",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Explain why the decimal expansion of an irrational number must be non-terminating and non-recurring.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen034"
+    "question_id": "cbse_ix_iemh1dd_c101_gen034",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Express 3.142678 as a rational number in the form p/q.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen035"
+    "question_id": "cbse_ix_iemh1dd_c101_gen035",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Prove that every rational number (of the form p/q with q ≠ 0) has a decimal expansion that either terminates or repeats.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen036"
+    "question_id": "cbse_ix_iemh1dd_c101_gen036",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Given a repeating decimal 0.̅3, show its conversion to fraction form by introducing a variable x and performing the necessary algebraic manipulations.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen037"
+    "question_id": "cbse_ix_iemh1dd_c101_gen037",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Convert the repeating decimal 0.2353535… into a fraction in its lowest terms.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen038"
+    "question_id": "cbse_ix_iemh1dd_c101_gen038",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Convert 1.272727… into a fraction in its simplest form.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen039"
+    "question_id": "cbse_ix_iemh1dd_c101_gen039",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Express the repeating decimal 3.5̅7̅2̅ (i.e. 3.5727272…) as a fraction in simplest form.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen040"
+    "question_id": "cbse_ix_iemh1dd_c101_gen040",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   },
   {
     "question_text": "Find an explicit example of an irrational number between 1/7 and 2/7, and justify why the number you choose is irrational.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_ix_iemh1dd_c101_gen041"
+    "question_id": "cbse_ix_iemh1dd_c101_gen041",
+    "section_name": "1.3 Real Numbers and their Decimal Expansions"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen001"
+    "question_id": "cbse_x_jemh1dd_c101_gen001",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which theorem explains that every composite number can be expressed as a product of primes in a unique way?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen002"
+    "question_id": "cbse_x_jemh1dd_c101_gen002",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "A rational number p/q will have a terminating decimal expansion if and only if the prime factorization of the denominator (after simplification) contains which of the following primes exclusively?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen003"
+    "question_id": "cbse_x_jemh1dd_c101_gen003",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which of the following applications is NOT directly associated with the Fundamental Theorem of Arithmetic as discussed in the section?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen004"
+    "question_id": "cbse_x_jemh1dd_c101_gen004",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Define Euclid’s division algorithm in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen005"
+    "question_id": "cbse_x_jemh1dd_c101_gen005",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "State the Fundamental Theorem of Arithmetic.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen006"
+    "question_id": "cbse_x_jemh1dd_c101_gen006",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Describe the condition under which a rational number p/q will have a terminating decimal expansion based on the prime factorization of q.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen007"
+    "question_id": "cbse_x_jemh1dd_c101_gen007",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Explain how Euclid's division algorithm can be used to compute the Highest Common Factor (HCF) of two positive integers.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen008"
+    "question_id": "cbse_x_jemh1dd_c101_gen008",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Prove that the square root of 2 (√2) is irrational using the concept of unique prime factorization.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen009"
+    "question_id": "cbse_x_jemh1dd_c101_gen009",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Discuss the various applications of Euclid's division algorithm, including its role in computing the HCF of two numbers.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen010"
+    "question_id": "cbse_x_jemh1dd_c101_gen010",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Use Euclid’s division algorithm to find the remainder when 123 is divided by 7.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen011"
+    "question_id": "cbse_x_jemh1dd_c101_gen011",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Find the Highest Common Factor (HCF) of 56 and 98 using the Euclid's division algorithm.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen012"
+    "question_id": "cbse_x_jemh1dd_c101_gen012",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Express 180 as a product of its prime factors.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen013"
+    "question_id": "cbse_x_jemh1dd_c101_gen013",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Determine whether the decimal expansion of the rational number 7/28 is terminating or repeating. Justify your answer using prime factorization.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen014"
+    "question_id": "cbse_x_jemh1dd_c101_gen014",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Find the HCF of 144 and 60 using Euclid’s division algorithm.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen015"
+    "question_id": "cbse_x_jemh1dd_c101_gen015",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "A rational number is expressed as 17/250. Determine whether its decimal expansion terminates or repeats, and explain your reasoning using prime factorization.",
@@ -241,6 +256,7 @@
     "source": "generated",
     "chapter_id": "jemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_x_jemh1dd_c101_gen016"
+    "question_id": "cbse_x_jemh1dd_c101_gen016",
+    "section_name": "1.1 Introduction"
   }
 ]

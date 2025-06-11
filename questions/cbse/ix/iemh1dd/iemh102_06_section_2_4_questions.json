@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen044"
+    "question_id": "cbse_ix_iemh1dd_c102_gen044",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Which of the following is the correct deduction using the Remainder Theorem if p(x) = (x – a)q(x) + p(a)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen045"
+    "question_id": "cbse_ix_iemh1dd_c102_gen045",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "If x + 2 is a factor of the polynomial s(x), what should s(–2) equal?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen046"
+    "question_id": "cbse_ix_iemh1dd_c102_gen046",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Define the Factor Theorem and explain its two parts.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen047"
+    "question_id": "cbse_ix_iemh1dd_c102_gen047",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Briefly explain how the ‘splitting the middle term’ method works for factorising a quadratic polynomial of the form ax² + bx + c.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen048"
+    "question_id": "cbse_ix_iemh1dd_c102_gen048",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "What conditions must two numbers satisfy for the quadratic ax² + bx + c to be factorised using the splitting method?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen049"
+    "question_id": "cbse_ix_iemh1dd_c102_gen049",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Using the Factor Theorem, outline the process to determine an unknown constant in a polynomial when a given binomial is one of its factors.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen050"
+    "question_id": "cbse_ix_iemh1dd_c102_gen050",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Prove the Factor Theorem using the Remainder Theorem.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen051"
+    "question_id": "cbse_ix_iemh1dd_c102_gen051",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Factorise the polynomial x³ – 23x² + 142x – 120 completely by first identifying a factor using the Factor Theorem and then factorising the resulting quadratic.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen052"
+    "question_id": "cbse_ix_iemh1dd_c102_gen052",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Factorise the quadratic polynomial 6x² + 17x + 5 using the splitting the middle term method.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen053"
+    "question_id": "cbse_ix_iemh1dd_c102_gen053",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Factorise the quadratic polynomial y² – 5y + 6 using the Factor Theorem.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen054"
+    "question_id": "cbse_ix_iemh1dd_c102_gen054",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Determine the value of k such that x – 1 is a factor of the polynomial 4x³ + 3x² – 4x + k.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen055"
+    "question_id": "cbse_ix_iemh1dd_c102_gen055",
+    "section_name": "2.4 Factorisation of Polynomials"
   },
   {
     "question_text": "Factorise the cubic polynomial x³ – 6x² – 7x + 42 by first finding one rational root and then factorising the remaining quadratic.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "06_section_2_4",
-    "question_id": "cbse_ix_iemh1dd_c102_gen056"
+    "question_id": "cbse_ix_iemh1dd_c102_gen056",
+    "section_name": "2.4 Factorisation of Polynomials"
   }
 ]

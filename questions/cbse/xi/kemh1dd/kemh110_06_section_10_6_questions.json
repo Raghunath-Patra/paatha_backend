@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen045"
+    "question_id": "cbse_xi_kemh1dd_c110_gen045",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "For a hyperbola centered at the origin with the foci on the x-axis, which of the following is its standard equation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen046"
+    "question_id": "cbse_xi_kemh1dd_c110_gen046",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "What is the minimum possible value of the eccentricity (e) of a hyperbola?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen047"
+    "question_id": "cbse_xi_kemh1dd_c110_gen047",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "In a hyperbola with center at the origin and foci on the x-axis, the distance between the vertices is 2a. Which statement is true regarding this configuration?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen048"
+    "question_id": "cbse_xi_kemh1dd_c110_gen048",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Define the 'latus rectum' of a hyperbola.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen049"
+    "question_id": "cbse_xi_kemh1dd_c110_gen049",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Explain the term 'eccentricity' in the context of a hyperbola.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen050"
+    "question_id": "cbse_xi_kemh1dd_c110_gen050",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "State the significance of the foci in the geometry of a hyperbola.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen051"
+    "question_id": "cbse_xi_kemh1dd_c110_gen051",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Derive the standard equation of a hyperbola with center at the origin and foci on the x-axis starting from its definition.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen052"
+    "question_id": "cbse_xi_kemh1dd_c110_gen052",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Prove that for any point on a hyperbola, the absolute difference of the distances from the two foci is a constant equal to 2a.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen053"
+    "question_id": "cbse_xi_kemh1dd_c110_gen053",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Given the equation x²/9 – y²/16 = 1, find the coordinates of the foci, vertices, the eccentricity, and the length of the latus rectum.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen054"
+    "question_id": "cbse_xi_kemh1dd_c110_gen054",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "Find the equation of a hyperbola with vertices at (0, ±3) and foci at (0, ±5). Also, determine its eccentricity and the length of the latus rectum.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen055"
+    "question_id": "cbse_xi_kemh1dd_c110_gen055",
+    "section_name": "10.6 Hyperbola"
   },
   {
     "question_text": "A hyperbola has its foci located on the y-axis at (0, ±12) and a latus rectum of length 36. Find the exact equation of this hyperbola.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "kemh110",
     "section_id": "06_section_10_6",
-    "question_id": "cbse_xi_kemh1dd_c110_gen056"
+    "question_id": "cbse_xi_kemh1dd_c110_gen056",
+    "section_name": "10.6 Hyperbola"
   }
 ]

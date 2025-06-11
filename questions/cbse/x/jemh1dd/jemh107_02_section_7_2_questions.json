@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen016"
+    "question_id": "cbse_x_jemh1dd_c107_gen016",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "What is the distance between the points C(0, 3) and D(0, 8) on the y-axis?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen017"
+    "question_id": "cbse_x_jemh1dd_c107_gen017",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Which of the following equations represents the perpendicular bisector of the segment joining A(7, 1) and B(3, 5)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen018"
+    "question_id": "cbse_x_jemh1dd_c107_gen018",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Define the distance formula and explain its origin.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen019"
+    "question_id": "cbse_x_jemh1dd_c107_gen019",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Find the distance between the points A(4, 0) and B(6, 0) on the x-axis.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen020"
+    "question_id": "cbse_x_jemh1dd_c107_gen020",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Explain why, in using the distance formula, we always take the positive square root.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen021"
+    "question_id": "cbse_x_jemh1dd_c107_gen021",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Explain why any point that is equidistant from the points A(7, 1) and B(3, 5) must lie on the perpendicular bisector of the segment AB.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen022"
+    "question_id": "cbse_x_jemh1dd_c107_gen022",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Prove that the points P(3, 2), Q(–2, –3), and R(2, 3) form a right triangle.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen023"
+    "question_id": "cbse_x_jemh1dd_c107_gen023",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Derive the distance formula for two points P(x₁, y₁) and Q(x₂, y₂) starting from the Pythagorean theorem. Show all steps.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen024"
+    "question_id": "cbse_x_jemh1dd_c107_gen024",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Calculate the distance between the points P(4, 6) and Q(6, 8).",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen025"
+    "question_id": "cbse_x_jemh1dd_c107_gen025",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Find the point on the y-axis that is equidistant from A(6, 5) and B(–4, 3).",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen026"
+    "question_id": "cbse_x_jemh1dd_c107_gen026",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Determine the distance between the points P(6, 4) and Q(–5, –3). Explain each step.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen027"
+    "question_id": "cbse_x_jemh1dd_c107_gen027",
+    "section_name": "7.2 Distance Formula"
   },
   {
     "question_text": "Given the vertices A(1, 7), B(4, 2), C(–1, –1), and D(–4, 4), verify that they form a square using the distance formula. Show your work.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_x_jemh1dd_c107_gen028"
+    "question_id": "cbse_x_jemh1dd_c107_gen028",
+    "section_name": "7.2 Distance Formula"
   }
 ]

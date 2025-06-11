@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen146"
+    "question_id": "cbse_xi_keph1dd_c105_gen146",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "When a force F(x) is constant over a displacement, the work done can be calculated as:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen147"
+    "question_id": "cbse_xi_keph1dd_c105_gen147",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "In the context of Fig. 5.3, what does the area under the curve of F(x) versus x represent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen148"
+    "question_id": "cbse_xi_keph1dd_c105_gen148",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "For a force that decreases linearly with displacement, which geometric shape is used to approximate the work done over that interval?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen149"
+    "question_id": "cbse_xi_keph1dd_c105_gen149",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "In the provided example, the frictional force f is plotted on the force-displacement graph. In which direction does the frictional force act relative to the displacement?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen150"
+    "question_id": "cbse_xi_keph1dd_c105_gen150",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Explain why, for a variable force, the work done is represented as an integral rather than a simple product of force and displacement.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen151"
+    "question_id": "cbse_xi_keph1dd_c105_gen151",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Describe how the concept of a limit is used in the derivation of the work done by a variable force.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen152"
+    "question_id": "cbse_xi_keph1dd_c105_gen152",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "State the physical significance of the area under the force versus displacement graph.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen153"
+    "question_id": "cbse_xi_keph1dd_c105_gen153",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "What is the importance of representing the force as a function F(x) when calculating work in physical systems?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen154"
+    "question_id": "cbse_xi_keph1dd_c105_gen154",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Discuss the process of deriving the expression for work done by a variable force starting from the concept of small displacements.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen155"
+    "question_id": "cbse_xi_keph1dd_c105_gen155",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Analyze the example where a woman pushes a trunk on a railway platform, detailing how the work done by her applied force and by friction are calculated using the areas under their respective curves.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen156"
+    "question_id": "cbse_xi_keph1dd_c105_gen156",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Evaluate the advantages and potential limitations of using integration to compute work done by variable forces in real physical systems.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen157"
+    "question_id": "cbse_xi_keph1dd_c105_gen157",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work done by a variable force can be accurately calculated by multiplying the force value at the starting position by the total displacement.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen158"
+    "question_id": "cbse_xi_keph1dd_c105_gen158",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: In the given example, the work done by friction is negative because friction always opposes the direction of displacement.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen159"
+    "question_id": "cbse_xi_keph1dd_c105_gen159",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: Taking the limit as Δx tends to zero ensures that the summation approach accurately accounts for any nonlinear variation in the force function.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen160"
+    "question_id": "cbse_xi_keph1dd_c105_gen160",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A constant force of 80 N acts over a displacement of 5 m. Calculate the work done by this force.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen161"
+    "question_id": "cbse_xi_keph1dd_c105_gen161",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A force varies linearly from 120 N to 80 N over a displacement of 10 m. Calculate the work done by this force.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen162"
+    "question_id": "cbse_xi_keph1dd_c105_gen162",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "In a modified scenario similar to the provided example, a woman pushes a trunk by applying a force of 100 N for the first 8 m and then decreasing linearly to 60 N over the next 12 m. If the frictional force remains constant at 50 N over the entire 20 m, calculate the work done by her force and the work done by friction.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen163"
+    "question_id": "cbse_xi_keph1dd_c105_gen163",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A variable force given by F(x) = 5x (in Newtons) acts along the x-axis from x = 2 m to x = 6 m. Calculate the work done by this force.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen164"
+    "question_id": "cbse_xi_keph1dd_c105_gen164",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A force acting on an object is given by F(x) = 10 - 0.5x (in Newtons) for x ranging from 0 m to 20 m. Determine the work done by this force over this displacement and explain what the result implies if the force were to become negative beyond this range.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen165"
+    "question_id": "cbse_xi_keph1dd_c105_gen165",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   }
 ]

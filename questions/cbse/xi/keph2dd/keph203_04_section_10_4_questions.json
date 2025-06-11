@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen056"
+    "question_id": "cbse_xi_keph2dd_c203_gen056",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "What is the numerical value of the universal gas constant R used in the ideal gas equation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen057"
+    "question_id": "cbse_xi_keph2dd_c203_gen057",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "When the pressure of a gas is held constant, which relationship best describes how volume and temperature relate?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen058"
+    "question_id": "cbse_xi_keph2dd_c203_gen058",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A graph of pressure versus temperature at constant volume yields a straight line that intercepts the temperature axis at -273.15°C. What does this intercept represent?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen059"
+    "question_id": "cbse_xi_keph2dd_c203_gen059",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Which of the following best explains the advantage of using a gas thermometer over a liquid-in-glass thermometer?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen060"
+    "question_id": "cbse_xi_keph2dd_c203_gen060",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Explain briefly why a gas thermometer gives the same temperature reading irrespective of the type of gas used.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen061"
+    "question_id": "cbse_xi_keph2dd_c203_gen061",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "State Charles' law and describe what physical quantities it relates.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen062"
+    "question_id": "cbse_xi_keph2dd_c203_gen062",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "How do you convert a temperature from Celsius to Kelvin?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen063"
+    "question_id": "cbse_xi_keph2dd_c203_gen063",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "What does the intercept of -273.15°C on a pressure versus temperature graph of a constant-volume gas experiment indicate?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen064"
+    "question_id": "cbse_xi_keph2dd_c203_gen064",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Discuss how deviations from the ideal gas law occur at low temperatures and elaborate on the significance of extrapolating gas behavior to absolute zero.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen065"
+    "question_id": "cbse_xi_keph2dd_c203_gen065",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Describe the working principle of a constant-volume gas thermometer and how it uses the ideal gas law to measure temperature.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen066"
+    "question_id": "cbse_xi_keph2dd_c203_gen066",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "Using the ideal gas law, explain how Boyle's law and Charles' law can be combined to form the general ideal gas equation.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen067"
+    "question_id": "cbse_xi_keph2dd_c203_gen067",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "True or False: A gas thermometer’s reading is independent of the type of gas used because all low-density gases follow the same expansion behavior as per the ideal gas law.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen068"
+    "question_id": "cbse_xi_keph2dd_c203_gen068",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "True or False: In an isochoric process, the pressure of a gas is directly proportional to its temperature measured in Kelvin.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen069"
+    "question_id": "cbse_xi_keph2dd_c203_gen069",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "True or False: The boiling point of water on the Kelvin scale is 100 K.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen070"
+    "question_id": "cbse_xi_keph2dd_c203_gen070",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A gas at constant volume has a pressure of 120 kPa at 300 K. What will its pressure be when the temperature is increased to 350 K?",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen071"
+    "question_id": "cbse_xi_keph2dd_c203_gen071",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A gas sample of 2 moles is confined to a fixed volume. If its pressure is measured as 150 kPa at a temperature of 350 K, calculate the volume of the container. (Note: R = 8.31 J mol⁻¹ K⁻¹; be careful with units.)",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen072"
+    "question_id": "cbse_xi_keph2dd_c203_gen072",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "At standard temperature and pressure (STP: 273.15 K and 101.3 kPa), a gas occupies 22.4 liters. Using the ideal gas law, calculate the number of moles in this sample. (Note: 1 liter = 0.001 cubic meters; R = 8.31 J mol⁻¹ K⁻¹.)",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen073"
+    "question_id": "cbse_xi_keph2dd_c203_gen073",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "In a constant volume experiment, the slope of the pressure versus temperature graph is found to be 0.45 kPa/K. If the pressure at 273.15 K (0°C) is 100 kPa, what is the expected pressure at 373.15 K (100°C)?",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen074"
+    "question_id": "cbse_xi_keph2dd_c203_gen074",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A gas is heated at constant pressure from 0°C to 100°C. Using Charles' law, calculate the ratio of the final volume to the initial volume.",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen075"
+    "question_id": "cbse_xi_keph2dd_c203_gen075",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   },
   {
     "question_text": "A constant-volume gas thermometer is calibrated using water's ice point at 0°C and steam point at 100°C. Describe how these fixed points are used to construct the Kelvin, Celsius, and Fahrenheit scales, and discuss any relationships between them.",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "04_section_10_4",
-    "question_id": "cbse_xi_keph2dd_c203_gen076"
+    "question_id": "cbse_xi_keph2dd_c203_gen076",
+    "section_name": "10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE"
   }
 ]

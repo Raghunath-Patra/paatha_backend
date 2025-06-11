@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen001"
+    "question_id": "cbse_ix_iemh1dd_c107_gen001",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Which of the following is NOT a valid criterion for triangle congruence?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen002"
+    "question_id": "cbse_ix_iemh1dd_c107_gen002",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "What does the notation ‘∆ABC’ represent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen003"
+    "question_id": "cbse_ix_iemh1dd_c107_gen003",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "How many angles are present in a triangle?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen004"
+    "question_id": "cbse_ix_iemh1dd_c107_gen004",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Define a triangle. What are its basic elements?",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen005"
+    "question_id": "cbse_ix_iemh1dd_c107_gen005",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "List the primary properties of triangles as introduced in the section.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen006"
+    "question_id": "cbse_ix_iemh1dd_c107_gen006",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "What does the term 'congruence of triangles' mean?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen007"
+    "question_id": "cbse_ix_iemh1dd_c107_gen007",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Explain the term 'vertex' in the context of a triangle.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen008"
+    "question_id": "cbse_ix_iemh1dd_c107_gen008",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Discuss the criteria for triangle congruence. Choose one criterion (e.g., SAS) and provide a detailed proof of why it ensures triangle congruence.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen009"
+    "question_id": "cbse_ix_iemh1dd_c107_gen009",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Prove the Triangle Inequality Theorem which states that in any triangle, the sum of the lengths of any two sides is greater than the length of the remaining side.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen010"
+    "question_id": "cbse_ix_iemh1dd_c107_gen010",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Given a triangle with side lengths 3, 4, and 5, verify using the triangle inequality theorem that these sides can form a valid triangle. Show your work.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen011"
+    "question_id": "cbse_ix_iemh1dd_c107_gen011",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "A triangle has two angles measuring 45° and 55°. Find the measure of the third angle.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen012"
+    "question_id": "cbse_ix_iemh1dd_c107_gen012",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "In triangle ΔABC, sides AB, BC, and AC measure 5, 7, and 10 respectively. Confirm whether these side lengths satisfy the triangle inequality theorem with detailed calculations.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen013"
+    "question_id": "cbse_ix_iemh1dd_c107_gen013",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "A triangle has its angles in the ratio 2:3:4. Determine the measure of each angle.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_ix_iemh1dd_c107_gen014"
+    "question_id": "cbse_ix_iemh1dd_c107_gen014",
+    "section_name": "7.1 Introduction"
   }
 ]

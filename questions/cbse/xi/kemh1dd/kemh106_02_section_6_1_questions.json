@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen001"
+    "question_id": "cbse_xi_kemh1dd_c106_gen001",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Which principle in counting techniques allows us to find the total number of outcomes by multiplying the number of choices for each independent event?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen002"
+    "question_id": "cbse_xi_kemh1dd_c106_gen002",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "For arranging r objects from n distinct objects without repetition in a specific order, which formula correctly calculates the number of arrangements?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen003"
+    "question_id": "cbse_xi_kemh1dd_c106_gen003",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Define permutation in the context of counting techniques and provide an example involving 3 objects arranged from a set of 5.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen004"
+    "question_id": "cbse_xi_kemh1dd_c106_gen004",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Explain the fundamental counting principle and illustrate how it is applied to determine the number of outcomes when rolling two dice.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen005"
+    "question_id": "cbse_xi_kemh1dd_c106_gen005",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "In the context of arranging digits on a number lock, explain what is meant by 'without repetition' and why this requirement is important.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen006"
+    "question_id": "cbse_xi_kemh1dd_c106_gen006",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Derive the formula for permutations nPr = n!/(n - r)! using first principles, starting with the counting principle and factorial definitions.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen007"
+    "question_id": "cbse_xi_kemh1dd_c106_gen007",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Discuss how combinatorial techniques, such as those used to determine the number of sequences for a number lock, can be applied to solve real-life problems efficiently. Provide a detailed explanation using the suitcase number lock example.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen008"
+    "question_id": "cbse_xi_kemh1dd_c106_gen008",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A safe has a 5-digit code where the first digit is fixed as 7 and the remaining four digits must be chosen without repetition from the remaining 9 digits. Calculate the number of possible codes.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen009"
+    "question_id": "cbse_xi_kemh1dd_c106_gen009",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "If repetition is allowed, how many ways can you arrange 4 digits selected from 10 possible digits (0–9)?",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen010"
+    "question_id": "cbse_xi_kemh1dd_c106_gen010",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A lock has 6 wheels, and each wheel displays a unique digit chosen from 0–9 without repetition. If the digits must be arranged in strictly increasing order, determine the total number of possible sequences.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen011"
+    "question_id": "cbse_xi_kemh1dd_c106_gen011",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "For the ellipse defined by (x²/25) + (y²/9) = 1 (i.e., a = 5 and b = 3), determine the coordinates of the endpoints of its major and minor axes.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen012"
+    "question_id": "cbse_xi_kemh1dd_c106_gen012",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Find the number of 4-digit sequences (numbers) that can be formed using the digits 0–9, with no repetition and the condition that the first digit cannot be 0.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xi_kemh1dd_c106_gen013"
+    "question_id": "cbse_xi_kemh1dd_c106_gen013",
+    "section_name": "6.1 Introduction"
   }
 ]

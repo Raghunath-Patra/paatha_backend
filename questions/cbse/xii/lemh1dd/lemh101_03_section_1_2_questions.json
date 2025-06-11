@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen013"
+    "question_id": "cbse_xii_lemh1dd_c101_gen013",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "In a boys' school, consider the relation R defined by: 'a is the sister of b'. Which of the following is true about R?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen014"
+    "question_id": "cbse_xii_lemh1dd_c101_gen014",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Which of the following properties is NOT required for a relation to be an equivalence relation?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen015"
+    "question_id": "cbse_xii_lemh1dd_c101_gen015",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Consider the relation R on the set A = {1, 2, 3, 4} defined by R = {(a, b) : b = a + 1}. Which of the following is true about R?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen016"
+    "question_id": "cbse_xii_lemh1dd_c101_gen016",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Define an empty relation in your own words.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen017"
+    "question_id": "cbse_xii_lemh1dd_c101_gen017",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Explain what is meant by a universal relation and give an example.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen018"
+    "question_id": "cbse_xii_lemh1dd_c101_gen018",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "List and briefly define the three key properties that a relation must satisfy to be an equivalence relation.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen019"
+    "question_id": "cbse_xii_lemh1dd_c101_gen019",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Describe an example of a relation that is symmetric but not transitive, and explain why it fails to be transitive.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen020"
+    "question_id": "cbse_xii_lemh1dd_c101_gen020",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Prove that the relation R defined on ℤ by a R b if and only if 2 divides (a - b) is an equivalence relation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen021"
+    "question_id": "cbse_xii_lemh1dd_c101_gen021",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Prove that the relation R on the set L of all lines in a plane defined as L₁ R L₂ if L₁ is perpendicular to L₂ is symmetric but not reflexive or transitive.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen022"
+    "question_id": "cbse_xii_lemh1dd_c101_gen022",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Given the relation R on ℤ by a R b if 2 divides (a - b), list the equivalence classes of ℤ under R and explain your answer.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen023"
+    "question_id": "cbse_xii_lemh1dd_c101_gen023",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Consider the set A = {1, 2, 3}. The relation R is defined on A as R = {(1,1), (2,2), (3,3), (1,2), (2,3)}. Determine whether R is reflexive, symmetric, and transitive, providing reasons for your answer.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen024"
+    "question_id": "cbse_xii_lemh1dd_c101_gen024",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "For the relation R on ℤ defined by a R b if and only if 3 divides (a - b), determine the equivalence classes for the integers from -4 to 4.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen025"
+    "question_id": "cbse_xii_lemh1dd_c101_gen025",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "For the set A = {1, 2, 3, 4, 5, 6, 7}, consider the relation R defined by: two numbers are related if both are odd or both are even. Identify the equivalence classes and justify your answer.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen026"
+    "question_id": "cbse_xii_lemh1dd_c101_gen026",
+    "section_name": "1.2 Types of Relations"
   }
 ]

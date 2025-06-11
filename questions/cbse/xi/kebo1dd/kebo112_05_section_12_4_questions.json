@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen058"
+    "question_id": "cbse_xi_kebo1dd_c112_gen058",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "What is the final electron acceptor in the electron transport chain?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen059"
+    "question_id": "cbse_xi_kebo1dd_c112_gen059",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "Which enzyme catalyzes the condensation of acetyl CoA with oxaloacetate to form citric acid in the TCA cycle?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen060"
+    "question_id": "cbse_xi_kebo1dd_c112_gen060",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "How many ATP molecules are synthesized from the oxidation of one molecule of NADH via oxidative phosphorylation?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen061"
+    "question_id": "cbse_xi_kebo1dd_c112_gen061",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "What is the primary role of ubiquinone in the electron transport chain?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen062"
+    "question_id": "cbse_xi_kebo1dd_c112_gen062",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "Briefly explain the role of pyruvate dehydrogenase in aerobic respiration.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen063"
+    "question_id": "cbse_xi_kebo1dd_c112_gen063",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "List two coenzymes required for the pyruvate dehydrogenase reaction.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen064"
+    "question_id": "cbse_xi_kebo1dd_c112_gen064",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "What is the significance of oxygen in the electron transport system?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen065"
+    "question_id": "cbse_xi_kebo1dd_c112_gen065",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "Describe the process of substrate level phosphorylation in the TCA cycle.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen066"
+    "question_id": "cbse_xi_kebo1dd_c112_gen066",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "Compare and contrast the locations and functions of the oxidative decarboxylation of pyruvate and the electron transport system in aerobic respiration.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen067"
+    "question_id": "cbse_xi_kebo1dd_c112_gen067",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "Explain in detail the mechanism of the electron transport chain and its role in ATP production.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen068"
+    "question_id": "cbse_xi_kebo1dd_c112_gen068",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "Discuss the importance of regenerating NAD+ and FAD+ in the continuation of the TCA cycle and overall aerobic respiration.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen069"
+    "question_id": "cbse_xi_kebo1dd_c112_gen069",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "The TCA cycle produces CO2, NADH, FADH2, and only small amounts of ATP. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen070"
+    "question_id": "cbse_xi_kebo1dd_c112_gen070",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "In aerobic respiration, oxygen is required throughout all stages. True or False?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen071"
+    "question_id": "cbse_xi_kebo1dd_c112_gen071",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "ATP synthase is composed of two major components, F0 and F1. True or False?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen072"
+    "question_id": "cbse_xi_kebo1dd_c112_gen072",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "The oxidation of one molecule of NADH via the electron transport chain yields 2 ATP molecules. True or False?",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen073"
+    "question_id": "cbse_xi_kebo1dd_c112_gen073",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "The chemiosmotic hypothesis explains the mechanism of ATP synthesis coupled with the electron transport chain in mitochondria. True or False?",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen074"
+    "question_id": "cbse_xi_kebo1dd_c112_gen074",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "Succinate dehydrogenase participates in both the TCA cycle and the electron transport chain by oxidizing succinate. True or False?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen075"
+    "question_id": "cbse_xi_kebo1dd_c112_gen075",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   },
   {
     "question_text": "Calculate the total number of NADH molecules produced from one molecule of glucose considering the conversion of two pyruvate molecules through pyruvate dehydrogenase and the TCA cycle, given that each pyruvate produces 1 NADH during decarboxylation and each acetyl CoA yields 3 NADH in the TCA cycle.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "kebo112",
     "section_id": "05_section_12_4",
-    "question_id": "cbse_xi_kebo1dd_c112_gen076"
+    "question_id": "cbse_xi_kebo1dd_c112_gen076",
+    "section_name": "12.4 AEROBIC RESPIRATION"
   }
 ]

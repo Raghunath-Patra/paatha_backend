@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen029"
+    "question_id": "cbse_xi_kemh1dd_c104_gen029",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Which complex number serves as the multiplicative identity?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen030"
+    "question_id": "cbse_xi_kemh1dd_c104_gen030",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "What is the value of i⁵?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen031"
+    "question_id": "cbse_xi_kemh1dd_c104_gen031",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "In the division of two complex numbers z₁/z₂ (with z₂ ≠ 0), by multiplying the numerator and denominator by a suitable expression, we simplify the expression. Which expression do we multiply by?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen032"
+    "question_id": "cbse_xi_kemh1dd_c104_gen032",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Define the additive inverse of a complex number and give an example.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen033"
+    "question_id": "cbse_xi_kemh1dd_c104_gen033",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "State and illustrate the distributive law for complex numbers.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen034"
+    "question_id": "cbse_xi_kemh1dd_c104_gen034",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Write the formula for multiplying two complex numbers z₁ = a + ib and z₂ = c + id, and use it to calculate (2 + 3i)(4 − 5i).",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen035"
+    "question_id": "cbse_xi_kemh1dd_c104_gen035",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Prove the identity (z₁ + z₂)² = z₁² + 2z₁z₂ + z₂² for any complex numbers z₁ and z₂.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen036"
+    "question_id": "cbse_xi_kemh1dd_c104_gen036",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Derive the formula for dividing two non-zero complex numbers z₁ = a + ib and z₂ = c + id by multiplying numerator and denominator by the conjugate of z₂, and express the quotient in the form a + bi.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen037"
+    "question_id": "cbse_xi_kemh1dd_c104_gen037",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Calculate (3 + 5i) + (−6 + 2i) and express the answer in the form a + bi.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen038"
+    "question_id": "cbse_xi_kemh1dd_c104_gen038",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Find the product (3 + 5i)(2 − 3i) and express the result in the form a + bi.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen039"
+    "question_id": "cbse_xi_kemh1dd_c104_gen039",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Evaluate (6 + 3i)/(2 − i) and express the result in the form a + bi.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen040"
+    "question_id": "cbse_xi_kemh1dd_c104_gen040",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Express (5 − 3i)³ in the form a + bi.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen041"
+    "question_id": "cbse_xi_kemh1dd_c104_gen041",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   },
   {
     "question_text": "Simplify (-√3 + √(-2)) (2√3 − i) and express the answer in the form a + bi.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_xi_kemh1dd_c104_gen042"
+    "question_id": "cbse_xi_kemh1dd_c104_gen042",
+    "section_name": "4.3 Algebra of Complex Numbers**"
   }
 ]

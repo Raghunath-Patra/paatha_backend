@@ -332,7 +332,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_kech1dd_c105_gen017"
+    "question_id": "cbse_xi_kech1dd_c105_gen017",
+    "section_name": "5.2 Applications"
   },
   {
     "question_text": "Which of the following equations correctly relates the standard Gibbs energy change (Δr G°) of a chemical reaction to its equilibrium constant (K)?",
@@ -351,7 +352,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen090"
+    "question_id": "cbse_xi_kech1dd_c105_gen090",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "Which combination of reaction parameters will always result in a spontaneous reaction at all temperatures?",
@@ -370,7 +372,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen091"
+    "question_id": "cbse_xi_kech1dd_c105_gen091",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "In an exothermic reaction with a large negative Δr H° but with a negative Δr S°, the reaction becomes nonspontaneous at high temperatures. Which explanation best justifies this behavior?",
@@ -389,7 +392,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen092"
+    "question_id": "cbse_xi_kech1dd_c105_gen092",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "What does the term 'reversible reaction' mean in thermodynamic terms?",
@@ -408,7 +412,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen093"
+    "question_id": "cbse_xi_kech1dd_c105_gen093",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "For a reaction where Δr H° is positive and Δr S° is positive, at what temperature condition is the reaction most likely to be spontaneous?",
@@ -427,7 +432,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen094"
+    "question_id": "cbse_xi_kech1dd_c105_gen094",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "Define a reversible chemical reaction under the strict thermodynamic sense.",
@@ -441,7 +447,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen095"
+    "question_id": "cbse_xi_kech1dd_c105_gen095",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "Explain why a reaction must have minimum free energy at equilibrium.",
@@ -455,7 +462,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen096"
+    "question_id": "cbse_xi_kech1dd_c105_gen096",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "What is the significance of an equilibrium constant (K) being much greater than 1 for an exothermic reaction?",
@@ -469,7 +477,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen097"
+    "question_id": "cbse_xi_kech1dd_c105_gen097",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "Discuss how changes in entropy (Δr S°) influence the overall free energy change (Δr G°) of a reaction.",
@@ -483,7 +492,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen098"
+    "question_id": "cbse_xi_kech1dd_c105_gen098",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "Discuss the relationship between standard Gibbs energy change (Δr G°), enthalpy change (Δr H°), entropy change (Δr S°), and temperature, as given by the equation Δr G° = Δr H° - TΔr S°. Explain how temperature affects reaction spontaneity.",
@@ -497,7 +507,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen099"
+    "question_id": "cbse_xi_kech1dd_c105_gen099",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "For the conversion of oxygen to ozone (3/2 O2 (g) → O3 (g)) given a Kp value at 298 K, describe the steps required to calculate the standard Gibbs energy change (Δr G°) and discuss the implications for the reaction’s equilibrium.",
@@ -511,7 +522,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen100"
+    "question_id": "cbse_xi_kech1dd_c105_gen100",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "Analyze the effect of temperature on the spontaneity of a reaction with Δr H° positive and Δr S° negative. Under what conditions would such a reaction be spontaneous, if at all?",
@@ -525,7 +537,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen101"
+    "question_id": "cbse_xi_kech1dd_c105_gen101",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "True or False: A reaction with a large negative Δr H° always has an equilibrium constant (K) much larger than 1 regardless of the value of Δr S°.",
@@ -539,7 +552,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen102"
+    "question_id": "cbse_xi_kech1dd_c105_gen102",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "True or False: In a reversible reaction, both the forward and reverse reactions proceed with a decrease in the system's free energy.",
@@ -553,7 +567,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen103"
+    "question_id": "cbse_xi_kech1dd_c105_gen103",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "True or False: For the reaction N₂O₄ (g) ⇌ 2NO₂ (g) at 60°C, if N₂O₄ is 50% dissociated at 1 atm, the mole fraction of NO₂ is approximately 2/3.",
@@ -567,7 +582,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen104"
+    "question_id": "cbse_xi_kech1dd_c105_gen104",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "Calculate the standard Gibbs energy change (Δr G°) for the conversion of oxygen to ozone (3/2 O₂ (g) → O₃ (g)) at 298 K given Kp = 2.47 × 10⁻²⁹. Use R = 8.314 J K⁻¹ mol⁻¹.",
@@ -581,7 +597,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen105"
+    "question_id": "cbse_xi_kech1dd_c105_gen105",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "For the reaction 2NH₃ (g) + CO₂ (g) → NH₂CONH₂ (l) + H₂O (l) at 298 K, if the standard Gibbs energy change (Δr G°) is -13.6 kJ mol⁻¹, calculate the equilibrium constant K.",
@@ -595,7 +612,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen106"
+    "question_id": "cbse_xi_kech1dd_c105_gen106",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "At 60°C, dinitrogen tetroxide (N₂O₄) is 50% dissociated in the reaction N₂O₄ (g) ⇌ 2NO₂ (g) at 1 atm. Calculate the standard free energy change (Δr G°) at this temperature. Use R = 8.314 J K⁻¹ mol⁻¹ and T = 333 K.",
@@ -609,7 +627,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen107"
+    "question_id": "cbse_xi_kech1dd_c105_gen107",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "For a reaction with Δr H° = +40 kJ mol⁻¹ and Δr S° = +120 J K⁻¹ mol⁻¹, determine (a) the temperature at which Δr G° becomes zero, and (b) calculate Δr G° at 298 K and the corresponding equilibrium constant.",
@@ -623,7 +642,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen108"
+    "question_id": "cbse_xi_kech1dd_c105_gen108",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "A reaction has an equilibrium constant K of 50 at 350 K. Assuming Δr H° and Δr S° remain constant, calculate the standard Gibbs energy change Δr G° at 350 K, and state whether the reaction is product-favored or reactant-favored.",
@@ -637,7 +657,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_kech1dd_c105_gen109"
+    "question_id": "cbse_xi_kech1dd_c105_gen109",
+    "section_name": "5.7 Gibbs energ y change and equilibrium"
   },
   {
     "question_text": "Which of the following best defines the system in thermodynamics?",
@@ -656,7 +677,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen001"
+    "question_id": "cbse_xi_kech1dd_c105_gen001",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "In which type of system is there an exchange of both energy and matter between the system and its surroundings?",
@@ -675,7 +697,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen002"
+    "question_id": "cbse_xi_kech1dd_c105_gen002",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Which of the following best describes an adiabatic wall in a thermodynamic system?",
@@ -694,7 +717,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen003"
+    "question_id": "cbse_xi_kech1dd_c105_gen003",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Why is the internal energy U considered a state function?",
@@ -713,7 +737,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen004"
+    "question_id": "cbse_xi_kech1dd_c105_gen004",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Which of the following equations correctly represents the first law of thermodynamics?",
@@ -732,7 +757,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen005"
+    "question_id": "cbse_xi_kech1dd_c105_gen005",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Describe the differences between open, closed, and isolated systems in thermodynamics.",
@@ -746,7 +772,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen006"
+    "question_id": "cbse_xi_kech1dd_c105_gen006",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Explain why state functions such as temperature, volume, and pressure are independent of the process path.",
@@ -760,7 +787,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen007"
+    "question_id": "cbse_xi_kech1dd_c105_gen007",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Define the term 'boundary' in a thermodynamic system and describe its significance.",
@@ -774,7 +802,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen008"
+    "question_id": "cbse_xi_kech1dd_c105_gen008",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Discuss how Joule's experiments demonstrated the equivalence of mechanical work and heat in an adiabatic process, including details about the experimental setup and observations.",
@@ -788,7 +817,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen009"
+    "question_id": "cbse_xi_kech1dd_c105_gen009",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "Compare the effects of applying 1 kJ of mechanical work and 1 kJ of electrical work on a system under adiabatic conditions. Explain why the change in internal energy is identical in both cases.",
@@ -802,7 +832,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen010"
+    "question_id": "cbse_xi_kech1dd_c105_gen010",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "True or False: A closed system is allowed to exchange matter with its surroundings.",
@@ -816,7 +847,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen011"
+    "question_id": "cbse_xi_kech1dd_c105_gen011",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "True or False: In an isolated system, neither energy nor matter can be exchanged with the surroundings, resulting in a constant internal energy.",
@@ -830,7 +862,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen012"
+    "question_id": "cbse_xi_kech1dd_c105_gen012",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "A system is insulated such that it undergoes an adiabatic process. If 1000 J of work is done on the system, calculate the change in internal energy (∆U).",
@@ -844,7 +877,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen013"
+    "question_id": "cbse_xi_kech1dd_c105_gen013",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "In a closed system, if 500 J of heat is absorbed and no work is done, what is the change in internal energy (∆U) of the system?",
@@ -858,7 +892,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen014"
+    "question_id": "cbse_xi_kech1dd_c105_gen014",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "During a process in a closed system, the system does 200 J of work on the surroundings while absorbing 150 J of heat. Calculate the change in internal energy (∆U) of the system.",
@@ -872,7 +907,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen015"
+    "question_id": "cbse_xi_kech1dd_c105_gen015",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "A system undergoes two different processes. In the first process, 1 kJ of electrical work is done on it in an adiabatic system (q = 0) leading to a temperature increase of 10°C. In the second process, 1 kJ of mechanical work is performed under the same adiabatic conditions with an identical temperature increase. Verify using the first law of thermodynamics that the change in internal energy is the same in both cases.",
@@ -886,7 +922,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kech1dd_c105_gen016"
+    "question_id": "cbse_xi_kech1dd_c105_gen016",
+    "section_name": "5.1 Thermodynamic terms"
   },
   {
     "question_text": "What is the symbol used for the standard enthalpy of combustion?",
@@ -905,7 +942,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen056"
+    "question_id": "cbse_xi_kech1dd_c105_gen056",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "During the complete combustion of butane (C₄H₁₀), what are the physical states of water and carbon dioxide produced?",
@@ -924,7 +962,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen057"
+    "question_id": "cbse_xi_kech1dd_c105_gen057",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "The equation Δr HΘ = Σ(bond enthalpies of reactants) - Σ(bond enthalpies of products) is based on which chemical principle?",
@@ -943,7 +982,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen058"
+    "question_id": "cbse_xi_kech1dd_c105_gen058",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Which of the following reactions best represents the atomization of dihydrogen (H₂)?",
@@ -962,7 +1002,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen059"
+    "question_id": "cbse_xi_kech1dd_c105_gen059",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "What is the main purpose of constructing a Born-Haber cycle?",
@@ -981,7 +1022,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen060"
+    "question_id": "cbse_xi_kech1dd_c105_gen060",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Define the term 'standard enthalpy of combustion'.",
@@ -995,7 +1037,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen061"
+    "question_id": "cbse_xi_kech1dd_c105_gen061",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Differentiate between bond dissociation enthalpy and mean bond enthalpy.",
@@ -1009,7 +1052,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen062"
+    "question_id": "cbse_xi_kech1dd_c105_gen062",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Explain why many fluorides tend to be less soluble than the corresponding chlorides.",
@@ -1023,7 +1067,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen063"
+    "question_id": "cbse_xi_kech1dd_c105_gen063",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Discuss how the standard enthalpy of formation of benzene can be calculated using its combustion data and Hess's law. Include a discussion of the steps involved.",
@@ -1037,7 +1082,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen064"
+    "question_id": "cbse_xi_kech1dd_c105_gen064",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Explain the role of the Born-Haber cycle in calculating the lattice enthalpy of an ionic compound such as NaCl, and discuss each step involved in the cycle.",
@@ -1051,7 +1097,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen065"
+    "question_id": "cbse_xi_kech1dd_c105_gen065",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Evaluate the factors that determine whether the enthalpy of dissolution for an ionic compound is endothermic or exothermic, supporting your answer with examples.",
@@ -1065,7 +1112,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen066"
+    "question_id": "cbse_xi_kech1dd_c105_gen066",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "If the combustion of benzene produces 3267.0 kJ/mol of energy and the standard enthalpies of formation for CO₂ (g) and H₂O (l) are –393.5 kJ/mol and –285.83 kJ/mol respectively, calculate the standard enthalpy of formation for benzene (C₆H₆). Show all steps.",
@@ -1079,7 +1127,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen067"
+    "question_id": "cbse_xi_kech1dd_c105_gen067",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Calculate the mean bond enthalpy of the C–H bond in methane, given that the total enthalpy required for the atomization of methane (CH₄ (g) → C (g) + 4H (g)) is 1665 kJ/mol. Provide your calculation.",
@@ -1093,7 +1142,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen068"
+    "question_id": "cbse_xi_kech1dd_c105_gen068",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Using the Born-Haber cycle for NaCl, calculate the lattice enthalpy given the following steps: sublimation of Na(s) gives +108.4 kJ/mol, ionization of Na(g) gives +496.0 kJ/mol, bond dissociation of Cl₂ (using half the bond enthalpy) gives +121 kJ/mol, electron gain enthalpy of Cl gives –348.6 kJ/mol, and the overall enthalpy of formation of NaCl is –411.2 kJ/mol. Show your work.",
@@ -1107,7 +1157,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen069"
+    "question_id": "cbse_xi_kech1dd_c105_gen069",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Given the experimental data: HCl (g) + 25 aq. → HCl·25 aq. with ΔH = –72.03 kJ/mol and HCl (g) + 40 aq. → HCl·40 aq. with ΔH = –72.79 kJ/mol, calculate the enthalpy of dilution when 15 more moles of water are added. Provide a detailed calculation.",
@@ -1121,7 +1172,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen070"
+    "question_id": "cbse_xi_kech1dd_c105_gen070",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "True or False: The enthalpy of atomization of dihydrogen is the same as the bond dissociation enthalpy of the H–H bond.",
@@ -1135,7 +1187,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen071"
+    "question_id": "cbse_xi_kech1dd_c105_gen071",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "True or False: Mean bond enthalpies provide precise bond energy values for each individual bond in a polyatomic molecule.",
@@ -1149,7 +1202,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_kech1dd_c105_gen072"
+    "question_id": "cbse_xi_kech1dd_c105_gen072",
+    "section_name": "5.5 Enthalpies for different types of reactions"
   },
   {
     "question_text": "Which of the following best describes the technique of calorimetry?",
@@ -1168,7 +1222,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen018"
+    "question_id": "cbse_xi_kech1dd_c105_gen018",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "What is directly measured by a bomb calorimeter during a combustion reaction?",
@@ -1187,7 +1242,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen019"
+    "question_id": "cbse_xi_kech1dd_c105_gen019",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "In a constant pressure calorimeter, if a reaction is exothermic, what will be the sign of qₚ?",
@@ -1206,7 +1262,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen020"
+    "question_id": "cbse_xi_kech1dd_c105_gen020",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "Which of the following factors is essential for converting a temperature change into an energy measurement in calorimetry?",
@@ -1225,7 +1282,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen021"
+    "question_id": "cbse_xi_kech1dd_c105_gen021",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "During a combustion reaction carried out in a bomb calorimeter, why is it stated that no work is done by the system?",
@@ -1244,7 +1302,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen022"
+    "question_id": "cbse_xi_kech1dd_c105_gen022",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "Define calorimetry and explain its primary purpose in chemical experiments.",
@@ -1258,7 +1317,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen023"
+    "question_id": "cbse_xi_kech1dd_c105_gen023",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "Explain the difference between qᵥ and qₚ in calorimetry experiments.",
@@ -1272,7 +1332,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen024"
+    "question_id": "cbse_xi_kech1dd_c105_gen024",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "Describe why a bomb calorimeter is designed to operate at constant volume.",
@@ -1286,7 +1347,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen025"
+    "question_id": "cbse_xi_kech1dd_c105_gen025",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "How is the observed temperature change converted into a measure of energy in a calorimetry experiment?",
@@ -1300,7 +1362,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen026"
+    "question_id": "cbse_xi_kech1dd_c105_gen026",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "Discuss the working principle of a bomb calorimeter and how it is used to measure ∆U for a chemical reaction, including the roles of the water bath and thermometer.",
@@ -1314,7 +1377,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen027"
+    "question_id": "cbse_xi_kech1dd_c105_gen027",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "Compare and contrast the methods of measuring energy changes at constant volume (∆U) and constant pressure (∆H), highlighting the differences in their experimental setups and the types of reactions that are best suited for each method.",
@@ -1328,7 +1392,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen028"
+    "question_id": "cbse_xi_kech1dd_c105_gen028",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "Evaluate potential sources of error in bomb calorimetry experiments and suggest improvements to minimize these errors.",
@@ -1342,7 +1407,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen029"
+    "question_id": "cbse_xi_kech1dd_c105_gen029",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "In a bomb calorimeter, the combustion reaction is conducted in a sealed container, which implies that no work is done by the system.",
@@ -1356,7 +1422,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen030"
+    "question_id": "cbse_xi_kech1dd_c105_gen030",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "If the temperature in a bomb calorimeter increases during a reaction, the reaction must be endothermic.",
@@ -1370,7 +1437,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen031"
+    "question_id": "cbse_xi_kech1dd_c105_gen031",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "At constant pressure, the heat evolved or absorbed (qₚ) is equal to the enthalpy change (∆H) of a reaction.",
@@ -1384,7 +1452,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen032"
+    "question_id": "cbse_xi_kech1dd_c105_gen032",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "In a bomb calorimeter, 1 g of graphite is burned, causing the temperature to rise from 298 K to 299 K. If the calorimeter has a heat capacity of 20.7 kJ/K, calculate the energy change (qᵥ) for the reaction. Then, determine the internal energy change (∆U) per mole of graphite given that the molar mass of carbon is 12.0 g/mol.",
@@ -1398,7 +1467,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen033"
+    "question_id": "cbse_xi_kech1dd_c105_gen033",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "A reaction performed in a constant pressure calorimeter causes the temperature of 150.0 g of solution (with a specific heat capacity of 4.18 J/g°C) to increase by 3.0°C. Calculate the heat of reaction (qₚ) in kilojoules. Assume no heat is lost to the surroundings and indicate the sign of qₚ if the reaction is exothermic.",
@@ -1412,7 +1482,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen034"
+    "question_id": "cbse_xi_kech1dd_c105_gen034",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "In a bomb calorimeter, the complete combustion of 2.0 g of an unknown organic compound results in a temperature increase of 0.5 K. If the heat capacity of the calorimeter is 30.0 kJ/K, determine the internal energy change (∆U) per gram of the compound and per mole if the molar mass is 50.0 g/mol.",
@@ -1426,7 +1497,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen035"
+    "question_id": "cbse_xi_kech1dd_c105_gen035",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "In a constant pressure calorimetry experiment using a polystyrene cup, 25.0 g of a liquid reactant undergoes a temperature drop of 2.0°C. With the solution's specific heat capacity being 4.18 J/g°C, calculate the heat change (qₚ) in kilojoules and state whether the reaction is endothermic or exothermic.",
@@ -1440,7 +1512,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_kech1dd_c105_gen036"
+    "question_id": "cbse_xi_kech1dd_c105_gen036",
+    "section_name": "5.3 The enthalpies of all elements in their standard states are:"
   },
   {
     "question_text": "Which of the following best defines a spontaneous process?",
@@ -1459,7 +1532,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen073"
+    "question_id": "cbse_xi_kech1dd_c105_gen073",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Consider a reaction whose only driving force appears to be a decrease in enthalpy. Which type of reaction is most likely to be spontaneous based solely on this fact?",
@@ -1478,7 +1552,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen074"
+    "question_id": "cbse_xi_kech1dd_c105_gen074",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Under constant temperature conditions, the Gibbs free energy is defined by which of the following expressions?",
@@ -1497,7 +1572,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen075"
+    "question_id": "cbse_xi_kech1dd_c105_gen075",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Which law states that the entropy of a pure crystalline substance approaches zero as the temperature approaches absolute zero?",
@@ -1516,7 +1592,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen076"
+    "question_id": "cbse_xi_kech1dd_c105_gen076",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "A process will be spontaneous if the total entropy change of the system and its surroundings is:",
@@ -1535,7 +1612,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen077"
+    "question_id": "cbse_xi_kech1dd_c105_gen077",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Define entropy in your own words and explain how it is related to the concept of disorder in a system.",
@@ -1549,7 +1627,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen078"
+    "question_id": "cbse_xi_kech1dd_c105_gen078",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Explain why a reaction with a positive enthalpy change can be spontaneous under certain conditions.",
@@ -1563,7 +1642,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen079"
+    "question_id": "cbse_xi_kech1dd_c105_gen079",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Describe the role of the second law of thermodynamics in determining the spontaneity of physical and chemical processes.",
@@ -1577,7 +1657,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen080"
+    "question_id": "cbse_xi_kech1dd_c105_gen080",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Discuss in detail how enthalpy, entropy, and Gibbs free energy interact to determine the spontaneity of a chemical reaction, especially in cases where the reaction is endothermic.",
@@ -1591,7 +1672,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen081"
+    "question_id": "cbse_xi_kech1dd_c105_gen081",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Explain the significance of the third law of thermodynamics for determining absolute entropy values. Provide an example of how thermal data might be used to calculate the absolute entropy of a pure crystalline substance.",
@@ -1605,7 +1687,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen082"
+    "question_id": "cbse_xi_kech1dd_c105_gen082",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "True or False: A spontaneous reaction always proceeds rapidly at room temperature.",
@@ -1619,7 +1702,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen083"
+    "question_id": "cbse_xi_kech1dd_c105_gen083",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "True or False: Increasing the temperature of a system always results in an increase in its entropy.",
@@ -1633,7 +1717,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen084"
+    "question_id": "cbse_xi_kech1dd_c105_gen084",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "True or False: For a process at equilibrium, the change in Gibbs free energy (ΔG) is zero.",
@@ -1647,7 +1732,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen085"
+    "question_id": "cbse_xi_kech1dd_c105_gen085",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Numerical Problem: For the oxidation of iron given by 4Fe(s) + 3O₂(g) → 2Fe₂O₃(s), the enthalpy change ΔH is -1648×10³ J/mol and the system entropy change ΔS_sys is -549.4 J/K·mol at 298 K. Calculate the total entropy change (ΔS_total) for this reaction. Show your steps.",
@@ -1661,7 +1747,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen086"
+    "question_id": "cbse_xi_kech1dd_c105_gen086",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Numerical Problem: For an ideal gas undergoing reversible isothermal expansion at 298 K, if the system absorbs 500 J of heat, calculate the change in entropy of the system (ΔS_sys). Provide all calculations.",
@@ -1675,7 +1762,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen087"
+    "question_id": "cbse_xi_kech1dd_c105_gen087",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Numerical Problem: A reaction has an enthalpy change ΔH of +50 kJ/mol and an entropy change ΔS of +160 J/K·mol. Determine the minimum temperature at which the reaction becomes spontaneous. Show your working.",
@@ -1689,7 +1777,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen088"
+    "question_id": "cbse_xi_kech1dd_c105_gen088",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "Numerical Problem: In a process at 310 K, the total entropy change (ΔS_total) is determined to be 25 J/K. Using the relationship between Gibbs free energy and total entropy change, calculate the maximum magnitude of free energy (ΔG) available to do useful work. Include all steps in your solution.",
@@ -1703,7 +1792,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_kech1dd_c105_gen089"
+    "question_id": "cbse_xi_kech1dd_c105_gen089",
+    "section_name": "5.6 spontaneity"
   },
   {
     "question_text": "What is the symbol used to represent the enthalpy change of a reaction?",
@@ -1722,7 +1812,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen037"
+    "question_id": "cbse_xi_kech1dd_c105_gen037",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "How is the reaction enthalpy (Δr H) calculated from the enthalpies of products and reactants?",
@@ -1741,7 +1832,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen038"
+    "question_id": "cbse_xi_kech1dd_c105_gen038",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "What is the standard state of a substance at 298 K?",
@@ -1760,7 +1852,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen039"
+    "question_id": "cbse_xi_kech1dd_c105_gen039",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "When the direction of a chemical equation is reversed, how does the sign of Δr H change?",
@@ -1779,7 +1872,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen040"
+    "question_id": "cbse_xi_kech1dd_c105_gen040",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "In a thermochemical equation, what do the coefficients in front of chemical species represent?",
@@ -1798,7 +1892,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen041"
+    "question_id": "cbse_xi_kech1dd_c105_gen041",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "Define the standard enthalpy of fusion.",
@@ -1812,7 +1907,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen042"
+    "question_id": "cbse_xi_kech1dd_c105_gen042",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "What is the standard enthalpy of formation of an element in its reference state, and why?",
@@ -1826,7 +1922,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen043"
+    "question_id": "cbse_xi_kech1dd_c105_gen043",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "Explain the significance of Hess's Law in determining the enthalpy change of a reaction.",
@@ -1840,7 +1937,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen044"
+    "question_id": "cbse_xi_kech1dd_c105_gen044",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "Using the standard enthalpy of formation values provided (Δf H° for C2H5OH(l) = -277.7 kJ/mol, Δf H° for H2O(l) = -285.83 kJ/mol, and Δf H° for CO2(g) = -393.51 kJ/mol), calculate the standard enthalpy change for the combustion of ethanol: C2H5OH(l) + 3O2(g) → 2CO2(g) + 3H2O(l). Show all your steps.",
@@ -1854,7 +1952,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen045"
+    "question_id": "cbse_xi_kech1dd_c105_gen045",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "Design a thermochemical cycle using Hess's Law to determine the enthalpy change for the formation of carbon monoxide (CO) from graphite given the following reactions: Graphite + O2(g) → CO2(g) with Δr H° = -393.5 kJ/mol, and CO(g) + ½O2(g) → CO2(g) with Δr H° = -283.0 kJ/mol. Provide a detailed explanation of your cycle.",
@@ -1868,7 +1967,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen046"
+    "question_id": "cbse_xi_kech1dd_c105_gen046",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "Discuss why enthalpy is considered an extensive property using the concept of mole balancing in reaction enthalpy calculations.",
@@ -1882,7 +1982,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen047"
+    "question_id": "cbse_xi_kech1dd_c105_gen047",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "True or False: The standard enthalpy of formation for elemental oxygen (O2) in its most stable state is 0 kJ/mol.",
@@ -1896,7 +1997,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen048"
+    "question_id": "cbse_xi_kech1dd_c105_gen048",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "True or False: Melting of a solid is an exothermic process, which is why its enthalpy of fusion is negative.",
@@ -1910,7 +2012,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen049"
+    "question_id": "cbse_xi_kech1dd_c105_gen049",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "True or False: When calculating the internal energy change of vaporization at constant temperature, the gas constant R and the term ΔngRT are used in the calculation.",
@@ -1924,7 +2027,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen050"
+    "question_id": "cbse_xi_kech1dd_c105_gen050",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "A swimmer is covered with a film of water weighing 18 g. If the standard enthalpy of vaporization for water at 298 K is 44.01 kJ/mol, calculate the heat required to evaporate this water.",
@@ -1938,7 +2042,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen051"
+    "question_id": "cbse_xi_kech1dd_c105_gen051",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "Calculate the internal energy of vaporization (Δvap U) of water at 298 K given that the standard enthalpy of vaporization is 44.01 kJ/mol. Assume that the change in the number of moles of gas (Δng) is 1, the gas constant R is 8.314 J/mol·K, and T = 298 K.",
@@ -1952,7 +2057,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen052"
+    "question_id": "cbse_xi_kech1dd_c105_gen052",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "For the reaction: Fe2O3(s) + 3H2(g) → 2Fe(s) + 3H2O(l), use the standard formation enthalpy values Δf H° for H2O(l) = -285.83 kJ/mol and for Fe2O3(s) = -824.2 kJ/mol (with elements in their reference states having 0 kJ/mol) to calculate the reaction enthalpy Δr H°.",
@@ -1966,7 +2072,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen053"
+    "question_id": "cbse_xi_kech1dd_c105_gen053",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "Calculate the amount of heat required to cool 1 mole of water from 100°C to 0°C given that the heat capacity of water is 4.2 J/g°C and the molar mass of water is 18 g/mol.",
@@ -1980,7 +2087,8 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen054"
+    "question_id": "cbse_xi_kech1dd_c105_gen054",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   },
   {
     "question_text": "Given that the standard enthalpy of formation values are: Δf H° for CaCO3(s) = -1206.9 kJ/mol, for CaO(s) = -635.1 kJ/mol, and for CO2(g) = -393.5 kJ/mol, calculate the standard reaction enthalpy (Δr H°) for the decomposition reaction: CaCO3(s) → CaO(s) + CO2(g).",
@@ -1994,6 +2102,7 @@
     "source": "generated",
     "chapter_id": "kech105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_kech1dd_c105_gen055"
+    "question_id": "cbse_xi_kech1dd_c105_gen055",
+    "section_name": "5.4 ENTHALPY CHANGE,** $\\Delta_r H$ **OF A reaction – Reaction Enthalpy"
   }
 ]

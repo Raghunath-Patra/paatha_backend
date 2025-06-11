@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen001"
+    "question_id": "cbse_xii_lemh1dd_c106_gen001",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "In the context of rates of change, if dy/dx is negative at a point, what does this indicate about the behavior of the function y = f(x) at that point?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen002"
+    "question_id": "cbse_xii_lemh1dd_c106_gen002",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "If the area of a circle is defined as A = πr², what is the derivative dA/dr?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen003"
+    "question_id": "cbse_xii_lemh1dd_c106_gen003",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "The marginal cost is defined as the instantaneous rate of change of total cost with respect to production output. Which of the following best represents the marginal cost if C(x) is the total cost function?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen004"
+    "question_id": "cbse_xii_lemh1dd_c106_gen004",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Define marginal revenue and briefly explain how it is calculated from the total revenue function R(x).",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen005"
+    "question_id": "cbse_xii_lemh1dd_c106_gen005",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "What is meant by a turning point on the graph of a function? Explain its significance in determining maximum or minimum values.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen006"
+    "question_id": "cbse_xii_lemh1dd_c106_gen006",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Define the chain rule in your own words and state its mathematical formula.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen007"
+    "question_id": "cbse_xii_lemh1dd_c106_gen007",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Explain with an example how the concept of rate of change applies when one quantity varies with respect to another, particularly in the context of physics or engineering.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen008"
+    "question_id": "cbse_xii_lemh1dd_c106_gen008",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Derive the expression for the rate of change of the surface area S of a cube, where S = 6x², given that the volume V = x³ is increasing at a rate of dV/dt. Show all steps using the chain rule.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen009"
+    "question_id": "cbse_xii_lemh1dd_c106_gen009",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Prove that if a function y = f(x) is differentiable at x = x₀, then the line tangent to the curve at (x₀, f(x₀)) has the slope f'(x₀). Provide a clear, step-by-step proof.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen010"
+    "question_id": "cbse_xii_lemh1dd_c106_gen010",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A circle has an area A = πr². If the radius r is increasing at a constant rate of 2 cm/s, find the rate at which the area is increasing when r = 5 cm. Solve the problem step by step.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen011"
+    "question_id": "cbse_xii_lemh1dd_c106_gen011",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "The volume of a cube is increasing at 9 cm³/s. Given that V = x³ and the surface area S = 6x², compute the rate at which the surface area is increasing when the edge length x = 10 cm. Show all your workings.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen012"
+    "question_id": "cbse_xii_lemh1dd_c106_gen012",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A stone is dropped into a lake producing circular waves. If the radius of the wave increases at a constant rate of 4 cm/s, determine the rate at which the enclosed area is increasing when the radius is 10 cm. Provide a detailed solution.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen013"
+    "question_id": "cbse_xii_lemh1dd_c106_gen013",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A rectangle has its length decreasing at 3 cm/min and its width increasing at 2 cm/min. When the length is 10 cm and the width is 6 cm, determine (a) the rate of change of its perimeter and (b) the rate of change of its area. Include all calculations.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen014"
+    "question_id": "cbse_xii_lemh1dd_c106_gen014",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "The total cost C(x) for producing x units is given by C(x) = 0.005x³ – 0.02x² + 30x + 5000. Calculate the marginal cost when 3 units are produced. Provide step-by-step calculations.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen015"
+    "question_id": "cbse_xii_lemh1dd_c106_gen015",
+    "section_name": "6.1 Introduction"
   }
 ]

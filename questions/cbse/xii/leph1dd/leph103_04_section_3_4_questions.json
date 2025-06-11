@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen052"
+    "question_id": "cbse_xii_leph1dd_c103_gen052",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "What is the SI unit for resistance?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen053"
+    "question_id": "cbse_xii_leph1dd_c103_gen053",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "If a conductor's length is doubled while its cross-sectional area is kept constant, what happens to its resistance?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen054"
+    "question_id": "cbse_xii_leph1dd_c103_gen054",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Current density is defined as:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen055"
+    "question_id": "cbse_xii_leph1dd_c103_gen055",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Which of the following equations correctly represents the relationship between the potential difference (V), electric field (E), and length (l) of a conductor?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen056"
+    "question_id": "cbse_xii_leph1dd_c103_gen056",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Define resistivity and state the formula that relates resistance (R), resistivity (ρ), length (l), and cross-sectional area (A).",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen057"
+    "question_id": "cbse_xii_leph1dd_c103_gen057",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Explain how the resistance changes when a conductor is divided lengthwise into two identical pieces, each having half the original cross-sectional area.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen058"
+    "question_id": "cbse_xii_leph1dd_c103_gen058",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Write the relationship between the electric field (E) and current density (j). Also, define the symbol σ in this context.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen059"
+    "question_id": "cbse_xii_leph1dd_c103_gen059",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Discuss how the dimensions of a conductor affect its resistance. In your discussion, explain how changes in length and cross-sectional area independently influence the resistance, and support your explanation with relevant examples.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen060"
+    "question_id": "cbse_xii_leph1dd_c103_gen060",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Explain how the concept of current density is integrated into Ohm's law and derive the relationship between the electric field (E) and current density (j). Include a discussion on the vector form of Ohm's law.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen061"
+    "question_id": "cbse_xii_leph1dd_c103_gen061",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "True or False: Doubling the length of a conductor while keeping its cross-sectional area constant will double its resistance.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen062"
+    "question_id": "cbse_xii_leph1dd_c103_gen062",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "True or False: Dividing the cross-sectional area of a conductor by half will result in halving the resistance.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen063"
+    "question_id": "cbse_xii_leph1dd_c103_gen063",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "True or False: Conductivity is defined as the reciprocal of resistivity.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen064"
+    "question_id": "cbse_xii_leph1dd_c103_gen064",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "A copper wire has a resistivity of 1.7e-8 ohm-m, a length of 2 m, and a cross-sectional area of 1e-6 m². Calculate its resistance.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen065"
+    "question_id": "cbse_xii_leph1dd_c103_gen065",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "A resistor made of a particular material has a resistance of 10 ohms when its length is 1 m and its cross-sectional area is 2e-6 m². If a new resistor is made using the same material with the length doubled and the cross-sectional area halved, what is the new resistance?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen066"
+    "question_id": "cbse_xii_leph1dd_c103_gen066",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "For a uniform conductor with a conductivity of 5e7 S/m, an electric field of 2 V/m is applied. Calculate the current density in the conductor.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen067"
+    "question_id": "cbse_xii_leph1dd_c103_gen067",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "A two-part conductor is made by joining two slabs of identical material in series. The first slab has a length of 0.5 m and a cross-sectional area of 2e-6 m², and the second slab has a length of 1 m and the same cross-sectional area of 2e-6 m². If the resistivity is 1e-8 ohm-m, calculate the total resistance of the combination.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen068"
+    "question_id": "cbse_xii_leph1dd_c103_gen068",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "In a certain conductor, a current density of 1e6 A/m² is measured when an electric field of 5 V/m is applied. Calculate the resistivity of the material.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen069"
+    "question_id": "cbse_xii_leph1dd_c103_gen069",
+    "section_name": "3.4 OHM'S LAW"
   }
 ]

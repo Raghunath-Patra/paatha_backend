@@ -133,7 +133,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen147"
+    "question_id": "cbse_xii_leph1dd_c103_gen147",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "In a conductor where current flows from A to B, if the potential at A is greater than at B, what is the value of the potential difference V = V(A) - V(B)?",
@@ -152,7 +153,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen148"
+    "question_id": "cbse_xii_leph1dd_c103_gen148",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "Electrical energy loss in transmission cables is minimized by using high voltage because:",
@@ -171,7 +173,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen149"
+    "question_id": "cbse_xii_leph1dd_c103_gen149",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "What role does the external energy source play in a circuit with a resistive load?",
@@ -190,7 +193,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen150"
+    "question_id": "cbse_xii_leph1dd_c103_gen150",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "According to conservation of energy, if charges moved without collisions through a conductor, what would be the change in their kinetic energy?",
@@ -209,7 +213,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen151"
+    "question_id": "cbse_xii_leph1dd_c103_gen151",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "Explain briefly why in an actual conductor the charge carriers do not continuously accelerate even though an electric field is applied.",
@@ -223,7 +228,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen152"
+    "question_id": "cbse_xii_leph1dd_c103_gen152",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "State the relationship between the change in potential energy of a charge and the power delivered in a given time interval in a circuit.",
@@ -237,7 +243,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen153"
+    "question_id": "cbse_xii_leph1dd_c103_gen153",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "Describe how the formula P = I²R is derived from Ohm's law.",
@@ -251,7 +258,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen154"
+    "question_id": "cbse_xii_leph1dd_c103_gen154",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "Write the expression for power lost in transmission cables and explain why increasing the transmission voltage reduces this loss.",
@@ -265,7 +273,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen155"
+    "question_id": "cbse_xii_leph1dd_c103_gen155",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "Discuss the energy transformation processes occurring in a conductor when charges move from a higher to a lower potential in the presence of collisions.",
@@ -279,7 +288,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen156"
+    "question_id": "cbse_xii_leph1dd_c103_gen156",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "Evaluate the advantages and potential hazards associated with high voltage power transmission. Your answer should include an explanation of how high voltage helps in reducing transmission losses and the safety measures required to mitigate risks.",
@@ -293,7 +303,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen157"
+    "question_id": "cbse_xii_leph1dd_c103_gen157",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "Analyze how energy conservation is maintained in a DC circuit containing resistive loads, including the role played by the external power source.",
@@ -307,7 +318,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen158"
+    "question_id": "cbse_xii_leph1dd_c103_gen158",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "True or False: In a steady current conductor, the charge carriers continuously accelerate as they move through the conductor.",
@@ -321,7 +333,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen159"
+    "question_id": "cbse_xii_leph1dd_c103_gen159",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "True or False: The power dissipated in a resistor is directly proportional to the square of the current passing through it.",
@@ -335,7 +348,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen160"
+    "question_id": "cbse_xii_leph1dd_c103_gen160",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "True or False: Using a transformer to step up the voltage for power transmission results in increased power loss in the transmission cables.",
@@ -349,7 +363,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen161"
+    "question_id": "cbse_xii_leph1dd_c103_gen161",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "A resistor with a resistance of 10 ohms carries a current of 2 A. Calculate the power dissipated in the resistor.",
@@ -363,7 +378,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen162"
+    "question_id": "cbse_xii_leph1dd_c103_gen162",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "A device requires 500 W of power and is connected to a 250 V supply. First, calculate the current through the device. Then, if the connecting transmission cable has a resistance of 0.5 ohm, calculate the power loss in the cable.",
@@ -377,7 +393,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen163"
+    "question_id": "cbse_xii_leph1dd_c103_gen163",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "For a power transmission line delivering 1000 W to a load at 1000 V with transmission cables having a resistance of 2 ohms, determine the current in the line, the power loss in the cable, and the percentage of the total power lost.",
@@ -391,7 +408,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "09_section_3_9",
-    "question_id": "cbse_xii_leph1dd_c103_gen164"
+    "question_id": "cbse_xii_leph1dd_c103_gen164",
+    "section_name": "3.9 ELECTRICAL ENERGY, POWER"
   },
   {
     "question_text": "Which of the following best represents Ohm's law as stated in the section?",
@@ -410,7 +428,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen052"
+    "question_id": "cbse_xii_leph1dd_c103_gen052",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "What is the SI unit for resistance?",
@@ -429,7 +448,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen053"
+    "question_id": "cbse_xii_leph1dd_c103_gen053",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "If a conductor's length is doubled while its cross-sectional area is kept constant, what happens to its resistance?",
@@ -448,7 +468,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen054"
+    "question_id": "cbse_xii_leph1dd_c103_gen054",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Current density is defined as:",
@@ -467,7 +488,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen055"
+    "question_id": "cbse_xii_leph1dd_c103_gen055",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Which of the following equations correctly represents the relationship between the potential difference (V), electric field (E), and length (l) of a conductor?",
@@ -486,7 +508,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen056"
+    "question_id": "cbse_xii_leph1dd_c103_gen056",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Define resistivity and state the formula that relates resistance (R), resistivity (ρ), length (l), and cross-sectional area (A).",
@@ -500,7 +523,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen057"
+    "question_id": "cbse_xii_leph1dd_c103_gen057",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Explain how the resistance changes when a conductor is divided lengthwise into two identical pieces, each having half the original cross-sectional area.",
@@ -514,7 +538,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen058"
+    "question_id": "cbse_xii_leph1dd_c103_gen058",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Write the relationship between the electric field (E) and current density (j). Also, define the symbol σ in this context.",
@@ -528,7 +553,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen059"
+    "question_id": "cbse_xii_leph1dd_c103_gen059",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Discuss how the dimensions of a conductor affect its resistance. In your discussion, explain how changes in length and cross-sectional area independently influence the resistance, and support your explanation with relevant examples.",
@@ -542,7 +568,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen060"
+    "question_id": "cbse_xii_leph1dd_c103_gen060",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Explain how the concept of current density is integrated into Ohm's law and derive the relationship between the electric field (E) and current density (j). Include a discussion on the vector form of Ohm's law.",
@@ -556,7 +583,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen061"
+    "question_id": "cbse_xii_leph1dd_c103_gen061",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "True or False: Doubling the length of a conductor while keeping its cross-sectional area constant will double its resistance.",
@@ -570,7 +598,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen062"
+    "question_id": "cbse_xii_leph1dd_c103_gen062",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "True or False: Dividing the cross-sectional area of a conductor by half will result in halving the resistance.",
@@ -584,7 +613,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen063"
+    "question_id": "cbse_xii_leph1dd_c103_gen063",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "True or False: Conductivity is defined as the reciprocal of resistivity.",
@@ -598,7 +628,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen064"
+    "question_id": "cbse_xii_leph1dd_c103_gen064",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "A copper wire has a resistivity of 1.7e-8 ohm-m, a length of 2 m, and a cross-sectional area of 1e-6 m². Calculate its resistance.",
@@ -612,7 +643,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen065"
+    "question_id": "cbse_xii_leph1dd_c103_gen065",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "A resistor made of a particular material has a resistance of 10 ohms when its length is 1 m and its cross-sectional area is 2e-6 m². If a new resistor is made using the same material with the length doubled and the cross-sectional area halved, what is the new resistance?",
@@ -626,7 +658,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen066"
+    "question_id": "cbse_xii_leph1dd_c103_gen066",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "For a uniform conductor with a conductivity of 5e7 S/m, an electric field of 2 V/m is applied. Calculate the current density in the conductor.",
@@ -640,7 +673,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen067"
+    "question_id": "cbse_xii_leph1dd_c103_gen067",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "A two-part conductor is made by joining two slabs of identical material in series. The first slab has a length of 0.5 m and a cross-sectional area of 2e-6 m², and the second slab has a length of 1 m and the same cross-sectional area of 2e-6 m². If the resistivity is 1e-8 ohm-m, calculate the total resistance of the combination.",
@@ -654,7 +688,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen068"
+    "question_id": "cbse_xii_leph1dd_c103_gen068",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "In a certain conductor, a current density of 1e6 A/m² is measured when an electric field of 5 V/m is applied. Calculate the resistivity of the material.",
@@ -668,7 +703,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "04_section_3_4",
-    "question_id": "cbse_xii_leph1dd_c103_gen069"
+    "question_id": "cbse_xii_leph1dd_c103_gen069",
+    "section_name": "3.4 OHM'S LAW"
   },
   {
     "question_text": "Which of the following best describes Kirchhoff's Junction Rule?",
@@ -687,7 +723,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen201"
+    "question_id": "cbse_xii_leph1dd_c103_gen201",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Which statement best describes Kirchhoff's Loop Rule?",
@@ -706,7 +743,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen202"
+    "question_id": "cbse_xii_leph1dd_c103_gen202",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "When labelling a cell, if you follow the current arrow from the negative terminal to the positive terminal, what is the correct expression for the potential difference?",
@@ -725,7 +763,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen203"
+    "question_id": "cbse_xii_leph1dd_c103_gen203",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Kirchhoff's circuit laws are derived based on which fundamental physical principle?",
@@ -744,7 +783,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen204"
+    "question_id": "cbse_xii_leph1dd_c103_gen204",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "State Kirchhoff's Loop Rule in your own words.",
@@ -758,7 +798,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen205"
+    "question_id": "cbse_xii_leph1dd_c103_gen205",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Briefly describe the role of the arbitrarily assigned directions of currents in circuit analysis using Kirchhoff's rules.",
@@ -772,7 +813,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen206"
+    "question_id": "cbse_xii_leph1dd_c103_gen206",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Explain why the Kirchhoff's Junction Rule is a consequence of the conservation of electric charge.",
@@ -786,7 +828,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen207"
+    "question_id": "cbse_xii_leph1dd_c103_gen207",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "What potential differences or voltage drops are encountered when traversing a resistor in the direction of current flow?",
@@ -800,7 +843,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen208"
+    "question_id": "cbse_xii_leph1dd_c103_gen208",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Discuss how symmetry in a cubical resistor network can simplify the application of Kirchhoff's rules to find the equivalent resistance.",
@@ -814,7 +858,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen209"
+    "question_id": "cbse_xii_leph1dd_c103_gen209",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Derive Kirchhoff's Junction Rule using the principle of conservation of electric charge.",
@@ -828,7 +873,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen210"
+    "question_id": "cbse_xii_leph1dd_c103_gen210",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "True or False: In any closed circuit loop, the sum of the voltage gains and voltage drops will always be zero.",
@@ -842,7 +888,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen211"
+    "question_id": "cbse_xii_leph1dd_c103_gen211",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "True or False: A negative value for an assigned current after solving the Kirchhoff's equations indicates an error in the analysis.",
@@ -856,7 +903,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen212"
+    "question_id": "cbse_xii_leph1dd_c103_gen212",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "True or False: The symmetry in a cubical network ensures that all twelve resistors carry the same current regardless of the applied voltage.",
@@ -870,7 +918,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen213"
+    "question_id": "cbse_xii_leph1dd_c103_gen213",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "A simple circuit consists of a single battery of 10 V and a resistor of 5 Ω. Using Kirchhoff's Loop Rule, calculate the current flowing through the resistor.",
@@ -884,7 +933,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen214"
+    "question_id": "cbse_xii_leph1dd_c103_gen214",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "In a network, three currents I1, I2, and I3 are related by the following equations from Kirchhoff's rules: 7I1 - 6I2 - 2I3 = 10, I1 + 6I2 + 2I3 = 10, and 2I1 - 4I2 - 4I3 = -5. Solve for I1, I2, and I3.",
@@ -898,7 +948,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen215"
+    "question_id": "cbse_xii_leph1dd_c103_gen215",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "A cubical network has 12 edges each with a resistor of 1 Ω. A battery of 10 V is connected across the diagonally opposite corners. If the equivalent resistance of the network is (5/6) Ω as calculated using symmetry, determine the total current supplied by the battery.",
@@ -912,7 +963,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen216"
+    "question_id": "cbse_xii_leph1dd_c103_gen216",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Consider a diamond-shaped network with two voltage sources of 10 V and 5 V, and resistors of 4 Ω, 2 Ω, and 1 Ω arranged in branches. Using Kirchhoff's rules, write down the loop equations for two independent loops that would allow you to solve for the unknown branch currents.",
@@ -926,7 +978,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen217"
+    "question_id": "cbse_xii_leph1dd_c103_gen217",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "A circuit loop contains a battery of 10 V with an internal resistance of 0.5 Ω and an external resistor of 4.5 Ω. If you traverse the loop from the negative to the positive terminal of the battery, calculate the potential difference across the battery including the internal resistance drop, and then determine the current in the circuit.",
@@ -940,7 +993,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "12_section_3_12",
-    "question_id": "cbse_xii_leph1dd_c103_gen218"
+    "question_id": "cbse_xii_leph1dd_c103_gen218",
+    "section_name": "3.12 KIRCHHOFF'S RULES"
   },
   {
     "question_text": "Which of the following best explains why there is no net current in a conductor when no electric field is applied?",
@@ -959,7 +1013,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen033"
+    "question_id": "cbse_xii_leph1dd_c103_gen033",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "What role do the fixed positive ions play in the conduction process in a metal?",
@@ -978,7 +1033,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen034"
+    "question_id": "cbse_xii_leph1dd_c103_gen034",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "When a steady current exists in a conductor, which of the following statements is true about the electric field in the conductor?",
@@ -997,7 +1053,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen035"
+    "question_id": "cbse_xii_leph1dd_c103_gen035",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Electrons in a conductor accelerate in response to an applied electric field. Which of the following best describes their motion after collisions with ions?",
@@ -1016,7 +1073,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen036"
+    "question_id": "cbse_xii_leph1dd_c103_gen036",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "A conductor in the shape of a cylinder develops a transient current when charges are applied to its ends. What causes the current to eventually stop if no external supply is provided?",
@@ -1035,7 +1093,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen037"
+    "question_id": "cbse_xii_leph1dd_c103_gen037",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Explain in a few sentences why there is no net current in a conductor when there is no applied electric field.",
@@ -1049,7 +1108,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen038"
+    "question_id": "cbse_xii_leph1dd_c103_gen038",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Describe what happens to the motion of electrons when an electric field is applied to a conductor.",
@@ -1063,7 +1123,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen039"
+    "question_id": "cbse_xii_leph1dd_c103_gen039",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Why does the current in a conductor become continuous rather than transient when the terminal charges are continuously replenished?",
@@ -1077,7 +1138,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen040"
+    "question_id": "cbse_xii_leph1dd_c103_gen040",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Discuss the role of thermal motion in electron collisions within a conductor and its impact on electrical conduction.",
@@ -1091,7 +1153,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen041"
+    "question_id": "cbse_xii_leph1dd_c103_gen041",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Analyze the process by which a steady electric current is maintained in a conductor using a battery or cell.",
@@ -1105,7 +1168,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen042"
+    "question_id": "cbse_xii_leph1dd_c103_gen042",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Compare and contrast the conduction processes in solid conductors (like metals) and in electrolytic solutions.",
@@ -1119,7 +1183,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen043"
+    "question_id": "cbse_xii_leph1dd_c103_gen043",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Propose a detailed experimental setup to demonstrate the transition from no net current to a transient current when an electric field is applied to a conductor.",
@@ -1133,7 +1198,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen044"
+    "question_id": "cbse_xii_leph1dd_c103_gen044",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "True or False: In the absence of an applied electric field, electrons in a conductor are completely at rest.",
@@ -1147,7 +1213,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen045"
+    "question_id": "cbse_xii_leph1dd_c103_gen045",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "True or False: If the charges at the ends of a conductor are not continuously replenished, the electric current will eventually cease.",
@@ -1161,7 +1228,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen046"
+    "question_id": "cbse_xii_leph1dd_c103_gen046",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "True or False: In metallic conductors, the electrons that contribute to the current are tightly bound to the atoms of the lattice.",
@@ -1175,7 +1243,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen047"
+    "question_id": "cbse_xii_leph1dd_c103_gen047",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "A cylindrical conductor has a radius of 1 cm and a length of 10 cm. The free electron density is 8.5e28 electrons per cubic meter, and the drift velocity under an applied electric field is 2e-4 m/s. Calculate the current flowing through the conductor. (Electron charge = 1.6e-19 C)",
@@ -1189,7 +1258,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen048"
+    "question_id": "cbse_xii_leph1dd_c103_gen048",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "A battery of 9 V is connected across a resistor of 3 Ω in a circuit containing a conductor. Calculate the current flowing through the circuit.",
@@ -1203,7 +1273,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen049"
+    "question_id": "cbse_xii_leph1dd_c103_gen049",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Consider a cylindrical conductor with a pair of end discs having charges +Q and -Q, where Q = 2e-6 C. If a transient current of 0.005 A flows while the charges are being neutralized, calculate the duration of the current flow.",
@@ -1217,7 +1288,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen050"
+    "question_id": "cbse_xii_leph1dd_c103_gen050",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "A metallic cylinder with a radius of 0.5 cm is charged with +Q = 1e-5 C at one end and -Q = 1e-5 C at the other end. If electrons drift to neutralize the charges in 0.2 seconds, calculate the total number of electrons transferred. (Electron charge = 1.6e-19 C)",
@@ -1231,7 +1303,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_leph1dd_c103_gen051"
+    "question_id": "cbse_xii_leph1dd_c103_gen051",
+    "section_name": "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
   },
   {
     "question_text": "Which one of the following equations correctly represents the drift velocity vd of conduction electrons in a conductor under an applied electric field?",
@@ -1250,7 +1323,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen070"
+    "question_id": "cbse_xii_leph1dd_c103_gen070",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "What is the relaxation time τ in the context of electron conduction?",
@@ -1269,7 +1343,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen071"
+    "question_id": "cbse_xii_leph1dd_c103_gen071",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Ohm's law in its microscopic form relates the current density j to the electric field E. Which of the following expresses this relation?",
@@ -1288,7 +1363,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen072"
+    "question_id": "cbse_xii_leph1dd_c103_gen072",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Which of the following is the SI unit for mobility (μ)?",
@@ -1307,7 +1383,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen073"
+    "question_id": "cbse_xii_leph1dd_c103_gen073",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "The drift velocity of electrons in a conductor is opposite to the direction of the applied electric field. Which option best explains this phenomenon?",
@@ -1326,7 +1403,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen074"
+    "question_id": "cbse_xii_leph1dd_c103_gen074",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Define the term 'relaxation time' in the context of conduction electrons.",
@@ -1340,7 +1418,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen075"
+    "question_id": "cbse_xii_leph1dd_c103_gen075",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Explain why the drift speed of electrons in a conductor is orders of magnitude lower than their thermal speeds.",
@@ -1354,7 +1433,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen076"
+    "question_id": "cbse_xii_leph1dd_c103_gen076",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Why does a net current flow in a conductor even though the instantaneous velocities of the electrons average to zero immediately after collisions?",
@@ -1368,7 +1448,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen077"
+    "question_id": "cbse_xii_leph1dd_c103_gen077",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Discuss how electrons in a conductor develop a steady drift velocity under an applied electric field despite undergoing continuous acceleration between collisions.",
@@ -1382,7 +1463,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen078"
+    "question_id": "cbse_xii_leph1dd_c103_gen078",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Derive the expression for electrical conductivity sigma (σ) of a metal starting from the drift velocity equation.",
@@ -1396,7 +1478,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen079"
+    "question_id": "cbse_xii_leph1dd_c103_gen079",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "True or False: In the absence of an electric field, the electrons in a conductor follow curved paths due to collisions with positive ions.",
@@ -1410,7 +1493,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen080"
+    "question_id": "cbse_xii_leph1dd_c103_gen080",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "True or False: Electrons continuously accelerate in a conductor under a constant electric field without ever reaching a steady average velocity.",
@@ -1424,7 +1508,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen081"
+    "question_id": "cbse_xii_leph1dd_c103_gen081",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "A copper wire has a cross-sectional area of 1.0 x 10^-7 m² and carries a current of 1.5 A. Given that the electron charge e is 1.6 x 10^-19 C and the conduction electron density n in copper is approximately 8.5 x 10^28 m^-3, calculate the drift speed of electrons in the wire.",
@@ -1438,7 +1523,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen082"
+    "question_id": "cbse_xii_leph1dd_c103_gen082",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Given that the mobility μ of electrons in a metal is defined by μ = vd/E and that it can also be expressed as μ = eτ/m, calculate the relaxation time τ if the mobility is 0.004 m²/(V·s), the electron charge e is 1.6 x 10^-19 C, and the electron mass m is 9.11 x 10^-31 kg.",
@@ -1452,7 +1538,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen083"
+    "question_id": "cbse_xii_leph1dd_c103_gen083",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "Using the relation σ = (n e² τ/m), compute the conductivity σ for a metal if n = 8.5 x 10^28 m^-3, e = 1.6 x 10^-19 C, τ = 2.5 x 10^-14 s, and m = 9.11 x 10^-31 kg.",
@@ -1466,7 +1553,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen084"
+    "question_id": "cbse_xii_leph1dd_c103_gen084",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "A conductor has a cross-sectional area of 2.0 x 10^-6 m² and carries a current of 5 A. If the electron density n is 1.0 x 10^29 m^-3 and the elementary charge is 1.6 x 10^-19 C, calculate (a) the drift speed of the electrons and (b) the number of electrons crossing a section of the conductor in 1.0 x 10^-6 s.",
@@ -1480,7 +1568,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "05_section_3_5",
-    "question_id": "cbse_xii_leph1dd_c103_gen085"
+    "question_id": "cbse_xii_leph1dd_c103_gen085",
+    "section_name": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY"
   },
   {
     "question_text": "What is the name of the circuit that consists of four resistors arranged in a diamond shape with a galvanometer connected across one pair of opposite vertices?",
@@ -1499,7 +1588,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen219"
+    "question_id": "cbse_xii_leph1dd_c103_gen219",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "In a balanced Wheatstone bridge, what is the relationship between the four resistors?",
@@ -1518,7 +1608,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen220"
+    "question_id": "cbse_xii_leph1dd_c103_gen220",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "When the Wheatstone bridge is balanced, what is the current through the galvanometer?",
@@ -1537,7 +1628,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen221"
+    "question_id": "cbse_xii_leph1dd_c103_gen221",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Which fundamental law is applied along with Kirchhoff's junction rule to derive the balance condition in a Wheatstone bridge?",
@@ -1556,7 +1648,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen222"
+    "question_id": "cbse_xii_leph1dd_c103_gen222",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "For a balanced Wheatstone bridge used to determine an unknown resistance R4, which of the following expresses R4 in terms of R1, R2, and R3?",
@@ -1575,7 +1668,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen223"
+    "question_id": "cbse_xii_leph1dd_c103_gen223",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Define the term 'galvanometer arm' in the context of a Wheatstone bridge.",
@@ -1589,7 +1683,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen224"
+    "question_id": "cbse_xii_leph1dd_c103_gen224",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "State the significance of attaining a balance condition in a Wheatstone bridge.",
@@ -1603,7 +1698,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen225"
+    "question_id": "cbse_xii_leph1dd_c103_gen225",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "How does applying Kirchhoff's junction rule at the nodes of a Wheatstone bridge assist in deriving the balance condition?",
@@ -1617,7 +1713,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen226"
+    "question_id": "cbse_xii_leph1dd_c103_gen226",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Explain how a Wheatstone bridge may be used to determine an unknown resistance. Provide a brief description of the procedure.",
@@ -1631,7 +1728,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen227"
+    "question_id": "cbse_xii_leph1dd_c103_gen227",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Discuss in detail how Kirchhoff's rules are applied to derive the balance condition in a Wheatstone bridge. Explain the role of both the junction rule and the loop rule using mesh analysis.",
@@ -1645,7 +1743,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen228"
+    "question_id": "cbse_xii_leph1dd_c103_gen228",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "Analyze the effect of a non-zero internal resistance in the battery on the balance condition of a Wheatstone bridge. How would the derivation of the balance condition change if the internal resistance were included?",
@@ -1659,7 +1758,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen229"
+    "question_id": "cbse_xii_leph1dd_c103_gen229",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "True or False: In a balanced Wheatstone bridge, the ratio R1/R2 is always equal to R3/R4.",
@@ -1673,7 +1773,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen230"
+    "question_id": "cbse_xii_leph1dd_c103_gen230",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "True or False: Kirchhoff's loop rule states that the sum of the potential differences around any closed circuit loop is zero.",
@@ -1687,7 +1788,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen231"
+    "question_id": "cbse_xii_leph1dd_c103_gen231",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "In a balanced Wheatstone bridge, if R1 = 50 Ω, R2 = 100 Ω, and R3 = 80 Ω, determine the value of the unknown resistor R4.",
@@ -1701,7 +1803,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen232"
+    "question_id": "cbse_xii_leph1dd_c103_gen232",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "A Wheatstone bridge is balanced when R1 = 120 Ω and R2 = 300 Ω. If R3 is adjusted to 90 Ω at balance, calculate the unknown resistor R4.",
@@ -1715,7 +1818,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen233"
+    "question_id": "cbse_xii_leph1dd_c103_gen233",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "In Example 3.7, a galvanometer current of approximately 4.87 mA was obtained. Given the relation from the mesh analysis that I2 equals 31.5 times Ig, verify the magnitude of I2 using the provided Ig value.",
@@ -1729,7 +1833,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen234"
+    "question_id": "cbse_xii_leph1dd_c103_gen234",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "A Wheatstone bridge is set up with a battery voltage of 10 V. If the bridge is balanced with R1 = 100 Ω, R2 = 60 Ω, and R3 = 90 Ω, determine the unknown resistor R4. Then, analyze whether changing the battery voltage would affect the balance condition.",
@@ -1743,7 +1848,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen235"
+    "question_id": "cbse_xii_leph1dd_c103_gen235",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "A Wheatstone bridge initially balanced has R1 = 200 Ω, R2 = 100 Ω, R3 = 150 Ω, and thus R4 = 75 Ω. If R4 then increases by 1%, calculate the resulting unbalanced voltage across the galvanometer when a 5 V battery is used. (Assume the galvanometer is ideal and the bridge is close to balance so that a voltage difference develops across the galvanometer)",
@@ -1757,7 +1863,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "13_section_3_13",
-    "question_id": "cbse_xii_leph1dd_c103_gen236"
+    "question_id": "cbse_xii_leph1dd_c103_gen236",
+    "section_name": "3.13 WHEATSTONE BRIDGE"
   },
   {
     "question_text": "What does the symbol α represent in the relation ρT = ρ0 [1 + α (T - T0)]?",
@@ -1776,7 +1883,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen127"
+    "question_id": "cbse_xii_leph1dd_c103_gen127",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "For a metallic conductor, which of the following best describes the graph of resistivity versus temperature over a limited range compared to very low temperatures?",
@@ -1795,7 +1903,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen128"
+    "question_id": "cbse_xii_leph1dd_c103_gen128",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Why does the resistivity of metals increase with temperature?",
@@ -1814,7 +1923,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen129"
+    "question_id": "cbse_xii_leph1dd_c103_gen129",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "What is the dimension of the temperature coefficient of resistivity α?",
@@ -1833,7 +1943,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen130"
+    "question_id": "cbse_xii_leph1dd_c103_gen130",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Which of the following materials is most suitable for wire bound standard resistors due to its minimal change in resistance with temperature?",
@@ -1852,7 +1963,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen131"
+    "question_id": "cbse_xii_leph1dd_c103_gen131",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Define resistivity in the context of electrical conduction.",
@@ -1866,7 +1978,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen132"
+    "question_id": "cbse_xii_leph1dd_c103_gen132",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Explain why the resistivity of semiconductors decreases with increasing temperature.",
@@ -1880,7 +1993,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen133"
+    "question_id": "cbse_xii_leph1dd_c103_gen133",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Write down the linear relation used to approximate the resistivity of a metallic conductor over a limited temperature range.",
@@ -1894,7 +2008,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen134"
+    "question_id": "cbse_xii_leph1dd_c103_gen134",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "How does the increase in electron collision frequency affect the resistivity of a metal?",
@@ -1908,7 +2023,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen135"
+    "question_id": "cbse_xii_leph1dd_c103_gen135",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Discuss the key differences in the temperature dependence of resistivity between metals and semiconductors. Include relevant equations in your discussion.",
@@ -1922,7 +2038,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen136"
+    "question_id": "cbse_xii_leph1dd_c103_gen136",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Evaluate the limitations of using the equation ρT = ρ0 [1 + α (T - T0)] for describing resistivity over large temperature ranges, and suggest why deviations occur at extremely low temperatures.",
@@ -1936,7 +2053,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen137"
+    "question_id": "cbse_xii_leph1dd_c103_gen137",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Design an experimental procedure to measure the temperature coefficient of resistivity (α) for a metal. Your answer should include the required apparatus, the method of data collection, and the analysis process.",
@@ -1950,7 +2068,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen138"
+    "question_id": "cbse_xii_leph1dd_c103_gen138",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "True or False: For metals, the temperature coefficient of resistivity is negative.",
@@ -1964,7 +2083,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen139"
+    "question_id": "cbse_xii_leph1dd_c103_gen139",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "True or False: Nichrome exhibits a very weak dependence of resistivity on temperature, making it suitable for standard resistors.",
@@ -1978,7 +2098,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen140"
+    "question_id": "cbse_xii_leph1dd_c103_gen140",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "True or False: In semiconductors, the density of free electrons decreases as temperature increases.",
@@ -1992,7 +2113,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen141"
+    "question_id": "cbse_xii_leph1dd_c103_gen141",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "A metallic conductor has a resistance of 50 ohms at 20°C. If its temperature coefficient of resistivity is 0.004/°C, calculate its resistance at 70°C.",
@@ -2006,7 +2128,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen142"
+    "question_id": "cbse_xii_leph1dd_c103_gen142",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "Using the data from Example 3.3, an electric toaster has a resistance of 75.3 ohms at room temperature (27°C) and reaches a resistance of 85.8 ohms when connected to a 230 V supply drawing a current of 2.68 A. Given that the temperature coefficient of resistance of nichrome is 1.70 × 10^-4/°C, calculate the steady temperature of the nichrome element.",
@@ -2020,7 +2143,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen143"
+    "question_id": "cbse_xii_leph1dd_c103_gen143",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "A platinum resistance thermometer has a resistance of 5 Ω at 0°C and 5.23 Ω at 100°C. If the resistance of the thermometer in a hot bath is measured to be 5.795 Ω, calculate the temperature of the bath.",
@@ -2034,7 +2158,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen144"
+    "question_id": "cbse_xii_leph1dd_c103_gen144",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "For a semiconductor, the resistivity changes from 10 ohm-m at temperature T1 to 8 ohm-m at temperature T2, assuming that only the number of free electrons changes significantly. Estimate the percentage increase in the number of free electrons.",
@@ -2048,7 +2173,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen145"
+    "question_id": "cbse_xii_leph1dd_c103_gen145",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "A nichrome wire has a resistance of 100 ohms at room temperature (25°C). When heated, its resistance increases to 110 ohms. Given that the temperature coefficient of resistance for nichrome is 1.70 × 10^-4/°C, calculate the change in temperature and the final temperature of the wire.",
@@ -2062,7 +2188,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "08_section_3_8",
-    "question_id": "cbse_xii_leph1dd_c103_gen146"
+    "question_id": "cbse_xii_leph1dd_c103_gen146",
+    "section_name": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY"
   },
   {
     "question_text": "What is the definition of electric current as given in the textbook section?",
@@ -2081,7 +2208,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen016"
+    "question_id": "cbse_xii_leph1dd_c103_gen016",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "If the computed value of current in a conductor is negative, what does this indicate?",
@@ -2100,7 +2228,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen017"
+    "question_id": "cbse_xii_leph1dd_c103_gen017",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Which of the following is the SI unit for measuring electric current?",
@@ -2119,7 +2248,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen018"
+    "question_id": "cbse_xii_leph1dd_c103_gen018",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "For steady currents, the net charge q is proportional to time t. Which of the following expressions best represents this relationship?",
@@ -2138,7 +2268,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen019"
+    "question_id": "cbse_xii_leph1dd_c103_gen019",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "How is the instantaneous current defined according to the text?",
@@ -2157,7 +2288,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen020"
+    "question_id": "cbse_xii_leph1dd_c103_gen020",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Define net charge flow in the forward direction in a time interval t as described in the section.",
@@ -2171,7 +2303,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen021"
+    "question_id": "cbse_xii_leph1dd_c103_gen021",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Explain why the net charge q is expressed as the difference between q+ and q-.",
@@ -2185,7 +2318,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen022"
+    "question_id": "cbse_xii_leph1dd_c103_gen022",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Discuss the role of the limiting process (Δt tending to 0) in defining the instantaneous current.",
@@ -2199,7 +2333,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen023"
+    "question_id": "cbse_xii_leph1dd_c103_gen023",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Discuss the differences in magnitude between currents in domestic appliances, lightning, and nerve impulses, as described in the section.",
@@ -2213,7 +2348,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen024"
+    "question_id": "cbse_xii_leph1dd_c103_gen024",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Explain the significance of defining electric current as the limit of charge flow over time and its impact on our understanding of electrical phenomena.",
@@ -2227,7 +2363,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen025"
+    "question_id": "cbse_xii_leph1dd_c103_gen025",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Critically analyze the flow of charges in a conductor's cross-section, taking into account the contributions of both positive and negative charges. How does this understanding influence the calculation of net current?",
@@ -2241,7 +2378,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen026"
+    "question_id": "cbse_xii_leph1dd_c103_gen026",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "True or False: An ampere is defined solely by the amount of charge passing through a cross-section per unit time under all conditions.",
@@ -2255,7 +2393,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen027"
+    "question_id": "cbse_xii_leph1dd_c103_gen027",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "True or False: If the net amount of negative charge flowing in the forward direction exceeds the net positive charge, then the calculated current will be negative.",
@@ -2269,7 +2408,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen028"
+    "question_id": "cbse_xii_leph1dd_c103_gen028",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "A steady current flows through a wire. In 2 seconds, the net positive charge flow is 10 coulombs and the net negative charge flow is 3 coulombs (both measured in the forward direction). Calculate the current in the wire. Provide your answer with proper units.",
@@ -2283,7 +2423,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen029"
+    "question_id": "cbse_xii_leph1dd_c103_gen029",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Using the definition of instantaneous current, if ΔQ = 0.15 coulombs flows in Δt = 0.03 seconds, what is the approximated current? Provide your answer in amperes.",
@@ -2297,7 +2438,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen030"
+    "question_id": "cbse_xii_leph1dd_c103_gen030",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "In a non-steady current scenario, the net charge crossing a segment of a conductor increases from 0.2 C to 0.4 C over a time interval of 0.5 seconds. Assuming a constant rate of increase during this interval, calculate the current at the midpoint of the interval. Provide your answer with proper units.",
@@ -2311,7 +2453,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen031"
+    "question_id": "cbse_xii_leph1dd_c103_gen031",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "An experiment measures a net charge flow of 0.01 C in 0.002 seconds with an uncertainty of ±10% in both ΔQ and Δt. Estimate the range of possible current values in amperes.",
@@ -2325,7 +2468,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_xii_leph1dd_c103_gen032"
+    "question_id": "cbse_xii_leph1dd_c103_gen032",
+    "section_name": "3.2 ELECTRIC CURRENT"
   },
   {
     "question_text": "Which of the following is an example of a device that operates with a steady electric current as mentioned in Section 3.1?",
@@ -2344,7 +2488,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen001"
+    "question_id": "cbse_xii_leph1dd_c103_gen001",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following options best defines electric current as described in Section 3.1?",
@@ -2363,7 +2508,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen002"
+    "question_id": "cbse_xii_leph1dd_c103_gen002",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Which phenomenon is characterized by a non-steady flow of charges according to the section?",
@@ -2382,7 +2528,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen003"
+    "question_id": "cbse_xii_leph1dd_c103_gen003",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Steady electric current is analogous to which of the following everyday phenomena as mentioned in the text?",
@@ -2401,7 +2548,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen004"
+    "question_id": "cbse_xii_leph1dd_c103_gen004",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Define electric current as described in Section 3.1.",
@@ -2415,7 +2563,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen005"
+    "question_id": "cbse_xii_leph1dd_c103_gen005",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the difference between steady and non-steady electric currents as described in the textbook section.",
@@ -2429,7 +2578,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen006"
+    "question_id": "cbse_xii_leph1dd_c103_gen006",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Provide an example of a natural phenomenon involving charge movement mentioned in the section and describe its current characteristics.",
@@ -2443,7 +2593,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen007"
+    "question_id": "cbse_xii_leph1dd_c103_gen007",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the significance of studying steady electric currents and explain how this understanding is beneficial in everyday electronic devices.",
@@ -2457,7 +2608,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen008"
+    "question_id": "cbse_xii_leph1dd_c103_gen008",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the role of electric current in a torch and a cell-driven clock. In your explanation, analyze how the principles of steady current ensure their proper functioning.",
@@ -2471,7 +2623,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen009"
+    "question_id": "cbse_xii_leph1dd_c103_gen009",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Lightning is an example of a steady electric current.",
@@ -2485,7 +2638,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen010"
+    "question_id": "cbse_xii_leph1dd_c103_gen010",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: A cell-driven clock operates using the principle of steady electric current.",
@@ -2499,7 +2653,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen011"
+    "question_id": "cbse_xii_leph1dd_c103_gen011",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "A circuit carries a steady current of 2 A for a duration of 10 seconds. Calculate the total amount of charge that flows through the circuit.",
@@ -2513,7 +2668,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen012"
+    "question_id": "cbse_xii_leph1dd_c103_gen012",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "A battery-powered circuit in a torch operates with a steady current of 0.5 A. Given that the charge of one electron is approximately 1.6 x 10^-19 Coulombs, estimate the number of electrons passing through the circuit per second.",
@@ -2527,7 +2683,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen013"
+    "question_id": "cbse_xii_leph1dd_c103_gen013",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "A lightning bolt lasts for 0.002 seconds and transfers a total charge of 5 Coulombs. Calculate the average current during the lightning bolt.",
@@ -2541,7 +2698,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen014"
+    "question_id": "cbse_xii_leph1dd_c103_gen014",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "A steady current circuit is expected to have a current of 1.5 A. In an experiment, 30 Coulombs of charge are recorded to have passed through the circuit in 20 seconds. Verify if this recorded current is consistent with the expected value.",
@@ -2555,7 +2713,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "01_section_3_1",
-    "question_id": "cbse_xii_leph1dd_c103_gen015"
+    "question_id": "cbse_xii_leph1dd_c103_gen015",
+    "section_name": "3.1 INTRODUCTION"
   },
   {
     "question_text": "In a series connection of two cells where the current leaves each cell from the positive electrode, how is the equivalent emf (εeq) determined?",
@@ -2574,7 +2733,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen183"
+    "question_id": "cbse_xii_leph1dd_c103_gen183",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "When two cells in series are connected such that the current leaves the first cell from its negative terminal, the equivalent emf becomes:",
@@ -2593,7 +2753,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen184"
+    "question_id": "cbse_xii_leph1dd_c103_gen184",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Which of the following represents the expression for the equivalent internal resistance (req) of two cells connected in series?",
@@ -2612,7 +2773,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen185"
+    "question_id": "cbse_xii_leph1dd_c103_gen185",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "In a parallel combination of cells, what is the relationship between the overall equivalent resistance and the individual internal resistances?",
@@ -2631,7 +2793,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen186"
+    "question_id": "cbse_xii_leph1dd_c103_gen186",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "For cells connected in parallel, the equivalent emf (εeq) is determined using which of the following relationships?",
@@ -2650,7 +2813,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen187"
+    "question_id": "cbse_xii_leph1dd_c103_gen187",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Explain the physical meaning of the internal resistance in a cell and how it affects the terminal voltage when current flows.",
@@ -2664,7 +2828,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen188"
+    "question_id": "cbse_xii_leph1dd_c103_gen188",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Describe how the equivalent emf is found when more than two cells are connected in series.",
@@ -2678,7 +2843,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen189"
+    "question_id": "cbse_xii_leph1dd_c103_gen189",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Discuss the advantages and limitations of using cells in parallel in a circuit with respect to current delivery and emf stability.",
@@ -2692,7 +2858,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen190"
+    "question_id": "cbse_xii_leph1dd_c103_gen190",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "For two cells connected in series, derive the expression for the terminal voltage V(AC) in terms of the individual emfs, internal resistances, and the current I.",
@@ -2706,7 +2873,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen191"
+    "question_id": "cbse_xii_leph1dd_c103_gen191",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Explain in detail the derivation of the expression for the equivalent emf in a parallel combination of two cells.",
@@ -2720,7 +2888,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen192"
+    "question_id": "cbse_xii_leph1dd_c103_gen192",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "A student claims that connecting cells in parallel always increases the emf output of the combination. Is this statement true or false? Explain.",
@@ -2734,7 +2903,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen193"
+    "question_id": "cbse_xii_leph1dd_c103_gen193",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "True or False: In a series combination, if one cell is connected in reverse (with respect to the standard orientation), its emf is subtracted from the total emf.",
@@ -2748,7 +2918,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen194"
+    "question_id": "cbse_xii_leph1dd_c103_gen194",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "True or False: The expression 1/req = 1/r1 + 1/r2 is valid only if the cells have identical emf’s.",
@@ -2762,7 +2933,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen195"
+    "question_id": "cbse_xii_leph1dd_c103_gen195",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Two cells with emfs of 2.0 V and 1.5 V, and internal resistances of 0.5 Ω and 0.3 Ω respectively, are connected in series (both connected with positive to negative). Calculate the equivalent emf, equivalent internal resistance, and the terminal voltage when a load draws a current of 1.0 A.",
@@ -2776,7 +2948,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen196"
+    "question_id": "cbse_xii_leph1dd_c103_gen196",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "In a parallel circuit consisting of two cells with emfs 3.0 V and 2.5 V and internal resistances 1.0 Ω and 0.5 Ω respectively, calculate the equivalent emf and the equivalent internal resistance.",
@@ -2790,7 +2963,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen197"
+    "question_id": "cbse_xii_leph1dd_c103_gen197",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "A battery pack is made by connecting three identical cells in parallel. Each cell has an emf of 1.5 V and an internal resistance of 2.0 Ω. Calculate the equivalent emf and the equivalent internal resistance of the battery pack.",
@@ -2804,7 +2978,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen198"
+    "question_id": "cbse_xii_leph1dd_c103_gen198",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "If two cells are connected in series, one with emf 4.0 V and internal resistance 0.4 Ω and the other with emf 3.0 V and internal resistance 0.6 Ω, calculate the terminal voltage across the combination when a current of 2.0 A flows.",
@@ -2818,7 +2993,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen199"
+    "question_id": "cbse_xii_leph1dd_c103_gen199",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "A circuit contains two cells connected in parallel with differing internal resistances. If cell 1 has ε1 = 5 V and r1 = 1 Ω, and cell 2 has ε2 = 4 V and r2 = 2 Ω, determine the net current supplied by the combination when connected to an external load that draws a voltage of 4.5 V across its terminals.",
@@ -2832,7 +3008,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "11_section_3_11",
-    "question_id": "cbse_xii_leph1dd_c103_gen200"
+    "question_id": "cbse_xii_leph1dd_c103_gen200",
+    "section_name": "3.11 CELLS IN SERIES AND IN PARALLEL"
   },
   {
     "question_text": "Which of the following devices is an example of a non-ohmic device as described in section 3.6?",
@@ -2851,7 +3028,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen086"
+    "question_id": "cbse_xii_leph1dd_c103_gen086",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "According to the text, when the relation between V and I is non-unique for a given current, which material exhibits such behavior?",
@@ -2870,7 +3048,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen087"
+    "question_id": "cbse_xii_leph1dd_c103_gen087",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Which graph characteristic best illustrates ohmic behavior?",
@@ -2889,7 +3068,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen088"
+    "question_id": "cbse_xii_leph1dd_c103_gen088",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "What happens when V ceases to be proportional to I in a device?",
@@ -2908,7 +3088,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen089"
+    "question_id": "cbse_xii_leph1dd_c103_gen089",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "In the context of the section, which material shows a region of negative resistance?",
@@ -2927,7 +3108,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen090"
+    "question_id": "cbse_xii_leph1dd_c103_gen090",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Explain the difference between ohmic and non-ohmic behavior as described in section 3.6.",
@@ -2941,7 +3123,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen091"
+    "question_id": "cbse_xii_leph1dd_c103_gen091",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "What role does the sign of the voltage play in devices like diodes, as described in the text?",
@@ -2955,7 +3138,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen092"
+    "question_id": "cbse_xii_leph1dd_c103_gen092",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Describe what is meant by a non-unique V-I relation, as mentioned in the text.",
@@ -2969,7 +3153,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen093"
+    "question_id": "cbse_xii_leph1dd_c103_gen093",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Identify one key characteristic of GaAs devices mentioned in section 3.6.",
@@ -2983,7 +3168,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen094"
+    "question_id": "cbse_xii_leph1dd_c103_gen094",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Discuss the limitations of Ohm's law and explain how non-ohmic devices, such as diodes, deviate from Ohm's law. In your answer, include the characteristics of their V-I curves.",
@@ -2997,7 +3183,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen095"
+    "question_id": "cbse_xii_leph1dd_c103_gen095",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Analyze the significance of the tangent line drawn on the V-I graph in Figure 3.5 with respect to determining the local resistance.",
@@ -3011,7 +3198,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen096"
+    "question_id": "cbse_xii_leph1dd_c103_gen096",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Evaluate the impact of non-ohmic behavior on practical circuit design and identify any potential advantages such materials may provide.",
@@ -3025,7 +3213,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen097"
+    "question_id": "cbse_xii_leph1dd_c103_gen097",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "True or False: In a diode, reversing the sign of the voltage always produces a current of equal magnitude in the opposite direction.",
@@ -3039,7 +3228,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen098"
+    "question_id": "cbse_xii_leph1dd_c103_gen098",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "True or False: Gallium Arsenide (GaAs) exhibits a region of negative resistance, where increasing voltage leads to a decrease in current.",
@@ -3053,7 +3243,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen099"
+    "question_id": "cbse_xii_leph1dd_c103_gen099",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "True or False: Ohm's law applies universally to all materials and electric circuit components.",
@@ -3067,7 +3258,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen100"
+    "question_id": "cbse_xii_leph1dd_c103_gen100",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "A good conductor follows Ohm's law, where V = I × R. If the resistance R is 5 Ω and the current I is 2 A, calculate the voltage V across the conductor.",
@@ -3081,7 +3273,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen101"
+    "question_id": "cbse_xii_leph1dd_c103_gen101",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Consider a GaAs device that exhibits a non-unique V-I relationship. If at I = 3 mA the device shows two voltage values, 2 V and 4 V, compute the average of these voltage values.",
@@ -3095,7 +3288,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen102"
+    "question_id": "cbse_xii_leph1dd_c103_gen102",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "For a diode, current remains negligible until a threshold voltage is reached. If at V = 0.7 V the current is 0.1 mA and at V = 0.8 V the current increases to 10 mA, determine the change in current (in mA) and the change in voltage (in V) between these two points, then compute the approximate differential resistance.",
@@ -3109,7 +3303,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen103"
+    "question_id": "cbse_xii_leph1dd_c103_gen103",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "A GaAs device exhibits negative resistance behavior. If increasing the voltage from 1 V to 1.5 V causes the current to decrease from 5 mA to 3 mA, calculate the negative differential resistance.",
@@ -3123,7 +3318,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen104"
+    "question_id": "cbse_xii_leph1dd_c103_gen104",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "A diode exhibits a sharp increase in current after a threshold voltage. If below 0.6 V the current is 1 μA and above 0.6 V the current jumps to 5 mA, determine the magnitude of the change in current.",
@@ -3137,7 +3333,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen105"
+    "question_id": "cbse_xii_leph1dd_c103_gen105",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "What does the electromotive force (emf) of a cell represent?",
@@ -3156,7 +3353,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen165"
+    "question_id": "cbse_xii_leph1dd_c103_gen165",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Which of the following statements best describes the role of internal resistance (r) in an electrolytic cell?",
@@ -3175,7 +3373,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen166"
+    "question_id": "cbse_xii_leph1dd_c103_gen166",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "If a cell has an emf of 12 V and an internal resistance of 2 ohms, and it is connected to a resistor of 10 ohms, what is the terminal voltage across the resistor?",
@@ -3194,7 +3393,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen167"
+    "question_id": "cbse_xii_leph1dd_c103_gen167",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "What is the maximum current (Imax) that can be drawn from a cell in terms of its emf (ε) and internal resistance (r)?",
@@ -3213,7 +3413,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen168"
+    "question_id": "cbse_xii_leph1dd_c103_gen168",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "In the expression I = ε / (R + r), if the external resistor R is much larger than the internal resistance r, what assumption is made for practical calculations?",
@@ -3232,7 +3433,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen169"
+    "question_id": "cbse_xii_leph1dd_c103_gen169",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Define electromotive force (emf) in the context of an electrolytic cell.",
@@ -3246,7 +3448,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen170"
+    "question_id": "cbse_xii_leph1dd_c103_gen170",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Explain why the potential difference across an external resistor is given by V = I R in a circuit with an electrolytic cell.",
@@ -3260,7 +3463,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen171"
+    "question_id": "cbse_xii_leph1dd_c103_gen171",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Calculate the current I in a circuit where a cell with emf ε and internal resistance r is connected to an external resistor R.",
@@ -3274,7 +3478,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen172"
+    "question_id": "cbse_xii_leph1dd_c103_gen172",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Describe the effect of increasing the internal resistance of a cell on the current delivered to an external load.",
@@ -3288,7 +3493,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen173"
+    "question_id": "cbse_xii_leph1dd_c103_gen173",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Discuss the energy conversion process in an electrolytic cell when a resistor R is connected. In your answer, include how chemical energy is first converted to electrical energy and then to heat energy.",
@@ -3302,7 +3508,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen174"
+    "question_id": "cbse_xii_leph1dd_c103_gen174",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Compare the performance of an electrolytic cell with that of a dry cell in terms of internal resistance. How does internal resistance affect the efficiency and maximum current that can be drawn from the cell?",
@@ -3316,7 +3523,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen175"
+    "question_id": "cbse_xii_leph1dd_c103_gen175",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "True or False: The electromotive force (emf) of a cell is a force measured in newtons.",
@@ -3330,7 +3538,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen176"
+    "question_id": "cbse_xii_leph1dd_c103_gen176",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "True or False: When no current flows through a cell, the potential difference between its electrodes is equal to the emf of the cell.",
@@ -3344,7 +3553,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen177"
+    "question_id": "cbse_xii_leph1dd_c103_gen177",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "A cell has an emf of 9 V and an internal resistance of 1 ohm. If an external resistor of 8 ohm is connected to the cell, calculate the current flowing in the circuit and the voltage across the resistor.",
@@ -3358,7 +3568,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen178"
+    "question_id": "cbse_xii_leph1dd_c103_gen178",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "A cell supplies a current of 0.5 A when connected to a resistor of 20 ohm. If the emf of the cell is 15 V, determine the internal resistance of the cell.",
@@ -3372,7 +3583,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen179"
+    "question_id": "cbse_xii_leph1dd_c103_gen179",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "A cell has an emf of 12 V and an internal resistance of 3 ohm. Initially, it is connected to a 15 ohm resistor. If the external resistor is halved, calculate the original terminal voltage and the new terminal voltage. What is the change in terminal voltage?",
@@ -3386,7 +3598,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen180"
+    "question_id": "cbse_xii_leph1dd_c103_gen180",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Determine the maximum current that can be drawn from a cell with an emf of 6 V and an internal resistance of 0.5 ohm.",
@@ -3400,7 +3613,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen181"
+    "question_id": "cbse_xii_leph1dd_c103_gen181",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Design a scenario where the internal resistance of a cell significantly affects the terminal voltage for varying loads. For a cell with an emf of 10 V and an internal resistance of 2 ohm, compute the terminal voltage for external resistors of 2 ohm, 5 ohm, and 10 ohm. Analyze how the terminal voltage changes with different load resistances.",
@@ -3414,7 +3628,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "10_section_3_10",
-    "question_id": "cbse_xii_leph1dd_c103_gen182"
+    "question_id": "cbse_xii_leph1dd_c103_gen182",
+    "section_name": "3.10 CELLS, EMF, INTERNAL RESISTANCE"
   },
   {
     "question_text": "Which of the following materials typically has a resistivity in the range of 10⁻⁸ Ωm to 10⁻⁶ Ωm?",
@@ -3433,7 +3648,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen106"
+    "question_id": "cbse_xii_leph1dd_c103_gen106",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Which statement best describes the behavior of semiconductors with respect to temperature change?",
@@ -3452,7 +3668,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen107"
+    "question_id": "cbse_xii_leph1dd_c103_gen107",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "What effect does the introduction of small amounts of impurities have on the resistivity of semiconductors?",
@@ -3471,7 +3688,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen108"
+    "question_id": "cbse_xii_leph1dd_c103_gen108",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Which category includes materials like ceramic, rubber, and plastics based on their resistivity values?",
@@ -3490,7 +3708,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen109"
+    "question_id": "cbse_xii_leph1dd_c103_gen109",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Which one of the following correctly orders the materials based on increasing resistivity?",
@@ -3509,7 +3728,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen110"
+    "question_id": "cbse_xii_leph1dd_c103_gen110",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Define resistivity and state its SI unit.",
@@ -3523,7 +3743,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen111"
+    "question_id": "cbse_xii_leph1dd_c103_gen111",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Explain why the resistivity of semiconductors decreases with an increase in temperature.",
@@ -3537,7 +3758,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen112"
+    "question_id": "cbse_xii_leph1dd_c103_gen112",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "How are materials classified based on their resistivity values?",
@@ -3551,7 +3773,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen113"
+    "question_id": "cbse_xii_leph1dd_c103_gen113",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Describe how the introduction of impurities (doping) affects the resistivity of semiconductors.",
@@ -3565,7 +3788,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen114"
+    "question_id": "cbse_xii_leph1dd_c103_gen114",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Discuss the classification of materials based on their electrical resistivity, and provide examples for each category.",
@@ -3579,7 +3803,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen115"
+    "question_id": "cbse_xii_leph1dd_c103_gen115",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Evaluate the impact of temperature on the performance of semiconductors compared to metals and discuss the role of doping in this context.",
@@ -3593,7 +3818,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen116"
+    "question_id": "cbse_xii_leph1dd_c103_gen116",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Analyze how experimental determination of resistivity might differ when measuring a metal versus an insulator, including any factors that could affect the measurements.",
@@ -3607,7 +3833,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen117"
+    "question_id": "cbse_xii_leph1dd_c103_gen117",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Ceramics, rubber, and plastics are classified as conductors based on their resistivity values.",
@@ -3621,7 +3848,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen118"
+    "question_id": "cbse_xii_leph1dd_c103_gen118",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "The resistivity of semiconductors decreases as temperature increases.",
@@ -3635,7 +3863,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen119"
+    "question_id": "cbse_xii_leph1dd_c103_gen119",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Doping semiconductors increases their resistivity.",
@@ -3649,7 +3878,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen120"
+    "question_id": "cbse_xii_leph1dd_c103_gen120",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "A metal rod is 2 m long with a cross-sectional area of 0.5 x 10⁻⁶ m². If its measured resistance is 0.04 Ω, calculate its resistivity.",
@@ -3663,7 +3893,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen121"
+    "question_id": "cbse_xii_leph1dd_c103_gen121",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "A semiconductor has a resistivity of 1000 Ωm at 20°C. If the resistivity decreases by 20% when the temperature is increased to 40°C, what is the new resistivity?",
@@ -3677,7 +3908,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen122"
+    "question_id": "cbse_xii_leph1dd_c103_gen122",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "An insulator has a resistivity of 1 x 10¹⁸ Ωm. If a sample of this insulator is 2 mm thick and has a cross-sectional area of 1 cm², calculate its electrical resistance.",
@@ -3691,7 +3923,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen123"
+    "question_id": "cbse_xii_leph1dd_c103_gen123",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "A doped semiconductor originally has a resistivity of 500 Ωm. If doping reduces its resistivity by 10%, what is the new resistivity?",
@@ -3705,7 +3938,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen124"
+    "question_id": "cbse_xii_leph1dd_c103_gen124",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "A metallic resistor has a length of 1 m and a cross-sectional area of 2 x 10⁻⁶ m². If its resistance is measured as 0.02 Ω, calculate its resistivity and comment on whether the value is consistent with typical metals.",
@@ -3719,7 +3953,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen125"
+    "question_id": "cbse_xii_leph1dd_c103_gen125",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   },
   {
     "question_text": "Given that semiconductors can have their resistivity altered by doping, propose a method to experimentally determine the effect of a specific dopant concentration on resistivity. Include a brief outline of the steps and measurement techniques you would use.",
@@ -3733,6 +3968,7 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "07_section_3_7",
-    "question_id": "cbse_xii_leph1dd_c103_gen126"
+    "question_id": "cbse_xii_leph1dd_c103_gen126",
+    "section_name": "3.7 RESISTIVITY OF VARIOUS MATERIALS"
   }
 ]

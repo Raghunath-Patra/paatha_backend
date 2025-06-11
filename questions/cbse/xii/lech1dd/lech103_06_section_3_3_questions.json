@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen035"
+    "question_id": "cbse_xii_lech1dd_c103_gen035",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Which graph best represents a first order reaction when using integrated rate laws?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen036"
+    "question_id": "cbse_xii_lech1dd_c103_gen036",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "What is the half-life equation for a first order reaction?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen037"
+    "question_id": "cbse_xii_lech1dd_c103_gen037",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "If the concentration versus time plot for a reaction is linear, what is the order of the reaction?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen038"
+    "question_id": "cbse_xii_lech1dd_c103_gen038",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Pseudo first order kinetics is observed when:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen039"
+    "question_id": "cbse_xii_lech1dd_c103_gen039",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Explain why the measurement of instantaneous rate via the slope of the concentration versus time graph can be challenging in determining the rate law.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen040"
+    "question_id": "cbse_xii_lech1dd_c103_gen040",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Describe the significance of the intercept in a plot of ln [R] versus time for a first order reaction.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen041"
+    "question_id": "cbse_xii_lech1dd_c103_gen041",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "What is the relationship between the half-life and the initial concentration for a zero order reaction?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen042"
+    "question_id": "cbse_xii_lech1dd_c103_gen042",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "How can the rate constant for a first order reaction be determined from a plot of log ([R]0/[R]) versus time?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen043"
+    "question_id": "cbse_xii_lech1dd_c103_gen043",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Derive the integrated rate law for a first order reaction starting with the differential rate equation d[R]/dt = -k [R]. Include all steps in your derivation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen044"
+    "question_id": "cbse_xii_lech1dd_c103_gen044",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Discuss the limitations of using integrated rate equations for determining reaction orders and rate constants. What experimental challenges might be encountered and what alternative methods could be used?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen045"
+    "question_id": "cbse_xii_lech1dd_c103_gen045",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Explain the concept of a pseudo first order reaction with an example. How does the presence of a reactant in large excess lead to pseudo first order kinetics?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen046"
+    "question_id": "cbse_xii_lech1dd_c103_gen046",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "True or False: In a first order reaction, the half-life is independent of the initial concentration of the reactant.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen047"
+    "question_id": "cbse_xii_lech1dd_c103_gen047",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "True or False: The slope of the concentration versus time plot for a zero order reaction is positive.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen048"
+    "question_id": "cbse_xii_lech1dd_c103_gen048",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "True or False: A plot of log ([R]0/[R]) versus time for a first order reaction yields a straight line with a slope equal to k.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen049"
+    "question_id": "cbse_xii_lech1dd_c103_gen049",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "A zero order reaction has an initial concentration of 0.80 mol L⁻¹ and a rate constant k = 0.05 mol L⁻¹ s⁻¹. Calculate the concentration of the reactant after 10 seconds.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen050"
+    "question_id": "cbse_xii_lech1dd_c103_gen050",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "A first order reaction decreases in concentration from 2.0 × 10⁻² mol L⁻¹ to 1.0 × 10⁻² mol L⁻¹ in 30 seconds. Calculate the rate constant k.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen051"
+    "question_id": "cbse_xii_lech1dd_c103_gen051",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "For a first order reaction with a rate constant of 4.0 × 10⁻³ s⁻¹, determine the half-life of the reaction.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen052"
+    "question_id": "cbse_xii_lech1dd_c103_gen052",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "A first order gas phase reaction proceeds at constant volume. If the initial pressure of reactant A is 0.50 atm and the total pressure measured after 200 seconds is 0.52 atm, determine the rate constant k. (Hint: Use pA = 2p_i - p_t)",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen053"
+    "question_id": "cbse_xii_lech1dd_c103_gen053",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "For a first order reaction, the time required for 99.9% completion is approximately how many half-lives? If one half-life is 10 minutes, what is the total time for 99.9% completion?",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen054"
+    "question_id": "cbse_xii_lech1dd_c103_gen054",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Radium-226 decays via first order kinetics with a half-life of 1600 years. Calculate the decay constant k.",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen055"
+    "question_id": "cbse_xii_lech1dd_c103_gen055",
+    "section_name": "3.3 Integrated Rate Equations"
   }
 ]

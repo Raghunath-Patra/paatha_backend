@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen115"
+    "question_id": "cbse_xii_leph1dd_c104_gen115",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "For an ideal long solenoid, what is the assumed value of the magnetic field outside the solenoid?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen116"
+    "question_id": "cbse_xii_leph1dd_c104_gen116",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Inside a long solenoid, the magnetic field is predominantly oriented:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen117"
+    "question_id": "cbse_xii_leph1dd_c104_gen117",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "When applying Ampere's circuital law to a long solenoid, the total enclosed current within the Amperian loop is given by:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen118"
+    "question_id": "cbse_xii_leph1dd_c104_gen118",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Which law is primarily used to derive the magnetic field inside a solenoid?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen119"
+    "question_id": "cbse_xii_leph1dd_c104_gen119",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Explain why the circular loops between neighbouring turns of a solenoid tend to cancel each other.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen120"
+    "question_id": "cbse_xii_leph1dd_c104_gen120",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Describe the role of the right-hand rule in determining the direction of the magnetic field both inside a solenoid and around a straight current-carrying conductor.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen121"
+    "question_id": "cbse_xii_leph1dd_c104_gen121",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Why is enamelled wire used in winding a solenoid?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen122"
+    "question_id": "cbse_xii_leph1dd_c104_gen122",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Define what is meant by a 'long solenoid' and explain why this approximation is important when analyzing the magnetic field distribution.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen123"
+    "question_id": "cbse_xii_leph1dd_c104_gen123",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Derive the expression for the magnetic field inside a long solenoid using Ampere's circuital law. In your answer, include the selection of an appropriate Amperian loop and explain how the enclosed current is determined.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen124"
+    "question_id": "cbse_xii_leph1dd_c104_gen124",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Discuss the limitations of using the long solenoid approximation when the solenoid is not sufficiently long compared to its radius. What impact does this have on the magnetic field distribution?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen125"
+    "question_id": "cbse_xii_leph1dd_c104_gen125",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Analyze how the introduction of a soft iron core into a solenoid affects its magnetic field. Explain the physical reasons behind this enhancement.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen126"
+    "question_id": "cbse_xii_leph1dd_c104_gen126",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "True or False: In an ideal long solenoid, the magnetic field outside the solenoid is exactly zero.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen127"
+    "question_id": "cbse_xii_leph1dd_c104_gen127",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "True or False: The magnetic fields produced by adjacent current loops in a solenoid are always in the same direction, thus reinforcing the overall magnetic field inside the solenoid.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen128"
+    "question_id": "cbse_xii_leph1dd_c104_gen128",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "True or False: The right-hand rule applies only to solenoids and cannot be used to determine the magnetic field around straight conductors.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen129"
+    "question_id": "cbse_xii_leph1dd_c104_gen129",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "A solenoid has a length of 0.5 m, a radius of 1 cm, 500 turns, and carries a current of 5 A. Calculate the magnitude of the magnetic field inside the solenoid. Show all steps of your calculation.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen130"
+    "question_id": "cbse_xii_leph1dd_c104_gen130",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "For a solenoid with 800 turns per meter carrying a current of 3 A, compute the magnetic field inside the solenoid. Provide detailed steps in your solution.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen131"
+    "question_id": "cbse_xii_leph1dd_c104_gen131",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Two parallel conductors carry currents of 6 A and 8 A respectively, and are separated by 0.05 m. Calculate the force per unit length between them. Show your full working.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen132"
+    "question_id": "cbse_xii_leph1dd_c104_gen132",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "A finite solenoid, approximated as a long solenoid, has 200 turns distributed uniformly over a length of 0.4 m. If the desired magnetic field at the interior midpoint is 0.01 T, determine the current required. Provide detailed calculations.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen133"
+    "question_id": "cbse_xii_leph1dd_c104_gen133",
+    "section_name": "4.7 THE SOLENOID"
   }
 ]

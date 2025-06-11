@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen080"
+    "question_id": "cbse_xi_keph2dd_c204_gen080",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "For a gas contained in a cylinder with a movable piston, which expression represents the work done by the gas under constant pressure?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen081"
+    "question_id": "cbse_xi_keph2dd_c204_gen081",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Which of the following quantities is independent of the path taken between the initial and final states of a system?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen082"
+    "question_id": "cbse_xi_keph2dd_c204_gen082",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "If a system undergoes a process where the internal energy remains constant (Delta U = 0), what can be concluded about the relationship between heat supplied and work done?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen083"
+    "question_id": "cbse_xi_keph2dd_c204_gen083",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "The equation Delta Q = Delta U + P Delta V is an application of the First Law of Thermodynamics under which condition?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen084"
+    "question_id": "cbse_xi_keph2dd_c204_gen084",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Briefly describe the significance of the First Law of Thermodynamics in the context of energy conservation.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen085"
+    "question_id": "cbse_xi_keph2dd_c204_gen085",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Explain why the change in internal energy (Delta U) is independent of the path taken between the initial and final states of a system.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen086"
+    "question_id": "cbse_xi_keph2dd_c204_gen086",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "How does the First Law of Thermodynamics apply to the transition of water from liquid to vapor? In your answer, mention the roles of latent heat and work done against atmospheric pressure.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen087"
+    "question_id": "cbse_xi_keph2dd_c204_gen087",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Describe two different sequences of changing the state of a gas from an initial state (P1, V1) to a final state (P2, V2). Why does the change in internal energy remain the same despite the different paths?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen088"
+    "question_id": "cbse_xi_keph2dd_c204_gen088",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "Discuss the energy changes that occur when heat is supplied to a gas that results in an isothermal expansion. Include in your discussion the roles of work done and internal energy.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen089"
+    "question_id": "cbse_xi_keph2dd_c204_gen089",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "True or False: In the First Law of Thermodynamics, the heat supplied to the system always increases the internal energy of the system.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen090"
+    "question_id": "cbse_xi_keph2dd_c204_gen090",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "True or False: During an isothermal expansion of an ideal gas, the magnitude of the heat supplied to the gas equals the work done by the gas.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen091"
+    "question_id": "cbse_xi_keph2dd_c204_gen091",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "A gas expands at a constant pressure of 1.0 × 10^5 Pa. If the gas expansion increases its volume from 0.002 m³ to 0.005 m³, calculate the work done by the gas. Provide your answer with appropriate units and precision.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen092"
+    "question_id": "cbse_xi_keph2dd_c204_gen092",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "1 gram of a liquid requires 2256 J of heat to vaporize at atmospheric pressure. If the volume of 1 gram of the liquid is 1 cm³ and that of its vapor is 1671 cm³, calculate the change in internal energy (Delta U). Show all steps in your calculation.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen093"
+    "question_id": "cbse_xi_keph2dd_c204_gen093",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "A gas undergoes a process where it is heated at constant volume resulting in a heat supply of 500 J, while no work is done. A subsequent isobaric expansion is observed where the gas performs 200 J of work. Calculate the total change in internal energy of the gas for the entire process.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen094"
+    "question_id": "cbse_xi_keph2dd_c204_gen094",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   },
   {
     "question_text": "A piston containing 0.5 kg of an ideal gas is held at constant pressure while the gas expands, increasing its volume by 0.04 m³. If the pressure is 1.2 × 10^5 Pa, calculate the work done by the gas during this expansion. Also, explain how this work relates to the heat supplied and change in internal energy according to the First Law of Thermodynamics.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph204",
     "section_id": "05_section_11_5",
-    "question_id": "cbse_xi_keph2dd_c204_gen095"
+    "question_id": "cbse_xi_keph2dd_c204_gen095",
+    "section_name": "11.5 FIRST LAW OF THERMODYNAMICS"
   }
 ]

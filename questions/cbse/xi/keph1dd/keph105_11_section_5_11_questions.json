@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen367"
+    "question_id": "cbse_xi_keph1dd_c105_gen367",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "In a collision where the two colliding objects stick together and move as one body after the impact, the collision is classified as:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen368"
+    "question_id": "cbse_xi_keph1dd_c105_gen368",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "When two equal masses undergo a glancing elastic collision with one initially at rest, what is the relationship between their final directions of motion?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen369"
+    "question_id": "cbse_xi_keph1dd_c105_gen369",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Which of the following best explains why some kinetic energy is lost in an inelastic collision?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen370"
+    "question_id": "cbse_xi_keph1dd_c105_gen370",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Newton's third law is used to derive the conservation of momentum in a collision because it shows that the impulses on the two colliding bodies are:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen371"
+    "question_id": "cbse_xi_keph1dd_c105_gen371",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Define an elastic collision and explain how kinetic energy behaves in such a collision.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen372"
+    "question_id": "cbse_xi_keph1dd_c105_gen372",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Explain why the total linear momentum is conserved during collisions, making reference to Newton's third law.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen373"
+    "question_id": "cbse_xi_keph1dd_c105_gen373",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Differentiate between an inelastic collision and a completely inelastic collision.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen374"
+    "question_id": "cbse_xi_keph1dd_c105_gen374",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Describe what is meant by scattering in the context of collisions and provide an example.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen375"
+    "question_id": "cbse_xi_keph1dd_c105_gen375",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Derive the expression for the final velocity of the combined mass in a completely inelastic collision in one dimension.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen376"
+    "question_id": "cbse_xi_keph1dd_c105_gen376",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Explain how collisions in two dimensions are analyzed using the conservation of momentum. In your answer, discuss the need for additional information (such as one of the angles) to solve for the unknowns.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen377"
+    "question_id": "cbse_xi_keph1dd_c105_gen377",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "True or False: In an elastic collision, both total kinetic energy and total linear momentum are conserved.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen378"
+    "question_id": "cbse_xi_keph1dd_c105_gen378",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "True or False: In a completely inelastic collision, the colliding bodies bounce off each other without any loss of kinetic energy.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen379"
+    "question_id": "cbse_xi_keph1dd_c105_gen379",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "True or False: For collisions that occur in two dimensions, conservation of momentum in the z-direction can be used to confirm that the collision is entirely confined to the x-y plane.",
@@ -233,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen380"
+    "question_id": "cbse_xi_keph1dd_c105_gen380",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "A 2 kg mass moving at 10 m/s collides head-on and sticks to a 3 kg mass initially at rest. Compute the final velocity of the combined mass and the kinetic energy lost in the collision.",
@@ -247,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen381"
+    "question_id": "cbse_xi_keph1dd_c105_gen381",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "A 2 kg mass moving at 10 m/s collides elastically with a 4 kg mass at rest. Using the elastic collision formulas, calculate the final velocities (v1f and v2f) of both masses. (Assume one-dimensional motion.)",
@@ -261,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen382"
+    "question_id": "cbse_xi_keph1dd_c105_gen382",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "A high-speed neutron with a mass m collides elastically with a deuterium nucleus (mass 2m). Calculate the fraction of the neutron's kinetic energy that is transferred to the deuterium nucleus during a head-on collision.",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen383"
+    "question_id": "cbse_xi_keph1dd_c105_gen383",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "In a 2D elastic collision involving two equal-mass billiard balls, if the target ball moves at an angle of 37° below the x-axis after collision, determine the deflection angle of the cue ball.",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen384"
+    "question_id": "cbse_xi_keph1dd_c105_gen384",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "A 3 kg mass moving at 12 m/s collides completely inelastically with a 7 kg mass initially at rest. Calculate the loss in kinetic energy during the collision.",
@@ -303,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen385"
+    "question_id": "cbse_xi_keph1dd_c105_gen385",
+    "section_name": "5.11 COLLISIONS"
   }
 ]

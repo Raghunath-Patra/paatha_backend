@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "1.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "1.2 Sets and their Representations"
+    },
+    {
+      "number": 3,
+      "name": "1.3 The Empty Set"
+    },
+    {
+      "number": 4,
+      "name": "1.4 Finite and Infinite Sets"
+    },
+    {
+      "number": 5,
+      "name": "1.5 Equal Sets"
+    },
+    {
+      "number": 6,
+      "name": "1.6 Subsets"
+    },
+    {
+      "number": 7,
+      "name": "1.7 Universal Set"
+    },
+    {
+      "number": 8,
+      "name": "1.8 Venn Diagrams"
+    },
+    {
+      "number": 9,
+      "name": "1.9 Operations on Sets"
+    },
+    {
+      "number": 10,
+      "name": "1.10 Complement of a Set"
+    }
+  ]
+}

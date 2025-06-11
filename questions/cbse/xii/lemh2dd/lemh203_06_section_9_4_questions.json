@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen039"
+    "question_id": "cbse_xii_lemh2dd_c203_gen039",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "What is the integrating factor (I.F.) for a linear differential equation of the form dy/dx + P(x)y = Q(x)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen040"
+    "question_id": "cbse_xii_lemh2dd_c203_gen040",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Which one of the following functions is homogeneous of degree 0?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen041"
+    "question_id": "cbse_xii_lemh2dd_c203_gen041",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Define a separable differential equation and describe the method to solve it.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen042"
+    "question_id": "cbse_xii_lemh2dd_c203_gen042",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Explain the substitution used to solve a homogeneous differential equation and why it is effective.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen043"
+    "question_id": "cbse_xii_lemh2dd_c203_gen043",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "State the formula for the integrating factor in a linear differential equation of the form dy/dx + P(x)y = Q(x) and briefly explain its role in finding the solution.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen044"
+    "question_id": "cbse_xii_lemh2dd_c203_gen044",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Derive the general solution for a separable differential equation of the form dy/dx = g(x)·h(y). Include all key steps in your derivation.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen045"
+    "question_id": "cbse_xii_lemh2dd_c203_gen045",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Show that multiplying a linear differential equation of the form dy/dx + P(x)y = Q(x) by the integrating factor µ(x) = e^(∫P(x) dx) converts the left-hand side into the derivative of (µ(x)y). Provide a detailed proof.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen046"
+    "question_id": "cbse_xii_lemh2dd_c203_gen046",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Numerical Problem: Solve the differential equation dy/dx = (x + 1)/(2 - y) given that y ≠ 2. Provide the general solution with all integration steps.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen047"
+    "question_id": "cbse_xii_lemh2dd_c203_gen047",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Numerical Problem: Solve the homogeneous differential equation dy/dx = (x + 2y)/(x - y) by using the substitution v = y/x and provide the general solution.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen048"
+    "question_id": "cbse_xii_lemh2dd_c203_gen048",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Numerical Problem: Solve the linear differential equation dy/dx - y = cos x. Provide the general solution with detailed integration steps.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen049"
+    "question_id": "cbse_xii_lemh2dd_c203_gen049",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Numerical Problem: In a bank, the principal P increases continuously at a rate of 5% per year, modeled by dp/dt = (P/20). If the initial principal is P(0) = 1000, determine the time required for the principal to double in size.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen050"
+    "question_id": "cbse_xii_lemh2dd_c203_gen050",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "Which substitution is appropriate to solve a homogeneous differential equation of the form dy/dx = f(y/x)?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen051"
+    "question_id": "cbse_xii_lemh2dd_c203_gen051",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   },
   {
     "question_text": "State the steps involved in solving a first order linear differential equation and discuss the role of the integrating factor in the method.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "06_section_9_4",
-    "question_id": "cbse_xii_lemh2dd_c203_gen052"
+    "question_id": "cbse_xii_lemh2dd_c203_gen052",
+    "section_name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
   }
 ]

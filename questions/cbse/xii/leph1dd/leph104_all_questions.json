@@ -185,7 +185,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen115"
+    "question_id": "cbse_xii_leph1dd_c104_gen115",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "For an ideal long solenoid, what is the assumed value of the magnetic field outside the solenoid?",
@@ -204,7 +205,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen116"
+    "question_id": "cbse_xii_leph1dd_c104_gen116",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Inside a long solenoid, the magnetic field is predominantly oriented:",
@@ -223,7 +225,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen117"
+    "question_id": "cbse_xii_leph1dd_c104_gen117",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "When applying Ampere's circuital law to a long solenoid, the total enclosed current within the Amperian loop is given by:",
@@ -242,7 +245,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen118"
+    "question_id": "cbse_xii_leph1dd_c104_gen118",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Which law is primarily used to derive the magnetic field inside a solenoid?",
@@ -261,7 +265,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen119"
+    "question_id": "cbse_xii_leph1dd_c104_gen119",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Explain why the circular loops between neighbouring turns of a solenoid tend to cancel each other.",
@@ -275,7 +280,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen120"
+    "question_id": "cbse_xii_leph1dd_c104_gen120",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Describe the role of the right-hand rule in determining the direction of the magnetic field both inside a solenoid and around a straight current-carrying conductor.",
@@ -289,7 +295,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen121"
+    "question_id": "cbse_xii_leph1dd_c104_gen121",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Why is enamelled wire used in winding a solenoid?",
@@ -303,7 +310,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen122"
+    "question_id": "cbse_xii_leph1dd_c104_gen122",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Define what is meant by a 'long solenoid' and explain why this approximation is important when analyzing the magnetic field distribution.",
@@ -317,7 +325,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen123"
+    "question_id": "cbse_xii_leph1dd_c104_gen123",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Derive the expression for the magnetic field inside a long solenoid using Ampere's circuital law. In your answer, include the selection of an appropriate Amperian loop and explain how the enclosed current is determined.",
@@ -331,7 +340,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen124"
+    "question_id": "cbse_xii_leph1dd_c104_gen124",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Discuss the limitations of using the long solenoid approximation when the solenoid is not sufficiently long compared to its radius. What impact does this have on the magnetic field distribution?",
@@ -345,7 +355,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen125"
+    "question_id": "cbse_xii_leph1dd_c104_gen125",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Analyze how the introduction of a soft iron core into a solenoid affects its magnetic field. Explain the physical reasons behind this enhancement.",
@@ -359,7 +370,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen126"
+    "question_id": "cbse_xii_leph1dd_c104_gen126",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "True or False: In an ideal long solenoid, the magnetic field outside the solenoid is exactly zero.",
@@ -373,7 +385,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen127"
+    "question_id": "cbse_xii_leph1dd_c104_gen127",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "True or False: The magnetic fields produced by adjacent current loops in a solenoid are always in the same direction, thus reinforcing the overall magnetic field inside the solenoid.",
@@ -387,7 +400,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen128"
+    "question_id": "cbse_xii_leph1dd_c104_gen128",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "True or False: The right-hand rule applies only to solenoids and cannot be used to determine the magnetic field around straight conductors.",
@@ -401,7 +415,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen129"
+    "question_id": "cbse_xii_leph1dd_c104_gen129",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "A solenoid has a length of 0.5 m, a radius of 1 cm, 500 turns, and carries a current of 5 A. Calculate the magnitude of the magnetic field inside the solenoid. Show all steps of your calculation.",
@@ -415,7 +430,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen130"
+    "question_id": "cbse_xii_leph1dd_c104_gen130",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "For a solenoid with 800 turns per meter carrying a current of 3 A, compute the magnetic field inside the solenoid. Provide detailed steps in your solution.",
@@ -429,7 +445,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen131"
+    "question_id": "cbse_xii_leph1dd_c104_gen131",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "Two parallel conductors carry currents of 6 A and 8 A respectively, and are separated by 0.05 m. Calculate the force per unit length between them. Show your full working.",
@@ -443,7 +460,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen132"
+    "question_id": "cbse_xii_leph1dd_c104_gen132",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "A finite solenoid, approximated as a long solenoid, has 200 turns distributed uniformly over a length of 0.4 m. If the desired magnetic field at the interior midpoint is 0.01 T, determine the current required. Provide detailed calculations.",
@@ -457,7 +475,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "07_section_4_7",
-    "question_id": "cbse_xii_leph1dd_c104_gen133"
+    "question_id": "cbse_xii_leph1dd_c104_gen133",
+    "section_name": "4.7 THE SOLENOID"
   },
   {
     "question_text": "What discovery did Hans Christian Oersted make in 1820 during his lecture demonstration?",
@@ -476,7 +495,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen001"
+    "question_id": "cbse_xii_leph1dd_c104_gen001",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "How do iron filings arrange themselves around a current-carrying wire, and what does this arrangement indicate about the magnetic field?",
@@ -495,7 +515,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen002"
+    "question_id": "cbse_xii_leph1dd_c104_gen002",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "In Oersted's experiment, what happens to the deflection of the compass needle when the direction of the current is reversed?",
@@ -514,7 +535,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen003"
+    "question_id": "cbse_xii_leph1dd_c104_gen003",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Which symbol is used in the chapter to depict a current that is emerging out of the plane of the paper?",
@@ -533,7 +555,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen004"
+    "question_id": "cbse_xii_leph1dd_c104_gen004",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Which instrument mentioned in the section is used to detect small currents and voltages?",
@@ -552,7 +575,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen005"
+    "question_id": "cbse_xii_leph1dd_c104_gen005",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Explain how the arrangement of iron filings around a current-carrying wire demonstrates the nature of the magnetic field produced.",
@@ -566,7 +590,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen006"
+    "question_id": "cbse_xii_leph1dd_c104_gen006",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Name two scientists, other than Oersted, who played key roles in the development of the unified laws of electricity and magnetism.",
@@ -580,7 +605,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen007"
+    "question_id": "cbse_xii_leph1dd_c104_gen007",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "What convention is used in the chapter to represent the direction of currents and magnetic fields with respect to the plane of the paper?",
@@ -594,7 +620,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen008"
+    "question_id": "cbse_xii_leph1dd_c104_gen008",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Describe the experimental setup used by Oersted to demonstrate the relationship between electric currents and magnetic fields. Explain how his observation led to the conclusion that current-carrying wires produce magnetic fields.",
@@ -608,7 +635,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen009"
+    "question_id": "cbse_xii_leph1dd_c104_gen009",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the significance of James Maxwell's unification of the laws of electricity and magnetism. How did this unification lead to the discovery and development of electromagnetic waves and modern communication technologies?",
@@ -622,7 +650,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen010"
+    "question_id": "cbse_xii_leph1dd_c104_gen010",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In Oersted's experiment, the effect of the earth's magnetic field was significant in determining the deflection of the compass needle.",
@@ -636,7 +665,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen011"
+    "question_id": "cbse_xii_leph1dd_c104_gen011",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Reversing the direction of the current in a wire always results in an increase in the deflection angle of a nearby compass needle.",
@@ -650,7 +680,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen012"
+    "question_id": "cbse_xii_leph1dd_c104_gen012",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "A long, straight wire carries a current of 3 A. If a compass needle is placed 5 cm from the wire, calculate the magnetic field strength at the location of the needle using the formula B = (mu0 * I) / (2 * pi * r). Assume mu0 = 4pi x 10^-7 T*m/A. Provide your answer in Tesla.",
@@ -664,7 +695,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen013"
+    "question_id": "cbse_xii_leph1dd_c104_gen013",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "A current of 5 A flows through a straight wire. Calculate the magnetic field 2 cm away from the wire. Use the formula B = (mu0 * I) / (2 * pi * r) with mu0 = 4pi x 10^-7 T*m/A. Provide your answer in Tesla with proper steps.",
@@ -678,7 +710,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen014"
+    "question_id": "cbse_xii_leph1dd_c104_gen014",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "An electron is moving with a velocity of 2 x 10^6 m/s in a region where the magnetic field is 5.0 x 10^-5 T. Given the electron charge of 1.6 x 10^-19 C and its mass of 9.11 x 10^-31 kg, determine the radius of the circular path followed by the electron. Use the relation r = (m * v) / (q * B).",
@@ -692,7 +725,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen015"
+    "question_id": "cbse_xii_leph1dd_c104_gen015",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Calculate the magnetic field at a distance of 8 cm from a long, straight wire carrying a current of 10 A. Use the formula B = (mu0 * I) / (2 * pi * r) with mu0 = 4pi x 10^-7 T*m/A. Provide your answer in Tesla.",
@@ -706,7 +740,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_xii_leph1dd_c104_gen016"
+    "question_id": "cbse_xii_leph1dd_c104_gen016",
+    "section_name": "4.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following laws states that the line integral of the magnetic field around a closed loop equals µ₀ times the current enclosed by that loop?",
@@ -725,7 +760,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen097"
+    "question_id": "cbse_xii_leph1dd_c104_gen097",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "What method is used to determine the direction of the magnetic field around a current-carrying conductor?",
@@ -744,7 +780,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen098"
+    "question_id": "cbse_xii_leph1dd_c104_gen098",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "For a circular Amperian loop surrounding an infinitely long straight conductor, what type of symmetry does the magnetic field possess?",
@@ -763,7 +800,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen099"
+    "question_id": "cbse_xii_leph1dd_c104_gen099",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "When an Amperian loop is chosen such that the magnetic field (B) is tangential and constant over a segment of length L, the simplified form of Ampere's law is written as:",
@@ -782,7 +820,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen100"
+    "question_id": "cbse_xii_leph1dd_c104_gen100",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "In the context of Ampere's circuital law, what does Iₑ represent?",
@@ -801,7 +840,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen101"
+    "question_id": "cbse_xii_leph1dd_c104_gen101",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Define Ampere's circuital law in your own words.",
@@ -815,7 +855,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen102"
+    "question_id": "cbse_xii_leph1dd_c104_gen102",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Explain why it is advantageous to choose an Amperian loop where the magnetic field is either tangential and constant, normal, or zero.",
@@ -829,7 +870,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen103"
+    "question_id": "cbse_xii_leph1dd_c104_gen103",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "State the conditions under which Ampere's law simplifies the calculation of the magnetic field in a system.",
@@ -843,7 +885,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen104"
+    "question_id": "cbse_xii_leph1dd_c104_gen104",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Briefly describe the relationship between Ampere's law and the Biot-Savart law.",
@@ -857,7 +900,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen105"
+    "question_id": "cbse_xii_leph1dd_c104_gen105",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Discuss the application of Ampere's circuital law in determining the magnetic field around a long straight current-carrying wire. In your answer, address the role of cylindrical symmetry and its impact on the derivation.",
@@ -871,7 +915,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen106"
+    "question_id": "cbse_xii_leph1dd_c104_gen106",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Explain how the right-hand rule is applied differently for determining the direction of the magnetic field along a straight current-carrying wire versus on the axis of a current loop.",
@@ -885,7 +930,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen107"
+    "question_id": "cbse_xii_leph1dd_c104_gen107",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Evaluate the limitations of using Ampere's circuital law in cases of asymmetrical current distributions compared to its successful application in high symmetry situations.",
@@ -899,7 +945,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen108"
+    "question_id": "cbse_xii_leph1dd_c104_gen108",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "True or False: Ampere's circuital law can be used to calculate the magnetic field in any arbitrary current configuration.",
@@ -913,7 +960,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen109"
+    "question_id": "cbse_xii_leph1dd_c104_gen109",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "True or False: The magnetic field produced by an infinitely long current-carrying wire decreases inversely with the distance from the wire.",
@@ -927,7 +975,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen110"
+    "question_id": "cbse_xii_leph1dd_c104_gen110",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "An infinitely long straight wire carries a current of 10 A. Calculate the magnetic field at a distance of 0.05 m from the wire. (Use µ₀ = 4π × 10⁻⁷ H/m.)",
@@ -941,7 +990,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen111"
+    "question_id": "cbse_xii_leph1dd_c104_gen111",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "A cylindrical conductor of radius 0.1 m carries a uniformly distributed current of 20 A. Calculate the magnetic field at a point 0.05 m from the center of the conductor.",
@@ -955,7 +1005,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen112"
+    "question_id": "cbse_xii_leph1dd_c104_gen112",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "For the same cylindrical conductor (radius 0.1 m, current 20 A), calculate the magnetic field at a point 0.15 m from the center (outside the conductor).",
@@ -969,7 +1020,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen113"
+    "question_id": "cbse_xii_leph1dd_c104_gen113",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Derive the expression for the enclosed current Iₑ inside a cylindrical conductor of radius a carrying a total current I, when using an Amperian loop of radius r (with r < a). Show that Iₑ = I (r²/a²).",
@@ -983,7 +1035,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "06_section_4_6",
-    "question_id": "cbse_xii_leph1dd_c104_gen114"
+    "question_id": "cbse_xii_leph1dd_c104_gen114",
+    "section_name": "4.6 AMPERE’S CIRCUITAL LAW"
   },
   {
     "question_text": "Which of the following formulas correctly gives the magnetic field (B_a) at a distance d from a long straight conductor carrying a current I_a?",
@@ -1002,7 +1055,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen134"
+    "question_id": "cbse_xii_leph1dd_c104_gen134",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "When two parallel conductors carry currents in the same direction, what is the nature of the force between them?",
@@ -1021,7 +1075,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen135"
+    "question_id": "cbse_xii_leph1dd_c104_gen135",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "How does the force per unit length between two parallel current-carrying conductors vary with the separation distance d?",
@@ -1040,7 +1095,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen136"
+    "question_id": "cbse_xii_leph1dd_c104_gen136",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "The ampere is defined based on the force between two parallel wires. Which of the following statements best describes this definition?",
@@ -1059,7 +1115,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen137"
+    "question_id": "cbse_xii_leph1dd_c104_gen137",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "When two current-carrying conductors have oppositely directed currents, what is the resulting interaction?",
@@ -1078,7 +1135,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen138"
+    "question_id": "cbse_xii_leph1dd_c104_gen138",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "Explain the significance of Ampere's experimental work in establishing the relationship between magnetic force and current in the context of Newton's third law.",
@@ -1092,7 +1150,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen139"
+    "question_id": "cbse_xii_leph1dd_c104_gen139",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "State the formula for the force per unit length between two parallel current-carrying conductors.",
@@ -1106,7 +1165,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen140"
+    "question_id": "cbse_xii_leph1dd_c104_gen140",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "Why must experimental setups eliminate the effect of the Earth's magnetic field when standardizing the ampere?",
@@ -1120,7 +1180,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen141"
+    "question_id": "cbse_xii_leph1dd_c104_gen141",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "Using the right-hand rule, describe the direction of the magnetic field produced by a current-carrying conductor.",
@@ -1134,7 +1195,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen142"
+    "question_id": "cbse_xii_leph1dd_c104_gen142",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "Discuss the procedure using a current balance for measuring the ampere and explain how the force per unit length between two conductors is used in its definition.",
@@ -1148,7 +1210,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen143"
+    "question_id": "cbse_xii_leph1dd_c104_gen143",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "Derive the expression for the force per unit length between two long, parallel current-carrying conductors starting from Ampere's Law and the Lorentz force law.",
@@ -1162,7 +1225,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen144"
+    "question_id": "cbse_xii_leph1dd_c104_gen144",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "Currents flowing in the same direction attract each other. True or False?",
@@ -1176,7 +1240,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen145"
+    "question_id": "cbse_xii_leph1dd_c104_gen145",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "A current-carrying conductor placed in an external magnetic field experiences a force given by F = I L x B. True or False?",
@@ -1190,7 +1255,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen146"
+    "question_id": "cbse_xii_leph1dd_c104_gen146",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "Newton's third law does not hold for forces between moving charges in electromagnetic fields. True or False?",
@@ -1204,7 +1270,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen147"
+    "question_id": "cbse_xii_leph1dd_c104_gen147",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "A long, straight conductor carrying a current of 2 A is placed 0.5 m away from another long, straight conductor carrying 3 A. Calculate the magnetic force per unit length between the two conductors. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -1218,7 +1285,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen148"
+    "question_id": "cbse_xii_leph1dd_c104_gen148",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "A current balance experiment shows that the force per unit length between two wires separated by 1 m in vacuum is 2 × 10⁻⁷ N/m. If the currents in both wires are equal, calculate the magnitude of the current in each wire.",
@@ -1232,7 +1300,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen149"
+    "question_id": "cbse_xii_leph1dd_c104_gen149",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "A 1 A current flows through a conductor placed horizontally in a region where the horizontal component of the Earth's magnetic field is 3.0 × 10⁻⁵ T. If the current flows from east to west, calculate the force per unit length acting on the conductor.",
@@ -1246,7 +1315,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen150"
+    "question_id": "cbse_xii_leph1dd_c104_gen150",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "In an experiment, the measured force per unit length between two parallel wires is 6 × 10⁻⁷ N/m when separated by 1 m. If one wire carries a current of 2 A, determine the magnitude of the current in the other wire.",
@@ -1260,7 +1330,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen151"
+    "question_id": "cbse_xii_leph1dd_c104_gen151",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "A straight conductor carrying 1 A is placed in a magnetic field. Using the formula F = I L x B, explain why the force per unit length on the conductor is zero when the direction of the current is parallel to the magnetic field.",
@@ -1274,7 +1345,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "08_section_4_8",
-    "question_id": "cbse_xii_leph1dd_c104_gen152"
+    "question_id": "cbse_xii_leph1dd_c104_gen152",
+    "section_name": "4.8 FORCE BETWEEN TWO PARALLEL CURRENTS, THE AMPERE"
   },
   {
     "question_text": "Which law is used to calculate the magnetic field produced by an infinitesimal current element in a current loop?",
@@ -1293,7 +1365,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen077"
+    "question_id": "cbse_xii_leph1dd_c104_gen077",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "For a circular current loop of radius R with a point P along its axis at a distance x from the center, what is the expression for r², where r is the distance from any current element to P?",
@@ -1312,7 +1385,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen078"
+    "question_id": "cbse_xii_leph1dd_c104_gen078",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "When summing the contributions from all elements of a circular loop, which component of the magnetic field cancels out due to symmetry?",
@@ -1331,7 +1405,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen079"
+    "question_id": "cbse_xii_leph1dd_c104_gen079",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "What does the right-hand thumb rule indicate for a current-carrying circular loop?",
@@ -1350,7 +1425,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen080"
+    "question_id": "cbse_xii_leph1dd_c104_gen080",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "In the formula B = (μ₀ I R²)/(2(x² + R²)^(3/2)) for the magnetic field on the axis of a circular loop, what happens to the field when x becomes very large compared to R?",
@@ -1369,7 +1445,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen081"
+    "question_id": "cbse_xii_leph1dd_c104_gen081",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Explain why the perpendicular components of the magnetic field from each infinitesimal current element cancel when integrated over a complete circular loop.",
@@ -1383,7 +1460,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen082"
+    "question_id": "cbse_xii_leph1dd_c104_gen082",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Derive the expression for cosθ used in calculating the x-component (dBₓ) of the magnetic field, and state its value in terms of R and x.",
@@ -1397,7 +1475,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen083"
+    "question_id": "cbse_xii_leph1dd_c104_gen083",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "What is the significance of the expression r² = x² + R² in deriving the magnetic field on the axis of a circular current loop?",
@@ -1411,7 +1490,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen084"
+    "question_id": "cbse_xii_leph1dd_c104_gen084",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "List the assumptions made in evaluating the magnetic field along the axis of a circular current loop.",
@@ -1425,7 +1505,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen085"
+    "question_id": "cbse_xii_leph1dd_c104_gen085",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Provide a step-by-step derivation of the formula for the magnetic field at a point on the axis of a circular current loop using the Biot-Savart law.",
@@ -1439,7 +1520,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen086"
+    "question_id": "cbse_xii_leph1dd_c104_gen086",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Discuss in detail how the cancellation of the perpendicular magnetic field components influences the net magnetic field calculation for a current loop. Include a discussion on symmetry in your answer.",
@@ -1453,7 +1535,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen087"
+    "question_id": "cbse_xii_leph1dd_c104_gen087",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Contrast the magnetic field produced by a complete circular loop with that of a semicircular arc. In your answer, mention both the similarities and differences in the field contributions.",
@@ -1467,7 +1550,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen088"
+    "question_id": "cbse_xii_leph1dd_c104_gen088",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "The magnetic field at the center of a circular loop is given by B₀ = μ₀ I/(2R).",
@@ -1481,7 +1565,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen089"
+    "question_id": "cbse_xii_leph1dd_c104_gen089",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "All infinitesimal segments of a circular coil contribute equally in magnitude and direction to the net magnetic field on the axis.",
@@ -1495,7 +1580,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen090"
+    "question_id": "cbse_xii_leph1dd_c104_gen090",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "The straight segments attached to a semicircular arc contribute to the net magnetic field at the center of the arc.",
@@ -1509,7 +1595,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen091"
+    "question_id": "cbse_xii_leph1dd_c104_gen091",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Calculate the magnetic field at a point 0.1 m along the axis of a circular loop with radius 0.05 m carrying a current of 5 A. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -1523,7 +1610,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen092"
+    "question_id": "cbse_xii_leph1dd_c104_gen092",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "A 100-turn coil of radius 0.1 m carries a current of 1 A. Calculate the magnetic field at the center of the coil. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -1537,7 +1625,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen093"
+    "question_id": "cbse_xii_leph1dd_c104_gen093",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "A current of 2 A flows through a circular loop of radius 0.2 m. Calculate the magnetic field at a point 0.3 m along the axis of the loop. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -1551,7 +1640,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen094"
+    "question_id": "cbse_xii_leph1dd_c104_gen094",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Determine the distance along the axis at which the magnetic field due to a circular loop of radius 0.1 m carrying a current of 3 A is reduced to half its value at the center. Use μ₀ = 4π × 10⁻⁷ H/m.",
@@ -1565,7 +1655,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen095"
+    "question_id": "cbse_xii_leph1dd_c104_gen095",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "A circular coil undergoes a modification where the current is increased by 50% while the coil's radius is decreased by 20%. Calculate the percentage change in the magnetic field at the center of the coil.",
@@ -1579,7 +1670,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "05_section_4_5",
-    "question_id": "cbse_xii_leph1dd_c104_gen096"
+    "question_id": "cbse_xii_leph1dd_c104_gen096",
+    "section_name": "4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR CURRENT LOOP"
   },
   {
     "question_text": "Which equation correctly represents the magnetic force acting on a moving charge according to Lorentz?",
@@ -1598,7 +1690,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen017"
+    "question_id": "cbse_xii_leph1dd_c104_gen017",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "What is the SI unit of the magnetic field, and how is it defined in terms of force, charge, and velocity?",
@@ -1617,7 +1710,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen018"
+    "question_id": "cbse_xii_leph1dd_c104_gen018",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "If the velocity of a charge and the magnetic field are parallel or anti-parallel, what happens to the magnetic force experienced by the charge?",
@@ -1636,7 +1730,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen019"
+    "question_id": "cbse_xii_leph1dd_c104_gen019",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "Who is credited with formulating the force law for a moving charge in a magnetic field, now known as the Lorentz force?",
@@ -1655,7 +1750,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen020"
+    "question_id": "cbse_xii_leph1dd_c104_gen020",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "Which physical concept introduced by Faraday indicates that fields can convey energy and momentum?",
@@ -1674,7 +1770,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen021"
+    "question_id": "cbse_xii_leph1dd_c104_gen021",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "Describe the principle of superposition as applied to the electric and magnetic fields.",
@@ -1688,7 +1785,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen022"
+    "question_id": "cbse_xii_leph1dd_c104_gen022",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "Explain why a stationary charge does not experience any magnetic force.",
@@ -1702,7 +1800,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen023"
+    "question_id": "cbse_xii_leph1dd_c104_gen023",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "How does the vector nature of the magnetic force dictate its direction relative to the velocity of the charge and the magnetic field?",
@@ -1716,7 +1815,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen024"
+    "question_id": "cbse_xii_leph1dd_c104_gen024",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "Define current density and explain its relation to the drift velocity of charge carriers in a conductor.",
@@ -1730,7 +1830,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen025"
+    "question_id": "cbse_xii_leph1dd_c104_gen025",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "Derive the expression for the magnetic force on a straight current-carrying wire placed in an external magnetic field starting from the Lorentz force on individual charge carriers.",
@@ -1744,7 +1845,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen026"
+    "question_id": "cbse_xii_leph1dd_c104_gen026",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "Discuss the significance of defining the magnetic field unit as the Tesla and compare it with the Gauss. In your answer, include how each unit is practically determined.",
@@ -1758,7 +1860,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen027"
+    "question_id": "cbse_xii_leph1dd_c104_gen027",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "The electric field is defined at every point in space and can also vary with time. True or False?",
@@ -1772,7 +1875,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen028"
+    "question_id": "cbse_xii_leph1dd_c104_gen028",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "A moving charged particle does not experience any force if it is traveling parallel to the magnetic field. True or False?",
@@ -1786,7 +1890,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen029"
+    "question_id": "cbse_xii_leph1dd_c104_gen029",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "The magnetic force on a moving charge increases as the speed of the charge decreases. True or False?",
@@ -1800,7 +1905,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen030"
+    "question_id": "cbse_xii_leph1dd_c104_gen030",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "A straight wire of length 1.5 m and mass 200 g is suspended in a horizontal magnetic field such that its weight is balanced by the magnetic force. If the current in the wire is 2 A, calculate the magnitude of the magnetic field.",
@@ -1814,7 +1920,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen031"
+    "question_id": "cbse_xii_leph1dd_c104_gen031",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "A proton is moving with a speed of 3×10^5 m/s perpendicular to a uniform magnetic field of magnitude 0.2 T. Calculate the magnitude of the magnetic force acting on the proton. (Charge of proton = 1.6×10^-19 C)",
@@ -1828,7 +1935,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen032"
+    "question_id": "cbse_xii_leph1dd_c104_gen032",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "A negatively charged particle moves with a velocity of 5×10^4 m/s in a magnetic field of 0.1 T. If the velocity makes an angle of 90° with the magnetic field, what is the magnitude of the Lorentz force on the particle for a charge of -2×10^-6 C?",
@@ -1842,7 +1950,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen033"
+    "question_id": "cbse_xii_leph1dd_c104_gen033",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "A current-carrying wire of length 0.8 m is placed in a uniform magnetic field of 0.5 T. If the current in the wire is 3 A, calculate the magnitude of the magnetic force acting on the wire when the wire is oriented perpendicular to the magnetic field.",
@@ -1856,7 +1965,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen034"
+    "question_id": "cbse_xii_leph1dd_c104_gen034",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "An electron moves in a circular path under the influence of a magnetic field. If the electron has a speed of 2×10^6 m/s and the magnetic field is 0.01 T, what is the radius of its circular path? (Electron mass = 9.11×10^-31 kg, charge = 1.6×10^-19 C)",
@@ -1870,7 +1980,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen035"
+    "question_id": "cbse_xii_leph1dd_c104_gen035",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "A conductor with a uniform cross-sectional area of 2×10^-6 m^2 carries a steady current of 5 A. If the conduction electrons have a drift velocity of 1×10^-4 m/s, determine the charge carrier density, assuming each carrier has a charge of 1.6×10^-19 C.",
@@ -1884,7 +1995,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_xii_leph1dd_c104_gen036"
+    "question_id": "cbse_xii_leph1dd_c104_gen036",
+    "section_name": "4.2 MAGNETIC FORCE"
   },
   {
     "question_text": "Which physical law relates the magnetic field dB produced by a current element I·dl to the distance r?",
@@ -1903,7 +2015,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen057"
+    "question_id": "cbse_xii_leph1dd_c104_gen057",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "What is the numerical value of the constant μ₀/4π in SI units as used in the Biot-Savart law?",
@@ -1922,7 +2035,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen058"
+    "question_id": "cbse_xii_leph1dd_c104_gen058",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Which of the following is a distinguishing difference between magnetic and electrostatic fields as described in the section?",
@@ -1941,7 +2055,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen059"
+    "question_id": "cbse_xii_leph1dd_c104_gen059",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "According to the right-hand screw rule mentioned in the section, what is the direction of the magnetic field produced by a current element I·dl at a point located by the displacement vector r?",
@@ -1960,7 +2075,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen060"
+    "question_id": "cbse_xii_leph1dd_c104_gen060",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "In the Biot-Savart law, the magnitude of the magnetic field dB is given by (μ₀/4π) (I dl sinθ)/(r²) while the vector form has r³ in the denominator. Which factors directly influence dB in the magnitude expression?",
@@ -1979,7 +2095,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen061"
+    "question_id": "cbse_xii_leph1dd_c104_gen061",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "What does the symbol μ₀ represent in electromagnetism, and what is its value in SI units?",
@@ -1993,7 +2110,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen062"
+    "question_id": "cbse_xii_leph1dd_c104_gen062",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "How does the Biot-Savart law incorporate the dependence on the angle between the current element I·dl and the displacement vector r?",
@@ -2007,7 +2125,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen063"
+    "question_id": "cbse_xii_leph1dd_c104_gen063",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Compare the directions of the electric field and the magnetic field produced by their respective sources as explained in the section.",
@@ -2021,7 +2140,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen064"
+    "question_id": "cbse_xii_leph1dd_c104_gen064",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "What is the role of the right-hand screw rule in determining the direction of the magnetic field, according to the section?",
@@ -2035,7 +2155,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen065"
+    "question_id": "cbse_xii_leph1dd_c104_gen065",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Explain how the Biot-Savart law is analogous to Coulomb's law and detail the differences between them regarding the nature of their sources and the orientation of their fields.",
@@ -2049,7 +2170,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen066"
+    "question_id": "cbse_xii_leph1dd_c104_gen066",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Derive the magnitude expression |dB| = (μ₀/4π) (I·dl·sinθ)/(r²) starting from the vector form dB = (μ₀/4π) (I·dl × r)/(r³).",
@@ -2063,7 +2185,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen067"
+    "question_id": "cbse_xii_leph1dd_c104_gen067",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Discuss how the relation μ₀ε₀ = 1/c², as presented in the section, links the magnetic permeability, the electric permittivity, and the speed of light, and explain its significance in electromagnetic theory.",
@@ -2077,7 +2200,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen068"
+    "question_id": "cbse_xii_leph1dd_c104_gen068",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "True or False: The Biot-Savart law indicates that the magnetic field is produced only by steady currents.",
@@ -2091,7 +2215,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen069"
+    "question_id": "cbse_xii_leph1dd_c104_gen069",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "True or False: According to the Biot-Savart law, the magnetic field produced by a current element is directed along the displacement vector between the element and the field point.",
@@ -2105,7 +2230,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen070"
+    "question_id": "cbse_xii_leph1dd_c104_gen070",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "True or False: The cyclic property of the cross product, such as i × j = k, is used to determine the direction of the magnetic field produced by a current element.",
@@ -2119,7 +2245,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen071"
+    "question_id": "cbse_xii_leph1dd_c104_gen071",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "A current element of length 5 cm carrying a current of 3 A is oriented perpendicular to the line joining it to a point 0.2 m away. Calculate the magnitude of the magnetic field at that point.",
@@ -2133,7 +2260,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen072"
+    "question_id": "cbse_xii_leph1dd_c104_gen072",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Determine the magnetic field at a point 0.1 m away from a current element of length 2 cm carrying a current of 2 A if the angle between I·dl and the displacement vector is 60°. (Use sin 60° = 0.866)",
@@ -2147,7 +2275,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen073"
+    "question_id": "cbse_xii_leph1dd_c104_gen073",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "A small wire segment of length 1 cm carrying a current of 15 A makes an angle of 45° with the line joining it to point P, which is located 0.3 m away. Calculate the magnitude of the magnetic field at point P and state its direction.",
@@ -2161,7 +2290,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen074"
+    "question_id": "cbse_xii_leph1dd_c104_gen074",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "In Example 4.4, a current element with dl = 1 cm carrying 10 A is placed at the origin, and the magnetic field on the y-axis (point P) is calculated. If point P is instead chosen on the x-axis at 0.5 m from the origin, what is the magnetic field at that point?",
@@ -2175,7 +2305,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen075"
+    "question_id": "cbse_xii_leph1dd_c104_gen075",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Using the Biot-Savart law, compute the magnetic field at the center of a circular loop of radius 0.1 m carrying a current of 5 A. (Hint: The magnetic field at the center of a current loop is given by B = (μ₀ I)/(2r).)",
@@ -2189,7 +2320,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen076"
+    "question_id": "cbse_xii_leph1dd_c104_gen076",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "A rectangular current loop carrying current I and having area A is placed in a uniform magnetic field B such that the plane of the loop is parallel to B. What is the magnitude of the torque acting on the loop?",
@@ -2208,7 +2340,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen153"
+    "question_id": "cbse_xii_leph1dd_c104_gen153",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "What is the magnetic moment m of a current loop and how is its direction determined?",
@@ -2227,7 +2360,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen154"
+    "question_id": "cbse_xii_leph1dd_c104_gen154",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "In a uniform magnetic field, a current-carrying loop is free to rotate. Which orientation corresponds to a stable equilibrium?",
@@ -2246,7 +2380,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen155"
+    "question_id": "cbse_xii_leph1dd_c104_gen155",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Which of the following correctly expresses the torque on a magnetic dipole in a uniform magnetic field using a vector product?",
@@ -2265,7 +2400,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen156"
+    "question_id": "cbse_xii_leph1dd_c104_gen156",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "What are the SI units of the magnetic moment?",
@@ -2284,7 +2420,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen157"
+    "question_id": "cbse_xii_leph1dd_c104_gen157",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Explain why a rectangular current loop experiences a torque but no net force when placed in a uniform magnetic field.",
@@ -2298,7 +2435,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen158"
+    "question_id": "cbse_xii_leph1dd_c104_gen158",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Derive the expression for the torque on a rectangular current loop when its plane makes an angle θ with the magnetic field.",
@@ -2312,7 +2450,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen159"
+    "question_id": "cbse_xii_leph1dd_c104_gen159",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Describe the analogy between a current loop's magnetic dipole and an electric dipole. How are their fields similar?",
@@ -2326,7 +2465,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen160"
+    "question_id": "cbse_xii_leph1dd_c104_gen160",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Explain why a flexible current-carrying loop of irregular shape placed in an external magnetic field tends to become circular.",
@@ -2340,7 +2480,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen161"
+    "question_id": "cbse_xii_leph1dd_c104_gen161",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "A rectangular loop with dimensions a and b carries a current I in a uniform magnetic field B. Using the lever arm method, derive the expression for the net torque on the loop when the field is in the plane of the loop.",
@@ -2354,7 +2495,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen162"
+    "question_id": "cbse_xii_leph1dd_c104_gen162",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Discuss how the torque on a current loop changes as the loop rotates from an orientation with its plane parallel to the magnetic field to one with its plane perpendicular to the field. What is the effect on equilibrium?",
@@ -2368,7 +2510,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen163"
+    "question_id": "cbse_xii_leph1dd_c104_gen163",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Using the concept of a magnetic dipole, explain why a small permanent magnet always aligns itself with the Earth's magnetic field.",
@@ -2382,7 +2525,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen164"
+    "question_id": "cbse_xii_leph1dd_c104_gen164",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "A current-carrying circular loop lies on a horizontal plane. Can a uniform magnetic field be arranged such that the loop rotates about a vertical axis? Explain your answer.",
@@ -2396,7 +2540,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen165"
+    "question_id": "cbse_xii_leph1dd_c104_gen165",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "True or False: The torque on a magnetic dipole is zero when its magnetic moment is antiparallel to the external magnetic field.",
@@ -2410,7 +2555,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen166"
+    "question_id": "cbse_xii_leph1dd_c104_gen166",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "True or False: For a circular current loop far from the loop (x >> R), the magnetic field on the axis decreases with the cube of the distance.",
@@ -2424,7 +2570,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen167"
+    "question_id": "cbse_xii_leph1dd_c104_gen167",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "A circular coil of 100 closely wound turns and radius 10 cm carries a current of 3.2 A. Using the formula B = (μ₀NI)/(2R), calculate the magnetic field at the centre of the coil. (Take μ₀ = 4π×10⁻⁷ T·m/A)",
@@ -2438,7 +2585,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen168"
+    "question_id": "cbse_xii_leph1dd_c104_gen168",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "For the same coil described in the previous question, determine the magnetic moment m of the coil. (Use the area A = πR²)",
@@ -2452,7 +2600,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen169"
+    "question_id": "cbse_xii_leph1dd_c104_gen169",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "A coil with magnetic moment m = 10 A·m² is placed in a uniform magnetic field of 2 T. If the coil is free to rotate about a horizontal axis, what is the magnitude of the torque when the coil is oriented such that its magnetic moment is perpendicular to the magnetic field?",
@@ -2466,7 +2615,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen170"
+    "question_id": "cbse_xii_leph1dd_c104_gen170",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "The same coil with moment of inertia J = 0.1 kg·m² rotates from an initial position (θ = 0°) to a final position (θ = 90°) under the influence of the torque produced by the magnetic field. Calculate the angular speed ω acquired by the coil after rotating by 90°.",
@@ -2480,7 +2630,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen171"
+    "question_id": "cbse_xii_leph1dd_c104_gen171",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "A circular current loop produces a magnetic field that, at points along its axis far from the loop, behaves like a dipole field. Write the expression for the magnetic field along the axis in terms of the magnetic moment m and distance x, and explain the similarity to the electric dipole field.",
@@ -2494,7 +2645,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen172"
+    "question_id": "cbse_xii_leph1dd_c104_gen172",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Design an experiment to demonstrate the torque on a current loop in a magnetic field. Describe the setup, observable quantities, and how the theoretical expression τ = m × B is verified.",
@@ -2508,7 +2660,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "09_section_4_9",
-    "question_id": "cbse_xii_leph1dd_c104_gen173"
+    "question_id": "cbse_xii_leph1dd_c104_gen173",
+    "section_name": "4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE"
   },
   {
     "question_text": "Which of the following components provides the counter (restoring) torque in a moving coil galvanometer?",
@@ -2527,7 +2680,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen174"
+    "question_id": "cbse_xii_leph1dd_c104_gen174",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "The current sensitivity of a moving coil galvanometer is given by the expression φ/I = NAB/k. Which parameter, if increased, would directly increase the current sensitivity?",
@@ -2546,7 +2700,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen175"
+    "question_id": "cbse_xii_leph1dd_c104_gen175",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Why is a shunt resistor used when converting a galvanometer into an ammeter?",
@@ -2565,7 +2720,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen176"
+    "question_id": "cbse_xii_leph1dd_c104_gen176",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "If the number of turns (N) of a galvanometer coil is doubled, what is the effect on its voltage sensitivity when the device is converted to a voltmeter?",
@@ -2584,7 +2740,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen177"
+    "question_id": "cbse_xii_leph1dd_c104_gen177",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "FIGURE 4.22 in the textbook illustrates the conversion of a galvanometer into which instrument by adding a large series resistor?",
@@ -2603,7 +2760,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen178"
+    "question_id": "cbse_xii_leph1dd_c104_gen178",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "In your own words, explain why the angular deflection (φ) in a moving coil galvanometer is directly proportional to the current passing through the coil.",
@@ -2617,7 +2775,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen179"
+    "question_id": "cbse_xii_leph1dd_c104_gen179",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Define the term 'current sensitivity' as used in the context of a moving coil galvanometer.",
@@ -2631,7 +2790,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen180"
+    "question_id": "cbse_xii_leph1dd_c104_gen180",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "How does the design of a uniform radial magnetic field in a moving coil galvanometer simplify the expression for the torque acting on the coil?",
@@ -2645,7 +2805,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen181"
+    "question_id": "cbse_xii_leph1dd_c104_gen181",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Discuss the role of the soft iron core in the construction of a moving coil galvanometer.",
@@ -2659,7 +2820,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen182"
+    "question_id": "cbse_xii_leph1dd_c104_gen182",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Describe how a galvanometer is converted into an ammeter using a shunt resistor. Include details on the circuit modification and the impact on the measurement.",
@@ -2673,7 +2835,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen183"
+    "question_id": "cbse_xii_leph1dd_c104_gen183",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Derive the expression for the angular deflection (φ) of the coil in a moving coil galvanometer starting from the torque produced by the magnetic field and equating it to the restoring torque from the spring. Discuss how design parameters such as N, A, B, and k affect the sensitivity.",
@@ -2687,7 +2850,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen184"
+    "question_id": "cbse_xii_leph1dd_c104_gen184",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Compare and contrast the modifications required to convert a galvanometer into an ammeter versus a voltmeter.",
@@ -2701,7 +2865,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen185"
+    "question_id": "cbse_xii_leph1dd_c104_gen185",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A moving coil galvanometer is said to measure current without significantly affecting the circuit. True or False?",
@@ -2715,7 +2880,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen186"
+    "question_id": "cbse_xii_leph1dd_c104_gen186",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Increasing the number of turns (N) in the coil always increases both the current sensitivity and voltage sensitivity of a moving coil galvanometer. True or False?",
@@ -2729,7 +2895,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen187"
+    "question_id": "cbse_xii_leph1dd_c104_gen187",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Using a shunt resistance much smaller than the galvanometer resistance ensures that its effect on the overall circuit resistance is negligible. True or False?",
@@ -2743,7 +2910,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen188"
+    "question_id": "cbse_xii_leph1dd_c104_gen188",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A galvanometer with an internal resistance of 60 ohms is connected in series with a 3 ohm resistor across a 3 V battery. Calculate the current measured by the galvanometer.",
@@ -2757,7 +2925,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen189"
+    "question_id": "cbse_xii_leph1dd_c104_gen189",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A galvanometer with an internal resistance of 60 ohms is converted into an ammeter by connecting a 0.02 ohm shunt resistor in parallel. It is then connected in series with a 3 ohm resistor across a 3 V battery. Determine the current that flows through the circuit.",
@@ -2771,7 +2940,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen190"
+    "question_id": "cbse_xii_leph1dd_c104_gen190",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "For a moving coil galvanometer, if NAB/k is 0.5 rad per microampere, what angular deflection is produced when a current of 2 microamperes flows through the coil?",
@@ -2785,7 +2955,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen191"
+    "question_id": "cbse_xii_leph1dd_c104_gen191",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A galvanometer originally has 100 turns and a current sensitivity of 0.1 rad per microampere. If the number of turns is doubled (and consequently the internal resistance doubles), determine the new current sensitivity and comment on the voltage sensitivity when used as a voltmeter.",
@@ -2799,7 +2970,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen192"
+    "question_id": "cbse_xii_leph1dd_c104_gen192",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A voltmeter is to be constructed by converting a galvanometer with an internal resistance of 50 ohms and a full-scale deflection current of 5 microamperes. If the voltmeter is designed to measure up to 100 V, calculate the value of the series resistor that should be added.",
@@ -2813,7 +2985,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen193"
+    "question_id": "cbse_xii_leph1dd_c104_gen193",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Which of the following best explains why the magnetic force does no work on a charged particle moving in a magnetic field?",
@@ -2832,7 +3005,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen037"
+    "question_id": "cbse_xii_leph1dd_c104_gen037",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "In the motion of a charged particle in a magnetic field, if the entire velocity is perpendicular to the field, which of the following equations correctly equates the centripetal force with the magnetic force?",
@@ -2851,7 +3025,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen038"
+    "question_id": "cbse_xii_leph1dd_c104_gen038",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "What is the expression for the frequency (ν) of a charged particle undergoing circular motion in a uniform magnetic field in terms of its charge (q), magnetic field (B), and mass (m)?",
@@ -2870,7 +3045,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen039"
+    "question_id": "cbse_xii_leph1dd_c104_gen039",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Which component of a charged particle's velocity remains unaffected when the particle moves in a uniform magnetic field?",
@@ -2889,7 +3065,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen040"
+    "question_id": "cbse_xii_leph1dd_c104_gen040",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "In helical motion, what does the 'pitch' of the helix represent?",
@@ -2908,7 +3085,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen041"
+    "question_id": "cbse_xii_leph1dd_c104_gen041",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Explain why the magnetic force cannot do work on a charged particle. Provide your answer in a brief paragraph.",
@@ -2922,7 +3100,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen042"
+    "question_id": "cbse_xii_leph1dd_c104_gen042",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Define helical motion of a charged particle in a uniform magnetic field and describe the role of the particle's velocity components in this motion.",
@@ -2936,7 +3115,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen043"
+    "question_id": "cbse_xii_leph1dd_c104_gen043",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "What is the formula for the pitch of the helical path and what physical quantities does it depend on?",
@@ -2950,7 +3130,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen044"
+    "question_id": "cbse_xii_leph1dd_c104_gen044",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Derive the expression for the radius of the circular path (r = m·v/(q·B)) for a charged particle moving perpendicular to a uniform magnetic field. Provide all necessary steps in your derivation.",
@@ -2964,7 +3145,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen045"
+    "question_id": "cbse_xii_leph1dd_c104_gen045",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Discuss why the frequency of rotation of a charged particle in a cyclotron is independent of its speed, and explain the practical implications of this property in the design of cyclotrons.",
@@ -2978,7 +3160,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen046"
+    "question_id": "cbse_xii_leph1dd_c104_gen046",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "True or False: A charged particle moving in a magnetic field can have its speed increased solely by the magnetic force.",
@@ -2992,7 +3175,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen047"
+    "question_id": "cbse_xii_leph1dd_c104_gen047",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "True or False: In a uniform magnetic field, a charged particle with a velocity that is completely perpendicular to the field will follow a perfect circular path.",
@@ -3006,7 +3190,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen048"
+    "question_id": "cbse_xii_leph1dd_c104_gen048",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "An electron (mass = 9×10^-31 kg, charge = 1.6×10^-19 C) is moving with a speed of 3×10^7 m/s in a magnetic field of 6×10^-4 T. Calculate the radius of the circular path and the frequency of rotation. Also, determine its kinetic energy in keV.",
@@ -3020,7 +3205,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen049"
+    "question_id": "cbse_xii_leph1dd_c104_gen049",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "An ion with a mass of 3×10^-26 kg and a charge of 2×10^-19 C enters a uniform magnetic field of 0.01 T with a speed of 5×10^4 m/s, moving completely perpendicular to the field. Determine the radius of its circular path and its angular frequency.",
@@ -3034,7 +3220,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen050"
+    "question_id": "cbse_xii_leph1dd_c104_gen050",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "A proton (mass = 1.67×10^-27 kg, charge = 1.6×10^-19 C) enters a uniform magnetic field of 0.2 T with a velocity of 1×10^6 m/s at an angle of 30° with respect to the field direction. Calculate the radius of the circular component of its motion and the pitch of the resulting helix.",
@@ -3048,7 +3235,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen051"
+    "question_id": "cbse_xii_leph1dd_c104_gen051",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "For a particle in a cyclotron operating in a uniform magnetic field of 0.5 T with a measured rotation frequency of 10 MHz, determine the charge-to-mass ratio (q/m) of the particle.",
@@ -3062,7 +3250,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen052"
+    "question_id": "cbse_xii_leph1dd_c104_gen052",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "An electron beam is bent in a magnetic field forming a circular arc with a radius of 0.1 m. Given that the electrons have a speed of 2×10^7 m/s, calculate the magnitude of the magnetic field required (electron mass = 9×10^-31 kg, charge = 1.6×10^-19 C).",
@@ -3076,7 +3265,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen053"
+    "question_id": "cbse_xii_leph1dd_c104_gen053",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "A charged particle in a magnetic field of 0.05 T follows a helical path with a pitch of 0.02 m and a rotation frequency of 2 MHz. If the radius of the circular part of the motion is 0.005 m, calculate the component of the velocity parallel to the magnetic field and the total speed of the particle.",
@@ -3090,7 +3280,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen054"
+    "question_id": "cbse_xii_leph1dd_c104_gen054",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Explain how decomposing a charged particle’s velocity into components parallel and perpendicular to the magnetic field leads to a helical path. Compare this motion with the case where the velocity is entirely perpendicular to the field.",
@@ -3104,7 +3295,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen055"
+    "question_id": "cbse_xii_leph1dd_c104_gen055",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "What is the physical significance of the cyclotron frequency being independent of the particle's energy? Briefly describe how this property benefits particle acceleration techniques.",
@@ -3118,6 +3310,7 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen056"
+    "question_id": "cbse_xii_leph1dd_c104_gen056",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   }
 ]

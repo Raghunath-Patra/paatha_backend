@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen043"
+    "question_id": "cbse_x_jemh1dd_c105_gen043",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Gauss’s method for finding the sum of the first 100 positive integers is based on which idea?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen044"
+    "question_id": "cbse_x_jemh1dd_c105_gen044",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Which formula is most efficient for finding the sum when you know only the first and the last terms of an AP?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen045"
+    "question_id": "cbse_x_jemh1dd_c105_gen045",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "In an arithmetic progression with a negative common difference, under which circumstance can the sum of some n terms be zero?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen046"
+    "question_id": "cbse_x_jemh1dd_c105_gen046",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Define an Arithmetic Progression (AP) and write down its nth term formula.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen047"
+    "question_id": "cbse_x_jemh1dd_c105_gen047",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Explain the significance of the formula S = n(n + 1)/2.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen048"
+    "question_id": "cbse_x_jemh1dd_c105_gen048",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "State and explain the relationship between the nth term (aₙ) of an AP and the sums Sₙ and Sₙ₋₁ of its first n and (n – 1) terms respectively.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen049"
+    "question_id": "cbse_x_jemh1dd_c105_gen049",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Derive the formula for the sum of the first n terms of an AP starting from the series S = a + (a + d) + (a + 2d) + … + [a + (n – 1)d].",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen050"
+    "question_id": "cbse_x_jemh1dd_c105_gen050",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Prove that if the sum of the first 4 terms and the sum of the first 13 terms of an AP are equal, then the sum of the terms from the 5th to the 13th term is zero.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen051"
+    "question_id": "cbse_x_jemh1dd_c105_gen051",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Shakila deposits money into her daughter's piggy bank following an arithmetic progression: ₹100 on the 1st birthday, increasing by ₹50 each subsequent birthday. Calculate the total amount collected by the 21st birthday.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen052"
+    "question_id": "cbse_x_jemh1dd_c105_gen052",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Find the sum of the first 22 terms of the arithmetic progression: 8, 3, –2, … . Provide a step-by-step solution.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen053"
+    "question_id": "cbse_x_jemh1dd_c105_gen053",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "If the first term of an AP is 10 and the sum of its first 14 terms is 1050, determine the 20th term of the sequence.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen054"
+    "question_id": "cbse_x_jemh1dd_c105_gen054",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "A TV manufacturer produced 600 sets in the 3rd year and 700 sets in the 7th year. Assuming production increases uniformly year by year, determine: (i) the production in the 1st year, (ii) production in the 10th year, and (iii) the total production in the first 7 years.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen055"
+    "question_id": "cbse_x_jemh1dd_c105_gen055",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "Calculate the sum of the first 1,000 positive integers using the appropriate AP formula.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen056"
+    "question_id": "cbse_x_jemh1dd_c105_gen056",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   },
   {
     "question_text": "For the sequence whose nth term is given by aₙ = 3 + 2n, find the sum of the first 24 terms.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "06_section_5_4",
-    "question_id": "cbse_x_jemh1dd_c105_gen057"
+    "question_id": "cbse_x_jemh1dd_c105_gen057",
+    "section_name": "5.4 Sum of First n Terms of an AP"
   }
 ]

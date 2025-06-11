@@ -335,7 +335,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen184"
+    "question_id": "cbse_xi_keph1dd_c105_gen184",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "According to the derivation in the text, the time rate of change of kinetic energy is given by dK/dt = m v (dv/dt). What substitution is made to reach the expression dK/dt = vF?",
@@ -354,7 +355,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen185"
+    "question_id": "cbse_xi_keph1dd_c105_gen185",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Which of the following best explains the limitation of the work-energy theorem when compared to Newton's second law?",
@@ -373,7 +375,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen186"
+    "question_id": "cbse_xi_keph1dd_c105_gen186",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "The work done by a variable force on an object moving in one dimension is given as W = ∫(xi to xf) F dx. This equation represents which of Newton's laws in integral form?",
@@ -392,7 +395,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen187"
+    "question_id": "cbse_xi_keph1dd_c105_gen187",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Explain the process of deriving the work-energy theorem for a variable force in one dimension. Mention the key steps and substitutions used.",
@@ -406,7 +410,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen188"
+    "question_id": "cbse_xi_keph1dd_c105_gen188",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Why does the work-energy theorem, when expressed in scalar form, fail to provide directional information about forces and motion?",
@@ -420,7 +425,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen189"
+    "question_id": "cbse_xi_keph1dd_c105_gen189",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Describe the significance of integrating the force over displacement when applying the work-energy theorem. Include in your answer how this method differs from analyzing force as a function of time.",
@@ -434,7 +440,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen190"
+    "question_id": "cbse_xi_keph1dd_c105_gen190",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Discuss the limitations of the work-energy theorem relative to Newton's second law when working with two or three dimensional motion. How does this affect the analysis of physical systems?",
@@ -448,7 +455,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen191"
+    "question_id": "cbse_xi_keph1dd_c105_gen191",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Given a variable force acting on an object along the x-axis, outline a systematic procedure for using the work-energy theorem to determine the final kinetic energy of the object. Your answer should include the treatment of boundary conditions and any assumptions made.",
@@ -462,7 +470,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen192"
+    "question_id": "cbse_xi_keph1dd_c105_gen192",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work-energy theorem retains all time-dependent information present in Newton's second law.",
@@ -476,7 +485,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen193"
+    "question_id": "cbse_xi_keph1dd_c105_gen193",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: In the derivation of the work-energy theorem, integrating F dx provides the net work done on an object regardless of the force's variation over the path.",
@@ -490,7 +500,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen194"
+    "question_id": "cbse_xi_keph1dd_c105_gen194",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The variable force example F = -k/x given in the section applies for all values of x from 0 to infinity.",
@@ -504,7 +515,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen195"
+    "question_id": "cbse_xi_keph1dd_c105_gen195",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 1-kg block moving with an initial speed of 2 m/s enters a 2-meter long rough patch. The frictional force in this region is given by F = -0.5/x Newtons for 0.1 m < x < 2.1 m. Calculate the final kinetic energy and speed of the block after passing through this patch. Show all steps in your solution.",
@@ -518,7 +530,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen196"
+    "question_id": "cbse_xi_keph1dd_c105_gen196",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 2-kg particle moving at 3 m/s enters a region where it experiences a variable retarding force given by F = -0.8/x (N) for 0.5 m < x < 4.5 m. Calculate its final speed after it exits this region. Provide a step-by-step solution.",
@@ -532,7 +545,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen197"
+    "question_id": "cbse_xi_keph1dd_c105_gen197",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A particle of mass 0.5 kg starts from rest and moves along the x-axis under the action of a variable force given by F = 4/x (N) for 1 m ≤ x ≤ 5 m. Find the final kinetic energy and speed of the particle after it travels through this region. Provide a detailed solution.",
@@ -546,7 +560,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen198"
+    "question_id": "cbse_xi_keph1dd_c105_gen198",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Which expression correctly represents the work done by a variable force acting from an initial position xi to a final position xf?",
@@ -565,7 +580,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen146"
+    "question_id": "cbse_xi_keph1dd_c105_gen146",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "When a force F(x) is constant over a displacement, the work done can be calculated as:",
@@ -584,7 +600,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen147"
+    "question_id": "cbse_xi_keph1dd_c105_gen147",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "In the context of Fig. 5.3, what does the area under the curve of F(x) versus x represent?",
@@ -603,7 +620,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen148"
+    "question_id": "cbse_xi_keph1dd_c105_gen148",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "For a force that decreases linearly with displacement, which geometric shape is used to approximate the work done over that interval?",
@@ -622,7 +640,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen149"
+    "question_id": "cbse_xi_keph1dd_c105_gen149",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "In the provided example, the frictional force f is plotted on the force-displacement graph. In which direction does the frictional force act relative to the displacement?",
@@ -641,7 +660,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen150"
+    "question_id": "cbse_xi_keph1dd_c105_gen150",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Explain why, for a variable force, the work done is represented as an integral rather than a simple product of force and displacement.",
@@ -655,7 +675,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen151"
+    "question_id": "cbse_xi_keph1dd_c105_gen151",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Describe how the concept of a limit is used in the derivation of the work done by a variable force.",
@@ -669,7 +690,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen152"
+    "question_id": "cbse_xi_keph1dd_c105_gen152",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "State the physical significance of the area under the force versus displacement graph.",
@@ -683,7 +705,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen153"
+    "question_id": "cbse_xi_keph1dd_c105_gen153",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "What is the importance of representing the force as a function F(x) when calculating work in physical systems?",
@@ -697,7 +720,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen154"
+    "question_id": "cbse_xi_keph1dd_c105_gen154",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Discuss the process of deriving the expression for work done by a variable force starting from the concept of small displacements.",
@@ -711,7 +735,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen155"
+    "question_id": "cbse_xi_keph1dd_c105_gen155",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Analyze the example where a woman pushes a trunk on a railway platform, detailing how the work done by her applied force and by friction are calculated using the areas under their respective curves.",
@@ -725,7 +750,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen156"
+    "question_id": "cbse_xi_keph1dd_c105_gen156",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Evaluate the advantages and potential limitations of using integration to compute work done by variable forces in real physical systems.",
@@ -739,7 +765,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen157"
+    "question_id": "cbse_xi_keph1dd_c105_gen157",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work done by a variable force can be accurately calculated by multiplying the force value at the starting position by the total displacement.",
@@ -753,7 +780,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen158"
+    "question_id": "cbse_xi_keph1dd_c105_gen158",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: In the given example, the work done by friction is negative because friction always opposes the direction of displacement.",
@@ -767,7 +795,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen159"
+    "question_id": "cbse_xi_keph1dd_c105_gen159",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: Taking the limit as Δx tends to zero ensures that the summation approach accurately accounts for any nonlinear variation in the force function.",
@@ -781,7 +810,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen160"
+    "question_id": "cbse_xi_keph1dd_c105_gen160",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A constant force of 80 N acts over a displacement of 5 m. Calculate the work done by this force.",
@@ -795,7 +825,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen161"
+    "question_id": "cbse_xi_keph1dd_c105_gen161",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A force varies linearly from 120 N to 80 N over a displacement of 10 m. Calculate the work done by this force.",
@@ -809,7 +840,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen162"
+    "question_id": "cbse_xi_keph1dd_c105_gen162",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "In a modified scenario similar to the provided example, a woman pushes a trunk by applying a force of 100 N for the first 8 m and then decreasing linearly to 60 N over the next 12 m. If the frictional force remains constant at 50 N over the entire 20 m, calculate the work done by her force and the work done by friction.",
@@ -823,7 +855,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen163"
+    "question_id": "cbse_xi_keph1dd_c105_gen163",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A variable force given by F(x) = 5x (in Newtons) acts along the x-axis from x = 2 m to x = 6 m. Calculate the work done by this force.",
@@ -837,7 +870,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen164"
+    "question_id": "cbse_xi_keph1dd_c105_gen164",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A force acting on an object is given by F(x) = 10 - 0.5x (in Newtons) for x ranging from 0 m to 20 m. Determine the work done by this force over this displacement and explain what the result implies if the force were to become negative beyond this range.",
@@ -851,7 +885,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen165"
+    "question_id": "cbse_xi_keph1dd_c105_gen165",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Which of the following best defines potential energy in the context of this textbook section?",
@@ -870,7 +905,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen239"
+    "question_id": "cbse_xi_keph1dd_c105_gen239",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "In the context of gravitational potential energy near Earth's surface, which expression correctly represents the work done by an external agency to raise a mass m to a height h?",
@@ -889,7 +925,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen240"
+    "question_id": "cbse_xi_keph1dd_c105_gen240",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "When a ball is dropped from a height h, its kinetic energy just before impact is given by which of the following expressions?",
@@ -908,7 +945,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen241"
+    "question_id": "cbse_xi_keph1dd_c105_gen241",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Which of the following statements about conservative forces is correct?",
@@ -927,7 +965,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen242"
+    "question_id": "cbse_xi_keph1dd_c105_gen242",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "What are the dimensions of potential energy according to the text?",
@@ -946,7 +985,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen243"
+    "question_id": "cbse_xi_keph1dd_c105_gen243",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Briefly explain how potential energy is converted to kinetic energy in the case of a falling ball.",
@@ -960,7 +1000,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen244"
+    "question_id": "cbse_xi_keph1dd_c105_gen244",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Derive the expression for gravitational force starting from the gravitational potential energy function V(h) = mgh.",
@@ -974,7 +1015,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen245"
+    "question_id": "cbse_xi_keph1dd_c105_gen245",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Define potential energy and discuss its applicability to conservative forces.",
@@ -988,7 +1030,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen246"
+    "question_id": "cbse_xi_keph1dd_c105_gen246",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "What is meant by the statement 'the work done by a conservative force is equal to the negative change in potential energy'?",
@@ -1002,7 +1045,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen247"
+    "question_id": "cbse_xi_keph1dd_c105_gen247",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Discuss the principle of conservation of energy as demonstrated by the conversion of gravitational potential energy into kinetic energy in a falling object.",
@@ -1016,7 +1060,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen248"
+    "question_id": "cbse_xi_keph1dd_c105_gen248",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Derive the gravitational force acting on an object by taking the derivative of its gravitational potential energy function.",
@@ -1030,7 +1075,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen249"
+    "question_id": "cbse_xi_keph1dd_c105_gen249",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Compare and contrast conservative and nonconservative forces with relevant examples, including how potential energy is involved in each case.",
@@ -1044,7 +1090,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen250"
+    "question_id": "cbse_xi_keph1dd_c105_gen250",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: The work done by the gravitational force on an object moving between two points depends on the path taken.",
@@ -1058,7 +1105,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen251"
+    "question_id": "cbse_xi_keph1dd_c105_gen251",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: On a frictionless inclined plane, the angle of inclination affects the final speed of an object falling from a fixed height.",
@@ -1072,7 +1120,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen252"
+    "question_id": "cbse_xi_keph1dd_c105_gen252",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: Potential energy is only defined for conservative forces.",
@@ -1086,7 +1135,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen253"
+    "question_id": "cbse_xi_keph1dd_c105_gen253",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A 2 kg ball is raised to a height of 4 m near the Earth's surface (with g = 9.8 m/s^2). Calculate the gravitational potential energy stored in the ball and the work done by gravity if the ball is lowered back to the ground.",
@@ -1100,7 +1150,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen254"
+    "question_id": "cbse_xi_keph1dd_c105_gen254",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A 3 kg ball is dropped from a height of 5 m. Using g = 9.8 m/s^2, calculate the speed of the ball just before it hits the ground and the kinetic energy at that point.",
@@ -1114,7 +1165,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen255"
+    "question_id": "cbse_xi_keph1dd_c105_gen255",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "An object of mass 4 kg is lifted to a height of 6 m. Calculate the work done against gravity and the resulting change in potential energy. Also, explain the significance of the negative sign in the relationship dV/dh = -F.",
@@ -1128,7 +1180,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen256"
+    "question_id": "cbse_xi_keph1dd_c105_gen256",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A frictionless inclined plane has a vertical height of 8 m. An object slides down from the top. Calculate its speed at the bottom using g = 9.8 m/s^2. Also, determine the kinetic energy if the mass is 5 kg.",
@@ -1142,7 +1195,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen257"
+    "question_id": "cbse_xi_keph1dd_c105_gen257",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "An object is moved from a height of 3 m to 9 m above the ground. Calculate the change in gravitational potential energy for an object of mass 2.5 kg (use g = 9.8 m/s^2).",
@@ -1156,7 +1210,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen258"
+    "question_id": "cbse_xi_keph1dd_c105_gen258",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Which of the following best describes an elastic collision?",
@@ -1175,7 +1230,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "12_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen386"
+    "question_id": "cbse_xi_keph1dd_c105_gen386",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Which of the following equations correctly represents the work-energy theorem for a variable force acting in one dimension?",
@@ -1194,7 +1250,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen199"
+    "question_id": "cbse_xi_keph1dd_c105_gen199",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "What is the expression for instantaneous power derived from the work-energy approach?",
@@ -1213,7 +1270,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen200"
+    "question_id": "cbse_xi_keph1dd_c105_gen200",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Which limitation is associated with the work-energy theorem compared to Newton's second law?",
@@ -1232,7 +1290,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen201"
+    "question_id": "cbse_xi_keph1dd_c105_gen201",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "In deriving the work-energy theorem from dK/dt = F · v, what mathematical step is performed next?",
@@ -1251,7 +1310,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen202"
+    "question_id": "cbse_xi_keph1dd_c105_gen202",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "For a variable force described by F(x) = -k/x, what is the correct expression for the work done by this force from position x = a to x = b?",
@@ -1270,7 +1330,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen203"
+    "question_id": "cbse_xi_keph1dd_c105_gen203",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Differentiate the kinetic energy K = (1/2) m · v² with respect to time. Provide the intermediate steps.",
@@ -1284,7 +1345,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen204"
+    "question_id": "cbse_xi_keph1dd_c105_gen204",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Explain why the work-energy theorem does not provide complete temporal information compared to Newton's second law.",
@@ -1298,7 +1360,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen205"
+    "question_id": "cbse_xi_keph1dd_c105_gen205",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "What does the equation Kf - Ki = ∫ from xi to xf F dx imply about the relationship between work and kinetic energy?",
@@ -1312,7 +1375,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen206"
+    "question_id": "cbse_xi_keph1dd_c105_gen206",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Why is the work-energy theorem typically presented in a scalar form rather than a vector form?",
@@ -1326,7 +1390,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen207"
+    "question_id": "cbse_xi_keph1dd_c105_gen207",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Derive the work-energy theorem starting from K = (1/2) m · v² for a variable force acting in one dimension. Include the steps involving differentiation and integration.",
@@ -1340,7 +1405,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen208"
+    "question_id": "cbse_xi_keph1dd_c105_gen208",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Discuss the advantages and limitations of using the work-energy theorem versus Newton's second law in analyzing systems with variable forces.",
@@ -1354,7 +1420,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen209"
+    "question_id": "cbse_xi_keph1dd_c105_gen209",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Analyze the effect of a retarding force given by Fr = -k/x on a moving block. Derive an expression for the final speed v_f in terms of the initial kinetic energy and the work done by the force.",
@@ -1368,7 +1435,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen210"
+    "question_id": "cbse_xi_keph1dd_c105_gen210",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work-energy theorem for a variable force involves integrating the force over time.",
@@ -1382,7 +1450,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen211"
+    "question_id": "cbse_xi_keph1dd_c105_gen211",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work done by a variable force can be determined by calculating the definite integral of F(x) dx over the displacement interval.",
@@ -1396,7 +1465,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen212"
+    "question_id": "cbse_xi_keph1dd_c105_gen212",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work-energy theorem inherently accounts for the direction of forces acting on a particle.",
@@ -1410,7 +1480,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen213"
+    "question_id": "cbse_xi_keph1dd_c105_gen213",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 2 kg block moving at 3 m/s experiences a constant force of 4 N applied along its direction of motion for a displacement of 5 m. Determine the final kinetic energy and final speed of the block.",
@@ -1424,7 +1495,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen214"
+    "question_id": "cbse_xi_keph1dd_c105_gen214",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 1 kg block moving at 4 m/s enters a region where it is subjected to a variable retarding force described by F(x) = -0.3/x, for x between 0.5 m and 3 m. Calculate the final kinetic energy and final speed of the block.",
@@ -1438,7 +1510,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen215"
+    "question_id": "cbse_xi_keph1dd_c105_gen215",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A block of mass 1 kg moves on a horizontal surface with an initial speed of 2 m/s. It enters a region where a variable force F(x) = -0.5/x acts between x = 0.1 m and x = 2.01 m. Determine the final kinetic energy and speed of the block as it exits this region.",
@@ -1452,7 +1525,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen216"
+    "question_id": "cbse_xi_keph1dd_c105_gen216",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 5 kg block moving at 10 m/s encounters a variable resisting force given by F(x) = -2/(x + 1), acting from x = 0 m to x = 9 m. Compute the loss in kinetic energy and the final speed of the block.",
@@ -1466,7 +1540,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen217"
+    "question_id": "cbse_xi_keph1dd_c105_gen217",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 3 kg block with an initial speed of 6 m/s enters a region where a variable force F(x) = -1.2/(x + 0.2) acts from x = 0 m to x = 4 m. Calculate the final kinetic energy and final speed of the block.",
@@ -1480,7 +1555,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen218"
+    "question_id": "cbse_xi_keph1dd_c105_gen218",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "A 0.5 kg block moving at 8 m/s is subjected to a variable force F(x) = -0.6/(x + 0.5) for x between 0 m and 2 m. Determine the work done by the force and the final speed of the block.",
@@ -1494,7 +1570,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_6",
-    "question_id": "cbse_xi_keph1dd_c105_gen219"
+    "question_id": "cbse_xi_keph1dd_c105_gen219",
+    "section_name": "5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE"
   },
   {
     "question_text": "Which of the following quantities is defined as one half the mass times the square of the speed?",
@@ -1513,7 +1590,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen056"
+    "question_id": "cbse_xi_keph1dd_c105_gen056",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "For an object falling from a height h under gravity, what is the work done by the gravitational force?",
@@ -1532,7 +1610,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen057"
+    "question_id": "cbse_xi_keph1dd_c105_gen057",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "In the vector form of the work-energy theorem, the dot product of force and displacement (F · d) represents:",
@@ -1551,7 +1630,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen058"
+    "question_id": "cbse_xi_keph1dd_c105_gen058",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Which of the following is true about the work-energy theorem as presented in the section?",
@@ -1570,7 +1650,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen059"
+    "question_id": "cbse_xi_keph1dd_c105_gen059",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "In a three-dimensional context, the equation v^2 - u^2 = 2 a · d involves a dot product. What does this dot product a · d specifically account for?",
@@ -1589,7 +1670,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen060"
+    "question_id": "cbse_xi_keph1dd_c105_gen060",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Define work in terms of force and displacement.",
@@ -1603,7 +1685,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen061"
+    "question_id": "cbse_xi_keph1dd_c105_gen061",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Explain how the equation (1/2 m v^2 - 1/2 m u^2) = F · d motivates the definition of kinetic energy.",
@@ -1617,7 +1700,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen062"
+    "question_id": "cbse_xi_keph1dd_c105_gen062",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "What does the work-energy theorem state regarding the net work done on a particle?",
@@ -1631,7 +1715,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen063"
+    "question_id": "cbse_xi_keph1dd_c105_gen063",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Derive the equation (1/2 m v^2 - 1/2 m u^2) = F · d starting from the relation v^2 - u^2 = 2 a s and using Newton's Second Law.",
@@ -1645,7 +1730,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen064"
+    "question_id": "cbse_xi_keph1dd_c105_gen064",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Discuss the limitations of the derived equation (1/2 m v^2 - 1/2 m u^2 = F · d) when dealing with variable forces, and outline how the work-energy theorem can be generalized in such cases.",
@@ -1659,7 +1745,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen065"
+    "question_id": "cbse_xi_keph1dd_c105_gen065",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Using vector notation, explain the significance of the dot product in the work-energy equation and its physical interpretation.",
@@ -1673,7 +1760,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen066"
+    "question_id": "cbse_xi_keph1dd_c105_gen066",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "True or False: In the context presented, if only gravitational force acts on an object in free fall, then the work done by gravity equals the change in the object's kinetic energy.",
@@ -1687,7 +1775,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen067"
+    "question_id": "cbse_xi_keph1dd_c105_gen067",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "True or False: The equation (1/2 m v^2 - 1/2 m u^2 = F · d) holds true regardless of whether the force acting on the object is constant or variable.",
@@ -1701,7 +1790,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen068"
+    "question_id": "cbse_xi_keph1dd_c105_gen068",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "A car of mass 1000 kg accelerates from rest to a speed of 20 m/s. Calculate the net work done on the car.",
@@ -1715,7 +1805,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen069"
+    "question_id": "cbse_xi_keph1dd_c105_gen069",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "An object of mass 10 kg speeds up from 5 m/s to 15 m/s over a displacement of 10 m under a constant net force. Calculate the work done on the object and verify that it matches the change in kinetic energy.",
@@ -1729,7 +1820,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen070"
+    "question_id": "cbse_xi_keph1dd_c105_gen070",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "A 1.5 kg ball increases its speed from 4 m/s to 8 m/s. Calculate the change in its kinetic energy.",
@@ -1743,7 +1835,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen071"
+    "question_id": "cbse_xi_keph1dd_c105_gen071",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "An object of mass 3 kg moves over a displacement of 10 m with a constant net force component of 5 N along the displacement. Determine the work done on the object.",
@@ -1757,7 +1850,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen072"
+    "question_id": "cbse_xi_keph1dd_c105_gen072",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Given an acceleration vector a = (3 m/s², 4 m/s²) and a displacement vector d = (5 m, 2 m) for an object of mass 2 kg, calculate the work done on the object using the work-energy theorem.",
@@ -1771,7 +1865,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen073"
+    "question_id": "cbse_xi_keph1dd_c105_gen073",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "A raindrop of mass 1.00 g falls from a height of 1.00 km and hits the ground with a speed of 50.0 m/s. Using g = 10 m/s², calculate the work done by both the gravitational force and the resistive force.",
@@ -1785,7 +1880,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen074"
+    "question_id": "cbse_xi_keph1dd_c105_gen074",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "What is the equation for the spring force according to Hooke’s law?",
@@ -1804,7 +1900,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen334"
+    "question_id": "cbse_xi_keph1dd_c105_gen334",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "When a spring is compressed, what is the sign of the spring force?",
@@ -1823,7 +1920,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen335"
+    "question_id": "cbse_xi_keph1dd_c105_gen335",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "If a block attached to a spring is released from rest at a maximum displacement xₘ, which type of energy is maximum when the block passes through the equilibrium position?",
@@ -1842,7 +1940,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen336"
+    "question_id": "cbse_xi_keph1dd_c105_gen336",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Which statement best describes a conservative force?",
@@ -1861,7 +1960,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen337"
+    "question_id": "cbse_xi_keph1dd_c105_gen337",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Define the potential energy of a spring at a displacement x.",
@@ -1875,7 +1975,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen338"
+    "question_id": "cbse_xi_keph1dd_c105_gen338",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Explain why the work done over a complete cycle by the spring force is zero.",
@@ -1889,7 +1990,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen339"
+    "question_id": "cbse_xi_keph1dd_c105_gen339",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "What is the role of the spring constant 'k' in determining the behavior of a spring?",
@@ -1903,7 +2005,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen340"
+    "question_id": "cbse_xi_keph1dd_c105_gen340",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Derive the expression for the potential energy stored in a spring using integration.",
@@ -1917,7 +2020,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen341"
+    "question_id": "cbse_xi_keph1dd_c105_gen341",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Discuss how energy is transformed in a mass-spring system during oscillations. Include descriptions of kinetic energy, potential energy and total energy conservation.",
@@ -1931,7 +2035,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen342"
+    "question_id": "cbse_xi_keph1dd_c105_gen342",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "True or False: The spring force is non-conservative because it depends on the displacement of the spring.",
@@ -1945,7 +2050,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen343"
+    "question_id": "cbse_xi_keph1dd_c105_gen343",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "True or False: In a mass-spring system on a smooth surface, the kinetic energy is zero when the spring is at maximum displacement.",
@@ -1959,7 +2065,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen344"
+    "question_id": "cbse_xi_keph1dd_c105_gen344",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "A 500 kg car moving at 10 m/s collides with a horizontal spring with a spring constant of 2500 N/m. Calculate the maximum compression of the spring. Assume no friction.",
@@ -1973,7 +2080,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen345"
+    "question_id": "cbse_xi_keph1dd_c105_gen345",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "A spring with a spring constant of 1500 N/m is compressed by 0.3 m. What is the potential energy stored in the spring?",
@@ -1987,7 +2095,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen346"
+    "question_id": "cbse_xi_keph1dd_c105_gen346",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "A block attached to a spring is pulled to xₘ = 0.5 m and released. If the mass of the block is 2 kg and the spring constant is 200 N/m, find the maximum speed attained by the block.",
@@ -2001,7 +2110,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen347"
+    "question_id": "cbse_xi_keph1dd_c105_gen347",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "For a car of mass 1000 kg moving at 5 m/s, colliding with a spring of spring constant 5250 N/m on a surface with friction (coefficient of friction µ = 0.5, g = 10 m/s²), determine the maximum compression of the spring.",
@@ -2015,7 +2125,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen348"
+    "question_id": "cbse_xi_keph1dd_c105_gen348",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "According to the textbook, how is work defined in physics?",
@@ -2034,7 +2145,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen091"
+    "question_id": "cbse_xi_keph1dd_c105_gen091",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Why does a weightlifter holding a 150 kg mass on his shoulder for 30 seconds perform no work on the load?",
@@ -2053,7 +2165,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen092"
+    "question_id": "cbse_xi_keph1dd_c105_gen092",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "If a frictional force of 100 N opposes the motion of a block which moves 5 m, what is the work done by friction?",
@@ -2072,7 +2185,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen093"
+    "question_id": "cbse_xi_keph1dd_c105_gen093",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Which of the following scenarios results in zero work being done by a force?",
@@ -2091,7 +2205,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen094"
+    "question_id": "cbse_xi_keph1dd_c105_gen094",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Consider a perfectly circular orbit of the moon around Earth. Why does Earth's gravitational force do no work on the moon?",
@@ -2110,7 +2225,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen095"
+    "question_id": "cbse_xi_keph1dd_c105_gen095",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Define work in physics and explain the role of the angle between the force and displacement vectors.",
@@ -2124,7 +2240,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen096"
+    "question_id": "cbse_xi_keph1dd_c105_gen096",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Explain why no work is done when there is a force but no displacement, using an example from the section.",
@@ -2138,7 +2255,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen097"
+    "question_id": "cbse_xi_keph1dd_c105_gen097",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Using Newton's Third Law, explain why the work done by a cycle on the road is zero even though the road does negative work on the cycle.",
@@ -2152,7 +2270,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen098"
+    "question_id": "cbse_xi_keph1dd_c105_gen098",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Discuss the differences between the everyday meaning of 'work' and the physics definition of work. Include examples to support your answer.",
@@ -2166,7 +2285,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen099"
+    "question_id": "cbse_xi_keph1dd_c105_gen099",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Derive the expression for work done by a constant force acting at an angle to the displacement and discuss situations when this work becomes negative. Provide a real-world example from the text.",
@@ -2180,7 +2300,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen100"
+    "question_id": "cbse_xi_keph1dd_c105_gen100",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A force of 150 N acts at an angle of 120° relative to the displacement of an object that travels 8 m. Calculate the work done by the force.",
@@ -2194,7 +2315,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen101"
+    "question_id": "cbse_xi_keph1dd_c105_gen101",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A cyclist comes to a stop after traveling 10 m due to a frictional force of 200 N acting opposite to the motion. Calculate the work done by the road on the cycle.",
@@ -2208,7 +2330,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen102"
+    "question_id": "cbse_xi_keph1dd_c105_gen102",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A force of 180 N is applied at an angle of 30° with respect to the horizontal. If this force moves an object 12 m along a horizontal surface, calculate the work done by the force.",
@@ -2222,7 +2345,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen103"
+    "question_id": "cbse_xi_keph1dd_c105_gen103",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A worker pushes a box with a force of 50 N applied at an angle of 60° to the horizontal. If the box moves 3 m horizontally, determine the work done by the worker.",
@@ -2236,7 +2360,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen104"
+    "question_id": "cbse_xi_keph1dd_c105_gen104",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A force of 400 N is applied to a car along a road for a displacement of 20 m. If the force is applied at an angle of 150° relative to the direction of displacement, calculate the work done by the force.",
@@ -2250,7 +2375,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen105"
+    "question_id": "cbse_xi_keph1dd_c105_gen105",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A force of zero always implies that no work is done, regardless of the displacement. True or False?",
@@ -2264,7 +2390,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen106"
+    "question_id": "cbse_xi_keph1dd_c105_gen106",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "In circular motion where a force is always perpendicular to the displacement, the force does work on the object. True or False?",
@@ -2278,7 +2405,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen107"
+    "question_id": "cbse_xi_keph1dd_c105_gen107",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "What is the definition of average power?",
@@ -2297,7 +2425,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen349"
+    "question_id": "cbse_xi_keph1dd_c105_gen349",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which of the following is the SI unit for power?",
@@ -2316,7 +2445,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen350"
+    "question_id": "cbse_xi_keph1dd_c105_gen350",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which of the following equations correctly represents instantaneous power?",
@@ -2335,7 +2465,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen351"
+    "question_id": "cbse_xi_keph1dd_c105_gen351",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "The frictional force opposing an elevator's motion is given as 4000 N. Which of the following correctly describes the equation used to calculate the power delivered by the motor when the elevator is moving upward with a constant speed?",
@@ -2354,7 +2485,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen352"
+    "question_id": "cbse_xi_keph1dd_c105_gen352",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which unit is still commonly used to describe engine outputs and is equivalent to 746 watts?",
@@ -2373,7 +2505,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen353"
+    "question_id": "cbse_xi_keph1dd_c105_gen353",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Define instantaneous power and explain its relationship with force and velocity.",
@@ -2387,7 +2520,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen354"
+    "question_id": "cbse_xi_keph1dd_c105_gen354",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "What is horsepower and how does it convert to watts?",
@@ -2401,7 +2535,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen355"
+    "question_id": "cbse_xi_keph1dd_c105_gen355",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Explain why the kilowatt-hour is considered a unit of energy rather than a unit of power, and show its conversion to joules.",
@@ -2415,7 +2550,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen356"
+    "question_id": "cbse_xi_keph1dd_c105_gen356",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Describe in detail the process of calculating the power delivered by a motor driving an elevator upward. Include in your answer how both gravitational and frictional forces are taken into account.",
@@ -2429,7 +2565,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen357"
+    "question_id": "cbse_xi_keph1dd_c105_gen357",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Discuss the significance of power ratings in everyday appliances and explain how these ratings affect energy consumption and efficiency. Provide examples such as electrical bulbs and refrigerators.",
@@ -2443,7 +2580,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen358"
+    "question_id": "cbse_xi_keph1dd_c105_gen358",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Power is a vector quantity. True or False?",
@@ -2457,7 +2595,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen359"
+    "question_id": "cbse_xi_keph1dd_c105_gen359",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Instantaneous power can be calculated by multiplying the instantaneous force by the instantaneous velocity (taking only the component in the direction of the force). True or False?",
@@ -2471,7 +2610,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen360"
+    "question_id": "cbse_xi_keph1dd_c105_gen360",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A kilowatt-hour is a unit of power. True or False?",
@@ -2485,7 +2625,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen361"
+    "question_id": "cbse_xi_keph1dd_c105_gen361",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "An elevator has a maximum load mass of 1500 kg and moves upward at a constant speed of 3 m/s. If the frictional force opposing the motion is 3500 N and gravitational acceleration is 10 m/s², calculate the required power in watts and then convert it to horsepower (1 hp = 746 W).",
@@ -2499,7 +2640,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen362"
+    "question_id": "cbse_xi_keph1dd_c105_gen362",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A machine performs 720000 Joules of work in 240 seconds. What is its average power in watts?",
@@ -2513,7 +2655,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen363"
+    "question_id": "cbse_xi_keph1dd_c105_gen363",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A 120 W light bulb is used for 15 hours. Calculate the energy consumed in kilowatt-hours and then convert this energy to joules.",
@@ -2527,7 +2670,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen364"
+    "question_id": "cbse_xi_keph1dd_c105_gen364",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A motor delivers a constant power of 50000 W to an elevator for 30 seconds. Calculate the work done in joules and the distance traveled by the elevator if it moves at a constant speed of 2 m/s.",
@@ -2541,7 +2685,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen365"
+    "question_id": "cbse_xi_keph1dd_c105_gen365",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "If a motor outputs a power calculated by the equation P = F × v and it delivers 44000 W while moving an elevator upward at 2 m/s, determine the total force that the motor must overcome.",
@@ -2555,7 +2700,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen366"
+    "question_id": "cbse_xi_keph1dd_c105_gen366",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which of the following equations correctly represents the kinetic energy of an object with mass m moving at speed v?",
@@ -2574,7 +2720,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen128"
+    "question_id": "cbse_xi_keph1dd_c105_gen128",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Which of the following is true about the kinetic energy of an object?",
@@ -2593,7 +2740,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen129"
+    "question_id": "cbse_xi_keph1dd_c105_gen129",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Based on the kinetic energy table provided, which object possesses the highest kinetic energy?",
@@ -2612,7 +2760,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen130"
+    "question_id": "cbse_xi_keph1dd_c105_gen130",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "If the speed of an object is doubled, by what factor does its kinetic energy increase?",
@@ -2631,7 +2780,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen131"
+    "question_id": "cbse_xi_keph1dd_c105_gen131",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Which statement best describes the significance of an object's kinetic energy?",
@@ -2650,7 +2800,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen132"
+    "question_id": "cbse_xi_keph1dd_c105_gen132",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Define kinetic energy in your own words as presented in the section.",
@@ -2664,7 +2815,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen133"
+    "question_id": "cbse_xi_keph1dd_c105_gen133",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "What is the SI unit of kinetic energy and why?",
@@ -2678,7 +2830,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen134"
+    "question_id": "cbse_xi_keph1dd_c105_gen134",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Explain why kinetic energy is considered a scalar quantity despite involving velocity.",
@@ -2692,7 +2845,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen135"
+    "question_id": "cbse_xi_keph1dd_c105_gen135",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Discuss how kinetic energy is utilized in everyday phenomena such as wind powering sailing ships or streams grinding corn. Include an explanation of how kinetic energy is converted into work.",
@@ -2706,7 +2860,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen136"
+    "question_id": "cbse_xi_keph1dd_c105_gen136",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Analyze the effect on kinetic energy if an object's speed is reduced to half its original value. Provide a mathematical demonstration to support your answer.",
@@ -2720,7 +2875,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen137"
+    "question_id": "cbse_xi_keph1dd_c105_gen137",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Evaluate the use of the classical kinetic energy formula KE = 1/2 m v^2 for objects moving at very high speeds. What limitations might exist and why might corrections be necessary?",
@@ -2734,7 +2890,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen138"
+    "question_id": "cbse_xi_keph1dd_c105_gen138",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Kinetic energy depends on the object's velocity squared. True or False?",
@@ -2748,7 +2905,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen139"
+    "question_id": "cbse_xi_keph1dd_c105_gen139",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "A bullet with 10 times the mass of another bullet, but traveling at the same speed, will have 10 times the kinetic energy. True or False?",
@@ -2762,7 +2920,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen140"
+    "question_id": "cbse_xi_keph1dd_c105_gen140",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "The kinetic energy of an object increases linearly with its velocity. True or False?",
@@ -2776,7 +2935,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen141"
+    "question_id": "cbse_xi_keph1dd_c105_gen141",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "A car of mass 1500 kg is moving at 30 m/s. Calculate its kinetic energy. Show all steps of your calculation.",
@@ -2790,7 +2950,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen142"
+    "question_id": "cbse_xi_keph1dd_c105_gen142",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "A running athlete of mass 60 kg runs at a speed of 8 m/s. Determine the kinetic energy of the athlete. Provide complete calculations.",
@@ -2804,7 +2965,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen143"
+    "question_id": "cbse_xi_keph1dd_c105_gen143",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "A stone with a mass of 2 kg is dropped and reaches a speed of 14 m/s just before impact. Calculate its kinetic energy and discuss whether this energy is consistent with the work done by gravity assuming negligible air resistance.",
@@ -2818,7 +2980,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen144"
+    "question_id": "cbse_xi_keph1dd_c105_gen144",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "In a ballistics demonstration similar to Example 5.4, a bullet of mass 0.04 kg is fired at 250 m/s and loses 80% of its kinetic energy when passing through a medium. Calculate its final speed after emerging from the medium. Provide a detailed solution.",
@@ -2832,7 +2995,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen145"
+    "question_id": "cbse_xi_keph1dd_c105_gen145",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Which of the following statements correctly defines a conservative force?",
@@ -2851,7 +3015,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen259"
+    "question_id": "cbse_xi_keph1dd_c105_gen259",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "The principle of conservation of mechanical energy implies that if only conservative forces act on a system, then:",
@@ -2870,7 +3035,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen260"
+    "question_id": "cbse_xi_keph1dd_c105_gen260",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "A ball of mass m is dropped from a height H. Which of the following expressions correctly gives its speed just before hitting the ground?",
@@ -2889,7 +3055,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen261"
+    "question_id": "cbse_xi_keph1dd_c105_gen261",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "In the pendulum bob problem, which force does no work on the bob during its circular motion?",
@@ -2908,7 +3075,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen262"
+    "question_id": "cbse_xi_keph1dd_c105_gen262",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Considering the pendulum bob completing a semicircular path, what is the ratio of the kinetic energy at the horizontal point B to that at the topmost point C?",
@@ -2927,7 +3095,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen263"
+    "question_id": "cbse_xi_keph1dd_c105_gen263",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Explain what is meant by a 'conservative force' in the context of mechanical energy conservation.",
@@ -2941,7 +3110,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen264"
+    "question_id": "cbse_xi_keph1dd_c105_gen264",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Describe how the potential energy of a ball dropped from a height H converts into kinetic energy as it falls. Include the energy values at the top, at an intermediate height h, and just before impact.",
@@ -2955,7 +3125,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen265"
+    "question_id": "cbse_xi_keph1dd_c105_gen265",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "For a bob of mass m attached to a light string of length L, explain the conditions required for the bob to complete a semicircular trajectory in the vertical plane when given an initial horizontal speed at the lowest point.",
@@ -2969,7 +3140,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen266"
+    "question_id": "cbse_xi_keph1dd_c105_gen266",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Derive the expression for the final velocity (v_f) of a body freely falling from height H using the conservation of mechanical energy principle.",
@@ -2983,7 +3155,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen267"
+    "question_id": "cbse_xi_keph1dd_c105_gen267",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Discuss the role of tension in the motion of a bob attached to a string undergoing vertical circular motion and explain why it does not contribute to the work done on the bob.",
@@ -2997,7 +3170,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen268"
+    "question_id": "cbse_xi_keph1dd_c105_gen268",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "True or False: The work done by a conservative force is independent of the path taken and is determined solely by the initial and final positions.",
@@ -3011,7 +3185,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen269"
+    "question_id": "cbse_xi_keph1dd_c105_gen269",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "True or False: In a free-falling motion under gravity, the kinetic energy of the object at ground level is zero.",
@@ -3025,7 +3200,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen270"
+    "question_id": "cbse_xi_keph1dd_c105_gen270",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "True or False: For a system influenced only by conservative forces, the sum of kinetic and potential energies remains constant over time.",
@@ -3039,7 +3215,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen271"
+    "question_id": "cbse_xi_keph1dd_c105_gen271",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "A ball of mass m is dropped from a height H = 15 m. Assuming g = 9.8 m/s², use the conservation of mechanical energy to calculate its speed just before impacting the ground.",
@@ -3053,7 +3230,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen272"
+    "question_id": "cbse_xi_keph1dd_c105_gen272",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "For a bob attached to a light string of length L, the bob is given an initial speed of v0 = sqrt(5gL) to complete a semi-circular trajectory. Calculate the speeds at point C (top of the circle) and point B (horizontal position) using g = 9.8 m/s².",
@@ -3067,7 +3245,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen273"
+    "question_id": "cbse_xi_keph1dd_c105_gen273",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Using the speeds calculated for point B and point C in a pendulum bob problem, determine the ratio of the kinetic energies K_B/K_C.",
@@ -3081,7 +3260,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen274"
+    "question_id": "cbse_xi_keph1dd_c105_gen274",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "A 2 kg ball is dropped from a height of 20 m. Using the conservation of mechanical energy, calculate (a) the final speed of the ball just before impact and (b) its kinetic energy at ground level. Assume g = 9.8 m/s².",
@@ -3095,7 +3275,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "08_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen275"
+    "question_id": "cbse_xi_keph1dd_c105_gen275",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Which of the following best represents the work done when a constant force F acts at an angle θ with a displacement d?",
@@ -3114,7 +3295,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen075"
+    "question_id": "cbse_xi_keph1dd_c105_gen075",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A cyclist comes to a skidding stop over a displacement of 10 m due to a frictional force of 200 N acting opposite to the motion. What is the work done by the frictional force on the cyclist?",
@@ -3133,7 +3315,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen076"
+    "question_id": "cbse_xi_keph1dd_c105_gen076",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Under which of the following conditions is no work done on an object?",
@@ -3152,7 +3335,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen077"
+    "question_id": "cbse_xi_keph1dd_c105_gen077",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "An object moves in a perfect circle under the influence of a constant gravitational force that always acts radially inwards. What is the net work done by gravity over one complete revolution?",
@@ -3171,7 +3355,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen078"
+    "question_id": "cbse_xi_keph1dd_c105_gen078",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Which statement best describes the relationship between the forces two objects exert on each other and the work they do on each other?",
@@ -3190,7 +3375,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen079"
+    "question_id": "cbse_xi_keph1dd_c105_gen079",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Explain why no work is done when a person pushes against a rigid brick wall.",
@@ -3204,7 +3390,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen080"
+    "question_id": "cbse_xi_keph1dd_c105_gen080",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "List the three conditions under which no work is performed on an object, as described in the textbook.",
@@ -3218,7 +3405,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen081"
+    "question_id": "cbse_xi_keph1dd_c105_gen081",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Define the term 'work' in the context of physics.",
@@ -3232,7 +3420,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen082"
+    "question_id": "cbse_xi_keph1dd_c105_gen082",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Discuss the distinction between the everyday usage of the term 'work' and its definition in physics. Provide examples to support your explanation.",
@@ -3246,7 +3435,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen083"
+    "question_id": "cbse_xi_keph1dd_c105_gen083",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Using the scenario from Example 5.3, explain why the work done by the road on the cycle is not equal and opposite to the work done by the cycle on the road. In your answer, reference both Newton's Third Law and the concept of displacement.",
@@ -3260,7 +3450,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen084"
+    "question_id": "cbse_xi_keph1dd_c105_gen084",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "True or False: A weightlifter holding a 150 kg mass steadily on his shoulder for 30 seconds does work on the mass.",
@@ -3274,7 +3465,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen085"
+    "question_id": "cbse_xi_keph1dd_c105_gen085",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "True or False: If the force acting on an object is perpendicular to its displacement, then the work done by the force is zero.",
@@ -3288,7 +3480,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen086"
+    "question_id": "cbse_xi_keph1dd_c105_gen086",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A 150 N force is applied at an angle of 60° relative to the horizontal, moving an object 5 m. Calculate the work done by the force.",
@@ -3302,7 +3495,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen087"
+    "question_id": "cbse_xi_keph1dd_c105_gen087",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A block is pushed across a frictionless surface for a displacement of 8 m by a constant force of 50 N applied at an angle of 30° above the horizontal. Calculate the work done by the applied force.",
@@ -3316,7 +3510,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen088"
+    "question_id": "cbse_xi_keph1dd_c105_gen088",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A 1000 kg car coming to a stop experiences a uniform frictional force of 1500 N over a displacement of 100 m. If the frictional force opposes the motion, calculate the work done by friction.",
@@ -3330,7 +3525,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen089"
+    "question_id": "cbse_xi_keph1dd_c105_gen089",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "A force makes an angle of 120° with the displacement and does 500 J of work on an object that moves 10 m. Calculate the magnitude of the force.",
@@ -3344,7 +3540,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "03_section_5_3",
-    "question_id": "cbse_xi_keph1dd_c105_gen090"
+    "question_id": "cbse_xi_keph1dd_c105_gen090",
+    "section_name": "5.3 WORK"
   },
   {
     "question_text": "Which law states that the spring force is proportional to the displacement from the equilibrium position?",
@@ -3363,7 +3560,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen296"
+    "question_id": "cbse_xi_keph1dd_c105_gen296",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Which expression correctly represents the potential energy stored in an ideal spring when it is displaced by x from equilibrium?",
@@ -3382,7 +3580,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen297"
+    "question_id": "cbse_xi_keph1dd_c105_gen297",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "For a spring undergoing a complete cycle of extension and return to its original position, the net work done by the spring force is:",
@@ -3401,7 +3600,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen298"
+    "question_id": "cbse_xi_keph1dd_c105_gen298",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "At the equilibrium position of a mass-spring system released from maximum extension, the kinetic energy is maximum. Which of the following expressions correctly gives the maximum speed (v_max) of the mass?",
@@ -3420,7 +3620,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen299"
+    "question_id": "cbse_xi_keph1dd_c105_gen299",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "The total mechanical energy (E = K + V) of a mass-spring system in a frictionless environment is depicted as:",
@@ -3439,7 +3640,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen300"
+    "question_id": "cbse_xi_keph1dd_c105_gen300",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Define Hooke's Law in the context of spring forces acting on a mass attached to a spring.",
@@ -3453,7 +3655,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen301"
+    "question_id": "cbse_xi_keph1dd_c105_gen301",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Explain why the work done by a spring force is independent of the specific path taken by the mass.",
@@ -3467,7 +3670,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen302"
+    "question_id": "cbse_xi_keph1dd_c105_gen302",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Describe how the potential energy of a spring is related to its displacement from equilibrium and explain the significance of the zero reference energy.",
@@ -3481,7 +3685,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen303"
+    "question_id": "cbse_xi_keph1dd_c105_gen303",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Explain the role of the spring constant (k) in determining the behavior of a spring, including its effect on stiffness and potential energy storage.",
@@ -3495,7 +3700,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen304"
+    "question_id": "cbse_xi_keph1dd_c105_gen304",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Derive the expression for the potential energy stored in an ideal spring starting from Hooke's Law.",
@@ -3509,7 +3715,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen305"
+    "question_id": "cbse_xi_keph1dd_c105_gen305",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Discuss the conservation of mechanical energy in a mass-spring system oscillating on a frictionless surface. In your answer, explain how energy is transferred between kinetic and potential forms during the oscillation.",
@@ -3523,7 +3730,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen306"
+    "question_id": "cbse_xi_keph1dd_c105_gen306",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "True or False: In a mass-spring system, when the spring is compressed (x is negative), the spring force acts in the same direction as the displacement.",
@@ -3537,7 +3745,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen307"
+    "question_id": "cbse_xi_keph1dd_c105_gen307",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "True or False: In the absence of friction, the work done by the spring force over a complete cycle (from an initial displacement back to the same displacement) is zero.",
@@ -3551,7 +3760,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen308"
+    "question_id": "cbse_xi_keph1dd_c105_gen308",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "A car of mass 1000 kg is moving at a speed of 5 m/s and collides with a horizontal spring that has a spring constant of 5250 N/m. Assuming there is negligible friction, determine the maximum compression of the spring.",
@@ -3565,7 +3775,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen309"
+    "question_id": "cbse_xi_keph1dd_c105_gen309",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "A 0.50 kg mass is attached to a spring with a spring constant of 200 N/m. The mass is pulled to a displacement of 0.10 m from equilibrium and released from rest on a frictionless surface. Calculate the maximum speed the mass will attain during its oscillation.",
@@ -3579,7 +3790,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen310"
+    "question_id": "cbse_xi_keph1dd_c105_gen310",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "A spring is initially compressed by 0.20 m (x = -0.20 m) and then allowed to push a block until the block reaches x = 0.30 m. If the spring constant is 150 N/m, calculate the work done by the spring force during this process.",
@@ -3593,7 +3805,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen311"
+    "question_id": "cbse_xi_keph1dd_c105_gen311",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "In an accident simulation involving friction, a 1000 kg car moving at 5 m/s collides with a spring of spring constant 5250 N/m. If the coefficient of friction is 0.5 and g is taken as 10 m/s², calculate the maximum compression of the spring.",
@@ -3607,7 +3820,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen312"
+    "question_id": "cbse_xi_keph1dd_c105_gen312",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "A mass-spring system oscillates with an amplitude of 0.40 m. For a mass of 2 kg attached to a spring with a spring constant of 50 N/m, calculate the maximum speed of the mass at equilibrium.",
@@ -3621,7 +3835,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_9",
-    "question_id": "cbse_xi_keph1dd_c105_gen313"
+    "question_id": "cbse_xi_keph1dd_c105_gen313",
+    "section_name": "5.9 THE POTENTIAL ENERGY OF A SPRING"
   },
   {
     "question_text": "Which physical quantity is always conserved in any collision regardless of whether it is elastic or inelastic?",
@@ -3640,7 +3855,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen367"
+    "question_id": "cbse_xi_keph1dd_c105_gen367",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "In a collision where the two colliding objects stick together and move as one body after the impact, the collision is classified as:",
@@ -3659,7 +3875,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen368"
+    "question_id": "cbse_xi_keph1dd_c105_gen368",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "When two equal masses undergo a glancing elastic collision with one initially at rest, what is the relationship between their final directions of motion?",
@@ -3678,7 +3895,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen369"
+    "question_id": "cbse_xi_keph1dd_c105_gen369",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Which of the following best explains why some kinetic energy is lost in an inelastic collision?",
@@ -3697,7 +3915,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen370"
+    "question_id": "cbse_xi_keph1dd_c105_gen370",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Newton's third law is used to derive the conservation of momentum in a collision because it shows that the impulses on the two colliding bodies are:",
@@ -3716,7 +3935,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen371"
+    "question_id": "cbse_xi_keph1dd_c105_gen371",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Define an elastic collision and explain how kinetic energy behaves in such a collision.",
@@ -3730,7 +3950,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen372"
+    "question_id": "cbse_xi_keph1dd_c105_gen372",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Explain why the total linear momentum is conserved during collisions, making reference to Newton's third law.",
@@ -3744,7 +3965,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen373"
+    "question_id": "cbse_xi_keph1dd_c105_gen373",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Differentiate between an inelastic collision and a completely inelastic collision.",
@@ -3758,7 +3980,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen374"
+    "question_id": "cbse_xi_keph1dd_c105_gen374",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Describe what is meant by scattering in the context of collisions and provide an example.",
@@ -3772,7 +3995,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen375"
+    "question_id": "cbse_xi_keph1dd_c105_gen375",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Derive the expression for the final velocity of the combined mass in a completely inelastic collision in one dimension.",
@@ -3786,7 +4010,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen376"
+    "question_id": "cbse_xi_keph1dd_c105_gen376",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "Explain how collisions in two dimensions are analyzed using the conservation of momentum. In your answer, discuss the need for additional information (such as one of the angles) to solve for the unknowns.",
@@ -3800,7 +4025,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen377"
+    "question_id": "cbse_xi_keph1dd_c105_gen377",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "True or False: In an elastic collision, both total kinetic energy and total linear momentum are conserved.",
@@ -3814,7 +4040,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen378"
+    "question_id": "cbse_xi_keph1dd_c105_gen378",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "True or False: In a completely inelastic collision, the colliding bodies bounce off each other without any loss of kinetic energy.",
@@ -3828,7 +4055,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen379"
+    "question_id": "cbse_xi_keph1dd_c105_gen379",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "True or False: For collisions that occur in two dimensions, conservation of momentum in the z-direction can be used to confirm that the collision is entirely confined to the x-y plane.",
@@ -3842,7 +4070,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen380"
+    "question_id": "cbse_xi_keph1dd_c105_gen380",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "A 2 kg mass moving at 10 m/s collides head-on and sticks to a 3 kg mass initially at rest. Compute the final velocity of the combined mass and the kinetic energy lost in the collision.",
@@ -3856,7 +4085,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen381"
+    "question_id": "cbse_xi_keph1dd_c105_gen381",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "A 2 kg mass moving at 10 m/s collides elastically with a 4 kg mass at rest. Using the elastic collision formulas, calculate the final velocities (v1f and v2f) of both masses. (Assume one-dimensional motion.)",
@@ -3870,7 +4100,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen382"
+    "question_id": "cbse_xi_keph1dd_c105_gen382",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "A high-speed neutron with a mass m collides elastically with a deuterium nucleus (mass 2m). Calculate the fraction of the neutron's kinetic energy that is transferred to the deuterium nucleus during a head-on collision.",
@@ -3884,7 +4115,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen383"
+    "question_id": "cbse_xi_keph1dd_c105_gen383",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "In a 2D elastic collision involving two equal-mass billiard balls, if the target ball moves at an angle of 37° below the x-axis after collision, determine the deflection angle of the cue ball.",
@@ -3898,7 +4130,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen384"
+    "question_id": "cbse_xi_keph1dd_c105_gen384",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "A 3 kg mass moving at 12 m/s collides completely inelastically with a 7 kg mass initially at rest. Calculate the loss in kinetic energy during the collision.",
@@ -3912,7 +4145,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "11_section_5_11",
-    "question_id": "cbse_xi_keph1dd_c105_gen385"
+    "question_id": "cbse_xi_keph1dd_c105_gen385",
+    "section_name": "5.11 COLLISIONS"
   },
   {
     "question_text": "What is the formula for kinetic energy?",
@@ -3931,7 +4165,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen108"
+    "question_id": "cbse_xi_keph1dd_c105_gen108",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Kinetic energy is characterized as which type of quantity?",
@@ -3950,7 +4185,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen109"
+    "question_id": "cbse_xi_keph1dd_c105_gen109",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "If two objects have the same mass, and one object has twice the speed of the other, what is the ratio of their kinetic energies?",
@@ -3969,7 +4205,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen110"
+    "question_id": "cbse_xi_keph1dd_c105_gen110",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "In the ballistics demonstration example, what percentage of the bullet's initial kinetic energy is lost when the bullet emerges from the plywood?",
@@ -3988,7 +4225,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen111"
+    "question_id": "cbse_xi_keph1dd_c105_gen111",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Which of the following does NOT affect an object's kinetic energy?",
@@ -4007,7 +4245,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen112"
+    "question_id": "cbse_xi_keph1dd_c105_gen112",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Define kinetic energy in your own words.",
@@ -4021,7 +4260,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen113"
+    "question_id": "cbse_xi_keph1dd_c105_gen113",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Explain why kinetic energy is considered a scalar quantity even though it is derived from the velocity vector.",
@@ -4035,7 +4275,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen114"
+    "question_id": "cbse_xi_keph1dd_c105_gen114",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Based on Table 5.2, compare the kinetic energies of an air molecule and a car, and explain the reason for the difference.",
@@ -4049,7 +4290,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen115"
+    "question_id": "cbse_xi_keph1dd_c105_gen115",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Discuss how the kinetic energies of various objects (such as the car, athlete, bullet, stone, rain drop, and air molecule) listed in Table 5.2 demonstrate the relationship between mass, speed, and kinetic energy.",
@@ -4063,7 +4305,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen116"
+    "question_id": "cbse_xi_keph1dd_c105_gen116",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Discuss the implications of kinetic energy being a scalar quantity on how we calculate the work done by moving objects. Include an explanation for the role of direction in these calculations.",
@@ -4077,7 +4320,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen117"
+    "question_id": "cbse_xi_keph1dd_c105_gen117",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Analyze the ballistics demonstration example provided in the text. Detail the calculations used to determine the initial and final kinetic energies of the bullet, and discuss what the energy loss signifies about the interaction with the plywood.",
@@ -4091,7 +4335,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen118"
+    "question_id": "cbse_xi_keph1dd_c105_gen118",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Explain in detail how the kinetic energy formula, K = 1/2 m × v², is conceptually derived using the ideas of work and energy.",
@@ -4105,7 +4350,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen119"
+    "question_id": "cbse_xi_keph1dd_c105_gen119",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "True or False: Kinetic energy depends on the direction of the velocity vector.",
@@ -4119,7 +4365,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen120"
+    "question_id": "cbse_xi_keph1dd_c105_gen120",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "True or False: In the ballistics demonstration, if a bullet emerges with 10% of its initial kinetic energy, then its speed is reduced to 10% of its original value.",
@@ -4133,7 +4380,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen121"
+    "question_id": "cbse_xi_keph1dd_c105_gen121",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "True or False: For two objects moving at the same speed, the object with greater mass always possesses higher kinetic energy.",
@@ -4147,7 +4395,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen122"
+    "question_id": "cbse_xi_keph1dd_c105_gen122",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Calculate the kinetic energy of a running athlete with a mass of 70 kg moving at a speed of 10 m/s.",
@@ -4161,7 +4410,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen123"
+    "question_id": "cbse_xi_keph1dd_c105_gen123",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "A stone with a mass of 1 kg is dropped from a height of 10 m and reaches a speed of approximately 14 m/s. Calculate its kinetic energy and compare it with the typical value listed in the table.",
@@ -4175,7 +4425,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen124"
+    "question_id": "cbse_xi_keph1dd_c105_gen124",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Using the kinetic energy formula, calculate the initial kinetic energy of a bullet with a mass of 0.05 kg and an initial speed of 200 m/s.",
@@ -4189,7 +4440,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen125"
+    "question_id": "cbse_xi_keph1dd_c105_gen125",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "A bullet of mass 0.05 kg passes through a barrier and emerges with only 10% of its initial kinetic energy. Calculate its final speed.",
@@ -4203,7 +4455,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen126"
+    "question_id": "cbse_xi_keph1dd_c105_gen126",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "An object with a mass of 10 kg increases its speed from 5 m/s to 15 m/s. Calculate the increase in its kinetic energy.",
@@ -4217,7 +4470,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "04_section_5_4",
-    "question_id": "cbse_xi_keph1dd_c105_gen127"
+    "question_id": "cbse_xi_keph1dd_c105_gen127",
+    "section_name": "5.4 KINETIC ENERGY"
   },
   {
     "question_text": "Which of the following expressions correctly represents the work done by a variable force F(x) over a displacement from x_i to x_f?",
@@ -4236,7 +4490,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen166"
+    "question_id": "cbse_xi_keph1dd_c105_gen166",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "How is the area under the force versus displacement curve related to work?",
@@ -4255,7 +4510,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen167"
+    "question_id": "cbse_xi_keph1dd_c105_gen167",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "In the trunk example, what is the shape of the area under the force curve from x = 10 m to x = 20 m?",
@@ -4274,7 +4530,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen168"
+    "question_id": "cbse_xi_keph1dd_c105_gen168",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Which force in the trunk example does negative work and why?",
@@ -4293,7 +4550,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen169"
+    "question_id": "cbse_xi_keph1dd_c105_gen169",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "For a small displacement Δx, how is the work ΔW done by a variable force approximated?",
@@ -4312,7 +4570,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen170"
+    "question_id": "cbse_xi_keph1dd_c105_gen170",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Explain in your own words why the work done by a variable force is calculated as the area under the force versus displacement curve.",
@@ -4326,7 +4585,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen171"
+    "question_id": "cbse_xi_keph1dd_c105_gen171",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Describe how the total work done by a variable force can be approximated using rectangular areas.",
@@ -4340,7 +4600,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen172"
+    "question_id": "cbse_xi_keph1dd_c105_gen172",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "What does the limit Δx → 0 signify in the context of calculating work done by a variable force?",
@@ -4354,7 +4615,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen173"
+    "question_id": "cbse_xi_keph1dd_c105_gen173",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Derive the expression for work done by a variable force starting from the summation of work done over small displacements. Explain each step.",
@@ -4368,7 +4630,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen174"
+    "question_id": "cbse_xi_keph1dd_c105_gen174",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Discuss how the work done by the woman's applied force and the frictional force are graphically represented in Fig. 5.4, and how these representations help in understanding the concept of work in the presence of opposing forces.",
@@ -4382,7 +4645,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen175"
+    "question_id": "cbse_xi_keph1dd_c105_gen175",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Using the concept of integration, explain mathematically and conceptually how a non-constant force can perform work. Include in your discussion why the integral yields an exact value.",
@@ -4396,7 +4660,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen176"
+    "question_id": "cbse_xi_keph1dd_c105_gen176",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: The work done by a variable force is always greater than the work done by a constant force over the same displacement.",
@@ -4410,7 +4675,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen177"
+    "question_id": "cbse_xi_keph1dd_c105_gen177",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "True or False: When calculating work via integration, the sign of the area under the force curve determines whether the work is positive or negative.",
@@ -4424,7 +4690,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen178"
+    "question_id": "cbse_xi_keph1dd_c105_gen178",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A variable force is given by F(x) = 2x Newtons, where x is in meters. Calculate the work done by this force as an object moves from x = 0 m to x = 5 m.",
@@ -4438,7 +4705,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen179"
+    "question_id": "cbse_xi_keph1dd_c105_gen179",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A force on an object decreases linearly from 80 N at x = 0 m to 20 N at x = 10 m. Compute the work done by this force over the 10 m displacement.",
@@ -4452,7 +4720,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen180"
+    "question_id": "cbse_xi_keph1dd_c105_gen180",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Calculate the work done by the frictional force if its magnitude is 60 N acting opposite to a displacement of 15 m.",
@@ -4466,7 +4735,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen181"
+    "question_id": "cbse_xi_keph1dd_c105_gen181",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A force function is given by F(x) = 3 + 4x (in Newtons) for 0 m ≤ x ≤ 8 m. Determine the total work done by this force over this interval.",
@@ -4480,7 +4750,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen182"
+    "question_id": "cbse_xi_keph1dd_c105_gen182",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "A woman's applied force on a trunk decreases linearly from 100 N to 50 N over the second half of a 20 m displacement, after applying a constant 100 N over the first 10 m. Calculate the net work done by her force over the full displacement, and separately calculate the work done by friction if the opposing frictional force is a constant 50 N.",
@@ -4494,7 +4765,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "06_section_5_5",
-    "question_id": "cbse_xi_keph1dd_c105_gen183"
+    "question_id": "cbse_xi_keph1dd_c105_gen183",
+    "section_name": "5.5 WORK DONE BY A VARIABLE FORCE"
   },
   {
     "question_text": "Which of the following best defines the scalar product of two vectors A and B?",
@@ -4513,7 +4785,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen001"
+    "question_id": "cbse_xi_keph1dd_c105_gen001",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which property of the scalar product is confirmed by the equation A dot B = B dot A?",
@@ -4532,7 +4805,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen002"
+    "question_id": "cbse_xi_keph1dd_c105_gen002",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "For two vectors that are perpendicular, what is the value of their scalar product?",
@@ -4551,7 +4825,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen003"
+    "question_id": "cbse_xi_keph1dd_c105_gen003",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "What do you obtain when you compute the dot product of a vector with itself?",
@@ -4570,7 +4845,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen004"
+    "question_id": "cbse_xi_keph1dd_c105_gen004",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following statements is true regarding the projection of one vector onto another?",
@@ -4589,7 +4865,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen005"
+    "question_id": "cbse_xi_keph1dd_c105_gen005",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Define the terms work, energy, and power as they are used in the textbook section. In your answer, clearly distinguish the physics definitions from their everyday usage.",
@@ -4603,7 +4880,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen006"
+    "question_id": "cbse_xi_keph1dd_c105_gen006",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Derive the expression for the scalar product of two vectors A = (A_x i + A_y j + A_z k) and B = (B_x i + B_y j + B_z k) in terms of their components.",
@@ -4617,7 +4895,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen007"
+    "question_id": "cbse_xi_keph1dd_c105_gen007",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Explain how the distributive property of the scalar product is applied when calculating A dot (B + C), and why it is significant in vector algebra.",
@@ -4631,7 +4910,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen008"
+    "question_id": "cbse_xi_keph1dd_c105_gen008",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the difference between how work, energy, and power are commonly understood in everyday language versus their precise definitions in physics. Illustrate your answer with relevant examples from the section.",
@@ -4645,7 +4925,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen009"
+    "question_id": "cbse_xi_keph1dd_c105_gen009",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the role of the cosine term in the expression for the scalar product and how it determines the projection of one vector onto another. Include in your discussion the effects of different angles between the vectors.",
@@ -4659,7 +4940,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen010"
+    "question_id": "cbse_xi_keph1dd_c105_gen010",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Using vector algebra, prove that the scalar product is commutative; that is, show that A dot B = B dot A.",
@@ -4673,7 +4955,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen011"
+    "question_id": "cbse_xi_keph1dd_c105_gen011",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The scalar product of a vector with itself is always equal to the square of its magnitude.",
@@ -4687,7 +4970,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen012"
+    "question_id": "cbse_xi_keph1dd_c105_gen012",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The scalar product of two perpendicular vectors is nonzero as long as their magnitudes are nonzero.",
@@ -4701,7 +4985,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen013"
+    "question_id": "cbse_xi_keph1dd_c105_gen013",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Given force F = (3, 4, -5) and displacement d = (5, 4, 3), calculate F dot d. Then, using the computed dot product and the magnitudes of F and d, find the angle between them.",
@@ -4715,7 +5000,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen014"
+    "question_id": "cbse_xi_keph1dd_c105_gen014",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Given vectors A = (2, -3, 4) and B = (4, 0, -2), compute their dot product and determine whether the vectors are perpendicular.",
@@ -4729,7 +5015,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen015"
+    "question_id": "cbse_xi_keph1dd_c105_gen015",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "For the vector A = (5, 6, 7), calculate A dot A and verify that it is equal to the square of the magnitude of A.",
@@ -4743,7 +5030,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen016"
+    "question_id": "cbse_xi_keph1dd_c105_gen016",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "If a force F = (10, 0, 0) acts on an object and the displacement is d = (x, 2, 0) with the condition that F dot d = 20, determine the value of x.",
@@ -4757,7 +5045,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "01_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen017"
+    "question_id": "cbse_xi_keph1dd_c105_gen017",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which one of the following best defines the scalar product of two vectors A and B?",
@@ -4776,7 +5065,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen018"
+    "question_id": "cbse_xi_keph1dd_c105_gen018",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which property is NOT true for the scalar product?",
@@ -4795,7 +5085,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen019"
+    "question_id": "cbse_xi_keph1dd_c105_gen019",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Given that A dot B equals A * (B cos(θ)), which diagram (from the provided Figure 5.1) best represents the projection of B onto A?",
@@ -4814,7 +5105,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen020"
+    "question_id": "cbse_xi_keph1dd_c105_gen020",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following equations correctly represents the distributive property of the dot product?",
@@ -4833,7 +5125,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen021"
+    "question_id": "cbse_xi_keph1dd_c105_gen021",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "When calculating the dot product of two vectors given in Cartesian form, which of the following formulas is used?",
@@ -4852,7 +5145,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen022"
+    "question_id": "cbse_xi_keph1dd_c105_gen022",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "In physics, energy is defined as the capacity to do work. Explain this definition and contrast it with the everyday usage of the term.",
@@ -4866,7 +5160,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen023"
+    "question_id": "cbse_xi_keph1dd_c105_gen023",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Describe the concept of the scalar product and discuss its physical significance in calculating work done by a force.",
@@ -4880,7 +5175,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen024"
+    "question_id": "cbse_xi_keph1dd_c105_gen024",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "What does the equation A dot A = A squared imply about the vector A?",
@@ -4894,7 +5190,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen025"
+    "question_id": "cbse_xi_keph1dd_c105_gen025",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Differentiate between the everyday usage of the term 'power' and its physics definition based on the reading.",
@@ -4908,7 +5205,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen026"
+    "question_id": "cbse_xi_keph1dd_c105_gen026",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Derive the expression for the scalar product in Cartesian coordinates given two vectors A = (Ax i + Ay j + Az k) and B = (Bx i + By j + Bz k).",
@@ -4922,7 +5220,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen027"
+    "question_id": "cbse_xi_keph1dd_c105_gen027",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the importance of the scalar product in physics, including its mathematical properties and its applications, such as calculating work done.",
@@ -4936,7 +5235,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen028"
+    "question_id": "cbse_xi_keph1dd_c105_gen028",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "The scalar product of two vectors results in a scalar quantity.",
@@ -4950,7 +5250,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen029"
+    "question_id": "cbse_xi_keph1dd_c105_gen029",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "If two vectors are perpendicular, their scalar product is equal to the product of their magnitudes.",
@@ -4964,7 +5265,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen030"
+    "question_id": "cbse_xi_keph1dd_c105_gen030",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "The dot product obeys the commutative property, i.e., A dot B equals B dot A.",
@@ -4978,7 +5280,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen031"
+    "question_id": "cbse_xi_keph1dd_c105_gen031",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "A force F = (3 i + 4 j - 5 k) units acts on an object that moves along a displacement d = (5 i + 4 j + 3 k) units. Calculate the dot product F dot d, and determine the angle between F and d (use cos⁻¹ function).",
@@ -4992,7 +5295,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen032"
+    "question_id": "cbse_xi_keph1dd_c105_gen032",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Given vectors A = (2, -3, 4) and B = (-1, 0, 5), calculate the dot product A dot B.",
@@ -5006,7 +5310,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen033"
+    "question_id": "cbse_xi_keph1dd_c105_gen033",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Find the scalar projection of vector B = (6, 8, 0) onto vector A = (3, 0, 0).",
@@ -5020,7 +5325,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen034"
+    "question_id": "cbse_xi_keph1dd_c105_gen034",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Compute the magnitude squared of vector A = (4, -2, 3) using the property that A dot A equals A squared.",
@@ -5034,7 +5340,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen035"
+    "question_id": "cbse_xi_keph1dd_c105_gen035",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Show that vectors P = (1, 2, 3) and Q = (4, -8, 4) are perpendicular by calculating their dot product.",
@@ -5048,7 +5355,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen036"
+    "question_id": "cbse_xi_keph1dd_c105_gen036",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following conditions must hold true for the total mechanical energy of a system to be conserved?",
@@ -5067,7 +5375,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen276"
+    "question_id": "cbse_xi_keph1dd_c105_gen276",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "In a one-dimensional motion under a conservative force, what is the sum of the change in kinetic energy and the change in potential energy?",
@@ -5086,7 +5395,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen277"
+    "question_id": "cbse_xi_keph1dd_c105_gen277",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Which of the following is an alternative definition of a conservative force?",
@@ -5105,7 +5415,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen278"
+    "question_id": "cbse_xi_keph1dd_c105_gen278",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "For a body in free fall from height H, the speed just before impact is given by v₍f₎ = √(2gH). Which of the following best explains this result?",
@@ -5124,7 +5435,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen279"
+    "question_id": "cbse_xi_keph1dd_c105_gen279",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Which statement is not a valid characteristic of a conservative force?",
@@ -5143,7 +5455,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen280"
+    "question_id": "cbse_xi_keph1dd_c105_gen280",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Define a conservative force in terms of its relation to potential energy.",
@@ -5157,7 +5470,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen281"
+    "question_id": "cbse_xi_keph1dd_c105_gen281",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Why does the tension force in a pendulum bob not contribute to the work done on the bob?",
@@ -5171,7 +5485,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen282"
+    "question_id": "cbse_xi_keph1dd_c105_gen282",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "State the principle of conservation of mechanical energy in the context of one-dimensional motion.",
@@ -5185,7 +5500,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen283"
+    "question_id": "cbse_xi_keph1dd_c105_gen283",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Explain how the work done by a conservative force depends on only the endpoints of the path, not the path taken between them.",
@@ -5199,7 +5515,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen284"
+    "question_id": "cbse_xi_keph1dd_c105_gen284",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Discuss the conversion of gravitational potential energy to kinetic energy during free fall. Illustrate your answer with a diagram of a ball dropped from height H and explain using conservation of energy principles.",
@@ -5213,7 +5530,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen285"
+    "question_id": "cbse_xi_keph1dd_c105_gen285",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Analyze the motion of a bob in vertical circular motion (as depicted in Example 5.7). Derive the expressions for the initial speed v₀ at the bottom, the speed v_B at the horizontal position, and the speed v_C at the top. Also, deduce the ratio of the kinetic energies at B and C.",
@@ -5227,7 +5545,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen286"
+    "question_id": "cbse_xi_keph1dd_c105_gen286",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Evaluate the significance of the conservation of mechanical energy in solving physics problems related to conservative forces, particularly in gravitational and spring force systems.",
@@ -5241,7 +5560,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen287"
+    "question_id": "cbse_xi_keph1dd_c105_gen287",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "True or False: The total mechanical energy of a system is conserved only if no external non-conservative forces perform work on it.",
@@ -5255,7 +5575,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen288"
+    "question_id": "cbse_xi_keph1dd_c105_gen288",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "True or False: A conservative force always does work that depends on the specific path taken between two points.",
@@ -5269,7 +5590,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen289"
+    "question_id": "cbse_xi_keph1dd_c105_gen289",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "True or False: In a system acted upon only by gravitational forces, the kinetic energy at ground level is completely determined by the initial height from which a body is dropped.",
@@ -5283,7 +5605,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen290"
+    "question_id": "cbse_xi_keph1dd_c105_gen290",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "A ball of mass 2 kg is dropped from a height of 20 m. Using conservation of mechanical energy and taking g = 10 m/s², calculate its speed just before impact.",
@@ -5297,7 +5620,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen291"
+    "question_id": "cbse_xi_keph1dd_c105_gen291",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "A pendulum bob of mass 0.5 kg is attached to a light string of length 2 m. It is given an initial horizontal speed such that it just completes a semi-circular trajectory in the vertical plane, with the string becoming slack only at the top. Using g = 9.8 m/s², compute (i) the initial speed v₀ at the bottom, (ii) the speed vC at the top, and (iii) the speed vB at the horizontal position. Provide complete calculations.",
@@ -5311,7 +5635,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen292"
+    "question_id": "cbse_xi_keph1dd_c105_gen292",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "A ball is dropped from a height of 50 m. Calculate its speed at a height of 20 m above ground using conservation of energy, given g = 9.8 m/s².",
@@ -5325,7 +5650,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen293"
+    "question_id": "cbse_xi_keph1dd_c105_gen293",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "A frictionless block of mass 1 kg slides down from a height of 10 m. (a) Use conservation of energy to determine its speed at the bottom. (b) If it then compresses a spring of spring constant 200 N/m by 0.2 m, calculate the energy stored in the spring and comment on whether the energy conservation holds in the overall process.",
@@ -5339,7 +5665,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen294"
+    "question_id": "cbse_xi_keph1dd_c105_gen294",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "A ball of mass 1.5 kg is dropped from a height of 30 m. Using energy conservation, calculate its speed when it is at a height of 10 m and when it reaches the ground. Assume g = 9.8 m/s².",
@@ -5353,7 +5680,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "09_section_5_8",
-    "question_id": "cbse_xi_keph1dd_c105_gen295"
+    "question_id": "cbse_xi_keph1dd_c105_gen295",
+    "section_name": "5.8 THE CONSERVATION OF MECHANICAL ENERGY"
   },
   {
     "question_text": "Which of the following expressions correctly represents the work done by a constant force acting along the displacement in rectilinear motion?",
@@ -5372,7 +5700,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen037"
+    "question_id": "cbse_xi_keph1dd_c105_gen037",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Which of the following formulas correctly defines kinetic energy?",
@@ -5391,7 +5720,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen038"
+    "question_id": "cbse_xi_keph1dd_c105_gen038",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "In the three-dimensional generalization of the work-energy theorem, the term F · d represents:",
@@ -5410,7 +5740,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen039"
+    "question_id": "cbse_xi_keph1dd_c105_gen039",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "The work-energy theorem states that the change in kinetic energy of a particle is equal to:",
@@ -5429,7 +5760,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen040"
+    "question_id": "cbse_xi_keph1dd_c105_gen040",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "In Example 5.2, the resistive force does negative work on the raindrop because:",
@@ -5448,7 +5780,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen041"
+    "question_id": "cbse_xi_keph1dd_c105_gen041",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Define work in terms of vectors and explain its physical significance.",
@@ -5462,7 +5795,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen042"
+    "question_id": "cbse_xi_keph1dd_c105_gen042",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "State the work-energy theorem as described in the section.",
@@ -5476,7 +5810,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen043"
+    "question_id": "cbse_xi_keph1dd_c105_gen043",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Explain why, in Example 5.2, the work done by the resistive force on the raindrop is negative.",
@@ -5490,7 +5825,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen044"
+    "question_id": "cbse_xi_keph1dd_c105_gen044",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Write down the equation relating the square of speeds in constant acceleration and explain each term briefly.",
@@ -5504,7 +5840,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen045"
+    "question_id": "cbse_xi_keph1dd_c105_gen045",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Derive the work-energy theorem for rectilinear motion starting from the kinematic equation v² - u² = 2as.",
@@ -5518,7 +5855,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen046"
+    "question_id": "cbse_xi_keph1dd_c105_gen046",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Generalize the derivation of the work-energy theorem to three dimensions using vector notation and explain the role of the dot product in this context.",
@@ -5532,7 +5870,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen047"
+    "question_id": "cbse_xi_keph1dd_c105_gen047",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "True or False: The work done by any force on an object is always a positive quantity.",
@@ -5546,7 +5885,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen048"
+    "question_id": "cbse_xi_keph1dd_c105_gen048",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "True or False: When an object is only under the influence of gravitational force, the change in its kinetic energy is equal to the work done by gravity.",
@@ -5560,7 +5900,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen049"
+    "question_id": "cbse_xi_keph1dd_c105_gen049",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "True or False: In systems where forces vary with position, the work-energy theorem is not applicable.",
@@ -5574,7 +5915,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen050"
+    "question_id": "cbse_xi_keph1dd_c105_gen050",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "A 2 kg object starts from rest and reaches a speed of 10 m/s after traveling 5 m under constant acceleration. Use the work-energy theorem to calculate the net work done on the object.",
@@ -5588,7 +5930,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen051"
+    "question_id": "cbse_xi_keph1dd_c105_gen051",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "A raindrop of mass 1.00 g falls from a height of 1.00 km. Assuming g = 10 m/s², calculate the work done by the gravitational force on the raindrop.",
@@ -5602,7 +5945,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen052"
+    "question_id": "cbse_xi_keph1dd_c105_gen052",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Using the data from the raindrop example where the drop has a final speed of 50 m/s, calculate the work done by the resistive force.",
@@ -5616,7 +5960,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen053"
+    "question_id": "cbse_xi_keph1dd_c105_gen053",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "An object of mass 3 kg accelerates from rest over a displacement of 4 m and reaches a speed of 8 m/s. Calculate the magnitude of the net force on the object using the work-energy theorem.",
@@ -5630,7 +5975,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen054"
+    "question_id": "cbse_xi_keph1dd_c105_gen054",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "An object moves in three dimensions under the influence of a force F = (4, -3, 2) N and undergoes a displacement d = (2, 5, 1) m. Calculate the work done by the force on the object.",
@@ -5644,7 +5990,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_xi_keph1dd_c105_gen055"
+    "question_id": "cbse_xi_keph1dd_c105_gen055",
+    "section_name": "5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM"
   },
   {
     "question_text": "Which of the following equations correctly represents the gravitational potential energy for an object of mass m raised to a height h near the earth's surface?",
@@ -5663,7 +6010,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen220"
+    "question_id": "cbse_xi_keph1dd_c105_gen220",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "At the bottom of a frictionless inclined plane of height h, the kinetic energy acquired by an object of mass m that started from rest is:",
@@ -5682,7 +6030,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen221"
+    "question_id": "cbse_xi_keph1dd_c105_gen221",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Which property distinguishes a conservative force from a nonconservative force?",
@@ -5701,7 +6050,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen222"
+    "question_id": "cbse_xi_keph1dd_c105_gen222",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "What is the derivative of gravitational potential energy V(h) = mgh with respect to height h for an object of mass m near the Earth's surface?",
@@ -5720,7 +6070,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen223"
+    "question_id": "cbse_xi_keph1dd_c105_gen223",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Which of the following best explains the term 'potential energy'?",
@@ -5739,7 +6090,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen224"
+    "question_id": "cbse_xi_keph1dd_c105_gen224",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Define potential energy and explain its physical significance using the example of a stretched bow-string.",
@@ -5753,7 +6105,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen225"
+    "question_id": "cbse_xi_keph1dd_c105_gen225",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Explain why the gravitational force is given by the negative derivative of the gravitational potential energy function.",
@@ -5767,7 +6120,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen226"
+    "question_id": "cbse_xi_keph1dd_c105_gen226",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "What conditions must be met for a force to be considered conservative?",
@@ -5781,7 +6135,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen227"
+    "question_id": "cbse_xi_keph1dd_c105_gen227",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Discuss how the concept of potential energy leads to the conservation of mechanical energy in a system influenced only by conservative forces.",
@@ -5795,7 +6150,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen228"
+    "question_id": "cbse_xi_keph1dd_c105_gen228",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Discuss the transformation of potential energy into kinetic energy with reference to the falling ball problem. In your answer, derive the relationship between potential and kinetic energy.",
@@ -5809,7 +6165,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen229"
+    "question_id": "cbse_xi_keph1dd_c105_gen229",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Analyze the concept of potential energy in a one-dimensional conservative system. Provide a complete derivation of the expression F(x) = -dV/dx and discuss its physical implications.",
@@ -5823,7 +6180,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen230"
+    "question_id": "cbse_xi_keph1dd_c105_gen230",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: For a conservative force, the work done depends on the specific path taken by an object between two points.",
@@ -5837,7 +6195,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen231"
+    "question_id": "cbse_xi_keph1dd_c105_gen231",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: The unit of potential energy is the joule, which is dimensionally equivalent to [ML²T⁻²].",
@@ -5851,7 +6210,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen232"
+    "question_id": "cbse_xi_keph1dd_c105_gen232",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: An increase in kinetic energy always implies an equal decrease in potential energy irrespective of the type of force involved.",
@@ -5865,7 +6225,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen233"
+    "question_id": "cbse_xi_keph1dd_c105_gen233",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A ball of mass 2 kg is lifted from the ground to a height of 5 m. Calculate its gravitational potential energy at that height.",
@@ -5879,7 +6240,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen234"
+    "question_id": "cbse_xi_keph1dd_c105_gen234",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A rock of mass 3 kg is dropped from a height of 10 m. Assuming no air resistance, determine the speed of the rock just before it hits the ground using energy conservation.",
@@ -5893,7 +6255,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen235"
+    "question_id": "cbse_xi_keph1dd_c105_gen235",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "A car of mass 1000 kg slides down a frictionless incline of height 20 m. Determine its kinetic energy at the bottom of the incline.",
@@ -5907,7 +6270,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen236"
+    "question_id": "cbse_xi_keph1dd_c105_gen236",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "If the gravitational force is -9.8 m/s² and the potential energy function is given as V(h) = mgh, find the change in potential energy when h increases by 3 m for an object of mass 5 kg.",
@@ -5921,7 +6285,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen237"
+    "question_id": "cbse_xi_keph1dd_c105_gen237",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "For an object of mass m, the potential energy function is defined as V(x) = 2x², where x is the displacement in meters and V is in joules. Determine the force acting on the object when x = 4 m.",
@@ -5935,7 +6300,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "07_section_5_7",
-    "question_id": "cbse_xi_keph1dd_c105_gen238"
+    "question_id": "cbse_xi_keph1dd_c105_gen238",
+    "section_name": "5.7 THE CONCEPT OF POTENTIAL ENERGY"
   },
   {
     "question_text": "Which of the following best defines power in physics?",
@@ -5954,7 +6320,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen314"
+    "question_id": "cbse_xi_keph1dd_c105_gen314",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "What are the SI dimensions of power?",
@@ -5973,7 +6340,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen315"
+    "question_id": "cbse_xi_keph1dd_c105_gen315",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which of the following equations correctly represents instantaneous power?",
@@ -5992,7 +6360,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen316"
+    "question_id": "cbse_xi_keph1dd_c105_gen316",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "One horsepower (hp) is equivalent to how many watts?",
@@ -6011,7 +6380,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen317"
+    "question_id": "cbse_xi_keph1dd_c105_gen317",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Which unit, often encountered on electricity bills, is actually a unit of energy rather than power?",
@@ -6030,7 +6400,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen318"
+    "question_id": "cbse_xi_keph1dd_c105_gen318",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Define average power and provide its mathematical expression.",
@@ -6044,7 +6415,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen319"
+    "question_id": "cbse_xi_keph1dd_c105_gen319",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Explain the difference between average power and instantaneous power.",
@@ -6058,7 +6430,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen320"
+    "question_id": "cbse_xi_keph1dd_c105_gen320",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Describe a real-world scenario where horsepower is a more commonly used unit than watts.",
@@ -6072,7 +6445,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen321"
+    "question_id": "cbse_xi_keph1dd_c105_gen321",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Why is the kilowatt hour (kWh) used in electricity billing, even though it is a unit of energy, not power?",
@@ -6086,7 +6460,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen322"
+    "question_id": "cbse_xi_keph1dd_c105_gen322",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Explain in detail how instant power is calculated from force and velocity, using a practical example to support your explanation.",
@@ -6100,7 +6475,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen323"
+    "question_id": "cbse_xi_keph1dd_c105_gen323",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Compare and contrast the concepts of work, power, and energy. Provide clear definitions and discuss how they interrelate in physical systems.",
@@ -6114,7 +6490,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen324"
+    "question_id": "cbse_xi_keph1dd_c105_gen324",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "Discuss how an increase in speed affects the power required by a motor when both frictional forces and the gravitational force remain constant.",
@@ -6128,7 +6505,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen325"
+    "question_id": "cbse_xi_keph1dd_c105_gen325",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "True or False: Power is a vector quantity because it is calculated using force, which is a vector.",
@@ -6142,7 +6520,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen326"
+    "question_id": "cbse_xi_keph1dd_c105_gen326",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "True or False: Instantaneous power can be calculated using the equation P = F · v.",
@@ -6156,7 +6535,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen327"
+    "question_id": "cbse_xi_keph1dd_c105_gen327",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "True or False: The kilowatt hour (kWh) is a unit directly used to measure power in electrical appliances.",
@@ -6170,7 +6550,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen328"
+    "question_id": "cbse_xi_keph1dd_c105_gen328",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A machine does 180,000 J of work in 90 seconds. Calculate its average power in watts.",
@@ -6184,7 +6565,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen329"
+    "question_id": "cbse_xi_keph1dd_c105_gen329",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "An elevator with a total mass of 1000 kg is moving upward at a constant speed of 2 m/s. If the frictional force opposing the motion is 3000 N and using g = 10 m/s², calculate the minimum power needed by the elevator motor in watts.",
@@ -6198,7 +6580,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen330"
+    "question_id": "cbse_xi_keph1dd_c105_gen330",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A car engine outputs 150 horsepower. Convert this power to watts.",
@@ -6212,7 +6595,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen331"
+    "question_id": "cbse_xi_keph1dd_c105_gen331",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A turbine produces power at a constant rate of 500 W over a period of 5 hours. Calculate the total energy produced in kilowatt hours (kWh) and in joules.",
@@ -6226,7 +6610,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen332"
+    "question_id": "cbse_xi_keph1dd_c105_gen332",
+    "section_name": "5.10 POWER"
   },
   {
     "question_text": "A 60 W light bulb is used continuously for 24 hours. Determine its energy consumption in kilowatt hours (kWh) and the equivalent energy in joules.",
@@ -6240,6 +6625,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "10_section_5_10",
-    "question_id": "cbse_xi_keph1dd_c105_gen333"
+    "question_id": "cbse_xi_keph1dd_c105_gen333",
+    "section_name": "5.10 POWER"
   }
 ]

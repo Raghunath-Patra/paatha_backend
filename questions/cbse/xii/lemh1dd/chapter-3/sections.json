@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "3.1 Introduction"
+    },
+    {
+      "number": 3,
+      "name": "3.3 Types of Matrices**"
+    },
+    {
+      "number": 4,
+      "name": "3.4 Operations on Matrices**"
+    },
+    {
+      "number": 5,
+      "name": "3.5 Transpose of a Matrix"
+    },
+    {
+      "number": 6,
+      "name": "3.6 Symmetric and Skew Symmetric Matrices**"
+    },
+    {
+      "number": 7,
+      "name": "3.7 Invertible Matrices**"
+    }
+  ]
+}

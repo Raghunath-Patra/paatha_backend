@@ -445,7 +445,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen001"
+    "question_id": "cbse_xii_lech1dd_c103_gen001",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Which of the following is the correct unit for the rate of a chemical reaction when concentration is in mol L⁻¹ and time is in seconds?",
@@ -464,7 +465,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen002"
+    "question_id": "cbse_xii_lech1dd_c103_gen002",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "For the reaction 2 HI (g) → H₂ (g) + I₂ (g), which expression correctly represents the rate of reaction based on the disappearance of HI?",
@@ -483,7 +485,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen003"
+    "question_id": "cbse_xii_lech1dd_c103_gen003",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "What is the graphical method used to determine the instantaneous rate of a reaction?",
@@ -502,7 +505,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen004"
+    "question_id": "cbse_xii_lech1dd_c103_gen004",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "In a gaseous reaction at constant temperature, the concentration of a gas is directly proportional to its:",
@@ -521,7 +525,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen005"
+    "question_id": "cbse_xii_lech1dd_c103_gen005",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Define the average rate of a chemical reaction and explain how it depends on the change in concentration of reactants or products and the time interval.",
@@ -535,7 +540,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen006"
+    "question_id": "cbse_xii_lech1dd_c103_gen006",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Explain why the instantaneous rate of a reaction is often more useful than the average rate when studying reaction kinetics.",
@@ -549,7 +555,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen007"
+    "question_id": "cbse_xii_lech1dd_c103_gen007",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "How do stoichiometric coefficients in a chemical equation affect the calculation of the reaction rate?",
@@ -563,7 +570,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen008"
+    "question_id": "cbse_xii_lech1dd_c103_gen008",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Describe how the slope of a tangent at a point on a concentration versus time graph is related to the instantaneous rate of a reaction.",
@@ -577,7 +585,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen009"
+    "question_id": "cbse_xii_lech1dd_c103_gen009",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Describe in detail the procedure to determine the instantaneous rate of a reaction from experimental concentration versus time data, including the graphical method.",
@@ -591,7 +600,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen010"
+    "question_id": "cbse_xii_lech1dd_c103_gen010",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Discuss the differences between average rate and instantaneous rate of a reaction, and provide examples of situations in which each would be most useful.",
@@ -605,7 +615,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen011"
+    "question_id": "cbse_xii_lech1dd_c103_gen011",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "True or False: The rate of appearance of reaction products is always negative.",
@@ -619,7 +630,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen012"
+    "question_id": "cbse_xii_lech1dd_c103_gen012",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "True or False: The instantaneous rate is determined by calculating the derivative of concentration with respect to time.",
@@ -633,7 +645,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen013"
+    "question_id": "cbse_xii_lech1dd_c103_gen013",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "True or False: When rate expressions are written for reactions with stoichiometric coefficients not equal to one, the change in concentration can be used directly without dividing by the coefficient.",
@@ -647,7 +660,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen014"
+    "question_id": "cbse_xii_lech1dd_c103_gen014",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Using the concentration data for butyl chloride given in Table 3.1, calculate the average rate of reaction between t = 100 s and t = 150 s. [C₄H₉Cl] at 100 s is 0.0820 mol L⁻¹ and at 150 s is 0.0741 mol L⁻¹.",
@@ -661,7 +675,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen015"
+    "question_id": "cbse_xii_lech1dd_c103_gen015",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "For the decomposition of N₂O₅ in CCl₄ at 318 K, the concentration of N₂O₅ decreases from 2.33 mol L⁻¹ to 2.08 mol L⁻¹ in 184 minutes. Given the reaction 2 N₂O₅ (g) → 4 NO₂ (g) + O₂ (g), calculate: (a) the average rate of decomposition of N₂O₅ in mol L⁻¹ min⁻¹ and mol L⁻¹ s⁻¹, and (b) the rate of production of NO₂ in mol L⁻¹ min⁻¹.",
@@ -675,7 +690,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen016"
+    "question_id": "cbse_xii_lech1dd_c103_gen016",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "For the hydrolysis of butyl chloride, the instantaneous rates are given as follows: at 250 s, 1.22 × 10⁻4 mol L⁻¹ s⁻¹; at 350 s, 1.0 × 10⁻4 mol L⁻¹ s⁻¹; and at 450 s, 6.4 × 10⁻5 mol L⁻¹ s⁻¹. Assuming a linear change between 250 s and 450 s, estimate the instantaneous rate at 300 s.",
@@ -689,7 +705,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen017"
+    "question_id": "cbse_xii_lech1dd_c103_gen017",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Given that at t = 0 s, the concentration of reactant A is 0.150 mol L⁻¹ and at t = 30 s it is 0.135 mol L⁻¹, calculate the average rate of disappearance of A in mol L⁻¹ s⁻¹, ensuring that the sign convention is correctly applied.",
@@ -703,7 +720,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lech1dd_c103_gen018"
+    "question_id": "cbse_xii_lech1dd_c103_gen018",
+    "section_name": "3.1 Rate of a Chemical Reaction"
   },
   {
     "question_text": "Which of the following correctly represents the integrated rate equation for a zero order reaction?",
@@ -722,7 +740,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen035"
+    "question_id": "cbse_xii_lech1dd_c103_gen035",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Which graph best represents a first order reaction when using integrated rate laws?",
@@ -741,7 +760,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen036"
+    "question_id": "cbse_xii_lech1dd_c103_gen036",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "What is the half-life equation for a first order reaction?",
@@ -760,7 +780,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen037"
+    "question_id": "cbse_xii_lech1dd_c103_gen037",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "If the concentration versus time plot for a reaction is linear, what is the order of the reaction?",
@@ -779,7 +800,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen038"
+    "question_id": "cbse_xii_lech1dd_c103_gen038",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Pseudo first order kinetics is observed when:",
@@ -798,7 +820,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen039"
+    "question_id": "cbse_xii_lech1dd_c103_gen039",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Explain why the measurement of instantaneous rate via the slope of the concentration versus time graph can be challenging in determining the rate law.",
@@ -812,7 +835,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen040"
+    "question_id": "cbse_xii_lech1dd_c103_gen040",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Describe the significance of the intercept in a plot of ln [R] versus time for a first order reaction.",
@@ -826,7 +850,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen041"
+    "question_id": "cbse_xii_lech1dd_c103_gen041",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "What is the relationship between the half-life and the initial concentration for a zero order reaction?",
@@ -840,7 +865,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen042"
+    "question_id": "cbse_xii_lech1dd_c103_gen042",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "How can the rate constant for a first order reaction be determined from a plot of log ([R]0/[R]) versus time?",
@@ -854,7 +880,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen043"
+    "question_id": "cbse_xii_lech1dd_c103_gen043",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Derive the integrated rate law for a first order reaction starting with the differential rate equation d[R]/dt = -k [R]. Include all steps in your derivation.",
@@ -868,7 +895,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen044"
+    "question_id": "cbse_xii_lech1dd_c103_gen044",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Discuss the limitations of using integrated rate equations for determining reaction orders and rate constants. What experimental challenges might be encountered and what alternative methods could be used?",
@@ -882,7 +910,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen045"
+    "question_id": "cbse_xii_lech1dd_c103_gen045",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Explain the concept of a pseudo first order reaction with an example. How does the presence of a reactant in large excess lead to pseudo first order kinetics?",
@@ -896,7 +925,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen046"
+    "question_id": "cbse_xii_lech1dd_c103_gen046",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "True or False: In a first order reaction, the half-life is independent of the initial concentration of the reactant.",
@@ -910,7 +940,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen047"
+    "question_id": "cbse_xii_lech1dd_c103_gen047",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "True or False: The slope of the concentration versus time plot for a zero order reaction is positive.",
@@ -924,7 +955,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen048"
+    "question_id": "cbse_xii_lech1dd_c103_gen048",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "True or False: A plot of log ([R]0/[R]) versus time for a first order reaction yields a straight line with a slope equal to k.",
@@ -938,7 +970,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen049"
+    "question_id": "cbse_xii_lech1dd_c103_gen049",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "A zero order reaction has an initial concentration of 0.80 mol L⁻¹ and a rate constant k = 0.05 mol L⁻¹ s⁻¹. Calculate the concentration of the reactant after 10 seconds.",
@@ -952,7 +985,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen050"
+    "question_id": "cbse_xii_lech1dd_c103_gen050",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "A first order reaction decreases in concentration from 2.0 × 10⁻² mol L⁻¹ to 1.0 × 10⁻² mol L⁻¹ in 30 seconds. Calculate the rate constant k.",
@@ -966,7 +1000,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen051"
+    "question_id": "cbse_xii_lech1dd_c103_gen051",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "For a first order reaction with a rate constant of 4.0 × 10⁻³ s⁻¹, determine the half-life of the reaction.",
@@ -980,7 +1015,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen052"
+    "question_id": "cbse_xii_lech1dd_c103_gen052",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "A first order gas phase reaction proceeds at constant volume. If the initial pressure of reactant A is 0.50 atm and the total pressure measured after 200 seconds is 0.52 atm, determine the rate constant k. (Hint: Use pA = 2p_i - p_t)",
@@ -994,7 +1030,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen053"
+    "question_id": "cbse_xii_lech1dd_c103_gen053",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "For a first order reaction, the time required for 99.9% completion is approximately how many half-lives? If one half-life is 10 minutes, what is the total time for 99.9% completion?",
@@ -1008,7 +1045,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen054"
+    "question_id": "cbse_xii_lech1dd_c103_gen054",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "Radium-226 decays via first order kinetics with a half-life of 1600 years. Calculate the decay constant k.",
@@ -1022,7 +1060,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "06_section_3_3",
-    "question_id": "cbse_xii_lech1dd_c103_gen055"
+    "question_id": "cbse_xii_lech1dd_c103_gen055",
+    "section_name": "3.3 Integrated Rate Equations"
   },
   {
     "question_text": "What does the pre‐exponential factor A in the Arrhenius equation represent?",
@@ -1041,7 +1080,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen056"
+    "question_id": "cbse_xii_lech1dd_c103_gen056",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Which statement best explains the effect of an increase in temperature on the rate of a chemical reaction according to the Arrhenius equation?",
@@ -1060,7 +1100,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen057"
+    "question_id": "cbse_xii_lech1dd_c103_gen057",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "In a plot of ln k versus 1/T (Arrhenius plot), what does the slope represent?",
@@ -1079,7 +1120,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen058"
+    "question_id": "cbse_xii_lech1dd_c103_gen058",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "How does a catalyst affect the activation energy of a chemical reaction?",
@@ -1098,7 +1140,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen059"
+    "question_id": "cbse_xii_lech1dd_c103_gen059",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "The rate constant of many reactions approximately doubles when the temperature is increased by 10°. What is the primary reason for this observation?",
@@ -1117,7 +1160,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen060"
+    "question_id": "cbse_xii_lech1dd_c103_gen060",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Define activation energy and describe its significance in a chemical reaction.",
@@ -1131,7 +1175,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen061"
+    "question_id": "cbse_xii_lech1dd_c103_gen061",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "What information does the Maxwell-Boltzmann distribution provide about molecules in a reacting system?",
@@ -1145,7 +1190,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen062"
+    "question_id": "cbse_xii_lech1dd_c103_gen062",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Explain how a plot of ln k versus 1/T (an Arrhenius plot) can be used to determine the activation energy of a reaction.",
@@ -1159,7 +1205,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen063"
+    "question_id": "cbse_xii_lech1dd_c103_gen063",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Discuss how a catalyst affects a reaction mechanism. In your answer, describe its influence on the activation energy, the reaction pathway, and whether it affects the equilibrium constant.",
@@ -1173,7 +1220,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen064"
+    "question_id": "cbse_xii_lech1dd_c103_gen064",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Discuss how increasing temperature affects the distribution of molecular kinetic energies and explain how this change influences the rate of a chemical reaction.",
@@ -1187,7 +1235,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen065"
+    "question_id": "cbse_xii_lech1dd_c103_gen065",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Describe the role of a catalyst in a chemical reaction mechanism. Explain how it interacts with reactants, how it affects the activation energy, and why it does not alter the equilibrium constant.",
@@ -1201,7 +1250,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen066"
+    "question_id": "cbse_xii_lech1dd_c103_gen066",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Analyze the impact of lowering the activation energy on the rate of a chemical reaction using the Arrhenius equation. Propose an experimental method to determine activation energy from kinetic data.",
@@ -1215,7 +1265,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen067"
+    "question_id": "cbse_xii_lech1dd_c103_gen067",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "An increase in temperature always increases the equilibrium constant of a chemical reaction. True or False?",
@@ -1229,7 +1280,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen068"
+    "question_id": "cbse_xii_lech1dd_c103_gen068",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "The pre-exponential factor A in the Arrhenius equation remains constant regardless of temperature changes. True or False?",
@@ -1243,7 +1295,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen069"
+    "question_id": "cbse_xii_lech1dd_c103_gen069",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "A catalyst alters the Gibbs free energy change of a reaction. True or False?",
@@ -1257,7 +1310,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen070"
+    "question_id": "cbse_xii_lech1dd_c103_gen070",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Using the Arrhenius equation, calculate the activation energy Ea if the rate constant increases from 0.02 s⁻¹ at 500 K to 0.07 s⁻¹ at 700 K. Use the gas constant R = 8.314 J/(mol·K).",
@@ -1271,7 +1325,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen071"
+    "question_id": "cbse_xii_lech1dd_c103_gen071",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Given that the rate constant k is 0.02 s⁻¹ at 500 K and the activation energy Ea is approximately 18,230.8 J/mol, calculate the pre-exponential factor A using the Arrhenius equation. Use R = 8.314 J/(mol·K).",
@@ -1285,7 +1340,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen072"
+    "question_id": "cbse_xii_lech1dd_c103_gen072",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "If the slope of an Arrhenius plot (ln k versus 1/T) is found to be -2400 K, calculate the activation energy Ea. Use R = 8.314 J/(mol·K).",
@@ -1299,7 +1355,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen073"
+    "question_id": "cbse_xii_lech1dd_c103_gen073",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "A catalyst lowers the activation energy of a reaction from 75,000 J/mol to 50,000 J/mol. Calculate the factor by which the rate constant increases at 600 K due to the catalyst. Use the Arrhenius equation and R = 8.314 J/(mol·K).",
@@ -1313,7 +1370,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "08_section_3_4",
-    "question_id": "cbse_xii_lech1dd_c103_gen074"
+    "question_id": "cbse_xii_lech1dd_c103_gen074",
+    "section_name": "3.4 Temperature Dependence of the Rate of a Reaction"
   },
   {
     "question_text": "Which of the following factors does NOT influence the rate of a chemical reaction according to the section?",
@@ -1332,7 +1390,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen019"
+    "question_id": "cbse_xii_lech1dd_c103_gen019",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "In the rate law expression Rate = k [A]^x [B]^y, what does the exponent x represent?",
@@ -1351,7 +1410,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen020"
+    "question_id": "cbse_xii_lech1dd_c103_gen020",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "For the reaction 2 NO (g) + O2 (g) → 2 NO2 (g), experimental data shows that when the concentration of NO is doubled while keeping O2 constant, the initial rate increases from 0.096 to 0.384 mol L⁻¹ s⁻¹. What does this indicate about the reaction order with respect to NO?",
@@ -1370,7 +1430,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen021"
+    "question_id": "cbse_xii_lech1dd_c103_gen021",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "In an elementary reaction, molecularity is defined as the number of species participating in the reaction. Which statement best describes the relationship between molecularity and reaction order for an elementary reaction?",
@@ -1389,7 +1450,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen022"
+    "question_id": "cbse_xii_lech1dd_c103_gen022",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Which of the following correctly represents the differential rate equation form for a general reaction?",
@@ -1408,7 +1470,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen023"
+    "question_id": "cbse_xii_lech1dd_c103_gen023",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Define the term 'rate law' as used in chemical kinetics.",
@@ -1422,7 +1485,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen024"
+    "question_id": "cbse_xii_lech1dd_c103_gen024",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Explain the difference between the order of a reaction and the molecularity of a reaction.",
@@ -1436,7 +1500,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen025"
+    "question_id": "cbse_xii_lech1dd_c103_gen025",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Describe how the slowest step in a reaction mechanism determines the overall rate in a complex reaction.",
@@ -1450,7 +1515,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen026"
+    "question_id": "cbse_xii_lech1dd_c103_gen026",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Discuss the factors influencing the rate of a reaction, and illustrate how changes in reactant concentration affect the rate law using the reaction 2 NO (g) + O2 (g) → 2 NO2 (g) as an example.",
@@ -1464,7 +1530,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen027"
+    "question_id": "cbse_xii_lech1dd_c103_gen027",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Analyze the differences between the apparent reaction order derived from the overall balanced chemical equation and the experimentally determined rate law. Why is the experimental determination of the rate law essential in chemical kinetics?",
@@ -1478,7 +1545,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen028"
+    "question_id": "cbse_xii_lech1dd_c103_gen028",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "True or False: The order of a complex reaction can always be predicted by directly inspecting the balanced chemical equation.",
@@ -1492,7 +1560,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen029"
+    "question_id": "cbse_xii_lech1dd_c103_gen029",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "True or False: Molecularity of a reaction can be fractional in the case of complex reactions.",
@@ -1506,7 +1575,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen030"
+    "question_id": "cbse_xii_lech1dd_c103_gen030",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "For the reaction 2 NO (g) + O2 (g) → 2 NO2 (g), experimental data indicates that when the concentration of NO is doubled from 0.30 mol L⁻¹ to 0.60 mol L⁻¹ (with O2 kept constant), the initial rate increases from 0.096 mol L⁻¹ s⁻¹ to 0.384 mol L⁻¹ s⁻¹. Determine the order of the reaction with respect to NO.",
@@ -1520,7 +1590,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen031"
+    "question_id": "cbse_xii_lech1dd_c103_gen031",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Using the reaction 2 NO (g) + O2 (g) → 2 NO2 (g), if the initial rate increases from 0.096 mol L⁻¹ s⁻¹ to 0.192 mol L⁻¹ s⁻¹ when the concentration of O2 increases from 0.30 mol L⁻¹ to 0.60 mol L⁻¹ (with [NO] constant), what is the order of reaction with respect to O2?",
@@ -1534,7 +1605,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen032"
+    "question_id": "cbse_xii_lech1dd_c103_gen032",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Given a rate constant k = 2.3 x 10⁻⁵ L mol⁻¹ s⁻¹, determine the order of the reaction. Use the units of k to justify your answer.",
@@ -1548,7 +1620,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen033"
+    "question_id": "cbse_xii_lech1dd_c103_gen033",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "Consider a zero order reaction with a rate constant of 0.025 mol L⁻¹ s⁻¹ and an initial reactant concentration of 0.50 mol L⁻¹. Calculate the time required for the concentration to drop to 0.10 mol L⁻¹.",
@@ -1562,7 +1635,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_xii_lech1dd_c103_gen034"
+    "question_id": "cbse_xii_lech1dd_c103_gen034",
+    "section_name": "3.2 Factors Influencing Rate of a Reaction"
   },
   {
     "question_text": "According to collision theory, a chemical reaction occurs only when the reacting molecules: (A) collide irrespective of energy and orientation; (B) collide with sufficient kinetic energy; (C) collide with both sufficient kinetic energy and proper orientation; (D) do not collide at all.",
@@ -1581,7 +1655,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen075"
+    "question_id": "cbse_xii_lech1dd_c103_gen075",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "In collision theory, what does the term 'steric factor' (P) account for?",
@@ -1600,7 +1675,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen076"
+    "question_id": "cbse_xii_lech1dd_c103_gen076",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "What does the collision frequency (Z) represent in collision theory?",
@@ -1619,7 +1695,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen077"
+    "question_id": "cbse_xii_lech1dd_c103_gen077",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "The rate equation from collision theory is given by: Rate = P Z e^(-Ea/RT). Which two factors must be satisfied during a collision for it to be effective?",
@@ -1638,7 +1715,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen078"
+    "question_id": "cbse_xii_lech1dd_c103_gen078",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "In the collision theory equation Rate = P Z e^(-Ea/RT), what role does the exponential term play?",
@@ -1657,7 +1735,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen079"
+    "question_id": "cbse_xii_lech1dd_c103_gen079",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "Define collision frequency in the context of collision theory and explain its significance in determining the rate of a chemical reaction.",
@@ -1671,7 +1750,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen080"
+    "question_id": "cbse_xii_lech1dd_c103_gen080",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "Explain the importance of the steric factor in collision theory. How does it modify the rate of reaction?",
@@ -1685,7 +1765,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen081"
+    "question_id": "cbse_xii_lech1dd_c103_gen081",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "What is meant by threshold energy in the context of collision theory and how is it related to activation energy?",
@@ -1699,7 +1780,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen082"
+    "question_id": "cbse_xii_lech1dd_c103_gen082",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "Discuss how proper molecular orientation influences the probability of an effective collision and, consequently, the rate of a chemical reaction according to collision theory.",
@@ -1713,7 +1795,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen083"
+    "question_id": "cbse_xii_lech1dd_c103_gen083",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "Discuss the principles of collision theory and critically analyze its limitations, particularly when applied to reactions involving complex molecules.",
@@ -1727,7 +1810,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen084"
+    "question_id": "cbse_xii_lech1dd_c103_gen084",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "Using the collision theory equation (Rate = P Z e^(-Ea/RT)), describe how you would experimentally determine the rate constant for a bimolecular reaction. Your answer should include a discussion on the measurement of collision frequency, activation energy, and the steric factor.",
@@ -1741,7 +1825,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen085"
+    "question_id": "cbse_xii_lech1dd_c103_gen085",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "True or False: Collision theory assumes that molecules are hard spheres and thus ignores their structural details.",
@@ -1755,7 +1840,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen086"
+    "question_id": "cbse_xii_lech1dd_c103_gen086",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "True or False: According to collision theory, an increase in activation energy will have no effect on the rate of reaction if molecular orientation remains constant.",
@@ -1769,7 +1855,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen087"
+    "question_id": "cbse_xii_lech1dd_c103_gen087",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "A reaction at 298 K has a collision frequency (Z) of 2.5 x 10^10 collisions/s per m³, an activation energy (Ea) of 50 kJ/mol, and a steric factor (P) of 0.2. Using the rate equation Rate = P Z e^(-Ea/RT) with R = 8.314 J/mol·K, calculate the reaction rate per unit volume. Show your detailed calculations.",
@@ -1783,7 +1870,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen088"
+    "question_id": "cbse_xii_lech1dd_c103_gen088",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "For a certain reaction, the activation energy is 40 kJ/mol and the reactant molecules possess an additional 5 kJ/mol of energy. Calculate the threshold energy required for the reaction.",
@@ -1797,7 +1885,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen089"
+    "question_id": "cbse_xii_lech1dd_c103_gen089",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "In a reaction following collision theory, if the observed rate is 3.0 x 10^6 molecules/s per m³, the steric factor (P) is 0.15, and e^(-Ea/RT) is 0.001, calculate the collision frequency (Z). Include all steps in your calculation.",
@@ -1811,7 +1900,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen090"
+    "question_id": "cbse_xii_lech1dd_c103_gen090",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "For a reaction at 350 K with an activation energy of 60 kJ/mol, a collision frequency of 5 x 10^12 collisions/s per m³, and a steric factor of 0.3, calculate the exponential factor e^(-Ea/RT). Use R = 8.314 J/mol·K and show each calculation step.",
@@ -1825,7 +1915,8 @@
     "source": "generated",
     "chapter_id": "lech103",
     "section_id": "09_section_3_5",
-    "question_id": "cbse_xii_lech1dd_c103_gen091"
+    "question_id": "cbse_xii_lech1dd_c103_gen091",
+    "section_name": "3.5 Collision Theory of ofTheory of Chemical Reactions ReactionsReactions"
   },
   {
     "question_text": "For a reaction, A + B → Product; the rate law is given by r = k [A]^(1/2) [B]^2. What is the order of the reaction?",

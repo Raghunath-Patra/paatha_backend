@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen030"
+    "question_id": "cbse_xi_kemh1dd_c102_gen030",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "In an arrow diagram representing a relation, what is the 'range' of the relation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen031"
+    "question_id": "cbse_xi_kemh1dd_c102_gen031",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Consider an arrow diagram where an element 'b' in set P maps to two different elements in set Q. Which statement is true regarding this relation?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen032"
+    "question_id": "cbse_xi_kemh1dd_c102_gen032",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "If a set A has p elements and a set B has q elements, how many different relations can be formed from A to B?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen033"
+    "question_id": "cbse_xi_kemh1dd_c102_gen033",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Define the domain of a relation from a set A to a set B.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen034"
+    "question_id": "cbse_xi_kemh1dd_c102_gen034",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Express the relation R defined on set A = {1, 2, 3, 4, 5, 6} by y = x + 1 in roster form.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen035"
+    "question_id": "cbse_xi_kemh1dd_c102_gen035",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Define the set-builder notation for a relation between two sets.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen036"
+    "question_id": "cbse_xi_kemh1dd_c102_gen036",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Differentiate between the range and the codomain of a relation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen037"
+    "question_id": "cbse_xi_kemh1dd_c102_gen037",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Prove that any relation from set A to set B is a subset of the Cartesian product A × B, and explain why the total number of relations is 2^(|A|×|B|).",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen038"
+    "question_id": "cbse_xi_kemh1dd_c102_gen038",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Given sets P = {a, b, c} and Q = {Ali, Bhanu, Binoy, Chandra, Divya} and a relation R defined by 'x is the first letter of the name y', list the ordered pairs in roster form and determine the domain, range, and codomain.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen039"
+    "question_id": "cbse_xi_kemh1dd_c102_gen039",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "For the set A = {1, 2, 3} and B = {4, 5}, calculate the total number of relations from A to B.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen040"
+    "question_id": "cbse_xi_kemh1dd_c102_gen040",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Given set A = {1, 2, 3, 4} and a relation R defined by R = {(x, y) : y = x + 1, with x, y ∈ A}, list out R in roster form and then identify its domain and range.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen041"
+    "question_id": "cbse_xi_kemh1dd_c102_gen041",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "If a relation from sets A to B has a Cartesian product containing 10 ordered pairs, how many different relations from A to B can be formed?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen042"
+    "question_id": "cbse_xi_kemh1dd_c102_gen042",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "Consider set A = {1, 2, 3} and the relation R defined on A by R = {(x, y) : y = x²}. Write R in roster form and determine the domain and range.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen043"
+    "question_id": "cbse_xi_kemh1dd_c102_gen043",
+    "section_name": "2.3 Relations"
   },
   {
     "question_text": "For set P = {2, 3, 4} and set Q = {2, -2, 3, -3, 4}, suppose the relation R is defined by 'x is the absolute value of y' (i.e., x = |y|). Express R in roster form and determine the domain and range.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xi_kemh1dd_c102_gen044"
+    "question_id": "cbse_xi_kemh1dd_c102_gen044",
+    "section_name": "2.3 Relations"
   }
 ]

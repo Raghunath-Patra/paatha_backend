@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen021"
+    "question_id": "cbse_xi_keph2dd_c201_gen021",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "What does the term 'plasticity' refer to in the context of material deformation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen022"
+    "question_id": "cbse_xi_keph2dd_c201_gen022",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Why is the study of the elastic behaviour of materials important in engineering design?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen023"
+    "question_id": "cbse_xi_keph2dd_c201_gen023",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Which statement correctly distinguishes between a rigid body and the real behaviour of solid bodies as discussed in the chapter?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen024"
+    "question_id": "cbse_xi_keph2dd_c201_gen024",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following is not a reason for studying elastic properties of materials according to the text?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen025"
+    "question_id": "cbse_xi_keph2dd_c201_gen025",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Define what is meant by a 'rigid body' as described in the chapter.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen026"
+    "question_id": "cbse_xi_keph2dd_c201_gen026",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the difference between elastic and plastic deformation based on the textbook section.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen027"
+    "question_id": "cbse_xi_keph2dd_c201_gen027",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss why real solid bodies cannot be assumed to be perfectly rigid even if they appear hard and maintain a definite shape.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen028"
+    "question_id": "cbse_xi_keph2dd_c201_gen028",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Describe an example from engineering design where the elastic properties of materials play a crucial role, as mentioned in the section.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen029"
+    "question_id": "cbse_xi_keph2dd_c201_gen029",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss how the study of elastic behaviour influences the design of large structures such as bridges and buildings. Discuss specific examples and mention the relevant mechanical properties that are considered during the design process.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen030"
+    "question_id": "cbse_xi_keph2dd_c201_gen030",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Evaluate the significance of differentiating between elastic and plastic deformations when designing everyday objects such as automobiles and artificial limbs.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen031"
+    "question_id": "cbse_xi_keph2dd_c201_gen031",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "Analyze how the distribution of mass within a body affects its deformation under an applied force, and discuss why this concept is crucial when considering the transition from ideal rigid bodies to real-world objects.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen032"
+    "question_id": "cbse_xi_keph2dd_c201_gen032",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "A helical spring elongates by 2 cm when a force of 20 N is applied. Calculate the spring constant (k) of the spring.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen033"
+    "question_id": "cbse_xi_keph2dd_c201_gen033",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "A steel beam originally 2 m long elongates by 0.01 m when a certain force is applied. Calculate the strain in the beam.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen034"
+    "question_id": "cbse_xi_keph2dd_c201_gen034",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "A building's steel column is designed to remain elastic under loads up to 500 kN. If an accidental load of 550 kN is applied, by what percentage does the applied load exceed the elastic limit?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen035"
+    "question_id": "cbse_xi_keph2dd_c201_gen035",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "An I-shaped railway track has a moment of inertia (I) of 2000 cm⁴ and the outermost fiber is 10 cm from the neutral axis (c). If the maximum allowable stress is 50 MPa, calculate the bending moment (M) required to reach this stress. Note: Convert 50 MPa to N/cm².",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen036"
+    "question_id": "cbse_xi_keph2dd_c201_gen036",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "A plastic material permanently deforms when subjected to a stress of 20 MPa. If a sample has a cross-sectional area of 50 cm², determine the force required to cause this permanent deformation. Note: 1 cm² = 1e-4 m².",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen037"
+    "question_id": "cbse_xi_keph2dd_c201_gen037",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "A helical spring when stretched gently returns to its original shape once the applied force is removed. True or False?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen038"
+    "question_id": "cbse_xi_keph2dd_c201_gen038",
+    "section_name": "8.1 INTRODUCTION"
   },
   {
     "question_text": "The elastic properties of materials such as steel are not considered important in the design of engineering structures. True or False?",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "02_section_8_1",
-    "question_id": "cbse_xi_keph2dd_c201_gen039"
+    "question_id": "cbse_xi_keph2dd_c201_gen039",
+    "section_name": "8.1 INTRODUCTION"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen236"
+    "question_id": "cbse_xi_keph1dd_c104_gen236",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "In the bullet and gun example, if p_b represents the momentum of the bullet after firing, what is the momentum of the gun?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen237"
+    "question_id": "cbse_xi_keph1dd_c104_gen237",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "During a collision in an isolated system, the net change of momentum is zero because the internal forces are:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen238"
+    "question_id": "cbse_xi_keph1dd_c104_gen238",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "Which pair of Newton's laws directly supports the law of conservation of momentum?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen239"
+    "question_id": "cbse_xi_keph1dd_c104_gen239",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "In an elastic collision, which of the following is conserved?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen240"
+    "question_id": "cbse_xi_keph1dd_c104_gen240",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "Explain why the total momentum of an isolated system remains unchanged during a collision.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen241"
+    "question_id": "cbse_xi_keph1dd_c104_gen241",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "Describe the role of Newton's third law in the conservation of momentum.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen242"
+    "question_id": "cbse_xi_keph1dd_c104_gen242",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "How does the gun and bullet example illustrate the principle of momentum conservation?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen243"
+    "question_id": "cbse_xi_keph1dd_c104_gen243",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "Why is the law of conservation of momentum valid irrespective of whether a collision is elastic or inelastic?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen244"
+    "question_id": "cbse_xi_keph1dd_c104_gen244",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "Discuss how momentum conservation is applied in the recoil of a firearm and explain any assumptions made in the analysis.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen245"
+    "question_id": "cbse_xi_keph1dd_c104_gen245",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "Compare and contrast elastic and inelastic collisions in terms of momentum and kinetic energy conservation. Illustrate your explanation with a practical example.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen246"
+    "question_id": "cbse_xi_keph1dd_c104_gen246",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "A two-body system undergoes a collision resulting in transfer of momentum between them. Describe the process from the perspective of Newton’s laws, and derive the conservation equation for the system.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen247"
+    "question_id": "cbse_xi_keph1dd_c104_gen247",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "True or False: The law of conservation of momentum applies only to elastic collisions.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen248"
+    "question_id": "cbse_xi_keph1dd_c104_gen248",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "True or False: In an isolated system, the vector sum of momenta before and after a collision are equal.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen249"
+    "question_id": "cbse_xi_keph1dd_c104_gen249",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "True or False: Newton's third law is not relevant when analyzing collisions.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen250"
+    "question_id": "cbse_xi_keph1dd_c104_gen250",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "A 5 kg bullet is fired from a gun of mass 20 kg. If the bullet leaves the gun with a speed of 300 m/s, calculate the recoil speed of the gun. Assume the system is isolated and initially at rest.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen251"
+    "question_id": "cbse_xi_keph1dd_c104_gen251",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "Two ice skaters, initially at rest, push off each other. If one skater has a mass of 50 kg and moves with a speed of 4 m/s, what will be the speed of the other skater with a mass of 70 kg?",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen252"
+    "question_id": "cbse_xi_keph1dd_c104_gen252",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "During a collision, a 2 kg cart moving at 3 m/s collides with a 4 kg cart moving at -2 m/s. Calculate the total momentum before the collision and determine the common speed if the carts stick together after collision.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen253"
+    "question_id": "cbse_xi_keph1dd_c104_gen253",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "A 0.2 kg ball traveling at 10 m/s collides head-on with a 0.3 kg ball traveling at -6 m/s. If after the collision the balls stick together, determine their common speed.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen254"
+    "question_id": "cbse_xi_keph1dd_c104_gen254",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   },
   {
     "question_text": "A 1500 kg car travelling at 20 m/s collides with a stationary 1500 kg car. If the collision is perfectly inelastic, what is the speed of the combined cars after collision?",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph104",
     "section_id": "08_section_4_7",
-    "question_id": "cbse_xi_keph1dd_c104_gen255"
+    "question_id": "cbse_xi_keph1dd_c104_gen255",
+    "section_name": "4.7 CONSERVATION OF MOMENTUM"
   }
 ]

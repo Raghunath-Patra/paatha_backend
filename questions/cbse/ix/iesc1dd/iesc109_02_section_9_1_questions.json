@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen001"
+    "question_id": "cbse_ix_iesc1dd_c109_gen001",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "According to Newton's Universal Law of Gravitation, the force between two objects is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. Which of the following equations represents this relationship?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen002"
+    "question_id": "cbse_ix_iesc1dd_c109_gen002",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Why do we not observe the Earth moving towards an apple when it falls?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen003"
+    "question_id": "cbse_ix_iesc1dd_c109_gen003",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Which statement about gravitational force is correct?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen004"
+    "question_id": "cbse_ix_iesc1dd_c109_gen004",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Define centripetal force.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen005"
+    "question_id": "cbse_ix_iesc1dd_c109_gen005",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Briefly explain why an object thrown upward eventually falls back to Earth.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen006"
+    "question_id": "cbse_ix_iesc1dd_c109_gen006",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "State Newton's Universal Law of Gravitation.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen007"
+    "question_id": "cbse_ix_iesc1dd_c109_gen007",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "How does the demonstration with the whirling stone demonstrate the need for a centripetal force?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen008"
+    "question_id": "cbse_ix_iesc1dd_c109_gen008",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Describe how Newton deduced that the force causing an apple to fall from a tree is the same force that keeps the Moon in orbit. In your answer, include the roles of inertia and centripetal force.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen009"
+    "question_id": "cbse_ix_iesc1dd_c109_gen009",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Using the formula F = G(M × m)/d², calculate the gravitational force between the Earth and the Moon given the following values: Earth's mass M = 6 × 10^24 kg, Moon's mass m = 7.4 × 10^22 kg, distance d = 3.84 × 10^8 m, and G = 6.7 × 10^-11 N m²/kg². Show all your calculation steps.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen010"
+    "question_id": "cbse_ix_iesc1dd_c109_gen010",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Evaluate the effect on the gravitational force between two objects when the distance between them is increased. Incorporate the inverse-square law in your explanation and provide a real-world example.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen011"
+    "question_id": "cbse_ix_iesc1dd_c109_gen011",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "True or False: The gravitational force between two objects increases as the distance between them increases.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen012"
+    "question_id": "cbse_ix_iesc1dd_c109_gen012",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "True or False: An object moving in a circular path will continue to follow that curved path even if the centripetal force is removed.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen013"
+    "question_id": "cbse_ix_iesc1dd_c109_gen013",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "True or False: The Moon is constantly falling towards the Earth due to gravitational force, which causes it to orbit in a circular path.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen014"
+    "question_id": "cbse_ix_iesc1dd_c109_gen014",
+    "section_name": "9.1 Gravitation"
   }
 ]

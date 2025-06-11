@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen231"
+    "question_id": "cbse_xi_keph1dd_c106_gen231",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "When a force is applied along the hinge line of a door, which statement is true regarding the door's rotation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen232"
+    "question_id": "cbse_xi_keph1dd_c106_gen232",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "What is the SI unit of torque?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen233"
+    "question_id": "cbse_xi_keph1dd_c106_gen233",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "If the direction of the force F is reversed while the position vector remains the same, what happens to the direction of the torque (r cross F)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen234"
+    "question_id": "cbse_xi_keph1dd_c106_gen234",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Angular momentum (l) of a particle is defined as:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen235"
+    "question_id": "cbse_xi_keph1dd_c106_gen235",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Explain why a force applied in the direction of the position vector (i.e., parallel to r) produces zero torque.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen236"
+    "question_id": "cbse_xi_keph1dd_c106_gen236",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "State the relationship between the time derivative of angular momentum and torque for a particle.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen237"
+    "question_id": "cbse_xi_keph1dd_c106_gen237",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "What assumption regarding internal forces in a system of particles ensures that only external forces contribute to the total torque?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen238"
+    "question_id": "cbse_xi_keph1dd_c106_gen238",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Describe the physical significance of r⊥ (r perpendicular) in the torque equation.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen239"
+    "question_id": "cbse_xi_keph1dd_c106_gen239",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Discuss the vector nature of torque. Explain how reversing the direction of the force or reversing both the position vector and the force vector affects the direction of the resulting torque.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen240"
+    "question_id": "cbse_xi_keph1dd_c106_gen240",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Elaborate on the derivation of the relation d(l)/dt = tau starting from the definition of angular momentum l = r cross p. Explain each step clearly.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen241"
+    "question_id": "cbse_xi_keph1dd_c106_gen241",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Analyze the experimental setup involving a spinning bicycle rim suspended by strings. Explain how the applied torque leads to precession of the angular momentum vector.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen242"
+    "question_id": "cbse_xi_keph1dd_c106_gen242",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: The magnitude of torque is given by r F cos(theta).",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen243"
+    "question_id": "cbse_xi_keph1dd_c106_gen243",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: In a system of particles, internal forces always contribute to the total torque acting on the system.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen244"
+    "question_id": "cbse_xi_keph1dd_c106_gen244",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: The cross product property implies that r cross F equals negative F cross r.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen245"
+    "question_id": "cbse_xi_keph1dd_c106_gen245",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A particle at the point (1, -1, 1) m is acted upon by a force (7, 3, -5) N. Calculate the torque about the origin using the determinant method. Provide your answer in Newton meters (N m).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen246"
+    "question_id": "cbse_xi_keph1dd_c106_gen246",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A particle of mass 2 kg is moving with a constant velocity of 4 m/s. At a certain instant, its position vector makes an angle of 30° with its velocity, and the perpendicular distance from the line of motion to the origin is 3 m. Find the magnitude of its angular momentum about the origin.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen247"
+    "question_id": "cbse_xi_keph1dd_c106_gen247",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A rigid body has a total angular momentum L = (5, -3, 7) kg m²/s. If no external torques act on the body, what will be the components of L after some time?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen248"
+    "question_id": "cbse_xi_keph1dd_c106_gen248",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "In a spinning bicycle rim experiment, a torque of 15 N m is applied to a spinning rim having an angular momentum of 30 kg m²/s. Calculate the angular precession rate in rad/s using the relation between torque and angular momentum.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen249"
+    "question_id": "cbse_xi_keph1dd_c106_gen249",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen027"
+    "question_id": "cbse_ix_iesc1dd_c107_gen027",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Consider the following scenarios: (1) A car speeding up on a straight road, (2) A ball thrown vertically upward, (3) A freely falling object, (4) A car moving in city traffic with irregular speed changes. Which scenario best represents uniformly accelerated motion?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen028"
+    "question_id": "cbse_ix_iesc1dd_c107_gen028",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "A bicycle accelerates uniformly from rest to 10 m/s in 20 seconds and then decelerates uniformly to 4 m/s in 4 seconds. What are the acceleration values during the speeding up and slowing down phases, respectively?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen029"
+    "question_id": "cbse_ix_iesc1dd_c107_gen029",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "In which scenario is the acceleration in the direction of the velocity?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen030"
+    "question_id": "cbse_ix_iesc1dd_c107_gen030",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Define acceleration. What is the formula for acceleration in terms of velocity and time?",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen031"
+    "question_id": "cbse_ix_iesc1dd_c107_gen031",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Differentiate between uniformly accelerated motion and non-uniformly accelerated motion.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen032"
+    "question_id": "cbse_ix_iesc1dd_c107_gen032",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Explain why acceleration can be negative and what does a negative acceleration indicate about the motion of an object?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen033"
+    "question_id": "cbse_ix_iesc1dd_c107_gen033",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Discuss two real-world examples that demonstrate acceleration in the direction of motion and acceleration against the direction of motion. Include explanations on how each scenario reflects the principle of acceleration.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen034"
+    "question_id": "cbse_ix_iesc1dd_c107_gen034",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "A bicyclist starts from rest and reaches a velocity of 6 m/s in 30 seconds. Later, the bicyclist applies brakes and reduces the velocity to 4 m/s in 5 seconds. Describe the changes in acceleration during these two intervals and explain what the sign of acceleration signifies in both cases.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen035"
+    "question_id": "cbse_ix_iesc1dd_c107_gen035",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "Using the concept of acceleration, analyze the motion of a freely falling object near the Earth's surface. Explain why its acceleration is nearly constant and how this concept applies to everyday observations.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen036"
+    "question_id": "cbse_ix_iesc1dd_c107_gen036",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "True or False: If an object's velocity remains constant along a straight line, its acceleration is zero.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen037"
+    "question_id": "cbse_ix_iesc1dd_c107_gen037",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "True or False: In a scenario where upward direction is considered positive, a ball thrown vertically upward experiences negative acceleration even as it ascends.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen038"
+    "question_id": "cbse_ix_iesc1dd_c107_gen038",
+    "section_name": "7.3 Rate of Change of Velocity"
   },
   {
     "question_text": "True or False: Uniform acceleration means that the acceleration always acts in the direction of the object's motion.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "06_section_7_3",
-    "question_id": "cbse_ix_iesc1dd_c107_gen039"
+    "question_id": "cbse_ix_iesc1dd_c107_gen039",
+    "section_name": "7.3 Rate of Change of Velocity"
   }
 ]

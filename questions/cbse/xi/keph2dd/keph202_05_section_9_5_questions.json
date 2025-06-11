@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen077"
+    "question_id": "cbse_xi_keph2dd_c202_gen077",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "In the experiment where fluid is enclosed between two parallel plates, if the top plate moves with velocity v and the bottom plate is stationary, what is true about the velocity distribution in the fluid?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen078"
+    "question_id": "cbse_xi_keph2dd_c202_gen078",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "What is the SI unit of viscosity as introduced in the section?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen079"
+    "question_id": "cbse_xi_keph2dd_c202_gen079",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "The shearing stress in a fluid is given by the formula η = F * l / (v * A). Which of the following statements about shearing stress is correct?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen080"
+    "question_id": "cbse_xi_keph2dd_c202_gen080",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "According to Stokes' law, the viscous drag force acting on a sphere moving through a fluid is dependent on:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen081"
+    "question_id": "cbse_xi_keph2dd_c202_gen081",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "Explain why the rate of strain (or strain rate) is used in the definition of viscosity for a flowing fluid rather than the strain itself.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen082"
+    "question_id": "cbse_xi_keph2dd_c202_gen082",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "Describe the no-slip condition in the context of viscous fluid flow and its physical significance.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen083"
+    "question_id": "cbse_xi_keph2dd_c202_gen083",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "Identify and briefly explain three factors that affect the terminal velocity of a sphere falling through a viscous fluid.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen084"
+    "question_id": "cbse_xi_keph2dd_c202_gen084",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "Discuss the derivation of the terminal velocity equation for a sphere falling through a viscous medium. In your discussion, explain how gravitational, buoyant, and viscous drag forces are balanced.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen085"
+    "question_id": "cbse_xi_keph2dd_c202_gen085",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "Evaluate how temperature variations affect the viscosity of liquids and gases. Use examples from the section to support your explanation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen086"
+    "question_id": "cbse_xi_keph2dd_c202_gen086",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "True or False: In viscous fluid flow between two parallel plates, the velocity of the fluid is zero at both plates because of the no-slip condition.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen087"
+    "question_id": "cbse_xi_keph2dd_c202_gen087",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "True or False: According to Stokes' law, the terminal velocity of a sphere is directly proportional to its radius.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen088"
+    "question_id": "cbse_xi_keph2dd_c202_gen088",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "A fluid film of thickness 0.5 mm is placed between a stationary plate and a moving plate with area 0.2 m^2. If a force of 0.4 N is required to move the top plate at a constant speed of 0.08 m/s, calculate the viscosity of the fluid.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen089"
+    "question_id": "cbse_xi_keph2dd_c202_gen089",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "A metal block of area 0.10 m^2 slides over a table with a thin liquid film of thickness 0.30 mm. If a 0.01 kg mass hanging from a pulley provides a force that results in a constant speed of 0.085 m/s for the block, determine the coefficient of viscosity of the liquid.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen090"
+    "question_id": "cbse_xi_keph2dd_c202_gen090",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "A copper ball of radius 2.0 mm falls through oil at 20°C. If its terminal velocity is 6.5 cm/s, the density of copper is 8.9×10^3 kg/m^3, and that of oil is 1.5×10^3 kg/m^3, calculate the viscosity of the oil using Stokes' law.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen091"
+    "question_id": "cbse_xi_keph2dd_c202_gen091",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "A sphere with a radius of 1.5 mm falls through a fluid and reaches a terminal velocity of 0.04 m/s. The density of the sphere is 6000 kg/m^3 and that of the fluid is 1200 kg/m^3. Using Stokes' law, calculate the viscosity of the fluid.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen092"
+    "question_id": "cbse_xi_keph2dd_c202_gen092",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "In an experiment, the velocity profile of a liquid in a pipe is observed to be parabolic and the maximum velocity is measured at the center. Explain why the velocity is zero at the walls and maximum at the center.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen093"
+    "question_id": "cbse_xi_keph2dd_c202_gen093",
+    "section_name": "9.5 VISCOSITY"
   },
   {
     "question_text": "A thin layer of water (viscosity 1.0×10^-3 Ns/m^2) is sheared between two large plates separated by 1.0 mm. If a shearing stress of 500 Pa is applied, what is the rate of strain (velocity gradient) in the water?",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "05_section_9_5",
-    "question_id": "cbse_xi_keph2dd_c202_gen094"
+    "question_id": "cbse_xi_keph2dd_c202_gen094",
+    "section_name": "9.5 VISCOSITY"
   }
 ]

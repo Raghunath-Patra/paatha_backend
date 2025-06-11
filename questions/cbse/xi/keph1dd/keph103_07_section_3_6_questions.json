@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen204"
+    "question_id": "cbse_xi_keph1dd_c103_gen204",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Equation 3.24a, which is R² = A² + B² + 2AB cos θ, is an expression of which important trigonometric law?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen205"
+    "question_id": "cbse_xi_keph1dd_c103_gen205",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "In three-dimensional vector addition, if vector A = Ax i + Ay j + Az k and vector B = Bx i + By j + Bz k, what is the unit vector along which the z-components are added?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen206"
+    "question_id": "cbse_xi_keph1dd_c103_gen206",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Vectors obey certain algebraic properties that allow for reordering during addition. Which two properties are primarily used in reordering the components of vectors?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen207"
+    "question_id": "cbse_xi_keph1dd_c103_gen207",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Which of the following is an advantage of using the analytical method for vector addition over the graphical method?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen208"
+    "question_id": "cbse_xi_keph1dd_c103_gen208",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Define the process of vector addition by components for vectors in the x-y plane.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen209"
+    "question_id": "cbse_xi_keph1dd_c103_gen209",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Express how one subtracts a vector c from the sum of two other vectors a and b using the analytical method.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen210"
+    "question_id": "cbse_xi_keph1dd_c103_gen210",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "What is the primary advantage of using the analytical method of vector addition over the graphical method?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen211"
+    "question_id": "cbse_xi_keph1dd_c103_gen211",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "State the Law of Cosines as it is applied in vector addition for two vectors A and B separated by an angle θ.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen212"
+    "question_id": "cbse_xi_keph1dd_c103_gen212",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Explain in detail how the parallelogram law leads to the magnitude equation R² = A² + B² + 2AB cos θ when two vectors A and B are added.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen213"
+    "question_id": "cbse_xi_keph1dd_c103_gen213",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Discuss how vector addition is extended to three dimensions using component addition, and describe any challenges that may arise in visualizing 3D vectors.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen214"
+    "question_id": "cbse_xi_keph1dd_c103_gen214",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Derive the Law of Sines from the vector addition diagram involving vectors A, B, and their resultant R. Explain the relationship between the angles α, β, and θ in your derivation.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen215"
+    "question_id": "cbse_xi_keph1dd_c103_gen215",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "True or False: The analytical method of vector addition can be applied even if the vectors are not confined to the same plane.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen216"
+    "question_id": "cbse_xi_keph1dd_c103_gen216",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "True or False: In the analytical method, the resultant x-component is always equal to the sum of the individual x-components of the vectors involved.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen217"
+    "question_id": "cbse_xi_keph1dd_c103_gen217",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "True or False: In the provided vector diagram, the projection of vector B onto vector A is always given by A cos θ, where θ is the angle between A and B.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen218"
+    "question_id": "cbse_xi_keph1dd_c103_gen218",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Given vectors A = 3 i + 4 j and B = 1 i + 2 j (in appropriate units), calculate the resultant vector in component form and determine its magnitude.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen219"
+    "question_id": "cbse_xi_keph1dd_c103_gen219",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Two vectors have magnitudes 8 and 5 units and make an angle of 60° with each other. Using the Law of Cosines, calculate the magnitude of their resultant.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen220"
+    "question_id": "cbse_xi_keph1dd_c103_gen220",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "For vectors A = 2 i + 3 j + 4 k and B = -1 i + 0 j + 2 k, find the resultant vector R = A + B and determine its magnitude.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen221"
+    "question_id": "cbse_xi_keph1dd_c103_gen221",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "A motorboat is moving due north at 25 km/h while a water current flows at 10 km/h at 60° east of south. Calculate the magnitude and direction of the boat's resultant velocity.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen222"
+    "question_id": "cbse_xi_keph1dd_c103_gen222",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   },
   {
     "question_text": "Given vectors a = 5 i - 3 j + 4 k, b = -2 i + 7 j - 1 k, and c = 4 i + 1 j + 2 k, calculate the vector T = a + b - c and express T in component form.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph103",
     "section_id": "07_section_3_6",
-    "question_id": "cbse_xi_keph1dd_c103_gen223"
+    "question_id": "cbse_xi_keph1dd_c103_gen223",
+    "section_name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
   }
 ]

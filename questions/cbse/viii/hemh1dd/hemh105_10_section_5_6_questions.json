@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen073"
+    "question_id": "cbse_viii_hemh1dd_c105_gen073",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "When grouping the digits of the decimal part in the square root extraction process, which of the following is the correct procedure?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen074"
+    "question_id": "cbse_viii_hemh1dd_c105_gen074",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "In the long division method for extracting square roots, why do we double the quotient obtained so far before determining the next digit?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen075"
+    "question_id": "cbse_viii_hemh1dd_c105_gen075",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Define the bar method used for extracting square roots from a given number.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen076"
+    "question_id": "cbse_viii_hemh1dd_c105_gen076",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Explain the difference in grouping the integral part and the decimal part of a number when using the square root extraction method.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen077"
+    "question_id": "cbse_viii_hemh1dd_c105_gen077",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Why might you need to append a zero to the decimal part during the square root extraction process?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen078"
+    "question_id": "cbse_viii_hemh1dd_c105_gen078",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Using the long division method, provide a detailed step-by-step solution to extract the square root of 17.64.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen079"
+    "question_id": "cbse_viii_hemh1dd_c105_gen079",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "The area of a square plot is given as 2304 m². Prove that the side length of the square is the square root of 2304. Then, using the bar method, show all the steps to extract the square root.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen080"
+    "question_id": "cbse_viii_hemh1dd_c105_gen080",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Using the bar method, find the square root of 12.25 and show each computation step.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen081"
+    "question_id": "cbse_viii_hemh1dd_c105_gen081",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "There are 2401 students in a school who are arranged in rows and columns such that the number of rows equals the number of columns. Using the long division method, determine the number of rows.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen082"
+    "question_id": "cbse_viii_hemh1dd_c105_gen082",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Using the long division (bar) method, calculate the square root of 289.00. Provide detailed working for each step.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen083"
+    "question_id": "cbse_viii_hemh1dd_c105_gen083",
+    "section_name": "5.6 Square Roots of Decimals"
   },
   {
     "question_text": "Apply the long division method to find the square root of 324.00. Show all your work and explain the reasoning in each step.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "10_section_5_6",
-    "question_id": "cbse_viii_hemh1dd_c105_gen084"
+    "question_id": "cbse_viii_hemh1dd_c105_gen084",
+    "section_name": "5.6 Square Roots of Decimals"
   }
 ]

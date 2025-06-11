@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen028"
+    "question_id": "cbse_xi_kemh1dd_c103_gen028",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Which of the following best describes the property of the sine function with respect to negative angles?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen029"
+    "question_id": "cbse_xi_kemh1dd_c103_gen029",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "What is the domain of the secant (sec x) function?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen030"
+    "question_id": "cbse_xi_kemh1dd_c103_gen030",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Identify the quadrantal angles.",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen031"
+    "question_id": "cbse_xi_kemh1dd_c103_gen031",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Define the sine and cosine functions in terms of the unit circle.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen032"
+    "question_id": "cbse_xi_kemh1dd_c103_gen032",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Explain what quadrantal angles are and provide two examples.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen033"
+    "question_id": "cbse_xi_kemh1dd_c103_gen033",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Describe the behavior of the sine function in the first quadrant compared to the third quadrant.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen034"
+    "question_id": "cbse_xi_kemh1dd_c103_gen034",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Prove that 1 + tan² x = sec² x using the fundamental Pythagorean identity.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen035"
+    "question_id": "cbse_xi_kemh1dd_c103_gen035",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Derive the identity sin² x + cos² x = 1 using the unit circle.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen036"
+    "question_id": "cbse_xi_kemh1dd_c103_gen036",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Given that cos x = -1/3 and x lies in the third quadrant, calculate sin x, tan x, cot x, sec x, and cosec x.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen037"
+    "question_id": "cbse_xi_kemh1dd_c103_gen037",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Evaluate sin (31π/3) by reducing the angle to its equivalent within the first revolution.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen038"
+    "question_id": "cbse_xi_kemh1dd_c103_gen038",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Find the value of cos (–1710°) by reducing it to an equivalent angle.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen039"
+    "question_id": "cbse_xi_kemh1dd_c103_gen039",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "State the domain and range of the cosecant (cosec x) function.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen040"
+    "question_id": "cbse_xi_kemh1dd_c103_gen040",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "In which of the following quadrants is the tangent function negative?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen041"
+    "question_id": "cbse_xi_kemh1dd_c103_gen041",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Given that cot x = -1/12 and x lies in the second quadrant, find the values of sin x, cos x, tan x, sec x, and cosec x.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen042"
+    "question_id": "cbse_xi_kemh1dd_c103_gen042",
+    "section_name": "3.3 Trigonometric Functions"
   },
   {
     "question_text": "Discuss the periodicity of the sine function compared to the tangent function. Why does sine have a period of 2π while tangent has a period of π?",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "05_section_3_3",
-    "question_id": "cbse_xi_kemh1dd_c103_gen043"
+    "question_id": "cbse_xi_kemh1dd_c103_gen043",
+    "section_name": "3.3 Trigonometric Functions"
   }
 ]

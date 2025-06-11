@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen013"
+    "question_id": "cbse_x_jemh1dd_c110_gen013",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "Consider the activity with the rotating wire AB about point P on a circular wire. Which observation correctly supports the existence of a unique tangent at the point of contact?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen014"
+    "question_id": "cbse_x_jemh1dd_c110_gen014",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "In Activity 2, while drawing lines parallel to a given secant, it was observed that there cannot be more than two tangents parallel to the secant. Which option correctly explains this observation?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen015"
+    "question_id": "cbse_x_jemh1dd_c110_gen015",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "Define the term 'point of contact' in the context of a tangent to a circle.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen016"
+    "question_id": "cbse_x_jemh1dd_c110_gen016",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "Using the activity with the rotating wire AB, explain why there is exactly one tangent to a circle at any given point on its circumference.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen017"
+    "question_id": "cbse_x_jemh1dd_c110_gen017",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "What is the etymology of the word 'tangent' as used in geometry?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen018"
+    "question_id": "cbse_x_jemh1dd_c110_gen018",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "State Theorem 10.1 regarding a tangent to a circle.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen019"
+    "question_id": "cbse_x_jemh1dd_c110_gen019",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "Prove that, when a line is tangent to a circle, the radius drawn to the point of tangency is the shortest distance from the centre to the line.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen020"
+    "question_id": "cbse_x_jemh1dd_c110_gen020",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "Using the observations from Activity 1 and Activity 2, explain how a tangent can be viewed as a limiting case of a secant. Provide a detailed explanation.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen021"
+    "question_id": "cbse_x_jemh1dd_c110_gen021",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "Consider a circle with centre O(0, 0) and radius 5. Find the equation of the tangent line to the circle at the point P(3, 4).",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen022"
+    "question_id": "cbse_x_jemh1dd_c110_gen022",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "A wheel of radius 0.5 m is rolling on a flat surface. Calculate the distance covered by the wheel in one complete revolution.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen023"
+    "question_id": "cbse_x_jemh1dd_c110_gen023",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "For the circle x² + y² = 25, find the value(s) of k for which the line y = -¾x + k is tangent to the circle.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen024"
+    "question_id": "cbse_x_jemh1dd_c110_gen024",
+    "section_name": "10.2 Tangent to a Circle"
   },
   {
     "question_text": "For the circle (x - 2)² + (y + 1)² = 10, find the equation of the tangent line at the point P(2+√10, -1).",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "02_section_10_2",
-    "question_id": "cbse_x_jemh1dd_c110_gen025"
+    "question_id": "cbse_x_jemh1dd_c110_gen025",
+    "section_name": "10.2 Tangent to a Circle"
   }
 ]

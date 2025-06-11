@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "13.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "13.2 ATOMIC MASSES AND COMPOSITION OF NUCLEUS"
+    },
+    {
+      "number": 3,
+      "name": "13.3 SIZE OF THE NUCLEUS"
+    },
+    {
+      "number": 4,
+      "name": "13.4 MASS-ENERGY AND NUCLEAR BINDING ENERGY"
+    },
+    {
+      "number": 5,
+      "name": "13.5 NUCLEAR FORCE"
+    },
+    {
+      "number": 6,
+      "name": "13.6 RADIOACTIVITY"
+    },
+    {
+      "number": 7,
+      "name": "13.7 NUCLEAR ENERGY"
+    }
+  ]
+}

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen090"
+    "question_id": "cbse_xii_leph2dd_c206_gen090",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "In a full-wave rectifier that utilizes a centre-tap transformer and two diodes, what happens during one positive half-cycle of the AC input?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen091"
+    "question_id": "cbse_xii_leph2dd_c206_gen091",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Which component is added to a rectifier circuit to reduce the ac ripple and produce a more steady dc voltage?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen092"
+    "question_id": "cbse_xii_leph2dd_c206_gen092",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Which of the following accurately describes the role of the diode in a rectifier circuit?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen093"
+    "question_id": "cbse_xii_leph2dd_c206_gen093",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Which rectifier circuit is considered more efficient in converting AC to DC?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen094"
+    "question_id": "cbse_xii_leph2dd_c206_gen094",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Explain the operation of a half-wave rectifier and describe how the output waveform is obtained.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen095"
+    "question_id": "cbse_xii_leph2dd_c206_gen095",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Define reverse saturation current in the context of diode operation and explain its significance in rectifier circuits.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen096"
+    "question_id": "cbse_xii_leph2dd_c206_gen096",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Describe how a capacitor filter works in the rectifier circuit to reduce the ac ripple and achieve a smoother dc output.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen097"
+    "question_id": "cbse_xii_leph2dd_c206_gen097",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "What is meant by the time constant in a capacitor filter circuit, and which parameters does it depend on?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen098"
+    "question_id": "cbse_xii_leph2dd_c206_gen098",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Compare and contrast the half-wave and full-wave rectifier circuits, focusing on their circuit configuration, output waveform, and efficiency.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen099"
+    "question_id": "cbse_xii_leph2dd_c206_gen099",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Analyze the operation of a centre-tap full-wave rectifier circuit. Describe the conduction process for each half-cycle, indicating the role of the transformer and diodes in producing the full-wave rectified output.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen100"
+    "question_id": "cbse_xii_leph2dd_c206_gen100",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Evaluate the role of a capacitor filter in a rectifier circuit. Discuss its effect on the output voltage and suggest any improvements or alternatives for achieving a purer dc output.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen101"
+    "question_id": "cbse_xii_leph2dd_c206_gen101",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "True or False: In a half-wave rectifier, output voltage is produced during both the positive and negative half-cycles of the ac input.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen102"
+    "question_id": "cbse_xii_leph2dd_c206_gen102",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "True or False: A full-wave rectifier using two diodes requires a centre-tap transformer to properly rectify both halves of the ac input.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen103"
+    "question_id": "cbse_xii_leph2dd_c206_gen103",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "True or False: Using a reverse breakdown voltage lower than the peak ac voltage in a rectifier circuit protects the diode from reverse breakdown.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen104"
+    "question_id": "cbse_xii_leph2dd_c206_gen104",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "A half-wave rectifier circuit is supplied with an AC input having a peak voltage of 10 V. Assuming an ideal diode and no filtering, calculate the average dc output voltage across the load resistor.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen105"
+    "question_id": "cbse_xii_leph2dd_c206_gen105",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "A full-wave rectifier circuit using a centre-tap transformer produces a peak voltage of 15 V across the load resistor. Determine the average dc output voltage of the circuit.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen106"
+    "question_id": "cbse_xii_leph2dd_c206_gen106",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "Determine the time constant for a capacitor filter used in a rectifier circuit if the capacitance is 1000 μF and the load resistance is 1 kΩ.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen107"
+    "question_id": "cbse_xii_leph2dd_c206_gen107",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "A full-wave rectifier supplies a load current of 10 mA and has a ripple frequency of 100 Hz. If the desired ripple voltage is less than 0.5 V, calculate the minimum capacitance required for the filter.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen108"
+    "question_id": "cbse_xii_leph2dd_c206_gen108",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   },
   {
     "question_text": "In a half-wave rectifier circuit with a capacitor filter, the capacitor charges to 10 V at the peak of the waveform. If the time constant is 0.5 s, calculate the voltage across the capacitor after 0.5 s of discharge (assuming no recharge during this interval).",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xii_leph2dd_c206_gen109"
+    "question_id": "cbse_xii_leph2dd_c206_gen109",
+    "section_name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
   }
 ]

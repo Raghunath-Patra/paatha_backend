@@ -263,7 +263,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen053"
+    "question_id": "cbse_xi_keph2dd_c207_gen053",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "In the context of a transverse wave on a stretched string, which property does NOT affect the wave speed?",
@@ -282,7 +283,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen054"
+    "question_id": "cbse_xi_keph2dd_c207_gen054",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Figure 14.8 shows a wave pattern at times t and t + Δt. What does the horizontal shift Δx represent in this figure?",
@@ -301,7 +303,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen055"
+    "question_id": "cbse_xi_keph2dd_c207_gen055",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Newton’s formula for the speed of sound in a medium assumes isothermal conditions. What correction did Laplace introduce to account for the actual rapid variations in sound waves?",
@@ -320,7 +323,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen056"
+    "question_id": "cbse_xi_keph2dd_c207_gen056",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Which of the following expressions correctly provides the speed of longitudinal waves in a solid bar using Young's modulus?",
@@ -339,7 +343,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen057"
+    "question_id": "cbse_xi_keph2dd_c207_gen057",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Explain why a fixed phase point on a traveling wave moves with constant speed regardless of its phase.",
@@ -353,7 +358,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen058"
+    "question_id": "cbse_xi_keph2dd_c207_gen058",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Describe the dependence of the speed of a transverse wave on a string in terms of the string’s tension and linear mass density.",
@@ -367,7 +373,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen059"
+    "question_id": "cbse_xi_keph2dd_c207_gen059",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "What role does the bulk modulus play in determining the speed of longitudinal waves in a medium?",
@@ -381,7 +388,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen060"
+    "question_id": "cbse_xi_keph2dd_c207_gen060",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Derive the formula for the speed of a traveling wave, v = ω/k, starting from the condition of constant phase.",
@@ -395,7 +403,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen061"
+    "question_id": "cbse_xi_keph2dd_c207_gen061",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Discuss the Laplace correction to Newton's formula for the speed of sound in an ideal gas. In your discussion, explain how the assumption of adiabatic instead of isothermal processes affects the calculated speed of sound.",
@@ -409,7 +418,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen062"
+    "question_id": "cbse_xi_keph2dd_c207_gen062",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "True or False: The speed of a transverse wave on a stretched string depends on its frequency.",
@@ -423,7 +433,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen063"
+    "question_id": "cbse_xi_keph2dd_c207_gen063",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "True or False: In an adiabatic process for the propagation of sound in a gas, the bulk modulus is equal to γ times the pressure.",
@@ -437,7 +448,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen064"
+    "question_id": "cbse_xi_keph2dd_c207_gen064",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "A string 2.0 m long has a mass of 0.05 kg and is under a tension of 80 N. Calculate the speed of transverse waves on this string.",
@@ -451,7 +463,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen065"
+    "question_id": "cbse_xi_keph2dd_c207_gen065",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "A steel wire 0.72 m long has a mass of 5.0×10^(-3) kg and is under a tension of 60 N. Determine the speed of transverse waves along the wire.",
@@ -465,7 +478,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen066"
+    "question_id": "cbse_xi_keph2dd_c207_gen066",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Using Newton's formula with the Laplace correction, calculate the speed of sound in air at STP given that the atmospheric pressure is 1.01×10^5 N/m², the density is 1.29 kg/m³, and γ = 1.4.",
@@ -479,7 +493,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen067"
+    "question_id": "cbse_xi_keph2dd_c207_gen067",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "An ideal gas at STP occupies a volume of 22.4×10^(-3) m³ per mole with a molar mass of 29.0×10^(-3) kg. Using Newton's formula without Laplace correction, calculate the speed of sound. Then, explain why this result is lower than the experimental value.",
@@ -493,7 +508,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "04_section_14_4",
-    "question_id": "cbse_xi_keph2dd_c207_gen068"
+    "question_id": "cbse_xi_keph2dd_c207_gen068",
+    "section_name": "14.4 THE SPEED OF A TRAVELLING WAVE"
   },
   {
     "question_text": "Which of the following phase changes occurs when a wave pulse is reflected at a rigid boundary?",
@@ -512,7 +528,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen088"
+    "question_id": "cbse_xi_keph2dd_c207_gen088",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "When a wave is reflected from an open boundary, what happens to the phase of the reflected wave?",
@@ -531,7 +548,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen089"
+    "question_id": "cbse_xi_keph2dd_c207_gen089",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Which condition is satisfied at a node in a standing wave on a string?",
@@ -550,7 +568,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen090"
+    "question_id": "cbse_xi_keph2dd_c207_gen090",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "In a string fixed at both ends, the distance between any two successive nodes is equal to:",
@@ -569,7 +588,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen091"
+    "question_id": "cbse_xi_keph2dd_c207_gen091",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "For an air column with one end closed and one end open, which harmonics are allowed?",
@@ -588,7 +608,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen092"
+    "question_id": "cbse_xi_keph2dd_c207_gen092",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Explain how a standing wave is formed on a stretched string fixed at both ends. Include in your answer the role of incident and reflected waves.",
@@ -602,7 +623,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen093"
+    "question_id": "cbse_xi_keph2dd_c207_gen093",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Derive the relation between the length L of a stretched string fixed at both ends and the allowed wavelengths of its standing waves.",
@@ -616,7 +638,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen094"
+    "question_id": "cbse_xi_keph2dd_c207_gen094",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Discuss how the concept of normal modes in air columns affects the design of musical instruments such as organ pipes.",
@@ -630,7 +653,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen095"
+    "question_id": "cbse_xi_keph2dd_c207_gen095",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "State the conditions for node and antinode formation in a standing wave on a string.",
@@ -644,7 +668,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen096"
+    "question_id": "cbse_xi_keph2dd_c207_gen096",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "What is the effect of a non-rigid boundary on the phase and amplitude of a reflected wave pulse on a string?",
@@ -658,7 +683,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen097"
+    "question_id": "cbse_xi_keph2dd_c207_gen097",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Briefly explain how the principle of superposition leads to the formation of standing waves on a string.",
@@ -672,7 +698,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen098"
+    "question_id": "cbse_xi_keph2dd_c207_gen098",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Identify and explain two key differences between standing waves on a string and standing pressure waves in an air column with one end closed.",
@@ -686,7 +713,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen099"
+    "question_id": "cbse_xi_keph2dd_c207_gen099",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "True or False: When a transverse wave pulse reflects from a rigid boundary, the pulse maintains its original orientation.",
@@ -700,7 +728,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen100"
+    "question_id": "cbse_xi_keph2dd_c207_gen100",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "True or False: In a standing wave pattern on a stretched string, all points along the string oscillate in phase.",
@@ -714,7 +743,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen101"
+    "question_id": "cbse_xi_keph2dd_c207_gen101",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "True or False: Only odd harmonics can resonate in an air column that is open at both ends.",
@@ -728,7 +758,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen102"
+    "question_id": "cbse_xi_keph2dd_c207_gen102",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "A 30.0-cm long pipe is open at both ends and the speed of sound in air is 330 m/s. Calculate the fundamental frequency of the pipe and identify the harmonic that would resonate with a 1.1 kHz sound source.",
@@ -742,7 +773,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen103"
+    "question_id": "cbse_xi_keph2dd_c207_gen103",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "A string 1.5 m long is fixed at both ends and supports waves traveling at 120 m/s. Determine the wavelengths and frequencies of the first three harmonics on the string.",
@@ -756,7 +788,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen104"
+    "question_id": "cbse_xi_keph2dd_c207_gen104",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "A pipe closed at one end and 0.30 m long has a fundamental frequency given by f1 = v/(4L). With v = 330 m/s, calculate the fundamental frequency. If a source emits at 1.1 kHz, will resonance occur in this setup?",
@@ -770,7 +803,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen105"
+    "question_id": "cbse_xi_keph2dd_c207_gen105",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Design a simple experiment to demonstrate the formation of standing waves on a stretched string. Explain what measurements you would take and how you would verify the wave properties described in the theory.",
@@ -784,7 +818,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen106"
+    "question_id": "cbse_xi_keph2dd_c207_gen106",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Which of the following conditions is necessary for the observation of beats when two sound waves interfere?",
@@ -803,7 +838,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "07_section_14_7",
-    "question_id": "cbse_xi_keph2dd_c207_gen107"
+    "question_id": "cbse_xi_keph2dd_c207_gen107",
+    "section_name": "14.7 BEATS"
   },
   {
     "question_text": "Which type of wave does not require a medium for its propagation?",
@@ -822,7 +858,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen001"
+    "question_id": "cbse_xi_keph2dd_c207_gen001",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "In sound wave propagation, change in which quantity is analogous to the extension or compression of a spring?",
@@ -841,7 +878,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen002"
+    "question_id": "cbse_xi_keph2dd_c207_gen002",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Which historical figure among the following was known for early scientific analysis of wave motion?",
@@ -860,7 +898,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen003"
+    "question_id": "cbse_xi_keph2dd_c207_gen003",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Which statement best illustrates the concept that a wave transports energy without the bulk movement of matter?",
@@ -879,7 +918,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen004"
+    "question_id": "cbse_xi_keph2dd_c207_gen004",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "What is the moving pattern created by disturbances that propagates energy in the medium called?",
@@ -898,7 +938,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen005"
+    "question_id": "cbse_xi_keph2dd_c207_gen005",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Define a mechanical wave and give one example from everyday life.",
@@ -912,7 +953,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen006"
+    "question_id": "cbse_xi_keph2dd_c207_gen006",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the mechanism of wave propagation in a system of connected springs when one end is disturbed.",
@@ -926,7 +968,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen007"
+    "question_id": "cbse_xi_keph2dd_c207_gen007",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Why do sound waves require a medium to propagate? Illustrate using the concept of restoring forces.",
@@ -940,7 +983,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen008"
+    "question_id": "cbse_xi_keph2dd_c207_gen008",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Describe how the propagation of ripples in a pond, when a pebble is dropped, exemplifies the concept of wave motion.",
@@ -954,7 +998,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen009"
+    "question_id": "cbse_xi_keph2dd_c207_gen009",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss in detail the process of wave propagation in a system of coupled springs and relate it to the propagation of sound in air.",
@@ -968,7 +1013,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen010"
+    "question_id": "cbse_xi_keph2dd_c207_gen010",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Compare and contrast mechanical, electromagnetic, and matter waves in terms of their need for a medium and their roles in modern technology.",
@@ -982,7 +1028,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen011"
+    "question_id": "cbse_xi_keph2dd_c207_gen011",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "In a string fixed at one end, particles oscillate perpendicular to the direction of the wave. True or False?",
@@ -996,7 +1043,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen012"
+    "question_id": "cbse_xi_keph2dd_c207_gen012",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "All waves, regardless of type, require a material medium for their propagation. True or False?",
@@ -1010,7 +1058,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen013"
+    "question_id": "cbse_xi_keph2dd_c207_gen013",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "A mechanical wave travels along a medium at a speed of 10 m/s. If it takes 5 seconds for a disturbance to travel from one end to the other, what is the length of the medium?",
@@ -1024,7 +1073,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen014"
+    "question_id": "cbse_xi_keph2dd_c207_gen014",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Light travels in vacuum at a speed of 299,792,458 m/s. Calculate the time it takes for light to travel a distance of 3 x 10^8 m.",
@@ -1038,7 +1088,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen015"
+    "question_id": "cbse_xi_keph2dd_c207_gen015",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Sound travels in air at approximately 343 m/s. Estimate the time required for sound to cover a distance of 686 m.",
@@ -1052,7 +1103,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen016"
+    "question_id": "cbse_xi_keph2dd_c207_gen016",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "A series of oscillating springs produces a wave pulse and each spring oscillates with a period of 2 seconds. What is the frequency of this oscillation?",
@@ -1066,7 +1118,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "01_section_14_1",
-    "question_id": "cbse_xi_keph2dd_c207_gen017"
+    "question_id": "cbse_xi_keph2dd_c207_gen017",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "In the wave equation y(x,t) = a sin(kx - ωt + φ), what does the constant 'a' represent?",
@@ -1085,7 +1138,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen034"
+    "question_id": "cbse_xi_keph2dd_c207_gen034",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "In the function y(x,t) = a sin(kx - ωt + φ), which parameter gives the initial phase angle when x = 0 and t = 0?",
@@ -1104,7 +1158,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen035"
+    "question_id": "cbse_xi_keph2dd_c207_gen035",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Which of the following correctly describes the wavelength (λ) in terms of the angular wave number (k)?",
@@ -1123,7 +1178,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen036"
+    "question_id": "cbse_xi_keph2dd_c207_gen036",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Consider the function y(x,0) = a sin(kx) that represents the wave at t = 0. What is the interpretation of the periodicity of sin(kx) in terms of spatial repetition?",
@@ -1142,7 +1198,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen037"
+    "question_id": "cbse_xi_keph2dd_c207_gen037",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "In the wave equation y(x,t) = a sin(kx - ωt + φ), what does the term (kx - ωt + φ) determine?",
@@ -1161,7 +1218,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen038"
+    "question_id": "cbse_xi_keph2dd_c207_gen038",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Define the amplitude and phase in the context of a sinusoidal travelling wave. Include their physical interpretations.",
@@ -1175,7 +1233,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen039"
+    "question_id": "cbse_xi_keph2dd_c207_gen039",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Explain how the displacement function y(x,t) = a sin(kx - ωt + φ) represents both the spatial shape of a wave and the time evolution of the oscillating medium.",
@@ -1189,7 +1248,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen040"
+    "question_id": "cbse_xi_keph2dd_c207_gen040",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "What is the relation between the angular frequency ω and the period T of the wave? Provide the formula.",
@@ -1203,7 +1263,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen041"
+    "question_id": "cbse_xi_keph2dd_c207_gen041",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Derive the expression for the wavelength λ in terms of the angular wave number k for a traveling wave.",
@@ -1217,7 +1278,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen042"
+    "question_id": "cbse_xi_keph2dd_c207_gen042",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Discuss the differences between the displacement functions for transverse and longitudinal waves, and explain the significance of each parameter in the function.",
@@ -1231,7 +1293,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen043"
+    "question_id": "cbse_xi_keph2dd_c207_gen043",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Explain how the graph of y(x,t) = a sin(kx - ωt + φ) changes with time. Discuss what physical information can be obtained by monitoring specific features such as crests and a fixed point on the medium.",
@@ -1245,7 +1308,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen044"
+    "question_id": "cbse_xi_keph2dd_c207_gen044",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Analyze Example 14.2 by discussing how to extract amplitude, wavelength, period, frequency, and displacement from the wave equation y(x,t) = 0.005 sin(80.0 x - 3.0t). Provide a step-by-step explanation.",
@@ -1259,7 +1323,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen045"
+    "question_id": "cbse_xi_keph2dd_c207_gen045",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "True or False: For a wave described by y(x,t) = a sin(kx - ωt + φ), the displacement never exceeds the magnitude of a, always remaining between -a and a.",
@@ -1273,7 +1338,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen046"
+    "question_id": "cbse_xi_keph2dd_c207_gen046",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "True or False: A positive sign in front of the ωt term in the sine function's argument of a wave equation always indicates that the wave is traveling in the positive x-direction.",
@@ -1287,7 +1353,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen047"
+    "question_id": "cbse_xi_keph2dd_c207_gen047",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "A wave has an angular wave number k = 50 rad/m. Calculate its wavelength.",
@@ -1301,7 +1368,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen048"
+    "question_id": "cbse_xi_keph2dd_c207_gen048",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "A wave has an angular frequency ω = 10 rad/s. Determine its period and frequency.",
@@ -1315,7 +1383,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen049"
+    "question_id": "cbse_xi_keph2dd_c207_gen049",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Determine the displacement of a wave described by y(x,t) = 0.01 sin(100x - 20t) at position x = 0.05 m and time t = 0.1 s.",
@@ -1329,7 +1398,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen050"
+    "question_id": "cbse_xi_keph2dd_c207_gen050",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "A longitudinal wave is described by s(x,t) = 0.002 sin(60x - 12t). Calculate its wavelength and determine the direction of propagation.",
@@ -1343,7 +1413,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen051"
+    "question_id": "cbse_xi_keph2dd_c207_gen051",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Re-calculate the displacement for the wave y(x,t) = 0.005 sin(80x - 3t) at x = 0.30 m and t = 20 s, showing your work and rounding your final answer appropriately.",
@@ -1357,7 +1428,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "03_section_14_3",
-    "question_id": "cbse_xi_keph2dd_c207_gen052"
+    "question_id": "cbse_xi_keph2dd_c207_gen052",
+    "section_name": "14.3 DISPLACEMENT RELATION IN A PROGRESSIVE WAVE"
   },
   {
     "question_text": "Which of the following best describes a transverse wave?",
@@ -1376,7 +1448,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen018"
+    "question_id": "cbse_xi_keph2dd_c207_gen018",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "How does the motion of particles differ in transverse and longitudinal waves?",
@@ -1395,7 +1468,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen019"
+    "question_id": "cbse_xi_keph2dd_c207_gen019",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "In which of the following media can transverse waves be propagated?",
@@ -1414,7 +1488,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen020"
+    "question_id": "cbse_xi_keph2dd_c207_gen020",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "Which example from Example 14.1 demonstrates combined transverse and longitudinal wave motion?",
@@ -1433,7 +1508,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen021"
+    "question_id": "cbse_xi_keph2dd_c207_gen021",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "What is the main restoring force for capillary waves on the surface of water?",
@@ -1452,7 +1528,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen022"
+    "question_id": "cbse_xi_keph2dd_c207_gen022",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "Define a longitudinal wave and provide one example mentioned in the section.",
@@ -1466,7 +1543,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen023"
+    "question_id": "cbse_xi_keph2dd_c207_gen023",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "Compare the oscillatory motion of elements in transverse waves versus longitudinal waves.",
@@ -1480,7 +1558,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen024"
+    "question_id": "cbse_xi_keph2dd_c207_gen024",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "Explain why fluids cannot support transverse waves but can support longitudinal waves.",
@@ -1494,7 +1573,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen025"
+    "question_id": "cbse_xi_keph2dd_c207_gen025",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "Discuss the phenomenon of standing waves in a column as described in Fig. 14.4. In your explanation, include how nodes and antinodes are formed due to the superposition of waves.",
@@ -1508,7 +1588,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen026"
+    "question_id": "cbse_xi_keph2dd_c207_gen026",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "Compare progressive (traveling) waves with streams. Explain why, in wave motion, it is the disturbance that moves rather than the medium as a whole. Provide relevant examples from the section.",
@@ -1522,7 +1603,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen027"
+    "question_id": "cbse_xi_keph2dd_c207_gen027",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "True or False: In a transverse wave, the oscillation of the medium is parallel to the direction of wave propagation.",
@@ -1536,7 +1618,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen028"
+    "question_id": "cbse_xi_keph2dd_c207_gen028",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "True or False: Only solids can support transverse waves, while both solids and fluids can support longitudinal waves.",
@@ -1550,7 +1633,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen029"
+    "question_id": "cbse_xi_keph2dd_c207_gen029",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "A stretched string shows a single pulse traveling along it with a characteristic amplitude. In a different experiment, a continuous sinusoidal wave is generated on the same string with a frequency of 10 Hz and a wavelength of 2 m. Calculate the wave speed on the string.",
@@ -1564,7 +1648,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen030"
+    "question_id": "cbse_xi_keph2dd_c207_gen030",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "A longitudinal sound wave travels in a pipe at a speed of 340 m/s and has a frequency of 170 Hz. Calculate the wavelength of this sound wave.",
@@ -1578,7 +1663,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen031"
+    "question_id": "cbse_xi_keph2dd_c207_gen031",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "A gravity wave on the water surface has a wavelength of 100 m. Assuming deep water conditions, with the gravitational acceleration g = 9.8 m/s², estimate the wave speed using the deep water wave formula v = √(g × λ / (2π)).",
@@ -1592,7 +1678,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen032"
+    "question_id": "cbse_xi_keph2dd_c207_gen032",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "An ultrasonic wave is generated in air by a vibrating quartz crystal operating at a frequency of 40 kHz. Given that the speed of sound in air is approximately 340 m/s, calculate the wavelength of the ultrasonic wave.",
@@ -1606,7 +1693,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "02_section_14_2",
-    "question_id": "cbse_xi_keph2dd_c207_gen033"
+    "question_id": "cbse_xi_keph2dd_c207_gen033",
+    "section_name": "14.2 TRANSVERSE AND LONGITUDINAL WAVES"
   },
   {
     "question_text": "What does the principle of superposition of waves state?",
@@ -1625,7 +1713,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen069"
+    "question_id": "cbse_xi_keph2dd_c207_gen069",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "When two wave pulses of equal and opposite displacements overlap completely, their displacements cancel. This situation is an example of which type of interference?",
@@ -1644,7 +1733,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen070"
+    "question_id": "cbse_xi_keph2dd_c207_gen070",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Consider two harmonic waves with displacement functions y1 = a sin(kx - ωt) and y2 = a sin(kx - ωt + φ). What is the resultant amplitude when the phase difference φ equals zero?",
@@ -1663,7 +1753,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen071"
+    "question_id": "cbse_xi_keph2dd_c207_gen071",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "When two wave pulses traveling in opposite directions cross each other, what is observed after they cross?",
@@ -1682,7 +1773,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen072"
+    "question_id": "cbse_xi_keph2dd_c207_gen072",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Which of the following equations correctly represents the principle of superposition of two wave disturbances?",
@@ -1701,7 +1793,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen073"
+    "question_id": "cbse_xi_keph2dd_c207_gen073",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Explain in your own words why wave pulses retain their individual identities after crossing each other.",
@@ -1715,7 +1808,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen074"
+    "question_id": "cbse_xi_keph2dd_c207_gen074",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Write the mathematical expression for the superposition principle when two waves y1(x,t) and y2(x,t) overlap in a medium.",
@@ -1729,7 +1823,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen075"
+    "question_id": "cbse_xi_keph2dd_c207_gen075",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Describe what happens during destructive interference of two waves.",
@@ -1743,7 +1838,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen076"
+    "question_id": "cbse_xi_keph2dd_c207_gen076",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "How does the phase difference between two harmonic waves affect the amplitude of their resultant wave when they superimpose?",
@@ -1757,7 +1853,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen077"
+    "question_id": "cbse_xi_keph2dd_c207_gen077",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Discuss the principle of superposition of waves and explain how it applies to harmonic waves with a phase difference. Include relevant equations in your explanation.",
@@ -1771,7 +1868,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen078"
+    "question_id": "cbse_xi_keph2dd_c207_gen078",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Analyze the phenomenon of interference using the principle of superposition. Compare constructive and destructive interference, including their mathematical derivations.",
@@ -1785,7 +1883,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen079"
+    "question_id": "cbse_xi_keph2dd_c207_gen079",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Evaluate an experimental setup designed to demonstrate the superposition principle in wave pulses on a string. Identify potential sources of error and suggest improvements.",
@@ -1799,7 +1898,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen080"
+    "question_id": "cbse_xi_keph2dd_c207_gen080",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "True or False: According to the principle of superposition, the net displacement in a medium is the product of the individual displacements of overlapping wave pulses.",
@@ -1813,7 +1913,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen081"
+    "question_id": "cbse_xi_keph2dd_c207_gen081",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "True or False: Destructive interference always results in complete cancellation of the wave displacement at all points in space.",
@@ -1827,7 +1928,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen082"
+    "question_id": "cbse_xi_keph2dd_c207_gen082",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Two wave pulses with an amplitude of 3 cm travel in opposite directions along a rope. If one pulse has positive displacement and the other has an equal negative displacement, what is the net displacement at the point of complete overlap? Provide your answer with appropriate units.",
@@ -1841,7 +1943,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen083"
+    "question_id": "cbse_xi_keph2dd_c207_gen083",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Two harmonic waves are described by y1 = 5 sin(2x - 3t) and y2 = 5 sin(2x - 3t + π). Calculate the resultant displacement, amplitude, and write the expression for the resultant wave.",
@@ -1855,7 +1958,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen084"
+    "question_id": "cbse_xi_keph2dd_c207_gen084",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Using the expression y = 2a sin(kx - ωt + φ/2) cos(φ/2), calculate the amplitude of the resultant wave if a = 4 cm and φ = π/3. Provide your answer with units.",
@@ -1869,7 +1973,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen085"
+    "question_id": "cbse_xi_keph2dd_c207_gen085",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Given two harmonic waves with displacement functions y1 = 2 sin(4x - 2t) and y2 = 2 sin(4x - 2t + φ) where φ = π/2, calculate the amplitude of the resultant wave using the superposition principle.",
@@ -1883,7 +1988,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen086"
+    "question_id": "cbse_xi_keph2dd_c207_gen086",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "A stretched string supports two in-phase harmonic waves, both described by y1 = a sin(kx - ωt) with a = 2 cm, and y2 = a sin(kx - ωt). When they are superimposed, what is the amplitude and equation of the resultant wave?",
@@ -1897,6 +2003,7 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen087"
+    "question_id": "cbse_xi_keph2dd_c207_gen087",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   }
 ]

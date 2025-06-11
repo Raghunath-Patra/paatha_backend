@@ -1126,3 +1126,1362 @@ async def debug_file_paths(
         return results
     except Exception as e:
         return {"error": str(e)}
+
+
+
+# Add these endpoints to main.py (append to existing content)
+
+# =====================================================================================
+# SECTION & EXERCISE QUESTION ENDPOINTS
+# Database structure note: 
+# - Question.chapter: integer (1, 2, 3, etc.)
+# - Question.section_id: string ("06_section_2_3" where:
+#   * "06" = useless prefix (ignore)
+#   * "section_2_3" = chapter 2, section 3)
+# =====================================================================================
+
+@app.get("/api/questions/{board}/{class_}/{subject}/{chapter}/exercise/random")
+async def get_random_exercise_question(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get random exercise question from entire chapter"""
+    try:
+        # SINGLE COMPREHENSIVE STATUS CHECK
+        user_status = consolidated_service.get_comprehensive_user_status(current_user['id'], db)
+        
+        # Check if user can fetch questions
+        permission_check = consolidated_service.check_can_perform_action(user_status, "fetch_question")
+        
+        if not permission_check["allowed"]:
+            logger.info(f"User {current_user['id']} cannot fetch exercise question: {permission_check['reason']}")
+            raise HTTPException(
+                status_code=402,  # Payment Required
+                detail=permission_check["reason"]
+            )
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        logger.info(f"Searching for random exercise question with:")
+        logger.info(f"Original request: {board}/{class_}/{subject}")
+        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        
+        clean_board = actual_board
+        clean_class = actual_class
+        clean_subject = actual_subject.replace('-', '_')
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        try:
+            chapter_int = int(clean_chapter)
+            base_chapter = chapter_int
+            
+            if chapter_int > 100:
+                base_chapter = chapter_int % 100
+            
+            chapter_conditions = [
+                Question.chapter == base_chapter,
+                Question.chapter == (100 + base_chapter)
+            ]
+        except ValueError:
+            chapter_conditions = [
+                Question.chapter == clean_chapter
+            ]
+        
+        # Query for exercise questions (typically chapter > 100 indicates exercise questions)
+        query = db.query(Question).filter(
+            Question.board == clean_board,
+            Question.class_level == clean_class,
+            Question.subject == clean_subject,
+            or_(*chapter_conditions)
+        )
+        
+        count = query.count()
+        logger.info(f"Found {count} exercise questions matching criteria")
+        
+        if count > 0:
+            question = query.order_by(func.random()).first()
+        else:
+            # Fallback: try just with subject and chapter
+            fallback_query = db.query(Question).filter(
+                Question.subject == clean_subject,
+                or_(*chapter_conditions)
+            )
+            
+            fallback_count = fallback_query.count()
+            logger.info(f"Exercise fallback query found {fallback_count} questions")
+            
+            if fallback_count > 0:
+                question = fallback_query.order_by(func.random()).first()
+                logger.info(f"Using fallback exercise question with ID: {question.id}")
+            else:
+                logger.warning(f"No exercise questions found for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}")
+                return create_placeholder_question(clean_board, clean_class, clean_subject, clean_chapter)
+        
+        # Reset per-question token usage when new question is loaded
+        if question:
+            reset_query = text("""
+                UPDATE user_attempts
+                SET input_tokens_used = 0, output_tokens_used = 0
+                WHERE user_id = :user_id AND question_id = :question_id
+            """)
+            try:
+                db.execute(reset_query, {"user_id": current_user['id'], "question_id": str(question.id)})
+                db.commit()
+            except Exception as reset_error:
+                logger.error(f"Error resetting question tokens: {str(reset_error)}")
+                db.rollback()
+        
+        # Get statistics and prepare response
+        stats = get_question_statistics(db, question.id)
+        question_data = prepare_question_response(question, stats, clean_board, clean_class, clean_subject, clean_chapter)
+        active_questions[str(question.id)] = question_data
+        
+        # Schedule background token usage update
+        consolidated_service.update_user_usage(
+            user_id=current_user['id'],
+            question_id=str(question.id),
+            input_tokens=50,
+            output_tokens=0,
+            question_submitted=False
+        )
+        
+        logger.info(f"Successfully retrieved exercise question {question.id} for user {current_user['id']}")
+        return question_data
+                
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting random exercise question: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving exercise question: {str(e)}"
+        )
+
+
+@app.get("/api/questions/{board}/{class_}/{subject}/{chapter}/exercise/q/{question_id}")
+async def get_specific_exercise_question(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    question_id: str,  # UUID
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get specific exercise question"""
+    try:
+        # SINGLE COMPREHENSIVE STATUS CHECK
+        user_status = consolidated_service.get_comprehensive_user_status(current_user['id'], db)
+        
+        # Check if user can fetch questions
+        permission_check = consolidated_service.check_can_perform_action(user_status, "fetch_question")
+        
+        if not permission_check["allowed"]:
+            logger.info(f"User {current_user['id']} cannot fetch exercise question: {permission_check['reason']}")
+            raise HTTPException(
+                status_code=402,  # Payment Required
+                detail=permission_check["reason"]
+            )
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        logger.info(f"Fetching specific exercise question:")
+        logger.info(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/exercise/q/{question_id}")
+        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        try:
+            chapter_int = int(clean_chapter)
+            base_chapter = chapter_int
+            
+            if chapter_int > 100:
+                base_chapter = chapter_int % 100
+            
+            chapter_conditions = [
+                Question.chapter == base_chapter,
+                Question.chapter == (100 + base_chapter)
+            ]
+        except ValueError:
+            chapter_conditions = [
+                Question.chapter == clean_chapter
+            ]
+
+        # Find exercise question by UUID
+        question = db.query(Question).filter(
+            Question.id == question_id,
+            Question.board == actual_board,
+            Question.class_level == actual_class,
+            Question.subject == actual_subject,
+            or_(*chapter_conditions)
+        ).first()
+
+        if not question:
+            # Fallback searches
+            logger.info(f"Exercise question not found with exact criteria, trying fallbacks for {question_id}")
+            question = db.query(Question).filter(
+                Question.id == question_id,
+                Question.subject == actual_subject
+            ).first()
+            
+            if not question:
+                question = db.query(Question).filter(
+                    Question.id == question_id
+                ).first()
+                
+                if not question:
+                    logger.warning(f"Exercise question not found with ID: {question_id}")
+                    raise HTTPException(
+                        status_code=404, 
+                        detail="Exercise question not found"
+                    )
+
+        # Reset per-question token usage when question is loaded
+        reset_query = text("""
+            UPDATE user_attempts
+            SET input_tokens_used = 0, output_tokens_used = 0
+            WHERE user_id = :user_id AND question_id = :question_id
+        """)
+        try:
+            db.execute(reset_query, {"user_id": current_user['id'], "question_id": question_id})
+            db.commit()
+        except Exception as reset_error:
+            logger.error(f"Error resetting question tokens: {str(reset_error)}")
+            db.rollback()
+
+        # Get statistics and prepare response
+        stats = get_question_statistics(db, question.id)
+        question_data = prepare_question_response(
+            question, 
+            stats, 
+            actual_board, 
+            actual_class, 
+            actual_subject, 
+            clean_chapter
+        )
+        
+        # Store in active_questions for grading
+        active_questions[str(question.id)] = question_data
+        
+        # Schedule background token usage update
+        consolidated_service.update_user_usage(
+            user_id=current_user['id'],
+            question_id=question_id,
+            input_tokens=50,
+            output_tokens=0,
+            question_submitted=False
+        )
+        
+        logger.info(f"Successfully retrieved specific exercise question {question_id} for user {current_user['id']}")
+        return question_data
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting specific exercise question: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving exercise question: {str(e)}"
+        )
+
+
+# =====================================================================================
+# SECTION QUESTION ENDPOINTS
+# =====================================================================================
+
+@app.get("/api/questions/{board}/{class_}/{subject}/{chapter}/section/{section}/random")
+async def get_random_section_question(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    section: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get random question from specific section"""
+    try:
+        # SINGLE COMPREHENSIVE STATUS CHECK
+        user_status = consolidated_service.get_comprehensive_user_status(current_user['id'], db)
+        
+        # Check if user can fetch questions
+        permission_check = consolidated_service.check_can_perform_action(user_status, "fetch_question")
+        
+        if not permission_check["allowed"]:
+            logger.info(f"User {current_user['id']} cannot fetch section question: {permission_check['reason']}")
+            raise HTTPException(
+                status_code=402,  # Payment Required
+                detail=permission_check["reason"]
+            )
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        logger.info(f"Searching for random section question with:")
+        logger.info(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/section-{section}")
+        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        logger.info(f"Section pattern for section_id: {section_pattern}")
+        
+        clean_board = actual_board
+        clean_class = actual_class
+        clean_subject = actual_subject.replace('-', '_')
+        clean_chapter = chapter.replace('chapter-', '')
+        clean_section = section
+        
+        # Create section pattern for database filtering
+        section_pattern = f"%section_{clean_chapter}_{clean_section}%"
+        
+        # Create section pattern for database filtering
+        section_pattern = f"%section_{clean_chapter}_{clean_section}%"
+        
+        try:
+            chapter_int = int(clean_chapter)
+            section_int = int(clean_section)
+            
+            # Filter by chapter number (like existing chapter endpoints)
+            chapter_conditions = [
+                Question.chapter == chapter_int
+            ]
+            
+            # Create section pattern for section_id column filtering
+            section_pattern = f"%section_{chapter_int}_{section_int}%"
+        except ValueError:
+            chapter_conditions = [
+                Question.chapter == clean_chapter
+            ]
+            section_pattern = f"%section_{clean_chapter}_{clean_section}%"
+        
+        # Query for section questions using both chapter and section_id filters
+        query = db.query(Question).filter(
+            Question.board == clean_board,
+            Question.class_level == clean_class,
+            Question.subject == clean_subject,
+            or_(*chapter_conditions),
+            Question.section_id.like(section_pattern)
+        )
+        
+        count = query.count()
+        logger.info(f"Found {count} section questions matching criteria")
+        
+        if count > 0:
+            question = query.order_by(func.random()).first()
+        else:
+            # Fallback: try just with subject and section pattern
+            fallback_query = db.query(Question).filter(
+                Question.subject == clean_subject,
+                Question.section_id.like(section_pattern)
+            )
+            
+            fallback_count = fallback_query.count()
+            logger.info(f"Section fallback query found {fallback_count} questions")
+            
+            if fallback_count > 0:
+                question = fallback_query.order_by(func.random()).first()
+                logger.info(f"Using fallback section question with ID: {question.id}")
+            else:
+                logger.warning(f"No section questions found for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}/section-{clean_section}")
+                return create_placeholder_question(clean_board, clean_class, clean_subject, f"{clean_chapter}.{clean_section}")
+        
+        # Reset per-question token usage when new question is loaded
+        if question:
+            reset_query = text("""
+                UPDATE user_attempts
+                SET input_tokens_used = 0, output_tokens_used = 0
+                WHERE user_id = :user_id AND question_id = :question_id
+            """)
+            try:
+                db.execute(reset_query, {"user_id": current_user['id'], "question_id": str(question.id)})
+                db.commit()
+            except Exception as reset_error:
+                logger.error(f"Error resetting question tokens: {str(reset_error)}")
+                db.rollback()
+        
+        # Get statistics and prepare response
+        stats = get_question_statistics(db, question.id)
+        question_data = prepare_question_response(question, stats, clean_board, clean_class, clean_subject, f"{clean_chapter}.{clean_section}")
+        active_questions[str(question.id)] = question_data
+        
+        # Schedule background token usage update
+        consolidated_service.update_user_usage(
+            user_id=current_user['id'],
+            question_id=str(question.id),
+            input_tokens=50,
+            output_tokens=0,
+            question_submitted=False
+        )
+        
+        logger.info(f"Successfully retrieved section question {question.id} for user {current_user['id']}")
+        return question_data
+                
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting random section question: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving section question: {str(e)}"
+        )
+
+
+@app.get("/api/questions/{board}/{class_}/{subject}/{chapter}/section/{section}/q/{question_id}")
+async def get_specific_section_question(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    section: str,
+    question_id: str,  # UUID
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get specific section question"""
+    try:
+        # SINGLE COMPREHENSIVE STATUS CHECK
+        user_status = consolidated_service.get_comprehensive_user_status(current_user['id'], db)
+        
+        # Check if user can fetch questions
+        permission_check = consolidated_service.check_can_perform_action(user_status, "fetch_question")
+        
+        if not permission_check["allowed"]:
+            logger.info(f"User {current_user['id']} cannot fetch section question: {permission_check['reason']}")
+            raise HTTPException(
+                status_code=402,  # Payment Required
+                detail=permission_check["reason"]
+            )
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        logger.info(f"Fetching specific section question:")
+        logger.info(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/section-{section}/q/{question_id}")
+        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        logger.info(f"Section pattern for section_id: {section_pattern}")
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        clean_section = section
+        
+        try:
+            chapter_int = int(clean_chapter)
+            section_int = int(clean_section)
+            
+            # Filter by chapter number (like existing chapter endpoints)
+            chapter_conditions = [
+                Question.chapter == chapter_int
+            ]
+            
+            # Create section pattern for section_id column filtering
+            section_pattern = f"%section_{chapter_int}_{section_int}%"
+        except ValueError:
+            chapter_conditions = [
+                Question.chapter == clean_chapter
+            ]
+            section_pattern = f"%section_{clean_chapter}_{clean_section}%"
+
+        # Find section question by UUID using both chapter and section_id filters
+        question = db.query(Question).filter(
+            Question.id == question_id,
+            Question.board == actual_board,
+            Question.class_level == actual_class,
+            Question.subject == actual_subject,
+            or_(*chapter_conditions),
+            Question.section_id.like(section_pattern)
+        ).first()
+
+        if not question:
+            # Fallback searches with section pattern
+            logger.info(f"Section question not found with exact criteria, trying fallbacks for {question_id}")
+            question = db.query(Question).filter(
+                Question.id == question_id,
+                Question.subject == actual_subject,
+                Question.section_id.like(section_pattern)
+            ).first()
+            
+            if not question:
+                question = db.query(Question).filter(
+                    Question.id == question_id
+                ).first()
+                
+                if not question:
+                    logger.warning(f"Section question not found with ID: {question_id}")
+                    raise HTTPException(
+                        status_code=404, 
+                        detail="Section question not found"
+                    )
+
+        # Reset per-question token usage when question is loaded
+        reset_query = text("""
+            UPDATE user_attempts
+            SET input_tokens_used = 0, output_tokens_used = 0
+            WHERE user_id = :user_id AND question_id = :question_id
+        """)
+        try:
+            db.execute(reset_query, {"user_id": current_user['id'], "question_id": question_id})
+            db.commit()
+        except Exception as reset_error:
+            logger.error(f"Error resetting question tokens: {str(reset_error)}")
+            db.rollback()
+
+        # Get statistics and prepare response
+        stats = get_question_statistics(db, question.id)
+        question_data = prepare_question_response(
+            question, 
+            stats, 
+            actual_board, 
+            actual_class, 
+            actual_subject, 
+            f"{clean_chapter}.{clean_section}"
+        )
+        
+        # Store in active_questions for grading
+        active_questions[str(question.id)] = question_data
+        
+        # Schedule background token usage update
+        consolidated_service.update_user_usage(
+            user_id=current_user['id'],
+            question_id=question_id,
+            input_tokens=50,
+            output_tokens=0,
+            question_submitted=False
+        )
+        
+        logger.info(f"Successfully retrieved specific section question {question_id} for user {current_user['id']}")
+        return question_data
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting specific section question: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving section question: {str(e)}"
+        )
+
+
+# =====================================================================================
+# SECTIONS INFO ENDPOINT (HYBRID: JSON FILE → DATABASE → DEFAULT)
+# =====================================================================================
+
+@app.get("/api/subjects/{board}/{class_}/{subject}/{chapter}/sections")
+async def get_sections_info_hybrid(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get sections information - tries JSON file first, then database, then default"""
+    try:
+        logger.info(f"Fetching sections for board: {board}, class: {class_}, subject: {subject}, chapter: {chapter}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # ================================
+        # STEP 1: TRY JSON FILE FIRST
+        # ================================
+        formatted_subject = subject.lower()  # Just lowercase, maintain hyphens
+        base_path = os.path.dirname(os.path.abspath(__file__))
+        file_path = os.path.join(
+            base_path,
+            "questions",
+            board.lower(),
+            class_.lower(),
+            formatted_subject,
+            f"chapter-{chapter}",
+            "sections.json"
+        )
+        
+        logger.info(f"Step 1: Looking for JSON file at: {file_path}")
+        
+        json_found = False
+        if os.path.exists(file_path):
+            try:
+                with open(file_path, 'r') as f:
+                    sections_data = json.load(f)
+                    logger.info(f"✅ Successfully loaded sections from JSON file: {sections_data}")
+                    return sections_data
+            except Exception as json_error:
+                logger.warning(f"⚠️ Error reading JSON file: {str(json_error)}")
+        else:
+            # Try alternative path with underscores (for backwards compatibility)
+            alternative_subject = subject.lower().replace('-', '_')
+            alternative_path = os.path.join(
+                base_path,
+                "questions",
+                board.lower(),
+                class_.lower(),
+                alternative_subject,
+                f"chapter-{chapter}",
+                "sections.json"
+            )
+            logger.info(f"Step 1b: Trying alternative JSON path: {alternative_path}")
+            
+            if os.path.exists(alternative_path):
+                try:
+                    with open(alternative_path, 'r') as f:
+                        sections_data = json.load(f)
+                        logger.info(f"✅ Successfully loaded sections from alternative JSON file: {sections_data}")
+                        return sections_data
+                except Exception as json_error:
+                    logger.warning(f"⚠️ Error reading alternative JSON file: {str(json_error)}")
+        
+        # ================================
+        # STEP 2: FALLBACK TO DATABASE
+        # ================================
+        logger.info(f"Step 2: JSON file not found, trying database...")
+        
+        try:
+            chapter_int = int(clean_chapter) if clean_chapter.isdigit() else None
+            
+            if chapter_int:
+                # Query sections from database
+                from sqlalchemy import text
+                
+                # First check if sections table exists
+                table_exists_query = text("""
+                    SELECT EXISTS (
+                        SELECT FROM information_schema.tables 
+                        WHERE table_name = 'sections'
+                    );
+                """)
+                
+                table_exists = db.execute(table_exists_query).scalar()
+                
+                if table_exists:
+                    sections_query = text("""
+                        SELECT section_number, section_name 
+                        FROM sections 
+                        WHERE board = :board 
+                          AND class_level = :class_level 
+                          AND subject = :subject 
+                          AND chapter = :chapter 
+                          AND is_active = true
+                        ORDER BY section_number
+                    """)
+                    
+                    result = db.execute(sections_query, {
+                        "board": actual_board,
+                        "class_level": actual_class,
+                        "subject": actual_subject,
+                        "chapter": chapter_int
+                    }).fetchall()
+                    
+                    if result:
+                        sections_data = {
+                            "sections": [
+                                {
+                                    "number": row.section_number,
+                                    "name": row.section_name
+                                }
+                                for row in result
+                            ]
+                        }
+                        logger.info(f"✅ Successfully loaded {len(result)} sections from database")
+                        return sections_data
+                    else:
+                        logger.info(f"⚠️ No sections found in database for {actual_board}/{actual_class}/{actual_subject}/chapter-{chapter_int}")
+                else:
+                    logger.info(f"⚠️ Sections table does not exist in database")
+            else:
+                logger.warning(f"⚠️ Invalid chapter number for database query: {clean_chapter}")
+                
+        except Exception as db_error:
+            logger.warning(f"⚠️ Database query failed: {str(db_error)}")
+        
+        # ================================
+        # STEP 3: RETURN DEFAULT SECTIONS
+        # ================================
+        logger.info(f"Step 3: Returning default sections")
+        return {
+            "sections": [
+                {"number": 1, "name": f"Section 1"},
+                {"number": 2, "name": f"Section 2"},
+                {"number": 3, "name": f"Section 3"}
+            ]
+        }
+            
+    except Exception as e:
+        logger.error(f"Error getting sections info: {str(e)}")
+        # Return default sections on error
+        return {
+            "sections": [
+                {"number": 1, "name": f"Section 1"},
+                {"number": 2, "name": f"Section 2"},
+                {"number": 3, "name": f"Section 3"}
+            ]
+        }
+
+
+# =====================================================================================
+# PERFORMANCE ENDPOINTS
+# =====================================================================================
+
+@app.get("/api/progress/user/performance-summary/{board}/{class_}/{subject}/{chapter}")
+async def get_chapter_performance_summary(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get performance summary for a chapter"""
+    try:
+        logger.info(f"Fetching performance summary for user {current_user['id']}, chapter {chapter}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # Query user attempts for this chapter
+        attempts_query = db.query(UserAttempt).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        )
+        
+        attempts = attempts_query.all()
+        
+        if not attempts:
+            return {
+                "total_attempts": 0,
+                "average_score": 0,
+                "total_time": 0,
+                "unique_questions": 0,
+                "performance_breakdown": {
+                    "excellent": 0,
+                    "good": 0,
+                    "needs_improvement": 0
+                },
+                "date_range": {
+                    "first_attempt": None,
+                    "last_attempt": None
+                },
+                "chapter_info": {
+                    "board": board,
+                    "class_level": class_,
+                    "subject": subject,
+                    "chapter": chapter
+                }
+            }
+        
+        # Calculate summary statistics
+        total_attempts = len(attempts)
+        total_score = sum(attempt.score for attempt in attempts)
+        average_score = round(total_score / total_attempts, 1) if total_attempts > 0 else 0
+        total_time = sum(attempt.time_taken or 0 for attempt in attempts)
+        unique_questions = len(set(attempt.question_id for attempt in attempts))
+        
+        # Performance breakdown
+        excellent = sum(1 for attempt in attempts if attempt.score >= 8)
+        good = sum(1 for attempt in attempts if 6 <= attempt.score < 8)
+        needs_improvement = sum(1 for attempt in attempts if attempt.score < 6)
+        
+        # Date range
+        timestamps = [attempt.timestamp for attempt in attempts if attempt.timestamp]
+        first_attempt = min(timestamps).isoformat() if timestamps else None
+        last_attempt = max(timestamps).isoformat() if timestamps else None
+        
+        return {
+            "total_attempts": total_attempts,
+            "average_score": average_score,
+            "total_time": total_time,
+            "unique_questions": unique_questions,
+            "performance_breakdown": {
+                "excellent": excellent,
+                "good": good,
+                "needs_improvement": needs_improvement
+            },
+            "date_range": {
+                "first_attempt": first_attempt,
+                "last_attempt": last_attempt
+            },
+            "chapter_info": {
+                "board": board,
+                "class_level": class_,
+                "subject": subject,
+                "chapter": chapter
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting chapter performance summary: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving performance summary: {str(e)}"
+        )
+
+
+@app.get("/api/progress/user/performance-summary/{board}/{class_}/{subject}/{chapter}/section/{section}")
+async def get_section_performance_summary(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    section: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get performance summary for a section"""
+    try:
+        logger.info(f"Fetching section performance summary for user {current_user['id']}, chapter {chapter}, section {section}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # For section queries, filter by section-specific questions using join with Question table
+        clean_chapter_int = int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        section_pattern = f"%section_{clean_chapter}_{section}%"
+        
+        attempts_query = db.query(UserAttempt).join(Question, UserAttempt.question_id == Question.id).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == clean_chapter_int,
+            Question.section_id.like(section_pattern)
+        )
+        
+        attempts = attempts_query.all()
+        
+        # Now properly filtered by section using the section pattern
+        
+        if not attempts:
+            return {
+                "total_attempts": 0,
+                "average_score": 0,
+                "total_time": 0,
+                "unique_questions": 0,
+                "performance_breakdown": {
+                    "excellent": 0,
+                    "good": 0,
+                    "needs_improvement": 0
+                },
+                "date_range": {
+                    "first_attempt": None,
+                    "last_attempt": None
+                },
+                "section_info": {
+                    "board": board,
+                    "class_level": class_,
+                    "subject": subject,
+                    "chapter": chapter,
+                    "section": section
+                }
+            }
+        
+        # Calculate summary statistics (same as chapter)
+        total_attempts = len(attempts)
+        total_score = sum(attempt.score for attempt in attempts)
+        average_score = round(total_score / total_attempts, 1) if total_attempts > 0 else 0
+        total_time = sum(attempt.time_taken or 0 for attempt in attempts)
+        unique_questions = len(set(attempt.question_id for attempt in attempts))
+        
+        # Performance breakdown
+        excellent = sum(1 for attempt in attempts if attempt.score >= 8)
+        good = sum(1 for attempt in attempts if 6 <= attempt.score < 8)
+        needs_improvement = sum(1 for attempt in attempts if attempt.score < 6)
+        
+        # Date range
+        timestamps = [attempt.timestamp for attempt in attempts if attempt.timestamp]
+        first_attempt = min(timestamps).isoformat() if timestamps else None
+        last_attempt = max(timestamps).isoformat() if timestamps else None
+        
+        return {
+            "total_attempts": total_attempts,
+            "average_score": average_score,
+            "total_time": total_time,
+            "unique_questions": unique_questions,
+            "performance_breakdown": {
+                "excellent": excellent,
+                "good": good,
+                "needs_improvement": needs_improvement
+            },
+            "date_range": {
+                "first_attempt": first_attempt,
+                "last_attempt": last_attempt
+            },
+            "section_info": {
+                "board": board,
+                "class_level": class_,
+                "subject": subject,
+                "chapter": chapter,
+                "section": section
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting section performance summary: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving section performance summary: {str(e)}"
+        )
+
+
+@app.get("/api/progress/user/performance-analytics/{board}/{class_}/{subject}/{chapter}")
+async def get_chapter_performance_analytics(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get performance analytics data for charts"""
+    try:
+        logger.info(f"Fetching performance analytics for user {current_user['id']}, chapter {chapter}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # Query user attempts for this chapter
+        attempts_query = db.query(UserAttempt).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        ).order_by(UserAttempt.timestamp)
+        
+        attempts = attempts_query.all()
+        
+        if not attempts:
+            return {
+                "analytics_data": [],
+                "score_trends": [],
+                "category_performance": {},
+                "difficulty_breakdown": {},
+                "time_performance": []
+            }
+        
+        # Analytics data points
+        analytics_data = []
+        for i, attempt in enumerate(attempts, 1):
+            analytics_data.append({
+                "attempt_number": i,
+                "score": attempt.score,
+                "time_taken": attempt.time_taken or 0,
+                "timestamp": attempt.timestamp.isoformat() if attempt.timestamp else "",
+                "difficulty": "Medium",  # Default if not stored
+                "type": "Practice",     # Default if not stored
+                "bloom_level": "Apply", # Default if not stored
+                "category": "General"   # Default if not stored
+            })
+        
+        # Score trends
+        score_trends = []
+        for i, attempt in enumerate(attempts, 1):
+            score_trends.append({
+                "attempt": i,
+                "score": attempt.score,
+                "date": attempt.timestamp.isoformat() if attempt.timestamp else ""
+            })
+        
+        # Category performance (simplified)
+        category_performance = {
+            "General": {
+                "total_attempts": len(attempts),
+                "average_score": round(sum(a.score for a in attempts) / len(attempts), 1),
+                "best_score": max(a.score for a in attempts)
+            }
+        }
+        
+        # Difficulty breakdown (simplified)
+        difficulty_breakdown = {
+            "Easy": len([a for a in attempts if a.score >= 8]),
+            "Medium": len([a for a in attempts if 6 <= a.score < 8]),
+            "Hard": len([a for a in attempts if a.score < 6])
+        }
+        
+        # Time performance
+        time_performance = []
+        for attempt in attempts:
+            time_performance.append({
+                "time_taken": attempt.time_taken or 0,
+                "score": attempt.score,
+                "category": "General"
+            })
+        
+        return {
+            "analytics_data": analytics_data,
+            "score_trends": score_trends,
+            "category_performance": category_performance,
+            "difficulty_breakdown": difficulty_breakdown,
+            "time_performance": time_performance
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting chapter performance analytics: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving performance analytics: {str(e)}"
+        )
+
+
+@app.get("/api/progress/user/performance-analytics/{board}/{class_}/{subject}/{chapter}/section/{section}")
+async def get_section_performance_analytics(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    section: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get performance analytics data for section charts"""
+    try:
+        logger.info(f"Fetching section performance analytics for user {current_user['id']}, chapter {chapter}, section {section}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # Query user attempts for this section with section pattern filtering
+        clean_chapter_int = int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        section_pattern = f"%section_{clean_chapter}_{section}%"
+        
+        attempts_query = db.query(UserAttempt).join(Question, UserAttempt.question_id == Question.id).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == clean_chapter_int,
+            Question.section_id.like(section_pattern)
+        ).order_by(UserAttempt.timestamp)
+        
+        attempts = attempts_query.all()
+        
+        # Now properly filtered by section using the section pattern
+        
+        if not attempts:
+            return {
+                "analytics_data": [],
+                "score_trends": [],
+                "category_performance": {},
+                "difficulty_breakdown": {},
+                "time_performance": []
+            }
+        
+        # Same analytics structure as chapter
+        analytics_data = []
+        for i, attempt in enumerate(attempts, 1):
+            analytics_data.append({
+                "attempt_number": i,
+                "score": attempt.score,
+                "time_taken": attempt.time_taken or 0,
+                "timestamp": attempt.timestamp.isoformat() if attempt.timestamp else "",
+                "difficulty": "Medium",
+                "type": "Section",
+                "bloom_level": "Apply",
+                "category": f"Section {section}"
+            })
+        
+        score_trends = []
+        for i, attempt in enumerate(attempts, 1):
+            score_trends.append({
+                "attempt": i,
+                "score": attempt.score,
+                "date": attempt.timestamp.isoformat() if attempt.timestamp else ""
+            })
+        
+        category_performance = {
+            f"Section {section}": {
+                "total_attempts": len(attempts),
+                "average_score": round(sum(a.score for a in attempts) / len(attempts), 1),
+                "best_score": max(a.score for a in attempts)
+            }
+        }
+        
+        difficulty_breakdown = {
+            "Easy": len([a for a in attempts if a.score >= 8]),
+            "Medium": len([a for a in attempts if 6 <= a.score < 8]),
+            "Hard": len([a for a in attempts if a.score < 6])
+        }
+        
+        time_performance = []
+        for attempt in attempts:
+            time_performance.append({
+                "time_taken": attempt.time_taken or 0,
+                "score": attempt.score,
+                "category": f"Section {section}"
+            })
+        
+        return {
+            "analytics_data": analytics_data,
+            "score_trends": score_trends,
+            "category_performance": category_performance,
+            "difficulty_breakdown": difficulty_breakdown,
+            "time_performance": time_performance
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting section performance analytics: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving section performance analytics: {str(e)}"
+        )
+
+
+@app.get("/api/progress/user/solved-questions/{board}/{class_}/{subject}/{chapter}")
+async def get_chapter_solved_questions(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    limit: int = 20,
+    offset: int = 0,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get detailed solved questions for a chapter"""
+    try:
+        logger.info(f"Fetching solved questions for user {current_user['id']}, chapter {chapter}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # Query user attempts for this chapter with pagination
+        attempts_query = db.query(UserAttempt).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        ).order_by(UserAttempt.timestamp.desc())
+        
+        total_count = attempts_query.count()
+        attempts = attempts_query.offset(offset).limit(limit).all()
+        
+        # Get question details for each attempt
+        detailed_attempts = []
+        for attempt in attempts:
+            # Get question details
+            question = db.query(Question).filter(Question.id == attempt.question_id).first()
+            
+            if question:
+                detailed_attempts.append({
+                    "question_id": str(attempt.question_id),
+                    "question_text": question.question_text,
+                    "user_answer": attempt.answer,
+                    "transcribed_text": attempt.transcribed_text,
+                    "correct_answer": question.correct_answer,
+                    "explanation": question.explanation,
+                    "score": attempt.score,
+                    "time_taken": attempt.time_taken or 0,
+                    "timestamp": attempt.timestamp.isoformat() if attempt.timestamp else "",
+                    "feedback": attempt.feedback,
+                    "metadata": {
+                        "questionNumber": f"Q{len(detailed_attempts) + 1}",
+                        "source": "Practice",
+                        "level": question.difficulty or "Medium",
+                        "type": question.type or "Practice",
+                        "bloomLevel": question.bloom_level or "Apply",
+                        "statistics": {
+                            "totalAttempts": 1,  # Could be calculated from all users
+                            "averageScore": attempt.score  # Could be calculated from all users
+                        }
+                    }
+                })
+        
+        # Pagination info
+        has_more = (offset + limit) < total_count
+        next_offset = (offset + limit) if has_more else None
+        
+        return {
+            "attempts": detailed_attempts,
+            "pagination": {
+                "total": total_count,
+                "limit": limit,
+                "offset": offset,
+                "has_more": has_more,
+                "next_offset": next_offset
+            },
+            "chapter_info": {
+                "board": board,
+                "class_level": class_,
+                "subject": subject,
+                "chapter": chapter
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting chapter solved questions: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving solved questions: {str(e)}"
+        )
+
+
+@app.get("/api/progress/user/solved-questions/{board}/{class_}/{subject}/{chapter}/section/{section}")
+async def get_section_solved_questions(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    section: str,
+    limit: int = 20,
+    offset: int = 0,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get detailed solved questions for a section"""
+    try:
+        logger.info(f"Fetching section solved questions for user {current_user['id']}, chapter {chapter}, section {section}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # Query user attempts for this section with pagination and section pattern filtering
+        clean_chapter_int = int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        section_pattern = f"%section_{clean_chapter}_{section}%"
+        
+        attempts_query = db.query(UserAttempt).join(Question, UserAttempt.question_id == Question.id).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == clean_chapter_int,
+            Question.section_id.like(section_pattern)
+        ).order_by(UserAttempt.timestamp.desc())
+        
+        # Filter by section if needed (depends on your data structure)
+        # For now, using all chapter attempts
+        
+        total_count = attempts_query.count()
+        attempts = attempts_query.offset(offset).limit(limit).all()
+        
+        # Get question details for each attempt
+        detailed_attempts = []
+        for attempt in attempts:
+            question = db.query(Question).filter(Question.id == attempt.question_id).first()
+            
+            if question:
+                detailed_attempts.append({
+                    "question_id": str(attempt.question_id),
+                    "question_text": question.question_text,
+                    "user_answer": attempt.answer,
+                    "transcribed_text": attempt.transcribed_text,
+                    "correct_answer": question.correct_answer,
+                    "explanation": question.explanation,
+                    "score": attempt.score,
+                    "time_taken": attempt.time_taken or 0,
+                    "timestamp": attempt.timestamp.isoformat() if attempt.timestamp else "",
+                    "feedback": attempt.feedback,
+                    "metadata": {
+                        "questionNumber": f"S{section}.Q{len(detailed_attempts) + 1}",
+                        "source": f"Section {section}",
+                        "level": question.difficulty or "Medium",
+                        "type": question.type or "Section",
+                        "bloomLevel": question.bloom_level or "Apply",
+                        "statistics": {
+                            "totalAttempts": 1,
+                            "averageScore": attempt.score
+                        }
+                    }
+                })
+        
+        # Pagination info
+        has_more = (offset + limit) < total_count
+        next_offset = (offset + limit) if has_more else None
+        
+        return {
+            "attempts": detailed_attempts,
+            "pagination": {
+                "total": total_count,
+                "limit": limit,
+                "offset": offset,
+                "has_more": has_more,
+                "next_offset": next_offset
+            },
+            "section_info": {
+                "board": board,
+                "class_level": class_,
+                "subject": subject,
+                "chapter": chapter,
+                "section": section
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting section solved questions: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving section solved questions: {str(e)}"
+        )

@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "1.1 IMPORTANCE OF CHEMISTRY"
+    },
+    {
+      "number": 2,
+      "name": "1.2 Nature of Matter"
+    },
+    {
+      "number": 3,
+      "name": "1.3 Properties of Matter and their Measurement"
+    },
+    {
+      "number": 4,
+      "name": "1.4 Uncertainty in Measurement"
+    },
+    {
+      "number": 5,
+      "name": "1.5 Laws of Chemical Combinations**"
+    },
+    {
+      "number": 6,
+      "name": "1.6 Dalton's Atomic Theory"
+    },
+    {
+      "number": 7,
+      "name": "1.7 Atomic and Molecular Masses"
+    },
+    {
+      "number": 8,
+      "name": "1.8 Mole concept and Molar Masses"
+    },
+    {
+      "number": 9,
+      "name": "1.9 Percentage Composition"
+    },
+    {
+      "number": 10,
+      "name": "1.10 Stoichiometry and Stoichiometric Calculations"
+    }
+  ]
+}

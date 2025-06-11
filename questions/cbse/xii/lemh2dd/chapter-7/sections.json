@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "7.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "7.2 Integration as an Inverse Process of Differentiation"
+    },
+    {
+      "number": 3,
+      "name": "7.3 Methods of Integration"
+    },
+    {
+      "number": 4,
+      "name": "7.4 Integrals of Some Particular Functions"
+    },
+    {
+      "number": 5,
+      "name": "7.5 Integration by Partial Fractions"
+    },
+    {
+      "number": 6,
+      "name": "7.6 Integration by Parts"
+    },
+    {
+      "number": 7,
+      "name": "7.7 Definite Integral"
+    },
+    {
+      "number": 8,
+      "name": "7.8 Fundamental Theorem of Calculus"
+    },
+    {
+      "number": 9,
+      "name": "7.9 Evaluation of Definite Integrals by Substitution"
+    },
+    {
+      "number": 10,
+      "name": "7.10 Some Properties of Definite Integrals"
+    }
+  ]
+}

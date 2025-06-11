@@ -146,7 +146,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen070"
+    "question_id": "cbse_xi_keph2dd_c205_gen070",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "For a molecule free to move in three-dimensional space, how many translational degrees of freedom does it have?",
@@ -165,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen071"
+    "question_id": "cbse_xi_keph2dd_c205_gen071",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "A diatomic molecule such as oxygen (O2) has 3 translational and 2 rotational degrees of freedom. What is the total average energy per molecule (excluding vibrational contributions) at thermal equilibrium?",
@@ -184,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen072"
+    "question_id": "cbse_xi_keph2dd_c205_gen072",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "In the context of equipartition of energy, which of the following correctly identifies the contribution of a vibrational mode to the energy of a molecule?",
@@ -203,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen073"
+    "question_id": "cbse_xi_keph2dd_c205_gen073",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Which of the following statements about rotational degrees of freedom in diatomic molecules is correct?",
@@ -222,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen074"
+    "question_id": "cbse_xi_keph2dd_c205_gen074",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Write down the expression for the kinetic energy of a single molecule in terms of its velocity components in three-dimensional space.",
@@ -236,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen075"
+    "question_id": "cbse_xi_keph2dd_c205_gen075",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "What average energy is associated with one translational degree of freedom in a gas at temperature T?",
@@ -250,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen076"
+    "question_id": "cbse_xi_keph2dd_c205_gen076",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Why does a diatomic molecule not contribute energy from rotation about the internuclear axis?",
@@ -264,7 +271,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen077"
+    "question_id": "cbse_xi_keph2dd_c205_gen077",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Explain why each vibrational mode in a molecule contributes kB T to the average energy instead of 1/2 kB T.",
@@ -278,7 +286,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen078"
+    "question_id": "cbse_xi_keph2dd_c205_gen078",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Discuss in detail the principle of equipartition of energy and apply it to a diatomic molecule that can also vibrate. In your answer, describe the contribution of translational, rotational, and vibrational degrees of freedom to the total average energy.",
@@ -292,7 +301,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen079"
+    "question_id": "cbse_xi_keph2dd_c205_gen079",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Analyze the role of quadratic terms in the energy expressions of molecules. Explain why each quadratic term is considered a mode of energy absorption and how this concept aids in predicting the specific heats of substances.",
@@ -306,7 +316,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen080"
+    "question_id": "cbse_xi_keph2dd_c205_gen080",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Each quadratic term in the energy expression contributes 1/2 kB T in thermal equilibrium. True or False?",
@@ -320,7 +331,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen081"
+    "question_id": "cbse_xi_keph2dd_c205_gen081",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "A diatomic gas always exhibits vibrational energy at moderate temperatures. True or False?",
@@ -334,7 +346,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen082"
+    "question_id": "cbse_xi_keph2dd_c205_gen082",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "A molecule constrained to move in a plane has two degrees of freedom for motion. According to the equipartition theorem, what is its total average translational energy at temperature T?",
@@ -348,7 +361,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen083"
+    "question_id": "cbse_xi_keph2dd_c205_gen083",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Calculate the average translational energy of a single molecule in a monatomic gas at a temperature of 300 K. (Use kB = 1.38 x 10^-23 J/K)",
@@ -362,7 +376,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen084"
+    "question_id": "cbse_xi_keph2dd_c205_gen084",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "For a diatomic molecule (ignoring vibrational contributions) which has 3 translational and 2 rotational degrees of freedom, calculate the total average energy per molecule at 300 K. (Use kB = 1.38 x 10^-23 J/K)",
@@ -376,7 +391,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen085"
+    "question_id": "cbse_xi_keph2dd_c205_gen085",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "If a diatomic molecule has an active vibrational mode at 400 K, calculate the additional energy contribution from this vibrational mode per molecule. (Use kB = 1.38 x 10^-23 J/K)",
@@ -390,7 +406,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen086"
+    "question_id": "cbse_xi_keph2dd_c205_gen086",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "A molecule at 300 K possesses a total average energy of 13.8 x 10^-21 joules. Assuming this energy comes solely from quadratic energy terms with each term contributing 1/2 kB T, estimate the number of quadratic terms (modes) present in the molecule. (Use kB = 1.38 x 10^-23 J/K)",
@@ -404,7 +421,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "05_section_12_5",
-    "question_id": "cbse_xi_keph2dd_c205_gen087"
+    "question_id": "cbse_xi_keph2dd_c205_gen087",
+    "section_name": "12.5 LAW OF EQUIPARTITION OF ENERGY"
   },
   {
     "question_text": "Which of the following best defines the mean free path in a gas?",
@@ -423,7 +441,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen108"
+    "question_id": "cbse_xi_keph2dd_c205_gen108",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "In the derivation of the mean free path, why are the other molecules initially assumed to be at rest?",
@@ -442,7 +461,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen109"
+    "question_id": "cbse_xi_keph2dd_c205_gen109",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "What mathematical expression represents the collision cross-sectional area for a molecule of diameter d?",
@@ -461,7 +481,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen110"
+    "question_id": "cbse_xi_keph2dd_c205_gen110",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "At constant temperature and pressure, if the number density n of a gas increases, how does the mean free path change?",
@@ -480,7 +501,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen111"
+    "question_id": "cbse_xi_keph2dd_c205_gen111",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Using a more exact treatment that accounts for the relative motion of molecules, the mean free path expression is modified by a factor. What is this factor?",
@@ -499,7 +521,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen112"
+    "question_id": "cbse_xi_keph2dd_c205_gen112",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Explain the physical significance of the volume swept out by a molecule in time Δt with respect to collision frequency.",
@@ -513,7 +536,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen113"
+    "question_id": "cbse_xi_keph2dd_c205_gen113",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "What is the role of the factor √2 in the expression for the mean free path?",
@@ -527,7 +551,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen114"
+    "question_id": "cbse_xi_keph2dd_c205_gen114",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "State the assumptions made in deriving the mean free path formula as presented in the section.",
@@ -541,7 +566,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen115"
+    "question_id": "cbse_xi_keph2dd_c205_gen115",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "How do molecular speeds and collisions in a gas relate to its rate of diffusion?",
@@ -555,7 +581,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen116"
+    "question_id": "cbse_xi_keph2dd_c205_gen116",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Discuss how the concept of mean free path helps in understanding the behavior of gases confined in a container and its effect on macroscopic properties such as viscosity and heat conductivity.",
@@ -569,7 +596,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen117"
+    "question_id": "cbse_xi_keph2dd_c205_gen117",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Critically analyze the limitations of the derived formula for the mean free path. Include in your answer the assumptions made and any factors that might affect its accuracy in real gas systems.",
@@ -583,7 +611,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen118"
+    "question_id": "cbse_xi_keph2dd_c205_gen118",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "True or False: The mean free path of a molecule is directly proportional to the number density of the gas.",
@@ -597,7 +626,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen119"
+    "question_id": "cbse_xi_keph2dd_c205_gen119",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "True or False: In a highly evacuated tube, the mean free path can be comparable to the length of the tube.",
@@ -611,7 +641,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen120"
+    "question_id": "cbse_xi_keph2dd_c205_gen120",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "True or False: The average distance between collisions (mean free path) is independent of the molecular size.",
@@ -625,7 +656,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen121"
+    "question_id": "cbse_xi_keph2dd_c205_gen121",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Using the formula l = 1/(√2 n π d2), calculate the mean free path for air molecules at standard temperature and pressure (STP) given n = 2.7×10^25 m^-3 and d = 2×10^-10 m. Provide the answer in meters.",
@@ -639,7 +671,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen122"
+    "question_id": "cbse_xi_keph2dd_c205_gen122",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Given the mean free path l and the average molecular speed v̄ for air, with v̄ = 485 m/s, calculate the average time between collisions (τ) using τ = l / v̄. Use l = 2.9×10^-7 m. Provide your answer in seconds.",
@@ -653,7 +686,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen123"
+    "question_id": "cbse_xi_keph2dd_c205_gen123",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "For water vapour at 373 K, assume the number density n decreases in proportion to the temperature compared to STP. If n at STP is 2.7×10^25 m^-3 and at 373 K it is 2.0×10^25 m^-3, calculate the mean free path using l = 1/(√2 n π d2) with d = 2×10^-10 m.",
@@ -667,7 +701,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen124"
+    "question_id": "cbse_xi_keph2dd_c205_gen124",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "If the diameter of a gas molecule doubles while the number density remains constant, by what factor does the mean free path change, based on the relation l ∝ 1/(d2)?",
@@ -681,7 +716,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen125"
+    "question_id": "cbse_xi_keph2dd_c205_gen125",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Consider a low density gas with number density n = 1.0×10^20 m^-3 and molecular diameter d = 3.0×10^-10 m. Calculate the mean free path using the simplified formula l = 1/(n π d2). Then, briefly comment on how including the √2 factor would change the result.",
@@ -695,7 +731,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen126"
+    "question_id": "cbse_xi_keph2dd_c205_gen126",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Derive and calculate the number of collisions per second for a single air molecule at STP using the expression collision rate = √2 n π d2 v̄, given n = 2.7×10^25 m^-3, d = 2×10^-10 m, and v̄ = 485 m/s.",
@@ -709,7 +746,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen127"
+    "question_id": "cbse_xi_keph2dd_c205_gen127",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Which of the following best describes the Ancient Indian concept of atoms as proposed by Kanada?",
@@ -728,7 +766,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen018"
+    "question_id": "cbse_xi_keph2dd_c205_gen018",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "According to Democritus, what property of water atoms explains its ability to flow easily?",
@@ -747,7 +786,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen019"
+    "question_id": "cbse_xi_keph2dd_c205_gen019",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "Which law explains that equal volumes of all gases at the same temperature and pressure contain the same number of molecules?",
@@ -766,7 +806,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen020"
+    "question_id": "cbse_xi_keph2dd_c205_gen020",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "Gay Lussac's law states that when gases combine chemically to yield another gas, their volumes are in the ratios of:",
@@ -785,7 +826,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen021"
+    "question_id": "cbse_xi_keph2dd_c205_gen021",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "What key limitation of early intuitive atomic theories, such as those by Democritus, is highlighted compared to modern scientific methods?",
@@ -804,7 +846,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen022"
+    "question_id": "cbse_xi_keph2dd_c205_gen022",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "Explain the significance of the phrase 'molecular nature of matter' as described in the section and how it has evolved over time.",
@@ -818,7 +861,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen023"
+    "question_id": "cbse_xi_keph2dd_c205_gen023",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "Briefly describe Avogadro's hypothesis and its role in explaining the laws of chemical combination.",
@@ -832,7 +876,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen024"
+    "question_id": "cbse_xi_keph2dd_c205_gen024",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "How do the sizes and distances between atoms in solids, liquids, and gases affect their physical properties?",
@@ -846,7 +891,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen025"
+    "question_id": "cbse_xi_keph2dd_c205_gen025",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "Discuss the importance of the atomic/molecular theory in the context of understanding chemical reactions and physical properties of substances.",
@@ -860,7 +906,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen026"
+    "question_id": "cbse_xi_keph2dd_c205_gen026",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "Critically evaluate the transition from the early atomic hypotheses of ancient cultures to the modern atomic theory. What were the limitations and advancements?",
@@ -874,7 +921,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen027"
+    "question_id": "cbse_xi_keph2dd_c205_gen027",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "True or False: According to the text, even at the end of the nineteenth century, there were famous scientists who did not believe in the atomic theory.",
@@ -888,7 +936,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen028"
+    "question_id": "cbse_xi_keph2dd_c205_gen028",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "True or False: In liquids, the atoms are fixed rigidly, preventing any motion, which is why liquids have fixed shapes.",
@@ -902,7 +951,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen029"
+    "question_id": "cbse_xi_keph2dd_c205_gen029",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "True or False: The mean free path in gases is of the order of thousands of angstroms, which allows gas molecules to travel long distances without colliding.",
@@ -916,7 +966,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen030"
+    "question_id": "cbse_xi_keph2dd_c205_gen030",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "A gas is confined in a container such that the average distance a molecule can travel before collision (mean free path) is 2000 angstroms. If the number density of the gas molecules is 2 x 10^25 per cubic meter, estimate the effective collision cross-sectional area of a molecule. Use the relation: mean free path = 1 / (number density x cross-sectional area).",
@@ -930,7 +981,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen031"
+    "question_id": "cbse_xi_keph2dd_c205_gen031",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "If a diatomic molecule is formed by combining 2 atoms, and a triatomic molecule by combining 3 atoms, how does the change in the number of atoms affect the physical properties such as molecular weight and boiling point?",
@@ -944,7 +996,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen032"
+    "question_id": "cbse_xi_keph2dd_c205_gen032",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "Estimate the distance between atoms in a solid if they are said to be spaced about 2 angstroms apart. Express your answer in meters and explain the significance of this spacing in understanding the structure of solids.",
@@ -958,7 +1011,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen033"
+    "question_id": "cbse_xi_keph2dd_c205_gen033",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "A specific gas has an interatomic distance of approximately 30 angstroms. If the average number of collisions per molecule per second is determined by its mean free path of about 1000 angstroms, what does this imply about the motion of the gas molecules compared to atoms in liquids and solids?",
@@ -972,7 +1026,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_xi_keph2dd_c205_gen034"
+    "question_id": "cbse_xi_keph2dd_c205_gen034",
+    "section_name": "12.2 MOLECULAR NATURE OF MATTER"
   },
   {
     "question_text": "Based on the kinetic theory of gases, gas molecules are assumed to be in incessant motion and collide elastically with the walls. Which of the following statements is TRUE about these collisions?",
@@ -991,7 +1046,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen051"
+    "question_id": "cbse_xi_keph2dd_c205_gen051",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "In the derivation of the pressure of an ideal gas, the expression P = (1/3) n m v² is obtained. What does the term v² represent in this expression?",
@@ -1010,7 +1066,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen052"
+    "question_id": "cbse_xi_keph2dd_c205_gen052",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Which law ensures that the pressure measured in one part of a gas at equilibrium is the same as anywhere else in the container?",
@@ -1029,7 +1086,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen053"
+    "question_id": "cbse_xi_keph2dd_c205_gen053",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "What is the average translational kinetic energy per molecule in an ideal gas at temperature T?",
@@ -1048,7 +1106,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen054"
+    "question_id": "cbse_xi_keph2dd_c205_gen054",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "For an ideal gas enclosed in a container, which of the following quantities does the average kinetic energy of its molecules depend on?",
@@ -1067,7 +1126,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen055"
+    "question_id": "cbse_xi_keph2dd_c205_gen055",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Explain briefly why the collisions between gas molecules and the walls of a container can be assumed to be elastic in kinetic theory.",
@@ -1081,7 +1141,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen056"
+    "question_id": "cbse_xi_keph2dd_c205_gen056",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "State the expression that relates the pressure of an ideal gas to the number density, mass of molecules, and the average squared velocity, as derived in kinetic theory.",
@@ -1095,7 +1156,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen057"
+    "question_id": "cbse_xi_keph2dd_c205_gen057",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "How does the isotropic distribution of molecular velocities in an ideal gas simplify the calculation for pressure?",
@@ -1109,7 +1171,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen058"
+    "question_id": "cbse_xi_keph2dd_c205_gen058",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Discuss and derive the relationship between the pressure of an ideal gas and the average kinetic energy of its molecules. Include in your discussion the significance of elastic collisions and the isotropic distribution of molecular velocities.",
@@ -1123,7 +1186,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen059"
+    "question_id": "cbse_xi_keph2dd_c205_gen059",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Explain the kinetic interpretation of temperature using the equation (1/2) m v² = (3/2) kB T. How does this relate to the internal energy of an ideal gas?",
@@ -1137,7 +1201,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen060"
+    "question_id": "cbse_xi_keph2dd_c205_gen060",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Analyze the role of molecular mass in determining the root mean square (rms) speed of gas molecules and discuss how this concept explains the phenomenon of diffusion in a mixture of gases.",
@@ -1151,7 +1216,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen061"
+    "question_id": "cbse_xi_keph2dd_c205_gen061",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "True or False: In the kinetic theory of gases, collisions between molecules are inelastic, leading to a loss of kinetic energy.",
@@ -1165,7 +1231,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen062"
+    "question_id": "cbse_xi_keph2dd_c205_gen062",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "True or False: In an ideal gas mixture at equilibrium, all gases have the same average kinetic energy per molecule regardless of their molecular mass.",
@@ -1179,7 +1246,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen063"
+    "question_id": "cbse_xi_keph2dd_c205_gen063",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "A cube of side 0.1 m contains nitrogen gas with a number density of 2.5 x 10^25 molecules/m^3. The mass of a nitrogen molecule is 4.65 x 10^-26 kg and for molecules moving towards one wall, the average square of the x-component of their speed is 1.5 x 10^5 m^2/s^2. Calculate the pressure exerted on one of the walls using kinetic theory. (Assume the gas is isotropic.)",
@@ -1193,7 +1261,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen064"
+    "question_id": "cbse_xi_keph2dd_c205_gen064",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Using the equation 1/2 m v^2 = 3/2 kB T, calculate the root mean square (rms) speed of a nitrogen molecule at T = 300 K. Given: m = 4.65 x 10^-26 kg and Boltzmann constant kB = 1.38 x 10^-23 J/K.",
@@ -1207,7 +1276,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen065"
+    "question_id": "cbse_xi_keph2dd_c205_gen065",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "In a mixture of argon and chlorine at 300 K, the atomic mass of argon is 39.9 u and the molecular mass of chlorine is 70.9 u. Given that 1 u = 1.66 x 10^-27 kg, calculate the ratio of the rms speeds of argon and chlorine molecules.",
@@ -1221,7 +1291,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen066"
+    "question_id": "cbse_xi_keph2dd_c205_gen066",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "For an ideal gas in a cube of side l, derive an expression for the number of collisions per second on one wall from a molecule moving with an x-component speed of 200 m/s, assuming a number density of 2.0 x 10^25 molecules/m^3 and a wall area of 0.01 m^2.",
@@ -1235,7 +1306,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen067"
+    "question_id": "cbse_xi_keph2dd_c205_gen067",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Using the relation (1/2) m v^2 = (3/2) kB T, determine the average squared speed (v^2) for a molecule of mass 5.0 x 10^-26 kg at a temperature of 350 K. Use kB = 1.38 x 10^-23 J/K.",
@@ -1249,7 +1321,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen068"
+    "question_id": "cbse_xi_keph2dd_c205_gen068",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Example 12.6 discusses uranium isotopes in uranium hexafluoride gas with masses 349 u and 352 u. Calculate the percentage difference in the rms speeds of the two isotopic molecules at any given temperature.",
@@ -1263,7 +1336,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "04_section_12_4",
-    "question_id": "cbse_xi_keph2dd_c205_gen069"
+    "question_id": "cbse_xi_keph2dd_c205_gen069",
+    "section_name": "12.4 KINETIC THEORY OF AN IDEAL GAS"
   },
   {
     "question_text": "Which of the following formulas correctly represents a form of the ideal gas law as presented in the text?",
@@ -1282,7 +1356,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen035"
+    "question_id": "cbse_xi_keph2dd_c205_gen035",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "What is the value of the universal gas constant R (in SI units) as given in the text?",
@@ -1301,7 +1376,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen036"
+    "question_id": "cbse_xi_keph2dd_c205_gen036",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "According to Avogadro's hypothesis, how many molecules are contained in 22.4 liters of an ideal gas at S.T.P.?",
@@ -1320,7 +1396,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen037"
+    "question_id": "cbse_xi_keph2dd_c205_gen037",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Which gas law states that for a fixed temperature, the pressure of a given mass of gas varies inversely with its volume?",
@@ -1339,7 +1416,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen038"
+    "question_id": "cbse_xi_keph2dd_c205_gen038",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Dalton's law of partial pressures describes the total pressure of a gas mixture as:",
@@ -1358,7 +1436,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen039"
+    "question_id": "cbse_xi_keph2dd_c205_gen039",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Define the Boltzmann constant as mentioned in the text and state its numerical value in SI units.",
@@ -1372,7 +1451,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen040"
+    "question_id": "cbse_xi_keph2dd_c205_gen040",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Explain Avogadro's hypothesis and discuss its significance in relating the behavior of different gases at fixed temperature and pressure.",
@@ -1386,7 +1466,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen041"
+    "question_id": "cbse_xi_keph2dd_c205_gen041",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Discuss why real gases deviate from ideal gas behavior at high pressures and low temperatures. Provide examples using the figures referenced in the text.",
@@ -1400,7 +1481,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen042"
+    "question_id": "cbse_xi_keph2dd_c205_gen042",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Derive an expression for the density of an ideal gas using the relationship P = (ρRT)/M₀ and discuss how density changes with temperature and pressure.",
@@ -1414,7 +1496,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen043"
+    "question_id": "cbse_xi_keph2dd_c205_gen043",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Using the concepts introduced in the section, analyze the spacing between water molecules in water vapor compared to liquid water. Use the density of water and the estimated molecular volume provided in the examples to support your answer.",
@@ -1428,7 +1511,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen044"
+    "question_id": "cbse_xi_keph2dd_c205_gen044",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "True or False: At low pressures and high temperatures, real gases behave exactly like ideal gases with no deviations.",
@@ -1442,7 +1526,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen045"
+    "question_id": "cbse_xi_keph2dd_c205_gen045",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "True or False: According to Dalton's law, the partial pressure of a gas in a mixture is determined by the number of moles of the gas, independent of its molecular weight.",
@@ -1456,7 +1541,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen046"
+    "question_id": "cbse_xi_keph2dd_c205_gen046",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "A gas mixture contains a total of 5 moles at a temperature of 300 K in a 10-liter container. Calculate the total pressure of the gas in pascals. (Use R = 8.314 J/(mol·K) and note that 10 liters = 0.01 m³.)",
@@ -1470,7 +1556,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen047"
+    "question_id": "cbse_xi_keph2dd_c205_gen047",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Water vapor at 100°C and 1 atm has a density of 0.6 kg/m³, while liquid water has a density of 1000 kg/m³. Estimate the ratio of the molecular volume to the total volume occupied by the water vapor.",
@@ -1484,7 +1571,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen048"
+    "question_id": "cbse_xi_keph2dd_c205_gen048",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Using the data provided (density of water = 1000 kg/m³, molar mass of water = 18 g/mol, Avogadro's number = 6×10²³), calculate the approximate radius of a water molecule assuming it is spherical. Show all steps.",
@@ -1498,7 +1586,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen049"
+    "question_id": "cbse_xi_keph2dd_c205_gen049",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "A vessel contains two nonreactive gases: neon (monatomic) and oxygen (diatomic). The ratio of their partial pressures is 3:2. Given the atomic mass of neon = 20.2 u and the molecular mass of oxygen = 32.0 u, calculate: (i) the ratio of the number of molecules of neon to oxygen, and (ii) the ratio of their mass densities.",
@@ -1512,7 +1601,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "03_section_12_3",
-    "question_id": "cbse_xi_keph2dd_c205_gen050"
+    "question_id": "cbse_xi_keph2dd_c205_gen050",
+    "section_name": "12.3 BEHAVIOUR OF GASES"
   },
   {
     "question_text": "Which scientist discovered the law, later known as Boyle's law, in 1661 while studying the behavior of gases?",
@@ -1531,7 +1621,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen001"
+    "question_id": "cbse_xi_keph2dd_c205_gen001",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Why can interatomic forces be neglected in the kinetic theory of gases?",
@@ -1550,7 +1641,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen002"
+    "question_id": "cbse_xi_keph2dd_c205_gen002",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following is an assumption of the kinetic theory of an ideal gas?",
@@ -1569,7 +1661,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen003"
+    "question_id": "cbse_xi_keph2dd_c205_gen003",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "According to kinetic theory, which measurable properties of gases can be linked to molecular parameters?",
@@ -1588,7 +1681,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen004"
+    "question_id": "cbse_xi_keph2dd_c205_gen004",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Kinetic theory provides a molecular interpretation of which gas property?",
@@ -1607,7 +1701,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen005"
+    "question_id": "cbse_xi_keph2dd_c205_gen005",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the basic concept behind kinetic theory in your own words.",
@@ -1621,7 +1716,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen006"
+    "question_id": "cbse_xi_keph2dd_c205_gen006",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Describe one significance of the kinetic theory of gases in the context of understanding gas behavior and related physical laws.",
@@ -1635,7 +1731,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen007"
+    "question_id": "cbse_xi_keph2dd_c205_gen007",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "How does the kinetic theory explain the origin of pressure in a gas?",
@@ -1649,7 +1746,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen008"
+    "question_id": "cbse_xi_keph2dd_c205_gen008",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the historical development of the kinetic theory, including contributions from Boyle, Maxwell, and Boltzmann. In your discussion, address how their work advanced the understanding of the molecular nature of matter and gas behavior.",
@@ -1663,7 +1761,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen009"
+    "question_id": "cbse_xi_keph2dd_c205_gen009",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Evaluate how the kinetic theory is consistent with established gas laws and explain its role in estimating molecular sizes and specific heat capacities. Include examples such as Avogadro's hypothesis in your answer.",
@@ -1677,7 +1776,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen010"
+    "question_id": "cbse_xi_keph2dd_c205_gen010",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Kinetic theory neglects interatomic forces for gases because these forces are significant only in solids and liquids. True or False?",
@@ -1691,7 +1791,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen011"
+    "question_id": "cbse_xi_keph2dd_c205_gen011",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "According to the kinetic theory, the temperature of a gas is directly related to the average kinetic energy of its molecules. True or False?",
@@ -1705,7 +1806,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen012"
+    "question_id": "cbse_xi_keph2dd_c205_gen012",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Kinetic theory considers molecular collisions as a negligible factor in determining gas properties. True or False?",
@@ -1719,7 +1821,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen013"
+    "question_id": "cbse_xi_keph2dd_c205_gen013",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "A gas sample occupies 2.0 L at a pressure of 1 atm. If the gas is compressed isothermally to a volume of 1.0 L, what is the new pressure of the gas? Show all your calculations.",
@@ -1733,7 +1836,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen014"
+    "question_id": "cbse_xi_keph2dd_c205_gen014",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Estimate the average kinetic energy per molecule for a gas at a temperature of 300 K using the relation that the average kinetic energy equals (3/2) kT. Use k = 1.38 × 10^-23 J/K. Show your work.",
@@ -1747,7 +1851,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen015"
+    "question_id": "cbse_xi_keph2dd_c205_gen015",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Calculate the mean free path of gas molecules under the following conditions: temperature T = 300 K, pressure p = 101325 Pa, and molecular diameter d = 0.3 nm. Use the formula lambda = (kT)/(sqrt2 × π × d^2 × p) with k = 1.38 × 10^-23 J/K. Show all steps in your calculation.",
@@ -1761,7 +1866,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen016"
+    "question_id": "cbse_xi_keph2dd_c205_gen016",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Using the equipartition theorem, calculate the molar specific heat capacity at constant volume (Cv) for a diatomic gas having 5 degrees of freedom. Use the formula Cv = (degrees/2) × R, where R = 8.314 J/mol·K.",
@@ -1775,7 +1881,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_xi_keph2dd_c205_gen017"
+    "question_id": "cbse_xi_keph2dd_c205_gen017",
+    "section_name": "12.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following is the molar specific heat at constant volume (Cv) for a monatomic ideal gas?",
@@ -1794,7 +1901,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen088"
+    "question_id": "cbse_xi_keph2dd_c205_gen088",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Which law is primarily used to determine the specific heat capacities of ideal gases as presented in this section?",
@@ -1813,7 +1921,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen089"
+    "question_id": "cbse_xi_keph2dd_c205_gen089",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A diatomic molecule treated as a rigid rotator has how many degrees of freedom?",
@@ -1832,7 +1941,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen090"
+    "question_id": "cbse_xi_keph2dd_c205_gen090",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "What is the ratio of specific heats (gamma) for an ideal diatomic gas modeled as a rigid rotator?",
@@ -1851,7 +1961,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen091"
+    "question_id": "cbse_xi_keph2dd_c205_gen091",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "According to the predictions ignoring vibrational modes, what is the molar specific heat at constant volume (Cv) for a triatomic gas?",
@@ -1870,7 +1981,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen092"
+    "question_id": "cbse_xi_keph2dd_c205_gen092",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Derive the expression for the molar specific heat at constant pressure (Cp) for a monatomic ideal gas, given its molar specific heat at constant volume (Cv) is 3/2 R.",
@@ -1884,7 +1996,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen093"
+    "question_id": "cbse_xi_keph2dd_c205_gen093",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Explain briefly why the difference between Cp and Cv for any ideal gas is equal to R.",
@@ -1898,7 +2011,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen094"
+    "question_id": "cbse_xi_keph2dd_c205_gen094",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "For a polyatomic gas with f vibrational modes, what is the general expression for the molar internal energy?",
@@ -1912,7 +2026,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen095"
+    "question_id": "cbse_xi_keph2dd_c205_gen095",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Discuss how the law of equipartition of energy is used to predict the molar specific heat of solids, and why the predicted value is approximately 3R.",
@@ -1926,7 +2041,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen096"
+    "question_id": "cbse_xi_keph2dd_c205_gen096",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Analyze the discrepancies between the predicted and measured specific heats for some polyatomic gases (e.g., CH4). What role do vibrational modes play in this disagreement?",
@@ -1940,7 +2056,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen097"
+    "question_id": "cbse_xi_keph2dd_c205_gen097",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Compare and contrast the specific heat capacities of monatomic and diatomic gases. Discuss how the available degrees of freedom affect their internal energies and the corresponding values of gamma.",
@@ -1954,7 +2071,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen098"
+    "question_id": "cbse_xi_keph2dd_c205_gen098",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: For any ideal gas, the difference between the molar specific heats at constant pressure and constant volume is always equal to the gas constant R.",
@@ -1968,7 +2086,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen099"
+    "question_id": "cbse_xi_keph2dd_c205_gen099",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: The law of equipartition of energy is invalid at ordinary temperatures because vibrational modes do not contribute to the specific heats of gases.",
@@ -1982,7 +2101,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen100"
+    "question_id": "cbse_xi_keph2dd_c205_gen100",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "True or False: In solids, the nearly constant volume means that the molar specific heats at constant pressure and constant volume are approximately equal.",
@@ -1996,7 +2116,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen101"
+    "question_id": "cbse_xi_keph2dd_c205_gen101",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "Calculate the amount of heat required to raise the temperature of 1 mole of helium gas by 20 K at constant volume. Use R = 8.31 J mol-1 K-1.",
@@ -2010,7 +2131,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen102"
+    "question_id": "cbse_xi_keph2dd_c205_gen102",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A sample of 2 moles of O2 gas (treated as a diatomic gas) is heated at constant pressure from 300 K to 350 K. Compute the amount of heat absorbed using Cp = 7/2 R. Use R = 8.31 J mol-1 K-1.",
@@ -2024,7 +2146,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen103"
+    "question_id": "cbse_xi_keph2dd_c205_gen103",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "For a polyatomic gas with 4 vibrational modes (f = 4), determine the molar specific heat at constant volume (Cv) and the ratio of specific heats (gamma).",
@@ -2038,7 +2161,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen104"
+    "question_id": "cbse_xi_keph2dd_c205_gen104",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A 44.8-litre cylinder of helium at standard temperature and pressure contains about 2 moles of gas. Calculate the heat needed to raise the temperature of the gas by 15 °C at constant volume. Use R = 8.31 J mol-1 K-1.",
@@ -2052,7 +2176,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen105"
+    "question_id": "cbse_xi_keph2dd_c205_gen105",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A sample of 0.5 mol of a solid is heated from 298 K to 348 K at constant pressure. Assuming the molar specific heat of the solid is 3R, calculate the heat required.",
@@ -2066,7 +2191,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen106"
+    "question_id": "cbse_xi_keph2dd_c205_gen106",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   },
   {
     "question_text": "A diatomic gas with an additional vibrational mode has a molar specific heat at constant volume of 7/2 R. If 3 moles of such gas are heated at constant volume by 30 K, determine the heat added.",
@@ -2080,6 +2206,7 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "06_section_12_6",
-    "question_id": "cbse_xi_keph2dd_c205_gen107"
+    "question_id": "cbse_xi_keph2dd_c205_gen107",
+    "section_name": "12.6 SPECIFIC HEAT CAPACITY"
   }
 ]

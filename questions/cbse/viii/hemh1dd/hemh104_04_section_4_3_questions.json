@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen025"
+    "question_id": "cbse_viii_hemh1dd_c104_gen025",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "When a fair die is thrown, what is the probability of obtaining the outcome '2'?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen026"
+    "question_id": "cbse_viii_hemh1dd_c104_gen026",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "A spinner is divided into 3 sectors labeled A, B, and C. What is the probability of landing on sector A?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen027"
+    "question_id": "cbse_viii_hemh1dd_c104_gen027",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "A bag contains 4 red balls and 2 yellow balls. What is the probability of drawing a red ball without looking?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen028"
+    "question_id": "cbse_viii_hemh1dd_c104_gen028",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "Define the term 'random experiment' and provide one example from everyday life.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen029"
+    "question_id": "cbse_viii_hemh1dd_c104_gen029",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "Explain the concept of 'equally likely outcomes' using the example of tossing a coin repeatedly.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen030"
+    "question_id": "cbse_viii_hemh1dd_c104_gen030",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "When a die is thrown, calculate the probability of getting an even number. Show your working.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen031"
+    "question_id": "cbse_viii_hemh1dd_c104_gen031",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "Prove that when a fair die is thrown, the probability of obtaining an even number is ½, given that all outcomes are equally likely.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen032"
+    "question_id": "cbse_viii_hemh1dd_c104_gen032",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "Discuss how probability is used to make predictions in real-life situations like exit polls and weather forecasts. Include the role of historical data in your discussion.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen033"
+    "question_id": "cbse_viii_hemh1dd_c104_gen033",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "A bag contains 4 red balls and 2 yellow balls. If a ball is drawn at random, calculate the probability of drawing a yellow ball. Provide a detailed solution.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen034"
+    "question_id": "cbse_viii_hemh1dd_c104_gen034",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "A spinner is divided into 8 sectors with 5 green and 3 red sectors. (i) List the number of outcomes for landing on a green sector and not landing on a green sector. (ii) Calculate the probability of each event.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen035"
+    "question_id": "cbse_viii_hemh1dd_c104_gen035",
+    "section_name": "4.3 Chance and Probability"
   },
   {
     "question_text": "In an experiment of tossing a coin 100 times, Heads occurred 48 times and Tails occurred 52 times. Analyze this data to comment on how it reflects the concept of equally likely outcomes.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "04_section_4_3",
-    "question_id": "cbse_viii_hemh1dd_c104_gen036"
+    "question_id": "cbse_viii_hemh1dd_c104_gen036",
+    "section_name": "4.3 Chance and Probability"
   }
 ]

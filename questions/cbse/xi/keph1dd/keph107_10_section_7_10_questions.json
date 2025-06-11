@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen304"
+    "question_id": "cbse_xi_keph1dd_c107_gen304",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Which of the following correctly represents the gravitational potential energy (PE) of a satellite at a distance (R_E + h) from the center of the Earth?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen305"
+    "question_id": "cbse_xi_keph1dd_c107_gen305",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "In a circular orbit, the potential energy magnitude is twice the kinetic energy. Which statement does this fact imply?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen306"
+    "question_id": "cbse_xi_keph1dd_c107_gen306",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Which of the following statements is true regarding the energy of a satellite in orbit?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen307"
+    "question_id": "cbse_xi_keph1dd_c107_gen307",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "In the context of orbital mechanics, what is expected to happen when an object's total energy becomes zero or positive?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen308"
+    "question_id": "cbse_xi_keph1dd_c107_gen308",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Define the gravitational potential energy of an orbiting satellite and explain why its value is negative.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen309"
+    "question_id": "cbse_xi_keph1dd_c107_gen309",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Why is the total energy of a satellite in a bound orbit always negative?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen310"
+    "question_id": "cbse_xi_keph1dd_c107_gen310",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "How does the energy distribution change for a satellite when its orbit evolves from circular to elliptical?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen311"
+    "question_id": "cbse_xi_keph1dd_c107_gen311",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Describe in detail the energy changes (total, kinetic, and potential) that occur when a satellite is transferred from a circular orbit of radius 2R_E to a circular orbit of radius 4R_E. Include a discussion of the sign changes and relative magnitudes.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen312"
+    "question_id": "cbse_xi_keph1dd_c107_gen312",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Discuss the significance of having a negative total energy for satellites. What does it reveal about their orbital dynamics and how would the system behave if the total energy were zero or positive?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen313"
+    "question_id": "cbse_xi_keph1dd_c107_gen313",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Derive the expression for the total energy (E) of a satellite in a circular orbit in terms of G, m, M_E, R_E, and h. Explain each step in your derivation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen314"
+    "question_id": "cbse_xi_keph1dd_c107_gen314",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A satellite in a circular orbit has a total energy of -1.2 x 10^10 Joules. Is the following statement true or false: 'The kinetic energy of the satellite in this orbit is equal in magnitude to its total energy.'",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen315"
+    "question_id": "cbse_xi_keph1dd_c107_gen315",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "True or False: In a circular orbit, the potential energy of the satellite is always exactly twice the magnitude of its kinetic energy, but with an opposite sign.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen316"
+    "question_id": "cbse_xi_keph1dd_c107_gen316",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "True or False: In an elliptical orbit, while the kinetic and potential energies vary along the path, the total energy remains constant and negative regardless of the satellite's position.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen317"
+    "question_id": "cbse_xi_keph1dd_c107_gen317",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A 500 kg satellite is in a circular orbit with an orbital radius of 3R_E (where R_E is the Earth\\'s radius, 6.37 x 10^6 m). Calculate the kinetic energy of the satellite. Use G M_E / R_E^2 = g = 9.81 m/s^2 for Earth's gravitational acceleration.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen318"
+    "question_id": "cbse_xi_keph1dd_c107_gen318",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A satellite is in a circular orbit with a radius of 2R_E. Calculate its total orbital energy. Express your answer in Joules in terms of G, M_E, m, and R_E, and then estimate numerically for a satellite of mass 400 kg. (Use R_E = 6.37 x 10^6 m and g = 9.81 m/s^2.)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen319"
+    "question_id": "cbse_xi_keph1dd_c107_gen319",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Using Example 7.8, verify the energy change required to transfer a 400 kg satellite from an orbit of radius 2R_E to an orbit of radius 4R_E. Show your calculation step by step.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen320"
+    "question_id": "cbse_xi_keph1dd_c107_gen320",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A satellite of mass 200 kg is moved from a circular orbit of radius 3R_E to one of radius 5R_E. Using the expression E = -G m M_E/(2r) and G M_E = g R_E^2 with g = 9.81 m/s^2 and R_E = 6.37 x 10^6 m, calculate the energy difference required for this orbital transfer. Provide your answer in Joules.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen321"
+    "question_id": "cbse_xi_keph1dd_c107_gen321",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   }
 ]

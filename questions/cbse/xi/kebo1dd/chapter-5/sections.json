@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "5.1 THE ROOT"
+    },
+    {
+      "number": 2,
+      "name": "5.2 THE STEM"
+    },
+    {
+      "number": 3,
+      "name": "5.3 THE LEAF"
+    },
+    {
+      "number": 4,
+      "name": "5.4 THE INFLORESCENCE"
+    },
+    {
+      "number": 5,
+      "name": "5.5 THE FLOWER"
+    },
+    {
+      "number": 6,
+      "name": "5.6 THE FRUIT"
+    },
+    {
+      "number": 7,
+      "name": "5.7 THE SEED"
+    },
+    {
+      "number": 8,
+      "name": "5.8 SEMI-TECHNICAL DESCRIPTION OF A TYPICAL FLOWERING PLANT"
+    },
+    {
+      "number": 9,
+      "name": "5.9 SOLANACEAE"
+    }
+  ]
+}

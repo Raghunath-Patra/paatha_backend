@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen016"
+    "question_id": "cbse_xii_lemh1dd_c106_gen016",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "If f'(x) > 0 for every x in an interval, then which of the following is true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen017"
+    "question_id": "cbse_xii_lemh1dd_c106_gen017",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "For which function does f'(x) = 0 imply that the function is constant?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen018"
+    "question_id": "cbse_xii_lemh1dd_c106_gen018",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Define what it means for a function to be strictly increasing over an interval, and provide an example.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen019"
+    "question_id": "cbse_xii_lemh1dd_c106_gen019",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "State the first derivative test for determining if a function is increasing or decreasing on an interval.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen020"
+    "question_id": "cbse_xii_lemh1dd_c106_gen020",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Differentiate the function f(x) = 7x - 3 and explain why f is increasing on ℝ.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen021"
+    "question_id": "cbse_xii_lemh1dd_c106_gen021",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Prove using the Mean Value Theorem that if f'(x) > 0 for every x in (a, b), then f is increasing on [a, b].",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen022"
+    "question_id": "cbse_xii_lemh1dd_c106_gen022",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Given f(x) = x³ - 3x² + 4x, use the derivative test to determine the intervals where the function is increasing or decreasing. Justify your answer using critical points.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen023"
+    "question_id": "cbse_xii_lemh1dd_c106_gen023",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Find the intervals in which the function f(x) = x² - 4x + 6 is increasing and decreasing.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen024"
+    "question_id": "cbse_xii_lemh1dd_c106_gen024",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Determine the increasing and decreasing intervals of f(x) = 4x³ - 6x² - 72x + 30 by finding its critical points.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen025"
+    "question_id": "cbse_xii_lemh1dd_c106_gen025",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "For f(x) = sin(3x) on the interval [0, π/2], determine the intervals where the function is increasing and decreasing using its derivative.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen026"
+    "question_id": "cbse_xii_lemh1dd_c106_gen026",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "For the function f(x) = sin x + cos x on [0, 2π], determine the intervals where f is increasing and decreasing using derivative analysis.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen027"
+    "question_id": "cbse_xii_lemh1dd_c106_gen027",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "For the function f(x) = cos x on [0, 2π], determine the intervals where f is increasing and where it is decreasing.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen028"
+    "question_id": "cbse_xii_lemh1dd_c106_gen028",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   }
 ]

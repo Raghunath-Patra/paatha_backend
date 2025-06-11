@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen055"
+    "question_id": "cbse_xii_leph1dd_c102_gen055",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "At large distances (r >> a), how does the electric potential due to a dipole vary with distance?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen056"
+    "question_id": "cbse_xii_leph1dd_c102_gen056",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Which of the following best describes the angular dependence of the electric dipole potential?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen057"
+    "question_id": "cbse_xii_leph1dd_c102_gen057",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Using the binomial approximation up to first order in a/r, what is the approximated expression for 1/r1 where r1 is given by r1^2 = r^2 + a^2 - 2ar cosθ?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen058"
+    "question_id": "cbse_xii_leph1dd_c102_gen058",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Which statement correctly contrasts the spatial decay of the electric field due to a single charge with that due to an electric dipole?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen059"
+    "question_id": "cbse_xii_leph1dd_c102_gen059",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Describe the significance of the dipole moment vector's direction in an electric dipole.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen060"
+    "question_id": "cbse_xii_leph1dd_c102_gen060",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "State the condition under which the approximate expression V = (p cosθ)/(4πϵ0 r^2) is valid.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen061"
+    "question_id": "cbse_xii_leph1dd_c102_gen061",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Explain how the binomial approximation is used in deriving the expressions for 1/r1 and 1/r2 for a dipole.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen062"
+    "question_id": "cbse_xii_leph1dd_c102_gen062",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "What does the superposition principle imply when calculating the electric potential of a dipole?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen063"
+    "question_id": "cbse_xii_leph1dd_c102_gen063",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Derive the expression for the electric potential V at a point far away from the center of an electric dipole, starting from the individual potentials due to the charges and using the binomial approximation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen064"
+    "question_id": "cbse_xii_leph1dd_c102_gen064",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Discuss how the potential of an electric dipole depends on both the magnitude and the direction of its dipole moment relative to the observation point. How does rotating the observation point about the dipole’s axis affect the measured potential?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen065"
+    "question_id": "cbse_xii_leph1dd_c102_gen065",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "Compare the spatial decay of the electric potential due to a single charge with that of an electric dipole. What are the practical implications of these differences in fields like molecular interactions or antenna design?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen066"
+    "question_id": "cbse_xii_leph1dd_c102_gen066",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "The electric potential due to an electric dipole is zero in the equatorial plane (where θ = 90°).",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen067"
+    "question_id": "cbse_xii_leph1dd_c102_gen067",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "For a point dipole, the expression V = (p cosθ)/(4πϵ0 r^2) is an approximation valid only for r >> a.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen068"
+    "question_id": "cbse_xii_leph1dd_c102_gen068",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "The superposition principle does not apply to the calculation of the electric potential because potential is not a vector quantity.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen069"
+    "question_id": "cbse_xii_leph1dd_c102_gen069",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "A dipole has a dipole moment p = 6.0 × 10^-30 C·m. Calculate the electric potential along its axis (θ = 0) at a distance r = 0.10 m from the center. Use ϵ0 = 8.85 × 10^-12 C^2/(N·m^2).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen070"
+    "question_id": "cbse_xii_leph1dd_c102_gen070",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "For a dipole consisting of charges ±q separated by 2a, the potential along the dipole axis at a distance r = 0.50 m is measured to be 2.0 × 10^-3 V (θ = 0). Determine the magnitude of the dipole moment p. Use ϵ0 = 8.85 × 10^-12 C^2/(N·m^2).",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen071"
+    "question_id": "cbse_xii_leph1dd_c102_gen071",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "A dipole has a dipole moment p = 8.0 × 10^-29 C·m, oriented along the positive x-axis. Find the electric potential at a point located at a distance r = 1.0 m from the dipole center and at an angle of 60° from the x-axis. Use ϵ0 = 8.85 × 10^-12 C^2/(N·m^2).",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen072"
+    "question_id": "cbse_xii_leph1dd_c102_gen072",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "For a dipole with half-length a = 0.05 m and an observation point at distance r = 2.0 m with an angle θ = 30° (cos30° ≈ 0.866), use the binomial approximation to calculate the fractional difference between 1/r1 and 1/r.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen073"
+    "question_id": "cbse_xii_leph1dd_c102_gen073",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   },
   {
     "question_text": "A dipole is placed in vacuum with a dipole moment p = 1.5 × 10^-28 C·m. Determine the potential at a point located 3.0 m from the dipole center at an angle of 120° (cos120° = -0.5). Use ϵ0 = 8.85 × 10^-12 C^2/(N·m^2).",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "05_section_2_4",
-    "question_id": "cbse_xii_leph1dd_c102_gen074"
+    "question_id": "cbse_xii_leph1dd_c102_gen074",
+    "section_name": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE"
   }
 ]

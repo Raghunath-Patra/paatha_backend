@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen092"
+    "question_id": "cbse_xii_leph1dd_c102_gen092",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "For a single point charge, how are the equipotential surfaces arranged?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen093"
+    "question_id": "cbse_xii_leph1dd_c102_gen093",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Why must the electric field be perpendicular to the equipotential surface?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen094"
+    "question_id": "cbse_xii_leph1dd_c102_gen094",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "In a uniform electric field along the x-axis, what is the orientation of the equipotential surfaces?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen095"
+    "question_id": "cbse_xii_leph1dd_c102_gen095",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "What does the equation |E| = |ΔV|/Δl imply about the direction of the electric field?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen096"
+    "question_id": "cbse_xii_leph1dd_c102_gen096",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Explain why equipotential surfaces are always perpendicular to electric field lines. Provide reasoning based on work and potential concepts.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen097"
+    "question_id": "cbse_xii_leph1dd_c102_gen097",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Describe the equipotential surface pattern you would expect for a dipole configuration.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen098"
+    "question_id": "cbse_xii_leph1dd_c102_gen098",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Write the formula for the electric potential V at a distance r from a point charge q, and briefly explain the significance of each term.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen099"
+    "question_id": "cbse_xii_leph1dd_c102_gen099",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Discuss the alternative visual pictures offered by equipotential surfaces compared to electric field lines. Why might one representation be more useful than the other in certain contexts?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen100"
+    "question_id": "cbse_xii_leph1dd_c102_gen100",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Compare and contrast the equipotential surfaces for a single point charge and two identical positive charges. What changes occur with distance from the charges?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen101"
+    "question_id": "cbse_xii_leph1dd_c102_gen101",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Derive the formula that relates the magnitude of the electric field to the change in electric potential across a small displacement perpendicular to an equipotential surface.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen102"
+    "question_id": "cbse_xii_leph1dd_c102_gen102",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "True or False: Moving a test charge along an equipotential surface requires doing work because the potential difference is nonzero.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen103"
+    "question_id": "cbse_xii_leph1dd_c102_gen103",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "True or False: The electric field can have a tangential component along an equipotential surface.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen104"
+    "question_id": "cbse_xii_leph1dd_c102_gen104",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "True or False: In a uniform electric field, the equipotential surfaces are parallel planes.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen105"
+    "question_id": "cbse_xii_leph1dd_c102_gen105",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "A unit positive charge is moved perpendicularly between two equipotential surfaces where the potential difference is 10 V over a distance of 2 mm. Calculate the magnitude of the electric field between the surfaces.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen106"
+    "question_id": "cbse_xii_leph1dd_c102_gen106",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "A point charge of 1×10^-6 C produces a potential of 9000 V at a certain point. Find the distance of this point from the charge. (Assume 1/(4πε₀) = 9×10^9 N·m²/C²)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen107"
+    "question_id": "cbse_xii_leph1dd_c102_gen107",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "In a uniform electric field directed along the x-axis, the potential difference between two points separated by 2 mm is measured to be 4 V. Calculate the magnitude of the electric field and state its direction relative to increasing potential.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen108"
+    "question_id": "cbse_xii_leph1dd_c102_gen108",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "For a point charge of 2×10^-6 C, calculate the potential at a point 10 cm away from the charge. Use 1/(4πε₀) = 9×10^9 N·m²/C².",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen109"
+    "question_id": "cbse_xii_leph1dd_c102_gen109",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   },
   {
     "question_text": "Two identical positive point charges are separated by 20 cm. Describe qualitatively how the equipotential surfaces transform from being nearly spherical near each individual charge to a merged surface farther away.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "leph102",
     "section_id": "07_section_2_6",
-    "question_id": "cbse_xii_leph1dd_c102_gen110"
+    "question_id": "cbse_xii_leph1dd_c102_gen110",
+    "section_name": "2.6 EQUIPOTENTIAL SURFACES"
   }
 ]

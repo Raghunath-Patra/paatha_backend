@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "1.1 Agricultural Practices"
+    },
+    {
+      "number": 2,
+      "name": "1.2 Basic Practices of Crop Production"
+    },
+    {
+      "number": 3,
+      "name": "1.3 Preparation of Soil"
+    },
+    {
+      "number": 4,
+      "name": "1.4 Sowing"
+    },
+    {
+      "number": 5,
+      "name": "1.5 Adding Manure and Fertilisers"
+    },
+    {
+      "number": 6,
+      "name": "1.6 Irrigation"
+    },
+    {
+      "number": 7,
+      "name": "1.7 Protection from Weeds"
+    },
+    {
+      "number": 8,
+      "name": "1.8 Harvesting"
+    },
+    {
+      "number": 9,
+      "name": "1.9 Storage"
+    },
+    {
+      "number": 10,
+      "name": "1.10 Food from Animals"
+    }
+  ]
+}

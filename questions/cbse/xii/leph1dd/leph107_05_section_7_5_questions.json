@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen073"
+    "question_id": "cbse_xii_leph1dd_c107_gen073",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "In a purely capacitive AC circuit, by how many degrees does the current lead the voltage?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen074"
+    "question_id": "cbse_xii_leph1dd_c107_gen074",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "What happens to the capacitive reactance when the frequency of the applied AC voltage is doubled?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen075"
+    "question_id": "cbse_xii_leph1dd_c107_gen075",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "When a capacitor is connected to a DC source, what happens to the current once the capacitor is fully charged?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen076"
+    "question_id": "cbse_xii_leph1dd_c107_gen076",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "What is the mathematical expression for the peak current in a capacitive AC circuit?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen077"
+    "question_id": "cbse_xii_leph1dd_c107_gen077",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Describe how capacitive reactance is analogous to resistance in an AC circuit.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen078"
+    "question_id": "cbse_xii_leph1dd_c107_gen078",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Explain why the average power supplied to a capacitor in an AC circuit is zero.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen079"
+    "question_id": "cbse_xii_leph1dd_c107_gen079",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Write down the expression that relates the charge (q) on a capacitor to the voltage (v) across it.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen080"
+    "question_id": "cbse_xii_leph1dd_c107_gen080",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Outline the phase relationship between the current and the voltage in a capacitive AC circuit.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen081"
+    "question_id": "cbse_xii_leph1dd_c107_gen081",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Explain using a phasor diagram how the phase relationship in a capacitive AC circuit depicts the 90° lead of current relative to voltage.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen082"
+    "question_id": "cbse_xii_leph1dd_c107_gen082",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Discuss the effect of inserting an iron rod into the coil in an AC circuit that consists of a light bulb and an inductor. Explain the physical reasoning behind the change in the bulb’s brightness.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen083"
+    "question_id": "cbse_xii_leph1dd_c107_gen083",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Compare and contrast the behavior of a capacitor when connected to a DC source versus an AC source. Discuss the processes of charging, discharging, and current flow in both cases.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen084"
+    "question_id": "cbse_xii_leph1dd_c107_gen084",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "True or False: In an AC circuit containing a capacitor, the voltage across the capacitor reaches its maximum value at the same time as the current.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen085"
+    "question_id": "cbse_xii_leph1dd_c107_gen085",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "True or False: Capacitive reactance has the same unit as resistance in an AC circuit.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen086"
+    "question_id": "cbse_xii_leph1dd_c107_gen086",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "A capacitor of 15.0 microfarads is connected to an AC source with a peak voltage of 220 V and a frequency of 50 Hz. Calculate the capacitive reactance (Xc) and the RMS current in the circuit. Show all steps.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen087"
+    "question_id": "cbse_xii_leph1dd_c107_gen087",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "A capacitive circuit has a capacitor of 10 microfarads, and it is connected to an AC source with a peak voltage of 110 V at 60 Hz. Calculate the peak current in the circuit.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen088"
+    "question_id": "cbse_xii_leph1dd_c107_gen088",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "In an AC circuit with a capacitor of 10 microfarads and a peak voltage of 110 V at 60 Hz, if the frequency is reduced to 30 Hz, by what factor does the capacitive reactance change and what is the expected effect on the peak current?",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen089"
+    "question_id": "cbse_xii_leph1dd_c107_gen089",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "A capacitor in an AC circuit is initially connected with a capacitance C0, yielding a peak current of 1.5 A when the peak voltage is 100 V and the frequency is 120 Hz. If the capacitance is halved, what is the new peak current?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen090"
+    "question_id": "cbse_xii_leph1dd_c107_gen090",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Determine the capacitive reactance and peak current for an AC circuit when given a peak voltage of 250 V, frequency of 50 Hz, and a capacitor of 20 microfarads. Then, calculate the expected effect if the frequency is doubled.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen091"
+    "question_id": "cbse_xii_leph1dd_c107_gen091",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   }
 ]

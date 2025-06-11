@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen014"
+    "question_id": "cbse_xi_kemh1dd_c113_gen014",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Which of the following measures of dispersion is calculated based on the deviations of observations from the mean?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen015"
+    "question_id": "cbse_xi_kemh1dd_c113_gen015",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Which of the following is a limitation of using range as a measure of dispersion?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen016"
+    "question_id": "cbse_xi_kemh1dd_c113_gen016",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Batsman A has a scoring range of 117 runs while Batsman B has a range of 14 runs. What can you infer about the consistency of their scores?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen017"
+    "question_id": "cbse_xi_kemh1dd_c113_gen017",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Define 'Range' in the context of measures of dispersion.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen018"
+    "question_id": "cbse_xi_kemh1dd_c113_gen018",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Explain briefly why the range is not a complete measure of dispersion.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen019"
+    "question_id": "cbse_xi_kemh1dd_c113_gen019",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Define 'Mean Deviation' in statistics.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen020"
+    "question_id": "cbse_xi_kemh1dd_c113_gen020",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Define 'Standard Deviation' and state its importance.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen021"
+    "question_id": "cbse_xi_kemh1dd_c113_gen021",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Derive the formula for the standard deviation for a dataset and explain each step in your derivation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen022"
+    "question_id": "cbse_xi_kemh1dd_c113_gen022",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Compare and contrast mean deviation and standard deviation as measures of dispersion. In your answer, discuss the advantages and limitations of each.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen023"
+    "question_id": "cbse_xi_kemh1dd_c113_gen023",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Given the dataset: {3, 7, 7, 10, 12}, calculate the range.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen024"
+    "question_id": "cbse_xi_kemh1dd_c113_gen024",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "For the dataset {5, 8, 10, 15, 17}, calculate the mean deviation from the mean.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen025"
+    "question_id": "cbse_xi_kemh1dd_c113_gen025",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Compute the standard deviation for the dataset {2, 4, 6, 8, 10}.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen026"
+    "question_id": "cbse_xi_kemh1dd_c113_gen026",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Consider the dataset of scores: {45, 52, 60, 65, 70, 75, 82}. Calculate the range, mean deviation from the mean, and standard deviation.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen027"
+    "question_id": "cbse_xi_kemh1dd_c113_gen027",
+    "section_name": "13.2 Measures of Dispersion"
   }
 ]

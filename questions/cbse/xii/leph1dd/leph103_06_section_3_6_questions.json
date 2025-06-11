@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen086"
+    "question_id": "cbse_xii_leph1dd_c103_gen086",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "According to the text, when the relation between V and I is non-unique for a given current, which material exhibits such behavior?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen087"
+    "question_id": "cbse_xii_leph1dd_c103_gen087",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Which graph characteristic best illustrates ohmic behavior?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen088"
+    "question_id": "cbse_xii_leph1dd_c103_gen088",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "What happens when V ceases to be proportional to I in a device?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen089"
+    "question_id": "cbse_xii_leph1dd_c103_gen089",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "In the context of the section, which material shows a region of negative resistance?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen090"
+    "question_id": "cbse_xii_leph1dd_c103_gen090",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Explain the difference between ohmic and non-ohmic behavior as described in section 3.6.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen091"
+    "question_id": "cbse_xii_leph1dd_c103_gen091",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "What role does the sign of the voltage play in devices like diodes, as described in the text?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen092"
+    "question_id": "cbse_xii_leph1dd_c103_gen092",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Describe what is meant by a non-unique V-I relation, as mentioned in the text.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen093"
+    "question_id": "cbse_xii_leph1dd_c103_gen093",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Identify one key characteristic of GaAs devices mentioned in section 3.6.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen094"
+    "question_id": "cbse_xii_leph1dd_c103_gen094",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Discuss the limitations of Ohm's law and explain how non-ohmic devices, such as diodes, deviate from Ohm's law. In your answer, include the characteristics of their V-I curves.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen095"
+    "question_id": "cbse_xii_leph1dd_c103_gen095",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Analyze the significance of the tangent line drawn on the V-I graph in Figure 3.5 with respect to determining the local resistance.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen096"
+    "question_id": "cbse_xii_leph1dd_c103_gen096",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Evaluate the impact of non-ohmic behavior on practical circuit design and identify any potential advantages such materials may provide.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen097"
+    "question_id": "cbse_xii_leph1dd_c103_gen097",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "True or False: In a diode, reversing the sign of the voltage always produces a current of equal magnitude in the opposite direction.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen098"
+    "question_id": "cbse_xii_leph1dd_c103_gen098",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "True or False: Gallium Arsenide (GaAs) exhibits a region of negative resistance, where increasing voltage leads to a decrease in current.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen099"
+    "question_id": "cbse_xii_leph1dd_c103_gen099",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "True or False: Ohm's law applies universally to all materials and electric circuit components.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen100"
+    "question_id": "cbse_xii_leph1dd_c103_gen100",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "A good conductor follows Ohm's law, where V = I × R. If the resistance R is 5 Ω and the current I is 2 A, calculate the voltage V across the conductor.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen101"
+    "question_id": "cbse_xii_leph1dd_c103_gen101",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "Consider a GaAs device that exhibits a non-unique V-I relationship. If at I = 3 mA the device shows two voltage values, 2 V and 4 V, compute the average of these voltage values.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen102"
+    "question_id": "cbse_xii_leph1dd_c103_gen102",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "For a diode, current remains negligible until a threshold voltage is reached. If at V = 0.7 V the current is 0.1 mA and at V = 0.8 V the current increases to 10 mA, determine the change in current (in mA) and the change in voltage (in V) between these two points, then compute the approximate differential resistance.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen103"
+    "question_id": "cbse_xii_leph1dd_c103_gen103",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "A GaAs device exhibits negative resistance behavior. If increasing the voltage from 1 V to 1.5 V causes the current to decrease from 5 mA to 3 mA, calculate the negative differential resistance.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen104"
+    "question_id": "cbse_xii_leph1dd_c103_gen104",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   },
   {
     "question_text": "A diode exhibits a sharp increase in current after a threshold voltage. If below 0.6 V the current is 1 μA and above 0.6 V the current jumps to 5 mA, determine the magnitude of the change in current.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph103",
     "section_id": "06_section_3_6",
-    "question_id": "cbse_xii_leph1dd_c103_gen105"
+    "question_id": "cbse_xii_leph1dd_c103_gen105",
+    "section_name": "3.6 LIMITATIONS OF OHM'S LAW"
   }
 ]

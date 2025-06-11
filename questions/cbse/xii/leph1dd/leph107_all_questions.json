@@ -120,7 +120,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen110"
+    "question_id": "cbse_xii_leph1dd_c107_gen110",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "In a purely resistive circuit, what is the value of cos φ?",
@@ -139,7 +140,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen111"
+    "question_id": "cbse_xii_leph1dd_c107_gen111",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "At resonance in a series LCR circuit, the impedance is:",
@@ -158,7 +160,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen112"
+    "question_id": "cbse_xii_leph1dd_c107_gen112",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "In a circuit containing only an inductor or a capacitor, the current is called 'wattless current' because:",
@@ -177,7 +180,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen113"
+    "question_id": "cbse_xii_leph1dd_c107_gen113",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "Explain why a low power factor in power transmission lines leads to large power losses.",
@@ -191,7 +195,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen114"
+    "question_id": "cbse_xii_leph1dd_c107_gen114",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "Define resonance in an LCR series circuit and state its significance with respect to power dissipation.",
@@ -205,7 +210,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen115"
+    "question_id": "cbse_xii_leph1dd_c107_gen115",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "Why is there no power dissipation in a circuit composed solely of an inductor or a capacitor, even though a current is flowing?",
@@ -219,7 +225,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen116"
+    "question_id": "cbse_xii_leph1dd_c107_gen116",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "Discuss in detail how the use of a capacitor in an AC circuit can improve the power factor, making reference to phasor diagrams in your explanation.",
@@ -233,7 +240,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen117"
+    "question_id": "cbse_xii_leph1dd_c107_gen117",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "Describe how a metal detector operates on the principle of resonance in AC circuits.",
@@ -247,7 +255,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen118"
+    "question_id": "cbse_xii_leph1dd_c107_gen118",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "True or False: In a purely inductive circuit, the power factor is 0.",
@@ -261,7 +270,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen119"
+    "question_id": "cbse_xii_leph1dd_c107_gen119",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "True or False: At resonance in a series LCR circuit, the phase angle φ between the voltage and current is non-zero.",
@@ -275,7 +285,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen120"
+    "question_id": "cbse_xii_leph1dd_c107_gen120",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "A sinusoidal voltage of peak value 283 V and frequency 50 Hz is applied to a series LCR circuit with R = 3 Ω, L = 25.48 mH, and C = 796 μF. Calculate the inductive reactance (XL), capacitive reactance (XC), and the impedance (Z) of the circuit.",
@@ -289,7 +300,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen121"
+    "question_id": "cbse_xii_leph1dd_c107_gen121",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "Using the circuit parameters from the previous problem, determine the phase angle φ between the voltage and the current and state whether the current leads or lags the voltage.",
@@ -303,7 +315,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen122"
+    "question_id": "cbse_xii_leph1dd_c107_gen122",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "For the circuit in the previous problems, calculate the rms current and the average power dissipated in the circuit.",
@@ -317,7 +330,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen123"
+    "question_id": "cbse_xii_leph1dd_c107_gen123",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "A series LCR circuit has L = 25.48 mH and C = 796 μF. Determine the resonant frequency (in Hz) of the circuit.",
@@ -331,7 +345,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xii_leph1dd_c107_gen124"
+    "question_id": "cbse_xii_leph1dd_c107_gen124",
+    "section_name": "7.7 POWER IN AC CIRCUIT: THE POWER FACTOR"
   },
   {
     "question_text": "Which of the following best describes the definition of impedance in a series LCR circuit?",
@@ -350,7 +365,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen092"
+    "question_id": "cbse_xii_leph1dd_c107_gen092",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "In a series LCR circuit at resonance, which condition is satisfied?",
@@ -369,7 +385,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen093"
+    "question_id": "cbse_xii_leph1dd_c107_gen093",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Which voltage in a series LCR circuit is in phase with the circuit current?",
@@ -388,7 +405,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen094"
+    "question_id": "cbse_xii_leph1dd_c107_gen094",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "What does the phase angle φ represent in an LCR circuit?",
@@ -407,7 +425,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen095"
+    "question_id": "cbse_xii_leph1dd_c107_gen095",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Which phenomenon is utilized in radio tuning by adjusting a circuit's resonant frequency?",
@@ -426,7 +445,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen096"
+    "question_id": "cbse_xii_leph1dd_c107_gen096",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Describe the physical significance of the phase angle φ in a series LCR circuit and what information it provides about the circuit's behavior.",
@@ -440,7 +460,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen097"
+    "question_id": "cbse_xii_leph1dd_c107_gen097",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Define the term 'resonant frequency' in the context of a series LCR circuit and provide its expression in terms of L and C.",
@@ -454,7 +475,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen098"
+    "question_id": "cbse_xii_leph1dd_c107_gen098",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Explain how phasor diagrams assist in the analysis of an AC LCR circuit.",
@@ -468,7 +490,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen099"
+    "question_id": "cbse_xii_leph1dd_c107_gen099",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "What happens to the current amplitude in a series LCR circuit when the circuit is driven at its resonant frequency?",
@@ -482,7 +505,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen100"
+    "question_id": "cbse_xii_leph1dd_c107_gen100",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Using phasors, derive an expression for the current amplitude Im in a series LCR circuit powered by an AC source Vm sin(ωt).",
@@ -496,7 +520,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen101"
+    "question_id": "cbse_xii_leph1dd_c107_gen101",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Discuss the differences between the transient and steady-state solutions in an AC LCR circuit and explain why the transient solution is often ignored after a long time.",
@@ -510,7 +535,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen102"
+    "question_id": "cbse_xii_leph1dd_c107_gen102",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "True or False: A series RC circuit can exhibit resonance similar to a series LCR circuit.",
@@ -524,7 +550,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen103"
+    "question_id": "cbse_xii_leph1dd_c107_gen103",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "True or False: At the resonant frequency of a series LCR circuit, the voltages across the inductor and capacitor cancel each other, allowing the source voltage to appear entirely across the resistor.",
@@ -538,7 +565,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen104"
+    "question_id": "cbse_xii_leph1dd_c107_gen104",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "A series circuit contains a resistor of 200 Ω and a capacitor of 15.0 μF connected to a 220 V, 50 Hz AC source. Calculate the impedance of the circuit and the resulting current amplitude. Show all your work.",
@@ -552,7 +580,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen105"
+    "question_id": "cbse_xii_leph1dd_c107_gen105",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "In a series LCR circuit with R = 100 Ω, L = 1.00 mH, and C = 1.00 nF, determine the resonant angular frequency and the maximum current amplitude if the source voltage amplitude is 100 V.",
@@ -566,7 +595,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen106"
+    "question_id": "cbse_xii_leph1dd_c107_gen106",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "A series LCR circuit has a resistor of 50 Ω, an inductor with inductive reactance Xl = 80 Ω, and a capacitor with capacitive reactance Xc = 120 Ω. Calculate the phase angle φ between the current and the source voltage using the formula tan φ = (Xc - Xl) / R.",
@@ -580,7 +610,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen107"
+    "question_id": "cbse_xii_leph1dd_c107_gen107",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "A series LCR circuit operating at a frequency of 10 kHz has a resistor of 75 Ω, an inductor of 2.0 mH, and a capacitor of unknown value such that the phase angle φ is 0°. Determine the value of the capacitor required for resonance.",
@@ -594,7 +625,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen108"
+    "question_id": "cbse_xii_leph1dd_c107_gen108",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "An AC source of amplitude 150 V is applied to a series LCR circuit that has an impedance of 250 Ω and a phase angle of 30°. Calculate the real power dissipated in the circuit.",
@@ -608,7 +640,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xii_leph1dd_c107_gen109"
+    "question_id": "cbse_xii_leph1dd_c107_gen109",
+    "section_name": "7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT"
   },
   {
     "question_text": "Which of the following best describes the time dependence of the electric mains voltage in most homes and offices?",
@@ -627,7 +660,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen001"
+    "question_id": "cbse_xii_leph1dd_c107_gen001",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "What is the primary advantage of using AC voltage over DC voltage in power transmission?",
@@ -646,7 +680,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen002"
+    "question_id": "cbse_xii_leph1dd_c107_gen002",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Transformers are a key component in AC systems because they rely on which of the following principles?",
@@ -665,7 +700,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen003"
+    "question_id": "cbse_xii_leph1dd_c107_gen003",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Which historical figure is credited with inventing the induction motor and contributing significantly to the development of AC systems?",
@@ -684,7 +720,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen004"
+    "question_id": "cbse_xii_leph1dd_c107_gen004",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Define alternating current (AC) and state its typical waveform.",
@@ -698,7 +735,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen005"
+    "question_id": "cbse_xii_leph1dd_c107_gen005",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the behavior of voltage and current in a pure resistor when connected to an AC source.",
@@ -712,7 +750,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen006"
+    "question_id": "cbse_xii_leph1dd_c107_gen006",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Briefly describe the significance of the phase difference between voltage and current in AC circuits.",
@@ -726,7 +765,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen007"
+    "question_id": "cbse_xii_leph1dd_c107_gen007",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why the majority of electrical energy is transmitted as AC rather than DC.",
@@ -740,7 +780,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen008"
+    "question_id": "cbse_xii_leph1dd_c107_gen008",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss how alternating current (AC) circuits are utilized in everyday electrical devices. Provide examples to support your explanation.",
@@ -754,7 +795,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen009"
+    "question_id": "cbse_xii_leph1dd_c107_gen009",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Evaluate the impact of Nikola Tesla's contributions on the development of modern electrical engineering. Discuss both technical and societal implications.",
@@ -768,7 +810,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen010"
+    "question_id": "cbse_xii_leph1dd_c107_gen010",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Analyze the phase relationship between voltage and current in an AC circuit, and compare the behavior in a circuit containing only resistors versus one containing reactive components (capacitors or inductors).",
@@ -782,7 +825,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen011"
+    "question_id": "cbse_xii_leph1dd_c107_gen011",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In an AC circuit, the current always reaches its maximum value at the same instance as the voltage.",
@@ -796,7 +840,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen012"
+    "question_id": "cbse_xii_leph1dd_c107_gen012",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Transformers can efficiently change voltage levels only when working with AC voltage.",
@@ -810,7 +855,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen013"
+    "question_id": "cbse_xii_leph1dd_c107_gen013",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The term 'AC current' is redundant because 'AC' already implies that the current alternates.",
@@ -824,7 +870,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen014"
+    "question_id": "cbse_xii_leph1dd_c107_gen014",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "A sinusoidal AC voltage is given by v = vₘ sin(ωt). If the maximum voltage vₘ is 120 V, what is the voltage when ωt = π/2?",
@@ -838,7 +885,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen015"
+    "question_id": "cbse_xii_leph1dd_c107_gen015",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "In an AC circuit, if both the voltage and current have a period of 2π seconds, determine the angular frequency ω.",
@@ -852,7 +900,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen016"
+    "question_id": "cbse_xii_leph1dd_c107_gen016",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "A resistor is connected to an AC voltage source described by v = 230 sin(ωt), where ω is 50 rad/s. If the resistance is 100 Ω, calculate the maximum current in the circuit.",
@@ -866,7 +915,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen017"
+    "question_id": "cbse_xii_leph1dd_c107_gen017",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Consider an AC circuit where the voltage is given by v = 240 sin(ωt) and the current by i = 12 sin(ωt - π/6). Calculate the phase difference in degrees and indicate which waveform is leading.",
@@ -880,7 +930,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xii_leph1dd_c107_gen018"
+    "question_id": "cbse_xii_leph1dd_c107_gen018",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following correctly describes the relationship between the rms voltage (V) and the peak voltage (Vₘ) in an AC circuit?",
@@ -899,7 +950,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen019"
+    "question_id": "cbse_xii_leph1dd_c107_gen019",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "In a circuit with an AC source and a resistor, which equation represents Ohm's law for AC circuits using rms values?",
@@ -918,7 +970,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen020"
+    "question_id": "cbse_xii_leph1dd_c107_gen020",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "In a pure resistor connected to an AC source, the voltage and current are:",
@@ -937,7 +990,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen021"
+    "question_id": "cbse_xii_leph1dd_c107_gen021",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Kirchhoff's loop rule applied to an AC circuit containing only a resistor and an AC source yields which of the following equations?",
@@ -956,7 +1010,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen022"
+    "question_id": "cbse_xii_leph1dd_c107_gen022",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "What is the definition of effective or rms current in an AC circuit?",
@@ -975,7 +1030,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen023"
+    "question_id": "cbse_xii_leph1dd_c107_gen023",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Define rms voltage and explain its significance in comparing AC and DC circuits.",
@@ -989,7 +1045,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen024"
+    "question_id": "cbse_xii_leph1dd_c107_gen024",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Explain why the average instantaneous current over one full cycle in an AC circuit is zero, yet there is still power dissipation in a resistor.",
@@ -1003,7 +1060,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen025"
+    "question_id": "cbse_xii_leph1dd_c107_gen025",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "State the expression for the instantaneous power dissipated in a resistor when an AC current flows through it.",
@@ -1017,7 +1075,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen026"
+    "question_id": "cbse_xii_leph1dd_c107_gen026",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Derive the expression for the average power dissipated in an AC circuit with a resistor, starting from the instantaneous power expression.",
@@ -1031,7 +1090,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen027"
+    "question_id": "cbse_xii_leph1dd_c107_gen027",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Discuss the importance of using rms values in AC circuits. Explain how rms values help in comparing AC circuits to DC circuits with reference to power calculations.",
@@ -1045,7 +1105,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen028"
+    "question_id": "cbse_xii_leph1dd_c107_gen028",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Explain how Kirchhoff's loop rule is applied to derive the expression for current in a resistor connected to an AC voltage source.",
@@ -1059,7 +1120,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen029"
+    "question_id": "cbse_xii_leph1dd_c107_gen029",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "True or False: In an AC circuit with only a resistor, the voltage and current are out of phase due to reactive effects.",
@@ -1073,7 +1135,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen030"
+    "question_id": "cbse_xii_leph1dd_c107_gen030",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "True or False: The average value of the instantaneous current in a full cycle of an AC sinusoidal current is zero.",
@@ -1087,7 +1150,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen031"
+    "question_id": "cbse_xii_leph1dd_c107_gen031",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "A resistor is connected to an AC source with a peak voltage of 400 V and has a resistance of 200 ohms. Calculate the peak current and the rms current in the circuit.",
@@ -1101,7 +1165,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen032"
+    "question_id": "cbse_xii_leph1dd_c107_gen032",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "A light bulb rated at 60 W is connected to a household AC supply of 120 V (rms). Calculate the resistance of the bulb, the peak voltage of the source, and the rms current flowing through the bulb.",
@@ -1115,7 +1180,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen033"
+    "question_id": "cbse_xii_leph1dd_c107_gen033",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "In an AC circuit, if the peak current through a resistor of 10 ohms is 5 A, compute the average power dissipated in the resistor.",
@@ -1129,7 +1195,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen034"
+    "question_id": "cbse_xii_leph1dd_c107_gen034",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Given an AC circuit with a resistor, if the current amplitude is 8 A and the resistance is 50 ohms, compute the average power dissipated in the resistor.",
@@ -1143,7 +1210,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen035"
+    "question_id": "cbse_xii_leph1dd_c107_gen035",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "An AC source produces a sinusoidal voltage with a peak amplitude of 311 V. If the measured rms current in the circuit is 0.5 A, determine the resistance of the circuit and verify its consistency with Ohm's law.",
@@ -1157,7 +1225,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xii_leph1dd_c107_gen036"
+    "question_id": "cbse_xii_leph1dd_c107_gen036",
+    "section_name": "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
   },
   {
     "question_text": "Which physical principle is used in a transformer to change the voltage from one value to another?",
@@ -1176,7 +1245,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen125"
+    "question_id": "cbse_xii_leph1dd_c107_gen125",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Which equation represents the relation between the secondary voltage (Vₛ) and the primary voltage (Vₚ) in an ideal transformer?",
@@ -1195,7 +1265,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen126"
+    "question_id": "cbse_xii_leph1dd_c107_gen126",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "In a transformer, which of the following configurations provides the best flux linkage between coils?",
@@ -1214,7 +1285,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen127"
+    "question_id": "cbse_xii_leph1dd_c107_gen127",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Which factor is increased when a transformer operates as a step-up transformer?",
@@ -1233,7 +1305,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen128"
+    "question_id": "cbse_xii_leph1dd_c107_gen128",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Which of the following does NOT contribute to energy losses in real transformers?",
@@ -1252,7 +1325,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen129"
+    "question_id": "cbse_xii_leph1dd_c107_gen129",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Describe the roles of the primary and secondary coils in a transformer.",
@@ -1266,7 +1340,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen130"
+    "question_id": "cbse_xii_leph1dd_c107_gen130",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "List and explain the three main assumptions used in deriving the transformer voltage ratio equation.",
@@ -1280,7 +1355,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen131"
+    "question_id": "cbse_xii_leph1dd_c107_gen131",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Explain why, in the ideal transformer model, the primary current does not become infinite despite the assumption of zero resistance in the primary coil.",
@@ -1294,7 +1370,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen132"
+    "question_id": "cbse_xii_leph1dd_c107_gen132",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Identify and briefly describe the main sources of energy losses in real transformers.",
@@ -1308,7 +1385,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen133"
+    "question_id": "cbse_xii_leph1dd_c107_gen133",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Explain in detail how a transformer operates, including the process of induction and the relationships between the turns ratio, voltage, and current.",
@@ -1322,7 +1400,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen134"
+    "question_id": "cbse_xii_leph1dd_c107_gen134",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Compare the two different configurations for winding the primary and secondary coils in a transformer and analyze how each configuration affects the magnetic flux linkage and overall transformer efficiency.",
@@ -1336,7 +1415,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen135"
+    "question_id": "cbse_xii_leph1dd_c107_gen135",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Discuss the role of step-up and step-down transformers in large-scale electrical power transmission. In your answer, explain the advantages and trade-offs associated with each type.",
@@ -1350,7 +1430,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen136"
+    "question_id": "cbse_xii_leph1dd_c107_gen136",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "True or False: In an ideal transformer, the voltage across the secondary coil (Vₛ) is equal to the induced electromotive force (emf) in the secondary.",
@@ -1364,7 +1445,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen137"
+    "question_id": "cbse_xii_leph1dd_c107_gen137",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "True or False: Eddy currents do not cause any energy losses in a transformer.",
@@ -1378,7 +1460,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen138"
+    "question_id": "cbse_xii_leph1dd_c107_gen138",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "True or False: In a transformer operating as a step-up transformer, the secondary current is greater than the primary current.",
@@ -1392,7 +1475,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen139"
+    "question_id": "cbse_xii_leph1dd_c107_gen139",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "A transformer has a primary coil with 100 turns and a secondary coil with 200 turns. If the input voltage is 220 V and the primary current is 10 A, calculate the secondary voltage and current assuming an ideal transformer.",
@@ -1406,7 +1490,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen140"
+    "question_id": "cbse_xii_leph1dd_c107_gen140",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "In a step-down transformer, the primary coil has 200 turns and the secondary coil has 100 turns. If 500 V is applied to the primary and the primary current is 5 A, determine the secondary voltage and current assuming an ideal transformer.",
@@ -1420,7 +1505,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen141"
+    "question_id": "cbse_xii_leph1dd_c107_gen141",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "Calculate the output-input voltage ratio for a transformer with a primary coil of 150 turns and a secondary coil of 75 turns. Also, specify whether the transformer is a step-up or step-down type.",
@@ -1434,7 +1520,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen142"
+    "question_id": "cbse_xii_leph1dd_c107_gen142",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "A well-designed transformer operates at 95% efficiency. If the input power is 1000 W, estimate the power loss in the transformer.",
@@ -1448,7 +1535,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen143"
+    "question_id": "cbse_xii_leph1dd_c107_gen143",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "A transformer has a primary coil with 50 turns and a secondary coil with 150 turns. If an alternating voltage of 110 V is applied to the primary and the measured secondary current is 2 A, verify whether this is consistent with the ideal transformer equations. Assume ideal conditions for calculation.",
@@ -1462,7 +1550,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xii_leph1dd_c107_gen144"
+    "question_id": "cbse_xii_leph1dd_c107_gen144",
+    "section_name": "7.8 TRANSFORMERS"
   },
   {
     "question_text": "What role does capacitive reactance (1/ωC) play in an AC circuit with a capacitor?",
@@ -1481,7 +1570,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen073"
+    "question_id": "cbse_xii_leph1dd_c107_gen073",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "In a purely capacitive AC circuit, by how many degrees does the current lead the voltage?",
@@ -1500,7 +1590,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen074"
+    "question_id": "cbse_xii_leph1dd_c107_gen074",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "What happens to the capacitive reactance when the frequency of the applied AC voltage is doubled?",
@@ -1519,7 +1610,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen075"
+    "question_id": "cbse_xii_leph1dd_c107_gen075",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "When a capacitor is connected to a DC source, what happens to the current once the capacitor is fully charged?",
@@ -1538,7 +1630,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen076"
+    "question_id": "cbse_xii_leph1dd_c107_gen076",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "What is the mathematical expression for the peak current in a capacitive AC circuit?",
@@ -1557,7 +1650,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen077"
+    "question_id": "cbse_xii_leph1dd_c107_gen077",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Describe how capacitive reactance is analogous to resistance in an AC circuit.",
@@ -1571,7 +1665,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen078"
+    "question_id": "cbse_xii_leph1dd_c107_gen078",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Explain why the average power supplied to a capacitor in an AC circuit is zero.",
@@ -1585,7 +1680,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen079"
+    "question_id": "cbse_xii_leph1dd_c107_gen079",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Write down the expression that relates the charge (q) on a capacitor to the voltage (v) across it.",
@@ -1599,7 +1695,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen080"
+    "question_id": "cbse_xii_leph1dd_c107_gen080",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Outline the phase relationship between the current and the voltage in a capacitive AC circuit.",
@@ -1613,7 +1710,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen081"
+    "question_id": "cbse_xii_leph1dd_c107_gen081",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Explain using a phasor diagram how the phase relationship in a capacitive AC circuit depicts the 90° lead of current relative to voltage.",
@@ -1627,7 +1725,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen082"
+    "question_id": "cbse_xii_leph1dd_c107_gen082",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Discuss the effect of inserting an iron rod into the coil in an AC circuit that consists of a light bulb and an inductor. Explain the physical reasoning behind the change in the bulb’s brightness.",
@@ -1641,7 +1740,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen083"
+    "question_id": "cbse_xii_leph1dd_c107_gen083",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Compare and contrast the behavior of a capacitor when connected to a DC source versus an AC source. Discuss the processes of charging, discharging, and current flow in both cases.",
@@ -1655,7 +1755,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen084"
+    "question_id": "cbse_xii_leph1dd_c107_gen084",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "True or False: In an AC circuit containing a capacitor, the voltage across the capacitor reaches its maximum value at the same time as the current.",
@@ -1669,7 +1770,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen085"
+    "question_id": "cbse_xii_leph1dd_c107_gen085",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "True or False: Capacitive reactance has the same unit as resistance in an AC circuit.",
@@ -1683,7 +1785,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen086"
+    "question_id": "cbse_xii_leph1dd_c107_gen086",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "A capacitor of 15.0 microfarads is connected to an AC source with a peak voltage of 220 V and a frequency of 50 Hz. Calculate the capacitive reactance (Xc) and the RMS current in the circuit. Show all steps.",
@@ -1697,7 +1800,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen087"
+    "question_id": "cbse_xii_leph1dd_c107_gen087",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "A capacitive circuit has a capacitor of 10 microfarads, and it is connected to an AC source with a peak voltage of 110 V at 60 Hz. Calculate the peak current in the circuit.",
@@ -1711,7 +1815,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen088"
+    "question_id": "cbse_xii_leph1dd_c107_gen088",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "In an AC circuit with a capacitor of 10 microfarads and a peak voltage of 110 V at 60 Hz, if the frequency is reduced to 30 Hz, by what factor does the capacitive reactance change and what is the expected effect on the peak current?",
@@ -1725,7 +1830,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen089"
+    "question_id": "cbse_xii_leph1dd_c107_gen089",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "A capacitor in an AC circuit is initially connected with a capacitance C0, yielding a peak current of 1.5 A when the peak voltage is 100 V and the frequency is 120 Hz. If the capacitance is halved, what is the new peak current?",
@@ -1739,7 +1845,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen090"
+    "question_id": "cbse_xii_leph1dd_c107_gen090",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "Determine the capacitive reactance and peak current for an AC circuit when given a peak voltage of 250 V, frequency of 50 Hz, and a capacitor of 20 microfarads. Then, calculate the expected effect if the frequency is doubled.",
@@ -1753,7 +1860,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xii_leph1dd_c107_gen091"
+    "question_id": "cbse_xii_leph1dd_c107_gen091",
+    "section_name": "7.5 AC VOLTAGE APPLIED TO A CAPACITOR"
   },
   {
     "question_text": "What is a phasor in the context of ac circuits?",
@@ -1772,7 +1880,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen037"
+    "question_id": "cbse_xii_leph1dd_c107_gen037",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Which statement correctly describes the phasor representation of an ac source connected to a resistor?",
@@ -1791,7 +1900,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen038"
+    "question_id": "cbse_xii_leph1dd_c107_gen038",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "In a resistor circuit, what is the phase difference between the voltage and current phasors?",
@@ -1810,7 +1920,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen039"
+    "question_id": "cbse_xii_leph1dd_c107_gen039",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Which circuit elements typically show a phase difference between voltage and current in ac circuits?",
@@ -1829,7 +1940,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen040"
+    "question_id": "cbse_xii_leph1dd_c107_gen040",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "At any given instant, what do the vertical projections of the rotating phasors V and I represent?",
@@ -1848,7 +1960,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen041"
+    "question_id": "cbse_xii_leph1dd_c107_gen041",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Explain the role of the rotating phasor in representing ac voltage and how its vertical projection relates to the sinusoidal behavior observed in ac circuits.",
@@ -1862,7 +1975,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen042"
+    "question_id": "cbse_xii_leph1dd_c107_gen042",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Describe how the magnitude of a phasor is related to the peak value of the corresponding sinusoidal function in ac circuits.",
@@ -1876,7 +1990,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen043"
+    "question_id": "cbse_xii_leph1dd_c107_gen043",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "How does using a phasor diagram simplify the analysis of ac circuits that include inductors and capacitors compared to directly analyzing the time-varying sinusoidal functions?",
@@ -1890,7 +2005,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen044"
+    "question_id": "cbse_xii_leph1dd_c107_gen044",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Discuss how the phasor method is used to analyze ac circuits containing resistors, inductors, and capacitors. Compare the phase relationships observed between voltage and current in these different types of circuits.",
@@ -1904,7 +2020,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen045"
+    "question_id": "cbse_xii_leph1dd_c107_gen045",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Derive the relationship between the vertical projection of a rotating phasor and the corresponding sinusoidal function, and explain its importance in the context of ac circuit analysis.",
@@ -1918,7 +2035,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen046"
+    "question_id": "cbse_xii_leph1dd_c107_gen046",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "Explain how the continuous rotation of a phasor with angular frequency ω results in the generation of a sinusoidal waveform for voltage and current, and describe the role of ω in this process.",
@@ -1932,7 +2050,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen047"
+    "question_id": "cbse_xii_leph1dd_c107_gen047",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "True or False: For a resistor circuit, the voltage and current phasors are always perpendicular to each other.",
@@ -1946,7 +2065,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen048"
+    "question_id": "cbse_xii_leph1dd_c107_gen048",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "True or False: In phasor representation, the magnitude of the phasor equals the peak value of the sinusoidal function it represents.",
@@ -1960,7 +2080,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen049"
+    "question_id": "cbse_xii_leph1dd_c107_gen049",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "True or False: In circuits containing capacitors and inductors, the phase difference between voltage and current is always exactly 90 degrees.",
@@ -1974,7 +2095,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen050"
+    "question_id": "cbse_xii_leph1dd_c107_gen050",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "An ac voltage is represented by a phasor with a peak value of 120 V and rotates with an angular speed of 100 rad/s. Calculate the instantaneous voltage at t = 0.05 s.",
@@ -1988,7 +2110,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen051"
+    "question_id": "cbse_xii_leph1dd_c107_gen051",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "A resistor circuit has an ac voltage with a peak value of 100 V and a corresponding current with a peak value of 2 A. If the voltage is represented by v = 100 sin (ωt) and the resistor ensures that current is in phase with voltage, determine the instantaneous current when ωt = π/6.",
@@ -2002,7 +2125,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen052"
+    "question_id": "cbse_xii_leph1dd_c107_gen052",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "In an inductor circuit where the current is given by i = 1 A sin (ωt) and the voltage leads the current by 90° with a peak voltage of 10 V, write the expression for the instantaneous voltage.",
@@ -2016,7 +2140,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen053"
+    "question_id": "cbse_xii_leph1dd_c107_gen053",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "A phasor rotates with an angular speed of 200 rad/s. Calculate the angular displacement after 0.01 s and then determine the vertical projection (sinusoidal value) if the phasor has an amplitude of 30 units.",
@@ -2030,7 +2155,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xii_leph1dd_c107_gen054"
+    "question_id": "cbse_xii_leph1dd_c107_gen054",
+    "section_name": "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS — PHASORS"
   },
   {
     "question_text": "What does the term inductive reactance (Xₗ) represent in a pure inductive AC circuit?",
@@ -2049,7 +2175,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen055"
+    "question_id": "cbse_xii_leph1dd_c107_gen055",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "For a pure inductor with an AC voltage v = vₘ sin(ωt) applied, what is the expression for the current i(t) derived from integrating di/dt?",
@@ -2068,7 +2195,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen056"
+    "question_id": "cbse_xii_leph1dd_c107_gen056",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "What is the significance of the negative sign in the equation v - L (di/dt) = 0 in the context of a pure inductor circuit?",
@@ -2087,7 +2215,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen057"
+    "question_id": "cbse_xii_leph1dd_c107_gen057",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "Which parameter in a pure inductive circuit plays a role analogous to resistance in a DC circuit?",
@@ -2106,7 +2235,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen058"
+    "question_id": "cbse_xii_leph1dd_c107_gen058",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "What is the average power consumed by a pure inductor in an AC circuit over one complete cycle?",
@@ -2125,7 +2255,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen059"
+    "question_id": "cbse_xii_leph1dd_c107_gen059",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "Explain why the integration constant is set to zero when obtaining the current i(t) from di/dt = (vₘ/L) sin(ωt) in a pure inductive circuit.",
@@ -2139,7 +2270,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen060"
+    "question_id": "cbse_xii_leph1dd_c107_gen060",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "Define inductive reactance and list its SI unit.",
@@ -2153,7 +2285,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen061"
+    "question_id": "cbse_xii_leph1dd_c107_gen061",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "How is the phase relationship between current and voltage described in a purely inductive AC circuit?",
@@ -2167,7 +2300,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen062"
+    "question_id": "cbse_xii_leph1dd_c107_gen062",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "Describe the role and significance of phasor diagrams in analyzing AC circuits.",
@@ -2181,7 +2315,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen063"
+    "question_id": "cbse_xii_leph1dd_c107_gen063",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "Derive the expression for the current i(t) in a circuit where an AC voltage v = vₘ sin(ωt) is applied across a pure inductor with inductance L. Begin with the equation v = L (di/dt).",
@@ -2195,7 +2330,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen064"
+    "question_id": "cbse_xii_leph1dd_c107_gen064",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "Compare the behavior of a pure resistor and a pure inductor in an AC circuit in terms of how they limit current and consume power.",
@@ -2209,7 +2345,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen065"
+    "question_id": "cbse_xii_leph1dd_c107_gen065",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "Discuss why the average power delivered to a pure inductive circuit over one complete cycle is zero, and explain the implications of this result for energy storage in the inductor.",
@@ -2223,7 +2360,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen066"
+    "question_id": "cbse_xii_leph1dd_c107_gen066",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "True or False: In a purely inductive AC circuit, the current leads the voltage by 90°.",
@@ -2237,7 +2375,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen067"
+    "question_id": "cbse_xii_leph1dd_c107_gen067",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "True or False: The inductive reactance of an inductor increases with increasing frequency of the AC source.",
@@ -2251,7 +2390,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen068"
+    "question_id": "cbse_xii_leph1dd_c107_gen068",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "A 25.0 mH inductor is connected to an AC source of 220 V (rms) with a frequency of 50 Hz. Calculate the inductive reactance and the rms current in the circuit.",
@@ -2265,7 +2405,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen069"
+    "question_id": "cbse_xii_leph1dd_c107_gen069",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "A 10 mH inductor is connected across a 110 V (rms) AC source operating at 60 Hz. Determine the inductive reactance and the rms current in the circuit.",
@@ -2279,7 +2420,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen070"
+    "question_id": "cbse_xii_leph1dd_c107_gen070",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "For an AC circuit with an inductor of 15 mH, if the current amplitude is 5 A and the frequency is 100 Hz, find the amplitude of the source voltage.",
@@ -2293,7 +2435,8 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen071"
+    "question_id": "cbse_xii_leph1dd_c107_gen071",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   },
   {
     "question_text": "A student measures a 90° phase difference between voltage and current in a pure inductive circuit. Discuss whether this observation aligns with theoretical predictions and explain the underlying reason for this phase difference.",
@@ -2307,6 +2450,7 @@
     "source": "generated",
     "chapter_id": "leph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xii_leph1dd_c107_gen072"
+    "question_id": "cbse_xii_leph1dd_c107_gen072",
+    "section_name": "7.4 AC VOLTAGE APPLIED TO AN INDUCTOR"
   }
 ]

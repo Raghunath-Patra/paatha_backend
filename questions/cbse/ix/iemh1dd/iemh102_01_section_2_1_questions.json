@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen001"
+    "question_id": "cbse_ix_iemh1dd_c102_gen001",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "According to the Remainder Theorem, if a polynomial f(x) is divided by (x - a), what is the remainder?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen002"
+    "question_id": "cbse_ix_iemh1dd_c102_gen002",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Which statement best describes the Factor Theorem?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen003"
+    "question_id": "cbse_ix_iemh1dd_c102_gen003",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Which of the following identities correctly represents the difference of two squares?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen004"
+    "question_id": "cbse_ix_iemh1dd_c102_gen004",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define a polynomial. Give the general form and explain the terms used.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen005"
+    "question_id": "cbse_ix_iemh1dd_c102_gen005",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "What is the Remainder Theorem and how is it used in finding the remainder of polynomial division?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen006"
+    "question_id": "cbse_ix_iemh1dd_c102_gen006",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "State the Factor Theorem and explain its significance in polynomial factorisation.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen007"
+    "question_id": "cbse_ix_iemh1dd_c102_gen007",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Explain what an algebraic identity is, and provide two examples along with their applications in factorisation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen008"
+    "question_id": "cbse_ix_iemh1dd_c102_gen008",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Prove the algebraic identity (x + y)² = x² + 2xy + y².",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen009"
+    "question_id": "cbse_ix_iemh1dd_c102_gen009",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Derive the factorisation of x² - y² using the difference of two squares identity and provide a detailed explanation of each step.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen010"
+    "question_id": "cbse_ix_iemh1dd_c102_gen010",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Discuss the relationship between the Remainder Theorem and the Factor Theorem with supporting examples.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen011"
+    "question_id": "cbse_ix_iemh1dd_c102_gen011",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Find the value of f(3) for the polynomial f(x) = 2x² - 3x + 5 and verify it using the Remainder Theorem when f(x) is divided by (x - 3).",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen012"
+    "question_id": "cbse_ix_iemh1dd_c102_gen012",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Factorise the polynomial f(x) = x³ - 6x² + 11x - 6 using the Factor Theorem and provide a step-by-step explanation.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen013"
+    "question_id": "cbse_ix_iemh1dd_c102_gen013",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Using the Remainder Theorem, determine the remainder when f(x) = 2x³ + 3x² - x + 5 is divided by (x - 2).",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen014"
+    "question_id": "cbse_ix_iemh1dd_c102_gen014",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Factorise the expression 4x² - 9 by recognizing it as a difference of two squares and show the step-by-step process.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "01_section_2_1",
-    "question_id": "cbse_ix_iemh1dd_c102_gen015"
+    "question_id": "cbse_ix_iemh1dd_c102_gen015",
+    "section_name": "2.1 Introduction"
   }
 ]

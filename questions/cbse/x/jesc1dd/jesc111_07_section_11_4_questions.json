@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen041"
+    "question_id": "cbse_x_jesc1dd_c111_gen041",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "The unit of resistance in the SI system is the ___, which is defined as one volt per one ampere.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen042"
+    "question_id": "cbse_x_jesc1dd_c111_gen042",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "In an experiment with a nichrome wire, if the number of cells is increased from one to four, the graph of potential difference (V) against current (I) is found to be a straight line through the origin. What does this indicate about the relationship between V and I?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen043"
+    "question_id": "cbse_x_jesc1dd_c111_gen043",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "A resistor in an electric circuit has a voltage drop of 6 V when a current of 2 A flows through it. What is the resistance of the resistor?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen044"
+    "question_id": "cbse_x_jesc1dd_c111_gen044",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "Define electrical resistance in the context of electron flow in a conductor.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen045"
+    "question_id": "cbse_x_jesc1dd_c111_gen045",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "What does a straight line through the origin on a V–I graph indicate about a particular conductor's behavior?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen046"
+    "question_id": "cbse_x_jesc1dd_c111_gen046",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "Explain the purpose and working principle of a rheostat in an electrical circuit.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen047"
+    "question_id": "cbse_x_jesc1dd_c111_gen047",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "In Activity 11.2, different components such as a nichrome wire, a torch bulb, and a 10 W bulb were tested in the same circuit. Briefly explain why the ammeter readings differed among these components.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen048"
+    "question_id": "cbse_x_jesc1dd_c111_gen048",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "Describe the experimental procedure of Activity 11.1 and explain how it demonstrates the principle of Ohm’s law.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen049"
+    "question_id": "cbse_x_jesc1dd_c111_gen049",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "Discuss how Ohm’s law is applied to control current in practical circuits. In your answer, explain the role of devices such as rheostats and variable resistors.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen050"
+    "question_id": "cbse_x_jesc1dd_c111_gen050",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "True or False: If the resistance in a circuit is doubled while keeping the applied voltage constant, the current through the circuit will also double.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen051"
+    "question_id": "cbse_x_jesc1dd_c111_gen051",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "True or False: The V–I graph of an ohmic conductor always passes through the origin, indicating zero voltage when there is no current.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen052"
+    "question_id": "cbse_x_jesc1dd_c111_gen052",
+    "section_name": "11.4 OHM’S LAW"
   },
   {
     "question_text": "True or False: Ohm’s law can be applied universally to all materials under every condition.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "07_section_11_4",
-    "question_id": "cbse_x_jesc1dd_c111_gen053"
+    "question_id": "cbse_x_jesc1dd_c111_gen053",
+    "section_name": "11.4 OHM’S LAW"
   }
 ]

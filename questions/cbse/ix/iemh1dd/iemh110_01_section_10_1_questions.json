@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen001"
+    "question_id": "cbse_ix_iemh1dd_c110_gen001",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "A triangle has side lengths 7, 8, and 9 units. Compute the product s(s – a)(s – b)(s – c) under the square root in Heron’s formula.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen002"
+    "question_id": "cbse_ix_iemh1dd_c110_gen002",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "In a triangle with two equal sides of length 10 cm and a base of 12 cm, what is the semiperimeter?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen003"
+    "question_id": "cbse_ix_iemh1dd_c110_gen003",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "If the area of a triangle computed using Heron’s formula is zero, what does it imply about the triangle?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen004"
+    "question_id": "cbse_ix_iemh1dd_c110_gen004",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Define the semiperimeter of a triangle and demonstrate how to compute it for a triangle with side lengths a, b, and c.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen005"
+    "question_id": "cbse_ix_iemh1dd_c110_gen005",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Explain why Heron’s formula is particularly useful in finding the area of a triangle when the height is not known.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen006"
+    "question_id": "cbse_ix_iemh1dd_c110_gen006",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Discuss the historical importance of Heron and his contributions to geometry and mensuration in mathematics.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen007"
+    "question_id": "cbse_ix_iemh1dd_c110_gen007",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Compare the two methods of finding the area of a triangle: using ½ × base × height and using Heron’s formula. What are the advantages and limitations of each method?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen008"
+    "question_id": "cbse_ix_iemh1dd_c110_gen008",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Derive Heron’s formula for the area of a triangle starting from the basic formula ½ × base × height and the Law of Cosines.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen009"
+    "question_id": "cbse_ix_iemh1dd_c110_gen009",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Prove that for a right triangle with legs a and b and hypotenuse c, Heron’s formula simplifies to the familiar area formula ½ × a × b.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen010"
+    "question_id": "cbse_ix_iemh1dd_c110_gen010",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Using Heron’s formula, find the area of an equilateral triangle with side length 10 cm.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen011"
+    "question_id": "cbse_ix_iemh1dd_c110_gen011",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "Calculate the area of a triangle with sides measuring 13 cm, 14 cm, and 15 cm using Heron’s formula.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen012"
+    "question_id": "cbse_ix_iemh1dd_c110_gen012",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "A triangle has sides in the ratio 3:5:7 and a perimeter of 300 m. Find its area using Heron’s formula.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen013"
+    "question_id": "cbse_ix_iemh1dd_c110_gen013",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "A triangle has two sides of lengths 8 cm and 11 cm, and its perimeter is 32 cm. Use Heron’s formula to find its area.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen014"
+    "question_id": "cbse_ix_iemh1dd_c110_gen014",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   },
   {
     "question_text": "A triangular park has sides of lengths 120 m, 80 m, and 50 m. A 3 m wide gate is left on one side for entry. Calculate (a) the area of the park using Heron’s formula, and (b) the cost of fencing the boundary at ₹20 per metre (excluding the gate).",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "iemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_ix_iemh1dd_c110_gen015"
+    "question_id": "cbse_ix_iemh1dd_c110_gen015",
+    "section_name": "10.1 Area of a Triangle — by Heron’s Formula"
   }
 ]

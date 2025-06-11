@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "3.1 INTRODUCTION"
+    },
+    {
+      "number": 1,
+      "name": "3.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "3.2 SCALARS AND VECTORS"
+    },
+    {
+      "number": 2,
+      "name": "3.2 SCALARS AND VECTORS"
+    },
+    {
+      "number": 3,
+      "name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
+    },
+    {
+      "number": 3,
+      "name": "3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS"
+    },
+    {
+      "number": 4,
+      "name": "3.4 ADDITION AND SUBTRACTION OF VECTORS — GRAPHICAL METHOD"
+    },
+    {
+      "number": 4,
+      "name": "3.4 ADDITION AND SUBTRACTION OF VECTORS — GRAPHICAL METHOD"
+    },
+    {
+      "number": 5,
+      "name": "3.5 RESOLUTION OF VECTORS"
+    },
+    {
+      "number": 5,
+      "name": "3.5 RESOLUTION OF VECTORS"
+    },
+    {
+      "number": 6,
+      "name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
+    },
+    {
+      "number": 6,
+      "name": "3.6 VECTOR ADDITION – ANALYTICAL METHOD"
+    },
+    {
+      "number": 7,
+      "name": "3.7 MOTION IN A PLANE"
+    },
+    {
+      "number": 7,
+      "name": "3.7 MOTION IN A PLANE"
+    },
+    {
+      "number": 8,
+      "name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
+    },
+    {
+      "number": 8,
+      "name": "3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION"
+    },
+    {
+      "number": 9,
+      "name": "3.9 PROJECTILE MOTION"
+    },
+    {
+      "number": 9,
+      "name": "3.9 PROJECTILE MOTION"
+    },
+    {
+      "number": 10,
+      "name": "3.10 UNIFORM CIRCULAR MOTION"
+    },
+    {
+      "number": 10,
+      "name": "3.10 UNIFORM CIRCULAR MOTION"
+    }
+  ]
+}

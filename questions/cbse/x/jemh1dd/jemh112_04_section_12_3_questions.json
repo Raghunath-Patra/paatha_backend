@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen027"
+    "question_id": "cbse_x_jemh1dd_c112_gen027",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "What is the formula for the volume of a half cylinder in terms of its radius r and length (or height) H?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen028"
+    "question_id": "cbse_x_jemh1dd_c112_gen028",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "In a problem a toy is constructed as a hemisphere surmounted by a cone (sharing the same base radius). If the toy is completely circumscribed by a right circular cylinder whose base radius equals that of the toy and whose height equals the sum of the hemisphere’s radius and the cone's height, what does the volume difference between the cylinder and the toy represent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen029"
+    "question_id": "cbse_x_jemh1dd_c112_gen029",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "Define the term 'apparent capacity' of a glass as used in problems involving composite solids.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen030"
+    "question_id": "cbse_x_jemh1dd_c112_gen030",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "Explain why, in contrast to surface area, the volume of a solid obtained by joining two solids is simply the sum of the volumes of the individual parts.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen031"
+    "question_id": "cbse_x_jemh1dd_c112_gen031",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "Write the formulas for the volume of a cuboid and a cylinder.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen032"
+    "question_id": "cbse_x_jemh1dd_c112_gen032",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "Provide a detailed proof showing that the volume of a composite solid made by adjoining a cuboid and a half cylinder is the sum of their individual volumes. Use an example where the cuboid has dimensions l, b, h and the half cylinder has radius r and length H.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen033"
+    "question_id": "cbse_x_jemh1dd_c112_gen033",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "Derive the formula for the volume difference between a right circular cylinder that circumscribes a composite solid (a hemisphere surmounted by a cone sharing the same base) and the composite solid itself. Assume the common base has radius r, the cone has height h, and the hemisphere has radius r.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen034"
+    "question_id": "cbse_x_jemh1dd_c112_gen034",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "A storage container is composed of a cuboid with dimensions 4 m × 4 m × 4 m, surmounted by a half-sphere whose diameter equals 4 m. (a) Find the total volume of the container. (b) If machinery occupying 10 m³ is placed inside, what is the volume available for storage?",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen035"
+    "question_id": "cbse_x_jemh1dd_c112_gen035",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "A cylindrical vessel has an inner diameter of 10 cm and a height of 20 cm. However, the bottom of the vessel is a hemispherical cavity which reduces its capacity. (a) Calculate the apparent capacity of the vessel. (b) Determine its actual capacity if π = 3.14.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen036"
+    "question_id": "cbse_x_jemh1dd_c112_gen036",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "A solid toy consists of a hemisphere of radius 3 cm surmounted by a cone of height 5 cm (with the cone's base coinciding with the hemisphere's flat surface). (a) Determine the volume of the toy. (b) If a right circular cylinder inscribes the toy (with the same base radius and height equal to 3 + 5 = 8 cm), calculate the difference in volume between the cylinder and the toy. Use π = 3.14.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen037"
+    "question_id": "cbse_x_jemh1dd_c112_gen037",
+    "section_name": "12.3 Volume of a Combination of Solids"
   },
   {
     "question_text": "A bucket is formed by joining a right circular cylinder (with radius 6 cm and height 12 cm) and a right circular cone (with the same radius and height 8 cm) attached at the bottom. (a) Compute the total volume of the bucket. (b) If the handles and fixtures take up 200 cm³ of space, what is the effective volume available for water?",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "jemh112",
     "section_id": "04_section_12_3",
-    "question_id": "cbse_x_jemh1dd_c112_gen038"
+    "question_id": "cbse_x_jemh1dd_c112_gen038",
+    "section_name": "12.3 Volume of a Combination of Solids"
   }
 ]

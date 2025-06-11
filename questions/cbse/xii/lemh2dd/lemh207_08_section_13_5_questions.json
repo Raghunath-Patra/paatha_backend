@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen056"
+    "question_id": "cbse_xii_lemh2dd_c207_gen056",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "In Bayes' theorem, the term P(Eᵢ) is referred to as the __________ probability.",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen057"
+    "question_id": "cbse_xii_lemh2dd_c207_gen057",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Bayes' theorem is also known as the formula for the probability of '__________'.",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen058"
+    "question_id": "cbse_xii_lemh2dd_c207_gen058",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Which of the following equations represents the theorem of total probability?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen059"
+    "question_id": "cbse_xii_lemh2dd_c207_gen059",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Define Bayes' theorem and explain its significance in determining reverse probabilities.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen060"
+    "question_id": "cbse_xii_lemh2dd_c207_gen060",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "What does the 'partition of a sample space' mean? Provide an example illustrating this concept.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen061"
+    "question_id": "cbse_xii_lemh2dd_c207_gen061",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Explain the difference between 'priori probability' and 'a posteriori probability' in the context of Bayes' theorem.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen062"
+    "question_id": "cbse_xii_lemh2dd_c207_gen062",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Using the definition of conditional probability and the concept of partitions, prove the theorem of total probability.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen063"
+    "question_id": "cbse_xii_lemh2dd_c207_gen063",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "Derive Bayes' theorem starting from the definition of conditional probability and the theorem of total probability.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen064"
+    "question_id": "cbse_xii_lemh2dd_c207_gen064",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "A construction job has a strike probability of 0.65. The job will be completed on time with probability 0.80 if there is no strike and with probability 0.32 if there is a strike. Calculate the overall probability that the construction job is completed on time.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen065"
+    "question_id": "cbse_xii_lemh2dd_c207_gen065",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "A factory has three machines: A produces 25% of bolts with 5% defect rate, B produces 35% with 4% defect rate, and C produces 40% with 2% defect rate. If a randomly drawn bolt is defective, compute the probability that it was produced by machine B.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen066"
+    "question_id": "cbse_xii_lemh2dd_c207_gen066",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "In a scenario, a man who speaks the truth 3 out of 4 times rolls a die and reports a six. Compute the probability that the die actually shows a six.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen067"
+    "question_id": "cbse_xii_lemh2dd_c207_gen067",
+    "section_name": "13.5 Bayes' Theorem"
   },
   {
     "question_text": "A doctor has four modes of transport: train (P = 3/10, late probability = 1/4), bus (P = 1/5, late probability = 1/3), scooter (P = 1/10, late probability = 1/12), and other (P = 2/5, on time). If the doctor arrives late, find the probability he took the train.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh207",
     "section_id": "08_section_13_5",
-    "question_id": "cbse_xii_lemh2dd_c207_gen068"
+    "question_id": "cbse_xii_lemh2dd_c207_gen068",
+    "section_name": "13.5 Bayes' Theorem"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen001"
+    "question_id": "cbse_xii_lech1dd_c102_gen001",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "What happens when an external opposite potential is applied gradually to a galvanic cell until it reaches 1.1 V?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen002"
+    "question_id": "cbse_xii_lech1dd_c102_gen002",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "In the reaction Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), what role does Cu²⁺(aq) play?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen003"
+    "question_id": "cbse_xii_lech1dd_c102_gen003",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "What effect is observed when the external potential applied to a galvanic cell is increased beyond 1.1 V?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen004"
+    "question_id": "cbse_xii_lech1dd_c102_gen004",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "In dilute solutions, why is the term 'activity' used instead of concentration?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen005"
+    "question_id": "cbse_xii_lech1dd_c102_gen005",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "State the overall redox reaction that occurs in a Daniell cell.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen006"
+    "question_id": "cbse_xii_lech1dd_c102_gen006",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "Explain why an external opposing voltage of 1.1 V stops the spontaneous reaction in a galvanic cell.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen007"
+    "question_id": "cbse_xii_lech1dd_c102_gen007",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "Discuss the significance of using activity instead of concentration in calculating cell potentials, particularly in non-ideal or concentrated solutions.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen008"
+    "question_id": "cbse_xii_lech1dd_c102_gen008",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "Describe the functioning of a Daniell cell, including the roles of oxidation and reduction processes at the electrodes and how the cell converts chemical energy into electrical energy.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen009"
+    "question_id": "cbse_xii_lech1dd_c102_gen009",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "Discuss the operational differences between a galvanic cell and an electrolytic cell when an external potential is applied. Propose an experimental approach to accurately measure the reversal potential.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen010"
+    "question_id": "cbse_xii_lech1dd_c102_gen010",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "True or False: In a galvanic cell, when the applied external potential reaches 1.1 V, the cell continues to produce a small current.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen011"
+    "question_id": "cbse_xii_lech1dd_c102_gen011",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "True or False: In dilute solutions, the activity of ions is equal to their concentration.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen012"
+    "question_id": "cbse_xii_lech1dd_c102_gen012",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "A Daniell cell has a standard cell potential of 1.1 V. If an external potential of 1.1 V is applied in the opposite direction, calculate the net cell potential. Show your calculation steps.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen013"
+    "question_id": "cbse_xii_lech1dd_c102_gen013",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "In an experiment, the external potential applied to a galvanic cell is increased in increments of 0.1 V, starting from 0 V. How many increments are required before the reaction stops at an opposing potential of 1.1 V?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen014"
+    "question_id": "cbse_xii_lech1dd_c102_gen014",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "For a Daniell cell with a standard cell potential of 1.1 V, calculate the change in Gibbs free energy (ΔG) using the equation ΔG = -nFE, where n = 2 electrons and F = 96485 C/mol. Provide your answer in Joules per mole.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen015"
+    "question_id": "cbse_xii_lech1dd_c102_gen015",
+    "section_name": "2.1 Electrochemical Cells"
   },
   {
     "question_text": "Assuming the activity of ions approximates their concentration in a dilute solution, analyze how an increase in the Zn²⁺ concentration from 0.1 M to 0.2 M affects the cell potential using the Nernst equation. Calculate the change in potential at 298 K, given R = 8.314 J/mol·K, F = 96485 C/mol, and n = 2.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "lech102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lech1dd_c102_gen016"
+    "question_id": "cbse_xii_lech1dd_c102_gen016",
+    "section_name": "2.1 Electrochemical Cells"
   }
 ]

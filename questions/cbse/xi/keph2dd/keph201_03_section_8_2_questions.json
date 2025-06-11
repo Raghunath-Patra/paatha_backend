@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen059"
+    "question_id": "cbse_xi_keph2dd_c201_gen059",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "Which type of stress is produced when forces are applied in opposite directions along the length of a cylinder causing it to elongate?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen060"
+    "question_id": "cbse_xi_keph2dd_c201_gen060",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "When a solid sphere is uniformly compressed by a fluid from all sides, what is the name of the stress produced by the fluid?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen061"
+    "question_id": "cbse_xi_keph2dd_c201_gen061",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "How is longitudinal strain defined in the context of a stretched or compressed cylinder?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen062"
+    "question_id": "cbse_xi_keph2dd_c201_gen062",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "For small angular displacements in shearing deformations, why is tanθ approximately equal to θ?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen063"
+    "question_id": "cbse_xi_keph2dd_c201_gen063",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "Define strain as discussed in the section and list the types of strain mentioned.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen064"
+    "question_id": "cbse_xi_keph2dd_c201_gen064",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "How is longitudinal strain calculated for a stretched or compressed cylindrical body?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen065"
+    "question_id": "cbse_xi_keph2dd_c201_gen065",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "Explain the difference between shearing stress and tensile stress.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen066"
+    "question_id": "cbse_xi_keph2dd_c201_gen066",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "What is volume strain and how is it mathematically defined?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen067"
+    "question_id": "cbse_xi_keph2dd_c201_gen067",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "Discuss how a material responds to applied forces leading to different types of stress and strain. Provide examples including tensile stress, shearing stress, and hydraulic compression.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen068"
+    "question_id": "cbse_xi_keph2dd_c201_gen068",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "Analyze the effects of applying a tangential force on a solid cylinder. Derive the expression that relates shearing strain to the angular displacement of the cylinder.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen069"
+    "question_id": "cbse_xi_keph2dd_c201_gen069",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "Evaluate the restorative behavior of materials when subjected to different stress types. How do the internal restoring forces compare in the cases of tensile, shearing, and hydraulic stress?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen070"
+    "question_id": "cbse_xi_keph2dd_c201_gen070",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "True or False: In a material under tensile stress, the restoring force per unit area is referred to as compressive stress.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen071"
+    "question_id": "cbse_xi_keph2dd_c201_gen071",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "True or False: Volume strain is defined as the change in volume divided by the original volume, and it is a dimensionless quantity.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen072"
+    "question_id": "cbse_xi_keph2dd_c201_gen072",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "True or False: For small angular displacements, tanθ can be approximated to equal θ.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen073"
+    "question_id": "cbse_xi_keph2dd_c201_gen073",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "A force of 200 N is applied on a metal rod with a cross-sectional area of 0.05 m². Calculate the stress experienced by the rod.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen074"
+    "question_id": "cbse_xi_keph2dd_c201_gen074",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "A cylindrical rod originally 2 m long is extended by 2 mm due to a tensile force. Determine the longitudinal strain in the rod.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen075"
+    "question_id": "cbse_xi_keph2dd_c201_gen075",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "During a shearing deformation, a cylindrical rod of length 0.5 m experiences a relative displacement of 0.3 mm. Calculate the shearing strain and determine the approximate angular displacement in degrees (use the small angle approximation).",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen076"
+    "question_id": "cbse_xi_keph2dd_c201_gen076",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "A solid sphere under uniform hydraulic compression decreases in volume by 2%. Calculate the volume strain.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen077"
+    "question_id": "cbse_xi_keph2dd_c201_gen077",
+    "section_name": "8.2 STRESS AND STRAIN"
   },
   {
     "question_text": "A cylindrical rod of length 1.5 m is subjected to a shearing force causing an angular displacement such that tanθ = 0.02. Determine the relative displacement between the opposite faces of the rod.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_xi_keph2dd_c201_gen078"
+    "question_id": "cbse_xi_keph2dd_c201_gen078",
+    "section_name": "8.2 STRESS AND STRAIN"
   }
 ]

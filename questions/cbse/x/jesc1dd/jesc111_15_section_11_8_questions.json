@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen093"
+    "question_id": "cbse_x_jesc1dd_c111_gen093",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "Which of the following formulas is NOT a valid representation of electric power?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen094"
+    "question_id": "cbse_x_jesc1dd_c111_gen094",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "1 kilowatt hour (kWh) is equal to how many joules?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen095"
+    "question_id": "cbse_x_jesc1dd_c111_gen095",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "Which of the following factors does NOT directly affect the power consumption in an electrical circuit?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen096"
+    "question_id": "cbse_x_jesc1dd_c111_gen096",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "Define electric power in an electrical circuit.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen097"
+    "question_id": "cbse_x_jesc1dd_c111_gen097",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "What is represented by the unit watt-hour (Wh)?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen098"
+    "question_id": "cbse_x_jesc1dd_c111_gen098",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "Explain why electrons are not consumed in an electric circuit.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen099"
+    "question_id": "cbse_x_jesc1dd_c111_gen099",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "State the relation between power, voltage, and current in an electrical circuit.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen100"
+    "question_id": "cbse_x_jesc1dd_c111_gen100",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "Discuss the different formulas used to express electric power and provide examples of when each formula might be best applied.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen101"
+    "question_id": "cbse_x_jesc1dd_c111_gen101",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "A 500 W appliance runs 6 hours per day for 30 days. Calculate the total energy consumption in kilowatt-hours (kWh) and the cost if the electricity cost is Rs 4 per kWh.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen102"
+    "question_id": "cbse_x_jesc1dd_c111_gen102",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "Analyze why using the kilowatt-hour (kWh) unit is more practical in commercial billing than using the watt-hour (Wh) unit.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen103"
+    "question_id": "cbse_x_jesc1dd_c111_gen103",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "True or False: In an electric circuit, electrons are consumed by the devices, resulting in a loss of electrons.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen104"
+    "question_id": "cbse_x_jesc1dd_c111_gen104",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "True or False: The formula P = V²/R is a valid expression for calculating electric power in a circuit.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen105"
+    "question_id": "cbse_x_jesc1dd_c111_gen105",
+    "section_name": "11.8 ELECTRIC POWER"
   },
   {
     "question_text": "True or False: The cost of operating an appliance is independent of its power rating.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "15_section_11_8",
-    "question_id": "cbse_x_jesc1dd_c111_gen106"
+    "question_id": "cbse_x_jesc1dd_c111_gen106",
+    "section_name": "11.8 ELECTRIC POWER"
   }
 ]

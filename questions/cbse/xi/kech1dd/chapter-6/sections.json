@@ -1,0 +1,56 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "6.1 E Q U IL IBRI U M IN PHYS I C A L PROCESSES"
+    },
+    {
+      "number": 2,
+      "name": "6.2 EQUILIBRIUM IN CHEMICAL PROCESSES – DYNAMIC EQUILIBRIUM"
+    },
+    {
+      "number": 3,
+      "name": "6.3 LAW OF CHEMICAL EQUILIBRIUM AND EQUILIBRIUM CONSTANT"
+    },
+    {
+      "number": 4,
+      "name": "6.4 HOMOGENEOUS EQUILIBRIA**"
+    },
+    {
+      "number": 5,
+      "name": "6.5 HETEROGENEOUS EQUILIBRIA**"
+    },
+    {
+      "number": 6,
+      "name": "6.6 APPLICATIONS OF EQUILIBRIUM**"
+    },
+    {
+      "number": 7,
+      "name": "6.7 Relationship between Equilibrium Constant** *K***, Reaction Quotient** *Q* **and Gibbs Energy** *G*"
+    },
+    {
+      "number": 8,
+      "name": "6.8 FACTORS AFFECTING EQUILIBRIA"
+    },
+    {
+      "number": 9,
+      "name": "6.9 IONIC EQUILIBRIUM IN SOLUTION"
+    },
+    {
+      "number": 10,
+      "name": "6.10 ACIDS, BASES AND SALTS"
+    },
+    {
+      "number": 11,
+      "name": "6.11 IONIZATION OF ACIDS AND BASES"
+    },
+    {
+      "number": 12,
+      "name": "6.12 BUFFER SOLUTIONS"
+    },
+    {
+      "number": 13,
+      "name": "6.13 SOLUBILITY EQUILIBRIA OF SPARINGLY SOLUBLE SALTS"
+    }
+  ]
+}

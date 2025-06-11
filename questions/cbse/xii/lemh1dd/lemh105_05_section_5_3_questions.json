@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen030"
+    "question_id": "cbse_xii_lemh1dd_c105_gen030",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Which rule should be used to differentiate the product of two differentiable functions u(x) and v(x)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen031"
+    "question_id": "cbse_xii_lemh1dd_c105_gen031",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "What is the derivative of f(x) = sin(x²) using the chain rule?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen032"
+    "question_id": "cbse_xii_lemh1dd_c105_gen032",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Find the derivative of f(x) = (2x + 1)^100 using the chain rule. Which of the following is the correct derivative?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen033"
+    "question_id": "cbse_xii_lemh1dd_c105_gen033",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Define differentiability of a function f at a point c.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen034"
+    "question_id": "cbse_xii_lemh1dd_c105_gen034",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "State the product rule for differentiation and give its formula.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen035"
+    "question_id": "cbse_xii_lemh1dd_c105_gen035",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "State the chain rule for differentiating composite functions.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen036"
+    "question_id": "cbse_xii_lemh1dd_c105_gen036",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Explain why every differentiable function is continuous at the point of differentiability.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen037"
+    "question_id": "cbse_xii_lemh1dd_c105_gen037",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Prove that if a function f is differentiable at a point c, then f is continuous at c.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen038"
+    "question_id": "cbse_xii_lemh1dd_c105_gen038",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Derive the derivative of f(x) = sin(x²) using the chain rule.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen039"
+    "question_id": "cbse_xii_lemh1dd_c105_gen039",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Find the derivative of f(x) = (2x + 1)³ in two different ways: first, by expanding the expression and differentiating term-by-term; second, by using the chain rule. Show all steps.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen040"
+    "question_id": "cbse_xii_lemh1dd_c105_gen040",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Using the definition of the derivative, compute f'(c) for f(x) = x² at an arbitrary point c.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen041"
+    "question_id": "cbse_xii_lemh1dd_c105_gen041",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Find the derivative of f(x) = x³ + 2x² - 5 and determine its value at x = 1.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen042"
+    "question_id": "cbse_xii_lemh1dd_c105_gen042",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Determine whether f(x) = |x| is differentiable at x = 0 by computing the left-hand and right-hand derivatives.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen043"
+    "question_id": "cbse_xii_lemh1dd_c105_gen043",
+    "section_name": "5.3 Differentiability"
   },
   {
     "question_text": "Differentiate f(x) = (x² + 3x)/(x - 1) using the quotient rule and simplify your answer.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "05_section_5_3",
-    "question_id": "cbse_xii_lemh1dd_c105_gen044"
+    "question_id": "cbse_xii_lemh1dd_c105_gen044",
+    "section_name": "5.3 Differentiability"
   }
 ]

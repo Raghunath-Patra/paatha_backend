@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen016"
+    "question_id": "cbse_ix_iemh1dd_c108_gen016",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "In the triangle configuration with midpoints E and F on sides AB and AC respectively, what is the relationship between ∠AEF and ∠ABC?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen017"
+    "question_id": "cbse_ix_iemh1dd_c108_gen017",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "Which of the following statements represents the converse of the Mid-point Theorem?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen018"
+    "question_id": "cbse_ix_iemh1dd_c108_gen018",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "In a triangle, if DE is drawn joining the midpoints of two sides and DE = 5 cm, what is the length of the side to which DE is parallel?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen019"
+    "question_id": "cbse_ix_iemh1dd_c108_gen019",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "State the Mid-point Theorem as applied to triangles.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen020"
+    "question_id": "cbse_ix_iemh1dd_c108_gen020",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "In a triangle, if a segment is drawn joining the midpoints of two sides, what can you conclude about its relation with the third side?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen021"
+    "question_id": "cbse_ix_iemh1dd_c108_gen021",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "What key observation in the construction of Fig. 8.16 (where a line CD is drawn parallel to BA) aids in proving the Mid-point Theorem using congruence arguments?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen022"
+    "question_id": "cbse_ix_iemh1dd_c108_gen022",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "Prove that the line segment joining the midpoints of two sides of a triangle is parallel to the third side and equal to half its length.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen023"
+    "question_id": "cbse_ix_iemh1dd_c108_gen023",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "Using a triangle with midpoints on each side, prove that joining these midpoints divides the triangle into four congruent triangles.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen024"
+    "question_id": "cbse_ix_iemh1dd_c108_gen024",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "In triangle ABC with vertices A(0, 0), B(4, 0), and C(2, 6), find the midpoints of AB and AC, and show that the line segment joining these midpoints is parallel to side BC. Also, calculate its length and compare it with the length of BC.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen025"
+    "question_id": "cbse_ix_iemh1dd_c108_gen025",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "In triangle PQR, let M and N be the midpoints of sides PQ and PR respectively. Given that PQ = 8 cm, PR = 10 cm, and the side QR = 6 cm, determine the length of MN and justify your answer.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen026"
+    "question_id": "cbse_ix_iemh1dd_c108_gen026",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "Three parallel lines l, m, and n are intersected by transversals p and q. If p cuts off equal intercepts of 4 cm on these lines, use properties similar to the Mid-point Theorem to demonstrate that q also cuts off equal intercepts. Provide a detailed solution.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen027"
+    "question_id": "cbse_ix_iemh1dd_c108_gen027",
+    "section_name": "8.2 The Mid-point Theorem"
   },
   {
     "question_text": "Explain why in a triangle, if a line through the midpoint of one side is drawn parallel to another side, then it must bisect the third side.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "iemh108",
     "section_id": "03_section_8_2",
-    "question_id": "cbse_ix_iemh1dd_c108_gen028"
+    "question_id": "cbse_ix_iemh1dd_c108_gen028",
+    "section_name": "8.2 The Mid-point Theorem"
   }
 ]

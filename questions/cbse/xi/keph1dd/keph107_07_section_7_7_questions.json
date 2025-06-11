@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen212"
+    "question_id": "cbse_xi_keph1dd_c107_gen212",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Which equation represents the idea that the work done by a conservative force is equal to the difference in potential energy between two points?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen213"
+    "question_id": "cbse_xi_keph1dd_c107_gen213",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "What is the correct formula for the gravitational potential energy of a particle at a height h above the Earth's surface?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen214"
+    "question_id": "cbse_xi_keph1dd_c107_gen214",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "How is the gravitational potential at a point defined in relation to gravitational potential energy?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen215"
+    "question_id": "cbse_xi_keph1dd_c107_gen215",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "For a particle located at a distance r from the center of the Earth (with r greater than the Earth’s radius), which expression correctly represents the gravitational force acting on it?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen216"
+    "question_id": "cbse_xi_keph1dd_c107_gen216",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Explain why only differences in gravitational potential energy are physically meaningful.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen217"
+    "question_id": "cbse_xi_keph1dd_c107_gen217",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Discuss the reasoning behind setting the gravitational potential energy at infinity to zero in problems involving gravitational fields.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen218"
+    "question_id": "cbse_xi_keph1dd_c107_gen218",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Define a conservative force and explain how gravitational force qualifies as one.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen219"
+    "question_id": "cbse_xi_keph1dd_c107_gen219",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Explain the role of the superposition principle in computing the total gravitational potential energy of a system of particles.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen220"
+    "question_id": "cbse_xi_keph1dd_c107_gen220",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Derive the expression for gravitational potential energy, W(r) = - GM_E m / r + constant, for a particle at a distance r from the center of the Earth. Explain why the constant is typically chosen such that the potential energy at infinity is zero.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen221"
+    "question_id": "cbse_xi_keph1dd_c107_gen221",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Compare the methods used in calculating gravitational potential energy near the Earth’s surface and at distances far from the Earth. Explain the assumptions behind each approach.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen222"
+    "question_id": "cbse_xi_keph1dd_c107_gen222",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Analyze a system of two masses interacting gravitationally. Discuss how energy conservation is applied and why only potential energy differences are physically significant in this context.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen223"
+    "question_id": "cbse_xi_keph1dd_c107_gen223",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: The work done by gravitational force in moving an object between two points is independent of the path taken, making gravity a conservative force.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen224"
+    "question_id": "cbse_xi_keph1dd_c107_gen224",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: The gravitational potential at a point is the work done per unit mass to bring an object from that point to infinity.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen225"
+    "question_id": "cbse_xi_keph1dd_c107_gen225",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: When computing the potential energy of a system of particles, the superposition principle allows one to sum the potential energies of all individual pairs of particles.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen226"
+    "question_id": "cbse_xi_keph1dd_c107_gen226",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: A 2 kg mass is lifted from a height of 3 m to a height of 7 m near Earth’s surface (use g = 9.8 m/s²). Calculate the work done against gravity.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen227"
+    "question_id": "cbse_xi_keph1dd_c107_gen227",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: A particle of mass 5 kg is moved from a distance of 6400 km to 6500 km from Earth’s center. Given GM_E = 3.986×10^14 m³/s², compute the work done against gravity. (Convert km to m.)",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen228"
+    "question_id": "cbse_xi_keph1dd_c107_gen228",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: Calculate the gravitational potential energy of a 10 kg mass on the surface of the Earth, given that Earth's radius is 6.4×10^6 m and GM_E = 3.986×10^14 m³/s². Use the formula W = - GM_E m / r.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen229"
+    "question_id": "cbse_xi_keph1dd_c107_gen229",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: Four particles, each of mass 2 kg, are placed at the corners of a square of side length 2 m. Using G = 6.67×10^-11 N m²/kg², calculate (a) the total gravitational potential energy of the system and (b) the gravitational potential at the center of the square.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen230"
+    "question_id": "cbse_xi_keph1dd_c107_gen230",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: A 1 kg mass is moved from an altitude of 100 m to 200 m near Earth’s surface. Then, consider a 1 kg mass moved from r = 6.42×10^6 m to r = 6.43×10^6 m from Earth’s center. Calculate the change in gravitational potential energy in both cases (use g = 9.8 m/s² and GM_E = 3.986×10^14 m³/s²). Compare the two differences.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen231"
+    "question_id": "cbse_xi_keph1dd_c107_gen231",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   }
 ]

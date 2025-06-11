@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen038"
+    "question_id": "cbse_xii_lemh2dd_c205_gen038",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Two lines with direction ratios a₁, b₁, c₁ and a₂, b₂, c₂ are parallel if:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen039"
+    "question_id": "cbse_xii_lemh2dd_c205_gen039",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Two lines with direction ratios a₁, b₁, c₁ and a₂, b₂, c₂ are perpendicular if:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen040"
+    "question_id": "cbse_xii_lemh2dd_c205_gen040",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "When direction cosines l₁, m₁, n₁ and l₂, m₂, n₂ are given for two lines, the cosine of the angle between them is:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen041"
+    "question_id": "cbse_xii_lemh2dd_c205_gen041",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Define 'direction ratios' and 'direction cosines' in the context of lines in space.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen042"
+    "question_id": "cbse_xii_lemh2dd_c205_gen042",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "State the formula for the sine of the acute angle between two lines given their direction ratios.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen043"
+    "question_id": "cbse_xii_lemh2dd_c205_gen043",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "What is the geometric interpretation of the points P and Q as defined in the section, and how are they used to find the angle between lines?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen044"
+    "question_id": "cbse_xii_lemh2dd_c205_gen044",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Derive the expression for the sine of the acute angle between two lines with direction ratios a₁, b₁, c₁ and a₂, b₂, c₂ starting from the cosine formula.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen045"
+    "question_id": "cbse_xii_lemh2dd_c205_gen045",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Prove that when using direction cosines, the formula for the cosine of the acute angle between two lines simplifies to l₁l₂ + m₁m₂ + n₁n₂.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen046"
+    "question_id": "cbse_xii_lemh2dd_c205_gen046",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Find the acute angle between the lines with direction ratios (2, -3, 6) and (4, 1, -2).",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen047"
+    "question_id": "cbse_xii_lemh2dd_c205_gen047",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "Determine the angle between the lines given by the equations: r = (1, -2, 3) + λ (2, 0, 1) and r = (4, 0, -1) + μ (1, 3, 2).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen048"
+    "question_id": "cbse_xii_lemh2dd_c205_gen048",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "For the lines given in Cartesian form: (x + 2)/3 = (y - 1)/4 = (z + 5)/(-2) and (x - 1)/2 = (y + 3)/(-1) = (z - 4)/3, calculate the acute angle between the lines.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen049"
+    "question_id": "cbse_xii_lemh2dd_c205_gen049",
+    "section_name": "11.4 Angle between Two Lines"
   },
   {
     "question_text": "If the lines given by r = (2, -1, 4) + λ (1, 2, -3) and r = (0, 3, -2) + μ (2, -4, 1) do not pass through the origin, explain how to compute the angle between them and find the angle.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh205",
     "section_id": "06_section_11_4",
-    "question_id": "cbse_xii_lemh2dd_c205_gen050"
+    "question_id": "cbse_xii_lemh2dd_c205_gen050",
+    "section_name": "11.4 Angle between Two Lines"
   }
 ]

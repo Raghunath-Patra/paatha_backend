@@ -417,7 +417,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen212"
+    "question_id": "cbse_xi_keph1dd_c107_gen212",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Which equation represents the idea that the work done by a conservative force is equal to the difference in potential energy between two points?",
@@ -436,7 +437,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen213"
+    "question_id": "cbse_xi_keph1dd_c107_gen213",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "What is the correct formula for the gravitational potential energy of a particle at a height h above the Earth's surface?",
@@ -455,7 +457,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen214"
+    "question_id": "cbse_xi_keph1dd_c107_gen214",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "How is the gravitational potential at a point defined in relation to gravitational potential energy?",
@@ -474,7 +477,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen215"
+    "question_id": "cbse_xi_keph1dd_c107_gen215",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "For a particle located at a distance r from the center of the Earth (with r greater than the Earth’s radius), which expression correctly represents the gravitational force acting on it?",
@@ -493,7 +497,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen216"
+    "question_id": "cbse_xi_keph1dd_c107_gen216",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Explain why only differences in gravitational potential energy are physically meaningful.",
@@ -507,7 +512,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen217"
+    "question_id": "cbse_xi_keph1dd_c107_gen217",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Discuss the reasoning behind setting the gravitational potential energy at infinity to zero in problems involving gravitational fields.",
@@ -521,7 +527,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen218"
+    "question_id": "cbse_xi_keph1dd_c107_gen218",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Define a conservative force and explain how gravitational force qualifies as one.",
@@ -535,7 +542,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen219"
+    "question_id": "cbse_xi_keph1dd_c107_gen219",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Explain the role of the superposition principle in computing the total gravitational potential energy of a system of particles.",
@@ -549,7 +557,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen220"
+    "question_id": "cbse_xi_keph1dd_c107_gen220",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Derive the expression for gravitational potential energy, W(r) = - GM_E m / r + constant, for a particle at a distance r from the center of the Earth. Explain why the constant is typically chosen such that the potential energy at infinity is zero.",
@@ -563,7 +572,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen221"
+    "question_id": "cbse_xi_keph1dd_c107_gen221",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Compare the methods used in calculating gravitational potential energy near the Earth’s surface and at distances far from the Earth. Explain the assumptions behind each approach.",
@@ -577,7 +587,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen222"
+    "question_id": "cbse_xi_keph1dd_c107_gen222",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Analyze a system of two masses interacting gravitationally. Discuss how energy conservation is applied and why only potential energy differences are physically significant in this context.",
@@ -591,7 +602,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen223"
+    "question_id": "cbse_xi_keph1dd_c107_gen223",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: The work done by gravitational force in moving an object between two points is independent of the path taken, making gravity a conservative force.",
@@ -605,7 +617,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen224"
+    "question_id": "cbse_xi_keph1dd_c107_gen224",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: The gravitational potential at a point is the work done per unit mass to bring an object from that point to infinity.",
@@ -619,7 +632,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen225"
+    "question_id": "cbse_xi_keph1dd_c107_gen225",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: When computing the potential energy of a system of particles, the superposition principle allows one to sum the potential energies of all individual pairs of particles.",
@@ -633,7 +647,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen226"
+    "question_id": "cbse_xi_keph1dd_c107_gen226",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: A 2 kg mass is lifted from a height of 3 m to a height of 7 m near Earth’s surface (use g = 9.8 m/s²). Calculate the work done against gravity.",
@@ -647,7 +662,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen227"
+    "question_id": "cbse_xi_keph1dd_c107_gen227",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: A particle of mass 5 kg is moved from a distance of 6400 km to 6500 km from Earth’s center. Given GM_E = 3.986×10^14 m³/s², compute the work done against gravity. (Convert km to m.)",
@@ -661,7 +677,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen228"
+    "question_id": "cbse_xi_keph1dd_c107_gen228",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: Calculate the gravitational potential energy of a 10 kg mass on the surface of the Earth, given that Earth's radius is 6.4×10^6 m and GM_E = 3.986×10^14 m³/s². Use the formula W = - GM_E m / r.",
@@ -675,7 +692,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen229"
+    "question_id": "cbse_xi_keph1dd_c107_gen229",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: Four particles, each of mass 2 kg, are placed at the corners of a square of side length 2 m. Using G = 6.67×10^-11 N m²/kg², calculate (a) the total gravitational potential energy of the system and (b) the gravitational potential at the center of the square.",
@@ -689,7 +707,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen230"
+    "question_id": "cbse_xi_keph1dd_c107_gen230",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Numerical Problem: A 1 kg mass is moved from an altitude of 100 m to 200 m near Earth’s surface. Then, consider a 1 kg mass moved from r = 6.42×10^6 m to r = 6.43×10^6 m from Earth’s center. Calculate the change in gravitational potential energy in both cases (use g = 9.8 m/s² and GM_E = 3.986×10^14 m³/s²). Compare the two differences.",
@@ -703,7 +722,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen231"
+    "question_id": "cbse_xi_keph1dd_c107_gen231",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Which Italian physicist is known for his experiments using inclined planes to demonstrate that all bodies are accelerated towards the earth with a constant acceleration?",
@@ -722,7 +742,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen020"
+    "question_id": "cbse_xi_keph1dd_c107_gen020",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Which model of the solar system, where the planets revolve around a fixed central sun, was definitively proposed by Nicolas Copernicus?",
@@ -741,7 +762,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen021"
+    "question_id": "cbse_xi_keph1dd_c107_gen021",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Tycho Brahe is known for his precise astronomical observations. What was his primary contribution to the history of astronomy?",
@@ -760,7 +782,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen022"
+    "question_id": "cbse_xi_keph1dd_c107_gen022",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Which of Kepler's laws states that the line joining a planet to the sun sweeps out equal areas in equal intervals of time?",
@@ -779,7 +802,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen023"
+    "question_id": "cbse_xi_keph1dd_c107_gen023",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Galileo used inclined plane experiments to measure acceleration due to gravity. Which of the following best describes his method?",
@@ -798,7 +822,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen024"
+    "question_id": "cbse_xi_keph1dd_c107_gen024",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the significance of Galileo's inclined plane experiments in the study of gravitational acceleration.",
@@ -812,7 +837,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen025"
+    "question_id": "cbse_xi_keph1dd_c107_gen025",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Briefly describe the geocentric model as proposed by Ptolemy. How did it explain the apparent motion of the planets?",
@@ -826,7 +852,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen026"
+    "question_id": "cbse_xi_keph1dd_c107_gen026",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Outline the contributions of Johannes Kepler based on the astronomical data recorded by Tycho Brahe.",
@@ -840,7 +867,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen027"
+    "question_id": "cbse_xi_keph1dd_c107_gen027",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Compare and contrast the geocentric and heliocentric models. In your answer, discuss the major differences in the assumptions about the motion of celestial bodies and the implications for our understanding of the universe.",
@@ -854,7 +882,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen028"
+    "question_id": "cbse_xi_keph1dd_c107_gen028",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the importance of Galileo's work in establishing the universal law of gravitation. Include in your answer the experimental methods he employed and the historical impact of his findings.",
@@ -868,7 +897,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen029"
+    "question_id": "cbse_xi_keph1dd_c107_gen029",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Galileo's experiments showed that the acceleration of a falling object is dependent on its mass.",
@@ -882,7 +912,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen030"
+    "question_id": "cbse_xi_keph1dd_c107_gen030",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Ptolemy's geocentric model used a system of circles and epicycles to explain the observed retrograde motion of planets.",
@@ -896,7 +927,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen031"
+    "question_id": "cbse_xi_keph1dd_c107_gen031",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "An object is allowed to roll down an inclined plane over a distance of 2.00 m and it takes 0.64 seconds to cover that distance. Calculate the acceleration along the plane. (Use the equation s = 1/2 a t^2)",
@@ -910,7 +942,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen032"
+    "question_id": "cbse_xi_keph1dd_c107_gen032",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Using Galileo's method, if an object moving on an inclined plane experiences a constant acceleration of 2.00 m/s², determine the time required to travel 5.00 m along the plane. (Use s = 1/2 a t²)",
@@ -924,7 +957,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen033"
+    "question_id": "cbse_xi_keph1dd_c107_gen033",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "An object is dropped from a height of 20.0 m. Assuming the acceleration due to gravity is 9.80 m/s² and neglecting air resistance, calculate the time taken for the object to reach the ground. (Use s = 1/2 g t²)",
@@ -938,7 +972,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen034"
+    "question_id": "cbse_xi_keph1dd_c107_gen034",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following best describes Kepler's First Law?",
@@ -957,7 +992,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen053"
+    "question_id": "cbse_xi_keph1dd_c107_gen053",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "What property of ellipses is utilized to draw an ellipse using a string method?",
@@ -976,7 +1012,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen054"
+    "question_id": "cbse_xi_keph1dd_c107_gen054",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Kepler's Second Law states that a line joining a planet and the Sun sweeps out equal areas in equal intervals of time. Which conservation law is responsible for this behavior?",
@@ -995,7 +1032,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen055"
+    "question_id": "cbse_xi_keph1dd_c107_gen055",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "According to Kepler's Third Law, the square of a planet's time period of revolution is proportional to the cube of the semi-major axis of its orbit. Which of the following represents this relationship?",
@@ -1014,7 +1052,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen056"
+    "question_id": "cbse_xi_keph1dd_c107_gen056",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "For a planet in an elliptical orbit, if the distances and speeds at perihelion (r_P, v_P) and aphelion (r_A, v_A) satisfy conservation of angular momentum, which of the following relationships is correct?",
@@ -1033,7 +1072,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen057"
+    "question_id": "cbse_xi_keph1dd_c107_gen057",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Define 'semi-major axis' in the context of an ellipse describing a planetary orbit.",
@@ -1047,7 +1087,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen058"
+    "question_id": "cbse_xi_keph1dd_c107_gen058",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Explain why the area swept by the radius vector in a given time interval is constant for a planet orbiting the Sun.",
@@ -1061,7 +1102,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen059"
+    "question_id": "cbse_xi_keph1dd_c107_gen059",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Describe the difference between circular and elliptical orbits in relation to Kepler's laws.",
@@ -1075,7 +1117,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen060"
+    "question_id": "cbse_xi_keph1dd_c107_gen060",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Discuss how Kepler's laws of planetary motion marked a departure from the Copernican model and explain the implications of this change for our understanding of planetary orbits.",
@@ -1089,7 +1132,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen061"
+    "question_id": "cbse_xi_keph1dd_c107_gen061",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Derive the relationship between the speeds of a planet at perihelion and aphelion using conservation of angular momentum, and explain how this affects the time taken to traverse different segments of its orbit.",
@@ -1103,7 +1147,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen062"
+    "question_id": "cbse_xi_keph1dd_c107_gen062",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "True or False: Kepler's Second Law implies that the gravitational force acting on a planet does not always point directly toward the Sun.",
@@ -1117,7 +1162,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen063"
+    "question_id": "cbse_xi_keph1dd_c107_gen063",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "True or False: The constant quotient in Kepler's Third Law (T²/a³) for all planets is a direct consequence of the gravitational force being a central force.",
@@ -1131,7 +1177,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen064"
+    "question_id": "cbse_xi_keph1dd_c107_gen064",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Using Mercury's data with a semi-major axis a = 5.79 × 10^10 m (expressed in units of 10^10 m as 5.79) and time period T = 0.24 years, verify the value of the quotient Q = T²/a³. Show your calculations.",
@@ -1145,7 +1192,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen065"
+    "question_id": "cbse_xi_keph1dd_c107_gen065",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Using Kepler's Third Law and the Earth as a reference (with a semi-major axis a = 15.0 × 10^10 m and time period T = 1 year), estimate the time period for Mars if its semi-major axis is 22.8 × 10^10 m.",
@@ -1159,7 +1207,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen066"
+    "question_id": "cbse_xi_keph1dd_c107_gen066",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "A planet has a perihelion distance r_P = 1.0 × 10^11 m and a speed v_P = 3.0 × 10^4 m/s. If its aphelion distance is r_A = 1.5 × 10^11 m, calculate its speed at aphelion using the conservation of angular momentum.",
@@ -1173,7 +1222,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen067"
+    "question_id": "cbse_xi_keph1dd_c107_gen067",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Consider a planet in an elliptical orbit with a semi-major axis a = 2.0 × 10^11 m and eccentricity e = 0.1. Calculate the speed at aphelion if its speed at perihelion is 4.0 × 10^4 m/s. (Hint: Use r_P = a(1 - e) and r_A = a(1 + e)).",
@@ -1187,7 +1237,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen068"
+    "question_id": "cbse_xi_keph1dd_c107_gen068",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "If the area swept out by the radius vector in a small time interval Δt is given by (1/2) × r × v × Δt, calculate the area swept out in 1000 seconds for a planet with r = 1.0 × 10^11 m and v = 3.0 × 10^4 m/s.",
@@ -1201,7 +1252,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen069"
+    "question_id": "cbse_xi_keph1dd_c107_gen069",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Which observation is said to have inspired Newton to propose the universal law of gravitation?",
@@ -1220,7 +1272,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen070"
+    "question_id": "cbse_xi_keph1dd_c107_gen070",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "What is the correct mathematical expression for the gravitational force between two point masses m1 and m2 separated by a distance r?",
@@ -1239,7 +1292,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen071"
+    "question_id": "cbse_xi_keph1dd_c107_gen071",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "According to the text, what is the gravitational force exerted by a hollow spherical shell of uniform density on a point mass located inside it?",
@@ -1258,7 +1312,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen072"
+    "question_id": "cbse_xi_keph1dd_c107_gen072",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the diagram showing gravitational interaction between two point masses m1 and m2, the force on m1 due to m2 is directed along which vector?",
@@ -1277,7 +1332,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen073"
+    "question_id": "cbse_xi_keph1dd_c107_gen073",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the centripetal acceleration equation for the moon, aₘ = (4π² Rₘ) / (T²), what does T represent?",
@@ -1296,7 +1352,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen074"
+    "question_id": "cbse_xi_keph1dd_c107_gen074",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Explain why the gravitational acceleration experienced by the moon in its orbit is much smaller than the gravitational acceleration at the Earth's surface.",
@@ -1310,7 +1367,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen075"
+    "question_id": "cbse_xi_keph1dd_c107_gen075",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the relationship g / aₘ = (Rₘ²) / (Rₑ²), describe how knowing the values of Rₘ and Rₑ can confirm the inverse square nature of gravitational acceleration.",
@@ -1324,7 +1382,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen076"
+    "question_id": "cbse_xi_keph1dd_c107_gen076",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the equilateral triangle configuration, what is the effect on the net gravitational force at the centroid when the mass at vertex A is doubled?",
@@ -1338,7 +1397,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen077"
+    "question_id": "cbse_xi_keph1dd_c107_gen077",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Briefly explain how calculus is used to determine the gravitational force between an extended object and a point mass.",
@@ -1352,7 +1412,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen078"
+    "question_id": "cbse_xi_keph1dd_c107_gen078",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Discuss the vector addition technique used to determine the net gravitational force on a point mass due to multiple surrounding masses, as illustrated in the extended object diagrams.",
@@ -1366,7 +1427,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen079"
+    "question_id": "cbse_xi_keph1dd_c107_gen079",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Analyze the derivation of the centripetal acceleration for the moon (aₘ = (4π² Rₘ) / (T²)) and explain how this supports the inverse square law for gravitation.",
@@ -1380,7 +1442,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen080"
+    "question_id": "cbse_xi_keph1dd_c107_gen080",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Evaluate the assumptions in Newton's derivation of the universal law of gravitation, particularly the treatment of extended objects as point masses, and discuss how these assumptions are addressed with spherical shells.",
@@ -1394,7 +1457,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen081"
+    "question_id": "cbse_xi_keph1dd_c107_gen081",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: Newton's universal law of gravitation states that every body in the universe attracts every other body with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.",
@@ -1408,7 +1472,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen082"
+    "question_id": "cbse_xi_keph1dd_c107_gen082",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: For a hollow spherical shell of uniform density, the gravitational force on a point mass located inside the shell is non-zero.",
@@ -1422,7 +1487,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen083"
+    "question_id": "cbse_xi_keph1dd_c107_gen083",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: In an equilateral triangle configuration with equal masses at each vertex, the resultant gravitational force acting on a mass placed at the centroid is zero.",
@@ -1436,7 +1502,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen084"
+    "question_id": "cbse_xi_keph1dd_c107_gen084",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the equation aₘ = (4π² Rₘ) / (T²), calculate the centripetal acceleration aₘ of the moon given that T = 27.3 days and Rₘ = 3.84 × 10^8 m. Show all steps and include proper unit conversions.",
@@ -1450,7 +1517,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen085"
+    "question_id": "cbse_xi_keph1dd_c107_gen085",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the relationship g / aₘ = (Rₘ²) / (Rₑ²) with Earth's radius Rₑ = 6.4 × 10^6 m and the moon's orbital radius Rₘ = 3.84 × 10^8 m, calculate the ratio g / aₘ. Assume g = 9.8 m/s².",
@@ -1464,7 +1532,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen086"
+    "question_id": "cbse_xi_keph1dd_c107_gen086",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In a system where three equal point masses m are fixed at the vertices of an equilateral triangle with side length 1 m, and a mass of 2m is placed at the centroid, compute the net gravitational force on the 2m mass. Assume G is a constant and use the given symmetry.",
@@ -1478,7 +1547,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen087"
+    "question_id": "cbse_xi_keph1dd_c107_gen087",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "For the equilateral triangle configuration, if the mass at vertex A is doubled while the other two masses remain m, calculate the net gravitational force on the 2m mass at the centroid. Use the information that AG = 1 m and the force contributions are given.",
@@ -1492,7 +1562,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen088"
+    "question_id": "cbse_xi_keph1dd_c107_gen088",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using Newton’s law F = G * (m1 * m2) / r², calculate the gravitational force between two spheres of mass 5.0 × 10^24 kg and 7.0 × 10^22 kg separated by a distance of 3.84 × 10^8 m. Use G = 6.67 × 10^-11 N·m²/kg² and show all your steps.",
@@ -1506,7 +1577,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen089"
+    "question_id": "cbse_xi_keph1dd_c107_gen089",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "A 100 kg point mass is placed inside a hollow spherical shell of uniform density. Using the principle outlined in the text, compute the gravitational force acting on the point mass.",
@@ -1520,7 +1592,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen090"
+    "question_id": "cbse_xi_keph1dd_c107_gen090",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Which scientist is credited with demonstrating that all bodies experience a constant gravitational acceleration irrespective of their masses?",
@@ -1539,7 +1612,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen001"
+    "question_id": "cbse_xi_keph1dd_c107_gen001",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "According to the historical models discussed, which model placed the sun at the center of the planetary system?",
@@ -1558,7 +1632,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen002"
+    "question_id": "cbse_xi_keph1dd_c107_gen002",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Tycho Brahe is best known for which of the following contributions in the field of astronomy?",
@@ -1577,7 +1652,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen003"
+    "question_id": "cbse_xi_keph1dd_c107_gen003",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following best describes Kepler's contribution to astronomy?",
@@ -1596,7 +1672,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen004"
+    "question_id": "cbse_xi_keph1dd_c107_gen004",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Galileo's inclined plane investigations led to a more accurate estimation of the gravitational acceleration. What was the primary reason for using inclined planes in his experiments?",
@@ -1615,7 +1692,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen005"
+    "question_id": "cbse_xi_keph1dd_c107_gen005",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Explain how Galileo's inclined plane experiments contributed to our understanding of gravitational acceleration.",
@@ -1629,7 +1707,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen006"
+    "question_id": "cbse_xi_keph1dd_c107_gen006",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "In your own words, differentiate between the geocentric and heliocentric models of the universe as discussed in the section.",
@@ -1643,7 +1722,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen007"
+    "question_id": "cbse_xi_keph1dd_c107_gen007",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Describe the significance of Tycho Brahe's observations and how they paved the way for the formulation of Kepler's laws.",
@@ -1657,7 +1737,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen008"
+    "question_id": "cbse_xi_keph1dd_c107_gen008",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the role of the heliocentric model in advancing our understanding of planetary motion. Include in your answer the contributions of Aryabhatta, Copernicus, and Galileo.",
@@ -1671,7 +1752,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen009"
+    "question_id": "cbse_xi_keph1dd_c107_gen009",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Evaluate how Galileo's and Kepler's contributions collectively influenced Newton's development of the universal law of gravitation.",
@@ -1685,7 +1767,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen010"
+    "question_id": "cbse_xi_keph1dd_c107_gen010",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Propose a new experiment or observational method that could extend the work initiated by Galileo on gravitational acceleration, and justify your approach.",
@@ -1699,7 +1782,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen011"
+    "question_id": "cbse_xi_keph1dd_c107_gen011",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Galileo's experiments helped establish that all objects, regardless of mass, accelerate equally under gravity. True or False?",
@@ -1713,7 +1797,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen012"
+    "question_id": "cbse_xi_keph1dd_c107_gen012",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "The Ptolemaic model successfully explained planetary motion solely by using circular orbits without any geometric corrections. True or False?",
@@ -1727,7 +1812,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen013"
+    "question_id": "cbse_xi_keph1dd_c107_gen013",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Johannes Kepler based his three laws of planetary motion on the observed data compiled by Tycho Brahe. True or False?",
@@ -1741,7 +1827,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen014"
+    "question_id": "cbse_xi_keph1dd_c107_gen014",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "A small ball is released from rest at the top of an inclined plane and travels a distance of 3 m in 1.5 s. Assuming constant acceleration, calculate the acceleration of the ball. Provide your answer in m/s².",
@@ -1755,7 +1842,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen015"
+    "question_id": "cbse_xi_keph1dd_c107_gen015",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "A ball is dropped from a height of 45 m. Calculate the time it takes for the ball to reach the ground and its final velocity just before impact. Assume g = 9.8 m/s².",
@@ -1769,7 +1857,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen016"
+    "question_id": "cbse_xi_keph1dd_c107_gen016",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Using Kepler’s third law, if Earth orbits the sun at a distance of 1 AU in 1 year, calculate the orbital period of a planet that orbits at a distance of 4 AU. Assume the law T² ∝ r³ and express the period in years.",
@@ -1783,7 +1872,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen017"
+    "question_id": "cbse_xi_keph1dd_c107_gen017",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "If a 5 kg mass is subjected to Earth’s gravitational acceleration of 9.8 m/s², calculate the gravitational force acting on it.",
@@ -1797,7 +1887,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen018"
+    "question_id": "cbse_xi_keph1dd_c107_gen018",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "A 10 kg object accelerates down a frictionless inclined plane in 2.0 s, covering a distance of 19.6 m. Verify whether the acceleration due to gravity can be inferred from this experiment and explain your reasoning.",
@@ -1811,7 +1902,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_xi_keph1dd_c107_gen019"
+    "question_id": "cbse_xi_keph1dd_c107_gen019",
+    "section_name": "7.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following correctly represents the gravitational potential energy (GPE) of a particle of mass m at a height h above the surface of the earth (assuming constant gravitational force)?",
@@ -1830,7 +1922,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen232"
+    "question_id": "cbse_xi_keph1dd_c107_gen232",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "For a particle outside the earth, which expression below represents the gravitational force acting on it?",
@@ -1849,7 +1942,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen233"
+    "question_id": "cbse_xi_keph1dd_c107_gen233",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "The work done in moving a particle from height h1 to height h2 near the earth's surface is best described as:",
@@ -1868,7 +1962,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen234"
+    "question_id": "cbse_xi_keph1dd_c107_gen234",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Which statement is true about the constant Wo in the energy equation W(h) = mgh + Wo?",
@@ -1887,7 +1982,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen235"
+    "question_id": "cbse_xi_keph1dd_c107_gen235",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Which of the following correctly expresses the gravitational potential energy of a particle at a distance r (r > R) from the centre of the earth?",
@@ -1906,7 +2002,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen236"
+    "question_id": "cbse_xi_keph1dd_c107_gen236",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Explain the concept of a conservative force and its relation to potential energy, particularly in the case of gravitational force.",
@@ -1920,7 +2017,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen237"
+    "question_id": "cbse_xi_keph1dd_c107_gen237",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Describe how the gravitational potential energy equation changes when moving from points near Earth's surface to points at arbitrary distances from Earth.",
@@ -1934,7 +2032,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen238"
+    "question_id": "cbse_xi_keph1dd_c107_gen238",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Explain why only differences in gravitational potential energy have physical significance.",
@@ -1948,7 +2047,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen239"
+    "question_id": "cbse_xi_keph1dd_c107_gen239",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Discuss the significance of the superposition principle in the calculation of gravitational potential energy for a system of particles.",
@@ -1962,7 +2062,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen240"
+    "question_id": "cbse_xi_keph1dd_c107_gen240",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Derive the expression for the gravitational potential energy of a particle moved from a distance r1 to r2 from the centre of the earth.",
@@ -1976,7 +2077,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen241"
+    "question_id": "cbse_xi_keph1dd_c107_gen241",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "The gravitational potential energy at a point is defined as the work done in moving a particle of unit mass from infinity to that point. True or False?",
@@ -1990,7 +2092,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen242"
+    "question_id": "cbse_xi_keph1dd_c107_gen242",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: The work done in moving a particle in a conservative force field is path-dependent.",
@@ -2004,7 +2107,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen243"
+    "question_id": "cbse_xi_keph1dd_c107_gen243",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "True or False: When calculating the gravitational potential energy for a system of particles, the potential energy of an individual pair of particles is given by -G m1 m2/ r, and the overall potential energy is the sum over all such pairs.",
@@ -2018,7 +2122,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen244"
+    "question_id": "cbse_xi_keph1dd_c107_gen244",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "A small object of mass 2 kg is lifted vertically near Earth's surface from a height of 5 m to 15 m. Given that g = 9.8 m/s^2, calculate the work done against gravity. Provide your answer in joules.",
@@ -2032,7 +2137,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen245"
+    "question_id": "cbse_xi_keph1dd_c107_gen245",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Calculate the gravitational potential energy difference for a 1 kg object when it is moved from a distance of 6.4 x 10^6 m (approximate radius of Earth) to 7.0 x 10^6 m from the center of Earth. Use G = 6.67 x 10^-11 N m^2/kg^2 and M_E = 5.97 x 10^24 kg. Provide your answer in joules.",
@@ -2046,7 +2152,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen246"
+    "question_id": "cbse_xi_keph1dd_c107_gen246",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Four equal masses, each of mass m, are placed at the vertices of a square of side l. Derive the expression for the total gravitational potential energy of the system and explain why the sum is taken over specific pairs only.",
@@ -2060,7 +2167,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen247"
+    "question_id": "cbse_xi_keph1dd_c107_gen247",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "An object of mass 5 kg is moved from the surface of the earth (assume radius = 6.4 x 10^6 m) to a position 500 km above the surface. Calculate the work done against gravity. Use G = 6.67 x 10^-11 N m^2/kg^2 and M_E = 5.97 x 10^24 kg. Provide your answer in joules.",
@@ -2074,7 +2182,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_7",
-    "question_id": "cbse_xi_keph1dd_c107_gen248"
+    "question_id": "cbse_xi_keph1dd_c107_gen248",
+    "section_name": "7.7 GRAVITATIONAL POTENTIAL ENERGY"
   },
   {
     "question_text": "Which of the following best describes Newton's Universal Law of Gravitation?",
@@ -2093,7 +2202,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen091"
+    "question_id": "cbse_xi_keph1dd_c107_gen091",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "According to the text, if g denotes the gravitational acceleration at Earth's surface and a_m represents the centripetal acceleration of the Moon, which relation is correct?",
@@ -2112,7 +2222,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen092"
+    "question_id": "cbse_xi_keph1dd_c107_gen092",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the vector form of the gravitational force equation, the force on a point mass is directed:",
@@ -2131,7 +2242,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen093"
+    "question_id": "cbse_xi_keph1dd_c107_gen093",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "For a point mass located inside a uniform spherical shell of mass, the net gravitational force acting on it is:",
@@ -2150,7 +2262,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen094"
+    "question_id": "cbse_xi_keph1dd_c107_gen094",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In Example 7.2, three equal masses m are placed at the vertices of an equilateral triangle and a mass 2m is placed at the centroid. What is the net gravitational force acting on the mass at the centroid when all vertex masses are identical?",
@@ -2169,7 +2282,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen095"
+    "question_id": "cbse_xi_keph1dd_c107_gen095",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Write the expression for the centripetal acceleration a_m of the Moon in its orbit around Earth, and identify the parameters that influence it.",
@@ -2183,7 +2297,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen096"
+    "question_id": "cbse_xi_keph1dd_c107_gen096",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Explain why the gravitational acceleration at the surface of Earth is much larger than the centripetal acceleration experienced by the Moon.",
@@ -2197,7 +2312,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen097"
+    "question_id": "cbse_xi_keph1dd_c107_gen097",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "What does the principle of superposition mean in the context of calculating the gravitational force on a point mass due to an extended object?",
@@ -2211,7 +2327,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen098"
+    "question_id": "cbse_xi_keph1dd_c107_gen098",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using Newton's third law, briefly describe the relationship between the gravitational forces F12 (force on mass 1 due to mass 2) and F21 (force on mass 2 due to mass 1).",
@@ -2225,7 +2342,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen099"
+    "question_id": "cbse_xi_keph1dd_c107_gen099",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Discuss how Newton used the comparison between the acceleration of a falling apple on Earth and the centripetal acceleration of the Moon to deduce that the gravitational force decreases with distance.",
@@ -2239,7 +2357,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen100"
+    "question_id": "cbse_xi_keph1dd_c107_gen100",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Explain in detail how to calculate the gravitational force acting on a point mass due to an extended object using calculus, and describe the two special cases involving a spherical shell.",
@@ -2253,7 +2372,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen101"
+    "question_id": "cbse_xi_keph1dd_c107_gen101",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Analyze the symmetry in the arrangement of three equal masses at the vertices of an equilateral triangle with a mass placed at the centroid, and explain why the resultant gravitational force on the central mass is zero.",
@@ -2267,7 +2387,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen102"
+    "question_id": "cbse_xi_keph1dd_c107_gen102",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: The gravitational force on a point mass due to a uniform spherical shell is zero if the point mass is located inside the shell.",
@@ -2281,7 +2402,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen103"
+    "question_id": "cbse_xi_keph1dd_c107_gen103",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: Newton’s third law does not hold for gravitational forces between extended objects.",
@@ -2295,7 +2417,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen104"
+    "question_id": "cbse_xi_keph1dd_c107_gen104",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the equation a_m = 4π²R_m / T², calculate the centripetal acceleration of the Moon given that the orbital radius R_m is 3.84×10^8 m and the orbital period T is 27.3 days. (Note: 1 day = 86400 s)",
@@ -2309,7 +2432,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen105"
+    "question_id": "cbse_xi_keph1dd_c107_gen105",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the relation g / a_m = R_m² / R_E², where g is 9.8 m/s² and a_m is 2.73×10^-3 m/s², verify that the calculated ratio agrees with the ratio (R_m/R_E)² given R_m = 3.84×10^8 m and R_E = 6.37×10^6 m.",
@@ -2323,7 +2447,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen106"
+    "question_id": "cbse_xi_keph1dd_c107_gen106",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the example with an equilateral triangle, three equal masses m are at the vertices and a mass 2m is at the centroid at a distance of 1 m from each vertex. Calculate the net gravitational force on the mass at the centroid when all vertex masses are equal.",
@@ -2337,7 +2462,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen107"
+    "question_id": "cbse_xi_keph1dd_c107_gen107",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "If in the equilateral triangle configuration the mass at vertex A is doubled (making it 2m) while the masses at vertices B and C remain m, and the distances remain 1 m, compute the net gravitational force on the mass 2m at the centroid. Assume the force from each mass is given by F = G (mass1 × mass2)/ (distance²) and use vector addition based on provided directional components.",
@@ -2351,7 +2477,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen108"
+    "question_id": "cbse_xi_keph1dd_c107_gen108",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Which of the following best defines an Earth satellite?",
@@ -2370,7 +2497,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen284"
+    "question_id": "cbse_xi_keph1dd_c107_gen284",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "The equation V^2 = (G M_E)/(R_E + h) is obtained by equating which two forces acting on a satellite?",
@@ -2389,7 +2517,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen285"
+    "question_id": "cbse_xi_keph1dd_c107_gen285",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Kepler's third law for satellites in circular orbits is given by T^2 = (4π^2 (R_E + h)^3)/(G M_E). Which of the following statements is true regarding this expression?",
@@ -2408,7 +2537,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen286"
+    "question_id": "cbse_xi_keph1dd_c107_gen286",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "How does the orbital speed V of a satellite change as its altitude h increases?",
@@ -2427,7 +2557,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen287"
+    "question_id": "cbse_xi_keph1dd_c107_gen287",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Which of the following methods can be used to determine the mass of the Earth?",
@@ -2446,7 +2577,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen288"
+    "question_id": "cbse_xi_keph1dd_c107_gen288",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "State Kepler's third law as applied to satellites orbiting the Earth.",
@@ -2460,7 +2592,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen289"
+    "question_id": "cbse_xi_keph1dd_c107_gen289",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Explain why the mass of the satellite does not appear in the expression for its orbital speed.",
@@ -2474,7 +2607,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen290"
+    "question_id": "cbse_xi_keph1dd_c107_gen290",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Derive the expression for the orbital speed V of a satellite in a circular orbit around the Earth.",
@@ -2488,7 +2622,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen291"
+    "question_id": "cbse_xi_keph1dd_c107_gen291",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Compare the orbital period formulas for a satellite in a low Earth orbit and one in a high orbit. Discuss the assumption made when h is negligible compared to R_E.",
@@ -2502,7 +2637,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen292"
+    "question_id": "cbse_xi_keph1dd_c107_gen292",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Derive the orbital speed expression for a satellite in a circular orbit starting from the balance between gravitational and centripetal forces. Provide a step-by-step derivation.",
@@ -2516,7 +2652,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen293"
+    "question_id": "cbse_xi_keph1dd_c107_gen293",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Using Kepler's third law, discuss how the orbital period T of a satellite changes with altitude h. Also, mention any limitations when applying this formula to elliptical orbits.",
@@ -2530,7 +2667,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen294"
+    "question_id": "cbse_xi_keph1dd_c107_gen294",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Design an experiment using Earth satellites to measure the gravitational constant G. Describe the necessary measurements and how you would analyze the data.",
@@ -2544,7 +2682,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen295"
+    "question_id": "cbse_xi_keph1dd_c107_gen295",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: The Moon's period of revolution is approximately equal to its rotational period about its own axis.",
@@ -2558,7 +2697,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen296"
+    "question_id": "cbse_xi_keph1dd_c107_gen296",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: For satellites very close to the Earth's surface, the orbital period can be approximated by T_0 = 2π sqrt(R_E/g).",
@@ -2572,7 +2712,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen297"
+    "question_id": "cbse_xi_keph1dd_c107_gen297",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: The formula T^2 = (4π^2/(G M_E)) (R_E + h)^3 can be used for elliptical orbits without any modifications.",
@@ -2586,7 +2727,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen298"
+    "question_id": "cbse_xi_keph1dd_c107_gen298",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "A satellite in a low Earth orbit is assumed to be at h = 0. Given g = 9.8 m/s² and R_E = 6.4 × 10^6 m, calculate its orbital speed V using the relation V^2 = g R_E.",
@@ -2600,7 +2742,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen299"
+    "question_id": "cbse_xi_keph1dd_c107_gen299",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "An artificial satellite orbits at an altitude of 400 km above the Earth's surface. Given R_E = 6.4 × 10^6 m, g = 9.8 m/s² (which gives T_0 ≈ 85 minutes when h = 0), estimate the orbital period T for this satellite.",
@@ -2614,7 +2757,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen300"
+    "question_id": "cbse_xi_keph1dd_c107_gen300",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Phobos, one of Mars' moons, has an orbital period of 7 hours 39 minutes and an orbital radius of 9.4 × 10^3 km. Calculate the mass of Mars using the formula M = (4π^2 R^3)/(G T^2). (Use G = 6.67 × 10^-11 N m²/kg² and convert the orbital radius to meters.)",
@@ -2628,7 +2772,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen301"
+    "question_id": "cbse_xi_keph1dd_c107_gen301",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Using the data: g = 9.81 m/s², R_E = 6.37 × 10^6 m, distance to the Moon R = 3.84 × 10^8 m, and Moon's period T = 27.3 days, compute the Earth's mass using both the surface gravity method and the Moon's orbital motion method. Compare the two results.",
@@ -2642,7 +2787,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen302"
+    "question_id": "cbse_xi_keph1dd_c107_gen302",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Express the constant k (given as 1 × 10^-13 s²/m³) in units of days²/km³, and then use it to calculate the Moon's orbital period if the Moon is at a distance of 3.84 × 10^5 km from the Earth.",
@@ -2656,7 +2802,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen303"
+    "question_id": "cbse_xi_keph1dd_c107_gen303",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Given that gravitational acceleration on the surface is g = GM_E/RE², what is the approximate expression for g at a small height h (with h << RE) above the Earth’s surface?",
@@ -2675,7 +2822,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen175"
+    "question_id": "cbse_xi_keph1dd_c107_gen175",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Which of the following equations correctly represents the gravitational force acting on a mass m located at a height h above the Earth's surface?",
@@ -2694,7 +2842,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen176"
+    "question_id": "cbse_xi_keph1dd_c107_gen176",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Which formula correctly gives the acceleration due to gravity at a depth d below Earth's surface?",
@@ -2713,7 +2862,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen177"
+    "question_id": "cbse_xi_keph1dd_c107_gen177",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "What is the significance of the fact that Earth’s gravitational acceleration is maximum at its surface?",
@@ -2732,7 +2882,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen178"
+    "question_id": "cbse_xi_keph1dd_c107_gen178",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Derive the first-order approximation for gravitational acceleration at a height h above the Earth's surface starting from the expression g(h) = GM_E/(RE + h)².",
@@ -2746,7 +2897,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen179"
+    "question_id": "cbse_xi_keph1dd_c107_gen179",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Explain why a spherical shell of thickness d exerts zero net gravitational force on a point mass located inside it.",
@@ -2760,7 +2912,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen180"
+    "question_id": "cbse_xi_keph1dd_c107_gen180",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Express the ratio of the mass M_s of an inner sphere of radius (RE - d) to the total Earth's mass M_E.",
@@ -2774,7 +2927,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen181"
+    "question_id": "cbse_xi_keph1dd_c107_gen181",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Discuss how gravitational acceleration changes when moving from the Earth’s surface to a height h above it.",
@@ -2788,7 +2942,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen182"
+    "question_id": "cbse_xi_keph1dd_c107_gen182",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Derive the expression for gravitational acceleration at a height h above the Earth's surface starting from Newton's law of gravitation. Include the use of binomial approximation in your derivation.",
@@ -2802,7 +2957,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen183"
+    "question_id": "cbse_xi_keph1dd_c107_gen183",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Using the concept of mass distribution and Newton's shell theorem, derive the gravitational acceleration at a depth d below the Earth's surface.",
@@ -2816,7 +2972,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen184"
+    "question_id": "cbse_xi_keph1dd_c107_gen184",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Analyze and compare the rate of decrease of gravitational acceleration when moving above the Earth's surface and below it. Explain the underlying reasons for any differences observed.",
@@ -2830,7 +2987,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen185"
+    "question_id": "cbse_xi_keph1dd_c107_gen185",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "The gravitational acceleration on Earth is maximum at its surface and decreases both when moving upward and downward. True or False?",
@@ -2844,7 +3002,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen186"
+    "question_id": "cbse_xi_keph1dd_c107_gen186",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "A point inside a spherical shell experiences a gravitational force. True or False?",
@@ -2858,7 +3017,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen187"
+    "question_id": "cbse_xi_keph1dd_c107_gen187",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "For a point mass located inside the Earth, only the mass within the radius of the point contributes to the gravitational force. True or False?",
@@ -2872,7 +3032,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen188"
+    "question_id": "cbse_xi_keph1dd_c107_gen188",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Calculate the gravitational acceleration at a height of 100 m above the Earth's surface, given that RE = 6.4 x 10^6 m and g = 9.8 m/s². Use the approximation g(h) ≈ g(1 - 2h/RE).",
@@ -2886,7 +3047,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen189"
+    "question_id": "cbse_xi_keph1dd_c107_gen189",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Determine the gravitational acceleration at a depth of 2 km below the Earth's surface, given RE = 6.4 x 10^6 m and g = 9.8 m/s². Use the relation g(d) = g(1 - d/RE).",
@@ -2900,7 +3062,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen190"
+    "question_id": "cbse_xi_keph1dd_c107_gen190",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "A point mass is raised 500 m above the Earth's surface. Using the approximation g(h) ≈ g(1 - 2h/RE), calculate the percentage decrease in gravitational acceleration.",
@@ -2914,7 +3077,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen191"
+    "question_id": "cbse_xi_keph1dd_c107_gen191",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "For a 1 kg mass located 4 km below the Earth's surface, calculate the gravitational force acting on it. Use RE = 6.4 x 10^6 m, M_E = 5.97 x 10^24 kg, G = 6.67 x 10^-11 N m²/kg², and d = 4000 m. Use the formula F(d) = G M_E m (RE - d)/RE³.",
@@ -2928,7 +3092,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen192"
+    "question_id": "cbse_xi_keph1dd_c107_gen192",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Who was the first scientist to experimentally determine the gravitational constant G?",
@@ -2947,7 +3112,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen125"
+    "question_id": "cbse_xi_keph1dd_c107_gen125",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "In Cavendish's experiment, which of the following best explains why there is a net torque on the bar but no net force?",
@@ -2966,7 +3132,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen126"
+    "question_id": "cbse_xi_keph1dd_c107_gen126",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Which equation correctly represents the attractive gravitational force between a large sphere and its neighboring small sphere as given in the text?",
@@ -2985,7 +3152,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen127"
+    "question_id": "cbse_xi_keph1dd_c107_gen127",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "What is the role of the torsion constant (tau) in Cavendish's experiment?",
@@ -3004,7 +3172,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen128"
+    "question_id": "cbse_xi_keph1dd_c107_gen128",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Explain the role of the torsion constant in the context of the Cavendish experiment.",
@@ -3018,7 +3187,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen129"
+    "question_id": "cbse_xi_keph1dd_c107_gen129",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Define the gravitational constant and discuss its significance in the universal law of gravitation.",
@@ -3032,7 +3202,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen130"
+    "question_id": "cbse_xi_keph1dd_c107_gen130",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Describe why, in Cavendish's experiment, the bar experiences a net torque despite the net gravitational force being zero.",
@@ -3046,7 +3217,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen131"
+    "question_id": "cbse_xi_keph1dd_c107_gen131",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Discuss the experimental procedure used by Cavendish to determine the gravitational constant G, highlighting the roles of gravitational and restoring torques.",
@@ -3060,7 +3232,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen132"
+    "question_id": "cbse_xi_keph1dd_c107_gen132",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Evaluate how a measurement error in the angle of twist theta would affect the determination of the gravitational constant G in Cavendish's experiment.",
@@ -3074,7 +3247,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen133"
+    "question_id": "cbse_xi_keph1dd_c107_gen133",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Propose potential improvements to the Cavendish experimental design that could reduce measurement uncertainties in determining the gravitational constant G.",
@@ -3088,7 +3262,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen134"
+    "question_id": "cbse_xi_keph1dd_c107_gen134",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "True or False: In the Cavendish experiment, the gravitational force between the spheres acts along the line joining their centers.",
@@ -3102,7 +3277,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen135"
+    "question_id": "cbse_xi_keph1dd_c107_gen135",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "True or False: The net force on the suspended bar in the Cavendish experiment is nonzero because the gravitational attractions of the large spheres are unbalanced.",
@@ -3116,7 +3292,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen136"
+    "question_id": "cbse_xi_keph1dd_c107_gen136",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "True or False: The restoring torque provided by the twisted wire is directly proportional to the angle of twist theta, with tau as the proportionality constant.",
@@ -3130,7 +3307,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen137"
+    "question_id": "cbse_xi_keph1dd_c107_gen137",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "A Cavendish experiment uses a small sphere of mass m = 0.1 kg and a large sphere of mass M = 5.0 kg. The distance between the centers is d = 0.1 m, the length of the bar is L = 0.1 m, and the torsion constant is tau = 1.0e-8 N·m/rad. If the equilibrium angle of twist theta is measured as 0.033 rad, calculate the gravitational constant G. Use the equilibrium equation: G(Mm)/d² * L = tau * theta.",
@@ -3144,7 +3322,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen138"
+    "question_id": "cbse_xi_keph1dd_c107_gen138",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "In a different setup, consider a small sphere of mass m = 0.2 kg and a large sphere of mass M = 10 kg with a center-to-center distance d = 0.15 m. The bar length is L = 0.2 m and the torsion constant is tau = 2.0e-8 N·m/rad. If the gravitational constant is G = 6.67e-11 N·m²/kg², determine the expected angle of twist theta in the equilibrium condition.",
@@ -3158,7 +3337,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen139"
+    "question_id": "cbse_xi_keph1dd_c107_gen139",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Calculate the gravitational force between a large sphere (M = 100 kg) and a small sphere (m = 0.05 kg) separated by a distance d = 0.2 m using the relation F = G(Mm)/d² and the accepted value of G = 6.67e-11 N·m²/kg².",
@@ -3172,7 +3352,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen140"
+    "question_id": "cbse_xi_keph1dd_c107_gen140",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "If a systematic error causes the measured angle of twist theta to be overestimated by 5%, what is the percent error introduced in the computed value of G, assuming all other factors remain accurate?",
@@ -3186,7 +3367,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen141"
+    "question_id": "cbse_xi_keph1dd_c107_gen141",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Which of the following correctly represents the expression for gravitational acceleration at the surface of the Earth?",
@@ -3205,7 +3387,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen158"
+    "question_id": "cbse_xi_keph1dd_c107_gen158",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "For a point mass located inside the Earth at a distance r from the center, which mass contributes to the gravitational force on the mass?",
@@ -3224,7 +3407,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen159"
+    "question_id": "cbse_xi_keph1dd_c107_gen159",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Assuming uniform density, what is the formula for the mass of the Earth in terms of its density (ρ) and radius (RE)?",
@@ -3243,7 +3427,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen160"
+    "question_id": "cbse_xi_keph1dd_c107_gen160",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Which of the following statements is true regarding the gravitational effect of a spherical shell on a point mass located inside it?",
@@ -3262,7 +3447,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen161"
+    "question_id": "cbse_xi_keph1dd_c107_gen161",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Cavendish's experiment is popular for which of the following reasons?",
@@ -3281,7 +3467,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen162"
+    "question_id": "cbse_xi_keph1dd_c107_gen162",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Define gravitational acceleration (g) in the context of Earth's gravity.",
@@ -3295,7 +3482,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen163"
+    "question_id": "cbse_xi_keph1dd_c107_gen163",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Explain why, for a point inside the Earth, only the mass enclosed within the radius r contributes to the gravitational force on a mass placed at that point.",
@@ -3309,7 +3497,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen164"
+    "question_id": "cbse_xi_keph1dd_c107_gen164",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Derive the expression for the gravitational force on a mass m at a distance r from the center of the Earth, assuming the Earth is of uniform density.",
@@ -3323,7 +3512,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen165"
+    "question_id": "cbse_xi_keph1dd_c107_gen165",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Describe how the gravitational force on a point mass inside the Earth is computed. In your answer, discuss the role of the concentric spherical shells and how the contributions from each shell are considered.",
@@ -3337,7 +3527,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen166"
+    "question_id": "cbse_xi_keph1dd_c107_gen166",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Critically analyze the assumption of uniform density of the Earth used in computing gravitational acceleration. What are the potential limitations of this assumption?",
@@ -3351,7 +3542,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen167"
+    "question_id": "cbse_xi_keph1dd_c107_gen167",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: A point mass located inside a spherical shell experiences a net gravitational force due to that shell.",
@@ -3365,7 +3557,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen168"
+    "question_id": "cbse_xi_keph1dd_c107_gen168",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: The gravitational force at the surface of the Earth depends directly on the Earth's density.",
@@ -3379,7 +3572,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen169"
+    "question_id": "cbse_xi_keph1dd_c107_gen169",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: Cavendish's experiment allowed the measurement of the gravitational constant G, which in turn made it possible to estimate the mass of the Earth.",
@@ -3393,7 +3587,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen170"
+    "question_id": "cbse_xi_keph1dd_c107_gen170",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Using the values G = 6.67 x 10^-11 N m^2 kg^-2, ME = 5.97 x 10^24 kg, and RE = 6.37 x 10^6 m, calculate the gravitational acceleration g at the surface of the Earth. Provide your answer in m/s^2.",
@@ -3407,7 +3602,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen171"
+    "question_id": "cbse_xi_keph1dd_c107_gen171",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "A mass of 10 kg is placed at a point inside the Earth at a distance of 0.75 RE from the center. Assuming uniform density, calculate the gravitational force acting on the mass. Use g at the surface as 9.8 m/s^2.",
@@ -3421,7 +3617,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen172"
+    "question_id": "cbse_xi_keph1dd_c107_gen172",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Given that the gravitational acceleration at the Earth's surface is 9.8 m/s^2 and the Earth's radius is 6371 km, estimate the mass of the Earth. Use G = 6.67 x 10^-11 N m^2 kg^-2. Show your calculations.",
@@ -3435,7 +3632,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen173"
+    "question_id": "cbse_xi_keph1dd_c107_gen173",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "For a point inside the Earth at a distance of 0.5 RE from the center, derive the expression for gravitational acceleration at that point and calculate its value assuming the surface acceleration is 9.8 m/s^2.",
@@ -3449,7 +3647,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "06_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen174"
+    "question_id": "cbse_xi_keph1dd_c107_gen174",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Which of the following best describes Kepler's First Law?",
@@ -3468,7 +3667,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen035"
+    "question_id": "cbse_xi_keph1dd_c107_gen035",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Kepler's Second Law states that the line joining a planet to the Sun sweeps which of the following in equal time intervals?",
@@ -3487,7 +3687,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen036"
+    "question_id": "cbse_xi_keph1dd_c107_gen036",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "In the string method for drawing an ellipse, what does the constant length of the string represent?",
@@ -3506,7 +3707,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen037"
+    "question_id": "cbse_xi_keph1dd_c107_gen037",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "According to Kepler's Third Law, if a planet's semi-major axis doubles, by what factor does its orbital period change?",
@@ -3525,7 +3727,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen038"
+    "question_id": "cbse_xi_keph1dd_c107_gen038",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Which reason most accurately explains why planets move slower when farther from the Sun?",
@@ -3544,7 +3747,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen039"
+    "question_id": "cbse_xi_keph1dd_c107_gen039",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Describe the method used to draw an ellipse using a string and two pins.",
@@ -3558,7 +3762,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen040"
+    "question_id": "cbse_xi_keph1dd_c107_gen040",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Define the semi-major axis in the context of an elliptical orbit.",
@@ -3572,7 +3777,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen041"
+    "question_id": "cbse_xi_keph1dd_c107_gen041",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Briefly state Kepler's Second Law of planetary motion.",
@@ -3586,7 +3792,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen042"
+    "question_id": "cbse_xi_keph1dd_c107_gen042",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Explain how conservation of angular momentum leads to Kepler's Law of Areas.",
@@ -3600,7 +3807,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen043"
+    "question_id": "cbse_xi_keph1dd_c107_gen043",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Discuss how observational data of planetary motions verify Kepler's Third Law.",
@@ -3614,7 +3822,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen044"
+    "question_id": "cbse_xi_keph1dd_c107_gen044",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Analyze the differences between circular and elliptical orbits, particularly in terms of orbital speed and areas swept over time.",
@@ -3628,7 +3837,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen045"
+    "question_id": "cbse_xi_keph1dd_c107_gen045",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Explain in detail how conservation of angular momentum under a central gravitational force results in a constant areal velocity as stated in Kepler's Second Law.",
@@ -3642,7 +3852,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen046"
+    "question_id": "cbse_xi_keph1dd_c107_gen046",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "True or False: In a circular orbit, the two foci of the corresponding ellipse merge into one, making the semi-major axis equal to the radius of the circle.",
@@ -3656,7 +3867,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen047"
+    "question_id": "cbse_xi_keph1dd_c107_gen047",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "True or False: Kepler's laws are applicable only if the force acting on the planet is non-gravitational.",
@@ -3670,7 +3882,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen048"
+    "question_id": "cbse_xi_keph1dd_c107_gen048",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "A planet is observed at its perihelion with a distance rP = 1.0e11 m and a speed vP = 40 km/s. If the distance at aphelion is rA = 1.5e11 m, calculate the speed vA at aphelion using conservation of angular momentum.",
@@ -3684,7 +3897,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen049"
+    "question_id": "cbse_xi_keph1dd_c107_gen049",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Using Kepler's Third Law, compare Earth and Mars. Given that Earth's semi-major axis is 15.0 x 10^10 m and its period is 1 year, while Mars has a semi-major axis of 22.8 x 10^10 m, compute the orbital period of Mars.",
@@ -3698,7 +3912,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen050"
+    "question_id": "cbse_xi_keph1dd_c107_gen050",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Satellite A orbits a planet in an elliptical path with a periapsis of 7000 km and an apoapsis of 14000 km. Satellite B orbits the same planet with a semi-major axis of 13500 km. Calculate the semi-major axis of Satellite A's orbit and determine the ratio of the orbital period of Satellite B to that of Satellite A using Kepler's Third Law.",
@@ -3712,7 +3927,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen051"
+    "question_id": "cbse_xi_keph1dd_c107_gen051",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Calculate the areal velocity of a planet given its angular momentum L = 3.0 x 10^15 kg·m²/s and mass m = 6.0 x 10^24 kg. Use the relation areal velocity = L/(2m).",
@@ -3726,7 +3942,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "02_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen052"
+    "question_id": "cbse_xi_keph1dd_c107_gen052",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Which equation represents the gravitational force between two spherical masses positioned such that their masses can be considered as concentrated at their centers?",
@@ -3745,7 +3962,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen109"
+    "question_id": "cbse_xi_keph1dd_c107_gen109",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "In Cavendish's experiment, what is the role of the torsion wire?",
@@ -3764,7 +3982,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen110"
+    "question_id": "cbse_xi_keph1dd_c107_gen110",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "When the large lead spheres in Cavendish's experiment are moved to the opposite sides of the small spheres, which of the following best explains the resulting motion of the bar AB?",
@@ -3783,7 +4002,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen111"
+    "question_id": "cbse_xi_keph1dd_c107_gen111",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "What is the currently accepted value of the gravitational constant G as stated in the section?",
@@ -3802,7 +4022,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen112"
+    "question_id": "cbse_xi_keph1dd_c107_gen112",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Which aspect of Cavendish's experimental setup allowed for the measurement of very small gravitational forces?",
@@ -3821,7 +4042,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen113"
+    "question_id": "cbse_xi_keph1dd_c107_gen113",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Describe briefly how the gravitational constant G is determined using Cavendish's experimental apparatus.",
@@ -3835,7 +4057,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen114"
+    "question_id": "cbse_xi_keph1dd_c107_gen114",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Explain the significance of the restoring torque being proportional to the twist angle θ in the context of Cavendish's experiment.",
@@ -3849,7 +4072,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen115"
+    "question_id": "cbse_xi_keph1dd_c107_gen115",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "What is the purpose of having the small lead spheres attached to the ends of the bar AB in the experiment?",
@@ -3863,7 +4087,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen116"
+    "question_id": "cbse_xi_keph1dd_c107_gen116",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Discuss how the balance between gravitational torque and restoring torque is used to determine the gravitational constant G in Cavendish's experiment. Include relevant equations in your explanation.",
@@ -3877,7 +4102,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen117"
+    "question_id": "cbse_xi_keph1dd_c107_gen117",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Analyze the advantages and limitations of using a torsional pendulum setup, as used in Cavendish's experiment, for determining the gravitational constant G.",
@@ -3891,7 +4117,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen118"
+    "question_id": "cbse_xi_keph1dd_c107_gen118",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "True or False: When the large spheres are positioned on opposite sides of the small spheres in Cavendish's experiment, the bar experiences a net force that causes it to translate.",
@@ -3905,7 +4132,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen119"
+    "question_id": "cbse_xi_keph1dd_c107_gen119",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "True or False: In the experiment, the gravitational force between the spherical balls is calculated as if their entire masses were concentrated at their centers.",
@@ -3919,7 +4147,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen120"
+    "question_id": "cbse_xi_keph1dd_c107_gen120",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Calculate the gravitational force F between a large sphere of mass 10.0 kg and a small sphere of mass 2.0 kg separated by a distance of 0.50 m. Use the accepted value of G as 6.67 x 10^-11 N·m^2/kg^2.",
@@ -3933,7 +4162,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen121"
+    "question_id": "cbse_xi_keph1dd_c107_gen121",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "In a torsional pendulum experiment, if the measured twist angle of the suspension wire is 0.02 rad and the torsion constant is 1.50 x 10^-8 N·m/rad, determine the restoring torque. Also, if the length of the bar AB is 0.30 m, calculate the gravitational force F that would cause this restoring torque.",
@@ -3947,7 +4177,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen122"
+    "question_id": "cbse_xi_keph1dd_c107_gen122",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Using the equilibrium condition G(Mm)L/d^2 = τθ, calculate the gravitational constant G given the following measurements: twist angle θ = 0.03 rad, torsion constant τ = 2.00 x 10^-8 N·m/rad, bar length L = 0.25 m, large sphere mass M = 11.0 kg, small sphere mass m = 3.0 kg, and distance between sphere centers d = 0.40 m.",
@@ -3961,7 +4192,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen123"
+    "question_id": "cbse_xi_keph1dd_c107_gen123",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "A measurement error in the twist angle could significantly affect the computed value of G. If the measured twist angle is 0.02 rad with a possible error of ±0.005 rad, compute the percentage error in the determination of G.",
@@ -3975,7 +4207,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_4",
-    "question_id": "cbse_xi_keph1dd_c107_gen124"
+    "question_id": "cbse_xi_keph1dd_c107_gen124",
+    "section_name": "7.4 THE GRAVITATIONAL CONSTANT"
   },
   {
     "question_text": "Which of the following best describes an Earth satellite?",
@@ -3994,7 +4227,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen322"
+    "question_id": "cbse_xi_keph1dd_c107_gen322",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Kepler's third law when applied to satellites states that the square of the orbital period T is proportional to the cube of the distance from the center of the Earth, (RE + h). Which of the following represents this relationship?",
@@ -4013,7 +4247,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen323"
+    "question_id": "cbse_xi_keph1dd_c107_gen323",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "According to the text, what is the approximate orbital period of a satellite very close to the surface of the Earth?",
@@ -4032,7 +4267,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen324"
+    "question_id": "cbse_xi_keph1dd_c107_gen324",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Which law is used to derive T^2 = (4π^2 / GME)*(RE + h)^3 for the motion of satellites around the Earth?",
@@ -4051,7 +4287,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen325"
+    "question_id": "cbse_xi_keph1dd_c107_gen325",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "What happens to the orbital speed of a satellite as its altitude (h) increases?",
@@ -4070,7 +4307,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen326"
+    "question_id": "cbse_xi_keph1dd_c107_gen326",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Derive the formula for the orbital speed V of a satellite in a circular orbit by equating the centripetal force and gravitational force.",
@@ -4084,7 +4322,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen327"
+    "question_id": "cbse_xi_keph1dd_c107_gen327",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "State the relation between gravitational acceleration g, Earth's mass M_E, Earth's radius RE, and the gravitational constant G.",
@@ -4098,7 +4337,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen328"
+    "question_id": "cbse_xi_keph1dd_c107_gen328",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Explain why a satellite very close to the Earth's surface has an orbital period T0 approximately equal to 85 minutes.",
@@ -4112,7 +4352,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen329"
+    "question_id": "cbse_xi_keph1dd_c107_gen329",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Using Kepler's law for satellites, explain how the orbital period changes with altitude.",
@@ -4126,7 +4367,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen330"
+    "question_id": "cbse_xi_keph1dd_c107_gen330",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Discuss how Kepler's third law is adapted for satellites orbiting the Earth, and derive the formula for the time period T of a satellite in a circular orbit.",
@@ -4140,7 +4382,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen331"
+    "question_id": "cbse_xi_keph1dd_c107_gen331",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Explain the significance of the fact that the Moon's rotational period about its axis is roughly equal to its orbital period around the Earth.",
@@ -4154,7 +4397,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen332"
+    "question_id": "cbse_xi_keph1dd_c107_gen332",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Compare the orbital motion of an artificial satellite near the Earth's surface with that of the Moon. In your answer, discuss differences in orbital speed, altitude, and the balancing of gravitational forces.",
@@ -4168,7 +4412,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen333"
+    "question_id": "cbse_xi_keph1dd_c107_gen333",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: A satellite in a circular orbit experiences a centripetal force provided solely by the gravitational pull of the Earth.",
@@ -4182,7 +4427,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen334"
+    "question_id": "cbse_xi_keph1dd_c107_gen334",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: As the altitude of a satellite increases, its orbital speed increases.",
@@ -4196,7 +4442,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen335"
+    "question_id": "cbse_xi_keph1dd_c107_gen335",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "True or False: The formula T = 2π√(RE/g) is applicable for determining the orbital period of satellites at any altitude.",
@@ -4210,7 +4457,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen336"
+    "question_id": "cbse_xi_keph1dd_c107_gen336",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Calculate the orbital speed of a satellite in a circular orbit at an altitude of 400 km above the Earth's surface. Use RE = 6.4 × 10^6 m and g = 9.8 m/s². (Hint: Use V² = (G M_E)/(RE + h) and the relation G M_E = g RE².)",
@@ -4224,7 +4472,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen337"
+    "question_id": "cbse_xi_keph1dd_c107_gen337",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Using the formula T0 = 2π√(RE/g) for near-Earth satellites, verify that the orbital period is approximately 85 minutes. Use RE = 6.4×10^6 m and g = 9.8 m/s².",
@@ -4238,7 +4487,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen338"
+    "question_id": "cbse_xi_keph1dd_c107_gen338",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "A satellite orbits the Earth at an altitude such that its orbital period is 120 minutes. Calculate the altitude h of the satellite. Use RE = 6.4×10^6 m, g = 9.8 m/s², and the relation G M_E = g RE². (Hint: Use T = 2π (RE + h)^(3/2)/√(G M_E))",
@@ -4252,7 +4502,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen339"
+    "question_id": "cbse_xi_keph1dd_c107_gen339",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "The moon Phobos orbits Mars at a radius of 9.4×10^6 m with an orbital period of 7 hours and 39 minutes. Calculate the mass of Mars using the formula M = (4π² R³)/(G T²), where G = 6.67×10⁻¹¹ N·m²/kg². (Convert the period into seconds.)",
@@ -4266,7 +4517,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen340"
+    "question_id": "cbse_xi_keph1dd_c107_gen340",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Express the constant k, given as 10⁻¹³ s²/m³, in days²/km³. Then, using this value of k, calculate the orbital period in days for the Moon, whose semi-major axis is 3.84×10⁵ km.",
@@ -4280,7 +4532,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_9",
-    "question_id": "cbse_xi_keph1dd_c107_gen341"
+    "question_id": "cbse_xi_keph1dd_c107_gen341",
+    "section_name": "7.9 EARTH SATELLITES"
   },
   {
     "question_text": "Which of the following equations correctly represents the gravitational acceleration at the surface of the Earth?",
@@ -4299,7 +4552,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen142"
+    "question_id": "cbse_xi_keph1dd_c107_gen142",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "For a point inside the Earth at a distance r from its center, which statement accurately describes the gravitational influence of the concentric shells that lie outside the radius r?",
@@ -4318,7 +4572,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen143"
+    "question_id": "cbse_xi_keph1dd_c107_gen143",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "What assumption is made about Earth's mass distribution in deriving the equations for gravitational force both inside and outside the Earth?",
@@ -4337,7 +4592,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen144"
+    "question_id": "cbse_xi_keph1dd_c107_gen144",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "For a mass m located at a distance r from the center of the Earth (with r < RE), what is the expression for the gravitational force acting on it?",
@@ -4356,7 +4612,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen145"
+    "question_id": "cbse_xi_keph1dd_c107_gen145",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Explain why the spherical shells of the Earth that lie outside a radius r do not contribute to the gravitational force on a mass located at a distance r from the center.",
@@ -4370,7 +4627,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen146"
+    "question_id": "cbse_xi_keph1dd_c107_gen146",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Derive the expression for the gravitational acceleration g at the surface of the Earth starting from Newton's law of gravitation.",
@@ -4384,7 +4642,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen147"
+    "question_id": "cbse_xi_keph1dd_c107_gen147",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "How can the measurement of the acceleration due to gravity g combined with the values of G and RE be used to estimate the mass of the Earth?",
@@ -4398,7 +4657,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen148"
+    "question_id": "cbse_xi_keph1dd_c107_gen148",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Discuss in detail the role of the shell theorem in deriving the expression for gravitational force inside the Earth and explain how the uniform density assumption leads to a force that varies linearly with distance from the center.",
@@ -4412,7 +4672,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen149"
+    "question_id": "cbse_xi_keph1dd_c107_gen149",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Discuss the potential challenges and limitations in using a uniform density model for the Earth when calculating the gravitational force, especially for points below the Earth's surface.",
@@ -4426,7 +4687,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen150"
+    "question_id": "cbse_xi_keph1dd_c107_gen150",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: For a point mass located inside the Earth, all concentric spherical shells, regardless of their radii, contribute equally to the gravitational force on the mass.",
@@ -4440,7 +4702,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen151"
+    "question_id": "cbse_xi_keph1dd_c107_gen151",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: The gravitational acceleration at the Earth’s surface is given by g = GME/RE^2.",
@@ -4454,7 +4717,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen152"
+    "question_id": "cbse_xi_keph1dd_c107_gen152",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "True or False: If the Earth were not of uniform density, the formula g = GME/RE^2 would still exactly apply at all points within the Earth.",
@@ -4468,7 +4732,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen153"
+    "question_id": "cbse_xi_keph1dd_c107_gen153",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "A student is given the following values: gravitational constant G = 6.67 x 10^-11 N m^2/kg^2, Earth's radius RE = 6.37 x 10^6 m, and Earth's mass ME = 5.97 x 10^24 kg. Calculate the gravitational acceleration g at the Earth's surface.",
@@ -4482,7 +4747,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen154"
+    "question_id": "cbse_xi_keph1dd_c107_gen154",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Assuming a uniform density for the Earth, calculate the gravitational acceleration at a depth corresponding to r = 0.5 RE. Use g (at surface) = 9.81 m/s^2.",
@@ -4496,7 +4762,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen155"
+    "question_id": "cbse_xi_keph1dd_c107_gen155",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "A mass of 2 kg is located at a depth where r = 0.8 RE inside the Earth. If the gravitational force acting on it is measured to be 12.5 N, determine the gravitational acceleration at the Earth’s surface.",
@@ -4510,7 +4777,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen156"
+    "question_id": "cbse_xi_keph1dd_c107_gen156",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Using the relation between gravitational acceleration and density for a uniform Earth, derive an expression for Earth's density ρ in terms of g, RE, and G, and then calculate ρ given g = 9.81 m/s^2, RE = 6.37 x 10^6 m, and G = 6.67 x 10^-11 N m^2/kg^2.",
@@ -4524,7 +4792,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "05_section_7_5",
-    "question_id": "cbse_xi_keph1dd_c107_gen157"
+    "question_id": "cbse_xi_keph1dd_c107_gen157",
+    "section_name": "7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH"
   },
   {
     "question_text": "Which of the following best describes escape speed?",
@@ -4543,7 +4812,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen249"
+    "question_id": "cbse_xi_keph1dd_c107_gen249",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "The derivation of escape speed primarily uses which physical principle?",
@@ -4562,7 +4832,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen250"
+    "question_id": "cbse_xi_keph1dd_c107_gen250",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Using the relation g = GM_E/R_E², which expression below represents the escape speed from a planet's surface?",
@@ -4581,7 +4852,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen251"
+    "question_id": "cbse_xi_keph1dd_c107_gen251",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "What is the approximate escape speed from Earth as derived from the relations in the section?",
@@ -4600,7 +4872,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen252"
+    "question_id": "cbse_xi_keph1dd_c107_gen252",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "When considering an object launched from another celestial body like the Moon, which parameters must be modified in the escape speed equation?",
@@ -4619,7 +4892,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen253"
+    "question_id": "cbse_xi_keph1dd_c107_gen253",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "State the conservation of energy equation used to derive the escape speed from a planet’s surface.",
@@ -4633,7 +4907,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen254"
+    "question_id": "cbse_xi_keph1dd_c107_gen254",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Using the conservation of energy, derive the expression for the minimum speed required for an object to escape from a planet when launched from its surface.",
@@ -4647,7 +4922,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen255"
+    "question_id": "cbse_xi_keph1dd_c107_gen255",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Explain the significance of the 'neutral point' in Example 7.4 and how it affects the required initial speed of the projectile.",
@@ -4661,7 +4937,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen256"
+    "question_id": "cbse_xi_keph1dd_c107_gen256",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Describe how the escape speed from the Moon differs from that of Earth and provide a brief explanation based on the derived formulas.",
@@ -4675,7 +4952,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen257"
+    "question_id": "cbse_xi_keph1dd_c107_gen257",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Derive the escape speed equation V_min = sqrt(2gR_E) starting from the energy conservation equation and show all steps in your derivation.",
@@ -4689,7 +4967,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen258"
+    "question_id": "cbse_xi_keph1dd_c107_gen258",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Analyze how energy transforms from kinetic to potential energy for a projectile launched from Earth with escape speed, and explain why the final kinetic energy at infinity is zero.",
@@ -4703,7 +4982,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen259"
+    "question_id": "cbse_xi_keph1dd_c107_gen259",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Evaluate the assumptions used in deriving the escape speed equation and discuss any limitations these assumptions may impose.",
@@ -4717,7 +4997,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen260"
+    "question_id": "cbse_xi_keph1dd_c107_gen260",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "True or False: The escape speed for an object launched from the Moon is greater than that from Earth due to the Moon's lower mass.",
@@ -4731,7 +5012,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen261"
+    "question_id": "cbse_xi_keph1dd_c107_gen261",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "True or False: In deriving the escape speed, the conservation of mechanical energy involves equating the sum of kinetic and potential energies at the launching point with that at infinity.",
@@ -4745,7 +5027,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen262"
+    "question_id": "cbse_xi_keph1dd_c107_gen262",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "True or False: When an object is launched with exactly the escape speed, its kinetic energy remains constant throughout its journey until it reaches infinity.",
@@ -4759,7 +5042,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen263"
+    "question_id": "cbse_xi_keph1dd_c107_gen263",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Given g = 9.8 m/s² and R_E = 6.4 × 10^6 m, calculate the escape speed from Earth. Show all steps in your calculation.",
@@ -4773,7 +5057,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen264"
+    "question_id": "cbse_xi_keph1dd_c107_gen264",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Using the escape speed formula, calculate the escape speed for the Moon if its surface gravitational acceleration is 1.62 m/s² and its radius is 1.74 × 10^6 m. Provide your answer in km/s.",
@@ -4787,7 +5072,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen265"
+    "question_id": "cbse_xi_keph1dd_c107_gen265",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "In Example 7.4, two spheres of masses M and 4M with radius R are separated by 6R. Verify that the neutral point, where gravitational forces cancel, is located 2R from the center of the sphere with mass M.",
@@ -4801,7 +5087,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen266"
+    "question_id": "cbse_xi_keph1dd_c107_gen266",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Derive the expression for the minimum initial speed required for a projectile to reach the neutral point in Example 7.4, given that the energy conservation equation leads to ½ m v² - (GMm/R + 4GMm/(5R)) = - (GMm/(2R) + GMm/R).",
@@ -4815,7 +5102,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen267"
+    "question_id": "cbse_xi_keph1dd_c107_gen267",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "For the projectile in Example 7.4, calculate the total mechanical energy at the surface of the sphere with mass M, given that its kinetic energy is ½ m v² and its gravitational potential energies are -GMm/R and -4GMm/(5R). Express your answer in terms of GMm and R.",
@@ -4829,7 +5117,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen268"
+    "question_id": "cbse_xi_keph1dd_c107_gen268",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Assuming an object is launched from the surface of Earth with exactly the escape speed, calculate its total mechanical energy at infinity. Explain your reasoning.",
@@ -4843,7 +5132,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen269"
+    "question_id": "cbse_xi_keph1dd_c107_gen269",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Which of the following formulas correctly represents the gravitational force F(h) acting on a point mass m located at a height h above the Earth's surface?",
@@ -4862,7 +5152,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen193"
+    "question_id": "cbse_xi_keph1dd_c107_gen193",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "For small h relative to R_E, the acceleration due to gravity at a height h is approximated by g(h) = g (1 - ?). Which term correctly completes the expression?",
@@ -4881,7 +5172,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen194"
+    "question_id": "cbse_xi_keph1dd_c107_gen194",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "At a depth d below the Earth's surface, the gravitational acceleration is given by:",
@@ -4900,7 +5192,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen195"
+    "question_id": "cbse_xi_keph1dd_c107_gen195",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Which principle justifies that the gravitational force inside a uniform spherical shell is zero?",
@@ -4919,7 +5212,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen196"
+    "question_id": "cbse_xi_keph1dd_c107_gen196",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "For a point mass inside the Earth at a depth d, why does only the mass in the smaller sphere of radius (R_E - d) contribute to the gravitational force?",
@@ -4938,7 +5232,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen197"
+    "question_id": "cbse_xi_keph1dd_c107_gen197",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Derive the expression for gravitational acceleration g(h) at a height h above the Earth's surface in terms of g, h, and R_E using the approximation for h much smaller than R_E.",
@@ -4952,7 +5247,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen198"
+    "question_id": "cbse_xi_keph1dd_c107_gen198",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Explain why the gravitational force on a mass m placed in a spherical shell is zero.",
@@ -4966,7 +5262,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen199"
+    "question_id": "cbse_xi_keph1dd_c107_gen199",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "How is the mass of the smaller sphere M_s related to the total mass of the Earth M_E when a mass is located at a depth d below the Earth's surface?",
@@ -4980,7 +5277,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen200"
+    "question_id": "cbse_xi_keph1dd_c107_gen200",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "What assumption is made about the height h compared to the Earth's radius R_E when approximating g(h)?",
@@ -4994,7 +5292,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen201"
+    "question_id": "cbse_xi_keph1dd_c107_gen201",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Using the concept of gravitational potential, explain how the variation of g with height h above the Earth's surface is derived and approximated for small h.",
@@ -5008,7 +5307,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen202"
+    "question_id": "cbse_xi_keph1dd_c107_gen202",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Discuss the significance of the result that gravitational acceleration is maximum at the Earth's surface and decreases both when moving upward and downward. Explain the physical principles behind this observation.",
@@ -5022,7 +5322,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen203"
+    "question_id": "cbse_xi_keph1dd_c107_gen203",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Derive the expression for gravitational acceleration g(d) at a depth d below the Earth's surface starting from the expression for gravitational force and using the concept of a reduced mass M_s.",
@@ -5036,7 +5337,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen204"
+    "question_id": "cbse_xi_keph1dd_c107_gen204",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "True or False: The gravitational acceleration at a height h above the Earth can be exactly expressed as g (1 - 2h/R_E) for any value of h.",
@@ -5050,7 +5352,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen205"
+    "question_id": "cbse_xi_keph1dd_c107_gen205",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "True or False: The force exerted by a spherical shell on a point mass located inside it is zero.",
@@ -5064,7 +5367,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen206"
+    "question_id": "cbse_xi_keph1dd_c107_gen206",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "True or False: The gravitational acceleration decreases linearly with depth d below the Earth's surface according to the expression g (1 - d/R_E).",
@@ -5078,7 +5382,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen207"
+    "question_id": "cbse_xi_keph1dd_c107_gen207",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "A person stands at a height of 2 m above the Earth's surface. Given that the Earth's radius R_E = 6.4 × 10^6 m and the surface gravitational acceleration g is 9.8 m/s², calculate the gravitational acceleration g(h) using the approximation for h much smaller than R_E.",
@@ -5092,7 +5397,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen208"
+    "question_id": "cbse_xi_keph1dd_c107_gen208",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "Calculate the gravitational acceleration at a depth of 1000 m below the Earth's surface using the expression g(d) = g (1 - d/R_E), given R_E = 6.4 × 10^6 m and g = 9.8 m/s².",
@@ -5106,7 +5412,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen209"
+    "question_id": "cbse_xi_keph1dd_c107_gen209",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "A point mass m = 2 kg is located at a height h = 500 m above the Earth's surface. Using the formula F(h) = (G M_E m)/(R_E + h)^2 and knowing that g = G M_E/R_E^2, compute the gravitational force F(h) on the mass and compare it with the weight at the surface.",
@@ -5120,7 +5427,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen210"
+    "question_id": "cbse_xi_keph1dd_c107_gen210",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "A point mass m = 5 kg is located at a depth d = 3000 m below the Earth's surface. Using g(d) = g (1 - d/R_E) with g = 9.8 m/s² and R_E = 6.4 × 10^6 m, calculate the gravitational force F(d) acting on the mass.",
@@ -5134,7 +5442,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "07_section_7_6",
-    "question_id": "cbse_xi_keph1dd_c107_gen211"
+    "question_id": "cbse_xi_keph1dd_c107_gen211",
+    "section_name": "7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH"
   },
   {
     "question_text": "What is the numerical value of the escape speed from Earth's surface as given in the textbook section?",
@@ -5153,7 +5462,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen270"
+    "question_id": "cbse_xi_keph1dd_c107_gen270",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Which fundamental principle is used to derive the escape speed formula from the surface of a planet?",
@@ -5172,7 +5482,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen271"
+    "question_id": "cbse_xi_keph1dd_c107_gen271",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "If an object is launched from the surface of the Earth with a speed lower than the escape speed, what will eventually happen to it according to the energy conservation argument?",
@@ -5191,7 +5502,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen272"
+    "question_id": "cbse_xi_keph1dd_c107_gen272",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "In the escape speed formula v = √(2gRE), what does RE represent?",
@@ -5210,7 +5522,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen273"
+    "question_id": "cbse_xi_keph1dd_c107_gen273",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Explain why the escape speed from any celestial body is independent of the mass of the projectile.",
@@ -5224,7 +5537,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen274"
+    "question_id": "cbse_xi_keph1dd_c107_gen274",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Describe the role of gravitational potential energy in determining whether an object can escape a planet's gravitational field.",
@@ -5238,7 +5552,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen275"
+    "question_id": "cbse_xi_keph1dd_c107_gen275",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "State the condition that must be satisfied for an object to escape a planet's gravitational pull in terms of kinetic and gravitational potential energies.",
@@ -5252,7 +5567,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen276"
+    "question_id": "cbse_xi_keph1dd_c107_gen276",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Derive the formula for escape speed from a planet's surface using conservation of energy. Begin with the total energy at the launch point equated to the total energy at infinity.",
@@ -5266,7 +5582,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen277"
+    "question_id": "cbse_xi_keph1dd_c107_gen277",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Analyze Example 7.4 where a projectile is launched from a sphere of mass M towards a sphere of mass 4M separated by 6R. Identify the location of the neutral point and derive the expression for the minimum speed required for the projectile to reach this point.",
@@ -5280,7 +5597,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen278"
+    "question_id": "cbse_xi_keph1dd_c107_gen278",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "True or False: When an object escapes to infinity, its speed at infinity can be exactly zero as long as the kinetic energy has been exactly counterbalanced by the gravitational potential energy.",
@@ -5294,7 +5612,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen279"
+    "question_id": "cbse_xi_keph1dd_c107_gen279",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "True or False: The escape speed from the Moon is approximately five times smaller than that from the Earth because of its lower surface gravity and smaller radius.",
@@ -5308,7 +5627,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen280"
+    "question_id": "cbse_xi_keph1dd_c107_gen280",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Calculate the escape speed from Earth's surface using the values g = 9.8 m/s² and RE = 6.37 × 10^6 m. Provide the answer in km/s.",
@@ -5322,7 +5642,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen281"
+    "question_id": "cbse_xi_keph1dd_c107_gen281",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "For a projectile launched from a height of 5.0 × 10^5 m above Earth's surface, derive the expression for the minimum launch speed required to escape Earth's gravity. Then calculate its value using g = 9.8 m/s² and RE = 6.37 × 10^6 m.",
@@ -5336,7 +5657,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen282"
+    "question_id": "cbse_xi_keph1dd_c107_gen282",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "In Example 7.4, two spheres of masses M and 4M (each of radius R) are separated by 6R. A projectile is launched from the surface of the sphere of mass M towards the sphere of mass 4M. Given that the neutral point is located 2R from the center of sphere M, derive the expression for the minimum launch speed required for the projectile to just reach the neutral point. Then, express the result in terms of G, M, and R.",
@@ -5350,7 +5672,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "09_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen283"
+    "question_id": "cbse_xi_keph1dd_c107_gen283",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "What is the expression for the kinetic energy of a satellite in a circular orbit, in terms of G, m, M_E, R_E and h?",
@@ -5369,7 +5692,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen342"
+    "question_id": "cbse_xi_keph1dd_c107_gen342",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Which of the following correctly defines the gravitational potential energy of a satellite at a distance (R_E + h) from the Earth's center?",
@@ -5388,7 +5712,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen343"
+    "question_id": "cbse_xi_keph1dd_c107_gen343",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "In a circular orbital motion, how does the magnitude of the kinetic energy compare with that of the potential energy?",
@@ -5407,7 +5732,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen344"
+    "question_id": "cbse_xi_keph1dd_c107_gen344",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "For a satellite in a circular orbit, the total energy is given by E = - G m M_E/(2 (R_E + h)). What does the negative sign indicate?",
@@ -5426,7 +5752,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen345"
+    "question_id": "cbse_xi_keph1dd_c107_gen345",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "How is the change in total energy (Delta E) related to the changes in kinetic (Delta K) and potential (Delta V) energies when transferring from one circular orbit to another?",
@@ -5445,7 +5772,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen346"
+    "question_id": "cbse_xi_keph1dd_c107_gen346",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "State why the total energy of a satellite in a circular orbit is always negative.",
@@ -5459,7 +5787,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen347"
+    "question_id": "cbse_xi_keph1dd_c107_gen347",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Explain the procedure for calculating the change in energy required to transfer a satellite from one circular orbit to another.",
@@ -5473,7 +5802,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen348"
+    "question_id": "cbse_xi_keph1dd_c107_gen348",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Define gravitational potential energy for an orbiting satellite and explain the significance of choosing the potential energy at infinity as zero.",
@@ -5487,7 +5817,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen349"
+    "question_id": "cbse_xi_keph1dd_c107_gen349",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Derive the expression for the total energy E of a satellite in a circular orbit, starting from the expressions for kinetic and potential energies.",
@@ -5501,7 +5832,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen350"
+    "question_id": "cbse_xi_keph1dd_c107_gen350",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Discuss the changes in kinetic and potential energies when a satellite is transferred from a lower circular orbit to a higher circular orbit.",
@@ -5515,7 +5847,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen351"
+    "question_id": "cbse_xi_keph1dd_c107_gen351",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "True or False: The gravitational potential energy of a satellite is positive when measured relative to a point at infinity.",
@@ -5529,7 +5862,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen352"
+    "question_id": "cbse_xi_keph1dd_c107_gen352",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "True or False: For a satellite in a circular orbit, the magnitude of the potential energy is exactly twice the kinetic energy.",
@@ -5543,7 +5877,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen353"
+    "question_id": "cbse_xi_keph1dd_c107_gen353",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A 400 kg satellite is initially in a circular orbit of radius 2 R_E (where R_E is the Earth’s radius). It is then transferred to a circular orbit of radius 4 R_E. Using the formulas E = - G m M_E/(2 (R_E + h)), calculate the change in total energy required for this maneuver.",
@@ -5557,7 +5892,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen354"
+    "question_id": "cbse_xi_keph1dd_c107_gen354",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Calculate the orbital kinetic energy of a 500 kg satellite orbiting at an altitude of 300 km above the Earth’s surface. Assume the Earth’s radius R_E is 6.37 x 10^6 m and g = 9.81 m/s^2.",
@@ -5571,7 +5907,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen355"
+    "question_id": "cbse_xi_keph1dd_c107_gen355",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Calculate the gravitational potential energy of a 1000 kg satellite in a circular orbit with an altitude of 400 km above Earth's surface. Use R_E = 6.37 x 10^6 m and g = 9.81 m/s^2.",
@@ -5585,7 +5922,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen356"
+    "question_id": "cbse_xi_keph1dd_c107_gen356",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "For a satellite of mass 600 kg in a circular orbit at a distance of 2 R_E from the Earth's center, calculate its total orbital energy using the formula E = - G m M_E/(2 (R_E + h)).",
@@ -5599,7 +5937,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen357"
+    "question_id": "cbse_xi_keph1dd_c107_gen357",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A satellite initially in a circular orbit of radius R is raised to a circular orbit of radius 2R. Derive the expression for the change in its kinetic energy during this process.",
@@ -5613,7 +5952,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen358"
+    "question_id": "cbse_xi_keph1dd_c107_gen358",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "What is the correct expression for the kinetic energy (KE) of a satellite in a circular orbit, in terms of m, G, M_E, R_E, and h?",
@@ -5632,7 +5972,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen304"
+    "question_id": "cbse_xi_keph1dd_c107_gen304",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Which of the following correctly represents the gravitational potential energy (PE) of a satellite at a distance (R_E + h) from the center of the Earth?",
@@ -5651,7 +5992,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen305"
+    "question_id": "cbse_xi_keph1dd_c107_gen305",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "In a circular orbit, the potential energy magnitude is twice the kinetic energy. Which statement does this fact imply?",
@@ -5670,7 +6012,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen306"
+    "question_id": "cbse_xi_keph1dd_c107_gen306",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Which of the following statements is true regarding the energy of a satellite in orbit?",
@@ -5689,7 +6032,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen307"
+    "question_id": "cbse_xi_keph1dd_c107_gen307",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "In the context of orbital mechanics, what is expected to happen when an object's total energy becomes zero or positive?",
@@ -5708,7 +6052,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen308"
+    "question_id": "cbse_xi_keph1dd_c107_gen308",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Define the gravitational potential energy of an orbiting satellite and explain why its value is negative.",
@@ -5722,7 +6067,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen309"
+    "question_id": "cbse_xi_keph1dd_c107_gen309",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Why is the total energy of a satellite in a bound orbit always negative?",
@@ -5736,7 +6082,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen310"
+    "question_id": "cbse_xi_keph1dd_c107_gen310",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "How does the energy distribution change for a satellite when its orbit evolves from circular to elliptical?",
@@ -5750,7 +6097,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen311"
+    "question_id": "cbse_xi_keph1dd_c107_gen311",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Describe in detail the energy changes (total, kinetic, and potential) that occur when a satellite is transferred from a circular orbit of radius 2R_E to a circular orbit of radius 4R_E. Include a discussion of the sign changes and relative magnitudes.",
@@ -5764,7 +6112,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen312"
+    "question_id": "cbse_xi_keph1dd_c107_gen312",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Discuss the significance of having a negative total energy for satellites. What does it reveal about their orbital dynamics and how would the system behave if the total energy were zero or positive?",
@@ -5778,7 +6127,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen313"
+    "question_id": "cbse_xi_keph1dd_c107_gen313",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Derive the expression for the total energy (E) of a satellite in a circular orbit in terms of G, m, M_E, R_E, and h. Explain each step in your derivation.",
@@ -5792,7 +6142,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen314"
+    "question_id": "cbse_xi_keph1dd_c107_gen314",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A satellite in a circular orbit has a total energy of -1.2 x 10^10 Joules. Is the following statement true or false: 'The kinetic energy of the satellite in this orbit is equal in magnitude to its total energy.'",
@@ -5806,7 +6157,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen315"
+    "question_id": "cbse_xi_keph1dd_c107_gen315",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "True or False: In a circular orbit, the potential energy of the satellite is always exactly twice the magnitude of its kinetic energy, but with an opposite sign.",
@@ -5820,7 +6172,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen316"
+    "question_id": "cbse_xi_keph1dd_c107_gen316",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "True or False: In an elliptical orbit, while the kinetic and potential energies vary along the path, the total energy remains constant and negative regardless of the satellite's position.",
@@ -5834,7 +6187,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen317"
+    "question_id": "cbse_xi_keph1dd_c107_gen317",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A 500 kg satellite is in a circular orbit with an orbital radius of 3R_E (where R_E is the Earth\\'s radius, 6.37 x 10^6 m). Calculate the kinetic energy of the satellite. Use G M_E / R_E^2 = g = 9.81 m/s^2 for Earth's gravitational acceleration.",
@@ -5848,7 +6202,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen318"
+    "question_id": "cbse_xi_keph1dd_c107_gen318",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A satellite is in a circular orbit with a radius of 2R_E. Calculate its total orbital energy. Express your answer in Joules in terms of G, M_E, m, and R_E, and then estimate numerically for a satellite of mass 400 kg. (Use R_E = 6.37 x 10^6 m and g = 9.81 m/s^2.)",
@@ -5862,7 +6217,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen319"
+    "question_id": "cbse_xi_keph1dd_c107_gen319",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Using Example 7.8, verify the energy change required to transfer a 400 kg satellite from an orbit of radius 2R_E to an orbit of radius 4R_E. Show your calculation step by step.",
@@ -5876,7 +6232,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen320"
+    "question_id": "cbse_xi_keph1dd_c107_gen320",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A satellite of mass 200 kg is moved from a circular orbit of radius 3R_E to one of radius 5R_E. Using the expression E = -G m M_E/(2r) and G M_E = g R_E^2 with g = 9.81 m/s^2 and R_E = 6.37 x 10^6 m, calculate the energy difference required for this orbital transfer. Provide your answer in Joules.",
@@ -5890,6 +6247,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "10_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen321"
+    "question_id": "cbse_xi_keph1dd_c107_gen321",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   }
 ]

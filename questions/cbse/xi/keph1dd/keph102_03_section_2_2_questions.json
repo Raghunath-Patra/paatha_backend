@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen053"
+    "question_id": "cbse_xi_keph1dd_c102_gen053",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "The instantaneous velocity of an object is mathematically defined as the limit of Δx/Δt as Δt tends to zero. Which of the following expressions is equivalent to this definition?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen054"
+    "question_id": "cbse_xi_keph1dd_c102_gen054",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Which statement correctly distinguishes between instantaneous speed and instantaneous velocity?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen055"
+    "question_id": "cbse_xi_keph1dd_c102_gen055",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "On a position–time graph, how is the instantaneous velocity at a given time determined?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen056"
+    "question_id": "cbse_xi_keph1dd_c102_gen056",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "The derivative dx/dt represents:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen057"
+    "question_id": "cbse_xi_keph1dd_c102_gen057",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Explain the difference between average velocity and instantaneous velocity.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen058"
+    "question_id": "cbse_xi_keph1dd_c102_gen058",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "What does the limiting process (Δt → 0) signify when calculating instantaneous velocity?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen059"
+    "question_id": "cbse_xi_keph1dd_c102_gen059",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "In the context of the position–time graph provided, what is the significance of drawing a tangent at a specific point P?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen060"
+    "question_id": "cbse_xi_keph1dd_c102_gen060",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Discuss the numerical method presented in Table 2.1 for obtaining the instantaneous velocity. Explain the importance of using progressively smaller Δt values.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen061"
+    "question_id": "cbse_xi_keph1dd_c102_gen061",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Describe how to extract the instantaneous velocity from a position–time graph involving a moving object. How does this method relate to differential calculus, and provide an example to illustrate your explanation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen062"
+    "question_id": "cbse_xi_keph1dd_c102_gen062",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Analyze potential sources of error when determining instantaneous speed from experimental position–time data. How can the selection of Δt affect the accuracy of the computed instantaneous velocity?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen063"
+    "question_id": "cbse_xi_keph1dd_c102_gen063",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "True or False: For uniform motion, the instantaneous velocity is the same as the average velocity at all instants.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen064"
+    "question_id": "cbse_xi_keph1dd_c102_gen064",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "True or False: Instantaneous speed and instantaneous velocity always have the same numerical value and the same directional information.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen065"
+    "question_id": "cbse_xi_keph1dd_c102_gen065",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "True or False: The use of the limit process (Δt → 0) is essential in defining and calculating instantaneous velocity.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen066"
+    "question_id": "cbse_xi_keph1dd_c102_gen066",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Given the position function x = 0.08 t³, use differential calculus to compute the instantaneous velocity at t = 4 s.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen067"
+    "question_id": "cbse_xi_keph1dd_c102_gen067",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Using the position function x = 0.08 t³ and the concept of decreasing Δt, explain how the average velocity approaches the instantaneous velocity at t = 4 s. Use the table data provided as a reference.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen068"
+    "question_id": "cbse_xi_keph1dd_c102_gen068",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "An object moves along the x-axis with its position given by x = 8.5 + 2.5 t² (x in meters, t in seconds). Determine its instantaneous velocity at t = 0 s and t = 2 s, and calculate the average velocity between t = 2 s and t = 4 s.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen069"
+    "question_id": "cbse_xi_keph1dd_c102_gen069",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "Given the motion described by x = 3 + 4 t² (x in meters, t in seconds), calculate the instantaneous velocity at t = 3 s.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen070"
+    "question_id": "cbse_xi_keph1dd_c102_gen070",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   },
   {
     "question_text": "A car's position as a function of time is given by x = 5t + 2t² (x in meters, t in seconds). Compute the instantaneous velocity at t = 4 s and the average velocity between t = 2 s and t = 4 s.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xi_keph1dd_c102_gen071"
+    "question_id": "cbse_xi_keph1dd_c102_gen071",
+    "section_name": "2.2 INSTANTANEOUS VELOCITY AND SPEED"
   }
 ]

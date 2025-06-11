@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen059"
+    "question_id": "cbse_viii_hemh1dd_c105_gen059",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "A square has a side length of 8 cm. What is the length of its diagonal?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen060"
+    "question_id": "cbse_viii_hemh1dd_c105_gen060",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "What is the positive square root of 49?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen061"
+    "question_id": "cbse_viii_hemh1dd_c105_gen061",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Define the term ‘square root’ and give an example.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen062"
+    "question_id": "cbse_viii_hemh1dd_c105_gen062",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Explain why in this chapter we consider only the positive square root when denoted by the symbol √.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen063"
+    "question_id": "cbse_viii_hemh1dd_c105_gen063",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Describe the method of finding a square root by repeated subtraction of odd numbers.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen064"
+    "question_id": "cbse_viii_hemh1dd_c105_gen064",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Prove that the sum of the first n odd natural numbers is equal to n².",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen065"
+    "question_id": "cbse_viii_hemh1dd_c105_gen065",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Using the prime factorisation method, determine whether 2352 is a perfect square. If it is not, find the smallest multiple of 2352 that is a perfect square and compute its square root.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen066"
+    "question_id": "cbse_viii_hemh1dd_c105_gen066",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Find the square root of 324 using prime factorisation.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen067"
+    "question_id": "cbse_viii_hemh1dd_c105_gen067",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Determine by repeated subtraction if 121 is a perfect square. If so, find its square root.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen068"
+    "question_id": "cbse_viii_hemh1dd_c105_gen068",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "A right triangle has a hypotenuse of 5 cm and one of the sides is 3 cm long. Find the length of the third side.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen069"
+    "question_id": "cbse_viii_hemh1dd_c105_gen069",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Find the square root of 6400 using the prime factorisation method.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen070"
+    "question_id": "cbse_viii_hemh1dd_c105_gen070",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "The numbers 6, 9, and 15 are given. Find the smallest square number that is divisible by all three numbers.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen071"
+    "question_id": "cbse_viii_hemh1dd_c105_gen071",
+    "section_name": "5.5 Square Roots"
   },
   {
     "question_text": "Briefly describe the procedure for finding the smallest number by which a given number must be divided to yield a perfect square. Use the example of 9408 in your explanation.",
@@ -208,6 +221,7 @@
     "source": "generated",
     "chapter_id": "hemh105",
     "section_id": "08_section_5_5",
-    "question_id": "cbse_viii_hemh1dd_c105_gen072"
+    "question_id": "cbse_viii_hemh1dd_c105_gen072",
+    "section_name": "5.5 Square Roots"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen015"
+    "question_id": "cbse_xii_lemh2dd_c201_gen015",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "What is the general form of the antiderivative for a function f(x) if F(x) is one antiderivative of f(x)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen016"
+    "question_id": "cbse_xii_lemh2dd_c201_gen016",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "What is the derivative of log |x|?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen017"
+    "question_id": "cbse_xii_lemh2dd_c201_gen017",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Which of the following integrals correctly represents the antiderivative of a^x (where a > 0 and a ≠ 1)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen018"
+    "question_id": "cbse_xii_lemh2dd_c201_gen018",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Define the term 'constant of integration' in the context of finding antiderivatives.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen019"
+    "question_id": "cbse_xii_lemh2dd_c201_gen019",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Why do different antiderivatives of the same function differ only by a constant? Explain briefly.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen020"
+    "question_id": "cbse_xii_lemh2dd_c201_gen020",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "State the general formula for the integral ∫ xⁿ dx (n ≠ -1).",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen021"
+    "question_id": "cbse_xii_lemh2dd_c201_gen021",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Explain the property of indefinite integrals that allows you to split the integral of a sum into the sum of individual integrals.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen022"
+    "question_id": "cbse_xii_lemh2dd_c201_gen022",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Prove that if two functions F(x) and G(x) have the same derivative on an interval I, then F(x) and G(x) differ by a constant.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen023"
+    "question_id": "cbse_xii_lemh2dd_c201_gen023",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Derive the formula for the integral ∫ (3x² + 4x³) dx using the method of inspection.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen024"
+    "question_id": "cbse_xii_lemh2dd_c201_gen024",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Discuss the role of the arbitrary constant in finding antiderivatives and illustrate with an example where an initial condition is used to determine its value.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen025"
+    "question_id": "cbse_xii_lemh2dd_c201_gen025",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Evaluate the integral ∫ cos x dx.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen026"
+    "question_id": "cbse_xii_lemh2dd_c201_gen026",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Evaluate the integral ∫ ((x³ - 1)/x²) dx.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen027"
+    "question_id": "cbse_xii_lemh2dd_c201_gen027",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Evaluate the integral ∫ (x^(2/3) + 1) dx.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen028"
+    "question_id": "cbse_xii_lemh2dd_c201_gen028",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   },
   {
     "question_text": "Find the antiderivative F(x) of f(x) = 4x³ - 6 given the initial condition F(0) = 3.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xii_lemh2dd_c201_gen029"
+    "question_id": "cbse_xii_lemh2dd_c201_gen029",
+    "section_name": "7.2 Integration as an Inverse Process of Differentiation"
   }
 ]

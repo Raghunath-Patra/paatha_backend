@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen001"
+    "question_id": "cbse_xi_kemh1dd_c105_gen001",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Which of the following best represents the statement 'The classroom can occupy at most 60 tables'?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen002"
+    "question_id": "cbse_xi_kemh1dd_c105_gen002",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "In the inequality 2x - 5 < 15, which of the following steps is necessary to begin solving for x?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen003"
+    "question_id": "cbse_xi_kemh1dd_c105_gen003",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Which of the following is NOT an inequality symbol?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen004"
+    "question_id": "cbse_xi_kemh1dd_c105_gen004",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Define a linear inequality and provide an example of an inequality in one variable.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen005"
+    "question_id": "cbse_xi_kemh1dd_c105_gen005",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Explain the difference between the symbols '<' and '≤' in the context of inequalities.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen006"
+    "question_id": "cbse_xi_kemh1dd_c105_gen006",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Discuss why the study of linear inequalities is useful in real-world problems, giving at least two examples related to fields such as economics or statistics.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen007"
+    "question_id": "cbse_xi_kemh1dd_c105_gen007",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Prove that if you add or subtract the same number from both sides of a linear inequality, the direction of the inequality remains unchanged. Include an example in your proof.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen008"
+    "question_id": "cbse_xi_kemh1dd_c105_gen008",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Discuss and derive the method to solve a set of linear inequalities in one variable when multiple conditions are given. Provide an example and determine the solution set.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen009"
+    "question_id": "cbse_xi_kemh1dd_c105_gen009",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Solve the inequality 3x + 4 < 19. Show all steps clearly.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen010"
+    "question_id": "cbse_xi_kemh1dd_c105_gen010",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Solve and represent graphically the inequality 2x - 7 ≥ 3.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen011"
+    "question_id": "cbse_xi_kemh1dd_c105_gen011",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Solve the inequality 4x - 8 ≤ 2, showing all steps.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen012"
+    "question_id": "cbse_xi_kemh1dd_c105_gen012",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Solve the inequality -2x + 6 > 2. Provide step-by-step reasoning.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen013"
+    "question_id": "cbse_xi_kemh1dd_c105_gen013",
+    "section_name": "5.1 Introduction"
   },
   {
     "question_text": "Solve the system of inequalities: x + 3 > 5 and 2x - 4 < 10. Determine the common solution set for x.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_kemh1dd_c105_gen014"
+    "question_id": "cbse_xi_kemh1dd_c105_gen014",
+    "section_name": "5.1 Introduction"
   }
 ]

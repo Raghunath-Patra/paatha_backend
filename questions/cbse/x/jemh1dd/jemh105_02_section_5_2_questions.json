@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen014"
+    "question_id": "cbse_x_jemh1dd_c105_gen014",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Define an Arithmetic Progression and write its general form.",
@@ -30,7 +31,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen015"
+    "question_id": "cbse_x_jemh1dd_c105_gen015",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Given the arithmetic progression: 7, 10, 13, 16, …, find the 10th term.",
@@ -44,7 +46,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen016"
+    "question_id": "cbse_x_jemh1dd_c105_gen016",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Prove that if three numbers a, b, and c form an arithmetic progression, then 2b = a + c.",
@@ -58,7 +61,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen017"
+    "question_id": "cbse_x_jemh1dd_c105_gen017",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Which of the following sequences does NOT form an arithmetic progression?",
@@ -77,7 +81,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen018"
+    "question_id": "cbse_x_jemh1dd_c105_gen018",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Write the formula for the nth term of an arithmetic progression and explain what information is needed to list all terms in an AP.",
@@ -91,7 +96,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen019"
+    "question_id": "cbse_x_jemh1dd_c105_gen019",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "List the next two terms of the arithmetic progression 14, 11, 8, 5, ….",
@@ -105,7 +111,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen020"
+    "question_id": "cbse_x_jemh1dd_c105_gen020",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Derive the formula for the sum of the first n terms (Sₙ) of an arithmetic progression with first term a and common difference d.",
@@ -119,7 +126,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen021"
+    "question_id": "cbse_x_jemh1dd_c105_gen021",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "In the arithmetic progression 2.5, 3.0, 3.5, 4.0, …, what is the common difference?",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen022"
+    "question_id": "cbse_x_jemh1dd_c105_gen022",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "What is a finite arithmetic progression? Provide an example.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen023"
+    "question_id": "cbse_x_jemh1dd_c105_gen023",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "A student saves ₹50 every month. If his savings form an arithmetic progression starting from ₹50, what is his total savings after 10 months?",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen024"
+    "question_id": "cbse_x_jemh1dd_c105_gen024",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Explain why the sequence 1, 1, 2, 3, 5, … is not an arithmetic progression.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen025"
+    "question_id": "cbse_x_jemh1dd_c105_gen025",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Which of the following pairs of information is necessary and sufficient to uniquely determine an arithmetic progression?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen026"
+    "question_id": "cbse_x_jemh1dd_c105_gen026",
+    "section_name": "5.2 Arithmetic Progressions"
   },
   {
     "question_text": "Given an arithmetic progression with first term a = -7 and common difference d = -2, write down the first four terms of the sequence.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_x_jemh1dd_c105_gen027"
+    "question_id": "cbse_x_jemh1dd_c105_gen027",
+    "section_name": "5.2 Arithmetic Progressions"
   }
 ]

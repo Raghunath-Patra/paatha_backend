@@ -146,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen001"
+    "question_id": "cbse_xi_kemh1dd_c114_gen001",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "When rolling a standard die, the event 'getting a prime number' is represented by which subset of the sample space?",
@@ -165,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen002"
+    "question_id": "cbse_xi_kemh1dd_c114_gen002",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Which of the following events is a sure event when rolling a die?",
@@ -184,7 +186,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen003"
+    "question_id": "cbse_xi_kemh1dd_c114_gen003",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "For any event A in a sample space S, its complementary event A′ represents:",
@@ -203,7 +206,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen004"
+    "question_id": "cbse_xi_kemh1dd_c114_gen004",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Define an event in the context of a random experiment.",
@@ -217,7 +221,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen005"
+    "question_id": "cbse_xi_kemh1dd_c114_gen005",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "What are mutually exclusive events? Provide an example using the experiment of rolling a die.",
@@ -231,7 +236,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen006"
+    "question_id": "cbse_xi_kemh1dd_c114_gen006",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Explain what is meant by a compound event. Give an example from coin toss experiments.",
@@ -245,7 +251,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen007"
+    "question_id": "cbse_xi_kemh1dd_c114_gen007",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "What does the event 'A but not B' represent in set notation? Explain your answer.",
@@ -259,7 +266,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen008"
+    "question_id": "cbse_xi_kemh1dd_c114_gen008",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Prove that for any event A in a sample space S, A and its complement A′ are mutually exclusive and exhaustive.",
@@ -273,7 +281,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen009"
+    "question_id": "cbse_xi_kemh1dd_c114_gen009",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "For the experiment of tossing three coins, list all possible outcomes. Then verify that the events 'no head appears', 'exactly one head appears', and 'at least two heads appear' are mutually exclusive and exhaustive.",
@@ -287,7 +296,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen010"
+    "question_id": "cbse_xi_kemh1dd_c114_gen010",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "In the experiment of tossing a coin twice, find the probability of the event 'exactly one head appears'.",
@@ -301,7 +311,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen011"
+    "question_id": "cbse_xi_kemh1dd_c114_gen011",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "When rolling a die, calculate the probability of obtaining 'a prime number or an even number'.",
@@ -315,7 +326,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen012"
+    "question_id": "cbse_xi_kemh1dd_c114_gen012",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "When two dice are thrown, find the probability that 'the sum of the numbers is greater than 9'.",
@@ -329,7 +341,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen013"
+    "question_id": "cbse_xi_kemh1dd_c114_gen013",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "In an experiment with two dice, let event A be 'the sum is even' and event B be 'the sum is a multiple of 3'. Using the inclusion–exclusion principle, find P(A ∪ B).",
@@ -343,7 +356,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen014"
+    "question_id": "cbse_xi_kemh1dd_c114_gen014",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Three coins are tossed. Let event A be 'at least one head appears' and event B be 'exactly two tails appear'. Compute the conditional probability P(B|A).",
@@ -357,7 +371,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xi_kemh1dd_c114_gen015"
+    "question_id": "cbse_xi_kemh1dd_c114_gen015",
+    "section_name": "14.1 Event"
   },
   {
     "question_text": "Which of the following cannot be a valid assignment of probabilities for the outcomes of the sample space S = {ω₁, ω₂, ω₃, ω₄, ω₅, ω₆, ω₇}?\n\n(a) ω₁ = 0.1, ω₂ = 0.01, ω₃ = 0.05, ω₄ = 0.03, ω₅ = 0.01, ω₆ = 0.2, ω₇ = 0.6\n(b) ω₁ = 1/7, ω₂ = 1/7, ω₃ = 1/7, ω₄ = 1/7, ω₅ = 1/7, ω₆ = 1/7, ω₇ = 1/7\n(c) ω₁ = 0.1, ω₂ = 0.2, ω₃ = 0.3, ω₄ = 0.4, ω₅ = 0.5, ω₆ = 0.6, ω₇ = 0.7\n(d) ω₁ = -0.1, ω₂ = 0.2, ω₃ = 0.3, ω₄ = 0.4, ω₅ = -0.2, ω₆ = 0.1, ω₇ = 0.3\n(e) ω₁ = 1/14, ω₂ = 2/14, ω₃ = 3/14, ω₄ = 4/14, ω₅ = 5/14, ω₆ = 6/14, ω₇ = 15/14",
@@ -654,7 +669,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen016"
+    "question_id": "cbse_xi_kemh1dd_c114_gen016",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Consider a sample space S = {ω₁, ω₂, ω₃, ω₄}. Which of the following assignments of probabilities is valid?",
@@ -673,7 +689,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen017"
+    "question_id": "cbse_xi_kemh1dd_c114_gen017",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "If events A and B are mutually exclusive, then what is P(A ∪ B)?",
@@ -692,7 +709,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen018"
+    "question_id": "cbse_xi_kemh1dd_c114_gen018",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "In a coin toss experiment where outcomes have different probabilities, if event E is defined as 'both tosses yield the same result', which of the following expressions correctly represents P(E) when E = {HH, TT}?",
@@ -711,7 +729,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen019"
+    "question_id": "cbse_xi_kemh1dd_c114_gen019",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Define an elementary event in the context of probability theory.",
@@ -725,7 +744,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen020"
+    "question_id": "cbse_xi_kemh1dd_c114_gen020",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "State the three fundamental axioms of probability.",
@@ -739,7 +759,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen021"
+    "question_id": "cbse_xi_kemh1dd_c114_gen021",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Explain the concept of 'Probability of not A' and how it is calculated.",
@@ -753,7 +774,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen022"
+    "question_id": "cbse_xi_kemh1dd_c114_gen022",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "What does it mean when outcomes of a sample space are 'equally likely'? Explain briefly.",
@@ -767,7 +789,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen023"
+    "question_id": "cbse_xi_kemh1dd_c114_gen023",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Prove that for any two events A and B, the probability of their union is given by P(A ∪ B) = P(A) + P(B) - P(A ∩ B).",
@@ -781,7 +804,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen024"
+    "question_id": "cbse_xi_kemh1dd_c114_gen024",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Derive the expression for the probability of an event E when outcomes are equally likely in a finite sample space S with n outcomes and event E contains m outcomes.",
@@ -795,7 +819,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen025"
+    "question_id": "cbse_xi_kemh1dd_c114_gen025",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Using the axioms of probability, prove that the probability of the empty event (φ) is 0.",
@@ -809,7 +834,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen026"
+    "question_id": "cbse_xi_kemh1dd_c114_gen026",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "A bag contains 9 discs: 4 red, 3 blue, and 2 yellow. If a disc is drawn at random, calculate the probability that: (i) the disc is red, (ii) the disc is yellow, (iii) the disc is blue, (iv) the disc is not blue, and (v) the disc is either red or blue.",
@@ -823,7 +849,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen027"
+    "question_id": "cbse_xi_kemh1dd_c114_gen027",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "One card is drawn from a well-shuffled deck of 52 cards. Calculate the probabilities that the card drawn is: (i) a diamond, (ii) not an ace, (iii) a black card, (iv) not a diamond, and (v) not a black card.",
@@ -837,7 +864,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen028"
+    "question_id": "cbse_xi_kemh1dd_c114_gen028",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "Two students, Anil and Ashima, have probabilities of qualifying an exam as 0.05 and 0.10 respectively, with P(both qualify) = 0.02. Calculate the probability that: (a) both do not qualify, (b) at least one does not qualify, and (c) exactly one qualifies.",
@@ -851,7 +879,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen029"
+    "question_id": "cbse_xi_kemh1dd_c114_gen029",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "From a group consisting of 2 men and 2 women, a committee of 2 persons is to be selected. Calculate the probability that the committee has: (a) no man, (b) exactly one man, and (c) two men.",
@@ -865,7 +894,8 @@
     "source": "generated",
     "chapter_id": "kemh114",
     "section_id": "04_section_14_2",
-    "question_id": "cbse_xi_kemh1dd_c114_gen030"
+    "question_id": "cbse_xi_kemh1dd_c114_gen030",
+    "section_name": "14.2 Axiomatic Approach to Probability"
   },
   {
     "question_text": "A die is rolled. Let E be the event 'die shows 4' and F be the event 'die shows even number'. Are E and F mutually exclusive?",

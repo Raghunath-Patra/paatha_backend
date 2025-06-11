@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen375"
+    "question_id": "cbse_xi_keph1dd_c106_gen375",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Which equation correctly represents the work done by a torque about a fixed axis?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen376"
+    "question_id": "cbse_xi_keph1dd_c106_gen376",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "For a force F applied tangentially to the rim of a rotating object with radius R, which expression correctly calculates the torque produced?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen377"
+    "question_id": "cbse_xi_keph1dd_c106_gen377",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "If a rotating body experiences an angular displacement dθ, moment of inertia I, and angular acceleration α, which expression best describes the change in its kinetic energy?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen378"
+    "question_id": "cbse_xi_keph1dd_c106_gen378",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Newton's second law for rotational motion about a fixed axis is given by which of the following equations?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen379"
+    "question_id": "cbse_xi_keph1dd_c106_gen379",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Define angular displacement in the context of rotational motion about a fixed axis.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen380"
+    "question_id": "cbse_xi_keph1dd_c106_gen380",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "What components of torque are considered when analyzing rotational motion about a fixed axis?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen381"
+    "question_id": "cbse_xi_keph1dd_c106_gen381",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Explain why forces acting in planes perpendicular to the fixed axis are particularly important in the analysis of rotational motion about that axis.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen382"
+    "question_id": "cbse_xi_keph1dd_c106_gen382",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "List the analogues between linear motion and rotational motion as given in Table 6.2.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen383"
+    "question_id": "cbse_xi_keph1dd_c106_gen383",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Derive the equation dW = τ dθ starting from the definition of work done by a force on a particle moving along a circular path. Explain the assumptions made in the derivation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen384"
+    "question_id": "cbse_xi_keph1dd_c106_gen384",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Discuss the roles of torque components parallel and perpendicular to a fixed axis in rotational motion, and explain why only one of these components is considered in work calculations.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen385"
+    "question_id": "cbse_xi_keph1dd_c106_gen385",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Compare the work-energy principles in linear and rotational motion. Specifically, describe how the work done on a body is related to its kinetic energy change in both scenarios.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen386"
+    "question_id": "cbse_xi_keph1dd_c106_gen386",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "For rotational motion about a fixed axis, only the components of force parallel to the axis are taken into account when calculating effective torque.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen387"
+    "question_id": "cbse_xi_keph1dd_c106_gen387",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "In a perfectly rigid body, all work done by external torques is converted into an increase in kinetic energy of the body.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen388"
+    "question_id": "cbse_xi_keph1dd_c106_gen388",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "Angular acceleration is directly proportional to the applied torque and inversely proportional to the moment of inertia.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen389"
+    "question_id": "cbse_xi_keph1dd_c106_gen389",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A flywheel of mass 30 kg is in the shape of a disc with a radius of 0.5 m. Its moment of inertia is given by I = ½ M R². If a 40 N force is applied tangentially to its rim, calculate the angular acceleration of the flywheel.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen390"
+    "question_id": "cbse_xi_keph1dd_c106_gen390",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A force of 15 N is applied at a point 0.3 m from the axis on a turntable. Determine the work done by the torque when the table rotates by 4 radians.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen391"
+    "question_id": "cbse_xi_keph1dd_c106_gen391",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A cord is wound around a disc of radius 0.25 m and mass 10 kg. A constant 20 N force is applied tangentially. Given that the moment of inertia for a disc is I = ½ M R², determine the angular acceleration and the kinetic energy of the disc after it has rotated through 5 radians (assuming it starts from rest).",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen392"
+    "question_id": "cbse_xi_keph1dd_c106_gen392",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A flywheel with a moment of inertia of 2 kg m² is subjected to a variable torque such that the angular acceleration is given by 3t (s⁻²), where t is time in seconds. Calculate the total work done by the torque from t = 0 to t = 4 s.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen393"
+    "question_id": "cbse_xi_keph1dd_c106_gen393",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   },
   {
     "question_text": "A flywheel of radius 0.4 m has a moment of inertia of 0.8 kg m². A constant 30 N force is applied tangentially via a cord wrapped around its rim. If 3 m of cord is unwound, determine (a) the angular acceleration, (b) the work done by the force, and (c) the final angular velocity assuming the flywheel starts from rest.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "12_section_6_11",
-    "question_id": "cbse_xi_keph1dd_c106_gen394"
+    "question_id": "cbse_xi_keph1dd_c106_gen394",
+    "section_name": "6.11 DYNAMICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS"
   }
 ]

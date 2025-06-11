@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen026"
+    "question_id": "cbse_ix_iemh1dd_c106_gen026",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Which statement accurately describes parallel lines?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen027"
+    "question_id": "cbse_ix_iemh1dd_c106_gen027",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "What is meant by the 'distance between two parallel lines'?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen028"
+    "question_id": "cbse_ix_iemh1dd_c106_gen028",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Define intersecting lines in your own words.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen029"
+    "question_id": "cbse_ix_iemh1dd_c106_gen029",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Explain the term 'distance between two parallel lines'.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen030"
+    "question_id": "cbse_ix_iemh1dd_c106_gen030",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Why is the perpendicular distance between two parallel lines constant?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen031"
+    "question_id": "cbse_ix_iemh1dd_c106_gen031",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Sketch two diagrams: one showing intersecting lines and another showing parallel lines, and label them accordingly.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen032"
+    "question_id": "cbse_ix_iemh1dd_c106_gen032",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Prove that the perpendicular distance between two parallel lines is constant.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen033"
+    "question_id": "cbse_ix_iemh1dd_c106_gen033",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Describe the steps to construct a perpendicular from a given point to a given line, and explain how this construction helps in measuring the distance between parallel lines.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen034"
+    "question_id": "cbse_ix_iemh1dd_c106_gen034",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Find the distance between the two parallel lines given by the equations y = 2x + 3 and y = 2x - 1.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen035"
+    "question_id": "cbse_ix_iemh1dd_c106_gen035",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Determine if the lines 3x - 4y + 8 = 0 and 6x - 8y - 10 = 0 are parallel. If they are, calculate the distance between them.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen036"
+    "question_id": "cbse_ix_iemh1dd_c106_gen036",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   },
   {
     "question_text": "Given the line L: 4x + 3y - 12 = 0 and a parallel line passing through the point (2, 3), find the equation of the parallel line and compute the distance between the two lines.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "03_section_6_3",
-    "question_id": "cbse_ix_iemh1dd_c106_gen037"
+    "question_id": "cbse_ix_iemh1dd_c106_gen037",
+    "section_name": "6.3 Intersecting Lines and Non-intersecting Lines"
   }
 ]

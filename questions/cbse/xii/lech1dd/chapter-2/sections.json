@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "2.1 Electrochemical Cells"
+    },
+    {
+      "number": 2,
+      "name": "2.2 Galvanic Cells"
+    },
+    {
+      "number": 3,
+      "name": "2.3 Nernst Equation EquationEquation"
+    },
+    {
+      "number": 4,
+      "name": "2.4 Conductance ConductanceConductance of Electrolytic Solutions SolutionsSolutions"
+    },
+    {
+      "number": 5,
+      "name": "2.5 Electrolytic Cells and Electrolysis"
+    },
+    {
+      "number": 6,
+      "name": "2.6 Batteries"
+    },
+    {
+      "number": 7,
+      "name": "2.7 Fuel Cells"
+    }
+  ]
+}

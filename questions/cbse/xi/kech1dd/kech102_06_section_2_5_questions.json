@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen072"
+    "question_id": "cbse_xi_kech1dd_c102_gen072",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "In the de Broglie equation, λ = h/(mv), what does the symbol v represent?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen073"
+    "question_id": "cbse_xi_kech1dd_c102_gen073",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "Which phenomenon best confirms the wave nature of electrons as predicted by de Broglie?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen074"
+    "question_id": "cbse_xi_kech1dd_c102_gen074",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "Which principle states that it is impossible to simultaneously determine the exact position and momentum of an electron?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen075"
+    "question_id": "cbse_xi_kech1dd_c102_gen075",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "What is the approximate magnification factor achieved by an electron microscope as mentioned in the section?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen076"
+    "question_id": "cbse_xi_kech1dd_c102_gen076",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "Explain how the concept of wave-particle duality applies to matter. Provide one experimental observation that supports this idea.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen077"
+    "question_id": "cbse_xi_kech1dd_c102_gen077",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "What are the main implications of the Heisenberg Uncertainty Principle on our understanding of electron behavior in atoms?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen078"
+    "question_id": "cbse_xi_kech1dd_c102_gen078",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "Describe one major reason why Bohr's model failed to fully explain atomic structure, based on the concepts introduced in the section.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen079"
+    "question_id": "cbse_xi_kech1dd_c102_gen079",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "Discuss how de Broglie's hypothesis of matter waves transformed the modern understanding of electron behavior and mention one technological application that emerged from this concept.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen080"
+    "question_id": "cbse_xi_kech1dd_c102_gen080",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "Evaluate the significance of the Heisenberg Uncertainty Principle in replacing the classical model of electrons in atoms. Include in your answer how the principle challenges the concept of definite orbits.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen081"
+    "question_id": "cbse_xi_kech1dd_c102_gen081",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "True or False: According to de Broglie, only subatomic particles exhibit measurable wave properties because larger objects have wavelengths too short to be detected.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen082"
+    "question_id": "cbse_xi_kech1dd_c102_gen082",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "True or False: The uncertainty in the velocity of a milligram-sized object, as determined by the Heisenberg Uncertainty Principle, is significant and affects its macroscopic motion.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen083"
+    "question_id": "cbse_xi_kech1dd_c102_gen083",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "A ball of mass 0.1 kg is moving with a velocity of 10 m/s. Use de Broglie's hypothesis to calculate its wavelength.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen084"
+    "question_id": "cbse_xi_kech1dd_c102_gen084",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "An electron has a mass of 9.1 x 10^-31 kg and a kinetic energy of 3.0 x 10^-25 J. Calculate its de Broglie wavelength.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen085"
+    "question_id": "cbse_xi_kech1dd_c102_gen085",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "A microscope uses photons with a wavelength small enough to locate an electron within 0.1 Å. Calculate the uncertainty in the electron's velocity using the Heisenberg Uncertainty Principle.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen086"
+    "question_id": "cbse_xi_kech1dd_c102_gen086",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "A photon has a wavelength of 3.6 Å. Calculate its associated mass using the de Broglie relation for electromagnetic radiation.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen087"
+    "question_id": "cbse_xi_kech1dd_c102_gen087",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   },
   {
     "question_text": "A golf ball has a mass of 40 g and is moving at 45 m/s. If the speed is measured with an accuracy of 2%, calculate the uncertainty in its position using the Heisenberg Uncertainty Principle.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "kech102",
     "section_id": "06_section_2_5",
-    "question_id": "cbse_xi_kech1dd_c102_gen088"
+    "question_id": "cbse_xi_kech1dd_c102_gen088",
+    "section_name": "2.5 Towards Quantum Mechanical Model of the Atom**"
   }
 ]

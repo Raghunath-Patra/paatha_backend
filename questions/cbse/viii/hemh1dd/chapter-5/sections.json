@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "5.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "5.2 Properties of Square Numbers"
+    },
+    {
+      "number": 3,
+      "name": "5.3 Some More Interesting Patterns"
+    },
+    {
+      "number": 4,
+      "name": "5.4 Finding the Square of a Number"
+    },
+    {
+      "number": 5,
+      "name": "5.5 Square Roots"
+    },
+    {
+      "number": 6,
+      "name": "5.6 Square Roots of Decimals"
+    }
+  ]
+}

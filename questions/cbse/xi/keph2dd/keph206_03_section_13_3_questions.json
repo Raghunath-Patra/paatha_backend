@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen055"
+    "question_id": "cbse_xi_keph2dd_c206_gen055",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "At what position is the particle in simple harmonic motion moving with its maximum speed?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen056"
+    "question_id": "cbse_xi_keph2dd_c206_gen056",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How is the angular frequency ω in simple harmonic motion related to the period T of the motion?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen057"
+    "question_id": "cbse_xi_keph2dd_c206_gen057",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "If two simple harmonic motions have the same amplitude and angular frequency but differ only by their phase constant φ, what does this imply about their oscillations?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen058"
+    "question_id": "cbse_xi_keph2dd_c206_gen058",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "The function x = sin(ωt) - cos(ωt) can be rewritten in the standard SHM form as which of the following?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen059"
+    "question_id": "cbse_xi_keph2dd_c206_gen059",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define the term 'amplitude' in the context of simple harmonic motion.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen060"
+    "question_id": "cbse_xi_keph2dd_c206_gen060",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain the physical significance of the phase constant (φ) in the simple harmonic motion equation.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen061"
+    "question_id": "cbse_xi_keph2dd_c206_gen061",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Describe how a change in angular frequency (ω) affects the period of the oscillation, keeping the amplitude constant.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen062"
+    "question_id": "cbse_xi_keph2dd_c206_gen062",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How can two simple harmonic motions with the same amplitude and frequency display different displacement values at the same time?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen063"
+    "question_id": "cbse_xi_keph2dd_c206_gen063",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss in detail the characteristics of a particle executing simple harmonic motion, including the relationships between displacement, velocity, and acceleration.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen064"
+    "question_id": "cbse_xi_keph2dd_c206_gen064",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the relationship between the angular frequency ω and the period T for simple harmonic motion. Also, explain the importance of the period T in the context of SHM.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen065"
+    "question_id": "cbse_xi_keph2dd_c206_gen065",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Compare two simple harmonic motions that have identical angular frequencies and phase constants but different amplitudes. How does the difference in amplitude affect the energy of the oscillators?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen066"
+    "question_id": "cbse_xi_keph2dd_c206_gen066",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In simple harmonic motion, the restoring force acting on the particle is directly proportional to its displacement from the equilibrium position and acts in the opposite direction.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen067"
+    "question_id": "cbse_xi_keph2dd_c206_gen067",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: A function that is periodic but not sinusoidal, such as sin(2ωt), cannot represent simple harmonic motion.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen068"
+    "question_id": "cbse_xi_keph2dd_c206_gen068",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle undergoing SHM has an amplitude of 5 cm and a period of 2 s. Calculate the angular frequency ω.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen069"
+    "question_id": "cbse_xi_keph2dd_c206_gen069",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle's displacement in SHM is given by x(t) = 6 cos(4t - π/3). Determine the amplitude, angular frequency, period, and phase constant.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen070"
+    "question_id": "cbse_xi_keph2dd_c206_gen070",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Consider the functions f(t) = sin(ωt) - cos(ωt) and g(t) = sin(2ωt). Determine which function represents simple harmonic motion and calculate the period for both functions.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen071"
+    "question_id": "cbse_xi_keph2dd_c206_gen071",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A simple oscillator moves according to the equation x(t) = 3 cos(2πt + π/6). Calculate the displacement and the velocity of the oscillator at time t = 0.25 s.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen072"
+    "question_id": "cbse_xi_keph2dd_c206_gen072",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Two oscillators are described by x1 = A cos(ωt) and x2 = A cos(ωt - π/2). Determine the phase difference in degrees between these two motions and the corresponding time difference in terms of ω.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen073"
+    "question_id": "cbse_xi_keph2dd_c206_gen073",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   }
 ]

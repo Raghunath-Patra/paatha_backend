@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen071"
+    "question_id": "cbse_xii_leph1dd_c106_gen071",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "When the North pole of a bar magnet is pushed towards a closed coil, what is the direction of the induced current relative to an observer on the magnet side?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen072"
+    "question_id": "cbse_xii_leph1dd_c106_gen072",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "In an open circuit setup where a coil is subjected to a changing magnetic field, where is the induced emf observed?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen073"
+    "question_id": "cbse_xii_leph1dd_c106_gen073",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Which physical principle prevents the creation of a perpetual-motion machine in the context of electromagnetic induction?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen074"
+    "question_id": "cbse_xii_leph1dd_c106_gen074",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Which phenomenon is responsible for converting mechanical work into thermal energy when a magnet is moved relative to a coil?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen075"
+    "question_id": "cbse_xii_leph1dd_c106_gen075",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Explain in your own words how Lenz's law is related to the conservation of energy in electromagnetic induction.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen076"
+    "question_id": "cbse_xii_leph1dd_c106_gen076",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Describe what happens to the induced current in a coil when a bar magnet is moved away from it and explain the reason for this behavior.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen077"
+    "question_id": "cbse_xii_leph1dd_c106_gen077",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "In your own words, explain why no induced current flows when a loop is completely inside or completely outside a magnetic field region.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen078"
+    "question_id": "cbse_xii_leph1dd_c106_gen078",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Briefly describe the factors that influence the magnitude of the magnetic flux through a loop.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen079"
+    "question_id": "cbse_xii_leph1dd_c106_gen079",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Discuss the principle of Lenz's law and its implications for energy conservation, using the example of a bar magnet approaching a conductive coil. Explain how the induced current creates a magnetic field that opposes the motion of the magnet.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen080"
+    "question_id": "cbse_xii_leph1dd_c106_gen080",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Evaluate the role of Joule heating in the energy dissipated when a magnet is moved relative to a coil. Provide an in-depth explanation relating this phenomenon to the work done against the induced magnetic force.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen081"
+    "question_id": "cbse_xii_leph1dd_c106_gen081",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "Analyze the experiment where planar loops of various shapes move into and out of a magnetic field. How do the shape and orientation of the loop affect the induced current? Provide a detailed explanation of the underlying principles determining the direction and magnitude of the induced current.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen082"
+    "question_id": "cbse_xii_leph1dd_c106_gen082",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "True or False: According to Lenz's law, the induced current always creates a magnetic field that reinforces the change in magnetic flux.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen083"
+    "question_id": "cbse_xii_leph1dd_c106_gen083",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "True or False: In an open circuit subjected to a changing magnetic field, an induced emf can be observed across the circuit’s open ends.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen084"
+    "question_id": "cbse_xii_leph1dd_c106_gen084",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "True or False: If a bar magnet is pushed towards a coil, the induced current within the coil flows in a clockwise direction when observed from the magnet side.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen085"
+    "question_id": "cbse_xii_leph1dd_c106_gen085",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A coil experiences a change in magnetic flux at a constant rate of 0.05 Weber per second. Calculate the magnitude of the induced emf in the coil.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen086"
+    "question_id": "cbse_xii_leph1dd_c106_gen086",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A rectangular loop with an area of 0.2 m² enters a uniform magnetic field of 0.5 T. If the loop takes 4 seconds to be fully immersed in the field, calculate the average induced emf in the loop.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen087"
+    "question_id": "cbse_xii_leph1dd_c106_gen087",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A circular loop of radius 0.1 m moves with a constant velocity of 2 m/s while exiting a uniform magnetic field region with a field strength of 0.3 T. If the entire loop exits the field in 0.5 seconds, calculate the average induced emf during the passage.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen088"
+    "question_id": "cbse_xii_leph1dd_c106_gen088",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A coil with 50 turns experiences a decrease in magnetic flux of 0.2 Weber over 2 seconds. Calculate the total induced emf in the coil.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen089"
+    "question_id": "cbse_xii_leph1dd_c106_gen089",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "In an experiment, a rectangular loop is pushed into a uniform magnetic field and 2 Joules of work are done in 1 second against the induced force. If the resistance of the coil is 4 ohms, calculate the average induced current in the coil.",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen090"
+    "question_id": "cbse_xii_leph1dd_c106_gen090",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   },
   {
     "question_text": "A rectangular loop of dimensions 0.4 m by 0.5 m, having 3 turns, is withdrawn from a uniform magnetic field region of 1 T in 0.8 seconds. Calculate the induced emf in one turn and the total induced emf for the multi-turn coil.",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xii_leph1dd_c106_gen091"
+    "question_id": "cbse_xii_leph1dd_c106_gen091",
+    "section_name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
   }
 ]

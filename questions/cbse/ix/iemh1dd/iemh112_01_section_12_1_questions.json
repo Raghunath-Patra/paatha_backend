@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen001"
+    "question_id": "cbse_ix_iemh1dd_c112_gen001",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "In a histogram drawn for a continuous frequency distribution with equally wide class intervals, what does the height of each rectangle directly represent?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen002"
+    "question_id": "cbse_ix_iemh1dd_c112_gen002",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "When constructing a histogram with varying class widths, what must be adjusted to ensure that the area of each rectangle remains proportional to its frequency?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen003"
+    "question_id": "cbse_ix_iemh1dd_c112_gen003",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "What is the class-mark of a class interval 70–80?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen004"
+    "question_id": "cbse_ix_iemh1dd_c112_gen004",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "Define a bar graph and discuss one major advantage of using a bar graph over a tabular representation of data.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen005"
+    "question_id": "cbse_ix_iemh1dd_c112_gen005",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "Describe the purpose of a 'kink' or break in the horizontal axis when drawing a histogram where the first class interval does not start at zero.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen006"
+    "question_id": "cbse_ix_iemh1dd_c112_gen006",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "What is a frequency polygon? Briefly explain how it is constructed from a histogram.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen007"
+    "question_id": "cbse_ix_iemh1dd_c112_gen007",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "Explain why adding class intervals with zero frequency at the beginning and end is important when drawing a frequency polygon.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen008"
+    "question_id": "cbse_ix_iemh1dd_c112_gen008",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "A family’s monthly expenditure (in thousand rupees) is given in the table below:\n\nHeads: Electricity, Water, Grocery, Rent, Transportation\nExpenditure: 3, 2, 6, 8, 1\n\nDraw a bar graph representing the data. Explain each step clearly.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen009"
+    "question_id": "cbse_ix_iemh1dd_c112_gen009",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "Given the following frequency distribution for weights (in kg) of 50 students:\n\nWeight Intervals (kg): 40-45, 45-50, 50-55, 55-60\nFrequencies: 12, 18, 10, 10\n\nConstruct a histogram. Then, explain how you would construct the corresponding frequency polygon, including adding endpoints for zero frequency.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen010"
+    "question_id": "cbse_ix_iemh1dd_c112_gen010",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "A school's survey recorded the birth months of 100 students. The following table represents the data (number of students born in each month):\n\nJan: 8, Feb: 7, Mar: 9, Apr: 8, May: 6, Jun: 7, Jul: 10, Aug: 12, Sep: 9, Oct: 8, Nov: 7, Dec: 9.\n\n(i) Construct a bar graph representing this data. \n(ii) Identify the month with the highest number of births and provide its frequency.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen011"
+    "question_id": "cbse_ix_iemh1dd_c112_gen011",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "A teacher grouped the marks of 80 students into the following intervals with frequencies:\n\nMarks: 0–20, 20–40, 40–60, 60–80, 80–100\nFrequencies: 5, 15, 30, 20, 10\n\nCalculate the adjusted frequency for the class 0–20 if the minimum class size is considered to be 20. Then, explain how this adjustment helps in constructing an accurate histogram for data with varying class widths.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen012"
+    "question_id": "cbse_ix_iemh1dd_c112_gen012",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "In a study, the weekly cost of living index is divided into the following classes with corresponding frequencies:\n\nIndex ranges: 120–130, 130–140, 140–150, 150–160, 160–170\nFrequencies: 3, 7, 15, 10, 5\n\n(i) Calculate the class-marks for these intervals.\n(ii) Draw a frequency polygon using these class-marks and frequencies. Include the additional points for zero frequency at both ends.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen013"
+    "question_id": "cbse_ix_iemh1dd_c112_gen013",
+    "section_name": "12.1 Graphical Representation of Data"
   },
   {
     "question_text": "A table shows the distribution of a city's daily temperature ranges (in °C) over a month:\n\nTemperature ranges: 10–15, 15–20, 20–25, 25–30\nFrequencies: 4, 12, 10, 4\n\nConstruct a bar graph and a histogram from this data. Discuss the main differences in constructing these two graphs and the type of data they best represent.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh112",
     "section_id": "01_section_12_1",
-    "question_id": "cbse_ix_iemh1dd_c112_gen014"
+    "question_id": "cbse_ix_iemh1dd_c112_gen014",
+    "section_name": "12.1 Graphical Representation of Data"
   }
 ]

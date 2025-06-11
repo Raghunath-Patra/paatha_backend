@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen211"
+    "question_id": "cbse_xi_keph1dd_c106_gen211",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "For a particle moving in a circle, if a force acts along the radius, what is the torque produced about the center?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen212"
+    "question_id": "cbse_xi_keph1dd_c106_gen212",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "The angular momentum of a particle is defined as:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen213"
+    "question_id": "cbse_xi_keph1dd_c106_gen213",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "If the angle between the force vector and the position vector is 0° or 180°, what will be the magnitude of the torque produced?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen214"
+    "question_id": "cbse_xi_keph1dd_c106_gen214",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "According to the rotational analog of Newton's second law, the time rate of change of angular momentum equals:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen215"
+    "question_id": "cbse_xi_keph1dd_c106_gen215",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Define moment of force (torque) and state its vector equation.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen216"
+    "question_id": "cbse_xi_keph1dd_c106_gen216",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "What is the physical significance of the term r sinθ in the torque and angular momentum equations?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen217"
+    "question_id": "cbse_xi_keph1dd_c106_gen217",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "State the law of conservation of angular momentum for a system of particles when the net external torque is zero.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen218"
+    "question_id": "cbse_xi_keph1dd_c106_gen218",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Why do internal torques cancel out in a system of particles, and how is this connected to Newton’s third law?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen219"
+    "question_id": "cbse_xi_keph1dd_c106_gen219",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Derive the relation dL/dt = τ for a single particle starting from the definition L = r × p.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen220"
+    "question_id": "cbse_xi_keph1dd_c106_gen220",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Discuss the principle of conservation of angular momentum in the context of the bicycle rim experiment described in the text. Explain how torque and precession are involved in the observed motion.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen221"
+    "question_id": "cbse_xi_keph1dd_c106_gen221",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Compare and contrast torque and work in terms of their definitions, physical dimensions, and the type of quantity (vector or scalar) each represents.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen222"
+    "question_id": "cbse_xi_keph1dd_c106_gen222",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: If a force is applied along the line of action that passes through the origin, then the torque about the origin will be zero.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen223"
+    "question_id": "cbse_xi_keph1dd_c106_gen223",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: Reversing the direction of the applied force results in the reversal of the direction of the resulting torque.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen224"
+    "question_id": "cbse_xi_keph1dd_c106_gen224",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "True or False: For a particle moving with constant velocity, if the direction of the velocity remains unchanged, then the perpendicular distance from the origin to the line of action of the velocity remains constant.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen225"
+    "question_id": "cbse_xi_keph1dd_c106_gen225",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A particle is located at a point with a position vector (2, -3, 4) meters and is acted on by a force given by (5, 0, -2) Newtons. Calculate the torque (r × F) about the origin. Show your calculation steps.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen226"
+    "question_id": "cbse_xi_keph1dd_c106_gen226",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A force of 10 N is applied at the edge of a door 0.8 m away from the hinge. The force makes an angle of 30° with the perpendicular to the door. Determine the magnitude of the torque exerted about the hinge.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen227"
+    "question_id": "cbse_xi_keph1dd_c106_gen227",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "Calculate the magnitude of the angular momentum of a 3 kg particle moving at 4 m/s if its position vector makes a 60° angle with its velocity vector and the distance from the origin is 2 m.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen228"
+    "question_id": "cbse_xi_keph1dd_c106_gen228",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A particle has an angular momentum of 15 kg·m²/s about a given origin. If, at that instant, the particle's momentum is perpendicular to its position vector and the magnitude of its momentum is 5 kg·m/s, what is the magnitude of its position vector?",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen229"
+    "question_id": "cbse_xi_keph1dd_c106_gen229",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   },
   {
     "question_text": "A system of particles has a total angular momentum of 50 kg·m²/s at time t = 0. If a constant external torque of 2 N·m is applied to the system for 10 seconds, what is the final total angular momentum of the system?",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xi_keph1dd_c106_gen230"
+    "question_id": "cbse_xi_keph1dd_c106_gen230",
+    "section_name": "6.7 TORQUE AND ANGULAR MOMENTUM"
   }
 ]

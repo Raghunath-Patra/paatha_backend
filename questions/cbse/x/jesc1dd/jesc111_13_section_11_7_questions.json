@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen080"
+    "question_id": "cbse_x_jesc1dd_c111_gen080",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "When a resistor is connected to a battery, the heat produced in the resistor over time t is given by which formula?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen081"
+    "question_id": "cbse_x_jesc1dd_c111_gen081",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "An electric appliance operates at a power of 840 W using a 220 V supply. Using the relationship P = VI, what is the current flowing through it?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen082"
+    "question_id": "cbse_x_jesc1dd_c111_gen082",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "Electric current causes the production of heat in a resistor. This phenomenon is known as the:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen083"
+    "question_id": "cbse_x_jesc1dd_c111_gen083",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "Define the heating effect of electric current and explain its significance in everyday devices.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen084"
+    "question_id": "cbse_x_jesc1dd_c111_gen084",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "What is the expression for the power input to a circuit given by the source, and how is it derived?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen085"
+    "question_id": "cbse_x_jesc1dd_c111_gen085",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "Describe how the heating effect of electric current is utilized in everyday appliances. Provide examples.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen086"
+    "question_id": "cbse_x_jesc1dd_c111_gen086",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "Derive the formula H = I²Rt starting from the definition of power and including the application of Ohm’s law.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen087"
+    "question_id": "cbse_x_jesc1dd_c111_gen087",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "Explain why an electric iron might show different resistance values when heating is at maximum rate compared to when heating is at minimum rate.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen088"
+    "question_id": "cbse_x_jesc1dd_c111_gen088",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "A circuit has a resistor of 4 Ω across which 100 J of heat is produced in 1 second. Explain the steps to calculate the voltage applied across the resistor.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen089"
+    "question_id": "cbse_x_jesc1dd_c111_gen089",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "True or False: In a purely resistive circuit, all the energy supplied by the source is used for useful work, such as running motors or fans.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen090"
+    "question_id": "cbse_x_jesc1dd_c111_gen090",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "True or False: According to Joule’s law, if the current in a resistor is doubled, the heat produced per unit time increases by a factor of four. If false, correct the statement.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen091"
+    "question_id": "cbse_x_jesc1dd_c111_gen091",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   },
   {
     "question_text": "True or False: Increasing the resistance in a circuit connected to a constant voltage source will cause the current to decrease and the heat produced to also decrease.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "13_section_11_7",
-    "question_id": "cbse_x_jesc1dd_c111_gen092"
+    "question_id": "cbse_x_jesc1dd_c111_gen092",
+    "section_name": "11.7 HEATING EFFECT OF ELECTRIC CURRENT"
   }
 ]

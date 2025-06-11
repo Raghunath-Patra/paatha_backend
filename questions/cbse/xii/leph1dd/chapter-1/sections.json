@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "1.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "1.2 ELECTRIC CHARGE"
+    },
+    {
+      "number": 3,
+      "name": "1.3 CONDUCTORS AND INSULATORS"
+    },
+    {
+      "number": 4,
+      "name": "1.4 BASIC PROPERTIES OF ELECTRIC CHARGE"
+    },
+    {
+      "number": 5,
+      "name": "1.5 COULOMB'S LAW"
+    },
+    {
+      "number": 6,
+      "name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
+    },
+    {
+      "number": 7,
+      "name": "1.7 ELECTRIC FIELD"
+    },
+    {
+      "number": 8,
+      "name": "1.8 ELECTRIC FIELD LINES"
+    },
+    {
+      "number": 9,
+      "name": "1.9 ELECTRIC FLUX"
+    },
+    {
+      "number": 10,
+      "name": "1.10 ELECTRIC DIPOLE"
+    },
+    {
+      "number": 11,
+      "name": "1.11 DIPOLE IN A UNIFORM EXTERNAL FIELD"
+    },
+    {
+      "number": 12,
+      "name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
+    },
+    {
+      "number": 13,
+      "name": "1.13 GAUSS'S LAW"
+    },
+    {
+      "number": 14,
+      "name": "1.14 APPLICATIONS OF GAUSS'S LAW"
+    }
+  ]
+}

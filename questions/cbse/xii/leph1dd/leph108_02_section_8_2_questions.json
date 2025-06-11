@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen021"
+    "question_id": "cbse_xii_leph1dd_c108_gen021",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "According to the text, what inconsistency arises when Ampere's law is applied to different surfaces bounded by the same loop in the case of a charging capacitor?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen022"
+    "question_id": "cbse_xii_leph1dd_c108_gen022",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "Which equation represents the generalized form of Ampere's law including the displacement current?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen023"
+    "question_id": "cbse_xii_leph1dd_c108_gen023",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "In a charging capacitor circuit, which of the following is true regarding the location of conduction and displacement currents?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen024"
+    "question_id": "cbse_xii_leph1dd_c108_gen024",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "Which statement is correct regarding the physical effects of displacement current compared to conduction current?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen025"
+    "question_id": "cbse_xii_leph1dd_c108_gen025",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "Explain briefly why applying Ampere's law to a loop that bounds a surface between the plates of a capacitor yields a zero right-hand side, and how this issue is resolved.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen026"
+    "question_id": "cbse_xii_leph1dd_c108_gen026",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "Define displacement current and provide its mathematical expression in terms of the rate of change of electric flux.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen027"
+    "question_id": "cbse_xii_leph1dd_c108_gen027",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "How does the presence of displacement current contribute to the generation of electromagnetic waves?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen028"
+    "question_id": "cbse_xii_leph1dd_c108_gen028",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "List one similarity and one difference between conduction current and displacement current.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen029"
+    "question_id": "cbse_xii_leph1dd_c108_gen029",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "Derive the generalized Ampere's law for a charging capacitor by considering both conduction current and the time-varying electric flux.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen030"
+    "question_id": "cbse_xii_leph1dd_c108_gen030",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "Discuss how including the displacement current term in Ampere's law resolves the contradiction encountered when calculating the magnetic field in different regions around a capacitor.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen031"
+    "question_id": "cbse_xii_leph1dd_c108_gen031",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "Explain the role of displacement current in ensuring the symmetry of Maxwell’s equations and its impact on electromagnetic wave generation.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen032"
+    "question_id": "cbse_xii_leph1dd_c108_gen032",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "True or False: The displacement current exists only in the presence of conduction current.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen033"
+    "question_id": "cbse_xii_leph1dd_c108_gen033",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "True or False: By adding the displacement current term, Ampere's law provides a consistent prediction of the magnetic field regardless of the choice of the surface bounded by a given loop.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen034"
+    "question_id": "cbse_xii_leph1dd_c108_gen034",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "A circular loop of radius 0.2 m is placed around a long straight wire carrying a time-varying current of 5 A. Using the expression B (2πr) = μ₀ i, calculate the magnitude of the magnetic field at the loop. (Use μ₀ = 4π × 10⁻⁷ H/m)",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen035"
+    "question_id": "cbse_xii_leph1dd_c108_gen035",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "A parallel plate capacitor has plates of area 0.05 m². If the charge on the capacitor increases at a rate of 2 C/s, calculate the rate of change of the electric flux between the plates (dPhi_E/dt). (Assume vacuum between the plates and that the electric field is uniform.)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen036"
+    "question_id": "cbse_xii_leph1dd_c108_gen036",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "Given a circuit where the conduction current is 2 A and the rate of change of electric flux is 3 Wb/s, calculate the total current as per the Ampere-Maxwell law if μ₀ = 4π × 10⁻⁷ H/m and ε₀ = 8.85 × 10⁻¹² F/m.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen037"
+    "question_id": "cbse_xii_leph1dd_c108_gen037",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   },
   {
     "question_text": "A capacitor is being charged with a conduction current of 3 A. A circular loop of radius 0.1 m is drawn around the capacitor plate. Using the displacement current concept, explain and calculate the magnetic field just inside the plates assuming all conduction current is replaced by displacement current between the plates. (Use μ₀ = 4π × 10⁻⁷ H/m.)",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph108",
     "section_id": "02_section_8_2",
-    "question_id": "cbse_xii_leph1dd_c108_gen038"
+    "question_id": "cbse_xii_leph1dd_c108_gen038",
+    "section_name": "8.2 DISPLACEMENT CURRENT"
   }
 ]

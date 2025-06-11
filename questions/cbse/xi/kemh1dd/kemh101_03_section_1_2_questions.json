@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen014"
+    "question_id": "cbse_xi_kemh1dd_c101_gen014",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "In the roster form representation of a set, which of the following statements is true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen015"
+    "question_id": "cbse_xi_kemh1dd_c101_gen015",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "Select the correct set-builder form for the set {2, 4, 6, 8, ...}.",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen016"
+    "question_id": "cbse_xi_kemh1dd_c101_gen016",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "Define a well-defined set and provide one example to illustrate your definition.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen017"
+    "question_id": "cbse_xi_kemh1dd_c101_gen017",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "List the two methods used to represent sets and briefly explain each.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen018"
+    "question_id": "cbse_xi_kemh1dd_c101_gen018",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "State and notate the set of positive rational numbers.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen019"
+    "question_id": "cbse_xi_kemh1dd_c101_gen019",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "Explain why the collection of 'five most renowned mathematicians of the world' is not considered a well-defined set.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen020"
+    "question_id": "cbse_xi_kemh1dd_c101_gen020",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "Prove that the set of odd natural numbers is invariant under reordering in its roster form representation.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen021"
+    "question_id": "cbse_xi_kemh1dd_c101_gen021",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "Given the set A = {1, 2, 3, 6, 7, 14, 21, 42} (the set of all natural numbers that divide 42), convert it to set-builder form and explain why this form accurately captures every divisor of 42.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen022"
+    "question_id": "cbse_xi_kemh1dd_c101_gen022",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "Write the solution set of the equation x² + x - 2 = 0 in roster form.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen023"
+    "question_id": "cbse_xi_kemh1dd_c101_gen023",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "List in roster form all positive integers x such that x² < 40.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen024"
+    "question_id": "cbse_xi_kemh1dd_c101_gen024",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "Write the set A = {1, 4, 9, 16, 25, ...} in set-builder form.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen025"
+    "question_id": "cbse_xi_kemh1dd_c101_gen025",
+    "section_name": "1.2 Sets and their Representations"
   },
   {
     "question_text": "Express the set {½, 2/3, 3/4, 4/5, 5/6, 6/7} in set-builder form and explain why this representation uniquely describes the set.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xi_kemh1dd_c101_gen026"
+    "question_id": "cbse_xi_kemh1dd_c101_gen026",
+    "section_name": "1.2 Sets and their Representations"
   }
 ]

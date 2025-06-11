@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen001"
+    "question_id": "cbse_viii_hemh1dd_c110_gen001",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "When we write 10²⁴, how should it be read aloud?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen002"
+    "question_id": "cbse_viii_hemh1dd_c110_gen002",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "How many times is the base multiplied in the expression 2ᵐ?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen003"
+    "question_id": "cbse_viii_hemh1dd_c110_gen003",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "What is the value of 2⁻²?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen004"
+    "question_id": "cbse_viii_hemh1dd_c110_gen004",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Define what an exponent is and explain what it means to express a number in exponential form.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen005"
+    "question_id": "cbse_viii_hemh1dd_c110_gen005",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Explain the meaning of a negative exponent with an example.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen006"
+    "question_id": "cbse_viii_hemh1dd_c110_gen006",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Explain the expression 2ᵐ in words. How would you write it out as a product?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen007"
+    "question_id": "cbse_viii_hemh1dd_c110_gen007",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Describe how you would write the large number 5,970,000,000,000,000,000,000,000,000 kg in scientific notation and explain each step.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen008"
+    "question_id": "cbse_viii_hemh1dd_c110_gen008",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Prove that for any nonzero number a and any positive integer m, a⁻ᵐ = 1/(aᵐ). Provide a step-by-step explanation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen009"
+    "question_id": "cbse_viii_hemh1dd_c110_gen009",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Derive why 2⁻² equals 1/2² using exponent rules and provide a detailed explanation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen010"
+    "question_id": "cbse_viii_hemh1dd_c110_gen010",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Express the product 2³ × 2⁻⁵ in its simplest form.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen011"
+    "question_id": "cbse_viii_hemh1dd_c110_gen011",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Simplify the expression 10²⁴ ÷ 10⁶.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen012"
+    "question_id": "cbse_viii_hemh1dd_c110_gen012",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Calculate the value of (2⁴)⁻¹ using exponent rules.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen013"
+    "question_id": "cbse_viii_hemh1dd_c110_gen013",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Express the number 0.000123 in scientific notation.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "hemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_viii_hemh1dd_c110_gen014"
+    "question_id": "cbse_viii_hemh1dd_c110_gen014",
+    "section_name": "10.1 Introduction"
   }
 ]

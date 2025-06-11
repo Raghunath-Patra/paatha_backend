@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen037"
+    "question_id": "cbse_xi_keph1dd_c106_gen037",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "For a system of n particles along the x-axis, the centre of mass is given by which of the following expressions?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen038"
+    "question_id": "cbse_xi_keph1dd_c106_gen038",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "For a homogeneous (uniform) thin rod, why does the centre of mass coincide with its geometric centre?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen039"
+    "question_id": "cbse_xi_keph1dd_c106_gen039",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "In a triangular lamina with uniformly distributed mass, the centre of mass coincides with which of the following?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen040"
+    "question_id": "cbse_xi_keph1dd_c106_gen040",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Which expression correctly represents the centre of mass for a continuous mass distribution in vector form?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen041"
+    "question_id": "cbse_xi_keph1dd_c106_gen041",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Define the centre of mass for a system of particles in your own words and state its mathematical expression for a two-particle system.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen042"
+    "question_id": "cbse_xi_keph1dd_c106_gen042",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Explain why a homogeneous thin rod has its centre of mass at its geometric centre using the concept of reflection symmetry.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen043"
+    "question_id": "cbse_xi_keph1dd_c106_gen043",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Using the centre of mass formula for particles not lying in a straight line, derive the expressions for the X and Y coordinates of the centre of mass for three particles with masses m1, m2, m3 located at (x1, y1), (x2, y2), and (x3, y3) respectively.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen044"
+    "question_id": "cbse_xi_keph1dd_c106_gen044",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Discuss how the centre of mass of a rigid body is determined using the concept of continuous mass distribution. In your answer, explain the transition from discrete summation to integration.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen045"
+    "question_id": "cbse_xi_keph1dd_c106_gen045",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "An L-shaped lamina is formed by three squares of equal area. If the squares had different masses, describe how you would determine the centre of mass of the lamina.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen046"
+    "question_id": "cbse_xi_keph1dd_c106_gen046",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "True or False: In a homogeneous thin rod, the centre of mass does not coincide with the geometric centre.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen047"
+    "question_id": "cbse_xi_keph1dd_c106_gen047",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "True or False: The medians of a triangle are always concurrent and their point of intersection represents the centre of mass for a uniformly distributed triangular lamina.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen048"
+    "question_id": "cbse_xi_keph1dd_c106_gen048",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Numerical Problem: Calculate the centre of mass along the x-axis for two point masses, where 3 kg is located at x = 2 m and 7 kg is located at x = 6 m.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen049"
+    "question_id": "cbse_xi_keph1dd_c106_gen049",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Numerical Problem: Find the centre of mass coordinates for three particles in a plane. The particles are located at (0, 0) with mass 2 kg, (4, 0) with mass 2 kg, and (2, 3) with mass 4 kg.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen050"
+    "question_id": "cbse_xi_keph1dd_c106_gen050",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Numerical Problem: A uniform triangular lamina has vertices at (0, 0), (6, 0) and (0, 4). Calculate the coordinates of the centre of mass of the lamina.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen051"
+    "question_id": "cbse_xi_keph1dd_c106_gen051",
+    "section_name": "6.2 CENTRE OF MASS"
   },
   {
     "question_text": "Numerical Problem: An L-shaped lamina is constructed from three 1 m by 1 m squares. The centres of the squares are at (0.5, 0.5), (1.5, 0.5), and (0.5, 1.5) with masses 1 kg each. Compute the centre of mass of the lamina.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "02_section_6_2",
-    "question_id": "cbse_xi_keph1dd_c106_gen052"
+    "question_id": "cbse_xi_keph1dd_c106_gen052",
+    "section_name": "6.2 CENTRE OF MASS"
   }
 ]

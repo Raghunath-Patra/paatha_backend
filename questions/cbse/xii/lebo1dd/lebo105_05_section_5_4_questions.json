@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen054"
+    "question_id": "cbse_xii_lebo1dd_c105_gen054",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Which method did Meselson and Stahl use to separate DNA molecules based on density?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen055"
+    "question_id": "cbse_xii_lebo1dd_c105_gen055",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Which enzyme catalyzes the polymerisation of deoxynucleotides during DNA replication in E. coli?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen056"
+    "question_id": "cbse_xii_lebo1dd_c105_gen056",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Why is DNA synthesis discontinuous on one strand at the replication fork?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen057"
+    "question_id": "cbse_xii_lebo1dd_c105_gen057",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "In the Meselson-Stahl experiment, which heavy isotope was used to label the parental DNA?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen058"
+    "question_id": "cbse_xii_lebo1dd_c105_gen058",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Briefly describe semiconservative replication.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen059"
+    "question_id": "cbse_xii_lebo1dd_c105_gen059",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "What dual role do deoxyribonucleoside triphosphates play during DNA replication?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen060"
+    "question_id": "cbse_xii_lebo1dd_c105_gen060",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Define the replication fork in the context of DNA replication.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen061"
+    "question_id": "cbse_xii_lebo1dd_c105_gen061",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Explain how the Meselson-Stahl experiment demonstrated semiconservative replication of DNA.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen062"
+    "question_id": "cbse_xii_lebo1dd_c105_gen062",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Discuss the challenges and solutions associated with replicating long DNA molecules in cells.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen063"
+    "question_id": "cbse_xii_lebo1dd_c105_gen063",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: The Meselson-Stahl experiment made use of radioactive isotopes to label the DNA.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen064"
+    "question_id": "cbse_xii_lebo1dd_c105_gen064",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: DNA-dependent DNA polymerases can initiate the DNA replication process on their own.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen065"
+    "question_id": "cbse_xii_lebo1dd_c105_gen065",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: After one generation in 14N medium, all DNA molecules in E. coli become light in density.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen066"
+    "question_id": "cbse_xii_lebo1dd_c105_gen066",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: The high-energy phosphate bonds found in deoxyribonucleoside triphosphates are used both as building blocks for DNA and as an energy source during polymerisation.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen067"
+    "question_id": "cbse_xii_lebo1dd_c105_gen067",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "True or False: Semiconservative replication implies that both strands of a DNA molecule in the daughter cells are entirely synthesized de novo.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen068"
+    "question_id": "cbse_xii_lebo1dd_c105_gen068",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "Given that E. coli completes replication of 4.6×10^6 base pairs in 18 minutes, calculate the approximate rate of polymerisation in base pairs per second.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen069"
+    "question_id": "cbse_xii_lebo1dd_c105_gen069",
+    "section_name": "5.4 REPLICATION"
   },
   {
     "question_text": "If E. coli is allowed to grow for 80 minutes after being transferred to 14N medium, what are the expected proportions of DNA molecules with light and hybrid densities?",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "lebo105",
     "section_id": "05_section_5_4",
-    "question_id": "cbse_xii_lebo1dd_c105_gen070"
+    "question_id": "cbse_xii_lebo1dd_c105_gen070",
+    "section_name": "5.4 REPLICATION"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "1.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "1.2 Types of Relations"
+    },
+    {
+      "number": 3,
+      "name": "1.3 Types of Functions"
+    },
+    {
+      "number": 4,
+      "name": "1.4 Composition of Functions and Invertible Function"
+    }
+  ]
+}

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen040"
+    "question_id": "cbse_xi_kemh1dd_c106_gen040",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Which of the following equations correctly represents the relationship between permutations and combinations of n objects taken r at a time?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen041"
+    "question_id": "cbse_xi_kemh1dd_c106_gen041",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Twelve persons are in a room and each person shakes hands with every other person exactly once. What is the total number of unique handshakes?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen042"
+    "question_id": "cbse_xi_kemh1dd_c106_gen042",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Which formula below is used for calculating combinations of n objects taken r at a time?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen043"
+    "question_id": "cbse_xi_kemh1dd_c106_gen043",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "In your own words, define the term 'combination' in the context of selecting r objects from n objects.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen044"
+    "question_id": "cbse_xi_kemh1dd_c106_gen044",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "State and explain Theorem 5 regarding the relationship between permutations and combinations.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen045"
+    "question_id": "cbse_xi_kemh1dd_c106_gen045",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Calculate the number of ways to select 3 cards from a standard deck of 52 playing cards.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen046"
+    "question_id": "cbse_xi_kemh1dd_c106_gen046",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "A committee of 3 persons is to be formed from a group of 2 men and 3 women. How many committees can be formed that include exactly 1 man and 2 women?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen047"
+    "question_id": "cbse_xi_kemh1dd_c106_gen047",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Seven points lie on a circle. How many chords can be drawn by joining these points pairwise?",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen048"
+    "question_id": "cbse_xi_kemh1dd_c106_gen048",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Prove that the combination formula is symmetric, i.e., show that nCr = nC(n–r) for all 0 ≤ r ≤ n.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen049"
+    "question_id": "cbse_xi_kemh1dd_c106_gen049",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "Derive the formula nPr = nCr × r! by explaining how permutations relate to combinations.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen050"
+    "question_id": "cbse_xi_kemh1dd_c106_gen050",
+    "section_name": "6.4 Combinations"
   },
   {
     "question_text": "From a standard 52-card deck, find the number of ways to choose 4 cards such that exactly 2 are red and 2 are black.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "kemh106",
     "section_id": "08_section_6_4",
-    "question_id": "cbse_xi_kemh1dd_c106_gen051"
+    "question_id": "cbse_xi_kemh1dd_c106_gen051",
+    "section_name": "6.4 Combinations"
   }
 ]

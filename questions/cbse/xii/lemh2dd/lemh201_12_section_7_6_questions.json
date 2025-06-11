@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen068"
+    "question_id": "cbse_xii_lemh2dd_c201_gen068",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "In the formula ∫ u dv = u·v - ∫ v du, if u = log x, which of the following is the best choice for dv?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen069"
+    "question_id": "cbse_xii_lemh2dd_c201_gen069",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "When applying integration by parts, which type of function is generally preferred as u?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen070"
+    "question_id": "cbse_xii_lemh2dd_c201_gen070",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Why is it acceptable to omit the constant of integration when finding the antiderivative of dv in the integration by parts formula?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen071"
+    "question_id": "cbse_xii_lemh2dd_c201_gen071",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Define the integration by parts technique and state its formula.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen072"
+    "question_id": "cbse_xii_lemh2dd_c201_gen072",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Explain why integration by parts may not be applicable for ∫√x sin x dx.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen073"
+    "question_id": "cbse_xii_lemh2dd_c201_gen073",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Describe the criteria for choosing which function to set as u and which as dv in the integration by parts method.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen074"
+    "question_id": "cbse_xii_lemh2dd_c201_gen074",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "List two types of integrals where using integration by parts is particularly effective.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen075"
+    "question_id": "cbse_xii_lemh2dd_c201_gen075",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Derive the integration by parts formula starting from the product rule of differentiation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen076"
+    "question_id": "cbse_xii_lemh2dd_c201_gen076",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Using integration by parts, show that ∫ eˣ sin x dx = (eˣ/2)(sin x − cos x) + C. Provide the iterative steps involved in the calculation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen077"
+    "question_id": "cbse_xii_lemh2dd_c201_gen077",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Evaluate ∫ x cos x dx using integration by parts.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen078"
+    "question_id": "cbse_xii_lemh2dd_c201_gen078",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Compute ∫ log x dx using the method of integration by parts.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen079"
+    "question_id": "cbse_xii_lemh2dd_c201_gen079",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Find ∫ x eˣ dx using integration by parts.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen080"
+    "question_id": "cbse_xii_lemh2dd_c201_gen080",
+    "section_name": "7.6 Integration by Parts"
   },
   {
     "question_text": "Evaluate ∫ eˣ (tan⁻¹x + 1/(1+x²)) dx using the special result for integrals of the type ∫ eˣ [f(x) + f'(x)] dx.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "lemh201",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_xii_lemh2dd_c201_gen081"
+    "question_id": "cbse_xii_lemh2dd_c201_gen081",
+    "section_name": "7.6 Integration by Parts"
   }
 ]

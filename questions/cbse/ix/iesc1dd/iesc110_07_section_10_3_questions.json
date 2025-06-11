@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen026"
+    "question_id": "cbse_ix_iesc1dd_c110_gen026",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "In Activity 10.16, if child A and child B both do the same work but A completes the task in less time than B, which of the following conclusions is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen027"
+    "question_id": "cbse_ix_iesc1dd_c110_gen027",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "A girl weighing 400 N climbs an 8 m height in 20 seconds. What is her power output?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen028"
+    "question_id": "cbse_ix_iesc1dd_c110_gen028",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "What is the SI unit of power and how is it defined in terms of joules and seconds?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen029"
+    "question_id": "cbse_ix_iesc1dd_c110_gen029",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "Define power in your own words and provide its mathematical expression.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen030"
+    "question_id": "cbse_ix_iesc1dd_c110_gen030",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "Explain the concept of average power and how it might differ from instantaneous power in real-world applications.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen031"
+    "question_id": "cbse_ix_iesc1dd_c110_gen031",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "Discuss the difference between work and power, and explain why two agents doing the same work can have different power outputs.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen032"
+    "question_id": "cbse_ix_iesc1dd_c110_gen032",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "A boy weighing 50 kg runs up a staircase of 45 steps in 9 seconds (each step is 15 cm high). Calculate his power output, taking g = 10 m/s².",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen033"
+    "question_id": "cbse_ix_iesc1dd_c110_gen033",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "Analyze how a change in the time taken to perform a given work affects the power output. Use examples from everyday life to support your explanation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen034"
+    "question_id": "cbse_ix_iesc1dd_c110_gen034",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "True or False: Power and work are the same because both involve a transfer of energy.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen035"
+    "question_id": "cbse_ix_iesc1dd_c110_gen035",
+    "section_name": "10.3 Rate of Doing Work"
   },
   {
     "question_text": "True or False: When an agent does the same amount of work in different time intervals, the average power remains the same regardless of the time taken. If false, provide the correct statement.",
@@ -171,6 +181,7 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "07_section_10_3",
-    "question_id": "cbse_ix_iesc1dd_c110_gen036"
+    "question_id": "cbse_ix_iesc1dd_c110_gen036",
+    "section_name": "10.3 Rate of Doing Work"
   }
 ]

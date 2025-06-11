@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen174"
+    "question_id": "cbse_xii_leph1dd_c104_gen174",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "The current sensitivity of a moving coil galvanometer is given by the expression φ/I = NAB/k. Which parameter, if increased, would directly increase the current sensitivity?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen175"
+    "question_id": "cbse_xii_leph1dd_c104_gen175",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Why is a shunt resistor used when converting a galvanometer into an ammeter?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen176"
+    "question_id": "cbse_xii_leph1dd_c104_gen176",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "If the number of turns (N) of a galvanometer coil is doubled, what is the effect on its voltage sensitivity when the device is converted to a voltmeter?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen177"
+    "question_id": "cbse_xii_leph1dd_c104_gen177",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "FIGURE 4.22 in the textbook illustrates the conversion of a galvanometer into which instrument by adding a large series resistor?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen178"
+    "question_id": "cbse_xii_leph1dd_c104_gen178",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "In your own words, explain why the angular deflection (φ) in a moving coil galvanometer is directly proportional to the current passing through the coil.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen179"
+    "question_id": "cbse_xii_leph1dd_c104_gen179",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Define the term 'current sensitivity' as used in the context of a moving coil galvanometer.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen180"
+    "question_id": "cbse_xii_leph1dd_c104_gen180",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "How does the design of a uniform radial magnetic field in a moving coil galvanometer simplify the expression for the torque acting on the coil?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen181"
+    "question_id": "cbse_xii_leph1dd_c104_gen181",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Discuss the role of the soft iron core in the construction of a moving coil galvanometer.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen182"
+    "question_id": "cbse_xii_leph1dd_c104_gen182",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Describe how a galvanometer is converted into an ammeter using a shunt resistor. Include details on the circuit modification and the impact on the measurement.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen183"
+    "question_id": "cbse_xii_leph1dd_c104_gen183",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Derive the expression for the angular deflection (φ) of the coil in a moving coil galvanometer starting from the torque produced by the magnetic field and equating it to the restoring torque from the spring. Discuss how design parameters such as N, A, B, and k affect the sensitivity.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen184"
+    "question_id": "cbse_xii_leph1dd_c104_gen184",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Compare and contrast the modifications required to convert a galvanometer into an ammeter versus a voltmeter.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen185"
+    "question_id": "cbse_xii_leph1dd_c104_gen185",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A moving coil galvanometer is said to measure current without significantly affecting the circuit. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen186"
+    "question_id": "cbse_xii_leph1dd_c104_gen186",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Increasing the number of turns (N) in the coil always increases both the current sensitivity and voltage sensitivity of a moving coil galvanometer. True or False?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen187"
+    "question_id": "cbse_xii_leph1dd_c104_gen187",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "Using a shunt resistance much smaller than the galvanometer resistance ensures that its effect on the overall circuit resistance is negligible. True or False?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen188"
+    "question_id": "cbse_xii_leph1dd_c104_gen188",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A galvanometer with an internal resistance of 60 ohms is connected in series with a 3 ohm resistor across a 3 V battery. Calculate the current measured by the galvanometer.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen189"
+    "question_id": "cbse_xii_leph1dd_c104_gen189",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A galvanometer with an internal resistance of 60 ohms is converted into an ammeter by connecting a 0.02 ohm shunt resistor in parallel. It is then connected in series with a 3 ohm resistor across a 3 V battery. Determine the current that flows through the circuit.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen190"
+    "question_id": "cbse_xii_leph1dd_c104_gen190",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "For a moving coil galvanometer, if NAB/k is 0.5 rad per microampere, what angular deflection is produced when a current of 2 microamperes flows through the coil?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen191"
+    "question_id": "cbse_xii_leph1dd_c104_gen191",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A galvanometer originally has 100 turns and a current sensitivity of 0.1 rad per microampere. If the number of turns is doubled (and consequently the internal resistance doubles), determine the new current sensitivity and comment on the voltage sensitivity when used as a voltmeter.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen192"
+    "question_id": "cbse_xii_leph1dd_c104_gen192",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   },
   {
     "question_text": "A voltmeter is to be constructed by converting a galvanometer with an internal resistance of 50 ohms and a full-scale deflection current of 5 microamperes. If the voltmeter is designed to measure up to 100 V, calculate the value of the series resistor that should be added.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "10_section_4_10",
-    "question_id": "cbse_xii_leph1dd_c104_gen193"
+    "question_id": "cbse_xii_leph1dd_c104_gen193",
+    "section_name": "4.10 THE MOVING COIL GALVANOMETER"
   }
 ]

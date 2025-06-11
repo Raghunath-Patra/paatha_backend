@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen016"
+    "question_id": "cbse_ix_iemh1dd_c103_gen016",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Which quadrant in the Cartesian plane has points with coordinates of the form (–, +)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen017"
+    "question_id": "cbse_ix_iemh1dd_c103_gen017",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Which of the following points lies on the x-axis?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen018"
+    "question_id": "cbse_ix_iemh1dd_c103_gen018",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "What are the coordinates of the origin in a Cartesian plane?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen019"
+    "question_id": "cbse_ix_iemh1dd_c103_gen019",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Define the term 'abscissa' in the context of the Cartesian coordinate system.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen020"
+    "question_id": "cbse_ix_iemh1dd_c103_gen020",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Explain why any point on the x-axis always has a y-coordinate equal to zero.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen021"
+    "question_id": "cbse_ix_iemh1dd_c103_gen021",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Describe the positive directions of the x-axis and y-axis in the Cartesian system.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen022"
+    "question_id": "cbse_ix_iemh1dd_c103_gen022",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Illustrate and explain how the coordinate axes divide the plane into four quadrants, including the sign conventions used in each quadrant.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen023"
+    "question_id": "cbse_ix_iemh1dd_c103_gen023",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Prove that the coordinates of a point in the Cartesian plane uniquely determine its location. In your proof, explain why (3, 4) is distinct from (4, 3).",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen024"
+    "question_id": "cbse_ix_iemh1dd_c103_gen024",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Demonstrate how to determine the coordinates of a point using its perpendicular distances from the coordinate axes. Describe your method with an illustrative diagram and example.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen025"
+    "question_id": "cbse_ix_iemh1dd_c103_gen025",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Write the coordinates of point A if it is 4 units to the right of the y-axis and lies on the x-axis.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen026"
+    "question_id": "cbse_ix_iemh1dd_c103_gen026",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Find the coordinates of a point that is 7 units from the y-axis towards the left and 2 units from the x-axis upwards.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen027"
+    "question_id": "cbse_ix_iemh1dd_c103_gen027",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Given that point B lies in the third quadrant with a y-coordinate (ordinate) of –5 and is 6 units away from the y-axis, determine its coordinates.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen028"
+    "question_id": "cbse_ix_iemh1dd_c103_gen028",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "A point P has a perpendicular distance of 9 units from the y-axis and 8 units from the x-axis. If P lies in the second quadrant, what are its coordinates?",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen029"
+    "question_id": "cbse_ix_iemh1dd_c103_gen029",
+    "section_name": "3.2 Cartesian System"
   },
   {
     "question_text": "Point Q is plotted such that its x-coordinate is the distance of 2/3 unit from the y-axis and its y-coordinate is 0. What are the coordinates of Q and on which axis does it lie?",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "04_section_3_2",
-    "question_id": "cbse_ix_iemh1dd_c103_gen030"
+    "question_id": "cbse_ix_iemh1dd_c103_gen030",
+    "section_name": "3.2 Cartesian System"
   }
 ]

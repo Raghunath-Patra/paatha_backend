@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen001"
+    "question_id": "cbse_ix_iesc1dd_c110_gen001",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "MCQ: Which two conditions must be satisfied for work to be done, according to the scientific definition?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen002"
+    "question_id": "cbse_ix_iesc1dd_c110_gen002",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "MCQ: A force of 5 N acts on an object and moves it a distance of 2 m in the direction of the force. What is the work done on the object?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen003"
+    "question_id": "cbse_ix_iesc1dd_c110_gen003",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "MCQ: Which scenario demonstrates that no work is done by the force, even if energy is expended?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen004"
+    "question_id": "cbse_ix_iesc1dd_c110_gen004",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "Short Answer: Define scientific work and list the two necessary conditions that must be met for work to be done.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen005"
+    "question_id": "cbse_ix_iesc1dd_c110_gen005",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "Short Answer: What is the SI unit of work, and how is it derived from the definition of work?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen006"
+    "question_id": "cbse_ix_iesc1dd_c110_gen006",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "Short Answer: Differentiate between the everyday concept of 'work' and its scientific definition. Provide one example for each.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen007"
+    "question_id": "cbse_ix_iesc1dd_c110_gen007",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "Long Answer: Compare and contrast two examples from the section—Kamali studying and climbing stairs. Explain why climbing stairs involves scientific work while studying does not, even though both require energy expenditure.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen008"
+    "question_id": "cbse_ix_iesc1dd_c110_gen008",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "Long Answer: Describe a real-life scenario where an object continues to move even though no net external force is acting on it at that moment. In your answer, explain the role of inertia and why, in that specific state, work is considered zero for the force in consideration.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen009"
+    "question_id": "cbse_ix_iesc1dd_c110_gen009",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "True/False: If a force is applied to an object without causing any displacement, then work is done on the object.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen010"
+    "question_id": "cbse_ix_iesc1dd_c110_gen010",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "True/False: Climbing stairs involves scientific work because there is displacement against gravity.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen011"
+    "question_id": "cbse_ix_iesc1dd_c110_gen011",
+    "section_name": "10.1 Work"
   },
   {
     "question_text": "MCQ: Which of the following scenarios accurately represents the scientific definition of work?",
@@ -190,6 +201,7 @@
     "source": "generated",
     "chapter_id": "iesc110",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_ix_iesc1dd_c110_gen012"
+    "question_id": "cbse_ix_iesc1dd_c110_gen012",
+    "section_name": "10.1 Work"
   }
 ]

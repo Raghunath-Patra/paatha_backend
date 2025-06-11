@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen030"
+    "question_id": "cbse_ix_iemh1dd_c102_gen030",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "For the polynomial p(x) = x – 1, which of the following is a zero of the polynomial?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen031"
+    "question_id": "cbse_ix_iemh1dd_c102_gen031",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "What is the unique zero of the linear polynomial 2x + 1?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen032"
+    "question_id": "cbse_ix_iemh1dd_c102_gen032",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "How many zeroes does a non-zero constant polynomial have?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen033"
+    "question_id": "cbse_ix_iemh1dd_c102_gen033",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Define what is meant by a 'zero' of a polynomial.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen034"
+    "question_id": "cbse_ix_iemh1dd_c102_gen034",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Why does every linear polynomial of the form p(x) = ax + b (with a ≠ 0) have exactly one zero?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen035"
+    "question_id": "cbse_ix_iemh1dd_c102_gen035",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Evaluate the polynomial q(y) = 3y³ – 4y + √11 at y = 2.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen036"
+    "question_id": "cbse_ix_iemh1dd_c102_gen036",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Express the value of the polynomial p(t) = 4t⁴ + 5t³ – t² + 6 when t = a.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen037"
+    "question_id": "cbse_ix_iemh1dd_c102_gen037",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Prove that for any linear polynomial p(x) = ax + b, where a ≠ 0, the unique zero is given by x = –b/a.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen038"
+    "question_id": "cbse_ix_iemh1dd_c102_gen038",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Discuss why the zero polynomial (which is identically 0) is said to have every real number as its zero.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen039"
+    "question_id": "cbse_ix_iemh1dd_c102_gen039",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Determine all the zeros of the polynomial p(x) = x² – 2x.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen040"
+    "question_id": "cbse_ix_iemh1dd_c102_gen040",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Evaluate the polynomial p(x) = 5x² – 3x + 7 at x = 1 and show your working.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen041"
+    "question_id": "cbse_ix_iemh1dd_c102_gen041",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Find the unique zero of the polynomial p(x) = 2x + 1 by solving the equation p(x) = 0.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen042"
+    "question_id": "cbse_ix_iemh1dd_c102_gen042",
+    "section_name": "2.3 Zeroes of a Polynomial"
   },
   {
     "question_text": "Evaluate the polynomial q(y) = 3y³ – 4y + √11 at y = 2, and detail your calculation steps.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh102",
     "section_id": "04_section_2_3",
-    "question_id": "cbse_ix_iemh1dd_c102_gen043"
+    "question_id": "cbse_ix_iemh1dd_c102_gen043",
+    "section_name": "2.3 Zeroes of a Polynomial"
   }
 ]

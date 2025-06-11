@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen001"
+    "question_id": "cbse_xi_kemh1dd_c107_gen001",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "In the expansion of (a + b)ⁿ, what is the coefficient of aᵏbⁿ⁻ᵏ represented by?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen002"
+    "question_id": "cbse_xi_kemh1dd_c107_gen002",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Which historical figure associated with the study of the binomial theorem is featured in the portrait in this section?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen003"
+    "question_id": "cbse_xi_kemh1dd_c107_gen003",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Define the binomial theorem and explain under what conditions it is applicable as introduced in this section.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen004"
+    "question_id": "cbse_xi_kemh1dd_c107_gen004",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Explain why the expansion of high powers such as (98)⁵ or (101)⁶ becomes difficult by repeated multiplication.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen005"
+    "question_id": "cbse_xi_kemh1dd_c107_gen005",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Describe Pascal's triangle and its relation to the binomial theorem as suggested by the content of this section.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen006"
+    "question_id": "cbse_xi_kemh1dd_c107_gen006",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Using the binomial theorem, derive the expanded form of (a + b)³.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen007"
+    "question_id": "cbse_xi_kemh1dd_c107_gen007",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Prove that the sum of the coefficients in the expansion of (a + b)ⁿ is 2ⁿ.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen008"
+    "question_id": "cbse_xi_kemh1dd_c107_gen008",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Calculate (100 - 2)² using the binomial expansion method.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen009"
+    "question_id": "cbse_xi_kemh1dd_c107_gen009",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Expand (x + 3)⁴ using the binomial theorem and clearly show each term with its coefficient.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen010"
+    "question_id": "cbse_xi_kemh1dd_c107_gen010",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Using binomial expansion, find the coefficient of x² in the expansion of (2 + x)⁵.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen011"
+    "question_id": "cbse_xi_kemh1dd_c107_gen011",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Compute (1000 - 1)³ using the binomial theorem, and provide the expanded form with numerical evaluation of each term.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen012"
+    "question_id": "cbse_xi_kemh1dd_c107_gen012",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Construct a general expression to expand (a + b)ⁿ using the binomial theorem. Additionally, explain how the coefficients can be generated using Pascal’s triangle.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen013"
+    "question_id": "cbse_xi_kemh1dd_c107_gen013",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Expand (5x - 2)⁴ using the binomial theorem and clearly indicate the sign changes in the expansion.",
@@ -208,6 +221,7 @@
     "source": "generated",
     "chapter_id": "kemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_xi_kemh1dd_c107_gen014"
+    "question_id": "cbse_xi_kemh1dd_c107_gen014",
+    "section_name": "7.1 Introduction"
   }
 ]

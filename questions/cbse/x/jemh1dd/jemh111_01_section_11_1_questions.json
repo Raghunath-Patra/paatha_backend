@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen001"
+    "question_id": "cbse_x_jemh1dd_c111_gen001",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "Given a circle with radius r, what is the length of the arc of a sector with central angle θ (in degrees)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen002"
+    "question_id": "cbse_x_jemh1dd_c111_gen002",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "In a circle, the area of a segment is obtained by subtracting the area of which shape from the area of the corresponding sector?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen003"
+    "question_id": "cbse_x_jemh1dd_c111_gen003",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "Which of the following expressions correctly represents the area of the major sector of a circle in terms of the minor sector's angle θ and radius r?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen004"
+    "question_id": "cbse_x_jemh1dd_c111_gen004",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "Define 'sector' and 'segment' of a circle. Explain the difference between these two terms.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen005"
+    "question_id": "cbse_x_jemh1dd_c111_gen005",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "State the formula for the area of a sector and briefly explain how this formula is derived.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen006"
+    "question_id": "cbse_x_jemh1dd_c111_gen006",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "Explain the relationship between the areas of the minor and major sectors of a circle.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen007"
+    "question_id": "cbse_x_jemh1dd_c111_gen007",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "Prove that the length of the arc of a sector with central angle θ (in degrees) in a circle of radius r is (θ/360) × 2πr.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen008"
+    "question_id": "cbse_x_jemh1dd_c111_gen008",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "Derive the formula for the area of a segment of a circle, given that the area of the segment is the difference between the area of the sector and the area of the triangle formed by its two radii and the chord. Include a detailed explanation of how to compute the area of the triangle.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen009"
+    "question_id": "cbse_x_jemh1dd_c111_gen009",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "A circle has a radius of 4 cm. Find the area of a sector with a central angle of 30° and the area of the corresponding major sector. Use π = 3.14.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen010"
+    "question_id": "cbse_x_jemh1dd_c111_gen010",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "For a circle with a radius of 10 cm, determine the length of the arc corresponding to a sector with a central angle of 45°. Use π = 3.14.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen011"
+    "question_id": "cbse_x_jemh1dd_c111_gen011",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "In a circle with a radius of 21 cm, a chord creates a sector with a central angle of 120°. Calculate (a) the area of the sector, (b) the area of the triangle formed by the two radii and the chord, and (c) the area of the corresponding segment. Use π = 22/7 and approximate √3 as 1.73.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen012"
+    "question_id": "cbse_x_jemh1dd_c111_gen012",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   },
   {
     "question_text": "A circle has a radius of 5 cm. A sector has a central angle of 150°. Compute (a) the area of the minor sector, (b) the area of the major sector, and (c) the arc length of the minor sector. Use π = 3.14.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jemh111",
     "section_id": "01_section_11_1",
-    "question_id": "cbse_x_jemh1dd_c111_gen013"
+    "question_id": "cbse_x_jemh1dd_c111_gen013",
+    "section_name": "11.1 Areas of Sector and Segment of a Circle"
   }
 ]

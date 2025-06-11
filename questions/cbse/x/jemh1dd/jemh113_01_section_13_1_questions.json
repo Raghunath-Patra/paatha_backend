@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen001"
+    "question_id": "cbse_x_jemh1dd_c113_gen001",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which formula is used to calculate the mean for grouped data?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen002"
+    "question_id": "cbse_x_jemh1dd_c113_gen002",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which measure of central tendency might not be unique when representing a data distribution?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen003"
+    "question_id": "cbse_x_jemh1dd_c113_gen003",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which of the following statements about cumulative frequency distributions is TRUE?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen004"
+    "question_id": "cbse_x_jemh1dd_c113_gen004",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Define a grouped frequency distribution and explain how it differs from an ungrouped frequency distribution.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen005"
+    "question_id": "cbse_x_jemh1dd_c113_gen005",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "What is an ogive and what advantages does it offer when analyzing data?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen006"
+    "question_id": "cbse_x_jemh1dd_c113_gen006",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Explain the difference between a histogram with equal interval widths and one with varying interval widths. How does this impact the interpretation of the data?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen007"
+    "question_id": "cbse_x_jemh1dd_c113_gen007",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Derive the formula for calculating the mean for grouped data and discuss one potential limitation of using this method for summarizing data.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen008"
+    "question_id": "cbse_x_jemh1dd_c113_gen008",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Discuss the advantages and disadvantages of using the median over the mean in a grouped frequency distribution. Provide examples to support your argument.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen009"
+    "question_id": "cbse_x_jemh1dd_c113_gen009",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Given the following grouped data, calculate the mean:\n\nClass Interval (x): 0–10, 10–20, 20–30\nFrequency (f): 5, 15, 20",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen010"
+    "question_id": "cbse_x_jemh1dd_c113_gen010",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "For the following grouped data, estimate the median:\n\nClass Interval: 10–20, 20–30, 30–40, 40–50\nFrequency: 8, 12, 20, 10",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen011"
+    "question_id": "cbse_x_jemh1dd_c113_gen011",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "A grouped data set provides the following frequency distribution for an exam score (in %):\n\nClass Interval: 40–50, 50–60, 60–70, 70–80, 80–90\nFrequency: 3, 7, 10, 15, 5\n\n(a) Construct a cumulative frequency table.\n(b) Estimate the 60th percentile using the cumulative frequency approach.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen012"
+    "question_id": "cbse_x_jemh1dd_c113_gen012",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "A factory recorded the number of defects in its products, grouped as follows:\n\nNumber of Defects (x): 0–2, 2–4, 4–6, 6–8\nFrequency (f): 12, 18, 10, 5\n\nCalculate the mode of the defects in the production batch for the factory.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen013"
+    "question_id": "cbse_x_jemh1dd_c113_gen013",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "The following table represents the distribution of the time (in minutes) taken by a group of people to commute to work:\n\nTime Interval: 10–20, 20–30, 30–40, 40–50\nFrequency: 4, 9, 14, 7\n\nCalculate the mean and median commuting time. Provide your answer with step-by-step explanations.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "jemh113",
     "section_id": "01_section_13_1",
-    "question_id": "cbse_x_jemh1dd_c113_gen014"
+    "question_id": "cbse_x_jemh1dd_c113_gen014",
+    "section_name": "13.1 Introduction"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen014"
+    "question_id": "cbse_xi_kemh1dd_c111_gen014",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "How many octants are formed by the three mutually perpendicular coordinate planes in three-dimensional space?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen015"
+    "question_id": "cbse_xi_kemh1dd_c111_gen015",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "Which axis is perpendicular to the XOY plane as described in the text?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen016"
+    "question_id": "cbse_xi_kemh1dd_c111_gen016",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "According to the convention in the section, what sign is assigned to distances measured upward from the XY-plane?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen017"
+    "question_id": "cbse_xi_kemh1dd_c111_gen017",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "Define the term ‘origin’ in the context of a rectangular coordinate system in three-dimensional space.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen018"
+    "question_id": "cbse_xi_kemh1dd_c111_gen018",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "What are the octants in a three-dimensional rectangular coordinate system and how are they named?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen019"
+    "question_id": "cbse_xi_kemh1dd_c111_gen019",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "List the names of the three coordinate planes in three-dimensional space.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen020"
+    "question_id": "cbse_xi_kemh1dd_c111_gen020",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "Explain the significance of the mutual perpendicularity of the x, y, and z axes in a rectangular coordinate system.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen021"
+    "question_id": "cbse_xi_kemh1dd_c111_gen021",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "Prove that the three mutually perpendicular coordinate planes divide the space into eight regions (octants). In your answer, describe the role of each plane and how the signs of the coordinates are determined in these regions.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen022"
+    "question_id": "cbse_xi_kemh1dd_c111_gen022",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "Derive the reasoning behind the assignment of positive and negative signs to the coordinates based on the direction from the respective coordinate planes.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen023"
+    "question_id": "cbse_xi_kemh1dd_c111_gen023",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "Construct a labeled diagram of the three-dimensional rectangular coordinate system, clearly marking the x, y, and z axes and the three coordinate planes. Then, explain how the location of a point (x, y, z) is determined in this system.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen024"
+    "question_id": "cbse_xi_kemh1dd_c111_gen024",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "A point P has coordinates (4, -5, 3). Identify the octant in which P is located using the naming convention given in the text.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen025"
+    "question_id": "cbse_xi_kemh1dd_c111_gen025",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "Given points A(2, 3, -1) and B(-4, 1, 5), calculate the components of the vector AB and discuss the direction of this vector relative to the coordinate axes.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen026"
+    "question_id": "cbse_xi_kemh1dd_c111_gen026",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   },
   {
     "question_text": "A plane is described as being parallel to the YZ plane and passing through the point (3, -2, 5). Write its equation and explain the reasoning behind your solution.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh111",
     "section_id": "03_section_11_2",
-    "question_id": "cbse_xi_kemh1dd_c111_gen027"
+    "question_id": "cbse_xi_kemh1dd_c111_gen027",
+    "section_name": "11.2 Coordinate Axes and Coordinate Planes in Three Dimensional Space"
   }
 ]

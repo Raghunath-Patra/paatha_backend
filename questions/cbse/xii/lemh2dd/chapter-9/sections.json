@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "9.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "9.2 Basic Concepts"
+    },
+    {
+      "number": 3,
+      "name": "9.3 General and Particular Solutions of a Differential Equation"
+    },
+    {
+      "number": 4,
+      "name": "9.4 Methods of Solving First Order, First Degree Differential Equations"
+    }
+  ]
+}

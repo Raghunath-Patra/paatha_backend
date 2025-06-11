@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen015"
+    "question_id": "cbse_viii_hemh1dd_c101_gen015",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Which statement correctly describes the closure property for whole numbers?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen016"
+    "question_id": "cbse_viii_hemh1dd_c101_gen016",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Which of the following operations is commutative for rational numbers?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen017"
+    "question_id": "cbse_viii_hemh1dd_c101_gen017",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Define the closure property in the context of integers. Provide the definition along with an example for one operation.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen018"
+    "question_id": "cbse_viii_hemh1dd_c101_gen018",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Explain why rational numbers are closed under multiplication and subtraction but not completely under division.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen019"
+    "question_id": "cbse_viii_hemh1dd_c101_gen019",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "State the role of 0 in addition and the role of 1 in multiplication for rational numbers.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen020"
+    "question_id": "cbse_viii_hemh1dd_c101_gen020",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Prove that the sum of any two rational numbers is a rational number using the definition of a rational number.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen021"
+    "question_id": "cbse_viii_hemh1dd_c101_gen021",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Using the distributive property, show that for any rational numbers b and c, -3/4 × (b + c) = (-3/4 × b) + (-3/4 × c).",
@@ -124,21 +131,23 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen022"
+    "question_id": "cbse_viii_hemh1dd_c101_gen022",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Evaluate the expression {7/5 × (-3/12)} + {7/5 × 5/12} and state whether the result is a rational number.",
     "type": "Numerical",
     "difficulty": "Easy",
     "options": null,
-    "correct_answer": "The expression evaluates to 0, which is a rational number.",
+    "correct_answer": "The expression evaluates to 7/30, which is a rational number.",
     "explanation": "Step 1: Calculate each term: 7/5 × (-3/12) = -21/60 and 7/5 × 5/12 = 35/60. \nStep 2: Add these two results: (-21/60) + (35/60) = 14/60 = 7/30. \nStep 3: (Correction) Re-check terms: Actually, 7/5 × (-3/12) = -21/60 and 7/5 × 5/12 = 35/60 so their sum is 14/60, which simplifies to 7/30. \nSince 7/30 is a fraction of two integers, it is rational.",
     "topic": "Properties of Rational Numbers – Distributivity",
     "bloom_level": "Apply",
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen023"
+    "question_id": "cbse_viii_hemh1dd_c101_gen023",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Calculate the value of -5/3 ÷ (2/5) and express your answer in simplest form.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen024"
+    "question_id": "cbse_viii_hemh1dd_c101_gen024",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Evaluate the expression {9/16 × 4/12} + {9/16 × (-3/9)} and simplify your answer.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen025"
+    "question_id": "cbse_viii_hemh1dd_c101_gen025",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Find the value of the expression 3/7 + (-6/11) + (-8/21) + (5/22) using LCM for denominators, and provide a step-by-step solution.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen026"
+    "question_id": "cbse_viii_hemh1dd_c101_gen026",
+    "section_name": "1.2 Properties of Rational Numbers"
   },
   {
     "question_text": "Evaluate the product -4/5 × 3/7 × 15/16 × (-14/9) using the associative and commutative properties, and show all your working.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "02_section_1_2",
-    "question_id": "cbse_viii_hemh1dd_c101_gen027"
+    "question_id": "cbse_viii_hemh1dd_c101_gen027",
+    "section_name": "1.2 Properties of Rational Numbers"
   }
 ]

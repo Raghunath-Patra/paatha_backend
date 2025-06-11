@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen016"
+    "question_id": "cbse_ix_iemh1dd_c105_gen016",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "According to Euclid, which of these is the correct definition of a line?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen017"
+    "question_id": "cbse_ix_iemh1dd_c105_gen017",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Which postulate ensures that a straight line can be drawn from any one point to any other point?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen018"
+    "question_id": "cbse_ix_iemh1dd_c105_gen018",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Euclid's Fifth Postulate is known to be more complex than the other postulates. Which statement best summarizes its content?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen019"
+    "question_id": "cbse_ix_iemh1dd_c105_gen019",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Define a 'point' based on Euclid's description.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen020"
+    "question_id": "cbse_ix_iemh1dd_c105_gen020",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Explain why Euclid and modern mathematicians leave terms like 'point', 'line', and 'plane' undefined.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen021"
+    "question_id": "cbse_ix_iemh1dd_c105_gen021",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "State Euclid's Postulate 1 and briefly describe its significance in geometry.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen022"
+    "question_id": "cbse_ix_iemh1dd_c105_gen022",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Differentiate between Euclid's axioms (common notions) and his postulates.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen023"
+    "question_id": "cbse_ix_iemh1dd_c105_gen023",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Prove that if A, B, and C are three points on a straight line with B between A and C, then AB + BC = AC.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen024"
+    "question_id": "cbse_ix_iemh1dd_c105_gen024",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Using Euclid's ideas, prove that two distinct lines cannot have more than one point in common.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen025"
+    "question_id": "cbse_ix_iemh1dd_c105_gen025",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Construct an equilateral triangle on a given line segment AB using Euclid's postulates, and prove that the triangle formed is equilateral.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen026"
+    "question_id": "cbse_ix_iemh1dd_c105_gen026",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Given points A, B, and C on a line with A = (0, 0), B = (2, 0) and C = (5, 0), if B lies between A and C, calculate the lengths AB, BC, and AC, and verify that AB + BC = AC.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen027"
+    "question_id": "cbse_ix_iemh1dd_c105_gen027",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "If a line segment AB has a length of 8 units, and using Euclid's circle construction method, an equilateral triangle is formed on AB, what is the perimeter and area of the triangle?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen028"
+    "question_id": "cbse_ix_iemh1dd_c105_gen028",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Using coordinate geometry, if points A and B are at A = (0, 0) and B = (7, 0), determine the coordinates of one of the intersection points of two circles with centers A and B and radii 7 units.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen029"
+    "question_id": "cbse_ix_iemh1dd_c105_gen029",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   },
   {
     "question_text": "Given a straight line segment DE of length 10 units, if the segment is extended indefinitely (as per Postulate 2), explain what is meant by this extension and discuss any implications regarding the concept of dimension in geometry.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "iemh105",
     "section_id": "02_section_5_2",
-    "question_id": "cbse_ix_iemh1dd_c105_gen030"
+    "question_id": "cbse_ix_iemh1dd_c105_gen030",
+    "section_name": "5.2 Euclid’s Definitions, Axioms and Postulates"
   }
 ]

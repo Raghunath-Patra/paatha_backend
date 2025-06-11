@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen001"
+    "question_id": "cbse_viii_hemh1dd_c101_gen001",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which number set must be used to solve the equation x + 18 = 5?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen002"
+    "question_id": "cbse_viii_hemh1dd_c101_gen002",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "The equation 2x = 3 has the solution x = 3/2. Which number set does 3/2 belong to?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen003"
+    "question_id": "cbse_viii_hemh1dd_c101_gen003",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Identify the type of solution for the equation 5x + 7 = 0.",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen004"
+    "question_id": "cbse_viii_hemh1dd_c101_gen004",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Define the following: natural numbers, whole numbers, integers, and rational numbers.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen005"
+    "question_id": "cbse_viii_hemh1dd_c101_gen005",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Explain why the equation x + 5 = 5 cannot be solved if we restrict x to be a natural number.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen006"
+    "question_id": "cbse_viii_hemh1dd_c101_gen006",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Discuss the importance of expanding our number systems (from natural numbers to whole numbers to integers to rational numbers) when solving equations.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen007"
+    "question_id": "cbse_viii_hemh1dd_c101_gen007",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Describe the difference between a solution that is a whole number and one that is an integer.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen008"
+    "question_id": "cbse_viii_hemh1dd_c101_gen008",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Prove that the equation x + 5 = 5 has no solution in the set of natural numbers.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen009"
+    "question_id": "cbse_viii_hemh1dd_c101_gen009",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Provide a complete justification for why the equation 2x = 3 does not have an integer solution but has a rational solution.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen010"
+    "question_id": "cbse_viii_hemh1dd_c101_gen010",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Solve the equation x + 2 = 13. Show all steps in your solution process.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen011"
+    "question_id": "cbse_viii_hemh1dd_c101_gen011",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Solve the equation 5x + 7 = 0 and identify the number system to which the solution belongs. Provide step-by-step working.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen012"
+    "question_id": "cbse_viii_hemh1dd_c101_gen012",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Solve the equation x + 18 = 5. Determine whether the solution is a whole number and explain your reasoning.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen013"
+    "question_id": "cbse_viii_hemh1dd_c101_gen013",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Solve the equation 2x = 3 and express your answer as a fraction in its simplest form.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "hemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_viii_hemh1dd_c101_gen014"
+    "question_id": "cbse_viii_hemh1dd_c101_gen014",
+    "section_name": "1.1 Introduction"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen001"
+    "question_id": "cbse_xii_lemh1dd_c101_gen001",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which of the following statements is true regarding functions?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen002"
+    "question_id": "cbse_xii_lemh1dd_c101_gen002",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Given sets A and B, if R ⊆ A×B, then which of these is a necessary statement about any relation R?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen003"
+    "question_id": "cbse_xii_lemh1dd_c101_gen003",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Functions are special kinds of relations. Which property distinguishes a function from a general relation?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen004"
+    "question_id": "cbse_xii_lemh1dd_c101_gen004",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Define the terms 'domain', 'co-domain', and 'range' in the context of functions.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen005"
+    "question_id": "cbse_xii_lemh1dd_c101_gen005",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "What does it mean when we say that an element a is related to b under a relation R? Provide a concise definition.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen006"
+    "question_id": "cbse_xii_lemh1dd_c101_gen006",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Explain how the concept of a relation in mathematics is inspired by the general English meaning of 'relation'.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen007"
+    "question_id": "cbse_xii_lemh1dd_c101_gen007",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Prove that if a function f is invertible, then it must be one-to-one.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen008"
+    "question_id": "cbse_xii_lemh1dd_c101_gen008",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Discuss the composition of functions and prove that the composition of two one-to-one functions is also one-to-one.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen009"
+    "question_id": "cbse_xii_lemh1dd_c101_gen009",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "In a school, Class XII has 30 students and Class XI has 25 students. What is the maximum possible number of ordered pairs in any relation from the set of Class XII students (A) to the set of Class XI students (B)?",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen010"
+    "question_id": "cbse_xii_lemh1dd_c101_gen010",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Given a function f: ℝ → ℝ defined by f(x) = 2x + 3, find the inverse function f⁻¹(x).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen011"
+    "question_id": "cbse_xii_lemh1dd_c101_gen011",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Let f: ℝ → ℝ be defined by f(x) = 3x - 4. Compute the composition (f ∘ f)(x) and simplify the result.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen012"
+    "question_id": "cbse_xii_lemh1dd_c101_gen012",
+    "section_name": "1.1 Introduction"
   }
 ]

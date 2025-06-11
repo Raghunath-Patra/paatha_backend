@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "6.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "6.2 Fundamental Principle of Counting"
+    },
+    {
+      "number": 3,
+      "name": "6.3 Permutations"
+    },
+    {
+      "number": 4,
+      "name": "6.4 Combinations"
+    }
+  ]
+}

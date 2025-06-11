@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen038"
+    "question_id": "cbse_xi_keph2dd_c203_gen038",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Which physical property of a liquid is most commonly used for measuring temperature in a liquid-in-glass thermometer?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen039"
+    "question_id": "cbse_xi_keph2dd_c203_gen039",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "If a thermometer shows a reading of 50°C, what is the corresponding Fahrenheit temperature using the relationship (t°F - 32)/180 = t°C/100?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen040"
+    "question_id": "cbse_xi_keph2dd_c203_gen040",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "How many equal intervals are there between the ice point and steam point on the Celsius scale?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen041"
+    "question_id": "cbse_xi_keph2dd_c203_gen041",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Why are the ice point and steam point chosen as the fixed reference points for calibrating thermometers?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen042"
+    "question_id": "cbse_xi_keph2dd_c203_gen042",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Define a thermometer and explain its purpose in temperature measurement.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen043"
+    "question_id": "cbse_xi_keph2dd_c203_gen043",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Explain the importance of calibrating thermometers using fixed reference points.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen044"
+    "question_id": "cbse_xi_keph2dd_c203_gen044",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Describe how the linear variation in the volume of a fluid with temperature is utilized in liquid-in-glass thermometers.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen045"
+    "question_id": "cbse_xi_keph2dd_c203_gen045",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Interpret the equation (t°F - 32)/180 = t°C/100 and explain its significance in temperature conversion.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen046"
+    "question_id": "cbse_xi_keph2dd_c203_gen046",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Discuss how fixed reference points, such as the ice and steam points of water, are used in calibration. Why are these points significant in achieving accurate temperature measurements?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen047"
+    "question_id": "cbse_xi_keph2dd_c203_gen047",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Design an experiment to verify the linear relationship between Celsius and Fahrenheit temperature scales using a liquid-in-glass thermometer. Outline the procedure, controls, and possible sources of error.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen048"
+    "question_id": "cbse_xi_keph2dd_c203_gen048",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "The Celsius temperature scale is based on the ice and steam points of water. Do you agree that these conditions provide an absolute measure of temperature? Explain your reasoning.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen049"
+    "question_id": "cbse_xi_keph2dd_c203_gen049",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "A linear graph of Fahrenheit temperature versus Celsius temperature suggests that the relationship is directly proportional after an offset adjustment. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen050"
+    "question_id": "cbse_xi_keph2dd_c203_gen050",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Convert 25°C to Fahrenheit using the conversion relationship (t°F - 32)/180 = t°C/100.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen051"
+    "question_id": "cbse_xi_keph2dd_c203_gen051",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "A thermometer calibrated on the Celsius scale shows a reading of 48°C. Use the equation (t°F - 32)/180 = t°C/100 to calculate the corresponding Fahrenheit reading.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen052"
+    "question_id": "cbse_xi_keph2dd_c203_gen052",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "A laboratory experiment uses a new liquid whose expansion is measured between 5°C and 85°C. If at 5°C the thermometer reads 41°F, and the relationship is assumed linear with a standard ratio of 1.8°F per 1°C, what is the Fahrenheit reading corresponding to 85°C?",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen053"
+    "question_id": "cbse_xi_keph2dd_c203_gen053",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "Derive the formula for converting Fahrenheit to Celsius given the conversion relationship (t°F - 32)/180 = t°C/100. Then, calculate the Celsius temperature corresponding to 68°F.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen054"
+    "question_id": "cbse_xi_keph2dd_c203_gen054",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   },
   {
     "question_text": "A thermometer is expected to follow the ideal linear conversion relationship (t°F - 32)/180 = t°C/100. For a measured temperature of 50°C, the ideal Fahrenheit value is 122°F. If an experimental reading at 50°C is 120°F, calculate the absolute error and the percentage error relative to the ideal value.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "03_section_10_3",
-    "question_id": "cbse_xi_keph2dd_c203_gen055"
+    "question_id": "cbse_xi_keph2dd_c203_gen055",
+    "section_name": "10.3 MEASUREMENT OF TEMPERATURE"
   }
 ]

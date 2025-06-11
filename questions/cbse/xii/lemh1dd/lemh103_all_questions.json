@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen041"
+    "question_id": "cbse_xii_lemh1dd_c103_gen041",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Which property holds for the diagonal entries of any skew symmetric matrix?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen042"
+    "question_id": "cbse_xii_lemh1dd_c103_gen042",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "For a square matrix A, which of the following expressions yields a skew symmetric matrix?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen043"
+    "question_id": "cbse_xii_lemh1dd_c103_gen043",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Define a skew symmetric matrix.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen044"
+    "question_id": "cbse_xii_lemh1dd_c103_gen044",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "State Theorem 1 regarding the properties of A + A' and A - A' for any square matrix A with real entries.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen045"
+    "question_id": "cbse_xii_lemh1dd_c103_gen045",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Explain how any square matrix can be decomposed into the sum of a symmetric matrix and a skew symmetric matrix.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen046"
+    "question_id": "cbse_xii_lemh1dd_c103_gen046",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Prove that for any square matrix A, the matrix A + A' is symmetric and A - A' is skew symmetric.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen047"
+    "question_id": "cbse_xii_lemh1dd_c103_gen047",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Prove that any square matrix can be decomposed as the sum of a symmetric matrix and a skew symmetric matrix.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen048"
+    "question_id": "cbse_xii_lemh1dd_c103_gen048",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Decompose the matrix A = [[2, 3], [4, 5]] into its symmetric part P = ½(A + A') and skew symmetric part Q = ½(A - A').",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen049"
+    "question_id": "cbse_xii_lemh1dd_c103_gen049",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Given the matrix C = [[0, 4, -3], [-4, 0, 2], [3, -2, 0]], verify that C is skew symmetric by computing its transpose.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen050"
+    "question_id": "cbse_xii_lemh1dd_c103_gen050",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "If A = [[1, 2, 3], [0, 4, 5], [6, 7, 8]], compute A + A' and verify that the resulting matrix is symmetric.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen051"
+    "question_id": "cbse_xii_lemh1dd_c103_gen051",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "For A = [[-1, 0, 2], [1, 3, 4], [5, -2, 0]], compute the symmetric part P = ½(A + A') and the skew symmetric part Q = ½(A - A').",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen052"
+    "question_id": "cbse_xii_lemh1dd_c103_gen052",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Express the matrix D = [[4, -2, 6], [1, 3, 0], [-4, 5, -1]] as the sum of a symmetric matrix and a skew symmetric matrix.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "08_section_3_6",
-    "question_id": "cbse_xii_lemh1dd_c103_gen053"
+    "question_id": "cbse_xii_lemh1dd_c103_gen053",
+    "section_name": "3.6 Symmetric and Skew Symmetric Matrices**"
   },
   {
     "question_text": "Let A = [ [1, 2], [3, 2] ], B = [ [1, 1], [-2, 5] ], and C = [ [1, 1], [3, 4] ]. Find each of the following:\n(i) A + B\n(ii) A·B\n(iii) 3A·C\n(iv) A·B\n(v) B·A",
@@ -820,7 +833,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen002"
+    "question_id": "cbse_xii_lemh1dd_c103_gen002",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Identify the matrix which qualifies as a scalar matrix.",
@@ -839,7 +853,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen003"
+    "question_id": "cbse_xii_lemh1dd_c103_gen003",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Matrix A is equal to matrix B if which conditions are satisfied?",
@@ -858,7 +873,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen004"
+    "question_id": "cbse_xii_lemh1dd_c103_gen004",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "An identity matrix is also considered a scalar matrix when:",
@@ -877,7 +893,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen005"
+    "question_id": "cbse_xii_lemh1dd_c103_gen005",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Define a row matrix and state its order condition.",
@@ -891,7 +908,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen006"
+    "question_id": "cbse_xii_lemh1dd_c103_gen006",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "What is a diagonal matrix? Clearly state its defining property.",
@@ -905,7 +923,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen007"
+    "question_id": "cbse_xii_lemh1dd_c103_gen007",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Explain the concept of equality of matrices.",
@@ -919,7 +938,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen008"
+    "question_id": "cbse_xii_lemh1dd_c103_gen008",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Differentiate between a diagonal matrix and a scalar matrix.",
@@ -933,7 +953,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen009"
+    "question_id": "cbse_xii_lemh1dd_c103_gen009",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Prove that an identity matrix is a scalar matrix. Provide a step-by-step explanation.",
@@ -947,7 +968,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen010"
+    "question_id": "cbse_xii_lemh1dd_c103_gen010",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Given the matrix equality \n\n[ [x + 1, 2y - 3],\n  [3, z - 1] ]  =  [ [4, 1],\n  [3, 5] ], \n\nfind the values of x, y, and z.",
@@ -961,7 +983,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen011"
+    "question_id": "cbse_xii_lemh1dd_c103_gen011",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Determine the order of the following matrix and classify it as a column, row, or square matrix:\n\nB = [ 2, -√2, 0 ]ᵀ",
@@ -975,7 +998,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen012"
+    "question_id": "cbse_xii_lemh1dd_c103_gen012",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Consider the matrix A =\n\n[ [3, 0, 0],\n  [0, 3, 0],\n  [0, 0, 3] ].\n\nIs this matrix a scalar matrix or an identity matrix? Justify your answer.",
@@ -989,7 +1013,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen013"
+    "question_id": "cbse_xii_lemh1dd_c103_gen013",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "A square matrix C of order 3 has all its diagonal entries equal to 2 and all other elements zero. Write down the matrix and name its type.",
@@ -1003,7 +1028,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen014"
+    "question_id": "cbse_xii_lemh1dd_c103_gen014",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Given the matrix equality\n\n[ [3a + 2b, a − b],\n  [4a, 2a + 3b] ]  =  [ [8, 1],\n  [8, 7] ],\n\nfind the values of a and b with step-by-step working.",
@@ -1017,7 +1043,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "03_section_3_3",
-    "question_id": "cbse_xii_lemh1dd_c103_gen015"
+    "question_id": "cbse_xii_lemh1dd_c103_gen015",
+    "section_name": "3.3 Types of Matrices**"
   },
   {
     "question_text": "Which of the following conditions must be satisfied for two matrices to be added?",
@@ -1036,7 +1063,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen016"
+    "question_id": "cbse_xii_lemh1dd_c103_gen016",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "If A and B are matrices of the same dimensions, which property is always true for matrix addition?",
@@ -1055,7 +1083,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen017"
+    "question_id": "cbse_xii_lemh1dd_c103_gen017",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Consider matrices A = [a₍ᵢⱼ₎] and B = [b₍ᵢⱼ₎] of the same order. The matrix (A – B) is defined as:",
@@ -1074,7 +1103,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen018"
+    "question_id": "cbse_xii_lemh1dd_c103_gen018",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Matrix multiplication is generally not commutative. Which of the following examples best illustrates this property?",
@@ -1093,7 +1123,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen019"
+    "question_id": "cbse_xii_lemh1dd_c103_gen019",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Define matrix addition and list the necessary condition for its definition.",
@@ -1107,7 +1138,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen020"
+    "question_id": "cbse_xii_lemh1dd_c103_gen020",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Explain the process of multiplying a matrix by a scalar, and provide an example.",
@@ -1121,7 +1153,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen021"
+    "question_id": "cbse_xii_lemh1dd_c103_gen021",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "What is the significance of the zero matrix in matrix operations?",
@@ -1135,7 +1168,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen022"
+    "question_id": "cbse_xii_lemh1dd_c103_gen022",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Prove that matrix multiplication is associative; that is, for any matrices A, B, and C (provided the products are defined), show that (AB)C = A(BC).",
@@ -1149,7 +1183,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen023"
+    "question_id": "cbse_xii_lemh1dd_c103_gen023",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Given matrices A and B, if 2A + 3X = 5B, express X in terms of A and B. Provide the derivation.",
@@ -1163,7 +1198,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen024"
+    "question_id": "cbse_xii_lemh1dd_c103_gen024",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Calculate the sum of the matrices: A = [ 80  60; 75 65; 90 85 ] and B = [ 90 50; 70 55; 75 75 ].",
@@ -1177,7 +1213,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen025"
+    "question_id": "cbse_xii_lemh1dd_c103_gen025",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Multiply the matrix A = [3 1 1.5; √5 7 -3; 2 0 5] by the scalar 3 and show each step.",
@@ -1191,7 +1228,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen026"
+    "question_id": "cbse_xii_lemh1dd_c103_gen026",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Compute the product of matrices C = [1 -1 2; 0 3 4] and D = [2 7; -1 1; 5 -4]. Show the detailed computation of each entry.",
@@ -1205,7 +1243,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen027"
+    "question_id": "cbse_xii_lemh1dd_c103_gen027",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "A group conducted a promotional campaign through three modes: telephone, house calls, and letters. The cost per contact is given by the matrix A = [40; 100; 50] (in paise). In city X, the number of contacts made for each mode is [1000, 500, 5000] and in city Y, [1000, 500, 10000]. Calculate the total expenditure (in rupees) for each city, given that 100 paise = 1 rupee.",
@@ -1219,7 +1258,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "05_section_3_4",
-    "question_id": "cbse_xii_lemh1dd_c103_gen028"
+    "question_id": "cbse_xii_lemh1dd_c103_gen028",
+    "section_name": "3.4 Operations on Matrices**"
   },
   {
     "question_text": "Which of the following accurately defines the transpose of a matrix A = [a₍ᵢⱼ₎]ₘₓₙ?",
@@ -1238,7 +1278,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen029"
+    "question_id": "cbse_xii_lemh1dd_c103_gen029",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "If A is a 3×2 matrix, what is the dimension of its transpose A'?",
@@ -1257,7 +1298,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen030"
+    "question_id": "cbse_xii_lemh1dd_c103_gen030",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Which of the following is a valid property of the transpose operation on matrices?",
@@ -1276,7 +1318,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen031"
+    "question_id": "cbse_xii_lemh1dd_c103_gen031",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Consider matrices A (of size 2×3) and B (of size 3×4). If (AB)' = B'A', what is the dimension of (AB)'?",
@@ -1295,7 +1338,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen032"
+    "question_id": "cbse_xii_lemh1dd_c103_gen032",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Define the transpose of a matrix.",
@@ -1309,7 +1353,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen033"
+    "question_id": "cbse_xii_lemh1dd_c103_gen033",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "State and explain with an example the property (kA)' = kA', where k is any constant.",
@@ -1323,7 +1368,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen034"
+    "question_id": "cbse_xii_lemh1dd_c103_gen034",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Explain why for any matrix A, the property (A')' = A holds.",
@@ -1337,7 +1383,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen035"
+    "question_id": "cbse_xii_lemh1dd_c103_gen035",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Prove that for any two matrices A and B of the same order, (A + B)' = A' + B'.",
@@ -1351,7 +1398,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen036"
+    "question_id": "cbse_xii_lemh1dd_c103_gen036",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Let A be a 3×2 matrix and B be a 2×3 matrix. Prove that (AB)' = B'A' by providing a step-by-step explanation.",
@@ -1365,7 +1413,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen037"
+    "question_id": "cbse_xii_lemh1dd_c103_gen037",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Find the transpose of the matrix A = [ [1, 2], [3, 4], [5, 6] ].",
@@ -1379,7 +1428,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen038"
+    "question_id": "cbse_xii_lemh1dd_c103_gen038",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Given matrices A = [ [2, -3, 4], [0, 5, 1] ] and B = [ [1, 2, 3], [4, 5, 6] ], compute (A + B)' and A' + B'. Verify that they are equal.",
@@ -1393,7 +1443,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen039"
+    "question_id": "cbse_xii_lemh1dd_c103_gen039",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Let matrix B = [ [2, -1, 2], [1, 2, 4] ]. For k = -3, compute (kB)' and kB'. Verify that (kB)' = kB'.",
@@ -1407,7 +1458,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "07_section_3_5",
-    "question_id": "cbse_xii_lemh1dd_c103_gen040"
+    "question_id": "cbse_xii_lemh1dd_c103_gen040",
+    "section_name": "3.5 Transpose of a Matrix"
   },
   {
     "question_text": "Which of the following statements correctly defines an invertible matrix?",
@@ -1426,7 +1478,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen054"
+    "question_id": "cbse_xii_lemh1dd_c103_gen054",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "If B is the inverse of A, which of the following statements is always true?",
@@ -1445,7 +1498,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen055"
+    "question_id": "cbse_xii_lemh1dd_c103_gen055",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Which theorem guarantees that the inverse of a matrix, if it exists, is unique?",
@@ -1464,7 +1518,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen056"
+    "question_id": "cbse_xii_lemh1dd_c103_gen056",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "What is the inverse of the product of two invertible matrices A and B?",
@@ -1483,7 +1538,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen057"
+    "question_id": "cbse_xii_lemh1dd_c103_gen057",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Define an invertible (or nonsingular) matrix and state the condition for its existence.",
@@ -1497,7 +1553,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen058"
+    "question_id": "cbse_xii_lemh1dd_c103_gen058",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Explain why a rectangular matrix cannot possess an inverse matrix.",
@@ -1511,7 +1568,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen059"
+    "question_id": "cbse_xii_lemh1dd_c103_gen059",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Discuss the implications of the theorem that states the uniqueness of the inverse of a matrix. Why is this property important in solving matrix equations?",
@@ -1525,7 +1583,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen060"
+    "question_id": "cbse_xii_lemh1dd_c103_gen060",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Prove that if B and C are both inverses of a square matrix A, then B = C.",
@@ -1539,7 +1598,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen061"
+    "question_id": "cbse_xii_lemh1dd_c103_gen061",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Prove that for two invertible matrices A and B, the inverse of their product is given by (AB)⁻¹ = B⁻¹A⁻¹.",
@@ -1553,7 +1613,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen062"
+    "question_id": "cbse_xii_lemh1dd_c103_gen062",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Given matrix A = [[2, 3], [1, 2]], verify that its matrix B = [[2, -3], [-1, 2]] is indeed its inverse by showing that AB = BA = I.",
@@ -1567,7 +1628,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen063"
+    "question_id": "cbse_xii_lemh1dd_c103_gen063",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Compute the inverse of the matrix A = [[4, 7], [2, 6]] using the formula for 2×2 matrices and verify by multiplying with A.",
@@ -1581,7 +1643,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen064"
+    "question_id": "cbse_xii_lemh1dd_c103_gen064",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Find the inverse of the matrix A = [[3, 0], [5, 1]] and show that A·A⁻¹ = I.",
@@ -1595,7 +1658,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen065"
+    "question_id": "cbse_xii_lemh1dd_c103_gen065",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "For matrices A = [[1, 2], [3, 4]] and B = [[2, 0], [1, 2]], if they are invertible, compute (AB)⁻¹ using the theorem.",
@@ -1609,7 +1673,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "10_section_3_7",
-    "question_id": "cbse_xii_lemh1dd_c103_gen066"
+    "question_id": "cbse_xii_lemh1dd_c103_gen066",
+    "section_name": "3.7 Invertible Matrices**"
   },
   {
     "question_text": "Which of the following best describes a matrix?",
@@ -1628,7 +1693,8 @@
     "source": "generated",
     "chapter_id": "lemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xii_lemh1dd_c103_gen001"
+    "question_id": "cbse_xii_lemh1dd_c103_gen001",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Matrices A and B will be inverse of each other only if",

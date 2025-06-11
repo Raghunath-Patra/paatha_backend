@@ -42,7 +42,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen001"
+    "question_id": "cbse_ix_iesc1dd_c109_gen001",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "According to Newton's Universal Law of Gravitation, the force between two objects is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. Which of the following equations represents this relationship?",
@@ -61,7 +62,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen002"
+    "question_id": "cbse_ix_iesc1dd_c109_gen002",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Why do we not observe the Earth moving towards an apple when it falls?",
@@ -80,7 +82,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen003"
+    "question_id": "cbse_ix_iesc1dd_c109_gen003",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Which statement about gravitational force is correct?",
@@ -99,7 +102,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen004"
+    "question_id": "cbse_ix_iesc1dd_c109_gen004",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Define centripetal force.",
@@ -113,7 +117,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen005"
+    "question_id": "cbse_ix_iesc1dd_c109_gen005",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Briefly explain why an object thrown upward eventually falls back to Earth.",
@@ -127,7 +132,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen006"
+    "question_id": "cbse_ix_iesc1dd_c109_gen006",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "State Newton's Universal Law of Gravitation.",
@@ -141,7 +147,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen007"
+    "question_id": "cbse_ix_iesc1dd_c109_gen007",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "How does the demonstration with the whirling stone demonstrate the need for a centripetal force?",
@@ -155,7 +162,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen008"
+    "question_id": "cbse_ix_iesc1dd_c109_gen008",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Describe how Newton deduced that the force causing an apple to fall from a tree is the same force that keeps the Moon in orbit. In your answer, include the roles of inertia and centripetal force.",
@@ -169,7 +177,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen009"
+    "question_id": "cbse_ix_iesc1dd_c109_gen009",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Using the formula F = G(M × m)/d², calculate the gravitational force between the Earth and the Moon given the following values: Earth's mass M = 6 × 10^24 kg, Moon's mass m = 7.4 × 10^22 kg, distance d = 3.84 × 10^8 m, and G = 6.7 × 10^-11 N m²/kg². Show all your calculation steps.",
@@ -183,7 +192,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen010"
+    "question_id": "cbse_ix_iesc1dd_c109_gen010",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Evaluate the effect on the gravitational force between two objects when the distance between them is increased. Incorporate the inverse-square law in your explanation and provide a real-world example.",
@@ -197,7 +207,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen011"
+    "question_id": "cbse_ix_iesc1dd_c109_gen011",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "True or False: The gravitational force between two objects increases as the distance between them increases.",
@@ -211,7 +222,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen012"
+    "question_id": "cbse_ix_iesc1dd_c109_gen012",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "True or False: An object moving in a circular path will continue to follow that curved path even if the centripetal force is removed.",
@@ -225,7 +237,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen013"
+    "question_id": "cbse_ix_iesc1dd_c109_gen013",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "True or False: The Moon is constantly falling towards the Earth due to gravitational force, which causes it to orbit in a circular path.",
@@ -239,7 +252,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_ix_iesc1dd_c109_gen014"
+    "question_id": "cbse_ix_iesc1dd_c109_gen014",
+    "section_name": "9.1 Gravitation"
   },
   {
     "question_text": "Which of the following equations correctly defines pressure?",
@@ -258,7 +272,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen039"
+    "question_id": "cbse_ix_iesc1dd_c109_gen039",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "What is the SI unit of pressure?",
@@ -277,7 +292,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen040"
+    "question_id": "cbse_ix_iesc1dd_c109_gen040",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "Which principle explains that pressure applied to a confined fluid is transmitted undiminished in all directions?",
@@ -296,7 +312,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen041"
+    "question_id": "cbse_ix_iesc1dd_c109_gen041",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "Given an iron nail and a cork of equal masses, why does the cork float while the nail sinks?",
@@ -315,7 +332,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen042"
+    "question_id": "cbse_ix_iesc1dd_c109_gen042",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "Define thrust and explain how it relates to pressure.",
@@ -329,7 +347,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen043"
+    "question_id": "cbse_ix_iesc1dd_c109_gen043",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "Explain why a person standing on loose sand sinks deeper compared to when they lie down.",
@@ -343,7 +362,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen044"
+    "question_id": "cbse_ix_iesc1dd_c109_gen044",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "Define buoyant force (upthrust) and state the factors that determine its magnitude.",
@@ -357,7 +377,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen045"
+    "question_id": "cbse_ix_iesc1dd_c109_gen045",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "How does the density of an object relative to the density of a fluid determine its behavior (floating or sinking)?",
@@ -371,7 +392,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen046"
+    "question_id": "cbse_ix_iesc1dd_c109_gen046",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "Discuss the relationship between thrust and pressure. Use the example of a wooden block resting on different faces of a table to illustrate how pressure is affected by the area of contact.",
@@ -385,7 +407,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen047"
+    "question_id": "cbse_ix_iesc1dd_c109_gen047",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "Explain how the upward buoyant force works using Activity 9.4, and discuss the conditions required for an immersed object (such as a bottle) to remain underwater.",
@@ -399,7 +422,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen048"
+    "question_id": "cbse_ix_iesc1dd_c109_gen048",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "Evaluate the practical significance of understanding pressure in real-world applications. Provide at least two examples where pressure plays a critical role and explain the underlying scientific principles.",
@@ -413,7 +437,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen049"
+    "question_id": "cbse_ix_iesc1dd_c109_gen049",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "True or False: The same force acting on different areas produces the same pressure regardless of the area of contact.",
@@ -427,7 +452,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen050"
+    "question_id": "cbse_ix_iesc1dd_c109_gen050",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "True or False: An object's ability to float is solely determined by its weight.",
@@ -441,7 +467,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "09_section_9_5",
-    "question_id": "cbse_ix_iesc1dd_c109_gen051"
+    "question_id": "cbse_ix_iesc1dd_c109_gen051",
+    "section_name": "9.5 Thrust and Pressure"
   },
   {
     "question_text": "How does the force of gravitation between two objects change when the distance between them is reduced to half?",
@@ -746,7 +773,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen016"
+    "question_id": "cbse_ix_iesc1dd_c109_gen016",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "Which statement is true regarding the mass of an object when moved from Earth to outer space?",
@@ -765,7 +793,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen017"
+    "question_id": "cbse_ix_iesc1dd_c109_gen017",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "If Object A has a greater mass than Object B, which of the following is necessarily true?",
@@ -784,7 +813,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen018"
+    "question_id": "cbse_ix_iesc1dd_c109_gen018",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "Considering an object’s mass and inertia, which of the following experiments would effectively demonstrate the constant nature of mass in varying gravitational fields?",
@@ -803,7 +833,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen019"
+    "question_id": "cbse_ix_iesc1dd_c109_gen019",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "Define mass in terms of inertia.",
@@ -817,7 +848,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen020"
+    "question_id": "cbse_ix_iesc1dd_c109_gen020",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "Explain why an object's mass remains constant even when its weight changes with location.",
@@ -831,7 +863,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen021"
+    "question_id": "cbse_ix_iesc1dd_c109_gen021",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "How does the concept of inertia help in understanding the behavior of objects with different masses?",
@@ -845,7 +878,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen022"
+    "question_id": "cbse_ix_iesc1dd_c109_gen022",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "Differentiate between mass and weight.",
@@ -859,7 +893,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen023"
+    "question_id": "cbse_ix_iesc1dd_c109_gen023",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "Discuss the relationship between mass, inertia, and gravitational forces. Provide real-world examples to illustrate how these concepts interact.",
@@ -873,7 +908,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen024"
+    "question_id": "cbse_ix_iesc1dd_c109_gen024",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "Evaluate how experiments involving free fall can help distinguish between an object's mass and weight. Discuss how measurements in different gravitational environments contribute to this understanding.",
@@ -887,7 +923,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen025"
+    "question_id": "cbse_ix_iesc1dd_c109_gen025",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "True or False: An object’s mass can change if it is moved from Earth to the Moon.",
@@ -901,7 +938,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen026"
+    "question_id": "cbse_ix_iesc1dd_c109_gen026",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "True or False: Inertia is directly proportional to an object's mass, meaning heavier objects require more force to change their state of motion.",
@@ -915,7 +953,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "06_section_9_3",
-    "question_id": "cbse_ix_iesc1dd_c109_gen027"
+    "question_id": "cbse_ix_iesc1dd_c109_gen027",
+    "section_name": "9.3 Mass"
   },
   {
     "question_text": "Which of the following best states Archimedes’ Principle?",
@@ -934,7 +973,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen052"
+    "question_id": "cbse_ix_iesc1dd_c109_gen052",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "In Activity 9.7, why does the reading on the spring balance decrease as the stone is being immersed in water?",
@@ -953,7 +993,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen053"
+    "question_id": "cbse_ix_iesc1dd_c109_gen053",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "Which factor does NOT affect the magnitude of the buoyant force on an object?",
@@ -972,7 +1013,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen054"
+    "question_id": "cbse_ix_iesc1dd_c109_gen054",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "Which of the following applications does NOT directly utilize Archimedes’ Principle?",
@@ -991,7 +1033,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen055"
+    "question_id": "cbse_ix_iesc1dd_c109_gen055",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "Define ‘buoyant force’.",
@@ -1005,7 +1048,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen056"
+    "question_id": "cbse_ix_iesc1dd_c109_gen056",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "Explain why the extension of the rubber string or reading of the spring balance decreases when the stone is immersed in water.",
@@ -1019,7 +1063,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen057"
+    "question_id": "cbse_ix_iesc1dd_c109_gen057",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "How does the displaced volume of fluid relate to the buoyant force acting on an immersed object?",
@@ -1033,7 +1078,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen058"
+    "question_id": "cbse_ix_iesc1dd_c109_gen058",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "What is the historical significance of Archimedes’ discovery as related to the \"Eureka!\" moment?",
@@ -1047,7 +1093,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen059"
+    "question_id": "cbse_ix_iesc1dd_c109_gen059",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "Describe, step-by-step, the observations made in Activity 9.7 when a stone is gradually immersed in water and explain why no further change is observed once it is fully immersed.",
@@ -1061,7 +1108,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen060"
+    "question_id": "cbse_ix_iesc1dd_c109_gen060",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "Analyze how Archimedes’ Principle is utilized in the design of ships and submarines. Include in your answer the role of buoyant force and how it is managed in these vessels.",
@@ -1075,7 +1123,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen061"
+    "question_id": "cbse_ix_iesc1dd_c109_gen061",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "Evaluate whether the buoyant force experienced by an object remains the same in different fluids if the object is entirely submerged. Consider factors such as fluid density in your answer.",
@@ -1089,7 +1138,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen062"
+    "question_id": "cbse_ix_iesc1dd_c109_gen062",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "True or False: Once an object is fully immersed in a fluid, the buoyant force acting on it continuously increases as it is submerged deeper. If false, correct the statement.",
@@ -1103,7 +1153,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen063"
+    "question_id": "cbse_ix_iesc1dd_c109_gen063",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "True or False: The magnitude of the buoyant force exerted on an object depends on both the object's weight and the density of the fluid it displaces. If false, please correct your answer.",
@@ -1117,7 +1168,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "11_section_9_6",
-    "question_id": "cbse_ix_iesc1dd_c109_gen064"
+    "question_id": "cbse_ix_iesc1dd_c109_gen064",
+    "section_name": "9.6 Archimedes’ Principle"
   },
   {
     "question_text": "What do you mean by free fall?",
@@ -1162,7 +1214,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "04_section_9_2",
-    "question_id": "cbse_ix_iesc1dd_c109_gen015"
+    "question_id": "cbse_ix_iesc1dd_c109_gen015",
+    "section_name": "9.2 Free Fall"
   },
   {
     "question_text": "You find your mass to be 42 kg on a weighing machine. Is your mass more or less than 42 kg?",
@@ -1272,7 +1325,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen028"
+    "question_id": "cbse_ix_iesc1dd_c109_gen028",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Which of the following formulas correctly represents the weight of an object on Earth?",
@@ -1291,7 +1345,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen029"
+    "question_id": "cbse_ix_iesc1dd_c109_gen029",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Using the universal law of gravitation, which equation correctly represents the weight of an object on the Moon?",
@@ -1310,7 +1365,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen030"
+    "question_id": "cbse_ix_iesc1dd_c109_gen030",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Define weight and explain its dependence on both mass and gravitational acceleration.",
@@ -1324,7 +1380,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen031"
+    "question_id": "cbse_ix_iesc1dd_c109_gen031",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Explain why an object's weight on the Moon is different from its weight on the Earth, even though its mass remains the same.",
@@ -1338,7 +1395,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen032"
+    "question_id": "cbse_ix_iesc1dd_c109_gen032",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "State the formula derived from Newton’s second law for calculating the weight of an object. Identify the units of weight in the SI system.",
@@ -1352,7 +1410,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen033"
+    "question_id": "cbse_ix_iesc1dd_c109_gen033",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "In your own words, explain why weight can be used as a measure of mass at a given location on Earth. Also, mention any limitations of this method when comparing measurements from different celestial bodies.",
@@ -1366,7 +1425,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen034"
+    "question_id": "cbse_ix_iesc1dd_c109_gen034",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Describe the step-by-step process of deriving the ratio of an object's weight on the Moon to its weight on the Earth using the universal law of gravitation. Include the significance of the masses and radii of the Earth and Moon in your explanation.",
@@ -1380,7 +1440,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen035"
+    "question_id": "cbse_ix_iesc1dd_c109_gen035",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "True or False: The mass of an object changes depending on whether it is on Earth or the Moon.",
@@ -1394,7 +1455,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen036"
+    "question_id": "cbse_ix_iesc1dd_c109_gen036",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "True or False: The SI unit of weight is the kilogram (kg). If false, provide the correct unit and reason why.",
@@ -1408,7 +1470,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen037"
+    "question_id": "cbse_ix_iesc1dd_c109_gen037",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "True or False: At a specific location on Earth, the weight of an object is directly proportional to its mass. If the statement is false, correct it.",
@@ -1422,6 +1485,7 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen038"
+    "question_id": "cbse_ix_iesc1dd_c109_gen038",
+    "section_name": "9.4 Weight"
   }
 ]

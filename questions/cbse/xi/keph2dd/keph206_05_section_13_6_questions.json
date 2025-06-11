@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen153"
+    "question_id": "cbse_xi_keph2dd_c206_gen153",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following equations correctly represents the force law for simple harmonic motion (SHM)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen154"
+    "question_id": "cbse_xi_keph2dd_c206_gen154",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "According to the SHM analysis using Newton's second law, how is the constant k related to the mass m and the angular frequency ω?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen155"
+    "question_id": "cbse_xi_keph2dd_c206_gen155",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What mathematical process is required to go from the displacement equation of SHM to its force law expression?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen156"
+    "question_id": "cbse_xi_keph2dd_c206_gen156",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Newton's second law in the context of SHM leads to the force equation F = -mω²x. Which statement best explains the physical meaning of the negative sign in this equation?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen157"
+    "question_id": "cbse_xi_keph2dd_c206_gen157",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define simple harmonic motion in terms of force and displacement.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen158"
+    "question_id": "cbse_xi_keph2dd_c206_gen158",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the difference between a linear harmonic oscillator and a non-linear oscillator?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen159"
+    "question_id": "cbse_xi_keph2dd_c206_gen159",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In Example 13.6, the time period of oscillations is given by T = 2π√(m/2k). Briefly describe how this period is derived from the net restoring force acting on the mass.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen160"
+    "question_id": "cbse_xi_keph2dd_c206_gen160",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain how the second derivative of the displacement function of a particle in SHM relates to its acceleration.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen161"
+    "question_id": "cbse_xi_keph2dd_c206_gen161",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the force law for simple harmonic motion starting from the displacement equation x(t) = A cos(ωt + φ), and explain why differentiation is used in this process.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen162"
+    "question_id": "cbse_xi_keph2dd_c206_gen162",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss the implications of adding non-linear terms (such as proportional to x² or x³) to the force law of a simple harmonic oscillator.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen163"
+    "question_id": "cbse_xi_keph2dd_c206_gen163",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the two-spring system described in Example 13.6, derive the effective spring constant and show how the corresponding time period T = 2π√(m/2k) is obtained.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen164"
+    "question_id": "cbse_xi_keph2dd_c206_gen164",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle executing SHM has a restoring force that acts away from the mean position. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen165"
+    "question_id": "cbse_xi_keph2dd_c206_gen165",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Differentiating the displacement function twice in SHM yields an acceleration function that is directly proportional to -x. True or False?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen166"
+    "question_id": "cbse_xi_keph2dd_c206_gen166",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass of 2 kg attached to a spring with a spring constant of 8 N/m executes simple harmonic motion. Calculate its period of oscillation.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen167"
+    "question_id": "cbse_xi_keph2dd_c206_gen167",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Two springs, each of spring constant 100 N/m, are attached to a 1 kg mass as shown in Example 13.6. Determine the period of oscillation of the block.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen168"
+    "question_id": "cbse_xi_keph2dd_c206_gen168",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "For a mass in simple harmonic motion, if the mass is increased by a factor of four while the spring constant remains unchanged, by what factor does the period of oscillation change?",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen169"
+    "question_id": "cbse_xi_keph2dd_c206_gen169",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass of 0.5 kg oscillates with an angular frequency of 10 rad/s in a simple harmonic oscillator. Calculate the effective spring constant k.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen170"
+    "question_id": "cbse_xi_keph2dd_c206_gen170",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A block of mass 1 kg is placed between two springs, each with a spring constant of 50 N/m, arranged in parallel as described in the text. If the block is displaced by a distance x, determine the net restoring force and the period of oscillation.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen171"
+    "question_id": "cbse_xi_keph2dd_c206_gen171",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   }
 ]

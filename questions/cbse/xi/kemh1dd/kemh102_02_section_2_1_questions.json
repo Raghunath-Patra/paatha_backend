@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen001"
+    "question_id": "cbse_xi_kemh1dd_c102_gen001",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Which statement correctly distinguishes a function from a general relation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen002"
+    "question_id": "cbse_xi_kemh1dd_c102_gen002",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "G. W. Leibniz is known for contributing to which fundamental mathematical concept?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen003"
+    "question_id": "cbse_xi_kemh1dd_c102_gen003",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define what is meant by a 'pattern' in the context of mathematics as described in the text.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen004"
+    "question_id": "cbse_xi_kemh1dd_c102_gen004",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "What does it mean to link pairs of objects from two sets? Explain briefly.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen005"
+    "question_id": "cbse_xi_kemh1dd_c102_gen005",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Explain why mathematical relations are represented by ordered pairs.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen006"
+    "question_id": "cbse_xi_kemh1dd_c102_gen006",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define a function in your own words and describe how it qualifies as a special type of relation.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen007"
+    "question_id": "cbse_xi_kemh1dd_c102_gen007",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Given two sets A = {a, b} and B = {1, 2, 3}, list all possible relations from A to B and identify which of these relations can be classified as functions. Provide justification for your answer.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen008"
+    "question_id": "cbse_xi_kemh1dd_c102_gen008",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Prove that a function represents a mathematically precise correspondence between quantities by discussing the criteria that a relation must meet to be considered a function.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen009"
+    "question_id": "cbse_xi_kemh1dd_c102_gen009",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Given set A = {1, 2, 3} and set B = {'x', 'y'}, calculate the total number of ordered pairs that can be formed from these sets.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen010"
+    "question_id": "cbse_xi_kemh1dd_c102_gen010",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "If a relation R from a set A with 4 elements to a set B with 5 elements contains 10 ordered pairs, what is the probability of randomly selecting an ordered pair from R, given the total number of possible ordered pairs from A to B?",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen011"
+    "question_id": "cbse_xi_kemh1dd_c102_gen011",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Determine the number of possible functions from a set of 3 elements to a set of 4 elements.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen012"
+    "question_id": "cbse_xi_kemh1dd_c102_gen012",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Given a set A with 5 elements and a set B with 3 elements, calculate (a) the total number of relations from A to B, and (b) the number of functions from A to B.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xi_kemh1dd_c102_gen013"
+    "question_id": "cbse_xi_kemh1dd_c102_gen013",
+    "section_name": "2.1 Introduction"
   }
 ]

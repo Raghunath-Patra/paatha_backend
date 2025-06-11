@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen014"
+    "question_id": "cbse_viii_hemh1dd_c112_gen014",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Which of the following expressions is already in factorised form?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen015"
+    "question_id": "cbse_viii_hemh1dd_c112_gen015",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "In factorising the expression 2x + 4 using the method of common factors, which factor is taken out first?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen016"
+    "question_id": "cbse_viii_hemh1dd_c112_gen016",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Define factorisation in algebra.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen017"
+    "question_id": "cbse_viii_hemh1dd_c112_gen017",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "What is regrouping in the context of factorisation and why is it useful?",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen018"
+    "question_id": "cbse_viii_hemh1dd_c112_gen018",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "State and explain the distributive law used in factorisation.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen019"
+    "question_id": "cbse_viii_hemh1dd_c112_gen019",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Prove that the expression 2xy + 2y + 3x + 3 can be factorised as (x + 1)(2y + 3) using the method of regrouping.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen020"
+    "question_id": "cbse_viii_hemh1dd_c112_gen020",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Factorise and simplify the expression 10x² – 18x³ + 14x⁴ using the method of common factors, and then verify your result by expanding the factorised form.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen021"
+    "question_id": "cbse_viii_hemh1dd_c112_gen021",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Factorise the expression 12x + 36.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen022"
+    "question_id": "cbse_viii_hemh1dd_c112_gen022",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Factorise the expression 22y – 33z.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen023"
+    "question_id": "cbse_viii_hemh1dd_c112_gen023",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Factorise the expression 14pq + 35pqr.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen024"
+    "question_id": "cbse_viii_hemh1dd_c112_gen024",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Factorise the expression 12a²b + 15ab².",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen025"
+    "question_id": "cbse_viii_hemh1dd_c112_gen025",
+    "section_name": "12.2 What is Factorisation?"
   },
   {
     "question_text": "Factorise the expression 6xy – 4y + 6 – 9x.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "hemh112",
     "section_id": "02_section_12_2",
-    "question_id": "cbse_viii_hemh1dd_c112_gen026"
+    "question_id": "cbse_viii_hemh1dd_c112_gen026",
+    "section_name": "12.2 What is Factorisation?"
   }
 ]

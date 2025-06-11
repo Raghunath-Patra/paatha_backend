@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen038"
+    "question_id": "cbse_ix_iemh1dd_c106_gen038",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "When two lines intersect, which pair of angles is defined as vertically opposite?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen039"
+    "question_id": "cbse_ix_iemh1dd_c106_gen039",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "Which of the following is true regarding the converse of the Linear Pair Axiom as discussed?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen040"
+    "question_id": "cbse_ix_iemh1dd_c106_gen040",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "According to the text, what is the measure of ∠AOB when a ray stands on a line creating adjacent angles ∠AOC and ∠BOC at point O?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen041"
+    "question_id": "cbse_ix_iemh1dd_c106_gen041",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "Define the following terms as presented in the section: complementary angles, supplementary angles, adjacent angles, and linear pair of angles.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen042"
+    "question_id": "cbse_ix_iemh1dd_c106_gen042",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "Explain in your own words the concept of the Linear Pair Axiom and its converse.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen043"
+    "question_id": "cbse_ix_iemh1dd_c106_gen043",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "Briefly describe the method used to prove that vertically opposite angles are equal when two lines intersect.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen044"
+    "question_id": "cbse_ix_iemh1dd_c106_gen044",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "Prove that if two lines intersect, then the vertically opposite angles are equal.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen045"
+    "question_id": "cbse_ix_iemh1dd_c106_gen045",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "Discuss the logical reasoning behind the converse of the Linear Pair Axiom. Can you think of any counter-example where the sum of two adjacent angles is not equal to 180°?",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen046"
+    "question_id": "cbse_ix_iemh1dd_c106_gen046",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "In the diagram of two intersecting lines, if the ratio of ∠POR to ∠ROQ is 5:7 and these form a linear pair, what is the measure of ∠POR?",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen047"
+    "question_id": "cbse_ix_iemh1dd_c106_gen047",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "In a figure, ray OS stands on a line POQ. If ray OR bisects ∠POS and ray OT bisects ∠SOQ, and given that ∠POS = x, find the measure of ∠ROT.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen048"
+    "question_id": "cbse_ix_iemh1dd_c106_gen048",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "Given four rays OP, OQ, OR, and OS emanating from a single point O, prove that ∠POQ + ∠QOR + ∠SOR + ∠POS = 360°.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen049"
+    "question_id": "cbse_ix_iemh1dd_c106_gen049",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "A ray stands on a line such that one adjacent angle measures 110°. If the other adjacent angle is y°, determine the value of y and comment on the configuration.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen050"
+    "question_id": "cbse_ix_iemh1dd_c106_gen050",
+    "section_name": "6.4 Pairs of Angles"
   },
   {
     "question_text": "In an intersection of two lines, if one of the angles measures 65°, what is the measure of its vertically opposite angle?",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh106",
     "section_id": "04_section_6_4",
-    "question_id": "cbse_ix_iemh1dd_c106_gen051"
+    "question_id": "cbse_ix_iemh1dd_c106_gen051",
+    "section_name": "6.4 Pairs of Angles"
   }
 ]

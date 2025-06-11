@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen067"
+    "question_id": "cbse_viii_hemh1dd_c107_gen067",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Which of the following scenarios exemplifies an application of the compound interest formula?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen068"
+    "question_id": "cbse_viii_hemh1dd_c107_gen068",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "A city's population increases by 5% per annum. Which expression correctly models the population at the end of 3 years if the initial population is P?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen069"
+    "question_id": "cbse_viii_hemh1dd_c107_gen069",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "A TV priced at ₹21,000 depreciates at 5% per annum. Which of the following shows the correct operation to find its value after one year?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen070"
+    "question_id": "cbse_viii_hemh1dd_c107_gen070",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Define compound interest and explain its significance in modeling population growth.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen071"
+    "question_id": "cbse_viii_hemh1dd_c107_gen071",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "What is depreciation? Describe how the compound interest formula is modified to determine the value of an item after depreciation for one year.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen072"
+    "question_id": "cbse_viii_hemh1dd_c107_gen072",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "If an item’s price increases at a rate of 10% per annum compounded annually, express the price after 3 years in terms of the initial price P.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen073"
+    "question_id": "cbse_viii_hemh1dd_c107_gen073",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Derive the compound interest formula A = P(1 + r/100)^t starting from the idea that the interest is compounded annually. Use this derivation to explain how compound growth applies to a city's population that increases by a fixed percentage each year.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen074"
+    "question_id": "cbse_viii_hemh1dd_c107_gen074",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Given an asset with an initial value P that depreciates at a rate of r% per annum, prove that its value after n years is given by P(1 - r/100)^n.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen075"
+    "question_id": "cbse_viii_hemh1dd_c107_gen075",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "Calculate the compound interest earned on a sum of ₹8,000 for 2 years at an annual rate of 5% compounded annually.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen076"
+    "question_id": "cbse_viii_hemh1dd_c107_gen076",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "A machinery worth ₹10,500 depreciates by 5% per annum. Find its value after one year.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen077"
+    "question_id": "cbse_viii_hemh1dd_c107_gen077",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "The population of a city is currently 12 lakh and it increases at a rate of 4% per annum. Find the population of the city after 2 years.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen078"
+    "question_id": "cbse_viii_hemh1dd_c107_gen078",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "A bacterial culture grows at a rate of 20% per annum following a compound growth model. If the initial number of bacteria is 500, calculate the number of bacteria after 3 years.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "09_section_7_6",
-    "question_id": "cbse_viii_hemh1dd_c107_gen079"
+    "question_id": "cbse_viii_hemh1dd_c107_gen079",
+    "section_name": "7.6 Applications of Compound Interest Formula"
   },
   {
     "question_text": "What is the formula to calculate the discount on an article?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen015"
+    "question_id": "cbse_viii_hemh1dd_c107_gen015",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "A product has a marked price of ₹500 and a sale price of ₹450. What is the discount percentage on the product?",
@@ -237,7 +251,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen016"
+    "question_id": "cbse_viii_hemh1dd_c107_gen016",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "When a discount percentage (d%) is given, which of the following expressions correctly represents the sale price?",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen017"
+    "question_id": "cbse_viii_hemh1dd_c107_gen017",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "When estimating a 15% discount on a bill of ₹577.80, which is the first step in the estimation process?",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen018"
+    "question_id": "cbse_viii_hemh1dd_c107_gen018",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "Define 'Discount' and provide its formula.",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen019"
+    "question_id": "cbse_viii_hemh1dd_c107_gen019",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "Explain why the marked price is used as the base when calculating the discount percentage.",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen020"
+    "question_id": "cbse_viii_hemh1dd_c107_gen020",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "What does a 20% discount imply in terms of unitary discount?",
@@ -317,7 +336,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen021"
+    "question_id": "cbse_viii_hemh1dd_c107_gen021",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "Explain the business purpose of offering discounts in a competitive market.",
@@ -331,7 +351,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen022"
+    "question_id": "cbse_viii_hemh1dd_c107_gen022",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "Derive the formula for the sale price when a discount percentage is provided, and use it to calculate the sale price of a product with a marked price of ₹300 and a discount of 12%.",
@@ -345,7 +366,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen023"
+    "question_id": "cbse_viii_hemh1dd_c107_gen023",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "Discuss the use of estimation techniques for calculating discounts quickly. Illustrate your answer by estimating a 20% discount on a bill of ₹589, and explain the reasoning behind rounding off numbers.",
@@ -359,7 +381,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen024"
+    "question_id": "cbse_viii_hemh1dd_c107_gen024",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "A shop offers a 20% discount on a dress marked at ₹120. Calculate the sale price.",
@@ -373,7 +396,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen025"
+    "question_id": "cbse_viii_hemh1dd_c107_gen025",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "A pair of shoes marked at ₹750 is discounted by 20%. Determine the discount amount and the final sale price.",
@@ -387,7 +411,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen026"
+    "question_id": "cbse_viii_hemh1dd_c107_gen026",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "A table with a marked price of ₹15,000 is sold for ₹14,400. Calculate the discount amount and the discount percentage.",
@@ -401,7 +426,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen027"
+    "question_id": "cbse_viii_hemh1dd_c107_gen027",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "An almirah is sold for ₹5,225 after a discount of 5%. Find its marked price.",
@@ -415,7 +441,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_viii_hemh1dd_c107_gen028"
+    "question_id": "cbse_viii_hemh1dd_c107_gen028",
+    "section_name": "7.2 Finding Discounts"
   },
   {
     "question_text": "Find the ratio of the following. (a) Speed of a cycle 15 km per hour to the speed of a scooter 30 km per hour. (b) 5 m to 10 km. (c) 50 paise to ₹ 5.",
@@ -512,7 +539,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen001"
+    "question_id": "cbse_viii_hemh1dd_c107_gen001",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "If 5 oranges are part of a 25 fruit basket, what is the percentage of oranges in the basket?",
@@ -531,7 +559,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen002"
+    "question_id": "cbse_viii_hemh1dd_c107_gen002",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "In the example where the school picnic is planned, what is the total number of persons if there are 18 girls, 12 boys and 2 teachers?",
@@ -550,7 +579,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen003"
+    "question_id": "cbse_viii_hemh1dd_c107_gen003",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "A bus covers a total round trip distance of 110 km and charges at the rate of ₹12 per km. Calculate the total transportation charge.",
@@ -569,7 +599,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen004"
+    "question_id": "cbse_viii_hemh1dd_c107_gen004",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "Define 'ratio' in the context of comparing two quantities.",
@@ -583,7 +614,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen005"
+    "question_id": "cbse_viii_hemh1dd_c107_gen005",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "Explain what a percentage represents and how it is calculated from a fraction.",
@@ -597,7 +629,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen006"
+    "question_id": "cbse_viii_hemh1dd_c107_gen006",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "Using the unitary method, derive how the cost per head is calculated given a total expense of ₹5600 and 32 persons.",
@@ -611,7 +644,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen007"
+    "question_id": "cbse_viii_hemh1dd_c107_gen007",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "In the school picnic example, if 60% of the students are girls and there are 18 girls, calculate the total number of students and the ratio of girls to boys, showing all steps.",
@@ -625,7 +659,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen008"
+    "question_id": "cbse_viii_hemh1dd_c107_gen008",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "Discuss two methods to convert a fraction into a percentage. Provide an example using the fraction 5/25.",
@@ -639,7 +674,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen009"
+    "question_id": "cbse_viii_hemh1dd_c107_gen009",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "A bus goes on a round trip of 55 km each way at a cost of ₹12 per km. Additionally, refreshments cost ₹4280. If there are 30 students on the trip, and 2 teachers join them, calculate the cost per person including both transportation and refreshments. Show a detailed solution.",
@@ -653,7 +689,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen010"
+    "question_id": "cbse_viii_hemh1dd_c107_gen010",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "A restaurant serves a special fruit basket which has apples and oranges in a ratio of 4:1. If the basket contains 50 fruits, determine the number of apples and the percentage of apples in the basket. Show your steps.",
@@ -667,7 +704,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen011"
+    "question_id": "cbse_viii_hemh1dd_c107_gen011",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "In a survey, 90 parents were questioned about the time they spend helping with homework: 50% did not help, 30% helped between ½ to 1½ hours, and 20% helped for more than 1½ hours. Calculate: (a) The total number of parents surveyed, (b) The number who did not help, and (c) The number who helped for more than 1½ hours.",
@@ -681,7 +719,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen012"
+    "question_id": "cbse_viii_hemh1dd_c107_gen012",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "A cake recipe uses ingredients in the ratio of 2:3 (flour: sugar). If a baker has 500 g of sugar, determine the amount of flour needed and the percentage of flour in the total mix, assuming these two ingredients are the only ones used. Provide a step-by-step solution.",
@@ -695,7 +734,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen013"
+    "question_id": "cbse_viii_hemh1dd_c107_gen013",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "Create your own problem that involves calculating ratios and percentages. The problem should include at least two parts and require multi-step reasoning for the solution. Provide the complete problem statement and a detailed solution.",
@@ -709,7 +749,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "02_section_7_1",
-    "question_id": "cbse_viii_hemh1dd_c107_gen014"
+    "question_id": "cbse_viii_hemh1dd_c107_gen014",
+    "section_name": "7.1 Recalling Ratios and Percentages"
   },
   {
     "question_text": "Under compound interest, interest is calculated on which of the following?",
@@ -728,7 +769,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen040"
+    "question_id": "cbse_viii_hemh1dd_c107_gen040",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "After the first year in a compound interest scenario, what becomes the principal for the next year?",
@@ -747,7 +789,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen041"
+    "question_id": "cbse_viii_hemh1dd_c107_gen041",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "Which of the following statements is true when comparing simple interest (S.I.) and compound interest (C.I.) over a period of more than one year?",
@@ -766,7 +809,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen042"
+    "question_id": "cbse_viii_hemh1dd_c107_gen042",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "What is the primary difference between simple interest (S.I.) and compound interest (C.I.)?",
@@ -785,7 +829,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen043"
+    "question_id": "cbse_viii_hemh1dd_c107_gen043",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "Define compound interest and give its basic formula when interest is compounded annually.",
@@ -799,7 +844,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen044"
+    "question_id": "cbse_viii_hemh1dd_c107_gen044",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "Explain why compound interest results in a higher amount than simple interest over the same period.",
@@ -813,7 +859,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen045"
+    "question_id": "cbse_viii_hemh1dd_c107_gen045",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "Calculate the simple interest on a principal of ₹15,000 at a 5% per annum rate for 2 years, and find the total amount at the end of the period.",
@@ -827,7 +874,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen046"
+    "question_id": "cbse_viii_hemh1dd_c107_gen046",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "What is meant by 'compounding annually'?",
@@ -841,7 +889,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen047"
+    "question_id": "cbse_viii_hemh1dd_c107_gen047",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "Derive the general formula for the amount obtained after n years using compound interest when interest is compounded annually.",
@@ -855,7 +904,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen048"
+    "question_id": "cbse_viii_hemh1dd_c107_gen048",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "Compare and analyze the formulas for simple interest (S.I.) and compound interest (C.I.) to show that the compound interest amount is higher than simple interest amount for any period greater than one year.",
@@ -869,7 +919,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen049"
+    "question_id": "cbse_viii_hemh1dd_c107_gen049",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "A sum of ₹20,000 is borrowed at an 8% annual interest rate compounded annually for 2 years. Calculate the interest earned each year and the total compound interest at the end of 2 years.",
@@ -883,7 +934,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen050"
+    "question_id": "cbse_viii_hemh1dd_c107_gen050",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "Calculate the compound interest on an amount of ₹10,000 at 9% per annum compounded annually for 4 years, and find the total amount after 4 years.",
@@ -897,7 +949,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen051"
+    "question_id": "cbse_viii_hemh1dd_c107_gen051",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "A person borrows ₹25,000 at an annual compound interest rate of 12% for 3 years. Calculate the total amount to be repaid at the end of 3 years.",
@@ -911,7 +964,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen052"
+    "question_id": "cbse_viii_hemh1dd_c107_gen052",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "A bank deposit grows from ₹1,000 to ₹1,331 in 3 years under compound interest. Determine the annual rate of interest.",
@@ -925,7 +979,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "07_section_7_4",
-    "question_id": "cbse_viii_hemh1dd_c107_gen053"
+    "question_id": "cbse_viii_hemh1dd_c107_gen053",
+    "section_name": "7.4 Compound Interest"
   },
   {
     "question_text": "The population of a place increased to 54,000 in 2003 at a rate of 5% per annum. (i) Find the population in 2001. (ii) What would be its population in 2005?",
@@ -983,7 +1038,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen029"
+    "question_id": "cbse_viii_hemh1dd_c107_gen029",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "Value Added Tax (VAT) differs from Sales Tax because:",
@@ -1002,7 +1058,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen030"
+    "question_id": "cbse_viii_hemh1dd_c107_gen030",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "Goods and Services Tax (GST) was introduced in India on July 1, 2017. Which of the following statements about GST is true?",
@@ -1021,7 +1078,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen031"
+    "question_id": "cbse_viii_hemh1dd_c107_gen031",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "Define Sales Tax and explain how it is calculated on a product’s selling price.",
@@ -1035,7 +1093,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen032"
+    "question_id": "cbse_viii_hemh1dd_c107_gen032",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "How is Value Added Tax (VAT) incorporated in the price of a product? Provide a brief explanation with an example.",
@@ -1049,7 +1108,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen033"
+    "question_id": "cbse_viii_hemh1dd_c107_gen033",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "A pair of roller skates costs ₹450 and the Sales Tax rate is 5%. Calculate the Sales Tax and total bill amount.",
@@ -1063,7 +1123,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen034"
+    "question_id": "cbse_viii_hemh1dd_c107_gen034",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "Waheeda bought an air cooler for ₹3300 and the price includes a VAT of 10%. Determine the original price of the air cooler before VAT was added.",
@@ -1077,7 +1138,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen035"
+    "question_id": "cbse_viii_hemh1dd_c107_gen035",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "Salim bought an article for ₹784 which included GST of 12%. Calculate the article's original price before GST was added.",
@@ -1091,7 +1153,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen036"
+    "question_id": "cbse_viii_hemh1dd_c107_gen036",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "Two times a number is a 100% increase in the number. If you take half of the number, by how much percent is it a decrease? Justify your answer with a step-by-step explanation.",
@@ -1105,7 +1168,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen037"
+    "question_id": "cbse_viii_hemh1dd_c107_gen037",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "By what percentage is ₹2000 less than ₹2400? Is this the same as the percentage by which ₹2400 is more than ₹2000? Explain your answer with calculations.",
@@ -1119,7 +1183,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen038"
+    "question_id": "cbse_viii_hemh1dd_c107_gen038",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "A product originally priced at an unknown amount is first increased by adding a 5% Sales Tax and then subjected to a 10% discount on the total bill. If the final price after discount is ₹427.50, find the original price of the product.",
@@ -1133,7 +1198,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "05_section_7_3",
-    "question_id": "cbse_viii_hemh1dd_c107_gen039"
+    "question_id": "cbse_viii_hemh1dd_c107_gen039",
+    "section_name": "7.3 Sales Tax/Value Added Tax/Goods and Services Tax"
   },
   {
     "question_text": "During a sale, a shop offered a discount of 10% on the marked prices of all the items. What would a customer have to pay for a pair of jeans marked at ₹1450 and two shirts marked at ₹850 each?",
@@ -1217,7 +1283,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen054"
+    "question_id": "cbse_viii_hemh1dd_c107_gen054",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "If the amount after n years is given by A = P(1 + R/100)^n, which expression correctly represents the compound interest (CI) earned over n years?",
@@ -1236,7 +1303,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen055"
+    "question_id": "cbse_viii_hemh1dd_c107_gen055",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "A student invests ₹8000 at an annual compound interest rate of 4% for 3 years. What will be the final amount?",
@@ -1255,7 +1323,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen056"
+    "question_id": "cbse_viii_hemh1dd_c107_gen056",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Which of the following statements best distinguishes between simple and compound interest?",
@@ -1274,7 +1343,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen057"
+    "question_id": "cbse_viii_hemh1dd_c107_gen057",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Define compound interest and explain the process of compounding using its formula.",
@@ -1288,7 +1358,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen058"
+    "question_id": "cbse_viii_hemh1dd_c107_gen058",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "State the relationship between the amount A, principal P, and compound interest CI.",
@@ -1302,7 +1373,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen059"
+    "question_id": "cbse_viii_hemh1dd_c107_gen059",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "How is the compound interest formula A = P(1+R/100)^n derived from the annual compounding method? Provide a brief explanation.",
@@ -1316,7 +1388,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen060"
+    "question_id": "cbse_viii_hemh1dd_c107_gen060",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Derive the compound interest formula step-by-step by starting with the calculation of simple interest for the first year and show how the formula extends to n years.",
@@ -1330,7 +1403,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen061"
+    "question_id": "cbse_viii_hemh1dd_c107_gen061",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Using the compound interest formula, prove that the compound interest (CI) after n years is given by CI = P[(1+R/100)^n - 1].",
@@ -1344,7 +1418,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen062"
+    "question_id": "cbse_viii_hemh1dd_c107_gen062",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "Calculate the compound interest on ₹12,600 for 2 years at a rate of 10% per annum compounded annually.",
@@ -1358,7 +1433,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen063"
+    "question_id": "cbse_viii_hemh1dd_c107_gen063",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "A principal of ₹5,000 is invested at an interest rate of 5% per annum compounded annually. Find the total amount after 4 years.",
@@ -1372,7 +1448,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen064"
+    "question_id": "cbse_viii_hemh1dd_c107_gen064",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "A sum of ₹2000 is compounded annually at 8% per annum for 3 years. Find the compound interest earned on this amount.",
@@ -1386,7 +1463,8 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen065"
+    "question_id": "cbse_viii_hemh1dd_c107_gen065",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   },
   {
     "question_text": "After 5 years, an investment grows to ₹16,105 when compounded annually at a rate of 7% per annum. Determine the original principal.",
@@ -1400,6 +1478,7 @@
     "source": "generated",
     "chapter_id": "hemh107",
     "section_id": "08_section_7_5",
-    "question_id": "cbse_viii_hemh1dd_c107_gen066"
+    "question_id": "cbse_viii_hemh1dd_c107_gen066",
+    "section_name": "7.5 Deducing a Formula for Compound Interest"
   }
 ]

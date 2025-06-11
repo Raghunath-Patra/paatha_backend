@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen028"
+    "question_id": "cbse_xi_kemh1dd_c113_gen028",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "For any data set, the sum of deviations of all observations from the arithmetic mean is: ",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen029"
+    "question_id": "cbse_xi_kemh1dd_c113_gen029",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "In the context of grouped data, the mid-point of each class interval is used because:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen030"
+    "question_id": "cbse_xi_kemh1dd_c113_gen030",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Why is the mean deviation not subject to further algebraic manipulation?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen031"
+    "question_id": "cbse_xi_kemh1dd_c113_gen031",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Define mean deviation in your own words and explain its use in measuring dispersion.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen032"
+    "question_id": "cbse_xi_kemh1dd_c113_gen032",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "What is the step-deviation method and why is it used when calculating mean and mean deviation for large data sets?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen033"
+    "question_id": "cbse_xi_kemh1dd_c113_gen033",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Derive and explain why the sum of deviations of all observations from their arithmetic mean is zero.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen034"
+    "question_id": "cbse_xi_kemh1dd_c113_gen034",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Prove that the mean of the absolute deviations from any central value is always non-negative and state under what condition it becomes zero.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen035"
+    "question_id": "cbse_xi_kemh1dd_c113_gen035",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Calculate the mean deviation about the mean for the ungrouped data: 4, 7, 8, 9, 10, 12, 13, 17.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen036"
+    "question_id": "cbse_xi_kemh1dd_c113_gen036",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Find the mean deviation about the median for the ungrouped data: 13, 17, 16, 14, 11, 13, 10, 16, 11, 18, 12, 17.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen037"
+    "question_id": "cbse_xi_kemh1dd_c113_gen037",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Given the discrete frequency distribution below, calculate the mean deviation about the mean:\n\nx: 5, 10, 15, 20, 25\nFrequency (f): 7, 4, 6, 3, 5",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen038"
+    "question_id": "cbse_xi_kemh1dd_c113_gen038",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "For the following continuous frequency distribution, compute the mean deviation about the mean:\n\nIncome per day in ₹:\nClass intervals: 0–100, 100–200, 200–300, 300–400, 400–500, 500–600, 600–700, 700–800\nFrequency: 4, 8, 9, 10, 7, 5, 4, 3",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen039"
+    "question_id": "cbse_xi_kemh1dd_c113_gen039",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Calculate the mean deviation about the median for the following grouped data representing marks of girls:\n\nMarks (in intervals): 0–10, 10–20, 20–30, 30–40, 40–50, 50–60\nFrequency: 6, 8, 14, 16, 4, 2\n(Hint: First compute the median using the formula appropriate for continuous data.)",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen040"
+    "question_id": "cbse_xi_kemh1dd_c113_gen040",
+    "section_name": "13.4 Mean Deviation"
   }
 ]

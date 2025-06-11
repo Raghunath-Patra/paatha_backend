@@ -42,7 +42,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen015"
+    "question_id": "cbse_ix_iemh1dd_c104_gen015",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Which operation does NOT leave the solution of a linear equation unchanged?",
@@ -61,7 +62,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen016"
+    "question_id": "cbse_ix_iemh1dd_c104_gen016",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "The equation 5y = 2 can be rewritten in standard form as:",
@@ -80,7 +82,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen017"
+    "question_id": "cbse_ix_iemh1dd_c104_gen017",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "The equation x - 4 = √3 y is equivalent to which of the following standard forms?",
@@ -99,7 +102,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen018"
+    "question_id": "cbse_ix_iemh1dd_c104_gen018",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Write the equation 4 = 5x - 3y in standard form and identify the coefficients a, b, and c.",
@@ -113,7 +117,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen019"
+    "question_id": "cbse_ix_iemh1dd_c104_gen019",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Define a linear equation in two variables and state the conditions on its coefficients.",
@@ -127,7 +132,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen020"
+    "question_id": "cbse_ix_iemh1dd_c104_gen020",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Express the following scenario as a linear equation: In a cricket match, two batsmen scored a total of 176 runs. Represent the individual scores by x and y.",
@@ -141,7 +147,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen021"
+    "question_id": "cbse_ix_iemh1dd_c104_gen021",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Prove that multiplying both sides of a linear equation by a non-zero constant does not change its solution set. Provide step-by-step reasoning.",
@@ -155,7 +162,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen022"
+    "question_id": "cbse_ix_iemh1dd_c104_gen022",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Derive the standard form of the equation x = -5 and explain why it is considered a linear equation in two variables.",
@@ -169,7 +177,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen023"
+    "question_id": "cbse_ix_iemh1dd_c104_gen023",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Write the equation 2x - 5 = 0 in standard form and solve for x.",
@@ -183,7 +192,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen024"
+    "question_id": "cbse_ix_iemh1dd_c104_gen024",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Rearrange the equation 3 = √2 x - 7y into the standard form and identify the coefficients a, b, and c.",
@@ -197,7 +207,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen025"
+    "question_id": "cbse_ix_iemh1dd_c104_gen025",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "In a cricket match, two batsmen together scored 176 runs. If one batsman scored 70 runs, set up a linear equation in two variables representing the situation and determine the score of the other batsman.",
@@ -211,7 +222,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "03_section_4_2",
-    "question_id": "cbse_ix_iemh1dd_c104_gen026"
+    "question_id": "cbse_ix_iemh1dd_c104_gen026",
+    "section_name": "4.2 Linear Equations"
   },
   {
     "question_text": "Which of the following is true for a linear equation in two variables like 2x + 3y = 12?",
@@ -230,7 +242,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen027"
+    "question_id": "cbse_ix_iemh1dd_c104_gen027",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Consider the equation 2x + 3y = 12. Which of the following ordered pairs is NOT a solution to this equation?",
@@ -249,7 +262,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen028"
+    "question_id": "cbse_ix_iemh1dd_c104_gen028",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Which option correctly represents a solution of the equation x + 2y = 6?",
@@ -268,7 +282,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen029"
+    "question_id": "cbse_ix_iemh1dd_c104_gen029",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Define what is meant by a 'solution' of a linear equation in two variables.",
@@ -282,7 +297,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen030"
+    "question_id": "cbse_ix_iemh1dd_c104_gen030",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Explain why the equation 3y + 4 = 0 is written as y = –4/3 for any value of x.",
@@ -296,7 +312,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen031"
+    "question_id": "cbse_ix_iemh1dd_c104_gen031",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Describe a method to generate infinitely many solutions for the equation 2x + 3y = 12.",
@@ -310,7 +327,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen032"
+    "question_id": "cbse_ix_iemh1dd_c104_gen032",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "For the equation 2x + 3y = 12, if x = –5, find the corresponding value of y.",
@@ -324,7 +342,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen033"
+    "question_id": "cbse_ix_iemh1dd_c104_gen033",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Prove that a linear equation in two variables has infinitely many solutions. Provide a detailed explanation using the example 2x + 3y = 12.",
@@ -338,7 +357,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen034"
+    "question_id": "cbse_ix_iemh1dd_c104_gen034",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Using the equation x + 2y = 6, find the solution corresponding to y = 1 using substitution. Then, explain another method to find solutions for this equation.",
@@ -352,7 +372,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen035"
+    "question_id": "cbse_ix_iemh1dd_c104_gen035",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Solve the equation 4x + 3y = 12 by finding two different solutions where one variable is set to zero in each case.",
@@ -366,7 +387,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen036"
+    "question_id": "cbse_ix_iemh1dd_c104_gen036",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "For the equation 2x + 5y = 0, find two different solutions by first setting x = 0 and then choosing x = 1.",
@@ -380,7 +402,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen037"
+    "question_id": "cbse_ix_iemh1dd_c104_gen037",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "For the equation 3y + 4 = 0, demonstrate why every solution is of the form (x, –4/3) by finding two examples with different x values.",
@@ -394,7 +417,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen038"
+    "question_id": "cbse_ix_iemh1dd_c104_gen038",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Find four different ordered pairs that are solutions of the equation x + 2y = 6.",
@@ -408,7 +432,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen039"
+    "question_id": "cbse_ix_iemh1dd_c104_gen039",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Explain the significance of setting one variable to zero when solving linear equations in two variables and how it simplifies finding a solution.",
@@ -422,7 +447,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen040"
+    "question_id": "cbse_ix_iemh1dd_c104_gen040",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Which one of the following options is true, and why? The equation y = 3x + 5 has (i) a unique solution, (ii) only two solutions, (iii) infinitely many solutions.",
@@ -498,7 +524,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen001"
+    "question_id": "cbse_ix_iemh1dd_c104_gen001",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "What is the unique solution of the linear equation x + 1 = 0?",
@@ -517,7 +544,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen002"
+    "question_id": "cbse_ix_iemh1dd_c104_gen002",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Consider the linear equation in two variables: √2·x + √3·y = 0. Which of the following statements is true?",
@@ -536,7 +564,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen003"
+    "question_id": "cbse_ix_iemh1dd_c104_gen003",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "In your own words, define a linear equation in one variable.",
@@ -550,7 +579,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen004"
+    "question_id": "cbse_ix_iemh1dd_c104_gen004",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Explain why a linear equation in one variable always has a unique solution.",
@@ -564,7 +594,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen005"
+    "question_id": "cbse_ix_iemh1dd_c104_gen005",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "How can the solution of a linear equation be graphically represented on a number line?",
@@ -578,7 +609,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen006"
+    "question_id": "cbse_ix_iemh1dd_c104_gen006",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Differentiate between linear equations in one variable and linear equations in two variables.",
@@ -592,7 +624,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen007"
+    "question_id": "cbse_ix_iemh1dd_c104_gen007",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Prove that a linear equation in one variable always has a unique solution by isolating the variable.",
@@ -606,7 +639,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen008"
+    "question_id": "cbse_ix_iemh1dd_c104_gen008",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Discuss and prove the conditions for the existence of solutions for linear equations in two variables. Also, describe how the solution is represented on the Cartesian plane.",
@@ -620,7 +654,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen009"
+    "question_id": "cbse_ix_iemh1dd_c104_gen009",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Find the unique solution for the linear equation: x + √2 = 0.",
@@ -634,7 +669,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen010"
+    "question_id": "cbse_ix_iemh1dd_c104_gen010",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Solve for x in the equation: 2x - √2 = 0.",
@@ -648,7 +684,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen011"
+    "question_id": "cbse_ix_iemh1dd_c104_gen011",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "For the linear equation in two variables: 2x - 3y = 6, find the value of y when x = 5 and plot the corresponding point on the Cartesian plane.",
@@ -662,7 +699,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen012"
+    "question_id": "cbse_ix_iemh1dd_c104_gen012",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Determine the equation of the line passing through the points (1, 2) and (3, 6) and verify that it is a linear equation.",
@@ -676,7 +714,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen013"
+    "question_id": "cbse_ix_iemh1dd_c104_gen013",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Solve the equation √2·x + √3 = 0 for x and represent the solution on a number line.",
@@ -690,7 +729,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen014"
+    "question_id": "cbse_ix_iemh1dd_c104_gen014",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Which of the following equations is a linear equation in two variables?",
@@ -709,7 +749,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen041"
+    "question_id": "cbse_ix_iemh1dd_c104_gen041",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Select the option that best describes the number of solutions of any linear equation in two variables.",
@@ -728,7 +769,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen042"
+    "question_id": "cbse_ix_iemh1dd_c104_gen042",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Which statement correctly describes the graph of the equation x = 5?",
@@ -747,7 +789,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen043"
+    "question_id": "cbse_ix_iemh1dd_c104_gen043",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "In the context of linear equations, what does the equation y = -3 represent?",
@@ -766,7 +809,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen044"
+    "question_id": "cbse_ix_iemh1dd_c104_gen044",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Define a linear equation in two variables and provide an example.",
@@ -780,7 +824,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen045"
+    "question_id": "cbse_ix_iemh1dd_c104_gen045",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Explain in your own words why every point on the graph of a linear equation in two variables is a solution to the equation.",
@@ -794,7 +839,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen046"
+    "question_id": "cbse_ix_iemh1dd_c104_gen046",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Briefly describe the graph of the equation y = mx, and explain its significance regarding the origin.",
@@ -808,7 +854,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen047"
+    "question_id": "cbse_ix_iemh1dd_c104_gen047",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Determine the equation that represents a line parallel to the y-axis passing through x = -2, and explain why its graph has that orientation.",
@@ -822,7 +869,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen048"
+    "question_id": "cbse_ix_iemh1dd_c104_gen048",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Prove that a linear equation in two variables has infinitely many solutions.",
@@ -836,7 +884,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen049"
+    "question_id": "cbse_ix_iemh1dd_c104_gen049",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Discuss why the equation y = mx represents a line passing through the origin and analyze the impact of the value of m on the line's orientation.",
@@ -850,7 +899,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen050"
+    "question_id": "cbse_ix_iemh1dd_c104_gen050",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Solve for y in the equation 3x + 4y - 12 = 0 when x = 2, and verify that the resulting pair (2, y) is indeed a solution.",
@@ -864,7 +914,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen051"
+    "question_id": "cbse_ix_iemh1dd_c104_gen051",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "For the equation 5x - 2y + 10 = 0, find the value of y when x = -2 and show your working steps.",
@@ -878,7 +929,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen052"
+    "question_id": "cbse_ix_iemh1dd_c104_gen052",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Verify whether the point (3, -1) is a solution to the linear equation 2x + y - 5 = 0. Include all necessary steps in your verification.",
@@ -892,7 +944,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen053"
+    "question_id": "cbse_ix_iemh1dd_c104_gen053",
+    "section_name": "4.4 Summary"
   },
   {
     "question_text": "Express the equation 4x + 8y - 16 = 0 in the slope-intercept form and interpret the meaning of its slope and y-intercept.",
@@ -906,6 +959,7 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "07_section_4_4",
-    "question_id": "cbse_ix_iemh1dd_c104_gen054"
+    "question_id": "cbse_ix_iemh1dd_c104_gen054",
+    "section_name": "4.4 Summary"
   }
 ]

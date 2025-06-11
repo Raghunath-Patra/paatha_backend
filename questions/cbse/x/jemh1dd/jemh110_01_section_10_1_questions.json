@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen001"
+    "question_id": "cbse_x_jemh1dd_c110_gen001",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Which term describes a line that cuts through a circle, intersecting it at two points?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen002"
+    "question_id": "cbse_x_jemh1dd_c110_gen002",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Given a circle and a line that does not intersect it, what is this line called with respect to the circle?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen003"
+    "question_id": "cbse_x_jemh1dd_c110_gen003",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Define a tangent to a circle and state one key property that distinguishes it from a secant.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen004"
+    "question_id": "cbse_x_jemh1dd_c110_gen004",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Explain what is meant by a 'secant' of a circle.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen005"
+    "question_id": "cbse_x_jemh1dd_c110_gen005",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Describe the different positions a line can have with respect to a circle.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen006"
+    "question_id": "cbse_x_jemh1dd_c110_gen006",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Prove that a line that touches a circle at exactly one point does not have any other common point with the circle.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen007"
+    "question_id": "cbse_x_jemh1dd_c110_gen007",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Given a circle with centre O and a point P outside the circle, explain the method to construct a tangent from P to the circle.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen008"
+    "question_id": "cbse_x_jemh1dd_c110_gen008",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "For a circle with equation x² + y² = 25, determine the nature of the intersection with the line y = 2x + 3 and provide the points of intersection if they exist.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen009"
+    "question_id": "cbse_x_jemh1dd_c110_gen009",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Find the value(s) of c for which the line y = 3x + c is tangent to the circle with equation x² + y² = 49.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen010"
+    "question_id": "cbse_x_jemh1dd_c110_gen010",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "A circle has the equation (x - 2)² + (y + 1)² = 36. Determine if the line y = (1/2)x - 2 is a tangent, secant, or non-intersecting line with respect to the circle.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen011"
+    "question_id": "cbse_x_jemh1dd_c110_gen011",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "For a circle with centre at (0, 0) and radius 10, determine the condition on the line given by y = mx + 5 to be a tangent to the circle. Find the value(s) of m if it is tangent.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "jemh110",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_x_jemh1dd_c110_gen012"
+    "question_id": "cbse_x_jemh1dd_c110_gen012",
+    "section_name": "10.1 Introduction"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "10.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "10.2 Tangent to a Circle"
+    },
+    {
+      "number": 3,
+      "name": "10.3 Number of Tangents from a Point on a Circle"
+    },
+    {
+      "number": 4,
+      "name": "10.4 Summary"
+    }
+  ]
+}

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen037"
+    "question_id": "cbse_xii_leph1dd_c104_gen037",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "In the motion of a charged particle in a magnetic field, if the entire velocity is perpendicular to the field, which of the following equations correctly equates the centripetal force with the magnetic force?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen038"
+    "question_id": "cbse_xii_leph1dd_c104_gen038",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "What is the expression for the frequency (ν) of a charged particle undergoing circular motion in a uniform magnetic field in terms of its charge (q), magnetic field (B), and mass (m)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen039"
+    "question_id": "cbse_xii_leph1dd_c104_gen039",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Which component of a charged particle's velocity remains unaffected when the particle moves in a uniform magnetic field?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen040"
+    "question_id": "cbse_xii_leph1dd_c104_gen040",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "In helical motion, what does the 'pitch' of the helix represent?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen041"
+    "question_id": "cbse_xii_leph1dd_c104_gen041",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Explain why the magnetic force cannot do work on a charged particle. Provide your answer in a brief paragraph.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen042"
+    "question_id": "cbse_xii_leph1dd_c104_gen042",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Define helical motion of a charged particle in a uniform magnetic field and describe the role of the particle's velocity components in this motion.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen043"
+    "question_id": "cbse_xii_leph1dd_c104_gen043",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "What is the formula for the pitch of the helical path and what physical quantities does it depend on?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen044"
+    "question_id": "cbse_xii_leph1dd_c104_gen044",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Derive the expression for the radius of the circular path (r = m·v/(q·B)) for a charged particle moving perpendicular to a uniform magnetic field. Provide all necessary steps in your derivation.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen045"
+    "question_id": "cbse_xii_leph1dd_c104_gen045",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Discuss why the frequency of rotation of a charged particle in a cyclotron is independent of its speed, and explain the practical implications of this property in the design of cyclotrons.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen046"
+    "question_id": "cbse_xii_leph1dd_c104_gen046",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "True or False: A charged particle moving in a magnetic field can have its speed increased solely by the magnetic force.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen047"
+    "question_id": "cbse_xii_leph1dd_c104_gen047",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "True or False: In a uniform magnetic field, a charged particle with a velocity that is completely perpendicular to the field will follow a perfect circular path.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen048"
+    "question_id": "cbse_xii_leph1dd_c104_gen048",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "An electron (mass = 9×10^-31 kg, charge = 1.6×10^-19 C) is moving with a speed of 3×10^7 m/s in a magnetic field of 6×10^-4 T. Calculate the radius of the circular path and the frequency of rotation. Also, determine its kinetic energy in keV.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen049"
+    "question_id": "cbse_xii_leph1dd_c104_gen049",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "An ion with a mass of 3×10^-26 kg and a charge of 2×10^-19 C enters a uniform magnetic field of 0.01 T with a speed of 5×10^4 m/s, moving completely perpendicular to the field. Determine the radius of its circular path and its angular frequency.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen050"
+    "question_id": "cbse_xii_leph1dd_c104_gen050",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "A proton (mass = 1.67×10^-27 kg, charge = 1.6×10^-19 C) enters a uniform magnetic field of 0.2 T with a velocity of 1×10^6 m/s at an angle of 30° with respect to the field direction. Calculate the radius of the circular component of its motion and the pitch of the resulting helix.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen051"
+    "question_id": "cbse_xii_leph1dd_c104_gen051",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "For a particle in a cyclotron operating in a uniform magnetic field of 0.5 T with a measured rotation frequency of 10 MHz, determine the charge-to-mass ratio (q/m) of the particle.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen052"
+    "question_id": "cbse_xii_leph1dd_c104_gen052",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "An electron beam is bent in a magnetic field forming a circular arc with a radius of 0.1 m. Given that the electrons have a speed of 2×10^7 m/s, calculate the magnitude of the magnetic field required (electron mass = 9×10^-31 kg, charge = 1.6×10^-19 C).",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen053"
+    "question_id": "cbse_xii_leph1dd_c104_gen053",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "A charged particle in a magnetic field of 0.05 T follows a helical path with a pitch of 0.02 m and a rotation frequency of 2 MHz. If the radius of the circular part of the motion is 0.005 m, calculate the component of the velocity parallel to the magnetic field and the total speed of the particle.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen054"
+    "question_id": "cbse_xii_leph1dd_c104_gen054",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "Explain how decomposing a charged particle’s velocity into components parallel and perpendicular to the magnetic field leads to a helical path. Compare this motion with the case where the velocity is entirely perpendicular to the field.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen055"
+    "question_id": "cbse_xii_leph1dd_c104_gen055",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   },
   {
     "question_text": "What is the physical significance of the cyclotron frequency being independent of the particle's energy? Briefly describe how this property benefits particle acceleration techniques.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "03_section_4_3",
-    "question_id": "cbse_xii_leph1dd_c104_gen056"
+    "question_id": "cbse_xii_leph1dd_c104_gen056",
+    "section_name": "4.3 MOTION IN A MAGNETIC FIELD"
   }
 ]

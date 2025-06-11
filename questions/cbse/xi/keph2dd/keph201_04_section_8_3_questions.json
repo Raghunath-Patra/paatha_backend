@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen094"
+    "question_id": "cbse_xi_keph2dd_c201_gen094",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "In the relation stress = k × strain, what does the constant k represent?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen095"
+    "question_id": "cbse_xi_keph2dd_c201_gen095",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "For small deformations, stress and strain are in which type of relationship?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen096"
+    "question_id": "cbse_xi_keph2dd_c201_gen096",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Why is Hooke's law considered an empirical law?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen097"
+    "question_id": "cbse_xi_keph2dd_c201_gen097",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Which statement accurately describes the applicability of Hooke's law?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen098"
+    "question_id": "cbse_xi_keph2dd_c201_gen098",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Define Hooke's law and state its mathematical expression as given in the textbook section.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen099"
+    "question_id": "cbse_xi_keph2dd_c201_gen099",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "What does the modulus of elasticity represent in the context of Hooke's law?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen100"
+    "question_id": "cbse_xi_keph2dd_c201_gen100",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Briefly explain why some materials do not obey the linear relationship described by Hooke's law.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen101"
+    "question_id": "cbse_xi_keph2dd_c201_gen101",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Discuss the limitations of Hooke's law for describing material behavior when deformation exceeds the elastic range.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen102"
+    "question_id": "cbse_xi_keph2dd_c201_gen102",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Evaluate how variations in the modulus of elasticity (k) affect the mechanical properties of a material according to Hooke's law.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen103"
+    "question_id": "cbse_xi_keph2dd_c201_gen103",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "True or False: Hooke's law is valid for all materials regardless of the magnitude of deformation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen104"
+    "question_id": "cbse_xi_keph2dd_c201_gen104",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "True or False: The stress-strain relationship described by Hooke's law remains linear for all loading conditions in a material.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen105"
+    "question_id": "cbse_xi_keph2dd_c201_gen105",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A material experiences a strain of 0.02. If its modulus of elasticity k is 500 N/m², calculate the stress developed in the material.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen106"
+    "question_id": "cbse_xi_keph2dd_c201_gen106",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A spring that obeys Hooke's law has a force constant (k) of 100 N/m. Calculate the force required to produce a displacement of 0.15 m.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen107"
+    "question_id": "cbse_xi_keph2dd_c201_gen107",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A metal rod has a modulus of elasticity of 210 GPa and is subjected to a tensile strain of 0.001. Calculate the resulting stress in the rod.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen108"
+    "question_id": "cbse_xi_keph2dd_c201_gen108",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A spring with a force constant of 150 N/m is stretched by 0.08 m. Calculate the elastic potential energy stored in the spring.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen109"
+    "question_id": "cbse_xi_keph2dd_c201_gen109",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A material sample adheres to Hooke's law in its elastic range. If a tensile stress of 50 N/m² produces a strain of 0.005, determine the modulus of elasticity for the material.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen110"
+    "question_id": "cbse_xi_keph2dd_c201_gen110",
+    "section_name": "8.3 HOOKE'S LAW"
   }
 ]

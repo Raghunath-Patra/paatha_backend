@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen001"
+    "question_id": "cbse_ix_iemh1dd_c104_gen001",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "What is the unique solution of the linear equation x + 1 = 0?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen002"
+    "question_id": "cbse_ix_iemh1dd_c104_gen002",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Consider the linear equation in two variables: √2·x + √3·y = 0. Which of the following statements is true?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen003"
+    "question_id": "cbse_ix_iemh1dd_c104_gen003",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "In your own words, define a linear equation in one variable.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen004"
+    "question_id": "cbse_ix_iemh1dd_c104_gen004",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Explain why a linear equation in one variable always has a unique solution.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen005"
+    "question_id": "cbse_ix_iemh1dd_c104_gen005",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "How can the solution of a linear equation be graphically represented on a number line?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen006"
+    "question_id": "cbse_ix_iemh1dd_c104_gen006",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Differentiate between linear equations in one variable and linear equations in two variables.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen007"
+    "question_id": "cbse_ix_iemh1dd_c104_gen007",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Prove that a linear equation in one variable always has a unique solution by isolating the variable.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen008"
+    "question_id": "cbse_ix_iemh1dd_c104_gen008",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Discuss and prove the conditions for the existence of solutions for linear equations in two variables. Also, describe how the solution is represented on the Cartesian plane.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen009"
+    "question_id": "cbse_ix_iemh1dd_c104_gen009",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Find the unique solution for the linear equation: x + √2 = 0.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen010"
+    "question_id": "cbse_ix_iemh1dd_c104_gen010",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Solve for x in the equation: 2x - √2 = 0.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen011"
+    "question_id": "cbse_ix_iemh1dd_c104_gen011",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "For the linear equation in two variables: 2x - 3y = 6, find the value of y when x = 5 and plot the corresponding point on the Cartesian plane.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen012"
+    "question_id": "cbse_ix_iemh1dd_c104_gen012",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Determine the equation of the line passing through the points (1, 2) and (3, 6) and verify that it is a linear equation.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen013"
+    "question_id": "cbse_ix_iemh1dd_c104_gen013",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Solve the equation √2·x + √3 = 0 for x and represent the solution on a number line.",
@@ -208,6 +221,7 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "02_section_4_1",
-    "question_id": "cbse_ix_iemh1dd_c104_gen014"
+    "question_id": "cbse_ix_iemh1dd_c104_gen014",
+    "section_name": "4.1 Introduction"
   }
 ]

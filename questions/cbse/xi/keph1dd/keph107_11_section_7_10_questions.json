@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen342"
+    "question_id": "cbse_xi_keph1dd_c107_gen342",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Which of the following correctly defines the gravitational potential energy of a satellite at a distance (R_E + h) from the Earth's center?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen343"
+    "question_id": "cbse_xi_keph1dd_c107_gen343",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "In a circular orbital motion, how does the magnitude of the kinetic energy compare with that of the potential energy?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen344"
+    "question_id": "cbse_xi_keph1dd_c107_gen344",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "For a satellite in a circular orbit, the total energy is given by E = - G m M_E/(2 (R_E + h)). What does the negative sign indicate?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen345"
+    "question_id": "cbse_xi_keph1dd_c107_gen345",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "How is the change in total energy (Delta E) related to the changes in kinetic (Delta K) and potential (Delta V) energies when transferring from one circular orbit to another?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen346"
+    "question_id": "cbse_xi_keph1dd_c107_gen346",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "State why the total energy of a satellite in a circular orbit is always negative.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen347"
+    "question_id": "cbse_xi_keph1dd_c107_gen347",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Explain the procedure for calculating the change in energy required to transfer a satellite from one circular orbit to another.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen348"
+    "question_id": "cbse_xi_keph1dd_c107_gen348",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Define gravitational potential energy for an orbiting satellite and explain the significance of choosing the potential energy at infinity as zero.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen349"
+    "question_id": "cbse_xi_keph1dd_c107_gen349",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Derive the expression for the total energy E of a satellite in a circular orbit, starting from the expressions for kinetic and potential energies.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen350"
+    "question_id": "cbse_xi_keph1dd_c107_gen350",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Discuss the changes in kinetic and potential energies when a satellite is transferred from a lower circular orbit to a higher circular orbit.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen351"
+    "question_id": "cbse_xi_keph1dd_c107_gen351",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "True or False: The gravitational potential energy of a satellite is positive when measured relative to a point at infinity.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen352"
+    "question_id": "cbse_xi_keph1dd_c107_gen352",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "True or False: For a satellite in a circular orbit, the magnitude of the potential energy is exactly twice the kinetic energy.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen353"
+    "question_id": "cbse_xi_keph1dd_c107_gen353",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A 400 kg satellite is initially in a circular orbit of radius 2 R_E (where R_E is the Earth’s radius). It is then transferred to a circular orbit of radius 4 R_E. Using the formulas E = - G m M_E/(2 (R_E + h)), calculate the change in total energy required for this maneuver.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen354"
+    "question_id": "cbse_xi_keph1dd_c107_gen354",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Calculate the orbital kinetic energy of a 500 kg satellite orbiting at an altitude of 300 km above the Earth’s surface. Assume the Earth’s radius R_E is 6.37 x 10^6 m and g = 9.81 m/s^2.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen355"
+    "question_id": "cbse_xi_keph1dd_c107_gen355",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "Calculate the gravitational potential energy of a 1000 kg satellite in a circular orbit with an altitude of 400 km above Earth's surface. Use R_E = 6.37 x 10^6 m and g = 9.81 m/s^2.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen356"
+    "question_id": "cbse_xi_keph1dd_c107_gen356",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "For a satellite of mass 600 kg in a circular orbit at a distance of 2 R_E from the Earth's center, calculate its total orbital energy using the formula E = - G m M_E/(2 (R_E + h)).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen357"
+    "question_id": "cbse_xi_keph1dd_c107_gen357",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   },
   {
     "question_text": "A satellite initially in a circular orbit of radius R is raised to a circular orbit of radius 2R. Derive the expression for the change in its kinetic energy during this process.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "11_section_7_10",
-    "question_id": "cbse_xi_keph1dd_c107_gen358"
+    "question_id": "cbse_xi_keph1dd_c107_gen358",
+    "section_name": "7.10 ENERGY OF AN ORBITING SATELLITE"
   }
 ]

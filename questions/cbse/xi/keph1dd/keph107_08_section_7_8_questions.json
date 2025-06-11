@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen249"
+    "question_id": "cbse_xi_keph1dd_c107_gen249",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "The derivation of escape speed primarily uses which physical principle?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen250"
+    "question_id": "cbse_xi_keph1dd_c107_gen250",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Using the relation g = GM_E/R_E², which expression below represents the escape speed from a planet's surface?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen251"
+    "question_id": "cbse_xi_keph1dd_c107_gen251",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "What is the approximate escape speed from Earth as derived from the relations in the section?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen252"
+    "question_id": "cbse_xi_keph1dd_c107_gen252",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "When considering an object launched from another celestial body like the Moon, which parameters must be modified in the escape speed equation?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen253"
+    "question_id": "cbse_xi_keph1dd_c107_gen253",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "State the conservation of energy equation used to derive the escape speed from a planet’s surface.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen254"
+    "question_id": "cbse_xi_keph1dd_c107_gen254",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Using the conservation of energy, derive the expression for the minimum speed required for an object to escape from a planet when launched from its surface.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen255"
+    "question_id": "cbse_xi_keph1dd_c107_gen255",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Explain the significance of the 'neutral point' in Example 7.4 and how it affects the required initial speed of the projectile.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen256"
+    "question_id": "cbse_xi_keph1dd_c107_gen256",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Describe how the escape speed from the Moon differs from that of Earth and provide a brief explanation based on the derived formulas.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen257"
+    "question_id": "cbse_xi_keph1dd_c107_gen257",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Derive the escape speed equation V_min = sqrt(2gR_E) starting from the energy conservation equation and show all steps in your derivation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen258"
+    "question_id": "cbse_xi_keph1dd_c107_gen258",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Analyze how energy transforms from kinetic to potential energy for a projectile launched from Earth with escape speed, and explain why the final kinetic energy at infinity is zero.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen259"
+    "question_id": "cbse_xi_keph1dd_c107_gen259",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Evaluate the assumptions used in deriving the escape speed equation and discuss any limitations these assumptions may impose.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen260"
+    "question_id": "cbse_xi_keph1dd_c107_gen260",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "True or False: The escape speed for an object launched from the Moon is greater than that from Earth due to the Moon's lower mass.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen261"
+    "question_id": "cbse_xi_keph1dd_c107_gen261",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "True or False: In deriving the escape speed, the conservation of mechanical energy involves equating the sum of kinetic and potential energies at the launching point with that at infinity.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen262"
+    "question_id": "cbse_xi_keph1dd_c107_gen262",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "True or False: When an object is launched with exactly the escape speed, its kinetic energy remains constant throughout its journey until it reaches infinity.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen263"
+    "question_id": "cbse_xi_keph1dd_c107_gen263",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Given g = 9.8 m/s² and R_E = 6.4 × 10^6 m, calculate the escape speed from Earth. Show all steps in your calculation.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen264"
+    "question_id": "cbse_xi_keph1dd_c107_gen264",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Using the escape speed formula, calculate the escape speed for the Moon if its surface gravitational acceleration is 1.62 m/s² and its radius is 1.74 × 10^6 m. Provide your answer in km/s.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen265"
+    "question_id": "cbse_xi_keph1dd_c107_gen265",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "In Example 7.4, two spheres of masses M and 4M with radius R are separated by 6R. Verify that the neutral point, where gravitational forces cancel, is located 2R from the center of the sphere with mass M.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen266"
+    "question_id": "cbse_xi_keph1dd_c107_gen266",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Derive the expression for the minimum initial speed required for a projectile to reach the neutral point in Example 7.4, given that the energy conservation equation leads to ½ m v² - (GMm/R + 4GMm/(5R)) = - (GMm/(2R) + GMm/R).",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen267"
+    "question_id": "cbse_xi_keph1dd_c107_gen267",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "For the projectile in Example 7.4, calculate the total mechanical energy at the surface of the sphere with mass M, given that its kinetic energy is ½ m v² and its gravitational potential energies are -GMm/R and -4GMm/(5R). Express your answer in terms of GMm and R.",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen268"
+    "question_id": "cbse_xi_keph1dd_c107_gen268",
+    "section_name": "7.8 ESCAPE SPEED"
   },
   {
     "question_text": "Assuming an object is launched from the surface of Earth with exactly the escape speed, calculate its total mechanical energy at infinity. Explain your reasoning.",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "08_section_7_8",
-    "question_id": "cbse_xi_keph1dd_c107_gen269"
+    "question_id": "cbse_xi_keph1dd_c107_gen269",
+    "section_name": "7.8 ESCAPE SPEED"
   }
 ]

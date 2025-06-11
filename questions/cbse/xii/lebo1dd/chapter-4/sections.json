@@ -1,0 +1,36 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "4.1 MENDEL'S LAWS OF INHERITANCE"
+    },
+    {
+      "number": 2,
+      "name": "4.2 INHERITANCE OF ONE GENE"
+    },
+    {
+      "number": 3,
+      "name": "4.3 INHERITANCE OF TWO GENES"
+    },
+    {
+      "number": 4,
+      "name": "4.4 POLYGENIC INHERITANCE"
+    },
+    {
+      "number": 5,
+      "name": "4.5 PLEIOTROPY"
+    },
+    {
+      "number": 6,
+      "name": "4.6 SEX DETERMINATION"
+    },
+    {
+      "number": 7,
+      "name": "4.7 MUTATION"
+    },
+    {
+      "number": 8,
+      "name": "4.8 GENETIC DISORDERS"
+    }
+  ]
+}

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen108"
+    "question_id": "cbse_xi_keph2dd_c205_gen108",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "In the derivation of the mean free path, why are the other molecules initially assumed to be at rest?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen109"
+    "question_id": "cbse_xi_keph2dd_c205_gen109",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "What mathematical expression represents the collision cross-sectional area for a molecule of diameter d?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen110"
+    "question_id": "cbse_xi_keph2dd_c205_gen110",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "At constant temperature and pressure, if the number density n of a gas increases, how does the mean free path change?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen111"
+    "question_id": "cbse_xi_keph2dd_c205_gen111",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Using a more exact treatment that accounts for the relative motion of molecules, the mean free path expression is modified by a factor. What is this factor?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen112"
+    "question_id": "cbse_xi_keph2dd_c205_gen112",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Explain the physical significance of the volume swept out by a molecule in time Δt with respect to collision frequency.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen113"
+    "question_id": "cbse_xi_keph2dd_c205_gen113",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "What is the role of the factor √2 in the expression for the mean free path?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen114"
+    "question_id": "cbse_xi_keph2dd_c205_gen114",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "State the assumptions made in deriving the mean free path formula as presented in the section.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen115"
+    "question_id": "cbse_xi_keph2dd_c205_gen115",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "How do molecular speeds and collisions in a gas relate to its rate of diffusion?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen116"
+    "question_id": "cbse_xi_keph2dd_c205_gen116",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Discuss how the concept of mean free path helps in understanding the behavior of gases confined in a container and its effect on macroscopic properties such as viscosity and heat conductivity.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen117"
+    "question_id": "cbse_xi_keph2dd_c205_gen117",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Critically analyze the limitations of the derived formula for the mean free path. Include in your answer the assumptions made and any factors that might affect its accuracy in real gas systems.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen118"
+    "question_id": "cbse_xi_keph2dd_c205_gen118",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "True or False: The mean free path of a molecule is directly proportional to the number density of the gas.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen119"
+    "question_id": "cbse_xi_keph2dd_c205_gen119",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "True or False: In a highly evacuated tube, the mean free path can be comparable to the length of the tube.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen120"
+    "question_id": "cbse_xi_keph2dd_c205_gen120",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "True or False: The average distance between collisions (mean free path) is independent of the molecular size.",
@@ -233,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen121"
+    "question_id": "cbse_xi_keph2dd_c205_gen121",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Using the formula l = 1/(√2 n π d2), calculate the mean free path for air molecules at standard temperature and pressure (STP) given n = 2.7×10^25 m^-3 and d = 2×10^-10 m. Provide the answer in meters.",
@@ -247,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen122"
+    "question_id": "cbse_xi_keph2dd_c205_gen122",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Given the mean free path l and the average molecular speed v̄ for air, with v̄ = 485 m/s, calculate the average time between collisions (τ) using τ = l / v̄. Use l = 2.9×10^-7 m. Provide your answer in seconds.",
@@ -261,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen123"
+    "question_id": "cbse_xi_keph2dd_c205_gen123",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "For water vapour at 373 K, assume the number density n decreases in proportion to the temperature compared to STP. If n at STP is 2.7×10^25 m^-3 and at 373 K it is 2.0×10^25 m^-3, calculate the mean free path using l = 1/(√2 n π d2) with d = 2×10^-10 m.",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen124"
+    "question_id": "cbse_xi_keph2dd_c205_gen124",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "If the diameter of a gas molecule doubles while the number density remains constant, by what factor does the mean free path change, based on the relation l ∝ 1/(d2)?",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen125"
+    "question_id": "cbse_xi_keph2dd_c205_gen125",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Consider a low density gas with number density n = 1.0×10^20 m^-3 and molecular diameter d = 3.0×10^-10 m. Calculate the mean free path using the simplified formula l = 1/(n π d2). Then, briefly comment on how including the √2 factor would change the result.",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen126"
+    "question_id": "cbse_xi_keph2dd_c205_gen126",
+    "section_name": "12.7 MEAN FREE PATH"
   },
   {
     "question_text": "Derive and calculate the number of collisions per second for a single air molecule at STP using the expression collision rate = √2 n π d2 v̄, given n = 2.7×10^25 m^-3, d = 2×10^-10 m, and v̄ = 485 m/s.",
@@ -317,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph205",
     "section_id": "07_section_12_7",
-    "question_id": "cbse_xi_keph2dd_c205_gen127"
+    "question_id": "cbse_xi_keph2dd_c205_gen127",
+    "section_name": "12.7 MEAN FREE PATH"
   }
 ]

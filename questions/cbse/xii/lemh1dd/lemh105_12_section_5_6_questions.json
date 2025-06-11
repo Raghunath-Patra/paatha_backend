@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen073"
+    "question_id": "cbse_xii_lemh1dd_c105_gen073",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "Given the parametric equations x = a cos θ and y = a sin θ, what is the value of dy/dx?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen074"
+    "question_id": "cbse_xii_lemh1dd_c105_gen074",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "In the formula dy/dx = (dy/dt)/(dx/dt) for a parametric curve, which condition must be satisfied?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen075"
+    "question_id": "cbse_xii_lemh1dd_c105_gen075",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "For the parametric equations x = a(θ + sin θ) and y = a(1 - cos θ), what is the expression for dy/dx in terms of θ?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen076"
+    "question_id": "cbse_xii_lemh1dd_c105_gen076",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "Define the term 'parametric representation' of a curve.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen077"
+    "question_id": "cbse_xii_lemh1dd_c105_gen077",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "State the chain rule used to differentiate functions given in parametric form.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen078"
+    "question_id": "cbse_xii_lemh1dd_c105_gen078",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "Explain why the derivative dy/dx for a parametric curve can be expressed solely in terms of the parameter without involving x and y directly.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen079"
+    "question_id": "cbse_xii_lemh1dd_c105_gen079",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "Why is it necessary to require that dx/dt ≠ 0 when calculating dy/dx for a curve given in parametric form?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen080"
+    "question_id": "cbse_xii_lemh1dd_c105_gen080",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "Derive the expression for dy/dx for a curve given in parametric form x = f(t) and y = g(t) using the chain rule, and illustrate your derivation with an example.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen081"
+    "question_id": "cbse_xii_lemh1dd_c105_gen081",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "Given the parametric equations x = at² and y = 2at, derive the expression for dy/dx step-by-step. Also, discuss any restrictions on the parameter t.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen082"
+    "question_id": "cbse_xii_lemh1dd_c105_gen082",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "Find dy/dx for the curve defined by x = 3 cosθ and y = 3 sinθ.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen083"
+    "question_id": "cbse_xii_lemh1dd_c105_gen083",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "For the parametric equations x = 2t² and y = 4t, compute dy/dx.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen084"
+    "question_id": "cbse_xii_lemh1dd_c105_gen084",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "For the curve defined by x = a cos³θ and y = a sin³θ, compute dy/dx in terms of θ and express your answer in a form that relates y and x.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen085"
+    "question_id": "cbse_xii_lemh1dd_c105_gen085",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "For the curve defined by x = a(θ + sinθ) and y = a(1 - cosθ), determine the value of dy/dx at θ = π/3.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen086"
+    "question_id": "cbse_xii_lemh1dd_c105_gen086",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   },
   {
     "question_text": "Find the derivative dy/dx for the curve defined by x = 5t - t³ and y = 3t².",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "lemh105",
     "section_id": "12_section_5_6",
-    "question_id": "cbse_xii_lemh1dd_c105_gen087"
+    "question_id": "cbse_xii_lemh1dd_c105_gen087",
+    "section_name": "5.6 Derivatives of Functions in Parametric Forms"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen192"
+    "question_id": "cbse_xi_keph1dd_c106_gen192",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Which relationship correctly connects the linear velocity v of a particle to its angular velocity ω and the perpendicular distance r from the axis of rotation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen193"
+    "question_id": "cbse_xi_keph1dd_c106_gen193",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "For a particle on the axis of rotation in a rigid body, what is its linear velocity?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen194"
+    "question_id": "cbse_xi_keph1dd_c106_gen194",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "For a rigid body in pure rotation about a fixed axis, which of the following is always true?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen195"
+    "question_id": "cbse_xi_keph1dd_c106_gen195",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Which statement best describes the vector nature of angular velocity for a rotation about a fixed axis?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen196"
+    "question_id": "cbse_xi_keph1dd_c106_gen196",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Define angular acceleration and provide its mathematical expression as used in rotational motion.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen197"
+    "question_id": "cbse_xi_keph1dd_c106_gen197",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain the relation v = ω x r and describe the directions of the vectors involved.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen198"
+    "question_id": "cbse_xi_keph1dd_c106_gen198",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Discuss what happens to the direction of the angular velocity vector ω when the sense of rotation of the rigid body changes.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen199"
+    "question_id": "cbse_xi_keph1dd_c106_gen199",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "What is the significance of the vector product in the equation v = ω x r in rotational motion?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen200"
+    "question_id": "cbse_xi_keph1dd_c106_gen200",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain in detail the vector nature of angular velocity and how it affects the linear velocity of a particle in a rotating rigid body.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen201"
+    "question_id": "cbse_xi_keph1dd_c106_gen201",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Discuss and compare pure translation and pure rotation in a rigid body. Explain how angular velocity is used to characterize pure rotation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen202"
+    "question_id": "cbse_xi_keph1dd_c106_gen202",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "Explain how the equation v = ω x r is derived and discuss its physical significance in determining the linear velocity of a particle moving in a circular path.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen203"
+    "question_id": "cbse_xi_keph1dd_c106_gen203",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: For a rotation about a fixed axis, the direction of the angular velocity vector changes with time if the magnitude of ω changes.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen204"
+    "question_id": "cbse_xi_keph1dd_c106_gen204",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: A particle located on the axis of rotation has a non-zero linear velocity because of its angular velocity.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen205"
+    "question_id": "cbse_xi_keph1dd_c106_gen205",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "True or False: The cross product of ω and r results in a vector that is always perpendicular to both ω and the vector from the center of the circular path (CP), thus aligning with the tangent to the circle.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen206"
+    "question_id": "cbse_xi_keph1dd_c106_gen206",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A particle moves in a circular path with a radius of 0.5 m and rotates with an angular velocity of 4 rad/s. Calculate its linear velocity.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen207"
+    "question_id": "cbse_xi_keph1dd_c106_gen207",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rotating disc has an angular acceleration of 3 rad/s² and a point on its rim is located 0.25 m from the axis. Determine the tangential acceleration of that point.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen208"
+    "question_id": "cbse_xi_keph1dd_c106_gen208",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rigid body rotates about the z-axis. A particle at point P, which is 2 m from the axis, moves with a linear velocity of 6 m/s. Calculate the angular velocity ω of the rigid body.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen209"
+    "question_id": "cbse_xi_keph1dd_c106_gen209",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   },
   {
     "question_text": "A rotating top increases its angular velocity from 2 rad/s to 5 rad/s in 1.5 s. Calculate the average angular acceleration.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "07_section_6_6",
-    "question_id": "cbse_xi_keph1dd_c106_gen210"
+    "question_id": "cbse_xi_keph1dd_c106_gen210",
+    "section_name": "6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY"
   }
 ]

@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "4.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "4.2 Determinant"
+    },
+    {
+      "number": 3,
+      "name": "4.3 Area of a Triangle"
+    },
+    {
+      "number": 4,
+      "name": "4.4 Minors and Cofactors"
+    },
+    {
+      "number": 5,
+      "name": "4.5 Adjoint and Inverse of a Matrix"
+    },
+    {
+      "number": 6,
+      "name": "4.6 Applications of Determinants and Matrices"
+    }
+  ]
+}

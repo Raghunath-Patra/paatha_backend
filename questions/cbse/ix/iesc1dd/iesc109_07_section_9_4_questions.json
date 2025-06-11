@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen028"
+    "question_id": "cbse_ix_iesc1dd_c109_gen028",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Which of the following formulas correctly represents the weight of an object on Earth?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen029"
+    "question_id": "cbse_ix_iesc1dd_c109_gen029",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Using the universal law of gravitation, which equation correctly represents the weight of an object on the Moon?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen030"
+    "question_id": "cbse_ix_iesc1dd_c109_gen030",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Define weight and explain its dependence on both mass and gravitational acceleration.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen031"
+    "question_id": "cbse_ix_iesc1dd_c109_gen031",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Explain why an object's weight on the Moon is different from its weight on the Earth, even though its mass remains the same.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen032"
+    "question_id": "cbse_ix_iesc1dd_c109_gen032",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "State the formula derived from Newton’s second law for calculating the weight of an object. Identify the units of weight in the SI system.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen033"
+    "question_id": "cbse_ix_iesc1dd_c109_gen033",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "In your own words, explain why weight can be used as a measure of mass at a given location on Earth. Also, mention any limitations of this method when comparing measurements from different celestial bodies.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen034"
+    "question_id": "cbse_ix_iesc1dd_c109_gen034",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "Describe the step-by-step process of deriving the ratio of an object's weight on the Moon to its weight on the Earth using the universal law of gravitation. Include the significance of the masses and radii of the Earth and Moon in your explanation.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen035"
+    "question_id": "cbse_ix_iesc1dd_c109_gen035",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "True or False: The mass of an object changes depending on whether it is on Earth or the Moon.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen036"
+    "question_id": "cbse_ix_iesc1dd_c109_gen036",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "True or False: The SI unit of weight is the kilogram (kg). If false, provide the correct unit and reason why.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen037"
+    "question_id": "cbse_ix_iesc1dd_c109_gen037",
+    "section_name": "9.4 Weight"
   },
   {
     "question_text": "True or False: At a specific location on Earth, the weight of an object is directly proportional to its mass. If the statement is false, correct it.",
@@ -166,6 +176,7 @@
     "source": "generated",
     "chapter_id": "iesc109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_ix_iesc1dd_c109_gen038"
+    "question_id": "cbse_ix_iesc1dd_c109_gen038",
+    "section_name": "9.4 Weight"
   }
 ]

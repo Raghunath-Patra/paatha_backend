@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen001"
+    "question_id": "cbse_xii_lemh2dd_c203_gen001",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Consider the equation dy/dx = g(x). Which of the following statements is true?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen002"
+    "question_id": "cbse_xii_lemh2dd_c203_gen002",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Which of the following is not an application area for differential equations?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen003"
+    "question_id": "cbse_xii_lemh2dd_c203_gen003",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Identify the independent and dependent variables in the differential equation dy/dx = g(x).",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen004"
+    "question_id": "cbse_xii_lemh2dd_c203_gen004",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Define what is meant by a first order differential equation.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen005"
+    "question_id": "cbse_xii_lemh2dd_c203_gen005",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Explain the difference between a general solution and a particular solution of a differential equation.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen006"
+    "question_id": "cbse_xii_lemh2dd_c203_gen006",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Discuss why the concept of differentiation is fundamental in the formation of differential equations.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen007"
+    "question_id": "cbse_xii_lemh2dd_c203_gen007",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Derive a general solution for the differential equation dy/dx = 2x.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen008"
+    "question_id": "cbse_xii_lemh2dd_c203_gen008",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Discuss and provide examples of how differential equations are applied in various fields such as Physics, Biology, and Economics.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen009"
+    "question_id": "cbse_xii_lemh2dd_c203_gen009",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Solve the differential equation dy/dx = 2x with the initial condition f(0) = 1. Provide your answer with detailed steps.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen010"
+    "question_id": "cbse_xii_lemh2dd_c203_gen010",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Solve the differential equation dy/dx = y with the initial condition y(0) = 2 using separation of variables, and provide step-by-step details.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen011"
+    "question_id": "cbse_xii_lemh2dd_c203_gen011",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Find the particular solution of the differential equation dy/dx = 3x² that passes through the point (1,2). Provide complete solution steps.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen012"
+    "question_id": "cbse_xii_lemh2dd_c203_gen012",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "A differential equation is given by dy/dx = ky where k is a constant. Assuming y ≠ 0, solve for y, and explain how the parameter k affects the general solution.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh203",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xii_lemh2dd_c203_gen013"
+    "question_id": "cbse_xii_lemh2dd_c203_gen013",
+    "section_name": "9.1 Introduction"
   }
 ]

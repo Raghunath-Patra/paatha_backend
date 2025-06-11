@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen027"
+    "question_id": "cbse_ix_iemh1dd_c104_gen027",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Consider the equation 2x + 3y = 12. Which of the following ordered pairs is NOT a solution to this equation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen028"
+    "question_id": "cbse_ix_iemh1dd_c104_gen028",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Which option correctly represents a solution of the equation x + 2y = 6?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen029"
+    "question_id": "cbse_ix_iemh1dd_c104_gen029",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Define what is meant by a 'solution' of a linear equation in two variables.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen030"
+    "question_id": "cbse_ix_iemh1dd_c104_gen030",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Explain why the equation 3y + 4 = 0 is written as y = –4/3 for any value of x.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen031"
+    "question_id": "cbse_ix_iemh1dd_c104_gen031",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Describe a method to generate infinitely many solutions for the equation 2x + 3y = 12.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen032"
+    "question_id": "cbse_ix_iemh1dd_c104_gen032",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "For the equation 2x + 3y = 12, if x = –5, find the corresponding value of y.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen033"
+    "question_id": "cbse_ix_iemh1dd_c104_gen033",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Prove that a linear equation in two variables has infinitely many solutions. Provide a detailed explanation using the example 2x + 3y = 12.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen034"
+    "question_id": "cbse_ix_iemh1dd_c104_gen034",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Using the equation x + 2y = 6, find the solution corresponding to y = 1 using substitution. Then, explain another method to find solutions for this equation.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen035"
+    "question_id": "cbse_ix_iemh1dd_c104_gen035",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Solve the equation 4x + 3y = 12 by finding two different solutions where one variable is set to zero in each case.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen036"
+    "question_id": "cbse_ix_iemh1dd_c104_gen036",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "For the equation 2x + 5y = 0, find two different solutions by first setting x = 0 and then choosing x = 1.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen037"
+    "question_id": "cbse_ix_iemh1dd_c104_gen037",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "For the equation 3y + 4 = 0, demonstrate why every solution is of the form (x, –4/3) by finding two examples with different x values.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen038"
+    "question_id": "cbse_ix_iemh1dd_c104_gen038",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Find four different ordered pairs that are solutions of the equation x + 2y = 6.",
@@ -194,7 +206,8 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen039"
+    "question_id": "cbse_ix_iemh1dd_c104_gen039",
+    "section_name": "4.3 Solution of a Linear Equation"
   },
   {
     "question_text": "Explain the significance of setting one variable to zero when solving linear equations in two variables and how it simplifies finding a solution.",
@@ -208,6 +221,7 @@
     "source": "generated",
     "chapter_id": "iemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_ix_iemh1dd_c104_gen040"
+    "question_id": "cbse_ix_iemh1dd_c104_gen040",
+    "section_name": "4.3 Solution of a Linear Equation"
   }
 ]

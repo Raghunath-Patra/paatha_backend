@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen057"
+    "question_id": "cbse_xii_leph1dd_c104_gen057",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "What is the numerical value of the constant μ₀/4π in SI units as used in the Biot-Savart law?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen058"
+    "question_id": "cbse_xii_leph1dd_c104_gen058",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Which of the following is a distinguishing difference between magnetic and electrostatic fields as described in the section?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen059"
+    "question_id": "cbse_xii_leph1dd_c104_gen059",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "According to the right-hand screw rule mentioned in the section, what is the direction of the magnetic field produced by a current element I·dl at a point located by the displacement vector r?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen060"
+    "question_id": "cbse_xii_leph1dd_c104_gen060",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "In the Biot-Savart law, the magnitude of the magnetic field dB is given by (μ₀/4π) (I dl sinθ)/(r²) while the vector form has r³ in the denominator. Which factors directly influence dB in the magnitude expression?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen061"
+    "question_id": "cbse_xii_leph1dd_c104_gen061",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "What does the symbol μ₀ represent in electromagnetism, and what is its value in SI units?",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen062"
+    "question_id": "cbse_xii_leph1dd_c104_gen062",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "How does the Biot-Savart law incorporate the dependence on the angle between the current element I·dl and the displacement vector r?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen063"
+    "question_id": "cbse_xii_leph1dd_c104_gen063",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Compare the directions of the electric field and the magnetic field produced by their respective sources as explained in the section.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen064"
+    "question_id": "cbse_xii_leph1dd_c104_gen064",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "What is the role of the right-hand screw rule in determining the direction of the magnetic field, according to the section?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen065"
+    "question_id": "cbse_xii_leph1dd_c104_gen065",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Explain how the Biot-Savart law is analogous to Coulomb's law and detail the differences between them regarding the nature of their sources and the orientation of their fields.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen066"
+    "question_id": "cbse_xii_leph1dd_c104_gen066",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Derive the magnitude expression |dB| = (μ₀/4π) (I·dl·sinθ)/(r²) starting from the vector form dB = (μ₀/4π) (I·dl × r)/(r³).",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen067"
+    "question_id": "cbse_xii_leph1dd_c104_gen067",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Discuss how the relation μ₀ε₀ = 1/c², as presented in the section, links the magnetic permeability, the electric permittivity, and the speed of light, and explain its significance in electromagnetic theory.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen068"
+    "question_id": "cbse_xii_leph1dd_c104_gen068",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "True or False: The Biot-Savart law indicates that the magnetic field is produced only by steady currents.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen069"
+    "question_id": "cbse_xii_leph1dd_c104_gen069",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "True or False: According to the Biot-Savart law, the magnetic field produced by a current element is directed along the displacement vector between the element and the field point.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen070"
+    "question_id": "cbse_xii_leph1dd_c104_gen070",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "True or False: The cyclic property of the cross product, such as i × j = k, is used to determine the direction of the magnetic field produced by a current element.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen071"
+    "question_id": "cbse_xii_leph1dd_c104_gen071",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "A current element of length 5 cm carrying a current of 3 A is oriented perpendicular to the line joining it to a point 0.2 m away. Calculate the magnitude of the magnetic field at that point.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen072"
+    "question_id": "cbse_xii_leph1dd_c104_gen072",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Determine the magnetic field at a point 0.1 m away from a current element of length 2 cm carrying a current of 2 A if the angle between I·dl and the displacement vector is 60°. (Use sin 60° = 0.866)",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen073"
+    "question_id": "cbse_xii_leph1dd_c104_gen073",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "A small wire segment of length 1 cm carrying a current of 15 A makes an angle of 45° with the line joining it to point P, which is located 0.3 m away. Calculate the magnitude of the magnetic field at point P and state its direction.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen074"
+    "question_id": "cbse_xii_leph1dd_c104_gen074",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "In Example 4.4, a current element with dl = 1 cm carrying 10 A is placed at the origin, and the magnetic field on the y-axis (point P) is calculated. If point P is instead chosen on the x-axis at 0.5 m from the origin, what is the magnetic field at that point?",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen075"
+    "question_id": "cbse_xii_leph1dd_c104_gen075",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   },
   {
     "question_text": "Using the Biot-Savart law, compute the magnetic field at the center of a circular loop of radius 0.1 m carrying a current of 5 A. (Hint: The magnetic field at the center of a current loop is given by B = (μ₀ I)/(2r).)",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph104",
     "section_id": "04_section_4_4",
-    "question_id": "cbse_xii_leph1dd_c104_gen076"
+    "question_id": "cbse_xii_leph1dd_c104_gen076",
+    "section_name": "4.4 MAGNETIC FIELD DUE TO A CURRENT ELEMENT, BIOT-SAVART LAW"
   }
 ]

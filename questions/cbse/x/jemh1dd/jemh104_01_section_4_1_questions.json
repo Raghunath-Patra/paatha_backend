@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen001"
+    "question_id": "cbse_x_jemh1dd_c104_gen001",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Consider a rectangle representing a prayer hall with breadth x and length (2x + 1) such that its area is 300 m². Which quadratic equation correctly models this scenario?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen002"
+    "question_id": "cbse_x_jemh1dd_c104_gen002",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Which ancient mathematician is credited with deriving the quadratic formula by the method of completing the square?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen003"
+    "question_id": "cbse_x_jemh1dd_c104_gen003",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Which civilization was among the first to solve problems equivalent to quadratic equations by finding two positive numbers with a given sum and product?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen004"
+    "question_id": "cbse_x_jemh1dd_c104_gen004",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Define a quadratic equation and explain its general structure.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen005"
+    "question_id": "cbse_x_jemh1dd_c104_gen005",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Explain why the coefficient 'a' in the quadratic equation ax² + bx + c = 0 must not be zero.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen006"
+    "question_id": "cbse_x_jemh1dd_c104_gen006",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Describe one real-life application of quadratic equations as mentioned in the section.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen007"
+    "question_id": "cbse_x_jemh1dd_c104_gen007",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Summarize the historical development of methods used to solve quadratic equations as discussed in the section.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen008"
+    "question_id": "cbse_x_jemh1dd_c104_gen008",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Derive the quadratic equation from the prayer hall problem where the area is 300 m², the breadth is x, and the length is (2x + 1). Solve for x and determine the dimensions of the hall.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen009"
+    "question_id": "cbse_x_jemh1dd_c104_gen009",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Prove that any quadratic equation can have at most two distinct real roots using the discriminant.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen010"
+    "question_id": "cbse_x_jemh1dd_c104_gen010",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Deduce the method of completing the square to derive the quadratic formula, and discuss its historical significance as outlined in the text.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen011"
+    "question_id": "cbse_x_jemh1dd_c104_gen011",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Solve the quadratic equation 2x² + x – 300 = 0 using the quadratic formula. Show all your steps.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen012"
+    "question_id": "cbse_x_jemh1dd_c104_gen012",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "Solve the quadratic equation x² – 5x + 6 = 0 by factoring. Provide a step-by-step solution.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen013"
+    "question_id": "cbse_x_jemh1dd_c104_gen013",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "If the sum and product of two numbers are 9 and 20 respectively, form a quadratic equation and solve for the numbers.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen014"
+    "question_id": "cbse_x_jemh1dd_c104_gen014",
+    "section_name": "4.1 Introduction"
   },
   {
     "question_text": "A projectile is launched upward and its height in meters after t seconds is given by h = -5t² + 20t + 2. Determine the time(s) when the projectile reaches the ground (i.e., h = 0).",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh104",
     "section_id": "01_section_4_1",
-    "question_id": "cbse_x_jemh1dd_c104_gen015"
+    "question_id": "cbse_x_jemh1dd_c104_gen015",
+    "section_name": "4.1 Introduction"
   }
 ]

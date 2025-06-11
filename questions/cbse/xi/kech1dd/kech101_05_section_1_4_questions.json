@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen057"
+    "question_id": "cbse_xi_kech1dd_c101_gen057",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "What is the current definition of the metre as defined in 1983?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen058"
+    "question_id": "cbse_xi_kech1dd_c101_gen058",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Which of the following is the correct scientific notation for the number 0.00016?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen059"
+    "question_id": "cbse_xi_kech1dd_c101_gen059",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "When multiplying numbers in scientific notation, what is the product of (5.6×10^5) and (6.9×10^8) expressed in proper scientific notation?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen060"
+    "question_id": "cbse_xi_kech1dd_c101_gen060",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Which statement about significant figures is correct?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen061"
+    "question_id": "cbse_xi_kech1dd_c101_gen061",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Explain the purpose of using scientific notation in chemistry.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen062"
+    "question_id": "cbse_xi_kech1dd_c101_gen062",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Define significant figures and state why they are important in chemical measurements.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen063"
+    "question_id": "cbse_xi_kech1dd_c101_gen063",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Describe the role of dimensional analysis in unit conversions and provide an example.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen064"
+    "question_id": "cbse_xi_kech1dd_c101_gen064",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "How does uncertainty in measurement affect experimental data in chemistry?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen065"
+    "question_id": "cbse_xi_kech1dd_c101_gen065",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Discuss the differences between precision and accuracy in experimental measurements. Use the example of the measurements taken by Students A, B, and C from Table 1.4 to support your explanation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen066"
+    "question_id": "cbse_xi_kech1dd_c101_gen066",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Explain the process of rounding numbers with significant figures when the digit to be removed is 5. Provide examples to illustrate the rounding rules.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen067"
+    "question_id": "cbse_xi_kech1dd_c101_gen067",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "True or False: All nonzero digits in any measurement are always considered significant.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen068"
+    "question_id": "cbse_xi_kech1dd_c101_gen068",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "True or False: In scientific notation, terminal zeros are always significant, even if the number does not contain a decimal point.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen069"
+    "question_id": "cbse_xi_kech1dd_c101_gen069",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "True or False: Dimensional analysis utilizes unit factors that equal one, ensuring that the numerical value of a measurement remains unchanged during unit conversion.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen070"
+    "question_id": "cbse_xi_kech1dd_c101_gen070",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Express the number 232.508 in proper scientific notation.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen071"
+    "question_id": "cbse_xi_kech1dd_c101_gen071",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Multiply (9.8×10^-2) by (2.5×10^-6) and express your answer in proper scientific notation.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen072"
+    "question_id": "cbse_xi_kech1dd_c101_gen072",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Add 6.65×10^4 and 8.95×10^3 using scientific notation. Show your steps.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen073"
+    "question_id": "cbse_xi_kech1dd_c101_gen073",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Convert 2 L of milk to cubic meters given that 1 L = 1000 cm³ and 1 m = 100 cm.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen074"
+    "question_id": "cbse_xi_kech1dd_c101_gen074",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Determine the number of seconds in 2 days.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen075"
+    "question_id": "cbse_xi_kech1dd_c101_gen075",
+    "section_name": "1.4 Uncertainty in Measurement"
   },
   {
     "question_text": "Divide (2.7×10^-3) by (5.5×10^4) and provide the answer in proper scientific notation.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "kech101",
     "section_id": "05_section_1_4",
-    "question_id": "cbse_xi_kech1dd_c101_gen076"
+    "question_id": "cbse_xi_kech1dd_c101_gen076",
+    "section_name": "1.4 Uncertainty in Measurement"
   }
 ]

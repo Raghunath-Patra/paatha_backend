@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "13.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "13.2 Mean of Grouped Data"
+    },
+    {
+      "number": 3,
+      "name": "13.3 Mode of Grouped Data"
+    },
+    {
+      "number": 4,
+      "name": "13.4 Median of Grouped Data"
+    },
+    {
+      "number": 5,
+      "name": "13.5 Summary"
+    }
+  ]
+}

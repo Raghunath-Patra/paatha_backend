@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen027"
+    "question_id": "cbse_ix_iemh1dd_c109_gen027",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "Which of the following chords in a circle is the farthest from the centre?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen028"
+    "question_id": "cbse_ix_iemh1dd_c109_gen028",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "According to Theorem 9.5, equal chords of a circle are:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen029"
+    "question_id": "cbse_ix_iemh1dd_c109_gen029",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "Define the distance of a line from a point.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen030"
+    "question_id": "cbse_ix_iemh1dd_c109_gen030",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "State Theorem 9.6 and briefly explain its significance.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen031"
+    "question_id": "cbse_ix_iemh1dd_c109_gen031",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "What is the distance of a line from a point if the point lies on the line?",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen032"
+    "question_id": "cbse_ix_iemh1dd_c109_gen032",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "Prove that in a circle, if two chords are equal in length, then the perpendiculars from the centre to these chords are equal.",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen033"
+    "question_id": "cbse_ix_iemh1dd_c109_gen033",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "Prove that if two intersecting chords of a circle make equal angles with the diameter passing through their point of intersection, then the chords are equal.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen034"
+    "question_id": "cbse_ix_iemh1dd_c109_gen034",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "In a circle with centre O, a chord AB is 8 cm long. If the perpendicular distance from O to AB is 3 cm, find the radius of the circle.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen035"
+    "question_id": "cbse_ix_iemh1dd_c109_gen035",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "Two equal chords in a circle have a length of 10 cm each, and the perpendicular distance from the centre to one of the chords is 4 cm. Determine the radius of the circle.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen036"
+    "question_id": "cbse_ix_iemh1dd_c109_gen036",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "A chord of a circle is 6 cm away from the centre, and the circle has a radius of 10 cm. Find the length of the chord.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen037"
+    "question_id": "cbse_ix_iemh1dd_c109_gen037",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   },
   {
     "question_text": "In a circle of radius 13 cm, one chord is 24 cm long. If another chord is drawn such that it is equidistant from the centre as the 24 cm chord, what is the length of this other chord?",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "iemh109",
     "section_id": "04_section_9_3",
-    "question_id": "cbse_ix_iemh1dd_c109_gen038"
+    "question_id": "cbse_ix_iemh1dd_c109_gen038",
+    "section_name": "9.3 Equal Chords and their Distances from the Centre"
   }
 ]

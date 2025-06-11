@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen091"
+    "question_id": "cbse_xi_keph1dd_c107_gen091",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "According to the text, if g denotes the gravitational acceleration at Earth's surface and a_m represents the centripetal acceleration of the Moon, which relation is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen092"
+    "question_id": "cbse_xi_keph1dd_c107_gen092",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the vector form of the gravitational force equation, the force on a point mass is directed:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen093"
+    "question_id": "cbse_xi_keph1dd_c107_gen093",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "For a point mass located inside a uniform spherical shell of mass, the net gravitational force acting on it is:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen094"
+    "question_id": "cbse_xi_keph1dd_c107_gen094",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In Example 7.2, three equal masses m are placed at the vertices of an equilateral triangle and a mass 2m is placed at the centroid. What is the net gravitational force acting on the mass at the centroid when all vertex masses are identical?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen095"
+    "question_id": "cbse_xi_keph1dd_c107_gen095",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Write the expression for the centripetal acceleration a_m of the Moon in its orbit around Earth, and identify the parameters that influence it.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen096"
+    "question_id": "cbse_xi_keph1dd_c107_gen096",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Explain why the gravitational acceleration at the surface of Earth is much larger than the centripetal acceleration experienced by the Moon.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen097"
+    "question_id": "cbse_xi_keph1dd_c107_gen097",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "What does the principle of superposition mean in the context of calculating the gravitational force on a point mass due to an extended object?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen098"
+    "question_id": "cbse_xi_keph1dd_c107_gen098",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using Newton's third law, briefly describe the relationship between the gravitational forces F12 (force on mass 1 due to mass 2) and F21 (force on mass 2 due to mass 1).",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen099"
+    "question_id": "cbse_xi_keph1dd_c107_gen099",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Discuss how Newton used the comparison between the acceleration of a falling apple on Earth and the centripetal acceleration of the Moon to deduce that the gravitational force decreases with distance.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen100"
+    "question_id": "cbse_xi_keph1dd_c107_gen100",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Explain in detail how to calculate the gravitational force acting on a point mass due to an extended object using calculus, and describe the two special cases involving a spherical shell.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen101"
+    "question_id": "cbse_xi_keph1dd_c107_gen101",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Analyze the symmetry in the arrangement of three equal masses at the vertices of an equilateral triangle with a mass placed at the centroid, and explain why the resultant gravitational force on the central mass is zero.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen102"
+    "question_id": "cbse_xi_keph1dd_c107_gen102",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: The gravitational force on a point mass due to a uniform spherical shell is zero if the point mass is located inside the shell.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen103"
+    "question_id": "cbse_xi_keph1dd_c107_gen103",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: Newton’s third law does not hold for gravitational forces between extended objects.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen104"
+    "question_id": "cbse_xi_keph1dd_c107_gen104",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the equation a_m = 4π²R_m / T², calculate the centripetal acceleration of the Moon given that the orbital radius R_m is 3.84×10^8 m and the orbital period T is 27.3 days. (Note: 1 day = 86400 s)",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen105"
+    "question_id": "cbse_xi_keph1dd_c107_gen105",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the relation g / a_m = R_m² / R_E², where g is 9.8 m/s² and a_m is 2.73×10^-3 m/s², verify that the calculated ratio agrees with the ratio (R_m/R_E)² given R_m = 3.84×10^8 m and R_E = 6.37×10^6 m.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen106"
+    "question_id": "cbse_xi_keph1dd_c107_gen106",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the example with an equilateral triangle, three equal masses m are at the vertices and a mass 2m is at the centroid at a distance of 1 m from each vertex. Calculate the net gravitational force on the mass at the centroid when all vertex masses are equal.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen107"
+    "question_id": "cbse_xi_keph1dd_c107_gen107",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "If in the equilateral triangle configuration the mass at vertex A is doubled (making it 2m) while the masses at vertices B and C remain m, and the distances remain 1 m, compute the net gravitational force on the mass 2m at the centroid. Assume the force from each mass is given by F = G (mass1 × mass2)/ (distance²) and use vector addition based on provided directional components.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "04_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen108"
+    "question_id": "cbse_xi_keph1dd_c107_gen108",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   }
 ]

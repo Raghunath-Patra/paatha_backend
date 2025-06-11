@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen058"
+    "question_id": "cbse_xii_leph2dd_c203_gen058",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "In the experiment on the photoelectric effect, when the collector plate is made more positive, the photocurrent initially increases and then saturates. Which term best describes this maximum current level?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen059"
+    "question_id": "cbse_xii_leph2dd_c203_gen059",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "Which of the following best explains the significance of the cutoff (or stopping) potential in the photoelectric effect experiments?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen060"
+    "question_id": "cbse_xii_leph2dd_c203_gen060",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "How does the stopping potential change with increasing frequency of the incident radiation (keeping intensity constant)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen061"
+    "question_id": "cbse_xii_leph2dd_c203_gen061",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "When a negative potential is applied to the collector plate in a photoelectric setup, what happens to the photoelectrons?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen062"
+    "question_id": "cbse_xii_leph2dd_c203_gen062",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "Explain the concept of saturation current in the context of the photoelectric effect and describe the experimental conditions under which it is achieved.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen063"
+    "question_id": "cbse_xii_leph2dd_c203_gen063",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "Define the cutoff or stopping potential in a photoelectric experiment and explain its significance.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen064"
+    "question_id": "cbse_xii_leph2dd_c203_gen064",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "How does the velocity (or kinetic energy) of the photoelectrons change with the frequency of the incident light, and why is a threshold frequency necessary?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen065"
+    "question_id": "cbse_xii_leph2dd_c203_gen065",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "Describe how the photoelectric current varies with the accelerating (positive) potential and the retarding (negative) potential applied to the collector plate.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen066"
+    "question_id": "cbse_xii_leph2dd_c203_gen066",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "Discuss the experimental arrangement used for studying the photoelectric effect. Include the role of the evacuated tube, photosensitive and collector plates, voltage measurement devices, and the light source.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen067"
+    "question_id": "cbse_xii_leph2dd_c203_gen067",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "Analyze the significance of the linear relationship between the stopping potential and the frequency of the incident radiation. How does this observation support Einstein's photoelectric equation?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen068"
+    "question_id": "cbse_xii_leph2dd_c203_gen068",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "Evaluate why the stopping potential remains independent of the intensity of the incident light in photoelectric experiments.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen069"
+    "question_id": "cbse_xii_leph2dd_c203_gen069",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "The statement 'The photoelectric current is independent of the light intensity' is presented. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen070"
+    "question_id": "cbse_xii_leph2dd_c203_gen070",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "True or False: The maximum kinetic energy of the photoelectrons increases linearly with the frequency of incident light, and this relationship is independent of the light's intensity.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen071"
+    "question_id": "cbse_xii_leph2dd_c203_gen071",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "True or False: Increasing the intensity of incident light will result in a higher stopping potential in a photoelectric experiment.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen072"
+    "question_id": "cbse_xii_leph2dd_c203_gen072",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "A photoelectric experiment measures a stopping potential of 2.0 V for a particular frequency of incident light. Calculate the maximum kinetic energy of the emitted photoelectrons in joules. (Take the charge of an electron as 1.6 x 10^-19 C.)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen073"
+    "question_id": "cbse_xii_leph2dd_c203_gen073",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "In an experiment using monochromatic light of frequency 8.0 x 10^14 Hz, the measured stopping potential is 1.5 V. Calculate the work function of the photosensitive metal in joules. (Planck's constant, h, is 6.63 x 10^-34 J·s, and electron charge, e, is 1.6 x 10^-19 C.)",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen074"
+    "question_id": "cbse_xii_leph2dd_c203_gen074",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "A particular metal shows a stopping potential of 0 V at a frequency of 5.0 x 10^14 Hz and 2.0 V at a frequency of 7.0 x 10^14 Hz. Determine the slope of the stopping potential versus frequency graph (in V·s) and the threshold frequency for this metal.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen075"
+    "question_id": "cbse_xii_leph2dd_c203_gen075",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "In a photoelectric experiment, if the intensity of incident light is tripled and the corresponding saturation current becomes 6 µA, what would be the saturation current at the original intensity?",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen076"
+    "question_id": "cbse_xii_leph2dd_c203_gen076",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   },
   {
     "question_text": "Two metals, A and B, have threshold frequencies of 7.0 x 10^14 Hz and 6.0 x 10^14 Hz respectively. If both are illuminated with light of frequency 8.0 x 10^14 Hz, which metal will exhibit a higher stopping potential and why?",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph203",
     "section_id": "05_section_11_4",
-    "question_id": "cbse_xii_leph2dd_c203_gen077"
+    "question_id": "cbse_xii_leph2dd_c203_gen077",
+    "section_name": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC EFFECT"
   }
 ]

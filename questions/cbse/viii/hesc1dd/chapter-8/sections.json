@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "8.1 Force – A Push or a Pull"
+    },
+    {
+      "number": 2,
+      "name": "8.2 Forces are due to an Interaction"
+    },
+    {
+      "number": 3,
+      "name": "8.3 Exploring Forces"
+    },
+    {
+      "number": 4,
+      "name": "8.4 A Force can Change the State of Motion"
+    },
+    {
+      "number": 5,
+      "name": "8.5 Force can Change the Shape of an Object"
+    },
+    {
+      "number": 6,
+      "name": "8.6 Contact Forces"
+    },
+    {
+      "number": 7,
+      "name": "8.7 Non-contact Forces"
+    },
+    {
+      "number": 8,
+      "name": "8.8 Pressure"
+    },
+    {
+      "number": 9,
+      "name": "8.9 Pressure Exerted by Liquids and Gases"
+    },
+    {
+      "number": 10,
+      "name": "8.10 Atmospheric Pressure"
+    }
+  ]
+}

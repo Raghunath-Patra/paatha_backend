@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen069"
+    "question_id": "cbse_xi_keph2dd_c207_gen069",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "When two wave pulses of equal and opposite displacements overlap completely, their displacements cancel. This situation is an example of which type of interference?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen070"
+    "question_id": "cbse_xi_keph2dd_c207_gen070",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Consider two harmonic waves with displacement functions y1 = a sin(kx - ωt) and y2 = a sin(kx - ωt + φ). What is the resultant amplitude when the phase difference φ equals zero?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen071"
+    "question_id": "cbse_xi_keph2dd_c207_gen071",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "When two wave pulses traveling in opposite directions cross each other, what is observed after they cross?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen072"
+    "question_id": "cbse_xi_keph2dd_c207_gen072",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Which of the following equations correctly represents the principle of superposition of two wave disturbances?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen073"
+    "question_id": "cbse_xi_keph2dd_c207_gen073",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Explain in your own words why wave pulses retain their individual identities after crossing each other.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen074"
+    "question_id": "cbse_xi_keph2dd_c207_gen074",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Write the mathematical expression for the superposition principle when two waves y1(x,t) and y2(x,t) overlap in a medium.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen075"
+    "question_id": "cbse_xi_keph2dd_c207_gen075",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Describe what happens during destructive interference of two waves.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen076"
+    "question_id": "cbse_xi_keph2dd_c207_gen076",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "How does the phase difference between two harmonic waves affect the amplitude of their resultant wave when they superimpose?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen077"
+    "question_id": "cbse_xi_keph2dd_c207_gen077",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Discuss the principle of superposition of waves and explain how it applies to harmonic waves with a phase difference. Include relevant equations in your explanation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen078"
+    "question_id": "cbse_xi_keph2dd_c207_gen078",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Analyze the phenomenon of interference using the principle of superposition. Compare constructive and destructive interference, including their mathematical derivations.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen079"
+    "question_id": "cbse_xi_keph2dd_c207_gen079",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Evaluate an experimental setup designed to demonstrate the superposition principle in wave pulses on a string. Identify potential sources of error and suggest improvements.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen080"
+    "question_id": "cbse_xi_keph2dd_c207_gen080",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "True or False: According to the principle of superposition, the net displacement in a medium is the product of the individual displacements of overlapping wave pulses.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen081"
+    "question_id": "cbse_xi_keph2dd_c207_gen081",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "True or False: Destructive interference always results in complete cancellation of the wave displacement at all points in space.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen082"
+    "question_id": "cbse_xi_keph2dd_c207_gen082",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Two wave pulses with an amplitude of 3 cm travel in opposite directions along a rope. If one pulse has positive displacement and the other has an equal negative displacement, what is the net displacement at the point of complete overlap? Provide your answer with appropriate units.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen083"
+    "question_id": "cbse_xi_keph2dd_c207_gen083",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Two harmonic waves are described by y1 = 5 sin(2x - 3t) and y2 = 5 sin(2x - 3t + π). Calculate the resultant displacement, amplitude, and write the expression for the resultant wave.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen084"
+    "question_id": "cbse_xi_keph2dd_c207_gen084",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Using the expression y = 2a sin(kx - ωt + φ/2) cos(φ/2), calculate the amplitude of the resultant wave if a = 4 cm and φ = π/3. Provide your answer with units.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen085"
+    "question_id": "cbse_xi_keph2dd_c207_gen085",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "Given two harmonic waves with displacement functions y1 = 2 sin(4x - 2t) and y2 = 2 sin(4x - 2t + φ) where φ = π/2, calculate the amplitude of the resultant wave using the superposition principle.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen086"
+    "question_id": "cbse_xi_keph2dd_c207_gen086",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   },
   {
     "question_text": "A stretched string supports two in-phase harmonic waves, both described by y1 = a sin(kx - ωt) with a = 2 cm, and y2 = a sin(kx - ωt). When they are superimposed, what is the amplitude and equation of the resultant wave?",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "05_section_14_5",
-    "question_id": "cbse_xi_keph2dd_c207_gen087"
+    "question_id": "cbse_xi_keph2dd_c207_gen087",
+    "section_name": "14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES"
   }
 ]

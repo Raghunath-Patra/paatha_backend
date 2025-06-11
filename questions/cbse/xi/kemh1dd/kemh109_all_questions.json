@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen031"
+    "question_id": "cbse_xi_kemh1dd_c109_gen031",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "In the point-slope form, the equation of a line passing through the fixed point (x₀, y₀) with slope m is given by:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen032"
+    "question_id": "cbse_xi_kemh1dd_c109_gen032",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Which of the following is the slope-intercept form of a line?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen033"
+    "question_id": "cbse_xi_kemh1dd_c109_gen033",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "If a line has an x-intercept d and slope m, which of the following equations correctly represents the line?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen034"
+    "question_id": "cbse_xi_kemh1dd_c109_gen034",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Define the term 'y-intercept' of a line.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen035"
+    "question_id": "cbse_xi_kemh1dd_c109_gen035",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "State the condition using the point-slope form that ensures a point P(x, y) lies on a line passing through a fixed point (x₀, y₀) with slope m.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen036"
+    "question_id": "cbse_xi_kemh1dd_c109_gen036",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Explain the difference between the equations of horizontal and vertical lines.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen037"
+    "question_id": "cbse_xi_kemh1dd_c109_gen037",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "What is the intercept form of the equation of a line? State what the intercepts represent in the equation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen038"
+    "question_id": "cbse_xi_kemh1dd_c109_gen038",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Derive the point-slope form of a line's equation starting from the definition of the slope for a line that passes through a fixed point (x₀, y₀) and an arbitrary point (x, y) on the line.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen039"
+    "question_id": "cbse_xi_kemh1dd_c109_gen039",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Prove that the slope-intercept form y = mx + c correctly represents a line with slope m and y-intercept c.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen040"
+    "question_id": "cbse_xi_kemh1dd_c109_gen040",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Find the equation of the horizontal line that passes through the point (2, –5).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen041"
+    "question_id": "cbse_xi_kemh1dd_c109_gen041",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Find the equation of the vertical line that passes through the point (4, 2).",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen042"
+    "question_id": "cbse_xi_kemh1dd_c109_gen042",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Find the equation of the line passing through the points (–1, 0) and (2, 4) using the two-point form.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen043"
+    "question_id": "cbse_xi_kemh1dd_c109_gen043",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "A line has an x-intercept of –3 and a y-intercept of 2. Find its equation in intercept form and then convert it to the general form.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "05_section_9_3",
-    "question_id": "cbse_xi_kemh1dd_c109_gen044"
+    "question_id": "cbse_xi_kemh1dd_c109_gen044",
+    "section_name": "9.3 Various Forms of the Equation of a Line"
   },
   {
     "question_text": "Find the values of k for which the line (k – 3)x + (4k²)y + (k² – 7k + 6) = 0 is (a) parallel to the x-axis, (b) parallel to the y-axis, (c) passing through the origin.",
@@ -531,7 +545,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen001"
+    "question_id": "cbse_xi_kemh1dd_c109_gen001",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "What is the correct formula for the midpoint of the line segment joining the points (x₁, y₁) and (x₂, y₂)?",
@@ -550,7 +565,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen002"
+    "question_id": "cbse_xi_kemh1dd_c109_gen002",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Which of the following formulas properly calculates the distance between two points P(x₁, y₁) and Q(x₂, y₂) in the plane?",
@@ -569,7 +585,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen003"
+    "question_id": "cbse_xi_kemh1dd_c109_gen003",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Who is credited with the systematic development of analytical geometry?",
@@ -588,7 +605,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen004"
+    "question_id": "cbse_xi_kemh1dd_c109_gen004",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Define coordinate geometry and explain its significance in relating algebra and geometry.",
@@ -602,7 +620,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen005"
+    "question_id": "cbse_xi_kemh1dd_c109_gen005",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Explain the method to find the coordinates of a point that divides a line segment joining two points (x₁, y₁) and (x₂, y₂) internally in the ratio m:n.",
@@ -616,7 +635,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen006"
+    "question_id": "cbse_xi_kemh1dd_c109_gen006",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Why does the distance formula between two points in the coordinate plane represent an application of the Pythagorean theorem? Provide an explanation.",
@@ -630,7 +650,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen007"
+    "question_id": "cbse_xi_kemh1dd_c109_gen007",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Define collinearity in the context of coordinate geometry and describe a method to verify if three points are collinear.",
@@ -644,7 +665,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen008"
+    "question_id": "cbse_xi_kemh1dd_c109_gen008",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Derive the formula for the distance between two points P(x₁, y₁) and Q(x₂, y₂) using the Pythagorean theorem.",
@@ -658,7 +680,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen009"
+    "question_id": "cbse_xi_kemh1dd_c109_gen009",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Prove that if the area of a triangle formed by three points is zero, then the points must be collinear.",
@@ -672,7 +695,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen010"
+    "question_id": "cbse_xi_kemh1dd_c109_gen010",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Derive the section formula for the internal division of a line segment joining the points (x₁, y₁) and (x₂, y₂) by a point that divides the segment in the ratio m:n.",
@@ -686,7 +710,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen011"
+    "question_id": "cbse_xi_kemh1dd_c109_gen011",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Calculate the distance between the points (6, –4) and (3, 0). Show all steps.",
@@ -700,7 +725,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen012"
+    "question_id": "cbse_xi_kemh1dd_c109_gen012",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Given the coordinates A(1, –3) and B(–3, 9), find the coordinates of the point that divides AB internally in the ratio 1:3. Provide step-by-step workings.",
@@ -714,7 +740,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen013"
+    "question_id": "cbse_xi_kemh1dd_c109_gen013",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Find the midpoint of the line segment connecting the points (2, 7) and (–4, –5). Provide a detailed solution.",
@@ -728,7 +755,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen014"
+    "question_id": "cbse_xi_kemh1dd_c109_gen014",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "Compute the area of the triangle with vertices at (4, 4), (3, –2), and (–3, 16). Show your step-by-step solution.",
@@ -742,7 +770,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "02_section_9_1",
-    "question_id": "cbse_xi_kemh1dd_c109_gen015"
+    "question_id": "cbse_xi_kemh1dd_c109_gen015",
+    "section_name": "9.1 Introduction"
   },
   {
     "question_text": "What is the slope of a horizontal line (i.e. a line parallel to the x-axis)?",
@@ -761,7 +790,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen016"
+    "question_id": "cbse_xi_kemh1dd_c109_gen016",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Which of the following conditions is necessary and sufficient for two non-vertical lines to be parallel?",
@@ -780,7 +810,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen017"
+    "question_id": "cbse_xi_kemh1dd_c109_gen017",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "If the inclination of a line is 90° (i.e. the line is vertical), what is its slope?",
@@ -799,7 +830,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen018"
+    "question_id": "cbse_xi_kemh1dd_c109_gen018",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Line L₁ has a slope of 1/2. If L₁ is perpendicular to line L₂, which of the following could be the slope of L₂?",
@@ -818,7 +850,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen019"
+    "question_id": "cbse_xi_kemh1dd_c109_gen019",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Define the inclination of a line in the coordinate plane.",
@@ -832,7 +865,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen020"
+    "question_id": "cbse_xi_kemh1dd_c109_gen020",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "State the formula for the slope of a line given two distinct points P(x₁, y₁) and Q(x₂, y₂).",
@@ -846,7 +880,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen021"
+    "question_id": "cbse_xi_kemh1dd_c109_gen021",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Explain why the slope of a vertical line is not defined.",
@@ -860,7 +895,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen022"
+    "question_id": "cbse_xi_kemh1dd_c109_gen022",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "State the necessary and sufficient condition for two non-vertical lines to be perpendicular in terms of their slopes.",
@@ -874,7 +910,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen023"
+    "question_id": "cbse_xi_kemh1dd_c109_gen023",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Derive the slope formula for a line in the coordinate plane using two points P(x₁, y₁) and Q(x₂, y₂) along with the concept of inclination.",
@@ -888,7 +925,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen024"
+    "question_id": "cbse_xi_kemh1dd_c109_gen024",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Prove that if two non-vertical lines are perpendicular, then the product of their slopes is -1.",
@@ -902,7 +940,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen025"
+    "question_id": "cbse_xi_kemh1dd_c109_gen025",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Find the slope of the line passing through the points (3, 2) and (–1, 4).",
@@ -916,7 +955,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen026"
+    "question_id": "cbse_xi_kemh1dd_c109_gen026",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Calculate the slope of the line passing through the points (3, 2) and (7, 2).",
@@ -930,7 +970,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen027"
+    "question_id": "cbse_xi_kemh1dd_c109_gen027",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Determine the slope of the line passing through the points (3, 2) and (3, 4), and explain why it is not defined.",
@@ -944,7 +985,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen028"
+    "question_id": "cbse_xi_kemh1dd_c109_gen028",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Find the slope of the line that makes an inclination of 60° with the positive x-axis.",
@@ -958,7 +1000,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen029"
+    "question_id": "cbse_xi_kemh1dd_c109_gen029",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "A line L₁ passes through (–2, 6) and (4, 8), and line L₂ passes through (8, 12) and (x, 24). If L₁ and L₂ are perpendicular, find the value of x.",
@@ -972,7 +1015,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "03_section_9_2",
-    "question_id": "cbse_xi_kemh1dd_c109_gen030"
+    "question_id": "cbse_xi_kemh1dd_c109_gen030",
+    "section_name": "9.2 Slope of a Line"
   },
   {
     "question_text": "Reduce the following equations into slope intercept form and find their slopes and the y-intercepts: (i) x + 7y = 0, (ii) 6x + 3y – 5 = 0, (iii) y = 0.",
@@ -1355,7 +1399,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen045"
+    "question_id": "cbse_xi_kemh1dd_c109_gen045",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "For two lines to be parallel, which condition must hold true regarding their slopes?",
@@ -1374,7 +1419,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen046"
+    "question_id": "cbse_xi_kemh1dd_c109_gen046",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Consider two parallel lines given in general form: Ax + By + C₁ = 0 and Ax + By + C₂ = 0. Which of the following is the correct expression for the distance between them?",
@@ -1393,7 +1439,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen047"
+    "question_id": "cbse_xi_kemh1dd_c109_gen047",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Define the perpendicular distance of a point from a line.",
@@ -1407,7 +1454,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen048"
+    "question_id": "cbse_xi_kemh1dd_c109_gen048",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Explain the significance of the segment QR in the derivation of the distance formula for a point and a line.",
@@ -1421,7 +1469,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen049"
+    "question_id": "cbse_xi_kemh1dd_c109_gen049",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Describe why the area of triangle PQR is utilized in the derivation of the distance from a point to a line.",
@@ -1435,7 +1484,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen050"
+    "question_id": "cbse_xi_kemh1dd_c109_gen050",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Derive the formula for the perpendicular distance from a point (x₁, y₁) to the line Ax + By + C = 0 using the area of the triangle formed by the point and the intercepts of the line.",
@@ -1449,7 +1499,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen051"
+    "question_id": "cbse_xi_kemh1dd_c109_gen051",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Prove that for two parallel lines given by Ax + By + C₁ = 0 and Ax + By + C₂ = 0, the distance between them is given by d = |C₁ - C₂| / √(A² + B²).",
@@ -1463,7 +1514,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen052"
+    "question_id": "cbse_xi_kemh1dd_c109_gen052",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Find the perpendicular distance of the point (3, –5) from the line 3x – 4y – 26 = 0.",
@@ -1477,7 +1529,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen053"
+    "question_id": "cbse_xi_kemh1dd_c109_gen053",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Find the distance between the two parallel lines: 2x – 5y + 7 = 0 and 2x – 5y – 3 = 0.",
@@ -1491,7 +1544,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen054"
+    "question_id": "cbse_xi_kemh1dd_c109_gen054",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Determine the distance of the point (-2, 3) from the line 4x + 3y + 12 = 0.",
@@ -1505,7 +1559,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen055"
+    "question_id": "cbse_xi_kemh1dd_c109_gen055",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "For the line 5x + 6y – 30 = 0, compute its x-intercept and y-intercept, and then determine the distance between these intercepts.",
@@ -1519,7 +1574,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen056"
+    "question_id": "cbse_xi_kemh1dd_c109_gen056",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Given the point (x₁, y₁) lies outside the line Ax + By + C = 0, show that scaling the coefficients A, B, and C by a nonzero constant k does not change the perpendicular distance from the point to the line.",
@@ -1533,7 +1589,8 @@
     "source": "generated",
     "chapter_id": "kemh109",
     "section_id": "07_section_9_4",
-    "question_id": "cbse_xi_kemh1dd_c109_gen057"
+    "question_id": "cbse_xi_kemh1dd_c109_gen057",
+    "section_name": "9.4 Distance of a Point From a Line"
   },
   {
     "question_text": "Write the equations for the x‐ and y‐axes.",

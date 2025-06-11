@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen016"
+    "question_id": "cbse_xi_keph2dd_c202_gen016",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Gauge pressure is best described as:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen017"
+    "question_id": "cbse_xi_keph2dd_c202_gen017",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Which of the following physical laws states that pressure applied to a confined fluid is transmitted undiminished in all directions?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen018"
+    "question_id": "cbse_xi_keph2dd_c202_gen018",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "The hydrostatic paradox illustrates that the pressure at the bottom of a container depends on the height of the fluid column rather than:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen019"
+    "question_id": "cbse_xi_keph2dd_c202_gen019",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "In a mercury barometer, a mercury column height of 76 cm is observed at sea level. What atmospheric pressure does this height represent?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen020"
+    "question_id": "cbse_xi_keph2dd_c202_gen020",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Define pressure and state its SI unit.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen021"
+    "question_id": "cbse_xi_keph2dd_c202_gen021",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Explain why, in a fluid at rest, the force exerted by the fluid is always normal (perpendicular) to the surface.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen022"
+    "question_id": "cbse_xi_keph2dd_c202_gen022",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "What is the significance of Pascal’s law in the functioning of hydraulic machines?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen023"
+    "question_id": "cbse_xi_keph2dd_c202_gen023",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Define density and relative density. Include their SI units or state if they are dimensionless.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen024"
+    "question_id": "cbse_xi_keph2dd_c202_gen024",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Explain how pressure variation with depth in a fluid is derived. Base your answer on the equilibrium of forces and include the final expression.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen025"
+    "question_id": "cbse_xi_keph2dd_c202_gen025",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Describe the working principle of a mercury barometer and how it is used to measure atmospheric pressure.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen026"
+    "question_id": "cbse_xi_keph2dd_c202_gen026",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Discuss the working principles of hydraulic lifts. Derive the relationship between the input force and the output force, and evaluate the advantages of using such a system in lifting heavy loads.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen027"
+    "question_id": "cbse_xi_keph2dd_c202_gen027",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "True or False: Pressure is a scalar quantity, meaning it has magnitude but no direction.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen028"
+    "question_id": "cbse_xi_keph2dd_c202_gen028",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "True or False: In a fluid at rest, the pressure does not necessarily act perpendicular to the surfaces in contact with the fluid.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen029"
+    "question_id": "cbse_xi_keph2dd_c202_gen029",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "True or False: The hydrostatic paradox shows that containers of different shapes but with the same fluid height exert different pressures at the bottom.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen030"
+    "question_id": "cbse_xi_keph2dd_c202_gen030",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "A person weighing 40 kg stands on his two femur bones, each with a cross-sectional area of 10 cm². Calculate the average pressure sustained by the femurs. (Take g = 10 m/s²)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen031"
+    "question_id": "cbse_xi_keph2dd_c202_gen031",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "A swimmer is at a depth of 10 m below the surface of a lake. Given that the density of water is 1000 kg/m³ and g = 10 m/s², calculate the absolute pressure at that depth if the atmospheric pressure is 1.01 × 10^5 Pa.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen032"
+    "question_id": "cbse_xi_keph2dd_c202_gen032",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Assuming the density of the atmosphere is 1.29 kg/m³ and remains constant, calculate the height of the atmosphere if the atmospheric pressure at sea level is 1.01 × 10^5 Pa. (Take g = 9.8 m/s²)",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen033"
+    "question_id": "cbse_xi_keph2dd_c202_gen033",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "A submarine window has an area of 20 cm × 20 cm and is exposed to sea water at a depth of 1000 m. Given that the density of sea water is 1.03 × 10^3 kg/m³, g = 10 m/s², and atmospheric pressure is 1.01 × 10^5 Pa, calculate (a) the absolute pressure, (b) the gauge pressure at that depth, and (c) the net force acting on the window if the interior pressure is maintained at sea level pressure.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen034"
+    "question_id": "cbse_xi_keph2dd_c202_gen034",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "Two syringes with pistons of diameters 1.0 cm and 3.0 cm, respectively, are connected via a tube and filled with water. (a) If a force of 10 N is applied to the smaller piston, what force is exerted on the larger piston? (b) If the smaller piston is pushed in by 6.0 cm, how much does the larger piston move out? (Assume water is incompressible.)",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen035"
+    "question_id": "cbse_xi_keph2dd_c202_gen035",
+    "section_name": "9.2 PRESSURE"
   },
   {
     "question_text": "In a car lift that operates on the principle of hydraulics, a small piston of radius 5.0 cm is connected to a larger piston of radius 15 cm. If the mass of the car is 1350 kg, calculate (a) the force required on the small piston and (b) the pressure necessary to generate this force. (Take g = 9.8 m/s²)",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "02_section_9_2",
-    "question_id": "cbse_xi_keph2dd_c202_gen036"
+    "question_id": "cbse_xi_keph2dd_c202_gen036",
+    "section_name": "9.2 PRESSURE"
   }
 ]

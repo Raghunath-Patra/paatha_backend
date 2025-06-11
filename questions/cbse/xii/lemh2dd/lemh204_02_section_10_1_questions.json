@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen001"
+    "question_id": "cbse_xii_lemh2dd_c204_gen001",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Which property distinguishes a vector from a scalar?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen002"
+    "question_id": "cbse_xii_lemh2dd_c204_gen002",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "In the context of Mathematics and Physics, which of the following quantities is considered a vector?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen003"
+    "question_id": "cbse_xii_lemh2dd_c204_gen003",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "In vector algebra, what does the operation of vector addition involve?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen004"
+    "question_id": "cbse_xii_lemh2dd_c204_gen004",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Define a scalar quantity and provide two examples.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen005"
+    "question_id": "cbse_xii_lemh2dd_c204_gen005",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Define a vector quantity and provide two examples from everyday life.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen006"
+    "question_id": "cbse_xii_lemh2dd_c204_gen006",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Explain in your own words why displacement is classified as a vector quantity.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen007"
+    "question_id": "cbse_xii_lemh2dd_c204_gen007",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Discuss both the algebraic and geometric properties of vectors. Provide an example to demonstrate how these properties are applied in problem-solving.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen008"
+    "question_id": "cbse_xii_lemh2dd_c204_gen008",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Prove that vector addition is both commutative and associative.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen009"
+    "question_id": "cbse_xii_lemh2dd_c204_gen009",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "A football player applies a force of 50 N at an angle of 30° above the horizontal. Calculate the horizontal and vertical components of this force.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen010"
+    "question_id": "cbse_xii_lemh2dd_c204_gen010",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Calculate the resultant of two vectors: one of 10 units east and the other of 10 units north.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen011"
+    "question_id": "cbse_xii_lemh2dd_c204_gen011",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "Given two displacement vectors A = 3i + 4j and B = 1i − 2j, find the resultant vector C = A + B and calculate its magnitude.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen012"
+    "question_id": "cbse_xii_lemh2dd_c204_gen012",
+    "section_name": "10.1 Introduction"
   },
   {
     "question_text": "A car travels 30 km north and then 40 km east. Determine the magnitude of the displacement vector and its direction relative to the north.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "lemh204",
     "section_id": "02_section_10_1",
-    "question_id": "cbse_xii_lemh2dd_c204_gen013"
+    "question_id": "cbse_xii_lemh2dd_c204_gen013",
+    "section_name": "10.1 Introduction"
   }
 ]

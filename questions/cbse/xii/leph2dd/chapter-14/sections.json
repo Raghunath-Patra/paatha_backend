@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "14.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "14.2 CLASSIFICATION OF METALS, CONDUCTORS AND SEMICONDUCTORS"
+    },
+    {
+      "number": 3,
+      "name": "14.3 INTRINSIC SEMICONDUCTOR"
+    },
+    {
+      "number": 4,
+      "name": "14.4 EXTRINSIC SEMICONDUCTOR"
+    },
+    {
+      "number": 6,
+      "name": "14.6 SEMICONDUCTOR DIODE"
+    },
+    {
+      "number": 7,
+      "name": "14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER"
+    }
+  ]
+}

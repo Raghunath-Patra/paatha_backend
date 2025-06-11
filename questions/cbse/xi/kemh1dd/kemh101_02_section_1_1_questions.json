@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen001"
+    "question_id": "cbse_xi_kemh1dd_c101_gen001",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Who is credited with the development of the modern theory of sets?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen002"
+    "question_id": "cbse_xi_kemh1dd_c101_gen002",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which branch of mathematics is least likely to use set theory as a foundational tool?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen003"
+    "question_id": "cbse_xi_kemh1dd_c101_gen003",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "The ellipse shown in Figure (_page_0_Picture_7.jpeg) is defined as the set of all points for which the sum of the distances to two fixed points is constant. Which of the following statements is true about ellipses?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen004"
+    "question_id": "cbse_xi_kemh1dd_c101_gen004",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Define a set and explain what distinguishes it from other mathematical collections.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen005"
+    "question_id": "cbse_xi_kemh1dd_c101_gen005",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Briefly explain the contribution of Georg Cantor to the field of mathematics.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen006"
+    "question_id": "cbse_xi_kemh1dd_c101_gen006",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Describe the geometric definition of an ellipse based on the sum of distances from two fixed points.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen007"
+    "question_id": "cbse_xi_kemh1dd_c101_gen007",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Discuss how the concept of sets is used in defining relations and functions in mathematics. Provide examples to support your explanation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen008"
+    "question_id": "cbse_xi_kemh1dd_c101_gen008",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Provide a proof or a detailed explanation showing that the ellipse is a conic section by deriving its standard equation using its geometric definition.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen009"
+    "question_id": "cbse_xi_kemh1dd_c101_gen009",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Given the sets A = {1, 3, 5, 7} and B = {3, 4, 5, 6}, find the union, intersection, and difference A - B.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen010"
+    "question_id": "cbse_xi_kemh1dd_c101_gen010",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Consider the ellipse with foci at (-3, 0) and (3, 0) and a constant sum of distances equal to 10. Determine the values of a, b, and c for the ellipse, and then write its standard equation.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen011"
+    "question_id": "cbse_xi_kemh1dd_c101_gen011",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "If U is the universal set of integers from 1 to 12, let A = {2, 4, 6, 8, 10, 12} and B = {1, 2, 3, 5, 7, 11}. Determine the sets A ∪ B, A ∩ B, and A - B.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen012"
+    "question_id": "cbse_xi_kemh1dd_c101_gen012",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "For sets A, B, and C, let A = {1, 2}, B = {2, 3}, and C = {3, 4}. Compute (A ∪ B) ∩ C and explain each step in obtaining the result.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xi_kemh1dd_c101_gen013"
+    "question_id": "cbse_xi_kemh1dd_c101_gen013",
+    "section_name": "1.1 Introduction"
   }
 ]

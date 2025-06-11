@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen302"
+    "question_id": "cbse_xi_keph1dd_c106_gen302",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Which of the following equations is NOT a standard kinematic equation for rotational motion with uniform angular acceleration?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen303"
+    "question_id": "cbse_xi_keph1dd_c106_gen303",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "To derive the equation ω = ω₀ + αt for uniform angular acceleration, which fundamental mathematical step is performed?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen304"
+    "question_id": "cbse_xi_keph1dd_c106_gen304",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In the derivation of angular kinematics equations, the constant of integration is determined by which initial condition?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen305"
+    "question_id": "cbse_xi_keph1dd_c106_gen305",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "In the coordinate system of Fig.6.29, what is the fixed axis about which the body rotates?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen306"
+    "question_id": "cbse_xi_keph1dd_c106_gen306",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Define angular displacement in the context of rotational motion and describe how it is measured.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen307"
+    "question_id": "cbse_xi_keph1dd_c106_gen307",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Describe the relationship between angular velocity and time when a rotational body is subject to uniform angular acceleration.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen308"
+    "question_id": "cbse_xi_keph1dd_c106_gen308",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Explain why, for rotational motion about a fixed axis, the angular velocity can be treated as a scalar quantity.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen309"
+    "question_id": "cbse_xi_keph1dd_c106_gen309",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "State the equation for angular displacement under uniform angular acceleration and identify each term in the equation.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen310"
+    "question_id": "cbse_xi_keph1dd_c106_gen310",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Derive the equation for angular displacement, θ = θ₀ + ω₀t + (1/2)αt², starting from the definition of angular velocity.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen311"
+    "question_id": "cbse_xi_keph1dd_c106_gen311",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Discuss the analogy between translational and rotational kinematics and explain how this analogy aids in understanding complex rotational dynamics.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen312"
+    "question_id": "cbse_xi_keph1dd_c106_gen312",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: In rotational kinematics about a fixed axis, the angular velocity can be treated as a scalar quantity because its direction remains constant during the motion.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen313"
+    "question_id": "cbse_xi_keph1dd_c106_gen313",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: The equation ω² = ω₀² + 2α(θ - θ₀) is valid for cases with non-uniform angular acceleration.",
@@ -214,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen314"
+    "question_id": "cbse_xi_keph1dd_c106_gen314",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "True or False: When converting revolutions per minute to radians per second, it is necessary to multiply by 2π and then divide by 60.",
@@ -233,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen315"
+    "question_id": "cbse_xi_keph1dd_c106_gen315",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A motor wheel's angular speed is increased from 1200 rpm to 3120 rpm uniformly in 16 seconds. Calculate the angular acceleration in rad/s².",
@@ -247,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen316"
+    "question_id": "cbse_xi_keph1dd_c106_gen316",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "Using the previous example of a motor wheel, determine the total number of revolutions made during the 16 second interval.",
@@ -261,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen317"
+    "question_id": "cbse_xi_keph1dd_c106_gen317",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A wheel rotates with a uniform angular acceleration of 2 rad/s². If its angular velocity increases from 5 rad/s to 15 rad/s, calculate the total angular displacement during this increase.",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen318"
+    "question_id": "cbse_xi_keph1dd_c106_gen318",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   },
   {
     "question_text": "A disc starts from rest and rotates with a constant angular acceleration. It covers an angular displacement of 20π radians in 10 seconds. Calculate the angular acceleration and its final angular velocity.",
@@ -289,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "10_section_6_10",
-    "question_id": "cbse_xi_keph1dd_c106_gen319"
+    "question_id": "cbse_xi_keph1dd_c106_gen319",
+    "section_name": "6.10 KINEMATICS OF ROTATIONAL MOTION ABOUT A FIXED AXIS**"
   }
 ]

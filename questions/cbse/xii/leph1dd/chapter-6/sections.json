@@ -1,0 +1,36 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "6.1 INTRODUCTION"
+    },
+    {
+      "number": 2,
+      "name": "6.2 THE EXPERIMENTS OF FARADAY AND HENRY"
+    },
+    {
+      "number": 3,
+      "name": "6.3 MAGNETIC FLUX"
+    },
+    {
+      "number": 4,
+      "name": "6.4 FARADAY'S LAW OF INDUCTION"
+    },
+    {
+      "number": 5,
+      "name": "6.5 LENZ'S LAW AND CONSERVATION OF ENERGY"
+    },
+    {
+      "number": 6,
+      "name": "6.6 MOTIONAL ELECTROMOTIVE FORCE"
+    },
+    {
+      "number": 7,
+      "name": "6.7 INDUCTANCE"
+    },
+    {
+      "number": 8,
+      "name": "6.8 AC GENERATOR"
+    }
+  ]
+}

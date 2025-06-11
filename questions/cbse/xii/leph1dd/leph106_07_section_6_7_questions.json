@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen111"
+    "question_id": "cbse_xii_leph1dd_c106_gen111",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "What is the SI unit of inductance?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen112"
+    "question_id": "cbse_xii_leph1dd_c106_gen112",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Which of the following equations correctly represents the self-induced emf in a coil experiencing a change in current?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen113"
+    "question_id": "cbse_xii_leph1dd_c106_gen113",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "How is the mutual inductance (M) of two long coaxial solenoids expressed in terms of n1, n2, r1, and l?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen114"
+    "question_id": "cbse_xii_leph1dd_c106_gen114",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Which analogy best describes self-inductance based on its electromagnetic behavior?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen115"
+    "question_id": "cbse_xii_leph1dd_c106_gen115",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Define flux linkage and provide its mathematical relation for a coil of N turns.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen116"
+    "question_id": "cbse_xii_leph1dd_c106_gen116",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "State the formula for self-inductance of a coil and briefly explain its significance in electromagnetic induction.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen117"
+    "question_id": "cbse_xii_leph1dd_c106_gen117",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "What is mutual inductance and how is it expressed mathematically for two coaxial solenoids?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen118"
+    "question_id": "cbse_xii_leph1dd_c106_gen118",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Explain why, under most practical conditions, the mutual inductance M12 equals M21.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen119"
+    "question_id": "cbse_xii_leph1dd_c106_gen119",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Derive the formula for the mutual inductance of two long coaxial solenoids having turn densities n1 and n2, inner solenoid radius r1, and length l.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen120"
+    "question_id": "cbse_xii_leph1dd_c106_gen120",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Derive the expression for the self-inductance of a long solenoid and discuss how this quantity is analogous to mass in mechanics.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen121"
+    "question_id": "cbse_xii_leph1dd_c106_gen121",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Discuss the concept of back emf resulting from self-induction and its role in energy storage in an inductor. Include the expression for energy stored in the magnetic field.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen122"
+    "question_id": "cbse_xii_leph1dd_c106_gen122",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "The SI unit of inductance is the Henry. True or False?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen123"
+    "question_id": "cbse_xii_leph1dd_c106_gen123",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Self-inductance depends on how quickly the current changes in time. True or False?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen124"
+    "question_id": "cbse_xii_leph1dd_c106_gen124",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "The mutual inductance of two coils is independent of their relative separation and orientation. True or False?",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen125"
+    "question_id": "cbse_xii_leph1dd_c106_gen125",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "A pair of long coaxial solenoids have turn densities of 200 turns/m for the inner solenoid and 150 turns/m for the outer solenoid. The inner solenoid has a radius of 0.01 m and the common length is 0.5 m. Calculate the mutual inductance between these two solenoids using M = mu0 * n1 * n2 * pi * r1^2 * l. (Use mu0 = 4pi x 10^-7 H/m)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen126"
+    "question_id": "cbse_xii_leph1dd_c106_gen126",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Calculate the self-inductance of a long solenoid with a turn density of 1000 turns/m, cross-sectional area of 0.02 m^2, and length 1 m using L = mu0 * n^2 * A * l. (Use mu0 = 4pi x 10^-7 H/m)",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen127"
+    "question_id": "cbse_xii_leph1dd_c106_gen127",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "Two concentric circular coils are placed such that the inner coil has a radius of 0.005 m and the outer coil has a radius of 0.05 m, with the inner coil much smaller than the outer. Using M = (mu0 * pi * r1^2) / (2 * r2), calculate the mutual inductance. (Use mu0 = 4pi x 10^-7 H/m)",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen128"
+    "question_id": "cbse_xii_leph1dd_c106_gen128",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "For an inductor with self-inductance L of 0.05 H carrying a current of 2 A, calculate the energy stored in its magnetic field using W = (1/2) L I^2.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen129"
+    "question_id": "cbse_xii_leph1dd_c106_gen129",
+    "section_name": "6.7 INDUCTANCE"
   },
   {
     "question_text": "A solenoid has a magnetic field B of 0.1 T, a cross-sectional area A of 0.03 m^2, and a length of 0.5 m. Calculate the total magnetic energy stored in the solenoid using the energy density method: U = (B^2/(2 mu0)) * (A * l). (Use mu0 = 4pi x 10^-7 H/m)",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "07_section_6_7",
-    "question_id": "cbse_xii_leph1dd_c106_gen130"
+    "question_id": "cbse_xii_leph1dd_c106_gen130",
+    "section_name": "6.7 INDUCTANCE"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen015"
+    "question_id": "cbse_ix_iesc1dd_c107_gen015",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Referring to Fig. 7.2(b), what information is conveyed by a road sign displaying 50 km/h and 40 km/h?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen016"
+    "question_id": "cbse_ix_iesc1dd_c107_gen016",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "If a car travels 100 km in 2 hours, which of the following represents the correct calculation of its average speed?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen017"
+    "question_id": "cbse_ix_iesc1dd_c107_gen017",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "When an object moves along a straight line but its speed varies, which of the following formulas is used to determine its average speed?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen018"
+    "question_id": "cbse_ix_iesc1dd_c107_gen018",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Define the term 'speed' and name its SI unit.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen019"
+    "question_id": "cbse_ix_iesc1dd_c107_gen019",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "What is the difference between speed and velocity?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen020"
+    "question_id": "cbse_ix_iesc1dd_c107_gen020",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "How do you calculate the average speed of an object that travels a total distance s in a total time t?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen021"
+    "question_id": "cbse_ix_iesc1dd_c107_gen021",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Explain how average velocity is calculated when an object moves in a definite direction and how it might differ from average speed.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen022"
+    "question_id": "cbse_ix_iesc1dd_c107_gen022",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "A car travels 16 m in 4 seconds and then another 16 m in 2 seconds. Explain the process of calculating its average speed and determine the value.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen023"
+    "question_id": "cbse_ix_iesc1dd_c107_gen023",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "Discuss how you would measure the distance to a lightning strike using the time interval between seeing lightning and hearing thunder. Include the necessary formula and any unit conversions.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen024"
+    "question_id": "cbse_ix_iesc1dd_c107_gen024",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "True or False: Average velocity is always equal to average speed. Provide corrections if the statement is false.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen025"
+    "question_id": "cbse_ix_iesc1dd_c107_gen025",
+    "section_name": "7.2 Measuring the Rate of Motion"
   },
   {
     "question_text": "True or False: The formula for average speed (total distance ÷ total time) can be used even if an object’s speed is not constant. If false, correct the statement.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "04_section_7_2",
-    "question_id": "cbse_ix_iesc1dd_c107_gen026"
+    "question_id": "cbse_ix_iesc1dd_c107_gen026",
+    "section_name": "7.2 Measuring the Rate of Motion"
   }
 ]

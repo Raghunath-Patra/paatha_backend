@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen072"
+    "question_id": "cbse_xi_keph1dd_c102_gen072",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "On a position-time graph, which of the following curves represents motion with constant positive acceleration?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen073"
+    "question_id": "cbse_xi_keph1dd_c102_gen073",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "How is instantaneous acceleration defined?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen074"
+    "question_id": "cbse_xi_keph1dd_c102_gen074",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "A velocity-time graph shows an object initially moving in the positive direction, then decelerating until it stops and eventually moving in the reverse direction. What does this change in the graph most clearly indicate?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen075"
+    "question_id": "cbse_xi_keph1dd_c102_gen075",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "What does the area under a velocity-time graph represent?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen076"
+    "question_id": "cbse_xi_keph1dd_c102_gen076",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "Define average acceleration and explain its significance in describing motion.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen077"
+    "question_id": "cbse_xi_keph1dd_c102_gen077",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "In Galileo's studies, why was the rate of change of velocity with time chosen over that with distance as the measure for acceleration?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen078"
+    "question_id": "cbse_xi_keph1dd_c102_gen078",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "Explain why the instantaneous acceleration at any point on a velocity-time graph is given by the slope of the tangent at that point.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen079"
+    "question_id": "cbse_xi_keph1dd_c102_gen079",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "Discuss how changing the direction of velocity (even if the speed remains constant) affects the acceleration of an object. Provide examples in your explanation.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen080"
+    "question_id": "cbse_xi_keph1dd_c102_gen080",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "Explain in detail how the area under a velocity-time graph is used to calculate the displacement of an object. Include a discussion of its dimensional consistency.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen081"
+    "question_id": "cbse_xi_keph1dd_c102_gen081",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "Velocity can change only if an object's speed changes, not if its direction changes.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen082"
+    "question_id": "cbse_xi_keph1dd_c102_gen082",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "In a motion with constant acceleration, the velocity-time graph is a straight line with a constant slope.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen083"
+    "question_id": "cbse_xi_keph1dd_c102_gen083",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "An object starts from rest and accelerates with a constant acceleration of 2 m/s². What is its velocity after 8 seconds, and what is the total displacement in that time period?",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen084"
+    "question_id": "cbse_xi_keph1dd_c102_gen084",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "An object moving with an initial speed of 20 m/s decelerates uniformly at -5 m/s². Calculate the time required for the object to come to a complete stop and the displacement during deceleration.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen085"
+    "question_id": "cbse_xi_keph1dd_c102_gen085",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "An object initially moves at 10 m/s and accelerates at 3 m/s² for 4 seconds. Immediately after, it decelerates at -3 m/s² for the next 4 seconds. Determine the displacement of the object over the entire 8-second period.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen086"
+    "question_id": "cbse_xi_keph1dd_c102_gen086",
+    "section_name": "2.3 ACCELERATION"
   },
   {
     "question_text": "A velocity-time graph of an object moving with constant acceleration forms a trapezoid with initial velocity 5 m/s, final velocity 15 m/s, over a time interval of 6 seconds. Calculate the displacement of the object over this interval.",
@@ -246,6 +261,7 @@
     "source": "generated",
     "chapter_id": "keph102",
     "section_id": "03_section_2_3",
-    "question_id": "cbse_xi_keph1dd_c102_gen087"
+    "question_id": "cbse_xi_keph1dd_c102_gen087",
+    "section_name": "2.3 ACCELERATION"
   }
 ]

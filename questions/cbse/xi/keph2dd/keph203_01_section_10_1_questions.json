@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen001"
+    "question_id": "cbse_xi_keph2dd_c203_gen001",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "During a phase change such as boiling or freezing, the temperature of a substance remains constant even though heat flows into or out of it. Which of the following options best explains this phenomenon?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen002"
+    "question_id": "cbse_xi_keph2dd_c203_gen002",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Which scale is used to measure absolute temperature in the ideal gas equation?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen003"
+    "question_id": "cbse_xi_keph2dd_c203_gen003",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "In the context of the experiment mentioned in the section, why might a blacksmith heat an iron ring before fitting it onto a wooden wheel?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen004"
+    "question_id": "cbse_xi_keph2dd_c203_gen004",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Newton's law of cooling involves which key variable that determines the rate at which an object cools?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen005"
+    "question_id": "cbse_xi_keph2dd_c203_gen005",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Define 'heat' in the context of physics and explain how it differs from temperature.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen006"
+    "question_id": "cbse_xi_keph2dd_c203_gen006",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why the temperature of water does not change during the boiling process even when heat is continuously added.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen007"
+    "question_id": "cbse_xi_keph2dd_c203_gen007",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "List and briefly describe three processes by which heat can be transferred.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen008"
+    "question_id": "cbse_xi_keph2dd_c203_gen008",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss why a blacksmith might heat an iron ring before fitting it onto the rim of a wooden wheel, and how thermal expansion plays a role in this process.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen009"
+    "question_id": "cbse_xi_keph2dd_c203_gen009",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Explain the concept of thermal expansion and discuss two practical applications where this phenomenon is important.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen010"
+    "question_id": "cbse_xi_keph2dd_c203_gen010",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the importance of accurate temperature measurement in physics. In your answer, include comparisons of different temperature scales such as Celsius and Kelvin, and explain why absolute temperature is crucial in the formulation of the ideal gas law.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen011"
+    "question_id": "cbse_xi_keph2dd_c203_gen011",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In physics, temperature is defined as the measure of the hotness of a body without any relation to the motion of its particles.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen012"
+    "question_id": "cbse_xi_keph2dd_c203_gen012",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: During the boiling process of water, the temperature remains constant despite the continuous flow of heat into the system.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen013"
+    "question_id": "cbse_xi_keph2dd_c203_gen013",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: The ideal gas equation uses absolute temperature to relate the state variables of a gas.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen014"
+    "question_id": "cbse_xi_keph2dd_c203_gen014",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "A mass of 500 g of water is heated from 20°C to 100°C. Given that the specific heat capacity of water is 4.18 J/g°C, calculate the amount of heat required. Provide your answer in joules with appropriate precision.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen015"
+    "question_id": "cbse_xi_keph2dd_c203_gen015",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "A container holds 2 moles of an ideal gas at a pressure of 101.3 kPa and a volume of 22.4 L. Using the ideal gas law with R = 8.314 J/(mol·K), calculate the absolute temperature of the gas. Express your answer in kelvins.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen016"
+    "question_id": "cbse_xi_keph2dd_c203_gen016",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "A metal rod with an initial length of 1 m expands by 0.5 cm when heated from 20°C to 120°C. Calculate the coefficient of linear expansion (α) for the rod. Express your answer in per °C.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen017"
+    "question_id": "cbse_xi_keph2dd_c203_gen017",
+    "section_name": "10.1 INTRODUCTION"
   },
   {
     "question_text": "An object cools from 90°C to 70°C in 10 minutes in an environment maintained at 20°C. Using Newton's law of cooling, determine the cooling constant (k) if the law is given by T(t) = T_ambient + (T_initial - T_ambient)e^(-kt). Provide k in per minute.",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "keph203",
     "section_id": "01_section_10_1",
-    "question_id": "cbse_xi_keph2dd_c203_gen018"
+    "question_id": "cbse_xi_keph2dd_c203_gen018",
+    "section_name": "10.1 INTRODUCTION"
   }
 ]

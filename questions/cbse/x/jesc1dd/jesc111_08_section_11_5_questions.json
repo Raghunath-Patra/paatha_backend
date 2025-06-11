@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen054"
+    "question_id": "cbse_x_jesc1dd_c111_gen054",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "When a nichrome wire is replaced by a copper wire of the same length and cross-sectional area, the observed current in the circuit will most likely be:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen055"
+    "question_id": "cbse_x_jesc1dd_c111_gen055",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "How does increasing the cross-sectional area of a conductor affect its resistance?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen056"
+    "question_id": "cbse_x_jesc1dd_c111_gen056",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "What is the SI unit of electrical resistivity?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen057"
+    "question_id": "cbse_x_jesc1dd_c111_gen057",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "Define electrical resistivity and explain its significance in determining the performance of a conductor.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen058"
+    "question_id": "cbse_x_jesc1dd_c111_gen058",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "State the relationship between the resistance of a uniform conductor, its length, and cross-sectional area. Provide the relevant formula.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen059"
+    "question_id": "cbse_x_jesc1dd_c111_gen059",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "How does doubling the length of a wire influence its resistance, assuming all other factors remain constant?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen060"
+    "question_id": "cbse_x_jesc1dd_c111_gen060",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "Discuss the role of the material of a conductor in determining its resistance. Why might an electrical appliance like an electric heater use a material with higher resistivity?",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen061"
+    "question_id": "cbse_x_jesc1dd_c111_gen061",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "Explain how Ohm's law is used to calculate the current in an electric circuit when replacing one conductor with another of different dimensions or material. Provide a step-by-step explanation using the formula I = V/R.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen062"
+    "question_id": "cbse_x_jesc1dd_c111_gen062",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "Design an experiment to investigate the effect of temperature on the resistance of a metal wire. In your design, describe the setup, variables to be controlled, and the expected outcome based on the temperature dependence of resistivity.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen063"
+    "question_id": "cbse_x_jesc1dd_c111_gen063",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "True or False: The resistance of a conductor is inversely proportional to its length.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen064"
+    "question_id": "cbse_x_jesc1dd_c111_gen064",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   },
   {
     "question_text": "True or False: For a given material and length, a thicker wire will have a lower resistance compared to a thinner wire.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "jesc111",
     "section_id": "08_section_11_5",
-    "question_id": "cbse_x_jesc1dd_c111_gen065"
+    "question_id": "cbse_x_jesc1dd_c111_gen065",
+    "section_name": "11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS"
   }
 ]

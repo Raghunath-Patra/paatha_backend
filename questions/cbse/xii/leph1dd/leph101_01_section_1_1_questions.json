@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen001"
+    "question_id": "cbse_xii_leph1dd_c101_gen001",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following best describes the term 'static' as used in the context of electrostatics?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen002"
+    "question_id": "cbse_xii_leph1dd_c101_gen002",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "What everyday example mentioned in the text demonstrates the effect of static electricity?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen003"
+    "question_id": "cbse_xii_leph1dd_c101_gen003",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following forces or quantities is primarily studied in electrostatics?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen004"
+    "question_id": "cbse_xii_leph1dd_c101_gen004",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following is NOT a typical method for generating static electricity according to the chapter?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen005"
+    "question_id": "cbse_xii_leph1dd_c101_gen005",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "Explain in your own words how friction can lead to the generation of static electricity.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen006"
+    "question_id": "cbse_xii_leph1dd_c101_gen006",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "What are insulating surfaces and how do they contribute to the generation of static electricity?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen007"
+    "question_id": "cbse_xii_leph1dd_c101_gen007",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "Describe a real-world situation in which static electricity might be dangerous, referring to examples from the text.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen008"
+    "question_id": "cbse_xii_leph1dd_c101_gen008",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "Briefly outline the difference between static and dynamic electricity.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen009"
+    "question_id": "cbse_xii_leph1dd_c101_gen009",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the mechanism of static charge build-up and its potential effects on the human body, giving examples such as the shock experienced when opening a car door.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen010"
+    "question_id": "cbse_xii_leph1dd_c101_gen010",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "Analyze the role of friction in generating static electricity, and propose an experimental method to measure the accumulation of static charge on everyday insulating materials.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen011"
+    "question_id": "cbse_xii_leph1dd_c101_gen011",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Static means that the electricity involved does not change or move over time.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen012"
+    "question_id": "cbse_xii_leph1dd_c101_gen012",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Static electricity can be generated only by friction and no other method.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen013"
+    "question_id": "cbse_xii_leph1dd_c101_gen013",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "A person accumulates a charge of 2 microcoulombs (2 x 10^-6 C) by friction. Estimate the number of electrons transferred, given that the charge of one electron is 1.6 x 10^-19 C.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen014"
+    "question_id": "cbse_xii_leph1dd_c101_gen014",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "During a lightning strike, a discharge transfers 5 coulombs of charge. Calculate the approximate number of electrons involved in this discharge.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen015"
+    "question_id": "cbse_xii_leph1dd_c101_gen015",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "A static spark occurs when there is a potential difference of 3000 volts across a 1 mm gap. Calculate the electric field intensity in the gap. (Hint: Electric field E = V/d, where d must be in meters)",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen016"
+    "question_id": "cbse_xii_leph1dd_c101_gen016",
+    "section_name": "1.1 INTRODUCTION"
   },
   {
     "question_text": "A metal sphere of radius 5 cm acquires a charge of 0.5 microcoulombs (0.5 x 10^-6 C) after contact with a charged insulator. Calculate the electric potential on the surface of the sphere using V = kQ/R, where k = 9 x 10^9 N·m^2/C^2.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_xii_leph1dd_c101_gen017"
+    "question_id": "cbse_xii_leph1dd_c101_gen017",
+    "section_name": "1.1 INTRODUCTION"
   }
 ]

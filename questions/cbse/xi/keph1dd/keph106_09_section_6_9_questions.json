@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen287"
+    "question_id": "cbse_xi_keph1dd_c106_gen287",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "In comparing translational and rotational motion, which of the following analogies is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen288"
+    "question_id": "cbse_xi_keph1dd_c106_gen288",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "For a thin rod rotating about an axis perpendicular to the rod at its midpoint, the radius of gyration (k) is given by:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen289"
+    "question_id": "cbse_xi_keph1dd_c106_gen289",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "What are the SI units of moment of inertia?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen290"
+    "question_id": "cbse_xi_keph1dd_c106_gen290",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Define moment of inertia and explain its physical significance in rotational motion.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen291"
+    "question_id": "cbse_xi_keph1dd_c106_gen291",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Explain why the moment of inertia is not a fixed property like mass. Provide details in your answer.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen292"
+    "question_id": "cbse_xi_keph1dd_c106_gen292",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "What is the radius of gyration and how is it related to the moment of inertia of a body?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen293"
+    "question_id": "cbse_xi_keph1dd_c106_gen293",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Compare and contrast the expressions for kinetic energy in translational motion and rotational motion. Discuss the role of mass and moment of inertia in these expressions.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen294"
+    "question_id": "cbse_xi_keph1dd_c106_gen294",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "Discuss the practical importance of flywheels in machines such as steam engines and automobile engines, with reference to the concept of moment of inertia.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen295"
+    "question_id": "cbse_xi_keph1dd_c106_gen295",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "True or False: The moment of inertia of a rigid body remains the same regardless of the chosen axis of rotation.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen296"
+    "question_id": "cbse_xi_keph1dd_c106_gen296",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "True or False: For a thin circular ring rotating about its diameter, the moment of inertia is MR2/2.",
@@ -181,7 +191,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen297"
+    "question_id": "cbse_xi_keph1dd_c106_gen297",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A thin ring has a mass of 10 kg and a radius of 0.5 m. Calculate its moment of inertia when rotating about an axis perpendicular to its plane through its center.",
@@ -195,7 +206,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen298"
+    "question_id": "cbse_xi_keph1dd_c106_gen298",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A rigid rod of negligible mass has a length of 2 m and supports two small masses each of which is 2.5 kg, attached at its ends. Find the moment of inertia of the system about an axis perpendicular to the rod through its midpoint.",
@@ -209,7 +221,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen299"
+    "question_id": "cbse_xi_keph1dd_c106_gen299",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A circular disc with a mass of 8 kg and a radius of 0.4 m rotates about an axis perpendicular to its face at the center. Given that its moment of inertia is I = M R2/2, calculate I.",
@@ -223,7 +236,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen300"
+    "question_id": "cbse_xi_keph1dd_c106_gen300",
+    "section_name": "6.9 MOMENT OF INERTIA"
   },
   {
     "question_text": "A thin rod system consists of two point masses with a total mass of 12 kg separated by a distance of 3 m, rotating about an axis through the center. Use the appropriate formula to determine the moment of inertia for the system.",
@@ -237,6 +251,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "09_section_6_9",
-    "question_id": "cbse_xi_keph1dd_c106_gen301"
+    "question_id": "cbse_xi_keph1dd_c106_gen301",
+    "section_name": "6.9 MOMENT OF INERTIA"
   }
 ]

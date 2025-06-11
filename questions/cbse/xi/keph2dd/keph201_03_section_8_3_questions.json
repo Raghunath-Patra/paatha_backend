@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen079"
+    "question_id": "cbse_xi_keph2dd_c201_gen079",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "In the equation stress = k * strain, what does the constant k represent?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen080"
+    "question_id": "cbse_xi_keph2dd_c201_gen080",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Which statement is true regarding the empirical nature of Hooke's law?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen081"
+    "question_id": "cbse_xi_keph2dd_c201_gen081",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Which of the following materials might not follow the linear relationship described by Hooke's law?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen082"
+    "question_id": "cbse_xi_keph2dd_c201_gen082",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Define modulus of elasticity in the context of Hooke's law.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen083"
+    "question_id": "cbse_xi_keph2dd_c201_gen083",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Explain why Hooke's law is considered an empirical law.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen084"
+    "question_id": "cbse_xi_keph2dd_c201_gen084",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Discuss an example of a material or situation where Hooke's law might not hold true.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen085"
+    "question_id": "cbse_xi_keph2dd_c201_gen085",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Describe how you would design an experiment to verify Hooke's law for a given material.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen086"
+    "question_id": "cbse_xi_keph2dd_c201_gen086",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "Analyze the significance of Hooke's law in material science and engineering applications.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen087"
+    "question_id": "cbse_xi_keph2dd_c201_gen087",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "True or False: Hooke's law is valid for all materials regardless of the size of deformation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen088"
+    "question_id": "cbse_xi_keph2dd_c201_gen088",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "True or False: The proportionality constant in Hooke's law is determined theoretically from first principles.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen089"
+    "question_id": "cbse_xi_keph2dd_c201_gen089",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A steel rod has a modulus of elasticity of 200 GPa. If a stress of 100 MPa is applied within the elastic limit, calculate the strain experienced by the rod. Assume linear behavior.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen090"
+    "question_id": "cbse_xi_keph2dd_c201_gen090",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A sample material follows Hooke's law up to a strain of 0.002. If the modulus of elasticity for the material is 50 GPa, what is the maximum stress that can be applied while remaining in the linear elastic region?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen091"
+    "question_id": "cbse_xi_keph2dd_c201_gen091",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A polymer sample obeys Hooke's law with a given k. During an experiment, it is observed that when the strain is doubled, the stress more than doubles, indicating non-linear behavior. If the initial stress at strain 0.005 was 10 MPa, what can you conclude about the material's behavior?",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen092"
+    "question_id": "cbse_xi_keph2dd_c201_gen092",
+    "section_name": "8.3 HOOKE'S LAW"
   },
   {
     "question_text": "A cylindrical rod made of an unknown material is subjected to a tensile test. When a load of 5000 N is applied, the rod elongates by 0.5 mm. If the original length of the rod is 2 m and its cross-sectional area is 1 x 10^-4 m^2, calculate the stress, strain, and determine the modulus of elasticity. Provide your answers with appropriate units.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "03_section_8_3",
-    "question_id": "cbse_xi_keph2dd_c201_gen093"
+    "question_id": "cbse_xi_keph2dd_c201_gen093",
+    "section_name": "8.3 HOOKE'S LAW"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen070"
+    "question_id": "cbse_xi_keph1dd_c107_gen070",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "What is the correct mathematical expression for the gravitational force between two point masses m1 and m2 separated by a distance r?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen071"
+    "question_id": "cbse_xi_keph1dd_c107_gen071",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "According to the text, what is the gravitational force exerted by a hollow spherical shell of uniform density on a point mass located inside it?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen072"
+    "question_id": "cbse_xi_keph1dd_c107_gen072",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the diagram showing gravitational interaction between two point masses m1 and m2, the force on m1 due to m2 is directed along which vector?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen073"
+    "question_id": "cbse_xi_keph1dd_c107_gen073",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the centripetal acceleration equation for the moon, aₘ = (4π² Rₘ) / (T²), what does T represent?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen074"
+    "question_id": "cbse_xi_keph1dd_c107_gen074",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Explain why the gravitational acceleration experienced by the moon in its orbit is much smaller than the gravitational acceleration at the Earth's surface.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen075"
+    "question_id": "cbse_xi_keph1dd_c107_gen075",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the relationship g / aₘ = (Rₘ²) / (Rₑ²), describe how knowing the values of Rₘ and Rₑ can confirm the inverse square nature of gravitational acceleration.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen076"
+    "question_id": "cbse_xi_keph1dd_c107_gen076",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In the equilateral triangle configuration, what is the effect on the net gravitational force at the centroid when the mass at vertex A is doubled?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen077"
+    "question_id": "cbse_xi_keph1dd_c107_gen077",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Briefly explain how calculus is used to determine the gravitational force between an extended object and a point mass.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen078"
+    "question_id": "cbse_xi_keph1dd_c107_gen078",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Discuss the vector addition technique used to determine the net gravitational force on a point mass due to multiple surrounding masses, as illustrated in the extended object diagrams.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen079"
+    "question_id": "cbse_xi_keph1dd_c107_gen079",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Analyze the derivation of the centripetal acceleration for the moon (aₘ = (4π² Rₘ) / (T²)) and explain how this supports the inverse square law for gravitation.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen080"
+    "question_id": "cbse_xi_keph1dd_c107_gen080",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Evaluate the assumptions in Newton's derivation of the universal law of gravitation, particularly the treatment of extended objects as point masses, and discuss how these assumptions are addressed with spherical shells.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen081"
+    "question_id": "cbse_xi_keph1dd_c107_gen081",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: Newton's universal law of gravitation states that every body in the universe attracts every other body with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen082"
+    "question_id": "cbse_xi_keph1dd_c107_gen082",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: For a hollow spherical shell of uniform density, the gravitational force on a point mass located inside the shell is non-zero.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen083"
+    "question_id": "cbse_xi_keph1dd_c107_gen083",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "True or False: In an equilateral triangle configuration with equal masses at each vertex, the resultant gravitational force acting on a mass placed at the centroid is zero.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen084"
+    "question_id": "cbse_xi_keph1dd_c107_gen084",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the equation aₘ = (4π² Rₘ) / (T²), calculate the centripetal acceleration aₘ of the moon given that T = 27.3 days and Rₘ = 3.84 × 10^8 m. Show all steps and include proper unit conversions.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen085"
+    "question_id": "cbse_xi_keph1dd_c107_gen085",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using the relationship g / aₘ = (Rₘ²) / (Rₑ²) with Earth's radius Rₑ = 6.4 × 10^6 m and the moon's orbital radius Rₘ = 3.84 × 10^8 m, calculate the ratio g / aₘ. Assume g = 9.8 m/s².",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen086"
+    "question_id": "cbse_xi_keph1dd_c107_gen086",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "In a system where three equal point masses m are fixed at the vertices of an equilateral triangle with side length 1 m, and a mass of 2m is placed at the centroid, compute the net gravitational force on the 2m mass. Assume G is a constant and use the given symmetry.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen087"
+    "question_id": "cbse_xi_keph1dd_c107_gen087",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "For the equilateral triangle configuration, if the mass at vertex A is doubled while the other two masses remain m, calculate the net gravitational force on the 2m mass at the centroid. Use the information that AG = 1 m and the force contributions are given.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen088"
+    "question_id": "cbse_xi_keph1dd_c107_gen088",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "Using Newton’s law F = G * (m1 * m2) / r², calculate the gravitational force between two spheres of mass 5.0 × 10^24 kg and 7.0 × 10^22 kg separated by a distance of 3.84 × 10^8 m. Use G = 6.67 × 10^-11 N·m²/kg² and show all your steps.",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen089"
+    "question_id": "cbse_xi_keph1dd_c107_gen089",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   },
   {
     "question_text": "A 100 kg point mass is placed inside a hollow spherical shell of uniform density. Using the principle outlined in the text, compute the gravitational force acting on the point mass.",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_3",
-    "question_id": "cbse_xi_keph1dd_c107_gen090"
+    "question_id": "cbse_xi_keph1dd_c107_gen090",
+    "section_name": "7.3 UNIVERSAL LAW OF GRAVITATION"
   }
 ]

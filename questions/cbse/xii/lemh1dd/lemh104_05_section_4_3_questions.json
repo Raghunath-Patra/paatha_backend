@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen028"
+    "question_id": "cbse_xii_lemh1dd_c104_gen028",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "What is the area of a triangle when its vertices are collinear?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen029"
+    "question_id": "cbse_xii_lemh1dd_c104_gen029",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "If the determinant value calculated from the coordinates of a triangle's vertices is -6, what is the area of the triangle?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen030"
+    "question_id": "cbse_xii_lemh1dd_c104_gen030",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "Define the determinant form used for calculating the area of a triangle given its vertices.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen031"
+    "question_id": "cbse_xii_lemh1dd_c104_gen031",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "Explain why we take the absolute value of the determinant when calculating the area of a triangle.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen032"
+    "question_id": "cbse_xii_lemh1dd_c104_gen032",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "What does an area of zero indicate about the vertices of a triangle? Provide your reasoning.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen033"
+    "question_id": "cbse_xii_lemh1dd_c104_gen033",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "Using determinants, derive the equation of the line passing through the points A(1,3) and B(0,0).",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen034"
+    "question_id": "cbse_xii_lemh1dd_c104_gen034",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "Prove that the area of a triangle with vertices (x₁, y₁), (x₂, y₂), and (x₃, y₃) is given by Δ = ½ |x₁(y₂ - y₃) + x₂(y₃ - y₁) + x₃(y₁ - y₂)| using properties of determinants.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen035"
+    "question_id": "cbse_xii_lemh1dd_c104_gen035",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "Given line AB with A(1,3) and B(0,0) and a point D(k,0) such that the area of triangle ABD is 3 square units, derive the value(s) of k using determinants.",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen036"
+    "question_id": "cbse_xii_lemh1dd_c104_gen036",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "Find the area of the triangle with vertices (2, -1), (4, 3), and (-1, 2) using the determinant formula.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen037"
+    "question_id": "cbse_xii_lemh1dd_c104_gen037",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "Calculate the area of the triangle with vertices (0,0), (1,5), and (6,1) using the determinant method.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen038"
+    "question_id": "cbse_xii_lemh1dd_c104_gen038",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "If a triangle with vertices A(0,0), B(3,2), and C(x,4) has an area of 7.5 square units, find the possible value(s) of x.",
@@ -180,7 +191,8 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen039"
+    "question_id": "cbse_xii_lemh1dd_c104_gen039",
+    "section_name": "4.3 Area of a Triangle"
   },
   {
     "question_text": "Using determinants, verify if the points (2,3), (4,8) and (6,13) are collinear by computing the area of the triangle they form.",
@@ -194,6 +206,7 @@
     "source": "generated",
     "chapter_id": "lemh104",
     "section_id": "05_section_4_3",
-    "question_id": "cbse_xii_lemh1dd_c104_gen040"
+    "question_id": "cbse_xii_lemh1dd_c104_gen040",
+    "section_name": "4.3 Area of a Triangle"
   }
 ]

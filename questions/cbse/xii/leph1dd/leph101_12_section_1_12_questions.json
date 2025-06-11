@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen206"
+    "question_id": "cbse_xii_leph1dd_c101_gen206",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "Which of the following are the correct units for surface charge density (σ)?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen207"
+    "question_id": "cbse_xii_leph1dd_c101_gen207",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "How is volume charge density (ρ) defined?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen208"
+    "question_id": "cbse_xii_leph1dd_c101_gen208",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "Which expression best represents the total electric field from a continuous charge distribution?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen209"
+    "question_id": "cbse_xii_leph1dd_c101_gen209",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "In the treatment of continuous charge distributions, why is the microscopic quantization of charge usually ignored?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen210"
+    "question_id": "cbse_xii_leph1dd_c101_gen210",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "Briefly explain why it is often impractical to work with discrete charge distributions in certain physical problems.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen211"
+    "question_id": "cbse_xii_leph1dd_c101_gen211",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "What is the primary difference between a discrete and a continuous charge distribution?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen212"
+    "question_id": "cbse_xii_leph1dd_c101_gen212",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "Define linear charge density and specify its SI units.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen213"
+    "question_id": "cbse_xii_leph1dd_c101_gen213",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "Derive the expression for the electric field due to a continuous volume charge distribution using Coulomb's law and the principle of superposition.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen214"
+    "question_id": "cbse_xii_leph1dd_c101_gen214",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "Explain how the summation over discrete charge elements transitions into an integral when determining the electric field of a continuous charge distribution.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen215"
+    "question_id": "cbse_xii_leph1dd_c101_gen215",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "Evaluate the assumptions and limitations of treating a charge distribution as continuous, particularly in ignoring the microscopic discretization of charge.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen216"
+    "question_id": "cbse_xii_leph1dd_c101_gen216",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "True or False: The volume charge density is defined as the charge contained in a small volume element divided by that volume.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen217"
+    "question_id": "cbse_xii_leph1dd_c101_gen217",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "True or False: The units for surface charge density are coulombs per cubic meter (C/m³).",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen218"
+    "question_id": "cbse_xii_leph1dd_c101_gen218",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "True or False: In a continuous charge distribution, the chosen volume element is small on the macroscopic scale but contains a very large number of microscopic charges.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen219"
+    "question_id": "cbse_xii_leph1dd_c101_gen219",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "A uniformly charged wire has a linear charge density of 5e-6 C/m. Calculate the total charge on a 2 m segment of the wire.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen220"
+    "question_id": "cbse_xii_leph1dd_c101_gen220",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "A flat conductor has a uniform surface charge density of 1e-9 C/m². Find the total charge on an area of 0.5 m².",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen221"
+    "question_id": "cbse_xii_leph1dd_c101_gen221",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "Given a uniform volume charge density of 3e-7 C/m³, calculate the charge contained in a 0.01 m³ volume.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen222"
+    "question_id": "cbse_xii_leph1dd_c101_gen222",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   },
   {
     "question_text": "A small volume element has a volume of 1e-6 m³ and is located such that the distance from the charge element to point P is 0.2 m. If the local volume charge density is 4e-7 C/m³, calculate the magnitude of the electric field contribution from this element using Coulomb's law. (Assume 1/(4πϵ0) = 9e9 N·m²/C².)",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "12_section_1_12",
-    "question_id": "cbse_xii_leph1dd_c101_gen223"
+    "question_id": "cbse_xii_leph1dd_c101_gen223",
+    "section_name": "1.12 CONTINUOUS CHARGE DISTRIBUTION"
   }
 ]

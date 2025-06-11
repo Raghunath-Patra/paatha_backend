@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "1.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "1.2 Irrational Numbers"
+    },
+    {
+      "number": 3,
+      "name": "1.3 Real Numbers and their Decimal Expansions"
+    },
+    {
+      "number": 4,
+      "name": "1.4 Operations on Real Numbers"
+    },
+    {
+      "number": 5,
+      "name": "1.5 Laws of Exponents for Real Numbers"
+    },
+    {
+      "number": 6,
+      "name": "1.6 Summary"
+    }
+  ]
+}

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen001"
+    "question_id": "cbse_xii_leph2dd_c206_gen001",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "In a vacuum tube, which electrode emits electrons when heated?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen002"
+    "question_id": "cbse_xii_leph2dd_c206_gen002",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Why is a vacuum necessary within a vacuum tube?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen003"
+    "question_id": "cbse_xii_leph2dd_c206_gen003",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Which naturally occurring crystal, when used with a metal point contact, was employed as a detector for radio waves?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen004"
+    "question_id": "cbse_xii_leph2dd_c206_gen004",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Compared to vacuum tubes, solid-state semiconductor devices are known for which of the following advantages?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen005"
+    "question_id": "cbse_xii_leph2dd_c206_gen005",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Explain why a vacuum is necessary inside a vacuum tube.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen006"
+    "question_id": "cbse_xii_leph2dd_c206_gen006",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Describe the main advantages semiconductor devices have over vacuum tubes.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen007"
+    "question_id": "cbse_xii_leph2dd_c206_gen007",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "What early discovery in the 1930s paved the way for semiconductor electronics?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen008"
+    "question_id": "cbse_xii_leph2dd_c206_gen008",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Identify two significant limitations of vacuum tubes as mentioned in the text.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen009"
+    "question_id": "cbse_xii_leph2dd_c206_gen009",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Compare and contrast the structure and operation of vacuum tubes and semiconductor devices. In your answer, discuss why there was a significant shift from vacuum tubes to semiconductor technology.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen010"
+    "question_id": "cbse_xii_leph2dd_c206_gen010",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the role of the galena crystal in the early development of semiconductor technology. How did its use as a radio wave detector influence later advancements?",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen011"
+    "question_id": "cbse_xii_leph2dd_c206_gen011",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: In a vacuum diode, electrons flow from the anode to the cathode.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen012"
+    "question_id": "cbse_xii_leph2dd_c206_gen012",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "True or False: Solid-state semiconductor devices operate by controlling the supply and flow of charge carriers within the solid itself, without the need for an evacuated space or external heating.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen013"
+    "question_id": "cbse_xii_leph2dd_c206_gen013",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "A vacuum tube operates at 100 V. If the operating voltage is decreased by 50%, what is the new operating voltage?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen014"
+    "question_id": "cbse_xii_leph2dd_c206_gen014",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "Calculate the energy supplied by a vacuum tube operating at 100 V when a single electron (charge = 1.6 x 10^-19 C) is emitted. Express your answer in joules.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen015"
+    "question_id": "cbse_xii_leph2dd_c206_gen015",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "A semiconductor device operates at 5 V, while a vacuum tube operates at 100 V. If a process involves 1000 electrons passing through each device every second, calculate and compare the energy consumed per second by each device. Use the electron charge of 1.6 x 10^-19 C.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen016"
+    "question_id": "cbse_xii_leph2dd_c206_gen016",
+    "section_name": "14.1 INTRODUCTION"
   },
   {
     "question_text": "In a vacuum tube device, the gap between the cathode and the anode is 2 cm and a voltage of 100 V is applied across them. Assuming an electron is released from rest, estimate the time it takes for the electron to reach the anode. Use the electron charge 1.6 x 10^-19 C, electron mass 9.1 x 10^-31 kg, and the equation d = 0.5 x a x t^2 where a = (e x V/d)/m.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "leph206",
     "section_id": "02_section_14_1",
-    "question_id": "cbse_xii_leph2dd_c206_gen017"
+    "question_id": "cbse_xii_leph2dd_c206_gen017",
+    "section_name": "14.1 INTRODUCTION"
   }
 ]

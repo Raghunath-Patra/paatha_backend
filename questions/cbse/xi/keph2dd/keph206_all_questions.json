@@ -260,7 +260,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen112"
+    "question_id": "cbse_xi_keph2dd_c206_gen112",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "According to the textbook section, the acceleration in simple harmonic motion is directly proportional to which of the following variables?",
@@ -279,7 +280,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen113"
+    "question_id": "cbse_xi_keph2dd_c206_gen113",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In the expression x(t) = A cos(ωt + ϕ) describing the displacement in SHM, what does A represent?",
@@ -298,7 +300,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen114"
+    "question_id": "cbse_xi_keph2dd_c206_gen114",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "The period T of simple harmonic motion is related to the angular frequency ω by which of the following expressions?",
@@ -317,7 +320,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen115"
+    "question_id": "cbse_xi_keph2dd_c206_gen115",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which graph among the following best represents the velocity in simple harmonic motion?",
@@ -336,7 +340,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen116"
+    "question_id": "cbse_xi_keph2dd_c206_gen116",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define uniform circular motion and explain how it is related to simple harmonic motion.",
@@ -350,7 +355,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen117"
+    "question_id": "cbse_xi_keph2dd_c206_gen117",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain the significance of the negative sign in the velocity (v(t) = -ωA sin(ωt + ϕ)) and acceleration (a(t) = -ω²A cos(ωt + ϕ)) equations in simple harmonic motion.",
@@ -364,7 +370,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen118"
+    "question_id": "cbse_xi_keph2dd_c206_gen118",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How does the projection of the velocity vector from uniform circular motion lead to the sinusoidal form of the velocity function in SHM?",
@@ -378,7 +385,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen119"
+    "question_id": "cbse_xi_keph2dd_c206_gen119",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Given x(t) = A cos(ωt), derive the expression for acceleration a(t).",
@@ -392,7 +400,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen120"
+    "question_id": "cbse_xi_keph2dd_c206_gen120",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the velocity function v(t) = -ωA sin(ωt + ϕ) from the displacement function x(t) = A cos(ωt + ϕ) using differentiation.",
@@ -406,7 +415,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen121"
+    "question_id": "cbse_xi_keph2dd_c206_gen121",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the method of reference circle, explain geometrically why the acceleration in simple harmonic motion is always directed toward the equilibrium position.",
@@ -420,7 +430,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen122"
+    "question_id": "cbse_xi_keph2dd_c206_gen122",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss the phase relationships between displacement, velocity, and acceleration in simple harmonic motion, and explain how these relationships are reflected in their respective graphs.",
@@ -434,7 +445,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen123"
+    "question_id": "cbse_xi_keph2dd_c206_gen123",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In simple harmonic motion, when the displacement is zero, the acceleration is also zero. True or false?",
@@ -448,7 +460,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen124"
+    "question_id": "cbse_xi_keph2dd_c206_gen124",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "The maximum speed in simple harmonic motion occurs when the displacement is at its maximum. True or false?",
@@ -462,7 +475,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen125"
+    "question_id": "cbse_xi_keph2dd_c206_gen125",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Differentiating the displacement function with respect to time gives the velocity in simple harmonic motion. True or false?",
@@ -476,7 +490,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen126"
+    "question_id": "cbse_xi_keph2dd_c206_gen126",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle oscillates with x(t) = 3 cos(4t). Calculate the displacement, velocity, and acceleration of the particle at t = 0.5 s.",
@@ -490,7 +505,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen127"
+    "question_id": "cbse_xi_keph2dd_c206_gen127",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "For a body oscillating with the equation x = 8 cos(πt + π/6), determine the angular frequency ω, the time period T, and the displacement at t = 1 s.",
@@ -504,7 +520,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen128"
+    "question_id": "cbse_xi_keph2dd_c206_gen128",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Given x(t) = 6 cos(2t) for a particle in SHM, find the maximum speed and maximum acceleration of the particle.",
@@ -518,7 +535,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen129"
+    "question_id": "cbse_xi_keph2dd_c206_gen129",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle in SHM has a maximum acceleration of 50 m/s² and an amplitude of 5 m. Calculate its angular frequency ω and period T.",
@@ -532,7 +550,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen130"
+    "question_id": "cbse_xi_keph2dd_c206_gen130",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the example from the textbook where x = 5 cos(2πt + π/4), verify the calculated speed at t = 1.5 s.",
@@ -546,7 +565,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen131"
+    "question_id": "cbse_xi_keph2dd_c206_gen131",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following best defines periodic motion?",
@@ -565,7 +585,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen017"
+    "question_id": "cbse_xi_keph2dd_c206_gen017",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "What is the period T of a cosine function f(t) = A cos(ωt)?",
@@ -584,7 +605,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen018"
+    "question_id": "cbse_xi_keph2dd_c206_gen018",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "In the equation h = ut + (1/2)gt² used for downward motion, what does the symbol u represent?",
@@ -603,7 +625,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen019"
+    "question_id": "cbse_xi_keph2dd_c206_gen019",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Simple harmonic motion (SHM) is characterized by a restoring force that is directly proportional to which of the following?",
@@ -622,7 +645,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen020"
+    "question_id": "cbse_xi_keph2dd_c206_gen020",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Which of the following functions is not periodic based on the discussion in the section?",
@@ -641,7 +665,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen021"
+    "question_id": "cbse_xi_keph2dd_c206_gen021",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Define periodic motion and provide one example of such a motion.",
@@ -655,7 +680,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen022"
+    "question_id": "cbse_xi_keph2dd_c206_gen022",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Explain the difference between oscillatory motion and periodic motion.",
@@ -669,7 +695,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen023"
+    "question_id": "cbse_xi_keph2dd_c206_gen023",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "How is frequency related to the period? Provide the equation and a brief explanation.",
@@ -683,7 +710,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen024"
+    "question_id": "cbse_xi_keph2dd_c206_gen024",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Discuss the significance of Fourier series in the analysis of periodic functions.",
@@ -697,7 +725,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen025"
+    "question_id": "cbse_xi_keph2dd_c206_gen025",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Describe simple harmonic motion (SHM) including the condition on the restoring force and provide a real-world example.",
@@ -711,7 +740,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen026"
+    "question_id": "cbse_xi_keph2dd_c206_gen026",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Analyze the displacement function f(t) = A sin(ωt) + B cos(ωt) and show how it can be rewritten in the form f(t) = D sin(ωt + φ). Provide the expressions for D and φ in terms of A and B.",
@@ -725,7 +755,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen027"
+    "question_id": "cbse_xi_keph2dd_c206_gen027",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Evaluate the effects of damping on oscillatory systems and suggest methods by which sustained oscillations can be achieved despite damping.",
@@ -739,7 +770,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen028"
+    "question_id": "cbse_xi_keph2dd_c206_gen028",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: Every periodic motion is necessarily oscillatory.",
@@ -753,7 +785,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen029"
+    "question_id": "cbse_xi_keph2dd_c206_gen029",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: In most experiments, the displacement variable for an oscillating system is measured from its equilibrium position.",
@@ -767,7 +800,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen030"
+    "question_id": "cbse_xi_keph2dd_c206_gen030",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: Functions such as e^(-ωt) and log(ωt) can be used to describe physical displacements in periodic motions.",
@@ -781,7 +815,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen031"
+    "question_id": "cbse_xi_keph2dd_c206_gen031",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "A quartz crystal in a timekeeping device vibrates with a period of 20 microseconds. Calculate its frequency in hertz (Hz).",
@@ -795,7 +830,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen032"
+    "question_id": "cbse_xi_keph2dd_c206_gen032",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "A human heart beats 75 times in one minute. Determine the beat frequency in hertz and the period (time interval between successive beats).",
@@ -809,7 +845,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen033"
+    "question_id": "cbse_xi_keph2dd_c206_gen033",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "For a periodic function given by f(t) = A cos(ωt), if the function repeats every 0.5 seconds, calculate the angular frequency ω.",
@@ -823,7 +860,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen034"
+    "question_id": "cbse_xi_keph2dd_c206_gen034",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "A system undergoing damped oscillations has its displacement described by f(t) = e^(-0.5t) sin(3t). Determine whether the underlying sinusoidal function is periodic and, if so, what its period is when ignoring the damping factor. Also, comment on the effect of the damping term.",
@@ -837,7 +875,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen035"
+    "question_id": "cbse_xi_keph2dd_c206_gen035",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "In the small-angle approximation, the motion of a simple pendulum is considered to be which type of motion?",
@@ -856,7 +895,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen250"
+    "question_id": "cbse_xi_keph2dd_c206_gen250",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Which component of the weight of the bob provides the restoring torque in a simple pendulum?",
@@ -875,7 +915,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen251"
+    "question_id": "cbse_xi_keph2dd_c206_gen251",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "What key assumption is made in the analysis of a simple pendulum to derive its simple harmonic motion behavior?",
@@ -894,7 +935,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen252"
+    "question_id": "cbse_xi_keph2dd_c206_gen252",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "According to the formula T = 2π√(L/g) for a simple pendulum, what is the approximate length of a pendulum with a 2-second period?",
@@ -913,7 +955,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen253"
+    "question_id": "cbse_xi_keph2dd_c206_gen253",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "For a simple pendulum with a massless string, what is the expression for its moment of inertia about the pivot?",
@@ -932,7 +975,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen254"
+    "question_id": "cbse_xi_keph2dd_c206_gen254",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Explain why the radial force component in a simple pendulum does not produce a torque about the pivot.",
@@ -946,7 +990,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen255"
+    "question_id": "cbse_xi_keph2dd_c206_gen255",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Write the equation that relates torque, moment of inertia, and angular acceleration for a simple pendulum.",
@@ -960,7 +1005,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen256"
+    "question_id": "cbse_xi_keph2dd_c206_gen256",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "How does the mass of the bob affect the time period of a simple pendulum?",
@@ -974,7 +1020,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen257"
+    "question_id": "cbse_xi_keph2dd_c206_gen257",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "What assumption is made in simplifying the pendulum’s equation of motion into that of simple harmonic motion?",
@@ -988,7 +1035,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen258"
+    "question_id": "cbse_xi_keph2dd_c206_gen258",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Derive the time period T = 2π√(L/g) for a simple pendulum starting from the torque equation.",
@@ -1002,7 +1050,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen259"
+    "question_id": "cbse_xi_keph2dd_c206_gen259",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Compare the roles of the centripetal and tangential force components in the motion of a simple pendulum.",
@@ -1016,7 +1065,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen260"
+    "question_id": "cbse_xi_keph2dd_c206_gen260",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Discuss the limitations of using the small-angle approximation in analyzing a simple pendulum’s motion.",
@@ -1030,7 +1080,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen261"
+    "question_id": "cbse_xi_keph2dd_c206_gen261",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "True or False: The tension in a simple pendulum's string produces a restoring torque about the pivot.",
@@ -1044,7 +1095,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen262"
+    "question_id": "cbse_xi_keph2dd_c206_gen262",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "True or False: In the derivation of the time period for a simple pendulum, the bob's mass cancels out, making the period independent of mass.",
@@ -1058,7 +1110,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen263"
+    "question_id": "cbse_xi_keph2dd_c206_gen263",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "True or False: For a pendulum executing simple harmonic motion, the centripetal force is provided solely by the weight component mg sinθ.",
@@ -1072,7 +1125,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen264"
+    "question_id": "cbse_xi_keph2dd_c206_gen264",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Calculate the length of a simple pendulum with a period of 3 seconds. Assume g = 9.8 m/s².",
@@ -1086,7 +1140,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen265"
+    "question_id": "cbse_xi_keph2dd_c206_gen265",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "For a pendulum with a length of 1.5 m and g = 9.8 m/s², find its time period.",
@@ -1100,7 +1155,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen266"
+    "question_id": "cbse_xi_keph2dd_c206_gen266",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A pendulum oscillates with a maximum angular displacement of 10° (approximately 0.1745 radians). Compute sinθ and compare it with θ.",
@@ -1114,7 +1170,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen267"
+    "question_id": "cbse_xi_keph2dd_c206_gen267",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A pendulum bob of mass 0.5 kg swings with a maximum displacement of 15° (approximately 0.262 radians) from the vertical. If the pendulum length is 1 m and g = 9.8 m/s², compute the restoring torque.",
@@ -1128,7 +1185,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen268"
+    "question_id": "cbse_xi_keph2dd_c206_gen268",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A pendulum clock ticks seconds. Determine the length of the pendulum if g = 9.81 m/s² and its period is 2 seconds.",
@@ -1142,7 +1200,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen269"
+    "question_id": "cbse_xi_keph2dd_c206_gen269",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A modified pendulum has a string length of 2.5 m. Calculate its angular frequency (ω) and period (T) given g = 9.8 m/s².",
@@ -1156,7 +1215,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "08_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen270"
+    "question_id": "cbse_xi_keph2dd_c206_gen270",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Which of the following represents the kinetic energy of a particle undergoing simple harmonic motion?",
@@ -1175,7 +1235,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen211"
+    "question_id": "cbse_xi_keph2dd_c206_gen211",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In a block-spring system executing simple harmonic motion, the total mechanical energy is given by which formula?",
@@ -1194,7 +1255,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen212"
+    "question_id": "cbse_xi_keph2dd_c206_gen212",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the period of the kinetic energy oscillation relative to the period T of the displacement in simple harmonic motion?",
@@ -1213,7 +1275,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen213"
+    "question_id": "cbse_xi_keph2dd_c206_gen213",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "At which displacement is the kinetic energy maximum in simple harmonic motion?",
@@ -1232,7 +1295,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen214"
+    "question_id": "cbse_xi_keph2dd_c206_gen214",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "If the potential energy of a particle in SHM is given by U = 1/2 kx^2 and the displacement is expressed as x = A cos(ωt+φ), what is the corresponding expression for potential energy?",
@@ -1251,7 +1315,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen215"
+    "question_id": "cbse_xi_keph2dd_c206_gen215",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain why the kinetic energy in simple harmonic motion has a period of T/2 rather than T.",
@@ -1265,7 +1330,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen216"
+    "question_id": "cbse_xi_keph2dd_c206_gen216",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Describe the energy transformation process in a particle executing simple harmonic motion as it moves from the equilibrium position to the extreme displacement.",
@@ -1279,7 +1345,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen217"
+    "question_id": "cbse_xi_keph2dd_c206_gen217",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "List the expressions for the kinetic and potential energies of a particle in simple harmonic motion in terms of amplitude A and angular frequency ω.",
@@ -1293,7 +1360,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen218"
+    "question_id": "cbse_xi_keph2dd_c206_gen218",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What principle ensures the total energy of a harmonic oscillator remains constant during its motion?",
@@ -1307,7 +1375,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen219"
+    "question_id": "cbse_xi_keph2dd_c206_gen219",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the expression for the total energy of a harmonic oscillator starting from the expressions for kinetic energy, K = 1/2 m ω^2 A^2 sin^2(ωt+φ), and potential energy, U = 1/2 k A^2 cos^2(ωt+φ).",
@@ -1321,7 +1390,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen220"
+    "question_id": "cbse_xi_keph2dd_c206_gen220",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss how the energy oscillates between kinetic and potential forms during one complete cycle of simple harmonic motion. Include in your answer a qualitative description of a graph showing K, U, and E as functions of time.",
@@ -1335,7 +1405,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen221"
+    "question_id": "cbse_xi_keph2dd_c206_gen221",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle executing simple harmonic motion has an amplitude A and angular frequency ω. Derive the time dependence of its kinetic and potential energies and explain why their maximum values occur at the equilibrium and extreme positions respectively.",
@@ -1349,7 +1420,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen222"
+    "question_id": "cbse_xi_keph2dd_c206_gen222",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In simple harmonic motion, the potential energy of the system is always greater than the kinetic energy.",
@@ -1363,7 +1435,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen223"
+    "question_id": "cbse_xi_keph2dd_c206_gen223",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The total mechanical energy in simple harmonic motion remains constant because the spring force is a conservative force.",
@@ -1377,7 +1450,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen224"
+    "question_id": "cbse_xi_keph2dd_c206_gen224",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The function sin^2(ωt+φ) used in the expression for kinetic energy in SHM has a period equal to T, the period of the displacement.",
@@ -1391,7 +1465,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen225"
+    "question_id": "cbse_xi_keph2dd_c206_gen225",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A 2-kg mass is attached to a spring with a spring constant of 32 N/m and executes simple harmonic motion with an amplitude of 0.5 m. Calculate the angular frequency and determine the kinetic and potential energies when the displacement is 0.3 m from equilibrium.",
@@ -1405,7 +1480,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen226"
+    "question_id": "cbse_xi_keph2dd_c206_gen226",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In a system where a block of mass 1 kg is attached to a spring with k = 50 N/m and executes SHM, if the block is 0.04 m away from equilibrium and its velocity is measured as 0.6 m/s, compute the kinetic, potential, and total energies.",
@@ -1419,7 +1495,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen227"
+    "question_id": "cbse_xi_keph2dd_c206_gen227",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A harmonic oscillator has a maximum kinetic energy of 3 J and an amplitude of 0.2 m. If the angular frequency is 10 rad/s, determine the spring constant and mass of the oscillator.",
@@ -1433,7 +1510,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen228"
+    "question_id": "cbse_xi_keph2dd_c206_gen228",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A 1.5-kg mass is attached to a spring with a spring constant of 48 N/m and oscillates with an amplitude of 0.1 m. Calculate the total energy of the system and the velocity of the mass when its displacement is 0.06 m from equilibrium.",
@@ -1447,7 +1525,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen229"
+    "question_id": "cbse_xi_keph2dd_c206_gen229",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "For a mass-spring system executing simple harmonic motion with a period T = 0.5 s and amplitude A = 0.15 m, and with a mass of 0.8 kg, determine the angular frequency, spring constant, and total energy of the system.",
@@ -1461,7 +1540,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen230"
+    "question_id": "cbse_xi_keph2dd_c206_gen230",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following equations best represents simple harmonic motion (SHM) as described in the text?",
@@ -1480,7 +1560,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen055"
+    "question_id": "cbse_xi_keph2dd_c206_gen055",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "At what position is the particle in simple harmonic motion moving with its maximum speed?",
@@ -1499,7 +1580,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen056"
+    "question_id": "cbse_xi_keph2dd_c206_gen056",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How is the angular frequency ω in simple harmonic motion related to the period T of the motion?",
@@ -1518,7 +1600,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen057"
+    "question_id": "cbse_xi_keph2dd_c206_gen057",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "If two simple harmonic motions have the same amplitude and angular frequency but differ only by their phase constant φ, what does this imply about their oscillations?",
@@ -1537,7 +1620,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen058"
+    "question_id": "cbse_xi_keph2dd_c206_gen058",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "The function x = sin(ωt) - cos(ωt) can be rewritten in the standard SHM form as which of the following?",
@@ -1556,7 +1640,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen059"
+    "question_id": "cbse_xi_keph2dd_c206_gen059",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define the term 'amplitude' in the context of simple harmonic motion.",
@@ -1570,7 +1655,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen060"
+    "question_id": "cbse_xi_keph2dd_c206_gen060",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain the physical significance of the phase constant (φ) in the simple harmonic motion equation.",
@@ -1584,7 +1670,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen061"
+    "question_id": "cbse_xi_keph2dd_c206_gen061",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Describe how a change in angular frequency (ω) affects the period of the oscillation, keeping the amplitude constant.",
@@ -1598,7 +1685,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen062"
+    "question_id": "cbse_xi_keph2dd_c206_gen062",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How can two simple harmonic motions with the same amplitude and frequency display different displacement values at the same time?",
@@ -1612,7 +1700,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen063"
+    "question_id": "cbse_xi_keph2dd_c206_gen063",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss in detail the characteristics of a particle executing simple harmonic motion, including the relationships between displacement, velocity, and acceleration.",
@@ -1626,7 +1715,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen064"
+    "question_id": "cbse_xi_keph2dd_c206_gen064",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the relationship between the angular frequency ω and the period T for simple harmonic motion. Also, explain the importance of the period T in the context of SHM.",
@@ -1640,7 +1730,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen065"
+    "question_id": "cbse_xi_keph2dd_c206_gen065",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Compare two simple harmonic motions that have identical angular frequencies and phase constants but different amplitudes. How does the difference in amplitude affect the energy of the oscillators?",
@@ -1654,7 +1745,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen066"
+    "question_id": "cbse_xi_keph2dd_c206_gen066",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In simple harmonic motion, the restoring force acting on the particle is directly proportional to its displacement from the equilibrium position and acts in the opposite direction.",
@@ -1668,7 +1760,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen067"
+    "question_id": "cbse_xi_keph2dd_c206_gen067",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: A function that is periodic but not sinusoidal, such as sin(2ωt), cannot represent simple harmonic motion.",
@@ -1682,7 +1775,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen068"
+    "question_id": "cbse_xi_keph2dd_c206_gen068",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle undergoing SHM has an amplitude of 5 cm and a period of 2 s. Calculate the angular frequency ω.",
@@ -1696,7 +1790,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen069"
+    "question_id": "cbse_xi_keph2dd_c206_gen069",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle's displacement in SHM is given by x(t) = 6 cos(4t - π/3). Determine the amplitude, angular frequency, period, and phase constant.",
@@ -1710,7 +1805,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen070"
+    "question_id": "cbse_xi_keph2dd_c206_gen070",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Consider the functions f(t) = sin(ωt) - cos(ωt) and g(t) = sin(2ωt). Determine which function represents simple harmonic motion and calculate the period for both functions.",
@@ -1724,7 +1820,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen071"
+    "question_id": "cbse_xi_keph2dd_c206_gen071",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A simple oscillator moves according to the equation x(t) = 3 cos(2πt + π/6). Calculate the displacement and the velocity of the oscillator at time t = 0.25 s.",
@@ -1738,7 +1835,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen072"
+    "question_id": "cbse_xi_keph2dd_c206_gen072",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Two oscillators are described by x1 = A cos(ωt) and x2 = A cos(ωt - π/2). Determine the phase difference in degrees between these two motions and the corresponding time difference in terms of ω.",
@@ -1752,7 +1850,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen073"
+    "question_id": "cbse_xi_keph2dd_c206_gen073",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following equations correctly represents the force acting on a particle in simple harmonic motion?",
@@ -1771,7 +1870,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen172"
+    "question_id": "cbse_xi_keph2dd_c206_gen172",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the expression for the constant k in terms of mass m and angular frequency ω for a simple harmonic oscillator?",
@@ -1790,7 +1890,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen173"
+    "question_id": "cbse_xi_keph2dd_c206_gen173",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In a mass-spring system where two identical springs are attached to a block, what is the effective spring constant when both springs act together?",
@@ -1809,7 +1910,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen174"
+    "question_id": "cbse_xi_keph2dd_c206_gen174",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "If additional terms proportional to x², x³, etc., are present in the force expression, the oscillator is referred to as:",
@@ -1828,7 +1930,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen175"
+    "question_id": "cbse_xi_keph2dd_c206_gen175",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "To retrieve the displacement function from the force law of SHM, which mathematical operation must be performed on the force equation?",
@@ -1847,7 +1950,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen176"
+    "question_id": "cbse_xi_keph2dd_c206_gen176",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define simple harmonic motion using the force law. Include in your answer the direction of the force relative to the displacement.",
@@ -1861,7 +1965,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen177"
+    "question_id": "cbse_xi_keph2dd_c206_gen177",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain why a particle undergoing simple harmonic motion experiences a restoring force.",
@@ -1875,7 +1980,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen178"
+    "question_id": "cbse_xi_keph2dd_c206_gen178",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What distinguishes a linear harmonic oscillator from a non-linear oscillator?",
@@ -1889,7 +1995,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen179"
+    "question_id": "cbse_xi_keph2dd_c206_gen179",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How can the displacement function x(t) be recovered from the force law equation in simple harmonic motion?",
@@ -1903,7 +2010,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen180"
+    "question_id": "cbse_xi_keph2dd_c206_gen180",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Describe the process of deriving the force law for simple harmonic motion starting from the displacement equation x(t). Include the significance of differentiation in your answer.",
@@ -1917,7 +2025,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen181"
+    "question_id": "cbse_xi_keph2dd_c206_gen181",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the system in Example 13.6 where two identical springs (each with spring constant k) are attached to a block of mass m, explain how to derive the net force acting on the block when it is displaced by a small distance x. Also, determine how the effective spring constant affects the period T of oscillation.",
@@ -1931,7 +2040,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen182"
+    "question_id": "cbse_xi_keph2dd_c206_gen182",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Critically compare the derivation of simple harmonic motion using the displacement equation and the force equation. Discuss any assumptions made during the derivation and the significance of integrating versus differentiating in the process.",
@@ -1945,7 +2055,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen183"
+    "question_id": "cbse_xi_keph2dd_c206_gen183",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In simple harmonic motion, the force acting on the particle is always directed away from the equilibrium position.",
@@ -1959,7 +2070,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen184"
+    "question_id": "cbse_xi_keph2dd_c206_gen184",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: For a mass attached to two identical springs, the period of oscillation is given by T = 2π √(m/2k).",
@@ -1973,7 +2085,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen185"
+    "question_id": "cbse_xi_keph2dd_c206_gen185",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: Additional force terms proportional to higher powers of displacement (such as x² or x³) indicate that the system is a linear oscillator.",
@@ -1987,7 +2100,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen186"
+    "question_id": "cbse_xi_keph2dd_c206_gen186",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass of 0.5 kg is attached to a spring with a spring constant of 2 N/m. Calculate the angular frequency (ω) and the period (T) of oscillation for this mass-spring system.",
@@ -2001,7 +2115,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen187"
+    "question_id": "cbse_xi_keph2dd_c206_gen187",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A block of mass 1 kg is placed between two identical springs, each having a spring constant of 50 N/m. If the block is displaced by 0.1 m from its equilibrium position, determine the net restoring force acting on the block and calculate the period of oscillation.",
@@ -2015,7 +2130,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen188"
+    "question_id": "cbse_xi_keph2dd_c206_gen188",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass of 0.2 kg attached to a spring oscillates with a period of 1.4 s. Calculate the spring constant k for the system using the formula for the period of a mass-spring system.",
@@ -2029,7 +2145,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen189"
+    "question_id": "cbse_xi_keph2dd_c206_gen189",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Two identical springs, each with a spring constant of 25 N/m, are attached to a mass of 2 kg as shown in Example 13.6. Calculate the angular frequency (ω) of the block's oscillation.",
@@ -2043,7 +2160,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen190"
+    "question_id": "cbse_xi_keph2dd_c206_gen190",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle of mass 0.8 kg attached to a spring executes simple harmonic motion described by the displacement function x(t) = 0.05 cos(3t) (with x in meters and t in seconds). Using Newton's second law, derive the force function F(t) and determine the spring constant k.",
@@ -2057,7 +2175,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen191"
+    "question_id": "cbse_xi_keph2dd_c206_gen191",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which equation correctly gives the speed of a particle P in uniform circular motion?",
@@ -2076,7 +2195,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen132"
+    "question_id": "cbse_xi_keph2dd_c206_gen132",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In simple harmonic motion (SHM), what is the phase difference between displacement and acceleration?",
@@ -2095,7 +2215,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen133"
+    "question_id": "cbse_xi_keph2dd_c206_gen133",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "If the displacement x(t) is positive in SHM, what can be said about the direction of the acceleration a(t)?",
@@ -2114,7 +2235,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen134"
+    "question_id": "cbse_xi_keph2dd_c206_gen134",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What physical principle is used to explain the relationship a(t) = -ω²x(t) in SHM?",
@@ -2133,7 +2255,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen135"
+    "question_id": "cbse_xi_keph2dd_c206_gen135",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following correctly represents the instantaneous velocity v(t) of a particle in SHM, given the displacement equation x(t) = A cos(ωt + φ)?",
@@ -2152,7 +2275,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen136"
+    "question_id": "cbse_xi_keph2dd_c206_gen136",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain briefly why the velocity of the projection point P' on the x-axis in a reference circle produces a sinusoidal function of time.",
@@ -2166,7 +2290,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen137"
+    "question_id": "cbse_xi_keph2dd_c206_gen137",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Differentiate between the geometrical method and the calculus method for obtaining the velocity and acceleration in SHM.",
@@ -2180,7 +2305,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen138"
+    "question_id": "cbse_xi_keph2dd_c206_gen138",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the significance of the negative sign in the equations v(t) = -ωA sin(ωt + φ) and a(t) = -ω²A cos(ωt + φ) for SHM?",
@@ -2194,7 +2320,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen139"
+    "question_id": "cbse_xi_keph2dd_c206_gen139",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How does the centripetal acceleration in circular motion relate to the acceleration in SHM?",
@@ -2208,7 +2335,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen140"
+    "question_id": "cbse_xi_keph2dd_c206_gen140",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the expression for acceleration a(t) in SHM by differentiating the velocity function v(t) = -ωA sin(ωt + φ).",
@@ -2222,7 +2350,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen141"
+    "question_id": "cbse_xi_keph2dd_c206_gen141",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the reference circle method, discuss how the sinusoidal nature of displacement, velocity, and acceleration in SHM can be visually interpreted.",
@@ -2236,7 +2365,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen142"
+    "question_id": "cbse_xi_keph2dd_c206_gen142",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Design an experiment to verify that the acceleration in SHM is proportional to the displacement and always directed toward the equilibrium position.",
@@ -2250,7 +2380,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen143"
+    "question_id": "cbse_xi_keph2dd_c206_gen143",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In SHM, the velocity of the particle is maximum when its displacement is maximum.",
@@ -2264,7 +2395,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen144"
+    "question_id": "cbse_xi_keph2dd_c206_gen144",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The method of using a reference circle can be used to derive both the expressions for velocity and acceleration in SHM.",
@@ -2278,7 +2410,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen145"
+    "question_id": "cbse_xi_keph2dd_c206_gen145",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: Differentiating the displacement function in SHM directly leads to the expression for both velocity and acceleration, without needing any geometric considerations.",
@@ -2292,7 +2425,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen146"
+    "question_id": "cbse_xi_keph2dd_c206_gen146",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A body oscillates with SHM according to x = 4 cos(πt). Find the displacement at t = 0.75 s.",
@@ -2306,7 +2440,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen147"
+    "question_id": "cbse_xi_keph2dd_c206_gen147",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "For the SHM described by x = 5 cos(2πt + π/4), calculate the velocity at t = 1.5 s.",
@@ -2320,7 +2455,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen148"
+    "question_id": "cbse_xi_keph2dd_c206_gen148",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A pendulum undergoing SHM has a displacement given by x = 2 cos(4t) (in meters). Determine the acceleration at t = 0.5 s.",
@@ -2334,7 +2470,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen149"
+    "question_id": "cbse_xi_keph2dd_c206_gen149",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Consider a mass-spring system obeying x = 3 cos(6t - π/3). Compute the amplitude of velocity and maximum acceleration.",
@@ -2348,7 +2485,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen150"
+    "question_id": "cbse_xi_keph2dd_c206_gen150",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle moves in SHM with displacement x = 8 cos(πt/2). Determine the period of the motion, and find the speed when x = 0.",
@@ -2362,7 +2500,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen151"
+    "question_id": "cbse_xi_keph2dd_c206_gen151",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A body oscillates with SHM given by x = 5 cos(2πt + π/4) in SI units. At t = 1.5 s, calculate the (a) displacement, (b) speed, and (c) acceleration of the body.",
@@ -2376,7 +2515,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen152"
+    "question_id": "cbse_xi_keph2dd_c206_gen152",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which equation is used for the time period of a simple pendulum for small angular displacements?",
@@ -2395,7 +2535,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen231"
+    "question_id": "cbse_xi_keph2dd_c206_gen231",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Which force component provides the restoring torque for the oscillation of a simple pendulum?",
@@ -2414,7 +2555,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen232"
+    "question_id": "cbse_xi_keph2dd_c206_gen232",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "For small angular displacements, which of the following approximations is used to simplify the pendulum’s equation of motion?",
@@ -2433,7 +2575,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen233"
+    "question_id": "cbse_xi_keph2dd_c206_gen233",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Why is it convenient to analyze the pendulum’s motion by considering the torque about the support point?",
@@ -2452,7 +2595,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen234"
+    "question_id": "cbse_xi_keph2dd_c206_gen234",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "In the context of a simple pendulum, what does the variable 'L' denote?",
@@ -2471,7 +2615,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen235"
+    "question_id": "cbse_xi_keph2dd_c206_gen235",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "What is the small angle approximation used to simplify the pendulum motion equation?",
@@ -2485,7 +2630,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen236"
+    "question_id": "cbse_xi_keph2dd_c206_gen236",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Explain why the tension in the string does not contribute to the restoring torque in a simple pendulum.",
@@ -2499,7 +2645,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen237"
+    "question_id": "cbse_xi_keph2dd_c206_gen237",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Identify and list the forces acting on the bob of a simple pendulum and describe how they are resolved.",
@@ -2513,7 +2660,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen238"
+    "question_id": "cbse_xi_keph2dd_c206_gen238",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Describe the relationship between angular acceleration and restoring torque in a simple pendulum.",
@@ -2527,7 +2675,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen239"
+    "question_id": "cbse_xi_keph2dd_c206_gen239",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Derive the equation for the time period T of a simple pendulum starting from the torque expression about the support.",
@@ -2541,7 +2690,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen240"
+    "question_id": "cbse_xi_keph2dd_c206_gen240",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Discuss the validity of the small angle approximation (sinθ ≈ θ) in a simple pendulum, particularly for angles up to 20°.",
@@ -2555,7 +2705,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen241"
+    "question_id": "cbse_xi_keph2dd_c206_gen241",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Analyze how the moment of inertia affects the time period of a pendulum. What happens to the period if the mass distribution changes such that the moment of inertia increases?",
@@ -2569,7 +2720,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen242"
+    "question_id": "cbse_xi_keph2dd_c206_gen242",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "The restoring torque in a simple pendulum is provided solely by the tangential component of the gravitational force (mg sinθ). True or False?",
@@ -2583,7 +2735,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen243"
+    "question_id": "cbse_xi_keph2dd_c206_gen243",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "The radial component of the gravitational force (mg cosθ) contributes to the centripetal acceleration but does not affect the angular motion of the pendulum. True or False?",
@@ -2597,7 +2750,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen244"
+    "question_id": "cbse_xi_keph2dd_c206_gen244",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A simple pendulum has a length of 1.0 m. Calculate its period of oscillation given that the acceleration due to gravity, g, is 9.8 m/s².",
@@ -2611,7 +2765,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen245"
+    "question_id": "cbse_xi_keph2dd_c206_gen245",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Determine the length of a pendulum that ticks seconds (i.e., having a period T = 2 s) given g = 9.8 m/s².",
@@ -2625,7 +2780,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen246"
+    "question_id": "cbse_xi_keph2dd_c206_gen246",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "Find the period of a simple pendulum if its length is 2.25 m. Use g = 9.8 m/s².",
@@ -2639,7 +2795,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen247"
+    "question_id": "cbse_xi_keph2dd_c206_gen247",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "A simple pendulum has a period of 1.5 seconds. Calculate its length given g = 9.8 m/s².",
@@ -2653,7 +2810,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen248"
+    "question_id": "cbse_xi_keph2dd_c206_gen248",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "If a pendulum bob is replaced by one with an increased moment of inertia, now given by I = 1.5 mL² instead of mL², while keeping the string length constant, determine the new period of the pendulum for L = 1 m and g = 9.8 m/s².",
@@ -2667,7 +2825,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "07_section_13_8",
-    "question_id": "cbse_xi_keph2dd_c206_gen249"
+    "question_id": "cbse_xi_keph2dd_c206_gen249",
+    "section_name": "13.8 The Simple Pendulum"
   },
   {
     "question_text": "When a particle undergoes uniform circular motion and is viewed edge-on, what type of motion is observed?",
@@ -2686,7 +2845,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen074"
+    "question_id": "cbse_xi_keph2dd_c206_gen074",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Which of the following equations correctly represents the x-projection of a particle's position on a circle of radius A moving with uniform angular speed?",
@@ -2705,7 +2865,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen075"
+    "question_id": "cbse_xi_keph2dd_c206_gen075",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "In the experiment where a ball is tied to a string and rotated, what type of motion is observed when viewing the ball's shadow on a wall perpendicular to the circle's plane?",
@@ -2724,7 +2885,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen076"
+    "question_id": "cbse_xi_keph2dd_c206_gen076",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "What is the phase difference between the x-projection and the y-projection of a particle in uniform circular motion?",
@@ -2743,7 +2905,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen077"
+    "question_id": "cbse_xi_keph2dd_c206_gen077",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Define the term 'reference particle' as used in the context of projecting uniform circular motion to obtain simple harmonic motion.",
@@ -2757,7 +2920,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen078"
+    "question_id": "cbse_xi_keph2dd_c206_gen078",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Explain how the projection of uniform circular motion results in simple harmonic motion.",
@@ -2771,7 +2935,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen079"
+    "question_id": "cbse_xi_keph2dd_c206_gen079",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Describe the significance of the initial phase angle in determining the equation of simple harmonic motion derived from circular motion.",
@@ -2785,7 +2950,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen080"
+    "question_id": "cbse_xi_keph2dd_c206_gen080",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Briefly explain why the force acting in linear simple harmonic motion is different from the centripetal force required in uniform circular motion.",
@@ -2799,7 +2965,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen081"
+    "question_id": "cbse_xi_keph2dd_c206_gen081",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Derive the x-projection equation for a particle undergoing uniform circular motion with radius A, angular speed ω, and initial phase angle φ.",
@@ -2813,7 +2980,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen082"
+    "question_id": "cbse_xi_keph2dd_c206_gen082",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Discuss how the viewing angle affects the perceived motion of a particle in uniform circular motion and its projection.",
@@ -2827,7 +2995,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen083"
+    "question_id": "cbse_xi_keph2dd_c206_gen083",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Compare and contrast the forces acting in simple harmonic motion and those in uniform circular motion.",
@@ -2841,7 +3010,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen084"
+    "question_id": "cbse_xi_keph2dd_c206_gen084",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: The complete motion of a particle in uniform circular motion can be fully described by its projection on a single diameter.",
@@ -2855,7 +3025,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen085"
+    "question_id": "cbse_xi_keph2dd_c206_gen085",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: For a particle in circular motion, the projection on the y-axis is given by an expression like B sin(ωt + φ).",
@@ -2869,7 +3040,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen086"
+    "question_id": "cbse_xi_keph2dd_c206_gen086",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: The angular displacement measured in radians is a dimensionless quantity.",
@@ -2883,7 +3055,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen087"
+    "question_id": "cbse_xi_keph2dd_c206_gen087",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle is moving in uniform circular motion on a circle of radius 0.5 m with an angular speed of 4 rad/s and an initial phase angle of 0. Calculate the x-coordinate of the particle as a function of time.",
@@ -2897,7 +3070,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen088"
+    "question_id": "cbse_xi_keph2dd_c206_gen088",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "In an experiment, a ball is tied to a string of length 1 m and rotated with a constant angular speed of 3 rad/s. Determine the period of the simple harmonic motion observed in its x-projection.",
@@ -2911,7 +3085,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen089"
+    "question_id": "cbse_xi_keph2dd_c206_gen089",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle exhibits simple harmonic motion described by the equation x(t) = 0.8 cos(2t + 0.6). Determine the amplitude, period, and phase angle.",
@@ -2925,7 +3100,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen090"
+    "question_id": "cbse_xi_keph2dd_c206_gen090",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "For a particle undergoing uniform circular motion with a period of 4 seconds and an initial phase angle of π/4, calculate the magnitude of its constant linear speed assuming the radius is A.",
@@ -2939,7 +3115,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen091"
+    "question_id": "cbse_xi_keph2dd_c206_gen091",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Two particles have simple harmonic motions described by x1(t) = A cos((πt)/2 + π/3) and x2(t) = A sin((πt)/2). Determine the phase difference between these motions.",
@@ -2953,7 +3130,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen092"
+    "question_id": "cbse_xi_keph2dd_c206_gen092",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A reference particle moves on a circle of radius 2 m with angular speed 1.5 rad/s and initial phase angle π/6. Its x-projection is given by x = A cos(ωt + φ). Calculate the x-coordinate of the particle at t = 2 s.",
@@ -2967,7 +3145,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "03_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen093"
+    "question_id": "cbse_xi_keph2dd_c206_gen093",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "What is the expression for the horizontal displacement of a particle whose motion is the projection of uniform circular motion on a diameter of a circle?",
@@ -2986,7 +3165,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen094"
+    "question_id": "cbse_xi_keph2dd_c206_gen094",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "What is the phase difference between the x and y projections of a particle undergoing uniform circular motion?",
@@ -3005,7 +3185,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen095"
+    "question_id": "cbse_xi_keph2dd_c206_gen095",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "If a particle moves in a circle with a period T = 30 s, what is the period of the corresponding simple harmonic motion observed as its projection on a diameter?",
@@ -3024,7 +3205,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen096"
+    "question_id": "cbse_xi_keph2dd_c206_gen096",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle in circular motion has an initial phase φ = 45° (or π/4 radians) and a period T = 4 s. What is the x projection of its displacement at time t = 0?",
@@ -3043,7 +3225,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen097"
+    "question_id": "cbse_xi_keph2dd_c206_gen097",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Define simple harmonic motion (SHM) as observed from the projection of uniform circular motion.",
@@ -3057,7 +3240,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen098"
+    "question_id": "cbse_xi_keph2dd_c206_gen098",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Briefly explain why the shadow of a ball moving in a circle appears to execute simple harmonic motion.",
@@ -3071,7 +3255,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen099"
+    "question_id": "cbse_xi_keph2dd_c206_gen099",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Discuss the difference between the force acting on a particle in linear simple harmonic motion and the centripetal force required to keep a particle in uniform circular motion.",
@@ -3085,7 +3270,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen100"
+    "question_id": "cbse_xi_keph2dd_c206_gen100",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Derive the expression for the displacement along the y-axis for a particle in uniform circular motion, given that its x projection is x(t) = A cos(ωt + φ).",
@@ -3099,7 +3285,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen101"
+    "question_id": "cbse_xi_keph2dd_c206_gen101",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Explain the relationship between uniform circular motion and simple harmonic motion. Provide a detailed derivation of the x projection equation from the geometry of circular motion.",
@@ -3113,7 +3300,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen102"
+    "question_id": "cbse_xi_keph2dd_c206_gen102",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Using the concept of projection in circular motion, analyze how altering the initial phase angle φ affects the resulting simple harmonic motion. Discuss the impact on amplitude, period, and phase shift.",
@@ -3127,7 +3315,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen103"
+    "question_id": "cbse_xi_keph2dd_c206_gen103",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Design an experiment to demonstrate the relationship between uniform circular motion and simple harmonic motion using a ball on a string and a wall to capture its shadow. Explain the crucial parameters and measurement methods involved.",
@@ -3141,7 +3330,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen104"
+    "question_id": "cbse_xi_keph2dd_c206_gen104",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: In the projection of a uniform circular motion onto a diameter, the resulting motion is always simple harmonic motion.",
@@ -3155,7 +3345,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen105"
+    "question_id": "cbse_xi_keph2dd_c206_gen105",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "True or False: Changing the direction of observation (i.e., the line onto which the motion is projected) will always yield simple harmonic motion.",
@@ -3169,7 +3360,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen106"
+    "question_id": "cbse_xi_keph2dd_c206_gen106",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle moves uniformly on a circle of radius 5 m with an angular speed of 2 rad/s. Find the equation of motion for the x projection if the initial phase is 0.",
@@ -3183,7 +3375,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen107"
+    "question_id": "cbse_xi_keph2dd_c206_gen107",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle moving in a circle of radius 3 m has a period T of 6 s. If its initial phase is 30° (π/6 radians), determine its displacement along the x-axis at t = 3 s.",
@@ -3197,7 +3390,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen108"
+    "question_id": "cbse_xi_keph2dd_c206_gen108",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A reference particle moves on a circle of radius A with period T such that its x projection is given by x(t) = A cos(2πt/T + π/4). Find the x displacement at time t = T/8.",
@@ -3211,7 +3405,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen109"
+    "question_id": "cbse_xi_keph2dd_c206_gen109",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "Two particles, P and Q, execute uniform circular motion on circles of radii 4 m and 6 m respectively. Particle P has a period of 8 s and an initial phase of 0, and particle Q has a period of 12 s with an initial phase of 90° (π/2 radians). Write the equations for their x projections and determine the time at which both particles have the same x displacement for the first time after t = 0.",
@@ -3225,7 +3420,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen110"
+    "question_id": "cbse_xi_keph2dd_c206_gen110",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "A particle executing uniform circular motion has its x projection described by x(t) = 2 cos(4t - π/3) and its corresponding y projection by y(t) = 2 sin(4t - π/3). Determine the angular speed, period, amplitude, and initial phase of the motion. Also, compute the x and y displacements at t = 0.5 s.",
@@ -3239,7 +3435,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_keph2dd_c206_gen111"
+    "question_id": "cbse_xi_keph2dd_c206_gen111",
+    "section_name": "13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION"
   },
   {
     "question_text": "In simple harmonic motion, the restoring force is always directed towards which position?",
@@ -3258,7 +3455,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen153"
+    "question_id": "cbse_xi_keph2dd_c206_gen153",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following equations correctly represents the force law for simple harmonic motion (SHM)?",
@@ -3277,7 +3475,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen154"
+    "question_id": "cbse_xi_keph2dd_c206_gen154",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "According to the SHM analysis using Newton's second law, how is the constant k related to the mass m and the angular frequency ω?",
@@ -3296,7 +3495,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen155"
+    "question_id": "cbse_xi_keph2dd_c206_gen155",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What mathematical process is required to go from the displacement equation of SHM to its force law expression?",
@@ -3315,7 +3515,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen156"
+    "question_id": "cbse_xi_keph2dd_c206_gen156",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Newton's second law in the context of SHM leads to the force equation F = -mω²x. Which statement best explains the physical meaning of the negative sign in this equation?",
@@ -3334,7 +3535,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen157"
+    "question_id": "cbse_xi_keph2dd_c206_gen157",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define simple harmonic motion in terms of force and displacement.",
@@ -3348,7 +3550,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen158"
+    "question_id": "cbse_xi_keph2dd_c206_gen158",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the difference between a linear harmonic oscillator and a non-linear oscillator?",
@@ -3362,7 +3565,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen159"
+    "question_id": "cbse_xi_keph2dd_c206_gen159",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In Example 13.6, the time period of oscillations is given by T = 2π√(m/2k). Briefly describe how this period is derived from the net restoring force acting on the mass.",
@@ -3376,7 +3580,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen160"
+    "question_id": "cbse_xi_keph2dd_c206_gen160",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain how the second derivative of the displacement function of a particle in SHM relates to its acceleration.",
@@ -3390,7 +3595,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen161"
+    "question_id": "cbse_xi_keph2dd_c206_gen161",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the force law for simple harmonic motion starting from the displacement equation x(t) = A cos(ωt + φ), and explain why differentiation is used in this process.",
@@ -3404,7 +3610,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen162"
+    "question_id": "cbse_xi_keph2dd_c206_gen162",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss the implications of adding non-linear terms (such as proportional to x² or x³) to the force law of a simple harmonic oscillator.",
@@ -3418,7 +3625,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen163"
+    "question_id": "cbse_xi_keph2dd_c206_gen163",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the two-spring system described in Example 13.6, derive the effective spring constant and show how the corresponding time period T = 2π√(m/2k) is obtained.",
@@ -3432,7 +3640,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen164"
+    "question_id": "cbse_xi_keph2dd_c206_gen164",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle executing SHM has a restoring force that acts away from the mean position. True or False?",
@@ -3446,7 +3655,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen165"
+    "question_id": "cbse_xi_keph2dd_c206_gen165",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Differentiating the displacement function twice in SHM yields an acceleration function that is directly proportional to -x. True or False?",
@@ -3460,7 +3670,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen166"
+    "question_id": "cbse_xi_keph2dd_c206_gen166",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass of 2 kg attached to a spring with a spring constant of 8 N/m executes simple harmonic motion. Calculate its period of oscillation.",
@@ -3474,7 +3685,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen167"
+    "question_id": "cbse_xi_keph2dd_c206_gen167",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Two springs, each of spring constant 100 N/m, are attached to a 1 kg mass as shown in Example 13.6. Determine the period of oscillation of the block.",
@@ -3488,7 +3700,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen168"
+    "question_id": "cbse_xi_keph2dd_c206_gen168",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "For a mass in simple harmonic motion, if the mass is increased by a factor of four while the spring constant remains unchanged, by what factor does the period of oscillation change?",
@@ -3502,7 +3715,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen169"
+    "question_id": "cbse_xi_keph2dd_c206_gen169",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass of 0.5 kg oscillates with an angular frequency of 10 rad/s in a simple harmonic oscillator. Calculate the effective spring constant k.",
@@ -3516,7 +3730,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen170"
+    "question_id": "cbse_xi_keph2dd_c206_gen170",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A block of mass 1 kg is placed between two springs, each with a spring constant of 50 N/m, arranged in parallel as described in the text. If the block is displaced by a distance x, determine the net restoring force and the period of oscillation.",
@@ -3530,7 +3745,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_6",
-    "question_id": "cbse_xi_keph2dd_c206_gen171"
+    "question_id": "cbse_xi_keph2dd_c206_gen171",
+    "section_name": "13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following examples represents a periodic motion as described in the section?",
@@ -3549,7 +3765,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen001"
+    "question_id": "cbse_xi_keph2dd_c206_gen001",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "What is the SI unit of frequency and who was it named after?",
@@ -3568,7 +3785,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen002"
+    "question_id": "cbse_xi_keph2dd_c206_gen002",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Which one of the following functions is periodic?",
@@ -3587,7 +3805,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen003"
+    "question_id": "cbse_xi_keph2dd_c206_gen003",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "What is the period of the function f(t) = A cos(αt)?",
@@ -3606,7 +3825,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen004"
+    "question_id": "cbse_xi_keph2dd_c206_gen004",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "In the context of oscillatory motions described, which statement is true regarding the equilibrium position?",
@@ -3625,7 +3845,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen005"
+    "question_id": "cbse_xi_keph2dd_c206_gen005",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Define periodic motion and provide two examples mentioned in the text.",
@@ -3639,7 +3860,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen006"
+    "question_id": "cbse_xi_keph2dd_c206_gen006",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Differentiate between periodic and oscillatory motion, and explain why circular motion is not considered oscillatory.",
@@ -3653,7 +3875,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen007"
+    "question_id": "cbse_xi_keph2dd_c206_gen007",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Express the sinusoidal function f(t) = A sin(ωt) + B cos(ωt) in the equivalent form f(t) = D sin(ωt + φ) and state the expressions for D and φ.",
@@ -3667,7 +3890,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen008"
+    "question_id": "cbse_xi_keph2dd_c206_gen008",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Discuss how damping and forced oscillations affect a real oscillatory system and provide real-life examples of each.",
@@ -3681,7 +3905,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen009"
+    "question_id": "cbse_xi_keph2dd_c206_gen009",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Explain the principle of simple harmonic motion (SHM) and how the restoring force is related to displacement in SHM.",
@@ -3695,7 +3920,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen010"
+    "question_id": "cbse_xi_keph2dd_c206_gen010",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: Every periodic motion is necessarily an oscillatory motion.",
@@ -3709,7 +3935,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen011"
+    "question_id": "cbse_xi_keph2dd_c206_gen011",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "True or False: The function e^(-ωt) displays periodic behavior.",
@@ -3723,7 +3950,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen012"
+    "question_id": "cbse_xi_keph2dd_c206_gen012",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "A human heart beats 75 times in one minute. Calculate the frequency in hertz and the time period of one beat.",
@@ -3737,7 +3965,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen013"
+    "question_id": "cbse_xi_keph2dd_c206_gen013",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "An object attached to a spring oscillates with a period of 0.5 seconds. Calculate its frequency in hertz.",
@@ -3751,7 +3980,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen014"
+    "question_id": "cbse_xi_keph2dd_c206_gen014",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "For a simple periodic function described by f(t) = A cos(αt), if the period T is 4 seconds, determine the value of α.",
@@ -3765,7 +3995,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen015"
+    "question_id": "cbse_xi_keph2dd_c206_gen015",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "Consider the function f(t) = sin(ωt) + cos(2ωt) + sin(4ωt). Determine whether the function is periodic and, if so, find its period.",
@@ -3779,7 +4010,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "01_section_13_2",
-    "question_id": "cbse_xi_keph2dd_c206_gen016"
+    "question_id": "cbse_xi_keph2dd_c206_gen016",
+    "section_name": "13.2 PERIODIC AND OSCILLATORY MOTIONS"
   },
   {
     "question_text": "At what displacement is the kinetic energy maximum for a particle in simple harmonic motion?",
@@ -3798,7 +4030,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen192"
+    "question_id": "cbse_xi_keph2dd_c206_gen192",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the period of repetition for the kinetic energy or potential energy function in simple harmonic motion compared to the period T of displacement?",
@@ -3817,7 +4050,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen193"
+    "question_id": "cbse_xi_keph2dd_c206_gen193",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following represents the total mechanical energy of a harmonic oscillator?",
@@ -3836,7 +4070,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen194"
+    "question_id": "cbse_xi_keph2dd_c206_gen194",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the expression for the potential energy U(x) of a particle executing simple harmonic motion?",
@@ -3855,7 +4090,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen195"
+    "question_id": "cbse_xi_keph2dd_c206_gen195",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which trigonometric identity is used to show that the sum of the potential and kinetic energy in SHM equals (1/2) k A^2?",
@@ -3874,7 +4110,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen196"
+    "question_id": "cbse_xi_keph2dd_c206_gen196",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define the potential energy of a particle executing simple harmonic motion under a spring force.",
@@ -3888,7 +4125,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen197"
+    "question_id": "cbse_xi_keph2dd_c206_gen197",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain why the kinetic energy of a particle in simple harmonic motion is zero at the extreme positions.",
@@ -3902,7 +4140,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen198"
+    "question_id": "cbse_xi_keph2dd_c206_gen198",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the expressions for kinetic energy K = (1/2) k A^2 sin^2(θ) and potential energy U = (1/2) k A^2 cos^2(θ), derive the expression for the total energy in simple harmonic motion.",
@@ -3916,7 +4155,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen199"
+    "question_id": "cbse_xi_keph2dd_c206_gen199",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Describe how energy transforms between kinetic and potential forms during one complete oscillation in simple harmonic motion.",
@@ -3930,7 +4170,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen200"
+    "question_id": "cbse_xi_keph2dd_c206_gen200",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss, with reference to the graphs of energy versus time and displacement, how the periodic behavior of kinetic and potential energy in simple harmonic motion is established.",
@@ -3944,7 +4185,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen201"
+    "question_id": "cbse_xi_keph2dd_c206_gen201",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the principle of energy conservation in simple harmonic motion, analyze the role of energy distribution in practical oscillatory systems such as timekeeping devices.",
@@ -3958,7 +4200,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen202"
+    "question_id": "cbse_xi_keph2dd_c206_gen202",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The concept of potential energy for a particle in simple harmonic motion applies only because the spring force is a conservative force.",
@@ -3972,7 +4215,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen203"
+    "question_id": "cbse_xi_keph2dd_c206_gen203",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In simple harmonic motion, the total mechanical energy of the system remains constant over time.",
@@ -3986,7 +4230,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen204"
+    "question_id": "cbse_xi_keph2dd_c206_gen204",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The kinetic and potential energies in a harmonic oscillator each peak only once during a complete period of oscillation.",
@@ -4000,7 +4245,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen205"
+    "question_id": "cbse_xi_keph2dd_c206_gen205",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A block of mass 1 kg is attached to a spring with spring constant 50 N/m and is displaced 10 cm from equilibrium. It is released from rest. Calculate the kinetic energy, potential energy, and total energy of the block when it is 5 cm away from the equilibrium position.",
@@ -4014,7 +4260,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen206"
+    "question_id": "cbse_xi_keph2dd_c206_gen206",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A mass-spring system consists of a 0.5 kg mass attached to a spring with a spring constant of 200 N/m. The amplitude of oscillation is 0.05 m. Calculate the velocity, kinetic energy, potential energy, and total energy when the displacement is 3 cm from equilibrium.",
@@ -4028,7 +4275,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen207"
+    "question_id": "cbse_xi_keph2dd_c206_gen207",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In an oscillator with m = 2 kg, k = 32 N/m, and amplitude = 0.25 m, find the displacement at which the kinetic energy is twice the potential energy.",
@@ -4042,7 +4290,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen208"
+    "question_id": "cbse_xi_keph2dd_c206_gen208",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "An oscillator has a period T = 1.5 s, amplitude = 0.2 m, and mass = 0.3 kg. Calculate the angular frequency, the velocity at a displacement of 0.1 m, the kinetic energy at that instant, and verify that the sum of kinetic and potential energy equals the total energy.",
@@ -4056,7 +4305,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen209"
+    "question_id": "cbse_xi_keph2dd_c206_gen209",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A 0.4 kg mass attached to a spring oscillates with an amplitude of 0.15 m. If at some displacement the potential energy is measured to be 0.225 J, find the spring constant and the velocity of the mass at that displacement, using energy conservation.",
@@ -4070,7 +4320,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "06_section_13_7",
-    "question_id": "cbse_xi_keph2dd_c206_gen210"
+    "question_id": "cbse_xi_keph2dd_c206_gen210",
+    "section_name": "13.7 ENERGY IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following equations represents the displacement of a particle in simple harmonic motion?",
@@ -4089,7 +4340,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen036"
+    "question_id": "cbse_xi_keph2dd_c206_gen036",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "The angular frequency ω is related to the period T of the motion by which formula?",
@@ -4108,7 +4360,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen037"
+    "question_id": "cbse_xi_keph2dd_c206_gen037",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "At which position is the speed of a particle executing simple harmonic motion maximum?",
@@ -4127,7 +4380,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen038"
+    "question_id": "cbse_xi_keph2dd_c206_gen038",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What does the amplitude A represent in the context of simple harmonic motion?",
@@ -4146,7 +4400,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen039"
+    "question_id": "cbse_xi_keph2dd_c206_gen039",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following best describes the displacement versus time graph for a particle undergoing simple harmonic motion?",
@@ -4165,7 +4420,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen040"
+    "question_id": "cbse_xi_keph2dd_c206_gen040",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Define amplitude in the context of simple harmonic motion.",
@@ -4179,7 +4435,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen041"
+    "question_id": "cbse_xi_keph2dd_c206_gen041",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is meant by the phase constant (φ) in simple harmonic motion?",
@@ -4193,7 +4450,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen042"
+    "question_id": "cbse_xi_keph2dd_c206_gen042",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "State the relation between angular frequency (ω) and the period (T) of simple harmonic motion.",
@@ -4207,7 +4465,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen043"
+    "question_id": "cbse_xi_keph2dd_c206_gen043",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How does a change in amplitude affect the energy of a system executing simple harmonic motion?",
@@ -4221,7 +4480,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen044"
+    "question_id": "cbse_xi_keph2dd_c206_gen044",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the relation between the period T and the angular frequency ω for a simple harmonic oscillator starting from the displacement expression x(t) = A cos(ωt + φ).",
@@ -4235,7 +4495,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen045"
+    "question_id": "cbse_xi_keph2dd_c206_gen045",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Discuss how phase differences affect the position and velocity of a particle in simple harmonic motion. Include an example contrasting two motions that differ by a phase of π/4.",
@@ -4249,7 +4510,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen046"
+    "question_id": "cbse_xi_keph2dd_c206_gen046",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: All periodic motions are examples of simple harmonic motion.",
@@ -4263,7 +4525,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen047"
+    "question_id": "cbse_xi_keph2dd_c206_gen047",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In simple harmonic motion, the speed of the particle is maximum at the equilibrium position.",
@@ -4277,7 +4540,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen048"
+    "question_id": "cbse_xi_keph2dd_c206_gen048",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The angular frequency of simple harmonic motion is measured in radians per second.",
@@ -4291,7 +4555,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen049"
+    "question_id": "cbse_xi_keph2dd_c206_gen049",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle undergoes simple harmonic motion with a period T of 2 seconds. Calculate its angular frequency ω.",
@@ -4305,7 +4570,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen050"
+    "question_id": "cbse_xi_keph2dd_c206_gen050",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle in simple harmonic motion has an amplitude of 0.5 m and a period of 4 s. Assuming the phase constant φ = 0, determine the displacement and velocity of the particle at t = 1 s. Use x(t) = A cos(ωt) and v(t) = -A ω sin(ωt).",
@@ -4319,7 +4585,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen051"
+    "question_id": "cbse_xi_keph2dd_c206_gen051",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "The function f(t) = sin(ωt) - cos(ωt) can be expressed in the form of a single sinusoidal function representing simple harmonic motion. Given ω = 3 rad/s, determine the amplitude, phase, and period of the motion.",
@@ -4333,7 +4600,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen052"
+    "question_id": "cbse_xi_keph2dd_c206_gen052",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Examine the function f(t) = 1/2 - 1/2 cos(2ωt) with ω = 4 rad/s. Does this function represent simple harmonic motion? Determine its period.",
@@ -4347,7 +4615,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen053"
+    "question_id": "cbse_xi_keph2dd_c206_gen053",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Two oscillators perform simple harmonic motion with the same amplitude and phase constant, but with different periods, T1 = 8 s and T2 = 4 s. Calculate their angular frequencies and explain how they compare.",
@@ -4361,6 +4630,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "02_section_13_3",
-    "question_id": "cbse_xi_keph2dd_c206_gen054"
+    "question_id": "cbse_xi_keph2dd_c206_gen054",
+    "section_name": "13.3 SIMPLE HARMONIC MOTION"
   }
 ]

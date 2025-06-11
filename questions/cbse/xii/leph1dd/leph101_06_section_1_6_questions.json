@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen097"
+    "question_id": "cbse_xii_leph1dd_c101_gen097",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Which law or principle permits the addition of forces using the parallelogram rule in electrostatics?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen098"
+    "question_id": "cbse_xii_leph1dd_c101_gen098",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "In Coulomb's law, the magnitude of the force between two point charges is inversely proportional to the square of their separation distance. This means the force is proportional to:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen099"
+    "question_id": "cbse_xii_leph1dd_c101_gen099",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "In an equilateral triangle configuration with three identical charges placed at the vertices, why does a charge placed at the centroid experience zero net force?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen100"
+    "question_id": "cbse_xii_leph1dd_c101_gen100",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "State Coulomb's law for two point charges in vacuum.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen101"
+    "question_id": "cbse_xii_leph1dd_c101_gen101",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Explain in your own words the principle of superposition as it applies to electrostatic forces.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen102"
+    "question_id": "cbse_xii_leph1dd_c101_gen102",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "For a system of n charges in vacuum, write the general expression for the net force on the first charge q1 due to the remaining charges.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen103"
+    "question_id": "cbse_xii_leph1dd_c101_gen103",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Describe the method for finding the resultant force on a charge due to two other charges located at different positions. Explain the use of vector addition in your answer.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen104"
+    "question_id": "cbse_xii_leph1dd_c101_gen104",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "In an equilateral triangle with vertices A, B, and C, three identical charges q are placed at the vertices, and a charge Q (of the same sign) is placed at the centroid. Derive the net force on Q explaining why symmetry leads to cancellation of the forces.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen105"
+    "question_id": "cbse_xii_leph1dd_c101_gen105",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Consider three charges placed at the vertices of an equilateral triangle where two charges are positive and one is negative. Analyze the forces acting on each charge and discuss how vector addition leads to a net force of zero for the system.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen106"
+    "question_id": "cbse_xii_leph1dd_c101_gen106",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "True or False: The presence of additional charges in a system alters the magnitude of the force between any two charges as calculated by Coulomb's law.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen107"
+    "question_id": "cbse_xii_leph1dd_c101_gen107",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "True or False: The vector addition of electrostatic forces using the parallelogram law is applicable only in two-dimensional systems.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen108"
+    "question_id": "cbse_xii_leph1dd_c101_gen108",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Two point charges q1 = 2 μC and q2 = 3 μC are separated by a distance of 0.05 m in vacuum. Calculate the magnitude of the force between them using Coulomb's law. (Use k = 9 x 10^9 N·m^2/C^2)",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen109"
+    "question_id": "cbse_xii_leph1dd_c101_gen109",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Three charges, each of magnitude 5 μC, are placed at the vertices of an equilateral triangle with side length 0.1 m. Calculate the net force magnitude on one of the charges due to the other two, and state the direction of the net force relative to the triangle.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen110"
+    "question_id": "cbse_xii_leph1dd_c101_gen110",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "For a system where three charges (q, q, and -q) are arranged at the vertices of an equilateral triangle with side length l, if the force between any two charges is F = q^2/(4πε0 l^2) and is numerically 10 N, calculate the net force magnitude acting on the negative charge.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen111"
+    "question_id": "cbse_xii_leph1dd_c101_gen111",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Eight identical charges are placed uniformly along a circle of radius R. A charge Q of the same sign is placed at the center of the circle. Using the principle of superposition, demonstrate why the net force on Q is zero.",
@@ -241,7 +256,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen112"
+    "question_id": "cbse_xii_leph1dd_c101_gen112",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Design an experiment to verify the principle of superposition for electrostatic forces. Describe the apparatus, procedure, and the expected results.",
@@ -255,7 +271,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen113"
+    "question_id": "cbse_xii_leph1dd_c101_gen113",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   },
   {
     "question_text": "Which of the following best explains why the net force on a charge in an equilateral triangle configuration of identical charges is zero?",
@@ -274,6 +291,7 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xii_leph1dd_c101_gen114"
+    "question_id": "cbse_xii_leph1dd_c101_gen114",
+    "section_name": "1.6 FORCES BETWEEN MULTIPLE CHARGES"
   }
 ]

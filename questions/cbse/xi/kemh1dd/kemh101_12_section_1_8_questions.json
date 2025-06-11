@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen100"
+    "question_id": "cbse_xi_kemh1dd_c101_gen100",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Given U = {1,2,...,10}, A = {2,4,6,8,10} and B = {4,6}, which of the following statements is correct?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen101"
+    "question_id": "cbse_xi_kemh1dd_c101_gen101",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "In a Venn diagram, which shape is commonly used to represent the universal set?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen102"
+    "question_id": "cbse_xi_kemh1dd_c101_gen102",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Which of the following set operations is least likely to be depicted accurately using Venn diagrams?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen103"
+    "question_id": "cbse_xi_kemh1dd_c101_gen103",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Define a Venn diagram. Also, describe its main components.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen104"
+    "question_id": "cbse_xi_kemh1dd_c101_gen104",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Explain the significance of the universal set in a Venn diagram.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen105"
+    "question_id": "cbse_xi_kemh1dd_c101_gen105",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Discuss how Venn diagrams can be used to represent the intersection of two sets, A and B.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen106"
+    "question_id": "cbse_xi_kemh1dd_c101_gen106",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "How can the difference of two sets be depicted using a Venn diagram? Provide an explanation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen107"
+    "question_id": "cbse_xi_kemh1dd_c101_gen107",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Illustrate and explain with a Venn diagram how to represent the union of three sets, A, B, and C, given that some elements may belong to more than one set.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen108"
+    "question_id": "cbse_xi_kemh1dd_c101_gen108",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Prove that for any sets A, B, and C, the intersection distributes over the union, i.e., A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C), using Venn diagrams as part of your explanation.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen109"
+    "question_id": "cbse_xi_kemh1dd_c101_gen109",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Given U = {1,2,3,...,10} and A = {2,4,6,8,10}, list the elements in the complement of A (U - A).",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen110"
+    "question_id": "cbse_xi_kemh1dd_c101_gen110",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "For U = {1,2,3,...,10}, A = {2,4,6,8,10} and B = {3,6,9}, draw a Venn diagram and list the elements in A ∩ B.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen111"
+    "question_id": "cbse_xi_kemh1dd_c101_gen111",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Using U = {1,2,3,...,10}, A = {2,4,6,8,10} and B = {4,6} (note B ⊂ A), find the number of elements in A - B.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen112"
+    "question_id": "cbse_xi_kemh1dd_c101_gen112",
+    "section_name": "1.8 Venn Diagrams"
   },
   {
     "question_text": "Consider three subsets A, B, and C within U = {1,2,3,...,15}: A = {2,4,6,8,10}, B = {3,6,9,12,15} and C = {1,2,3,4,5}. Draw a Venn diagram for these sets and determine: (i) A ∪ B ∪ C, (ii) A ∩ B, (iii) (A ∩ C) ∪ (B ∩ C).",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "kemh101",
     "section_id": "12_section_1_8",
-    "question_id": "cbse_xi_kemh1dd_c101_gen113"
+    "question_id": "cbse_xi_kemh1dd_c101_gen113",
+    "section_name": "1.8 Venn Diagrams"
   }
 ]

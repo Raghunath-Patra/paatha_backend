@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen013"
+    "question_id": "cbse_viii_hemh1dd_c104_gen013",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "If a particular sector of a pie chart represents 1/4 of the data, what is its corresponding central angle?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen014"
+    "question_id": "cbse_viii_hemh1dd_c104_gen014",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "Which type of graph is most suitable for displaying parts of a whole?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen015"
+    "question_id": "cbse_viii_hemh1dd_c104_gen015",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "In a pie chart representing sales data, if an item contributes 1/6 of the total sales, what is its central angle in degrees?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen016"
+    "question_id": "cbse_viii_hemh1dd_c104_gen016",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "Define a circle graph (pie chart) and describe its main components.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen017"
+    "question_id": "cbse_viii_hemh1dd_c104_gen017",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "Explain how to calculate the central angle of a sector in a pie chart given the percentage or fraction of the whole.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen018"
+    "question_id": "cbse_viii_hemh1dd_c104_gen018",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "A pie chart represents the day's activities of a child, where sleeping is 8 hours out of 24 hours. What fraction of the pie chart does sleeping represent?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen019"
+    "question_id": "cbse_viii_hemh1dd_c104_gen019",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "Using the following data on ice-cream flavor preferences in a school: Chocolate – 50%, Vanilla – 25%, Other – 25%, derive the central angles for each flavor and describe the steps to construct the corresponding pie chart.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen020"
+    "question_id": "cbse_viii_hemh1dd_c104_gen020",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "A baker's shop has the following sales: Ordinary bread: ₹320, Fruit bread: ₹80, Cakes and pastries: ₹160, Biscuits: ₹120, Others: ₹40. Calculate the fraction and central angle for each item. Provide a step-by-step explanation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen021"
+    "question_id": "cbse_viii_hemh1dd_c104_gen021",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "A child spends 8 hours sleeping, 6 hours at school, 4 hours doing homework, 4 hours playing, and 2 hours on other activities. Calculate the central angle for each activity in a pie chart that represents a 24-hour day.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen022"
+    "question_id": "cbse_viii_hemh1dd_c104_gen022",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "A family has a monthly expenditure pie chart with the following data: Food: 25%, Others: 20%, Savings: 15%, Clothes: 10%, Transport: 5%, House Rent: 10%, Education for children: 15%. If the monthly savings is ₹3000, determine (a) the value corresponding to 1% of the family's expenditure, and (b) the monthly expenditure on clothes.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen023"
+    "question_id": "cbse_viii_hemh1dd_c104_gen023",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   },
   {
     "question_text": "A baker’s shop recorded the following sales: Ordinary Bread: ₹320, Fruit Bread: ₹80, Cakes and Pastries: ₹160, Biscuits: ₹120, Others: ₹40. Verify that the sum of the computed central angles of the pie chart is equal to 360°, and explain why this must always be the case.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "hemh104",
     "section_id": "02_section_4_2",
-    "question_id": "cbse_viii_hemh1dd_c104_gen024"
+    "question_id": "cbse_viii_hemh1dd_c104_gen024",
+    "section_name": "4.2 Circle Graph or Pie Chart"
   }
 ]

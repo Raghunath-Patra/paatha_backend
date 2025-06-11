@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen014"
+    "question_id": "cbse_xii_lemh1dd_c102_gen014",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "The domain of the tangent function tan(x) excludes which of the following values?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen015"
+    "question_id": "cbse_xii_lemh1dd_c102_gen015",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Which of the following statements is true regarding the inverse sine function sin⁻¹?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen016"
+    "question_id": "cbse_xii_lemh1dd_c102_gen016",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "For an invertible function f: X → Y, which of the following is always true?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen017"
+    "question_id": "cbse_xii_lemh1dd_c102_gen017",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Define what is meant by the inverse of a function. Include the conditions required for an inverse function to exist.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen018"
+    "question_id": "cbse_xii_lemh1dd_c102_gen018",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Explain the concept of 'principal value branch' in the context of inverse trigonometric functions.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen019"
+    "question_id": "cbse_xii_lemh1dd_c102_gen019",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Why is it necessary to restrict the domain of the cosine function to [0, π] to define its inverse?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen020"
+    "question_id": "cbse_xii_lemh1dd_c102_gen020",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "List the domains and ranges of the inverse secant function sec⁻¹ when using its principal value branch.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen021"
+    "question_id": "cbse_xii_lemh1dd_c102_gen021",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Prove that the graph of an inverse function is the reflection of the graph of the original function about the line y = x.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen022"
+    "question_id": "cbse_xii_lemh1dd_c102_gen022",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Derive the relation sin(sin⁻¹(x)) = x for x ∈ [-1, 1] and discuss under what conditions sin⁻¹(sin(x)) = x holds true.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen023"
+    "question_id": "cbse_xii_lemh1dd_c102_gen023",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Discuss how restricting the domain of trigonometric functions (like sine, cosine, and tangent) facilitates the definition of their unique inverse functions. Support your answer with examples.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen024"
+    "question_id": "cbse_xii_lemh1dd_c102_gen024",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Find the principal value of sin⁻¹(1/√2) and show all the steps involved.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen025"
+    "question_id": "cbse_xii_lemh1dd_c102_gen025",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Evaluate cos⁻¹(1/2) and provide a step-by-step solution.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen026"
+    "question_id": "cbse_xii_lemh1dd_c102_gen026",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Find the principal value of tan⁻¹(√3) using the properties of the tangent function. Explain your steps.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen027"
+    "question_id": "cbse_xii_lemh1dd_c102_gen027",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Determine the principal value of cot⁻¹(-1/√3) and explain the reasoning behind the solution.",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "03_section_2_2",
-    "question_id": "cbse_xii_lemh1dd_c102_gen028"
+    "question_id": "cbse_xii_lemh1dd_c102_gen028",
+    "section_name": "2.2 Basic Concepts"
   },
   {
     "question_text": "Find the principal value of sin⁻¹(1/2).",
@@ -438,7 +453,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen029"
+    "question_id": "cbse_xii_lemh1dd_c102_gen029",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "For x > 1, the expression cot⁻¹(1/√(x² − 1)) can be simplified to which of the following?",
@@ -457,7 +473,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen030"
+    "question_id": "cbse_xii_lemh1dd_c102_gen030",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "According to the principal value branch, sin⁻¹(sin x) equals:",
@@ -476,7 +493,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen031"
+    "question_id": "cbse_xii_lemh1dd_c102_gen031",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "The identity sin⁻¹(2x√(1 − x²)) = 2 sin⁻¹ x holds under which condition on x?",
@@ -495,7 +513,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen032"
+    "question_id": "cbse_xii_lemh1dd_c102_gen032",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Define the 'principal branch' of an inverse trigonometric function and explain its significance.",
@@ -509,7 +528,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen033"
+    "question_id": "cbse_xii_lemh1dd_c102_gen033",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Explain why sin⁻¹(sin x) does not equal x for all real numbers x.",
@@ -523,7 +543,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen034"
+    "question_id": "cbse_xii_lemh1dd_c102_gen034",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "State and explain the fundamental relationship between sin⁻¹ x and sin x.",
@@ -537,7 +558,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen035"
+    "question_id": "cbse_xii_lemh1dd_c102_gen035",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Prove that sin⁻¹(2x√(1 − x²)) = 2 sin⁻¹ x for values of x such that 2 sin⁻¹ x belongs to [−π/2, π/2].",
@@ -551,7 +573,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen036"
+    "question_id": "cbse_xii_lemh1dd_c102_gen036",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Derive an expression for tan⁻¹((cos x)/(1 − sin x)) in terms of x for π/2 < x < π using half-angle formulas.",
@@ -565,7 +588,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen037"
+    "question_id": "cbse_xii_lemh1dd_c102_gen037",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Using the identity cot⁻¹(1/√(x² − 1)) = sec⁻¹ x (for x > 1), compute sec⁻¹ 2.",
@@ -579,7 +603,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen038"
+    "question_id": "cbse_xii_lemh1dd_c102_gen038",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Evaluate sin⁻¹(sin 2) accurately, given that 2 is measured in radians.",
@@ -593,7 +618,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen039"
+    "question_id": "cbse_xii_lemh1dd_c102_gen039",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "For x = 150° (or 5π/6 radians), compute the value of tan⁻¹((cos x)/(1 − sin x)). Express your answer in radians.",
@@ -607,7 +633,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen040"
+    "question_id": "cbse_xii_lemh1dd_c102_gen040",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Evaluate sin⁻¹(sin(7π/6)).",
@@ -621,7 +648,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "05_section_2_3",
-    "question_id": "cbse_xii_lemh1dd_c102_gen041"
+    "question_id": "cbse_xii_lemh1dd_c102_gen041",
+    "section_name": "2.3 Properties of Inverse Trigonometric Functions"
   },
   {
     "question_text": "Which of the following conditions is necessary for a function f to have an inverse function?",
@@ -640,7 +668,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen001"
+    "question_id": "cbse_xii_lemh1dd_c102_gen001",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Trigonometric functions do not have inverses on their natural domains primarily because:",
@@ -659,7 +688,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen002"
+    "question_id": "cbse_xii_lemh1dd_c102_gen002",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Restricting the domain of a trigonometric function like sin(x) is done to ensure that:",
@@ -678,7 +708,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen003"
+    "question_id": "cbse_xii_lemh1dd_c102_gen003",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Inverse trigonometric functions are highly useful in solving which type of problems in calculus?",
@@ -697,7 +728,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen004"
+    "question_id": "cbse_xii_lemh1dd_c102_gen004",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Define an inverse function and list the conditions under which an inverse exists.",
@@ -711,7 +743,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen005"
+    "question_id": "cbse_xii_lemh1dd_c102_gen005",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Explain why the natural domains of trigonometric functions, such as sin(x) and cos(x), do not allow for the direct definition of their inverse functions.",
@@ -725,7 +758,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen006"
+    "question_id": "cbse_xii_lemh1dd_c102_gen006",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "What restrictions are imposed on the trigonometric functions to ensure that their inverse functions exist? Provide examples with the sine function.",
@@ -739,7 +773,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen007"
+    "question_id": "cbse_xii_lemh1dd_c102_gen007",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Prove that if a function f is one-one and onto, then its inverse f⁻¹ exists. In your proof, clearly use the properties of one-one and onto functions.",
@@ -753,7 +788,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen008"
+    "question_id": "cbse_xii_lemh1dd_c102_gen008",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Discuss and derive the process of restricting the domain of the sine function so that an inverse can be defined. Illustrate your explanation with a reference to its graph and explain the role of such restriction in practical applications.",
@@ -767,7 +803,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen009"
+    "question_id": "cbse_xii_lemh1dd_c102_gen009",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Evaluate the integral ∫ dx/√(1-x²) and show that it equals arcsin(x) + C.",
@@ -781,7 +818,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen010"
+    "question_id": "cbse_xii_lemh1dd_c102_gen010",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Calculate the value of arcsin(0.5) and explain your reasoning.",
@@ -795,7 +833,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen011"
+    "question_id": "cbse_xii_lemh1dd_c102_gen011",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Differentiate y = arctan(x) with respect to x.",
@@ -809,7 +848,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen012"
+    "question_id": "cbse_xii_lemh1dd_c102_gen012",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Solve for x in the equation sin⁻¹(x) = π/6.",
@@ -823,7 +863,8 @@
     "source": "generated",
     "chapter_id": "lemh102",
     "section_id": "02_section_2_1",
-    "question_id": "cbse_xii_lemh1dd_c102_gen013"
+    "question_id": "cbse_xii_lemh1dd_c102_gen013",
+    "section_name": "2.1 Introduction"
   },
   {
     "question_text": "Prove that 3 sin⁻¹(x) = sin⁻¹(3x - 4x³) for x ∈ [-1/2, 1/2].",

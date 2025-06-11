@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen064"
+    "question_id": "cbse_ix_iesc1dd_c107_gen064",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "What provides the centripetal force necessary for an object to maintain uniform circular motion when it is whirled on a thread?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen065"
+    "question_id": "cbse_ix_iesc1dd_c107_gen065",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "When an object moving in a circular path at constant speed is released (i.e., when the centripetal force is removed), what path does it follow?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen066"
+    "question_id": "cbse_ix_iesc1dd_c107_gen066",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "An athlete runs around a hexagonal track (with 6 equal sides) at uniform speed on the straight sections. How many times does the athlete change direction during one complete lap around the track?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen067"
+    "question_id": "cbse_ix_iesc1dd_c107_gen067",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Define 'uniform circular motion'.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen068"
+    "question_id": "cbse_ix_iesc1dd_c107_gen068",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "What is centripetal acceleration and how does it relate to the change in an object’s direction during uniform circular motion?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen069"
+    "question_id": "cbse_ix_iesc1dd_c107_gen069",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Using the formula v = 2πr/t, calculate the speed of an athlete running around a circular track of radius 50 meters in 80 seconds. Show your working.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen070"
+    "question_id": "cbse_ix_iesc1dd_c107_gen070",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Describe the process by which a stone attached to a thread exhibits uniform circular motion and explain what happens when the stone is released. Your answer should include the role of centripetal force and inertia.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen071"
+    "question_id": "cbse_ix_iesc1dd_c107_gen071",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Discuss how increasing the number of sides of a regular polygonal track eventually leads to a circular track. Include in your discussion the impact on the direction changes and the concept of tangential velocity.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen072"
+    "question_id": "cbse_ix_iesc1dd_c107_gen072",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "True or False: An object moving along a circular path at constant speed is not accelerating because its speed is constant.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen073"
+    "question_id": "cbse_ix_iesc1dd_c107_gen073",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "True or False: Once the centripetal force (provided by a tensioned string) is removed from an object in circular motion, the object continues moving along the circular path due to its inertia.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen074"
+    "question_id": "cbse_ix_iesc1dd_c107_gen074",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "State Newton's First Law of Motion and explain how it applies to an object in uniform circular motion when the centripetal force is suddenly removed.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen075"
+    "question_id": "cbse_ix_iesc1dd_c107_gen075",
+    "section_name": "7.6 Uniform Circular Motion"
   },
   {
     "question_text": "Explain how the concept of uniform circular motion applies to planetary orbits. Highlight both the similarities and differences between a satellite in a circular orbit and an athlete running on a circular track.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "iesc107",
     "section_id": "12_section_7_6",
-    "question_id": "cbse_ix_iesc1dd_c107_gen076"
+    "question_id": "cbse_ix_iesc1dd_c107_gen076",
+    "section_name": "7.6 Uniform Circular Motion"
   }
 ]

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen177"
+    "question_id": "cbse_xi_keph1dd_c101_gen177",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "What is the SI unit of energy and its corresponding dimensional formula?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen178"
+    "question_id": "cbse_xi_keph1dd_c101_gen178",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Which of the following formulas for kinetic energy is dimensionally correct?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen179"
+    "question_id": "cbse_xi_keph1dd_c101_gen179",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "In the equation x = x₀ + v₀t + (1/2)at², which correctly represents the dimensions of all terms?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen180"
+    "question_id": "cbse_xi_keph1dd_c101_gen180",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Which of the following is NOT possible using dimensional analysis?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen181"
+    "question_id": "cbse_xi_keph1dd_c101_gen181",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Explain the principle of homogeneity of dimensions in your own words.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen182"
+    "question_id": "cbse_xi_keph1dd_c101_gen182",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Why must the arguments of trigonometric, logarithmic, and exponential functions be dimensionless?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen183"
+    "question_id": "cbse_xi_keph1dd_c101_gen183",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Describe one major advantage of using dimensional analysis when checking equations.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen184"
+    "question_id": "cbse_xi_keph1dd_c101_gen184",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Using dimensional analysis, what are the dimensions of acceleration?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen185"
+    "question_id": "cbse_xi_keph1dd_c101_gen185",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Discuss how dimensional analysis can be used to deduce the relationship between the period of a pendulum and its physical variables. Include a derivation similar to the one provided in the text.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen186"
+    "question_id": "cbse_xi_keph1dd_c101_gen186",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Explain the limitations of dimensional analysis in deriving exact equations in physics, citing examples from the text.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen187"
+    "question_id": "cbse_xi_keph1dd_c101_gen187",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Derive the dimensional formula for kinetic energy and explain why adding physical quantities with different dimensions is not allowed.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen188"
+    "question_id": "cbse_xi_keph1dd_c101_gen188",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "True or False: Physical quantities of different dimensions can be added in an equation.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen189"
+    "question_id": "cbse_xi_keph1dd_c101_gen189",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "True or False: In a dimensionally correct equation, each term must have the same dimensions as the physical quantity represented on the other side of the equation.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen190"
+    "question_id": "cbse_xi_keph1dd_c101_gen190",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "True or False: Dimensional analysis can accurately determine numerical constants such as 2π in the formula for the period of a pendulum.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen191"
+    "question_id": "cbse_xi_keph1dd_c101_gen191",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Check the dimensional consistency for the equation x = x₀ + v₀t + (1/2)at² given that x and x₀ are in meters, v₀ is in meters per second, a is in meters per second squared, and t is in seconds. Confirm that each term has dimensions of length.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen192"
+    "question_id": "cbse_xi_keph1dd_c101_gen192",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "For the equation (1/2) m v² = m g h, if m = 2 kg, g = 9.8 m/s², and h = 5 m, verify the dimensional consistency and calculate the velocity v.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen193"
+    "question_id": "cbse_xi_keph1dd_c101_gen193",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "A simple pendulum has a length of 2 m. Using the formula T = 2π sqrt(l/g) where g = 9.8 m/s², calculate the period T of the pendulum.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen194"
+    "question_id": "cbse_xi_keph1dd_c101_gen194",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "A formula for kinetic energy is proposed as K = m² v³. Using dimensional analysis, explain why this formula is incorrect. Assume mass is in kg and velocity in m/s.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen195"
+    "question_id": "cbse_xi_keph1dd_c101_gen195",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   },
   {
     "question_text": "Using dimensional analysis, derive the relationship between the period T of a simple pendulum and its length l and the acceleration due to gravity g, and verify that both sides have consistent dimensions.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph101",
     "section_id": "06_section_1_6",
-    "question_id": "cbse_xi_keph1dd_c101_gen196"
+    "question_id": "cbse_xi_keph1dd_c101_gen196",
+    "section_name": "1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS"
   }
 ]

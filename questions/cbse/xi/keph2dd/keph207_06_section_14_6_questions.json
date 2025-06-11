@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen088"
+    "question_id": "cbse_xi_keph2dd_c207_gen088",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "When a wave is reflected from an open boundary, what happens to the phase of the reflected wave?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen089"
+    "question_id": "cbse_xi_keph2dd_c207_gen089",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Which condition is satisfied at a node in a standing wave on a string?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen090"
+    "question_id": "cbse_xi_keph2dd_c207_gen090",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "In a string fixed at both ends, the distance between any two successive nodes is equal to:",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen091"
+    "question_id": "cbse_xi_keph2dd_c207_gen091",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "For an air column with one end closed and one end open, which harmonics are allowed?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen092"
+    "question_id": "cbse_xi_keph2dd_c207_gen092",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Explain how a standing wave is formed on a stretched string fixed at both ends. Include in your answer the role of incident and reflected waves.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen093"
+    "question_id": "cbse_xi_keph2dd_c207_gen093",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Derive the relation between the length L of a stretched string fixed at both ends and the allowed wavelengths of its standing waves.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen094"
+    "question_id": "cbse_xi_keph2dd_c207_gen094",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Discuss how the concept of normal modes in air columns affects the design of musical instruments such as organ pipes.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen095"
+    "question_id": "cbse_xi_keph2dd_c207_gen095",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "State the conditions for node and antinode formation in a standing wave on a string.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen096"
+    "question_id": "cbse_xi_keph2dd_c207_gen096",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "What is the effect of a non-rigid boundary on the phase and amplitude of a reflected wave pulse on a string?",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen097"
+    "question_id": "cbse_xi_keph2dd_c207_gen097",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Briefly explain how the principle of superposition leads to the formation of standing waves on a string.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen098"
+    "question_id": "cbse_xi_keph2dd_c207_gen098",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Identify and explain two key differences between standing waves on a string and standing pressure waves in an air column with one end closed.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen099"
+    "question_id": "cbse_xi_keph2dd_c207_gen099",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "True or False: When a transverse wave pulse reflects from a rigid boundary, the pulse maintains its original orientation.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen100"
+    "question_id": "cbse_xi_keph2dd_c207_gen100",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "True or False: In a standing wave pattern on a stretched string, all points along the string oscillate in phase.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen101"
+    "question_id": "cbse_xi_keph2dd_c207_gen101",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "True or False: Only odd harmonics can resonate in an air column that is open at both ends.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen102"
+    "question_id": "cbse_xi_keph2dd_c207_gen102",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "A 30.0-cm long pipe is open at both ends and the speed of sound in air is 330 m/s. Calculate the fundamental frequency of the pipe and identify the harmonic that would resonate with a 1.1 kHz sound source.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen103"
+    "question_id": "cbse_xi_keph2dd_c207_gen103",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "A string 1.5 m long is fixed at both ends and supports waves traveling at 120 m/s. Determine the wavelengths and frequencies of the first three harmonics on the string.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen104"
+    "question_id": "cbse_xi_keph2dd_c207_gen104",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "A pipe closed at one end and 0.30 m long has a fundamental frequency given by f1 = v/(4L). With v = 330 m/s, calculate the fundamental frequency. If a source emits at 1.1 kHz, will resonance occur in this setup?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen105"
+    "question_id": "cbse_xi_keph2dd_c207_gen105",
+    "section_name": "14.6 REFLECTION OF WAVES"
   },
   {
     "question_text": "Design a simple experiment to demonstrate the formation of standing waves on a stretched string. Explain what measurements you would take and how you would verify the wave properties described in the theory.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph207",
     "section_id": "06_section_14_6",
-    "question_id": "cbse_xi_keph2dd_c207_gen106"
+    "question_id": "cbse_xi_keph2dd_c207_gen106",
+    "section_name": "14.6 REFLECTION OF WAVES"
   }
 ]

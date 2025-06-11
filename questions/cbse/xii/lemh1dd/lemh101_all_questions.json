@@ -234,7 +234,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen040"
+    "question_id": "cbse_xii_lemh1dd_c101_gen040",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Given functions f: {2, 3, 4, 5} → {3, 4, 5, 9} defined by f(2)=3, f(3)=4, f(4)=5, f(5)=5 and g: {3, 4, 5, 9} → {7, 11, 15} defined by g(3)=7, g(4)=7, g(5)=11 and g(9)=11, what is the value of (g ∘ f)(3)?",
@@ -253,7 +254,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen041"
+    "question_id": "cbse_xii_lemh1dd_c101_gen041",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Which statement is true regarding an invertible function f: X → Y?",
@@ -272,7 +274,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen042"
+    "question_id": "cbse_xii_lemh1dd_c101_gen042",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Consider the functions f(x)=cos x and g(x)=3x² defined on ℝ. Which of the following is a correct observation?",
@@ -291,7 +294,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen043"
+    "question_id": "cbse_xii_lemh1dd_c101_gen043",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Define the composition of two functions and provide its formal mathematical notation.",
@@ -305,7 +309,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen044"
+    "question_id": "cbse_xii_lemh1dd_c101_gen044",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "What does it mean for a function f: X → Y to be invertible? Provide the necessary conditions.",
@@ -319,7 +324,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen045"
+    "question_id": "cbse_xii_lemh1dd_c101_gen045",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Provide an example (other than those given in the textbook) of two functions f and g whose composition can be explicitly computed. Briefly describe your example and compute (g ∘ f)(x).",
@@ -333,7 +339,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen046"
+    "question_id": "cbse_xii_lemh1dd_c101_gen046",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "For the functions f(x)=cos x and g(x)=3x², explain why (g ∘ f) and (f ∘ g) yield different results. Illustrate with a specific value of x.",
@@ -347,7 +354,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen047"
+    "question_id": "cbse_xii_lemh1dd_c101_gen047",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Prove that if a function f : X → Y is invertible, then f must be one-to-one and onto.",
@@ -361,7 +369,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen048"
+    "question_id": "cbse_xii_lemh1dd_c101_gen048",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Let f : ℕ → Y be defined by f(x) = 4x + 3, where Y = { y ∈ ℕ : y = 4x + 3 for some x ∈ ℕ }. Prove that f is invertible and find its inverse function.",
@@ -375,7 +384,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen049"
+    "question_id": "cbse_xii_lemh1dd_c101_gen049",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Using the functions from Example 15, compute (g ∘ f)(2).",
@@ -389,7 +399,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen050"
+    "question_id": "cbse_xii_lemh1dd_c101_gen050",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "For f(x)=cos x and g(x)=3x², calculate (g ∘ f)(π/3) and (f ∘ g)(π/3). Provide your answers with appropriate justification.",
@@ -403,7 +414,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen051"
+    "question_id": "cbse_xii_lemh1dd_c101_gen051",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Let f: {1, 2, 3} → {2, 4, 6} be defined by f(1)=2, f(2)=4, f(3)=6, and g: {2, 4, 6} → {3, 5, 7} be defined by g(2)=3, g(4)=5, g(6)=7. Find the composite function (g ∘ f) for each element in the domain.",
@@ -417,7 +429,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen052"
+    "question_id": "cbse_xii_lemh1dd_c101_gen052",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Given f(x)=2x+1 and g(x)=x-1, compute the composite function (f ∘ g)(x) and determine if (f ∘ g) is invertible by finding its inverse.",
@@ -431,7 +444,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen053"
+    "question_id": "cbse_xii_lemh1dd_c101_gen053",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Let f(x)=x³ and g(x)=√x, with the domain of g being x ≥ 0. Compute (g ∘ f)(2) and state the domain and range of the composite function.",
@@ -445,7 +459,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "06_section_1_4",
-    "question_id": "cbse_xii_lemh1dd_c101_gen054"
+    "question_id": "cbse_xii_lemh1dd_c101_gen054",
+    "section_name": "1.4 Composition of Functions and Invertible Function"
   },
   {
     "question_text": "Show that the function f : ℝ → ℝ defined by f(x) = 1 + x|x| is one–one and onto.",
@@ -565,7 +580,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen027"
+    "question_id": "cbse_xii_lemh1dd_c101_gen027",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Consider the function f: ℝ* → ℝ* defined by f(x) = 1/x, where ℝ* is the set of all non‐zero real numbers. Which of the following is true when the domain is ℝ*?",
@@ -584,7 +600,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen028"
+    "question_id": "cbse_xii_lemh1dd_c101_gen028",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Let f: ℕ → ℕ be defined by f(x) = 2x, where ℕ is the set of natural numbers. Which statement best describes this function?",
@@ -603,7 +620,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen029"
+    "question_id": "cbse_xii_lemh1dd_c101_gen029",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Suppose f is a function from a finite set X to itself. Which of the following statements is always true?",
@@ -622,7 +640,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen030"
+    "question_id": "cbse_xii_lemh1dd_c101_gen030",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Define an 'onto' (surjective) function and give one example with a brief explanation.",
@@ -636,7 +655,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen031"
+    "question_id": "cbse_xii_lemh1dd_c101_gen031",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Explain the difference between a one‐one function and a many‐one function. Provide an example of each.",
@@ -650,7 +670,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen032"
+    "question_id": "cbse_xii_lemh1dd_c101_gen032",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "What is a bijective function? Explain its significance in terms of invertibility, and provide a concise definition.",
@@ -664,7 +685,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen033"
+    "question_id": "cbse_xii_lemh1dd_c101_gen033",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Prove that an onto (surjective) function f from a finite set X to X must be one‐one (injective). Provide a detailed explanation using a counting argument.",
@@ -678,7 +700,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen034"
+    "question_id": "cbse_xii_lemh1dd_c101_gen034",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Prove that the function f: ℝ → ℝ defined by f(x) = 2x is bijective. In your proof, demonstrate both injectivity and surjectivity with detailed steps.",
@@ -692,7 +715,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen035"
+    "question_id": "cbse_xii_lemh1dd_c101_gen035",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Let f: ℝ → ℝ be defined by f(x) = x². Compute f(3) and explain why this function is not injective.",
@@ -706,7 +730,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen036"
+    "question_id": "cbse_xii_lemh1dd_c101_gen036",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Examine whether the function f: ℝ → ℝ defined by f(x) = x² is injective or surjective. Justify your answers with detailed reasoning.",
@@ -720,7 +745,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen037"
+    "question_id": "cbse_xii_lemh1dd_c101_gen037",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Let f: ℤ → ℤ be defined by f(x) = x³. Verify whether this function is injective and surjective. Provide a step-by-step explanation.",
@@ -734,7 +760,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen038"
+    "question_id": "cbse_xii_lemh1dd_c101_gen038",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Let f: ℕ → ℕ be defined by f(1) = f(2) = 1 and f(x) = x - 1 for every x > 2. Show that f is onto but not one‐one. Illustrate your answer with numerical examples.",
@@ -748,7 +775,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "05_section_1_3",
-    "question_id": "cbse_xii_lemh1dd_c101_gen039"
+    "question_id": "cbse_xii_lemh1dd_c101_gen039",
+    "section_name": "1.3 Types of Functions"
   },
   {
     "question_text": "Which of the following best defines a relation R from a set A to a set B?",
@@ -767,7 +795,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen001"
+    "question_id": "cbse_xii_lemh1dd_c101_gen001",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which of the following statements is true regarding functions?",
@@ -786,7 +815,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen002"
+    "question_id": "cbse_xii_lemh1dd_c101_gen002",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Given sets A and B, if R ⊆ A×B, then which of these is a necessary statement about any relation R?",
@@ -805,7 +835,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen003"
+    "question_id": "cbse_xii_lemh1dd_c101_gen003",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Functions are special kinds of relations. Which property distinguishes a function from a general relation?",
@@ -824,7 +855,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen004"
+    "question_id": "cbse_xii_lemh1dd_c101_gen004",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Define the terms 'domain', 'co-domain', and 'range' in the context of functions.",
@@ -838,7 +870,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen005"
+    "question_id": "cbse_xii_lemh1dd_c101_gen005",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "What does it mean when we say that an element a is related to b under a relation R? Provide a concise definition.",
@@ -852,7 +885,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen006"
+    "question_id": "cbse_xii_lemh1dd_c101_gen006",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Explain how the concept of a relation in mathematics is inspired by the general English meaning of 'relation'.",
@@ -866,7 +900,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen007"
+    "question_id": "cbse_xii_lemh1dd_c101_gen007",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Prove that if a function f is invertible, then it must be one-to-one.",
@@ -880,7 +915,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen008"
+    "question_id": "cbse_xii_lemh1dd_c101_gen008",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Discuss the composition of functions and prove that the composition of two one-to-one functions is also one-to-one.",
@@ -894,7 +930,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen009"
+    "question_id": "cbse_xii_lemh1dd_c101_gen009",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "In a school, Class XII has 30 students and Class XI has 25 students. What is the maximum possible number of ordered pairs in any relation from the set of Class XII students (A) to the set of Class XI students (B)?",
@@ -908,7 +945,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen010"
+    "question_id": "cbse_xii_lemh1dd_c101_gen010",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Given a function f: ℝ → ℝ defined by f(x) = 2x + 3, find the inverse function f⁻¹(x).",
@@ -922,7 +960,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen011"
+    "question_id": "cbse_xii_lemh1dd_c101_gen011",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Let f: ℝ → ℝ be defined by f(x) = 3x - 4. Compute the composition (f ∘ f)(x) and simplify the result.",
@@ -936,7 +975,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "02_section_1_1",
-    "question_id": "cbse_xii_lemh1dd_c101_gen012"
+    "question_id": "cbse_xii_lemh1dd_c101_gen012",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which of the following best describes an empty relation on a set A?",
@@ -955,7 +995,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen013"
+    "question_id": "cbse_xii_lemh1dd_c101_gen013",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "In a boys' school, consider the relation R defined by: 'a is the sister of b'. Which of the following is true about R?",
@@ -974,7 +1015,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen014"
+    "question_id": "cbse_xii_lemh1dd_c101_gen014",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Which of the following properties is NOT required for a relation to be an equivalence relation?",
@@ -993,7 +1035,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen015"
+    "question_id": "cbse_xii_lemh1dd_c101_gen015",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Consider the relation R on the set A = {1, 2, 3, 4} defined by R = {(a, b) : b = a + 1}. Which of the following is true about R?",
@@ -1012,7 +1055,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen016"
+    "question_id": "cbse_xii_lemh1dd_c101_gen016",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Define an empty relation in your own words.",
@@ -1026,7 +1070,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen017"
+    "question_id": "cbse_xii_lemh1dd_c101_gen017",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Explain what is meant by a universal relation and give an example.",
@@ -1040,7 +1085,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen018"
+    "question_id": "cbse_xii_lemh1dd_c101_gen018",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "List and briefly define the three key properties that a relation must satisfy to be an equivalence relation.",
@@ -1054,7 +1100,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen019"
+    "question_id": "cbse_xii_lemh1dd_c101_gen019",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Describe an example of a relation that is symmetric but not transitive, and explain why it fails to be transitive.",
@@ -1068,7 +1115,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen020"
+    "question_id": "cbse_xii_lemh1dd_c101_gen020",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Prove that the relation R defined on ℤ by a R b if and only if 2 divides (a - b) is an equivalence relation.",
@@ -1082,7 +1130,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen021"
+    "question_id": "cbse_xii_lemh1dd_c101_gen021",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Prove that the relation R on the set L of all lines in a plane defined as L₁ R L₂ if L₁ is perpendicular to L₂ is symmetric but not reflexive or transitive.",
@@ -1096,7 +1145,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen022"
+    "question_id": "cbse_xii_lemh1dd_c101_gen022",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Given the relation R on ℤ by a R b if 2 divides (a - b), list the equivalence classes of ℤ under R and explain your answer.",
@@ -1110,7 +1160,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen023"
+    "question_id": "cbse_xii_lemh1dd_c101_gen023",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "Consider the set A = {1, 2, 3}. The relation R is defined on A as R = {(1,1), (2,2), (3,3), (1,2), (2,3)}. Determine whether R is reflexive, symmetric, and transitive, providing reasons for your answer.",
@@ -1124,7 +1175,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen024"
+    "question_id": "cbse_xii_lemh1dd_c101_gen024",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "For the relation R on ℤ defined by a R b if and only if 3 divides (a - b), determine the equivalence classes for the integers from -4 to 4.",
@@ -1138,7 +1190,8 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen025"
+    "question_id": "cbse_xii_lemh1dd_c101_gen025",
+    "section_name": "1.2 Types of Relations"
   },
   {
     "question_text": "For the set A = {1, 2, 3, 4, 5, 6, 7}, consider the relation R defined by: two numbers are related if both are odd or both are even. Identify the equivalence classes and justify your answer.",
@@ -1152,6 +1205,7 @@
     "source": "generated",
     "chapter_id": "lemh101",
     "section_id": "03_section_1_2",
-    "question_id": "cbse_xii_lemh1dd_c101_gen026"
+    "question_id": "cbse_xii_lemh1dd_c101_gen026",
+    "section_name": "1.2 Types of Relations"
   }
 ]

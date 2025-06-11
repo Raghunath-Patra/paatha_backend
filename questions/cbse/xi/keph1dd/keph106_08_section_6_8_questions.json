@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen250"
+    "question_id": "cbse_xi_keph1dd_c106_gen250",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "For a lever in equilibrium, which equation represents the principle of moments?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen251"
+    "question_id": "cbse_xi_keph1dd_c106_gen251",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Which object can be analyzed using only translational equilibrium conditions?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen252"
+    "question_id": "cbse_xi_keph1dd_c106_gen252",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "What is a couple in the context of rigid body mechanics?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen253"
+    "question_id": "cbse_xi_keph1dd_c106_gen253",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "In a system in rotational equilibrium, what is the total sum of the moments taken about any axis?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen254"
+    "question_id": "cbse_xi_keph1dd_c106_gen254",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Explain the difference between complete (mechanical) equilibrium and partial equilibrium in a rigid body.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen255"
+    "question_id": "cbse_xi_keph1dd_c106_gen255",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "State the principle of moments for a lever and provide its mathematical expression.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen256"
+    "question_id": "cbse_xi_keph1dd_c106_gen256",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Describe one method to determine the center of gravity of an irregularly shaped object.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen257"
+    "question_id": "cbse_xi_keph1dd_c106_gen257",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Define a couple and explain how it can cause rotation without translation.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen258"
+    "question_id": "cbse_xi_keph1dd_c106_gen258",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Derive the conditions for mechanical equilibrium of a rigid body using both vector and scalar equations. Explain why, if translational equilibrium holds, the calculation of torques (moments) is independent of the choice of origin.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen259"
+    "question_id": "cbse_xi_keph1dd_c106_gen259",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Discuss the principle of moments as applied to a lever, including the derivation of the mechanical advantage formula. Provide real-life examples of levers.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen260"
+    "question_id": "cbse_xi_keph1dd_c106_gen260",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "Explain the concept of the center of gravity and its relationship to the center of mass in a uniform gravitational field. Illustrate your answer with an example.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen261"
+    "question_id": "cbse_xi_keph1dd_c106_gen261",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: A rigid body in complete mechanical equilibrium must have both zero net force and zero net torque.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen262"
+    "question_id": "cbse_xi_keph1dd_c106_gen262",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: When a couple acts on a rigid body, the net moment produced depends on the point about which the moments are calculated.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen263"
+    "question_id": "cbse_xi_keph1dd_c106_gen263",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "True or False: A particle in equilibrium only needs to satisfy the condition of translational equilibrium since it does not have any rotational degrees of freedom.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen264"
+    "question_id": "cbse_xi_keph1dd_c106_gen264",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A light rod 2 m long has a couple applied to it by two forces of 20 N, one acting upward at one end and 20 N acting downward at the other end. Calculate the net torque produced by this couple about any point.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen265"
+    "question_id": "cbse_xi_keph1dd_c106_gen265",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A lever is used to lift a load of 50 N placed 0.4 m from the fulcrum. If the effort is applied 1.2 m from the fulcrum on the opposite side, calculate the magnitude of the effort required and state the mechanical advantage of the lever.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen266"
+    "question_id": "cbse_xi_keph1dd_c106_gen266",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A uniform 70 cm long rod weighing 4.00 kg is supported on two knifeedges located 10 cm from each end. A 6.00 kg load is suspended 30 cm from one end. Given g = 9.8 m/s², calculate the reaction forces at the knifeedges.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen267"
+    "question_id": "cbse_xi_keph1dd_c106_gen267",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A 3 m long ladder weighing 20 kg leans against a frictionless wall with its foot 1 m away from the wall. Determine the reaction force exerted by the wall (F1) and the floor (F2). Use g = 9.8 m/s².",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen268"
+    "question_id": "cbse_xi_keph1dd_c106_gen268",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   },
   {
     "question_text": "A uniform board 5 m long and weighing 30 kg is balanced on a fulcrum placed 2 m from one end. A load of 40 kg is placed at the other end. To achieve rotational equilibrium, what additional load must be placed at the end closer to the fulcrum (2 m from the fulcrum) on the short side? Use g = 9.8 m/s².",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xi_keph1dd_c106_gen269"
+    "question_id": "cbse_xi_keph1dd_c106_gen269",
+    "section_name": "6.8 EQUILIBRIUM OF A RIGID BODY"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "number": 1,
+      "name": "2.1 Introduction"
+    },
+    {
+      "number": 2,
+      "name": "2.2 Geometrical Meaning of the Zeroes of a Polynomial"
+    },
+    {
+      "number": 3,
+      "name": "2.3 Relationship between Zeroes and Coefficients of a Polynomial"
+    },
+    {
+      "number": 4,
+      "name": "2.4 Summary"
+    }
+  ]
+}

@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen045"
+    "question_id": "cbse_xi_kemh1dd_c102_gen045",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Consider the relation R from ℕ defined by R = {(x, y) : y = 2x, x, y ∈ ℕ}. Which of the following statements is true about this relation?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen046"
+    "question_id": "cbse_xi_kemh1dd_c102_gen046",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Which of the following correctly describes the graph of a constant function f(x) = c, where c is a constant?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen047"
+    "question_id": "cbse_xi_kemh1dd_c102_gen047",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Given two real functions f and g defined on a set X ⊆ ℝ, the quotient function (f/g)(x) is defined by f(x)/g(x). Which of the following conditions is necessary for (f/g)(x) to be defined?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen048"
+    "question_id": "cbse_xi_kemh1dd_c102_gen048",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Define a function in your own words using the concept discussed in this section.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen049"
+    "question_id": "cbse_xi_kemh1dd_c102_gen049",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "For the function f(x) = x² defined on ℝ, determine the domain, codomain, and range.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen050"
+    "question_id": "cbse_xi_kemh1dd_c102_gen050",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Examine the relation R = {(2,2), (2,4), (3,3), (4,4)}. Explain why this relation is or is not a function.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen051"
+    "question_id": "cbse_xi_kemh1dd_c102_gen051",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Long Answer: Prove that the function f defined by f(x) = 1/x, with domain ℝ\\{0}, is indeed a function. Include in your answer a discussion on the domain, range, and any restrictions needed for f to be a valid function.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen052"
+    "question_id": "cbse_xi_kemh1dd_c102_gen052",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Long Answer: Let f and g be real functions defined on a set X ⊆ ℝ by f(x) = x² and g(x) = 2x + 1. Derive expressions for (f+g)(x), (f-g)(x), (f·g)(x), and (f/g)(x) (with the necessary restriction for division). Explain each step in your derivation.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen053"
+    "question_id": "cbse_xi_kemh1dd_c102_gen053",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Numerical Problem: Let f be a real valued function defined by f(x) = 2x + 1 over ℕ. Complete the following table: \n\nx: 1, 2, 3, 4, 5, 6, 7 \n\nFind the corresponding y values (i.e., f(x)) and then state the domain and range of the function.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen054"
+    "question_id": "cbse_xi_kemh1dd_c102_gen054",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Numerical Problem: For the function f(x) = x², complete the following table (calculate f(x)) for x = -4, -3, -2, -1, 0, 1, 2, 3, 4, and identify the symmetry in the function.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen055"
+    "question_id": "cbse_xi_kemh1dd_c102_gen055",
+    "section_name": "2.4 Functions"
   },
   {
     "question_text": "Numerical Problem: Given the function f(x) = 1/x defined over ℝ\\{0}, calculate f(x) for x = -2, -1, -0.5, 0.25, 0.5, 1, 1.5, 2. Then, describe the behavior of the graph as x approaches 0 and as x goes to ±∞.",
@@ -185,6 +196,7 @@
     "source": "generated",
     "chapter_id": "kemh102",
     "section_id": "07_section_2_4",
-    "question_id": "cbse_xi_kemh1dd_c102_gen056"
+    "question_id": "cbse_xi_kemh1dd_c102_gen056",
+    "section_name": "2.4 Functions"
   }
 ]

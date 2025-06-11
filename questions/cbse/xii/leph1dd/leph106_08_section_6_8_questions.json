@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen131"
+    "question_id": "cbse_xii_leph1dd_c106_gen131",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Which law explains the induction of emf in a rotating coil in an AC generator?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen132"
+    "question_id": "cbse_xii_leph1dd_c106_gen132",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "In an AC generator, increasing which parameter will directly increase the maximum induced emf?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen133"
+    "question_id": "cbse_xii_leph1dd_c106_gen133",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Why do some countries use a frequency of 60 Hz for AC generators while others use 50 Hz?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen134"
+    "question_id": "cbse_xii_leph1dd_c106_gen134",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "What role do slip rings and brushes play in an AC generator?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen135"
+    "question_id": "cbse_xii_leph1dd_c106_gen135",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Explain why the effective area of a rotating loop in an AC generator is given by A cos θ.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen136"
+    "question_id": "cbse_xii_leph1dd_c106_gen136",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "What is the significance of the coil being at 90° and 270° with respect to the magnetic field in an AC generator?",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen137"
+    "question_id": "cbse_xii_leph1dd_c106_gen137",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Compare the working principles of hydro-electric generators and nuclear power generators as discussed in the section.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen138"
+    "question_id": "cbse_xii_leph1dd_c106_gen138",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Why does the emf in an AC generator change its sign periodically?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen139"
+    "question_id": "cbse_xii_leph1dd_c106_gen139",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Provide a detailed explanation of how the rotation of a coil in a magnetic field induces an alternating electromotive force (emf).",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen140"
+    "question_id": "cbse_xii_leph1dd_c106_gen140",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Analyze the equation ε = ε₀ sin ωt to explain how the maximum voltage is determined and under what conditions it occurs.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen141"
+    "question_id": "cbse_xii_leph1dd_c106_gen141",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "Evaluate the advantages and disadvantages of designing a generator in which the electromagnets are rotated instead of the coils.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen142"
+    "question_id": "cbse_xii_leph1dd_c106_gen142",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "True or False: The emf produced in an AC generator never changes its polarity during operation.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen143"
+    "question_id": "cbse_xii_leph1dd_c106_gen143",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "True or False: In an AC generator, the maximum induced emf occurs when the angle between the area vector and the magnetic field is 90° or 270°.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen144"
+    "question_id": "cbse_xii_leph1dd_c106_gen144",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "True or False: Hydro-electric generators use nuclear fuel to heat water for steam production.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen145"
+    "question_id": "cbse_xii_leph1dd_c106_gen145",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "A stationary bicycle is connected to a generator with a 50-turn coil of area 0.20 m². The coil rotates at 1 revolution per second in a uniform magnetic field of 0.05 T. Calculate the maximum induced emf in the coil.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen146"
+    "question_id": "cbse_xii_leph1dd_c106_gen146",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "A coil with 100 turns, an area of 0.10 m², and placed in a 0.02 T magnetic field rotates with an angular speed of 10 rad/s. Determine the induced emf in the coil at t = 0.1 s.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen147"
+    "question_id": "cbse_xii_leph1dd_c106_gen147",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "If the frequency of an AC generator increases from 50 Hz to 60 Hz and the other parameters remain constant, by what factor does the maximum induced emf change?",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen148"
+    "question_id": "cbse_xii_leph1dd_c106_gen148",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "A generator has a coil with 200 turns and an area of 0.15 m² in a magnetic field of 0.08 T. If the maximum induced emf is measured to be 12 V, calculate the angular speed ω and the corresponding frequency of the generator.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen149"
+    "question_id": "cbse_xii_leph1dd_c106_gen149",
+    "section_name": "6.8 AC GENERATOR"
   },
   {
     "question_text": "A stationary coil consisting of 150 turns and an area of 0.12 m² is used in a generator operating in a uniform magnetic field of 0.03 T. If the maximum induced emf is required to be 3 V, determine the angular speed ω of the coil.",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph106",
     "section_id": "08_section_6_8",
-    "question_id": "cbse_xii_leph1dd_c106_gen150"
+    "question_id": "cbse_xii_leph1dd_c106_gen150",
+    "section_name": "6.8 AC GENERATOR"
   }
 ]

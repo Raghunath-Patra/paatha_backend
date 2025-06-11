@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen001"
+    "question_id": "cbse_x_jemh1dd_c107_gen001",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Which point lies on the y-axis?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen002"
+    "question_id": "cbse_x_jemh1dd_c107_gen002",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Which of the following equations represents a straight line in the plane?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen003"
+    "question_id": "cbse_x_jemh1dd_c107_gen003",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "The graph of y = ax² + bx + c, where a ≠ 0, creates a specific geometric shape. What is this shape?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen004"
+    "question_id": "cbse_x_jemh1dd_c107_gen004",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Define the terms 'abscissa' and 'ordinate'.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen005"
+    "question_id": "cbse_x_jemh1dd_c107_gen005",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Explain what is meant by the coordinates of a point on the x-axis and on the y-axis.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen006"
+    "question_id": "cbse_x_jemh1dd_c107_gen006",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Discuss the significance of coordinate geometry in linking algebra and geometry.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen007"
+    "question_id": "cbse_x_jemh1dd_c107_gen007",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "What are some practical applications of coordinate geometry? List and briefly explain two fields where it is applied.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen008"
+    "question_id": "cbse_x_jemh1dd_c107_gen008",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Discuss how coordinate geometry helps in studying the properties of lines and parabolas. Provide examples based on the given section.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen009"
+    "question_id": "cbse_x_jemh1dd_c107_gen009",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Prove that the graph of y = ax² + bx + c (with a ≠ 0) is a parabola by converting it to the vertex form. Include all necessary steps.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen010"
+    "question_id": "cbse_x_jemh1dd_c107_gen010",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Plot the points and construct the figure as described in the section: First, plot A(4, 8), B(3, 9), C(3, 8), D(1, 6), E(1, 5), F(3, 3), G(6, 3), H(8, 5), I(8, 6), J(6, 8), K(6, 9), L(5, 8) and join them in order A → B → C → D → E → F → G → H → I → J → K → L → A. Then plot and join the points forming triangles: P(3.5, 7), Q(3, 6), R(4, 6); X(5.5, 7), Y(5, 6), Z(6, 6); and S(4, 5), T(4.5, 4), U(5, 5). Finally, join S to (0, 5) and (0, 6), and U to (9, 5) and (9, 6). Describe the resulting figure.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen011"
+    "question_id": "cbse_x_jemh1dd_c107_gen011",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Find the distance between the points (3, 4) and (7, 1).",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen012"
+    "question_id": "cbse_x_jemh1dd_c107_gen012",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Find the coordinates of the point that divides the line segment joining (2, 3) and (8, 9) in the ratio 1:2.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen013"
+    "question_id": "cbse_x_jemh1dd_c107_gen013",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Compute the distance between points A(4, 8) and B(3, 9) as provided in the construction activity.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen014"
+    "question_id": "cbse_x_jemh1dd_c107_gen014",
+    "section_name": "7.1 Introduction"
   },
   {
     "question_text": "Given the vertices of a triangle as P(3.5, 7), Q(3, 6), and R(4, 6), calculate the lengths of all sides of the triangle.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "jemh107",
     "section_id": "01_section_7_1",
-    "question_id": "cbse_x_jemh1dd_c107_gen015"
+    "question_id": "cbse_x_jemh1dd_c107_gen015",
+    "section_name": "7.1 Introduction"
   }
 ]

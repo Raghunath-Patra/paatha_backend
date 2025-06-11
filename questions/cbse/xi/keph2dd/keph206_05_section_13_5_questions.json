@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen132"
+    "question_id": "cbse_xi_keph2dd_c206_gen132",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "In simple harmonic motion (SHM), what is the phase difference between displacement and acceleration?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen133"
+    "question_id": "cbse_xi_keph2dd_c206_gen133",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "If the displacement x(t) is positive in SHM, what can be said about the direction of the acceleration a(t)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen134"
+    "question_id": "cbse_xi_keph2dd_c206_gen134",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What physical principle is used to explain the relationship a(t) = -ω²x(t) in SHM?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen135"
+    "question_id": "cbse_xi_keph2dd_c206_gen135",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Which of the following correctly represents the instantaneous velocity v(t) of a particle in SHM, given the displacement equation x(t) = A cos(ωt + φ)?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen136"
+    "question_id": "cbse_xi_keph2dd_c206_gen136",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Explain briefly why the velocity of the projection point P' on the x-axis in a reference circle produces a sinusoidal function of time.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen137"
+    "question_id": "cbse_xi_keph2dd_c206_gen137",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Differentiate between the geometrical method and the calculus method for obtaining the velocity and acceleration in SHM.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen138"
+    "question_id": "cbse_xi_keph2dd_c206_gen138",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "What is the significance of the negative sign in the equations v(t) = -ωA sin(ωt + φ) and a(t) = -ω²A cos(ωt + φ) for SHM?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen139"
+    "question_id": "cbse_xi_keph2dd_c206_gen139",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "How does the centripetal acceleration in circular motion relate to the acceleration in SHM?",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen140"
+    "question_id": "cbse_xi_keph2dd_c206_gen140",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Derive the expression for acceleration a(t) in SHM by differentiating the velocity function v(t) = -ωA sin(ωt + φ).",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen141"
+    "question_id": "cbse_xi_keph2dd_c206_gen141",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Using the reference circle method, discuss how the sinusoidal nature of displacement, velocity, and acceleration in SHM can be visually interpreted.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen142"
+    "question_id": "cbse_xi_keph2dd_c206_gen142",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Design an experiment to verify that the acceleration in SHM is proportional to the displacement and always directed toward the equilibrium position.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen143"
+    "question_id": "cbse_xi_keph2dd_c206_gen143",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: In SHM, the velocity of the particle is maximum when its displacement is maximum.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen144"
+    "question_id": "cbse_xi_keph2dd_c206_gen144",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: The method of using a reference circle can be used to derive both the expressions for velocity and acceleration in SHM.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen145"
+    "question_id": "cbse_xi_keph2dd_c206_gen145",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "True or False: Differentiating the displacement function in SHM directly leads to the expression for both velocity and acceleration, without needing any geometric considerations.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen146"
+    "question_id": "cbse_xi_keph2dd_c206_gen146",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A body oscillates with SHM according to x = 4 cos(πt). Find the displacement at t = 0.75 s.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen147"
+    "question_id": "cbse_xi_keph2dd_c206_gen147",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "For the SHM described by x = 5 cos(2πt + π/4), calculate the velocity at t = 1.5 s.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen148"
+    "question_id": "cbse_xi_keph2dd_c206_gen148",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A pendulum undergoing SHM has a displacement given by x = 2 cos(4t) (in meters). Determine the acceleration at t = 0.5 s.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen149"
+    "question_id": "cbse_xi_keph2dd_c206_gen149",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "Consider a mass-spring system obeying x = 3 cos(6t - π/3). Compute the amplitude of velocity and maximum acceleration.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen150"
+    "question_id": "cbse_xi_keph2dd_c206_gen150",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A particle moves in SHM with displacement x = 8 cos(πt/2). Determine the period of the motion, and find the speed when x = 0.",
@@ -302,7 +321,8 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen151"
+    "question_id": "cbse_xi_keph2dd_c206_gen151",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   },
   {
     "question_text": "A body oscillates with SHM given by x = 5 cos(2πt + π/4) in SI units. At t = 1.5 s, calculate the (a) displacement, (b) speed, and (c) acceleration of the body.",
@@ -316,6 +336,7 @@
     "source": "generated",
     "chapter_id": "keph206",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_keph2dd_c206_gen152"
+    "question_id": "cbse_xi_keph2dd_c206_gen152",
+    "section_name": "13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION"
   }
 ]

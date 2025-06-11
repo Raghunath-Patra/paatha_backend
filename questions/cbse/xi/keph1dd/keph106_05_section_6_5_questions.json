@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen144"
+    "question_id": "cbse_xi_keph1dd_c106_gen144",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Which property is correct regarding the cross product of two vectors a and b?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen145"
+    "question_id": "cbse_xi_keph1dd_c106_gen145",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "According to the right hand rule for vector products, if you curl the fingers of your right hand from vector a to vector b, what does your extended thumb indicate?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen146"
+    "question_id": "cbse_xi_keph1dd_c106_gen146",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "What happens to the vector product a x b under reflection (mirror image)?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen147"
+    "question_id": "cbse_xi_keph1dd_c106_gen147",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "State the definition of the vector (cross) product of two vectors including its magnitude and direction criteria.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen148"
+    "question_id": "cbse_xi_keph1dd_c106_gen148",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Explain why the vector product of a vector with itself (a x a) is a null vector.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen149"
+    "question_id": "cbse_xi_keph1dd_c106_gen149",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Express the vector product of two vectors a and b in determinant form and explain the significance of using this representation.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen150"
+    "question_id": "cbse_xi_keph1dd_c106_gen150",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Describe in detail how the right hand screw rule is used to determine the direction of the vector product of two vectors. Include the importance of using the smaller angle between the vectors.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen151"
+    "question_id": "cbse_xi_keph1dd_c106_gen151",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Derive the expression for the vector product a x b from its component form and verify the anti-commutation property using the derived formula.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen152"
+    "question_id": "cbse_xi_keph1dd_c106_gen152",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "True or False: The scalar product of two vectors is commutative.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen153"
+    "question_id": "cbse_xi_keph1dd_c106_gen153",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "True or False: Under reflection, the vector product a x b changes its sign.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen154"
+    "question_id": "cbse_xi_keph1dd_c106_gen154",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "True or False: The cross product of a vector with itself always results in a non-zero vector.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen155"
+    "question_id": "cbse_xi_keph1dd_c106_gen155",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Given vectors a = (3, 0, 0) and b = (0, 4, 0), calculate a x b.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen156"
+    "question_id": "cbse_xi_keph1dd_c106_gen156",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Compute the cross product of vectors a = (1, 2, 3) and b = (4, 5, 6) using the determinant method.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen157"
+    "question_id": "cbse_xi_keph1dd_c106_gen157",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "For vectors a = (2, -1, 3) and b = (-1, 4, 2), find both the scalar (dot) product and the vector (cross) product. Also, verify that a x b equals - (b x a).",
@@ -227,7 +241,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen158"
+    "question_id": "cbse_xi_keph1dd_c106_gen158",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Given force vectors F1 = (5, -3, 2) N and F2 = (-2, 4, -1) N, calculate the vector product F1 x F2 and discuss its significance as a moment of force.",
@@ -241,7 +256,8 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen159"
+    "question_id": "cbse_xi_keph1dd_c106_gen159",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   },
   {
     "question_text": "Given vectors a = (7, -2, 1) and b = (3, 0, 4), compute the scalar (dot) product and the vector (cross) product.",
@@ -255,6 +271,7 @@
     "source": "generated",
     "chapter_id": "keph106",
     "section_id": "05_section_6_5",
-    "question_id": "cbse_xi_keph1dd_c106_gen160"
+    "question_id": "cbse_xi_keph1dd_c106_gen160",
+    "section_name": "6.5 VECTOR PRODUCT OF TWO VECTORS"
   }
 ]

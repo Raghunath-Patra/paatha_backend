@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen111"
+    "question_id": "cbse_xi_keph2dd_c201_gen111",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "At which point in the stress-strain curve is the yield point (or elastic limit) located?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen112"
+    "question_id": "cbse_xi_keph2dd_c201_gen112",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "What does the slope of the linear portion (from O to A) of the stress-strain curve represent?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen113"
+    "question_id": "cbse_xi_keph2dd_c201_gen113",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "If the ultimate tensile strength point (D) and the fracture point (E) on a stress-strain curve are very close together, what can be inferred about the material's properties?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen114"
+    "question_id": "cbse_xi_keph2dd_c201_gen114",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Define yield strength in the context of a stress-strain curve and explain its significance.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen115"
+    "question_id": "cbse_xi_keph2dd_c201_gen115",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Differentiate between elastic and plastic deformation as observed on the stress-strain curve.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen116"
+    "question_id": "cbse_xi_keph2dd_c201_gen116",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Explain the significance of ultimate tensile strength on a stress-strain curve and its implications for material design.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen117"
+    "question_id": "cbse_xi_keph2dd_c201_gen117",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Discuss how a stress-strain curve can be used to characterize the mechanical behavior of materials, comparing brittle and ductile materials in your explanation.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen118"
+    "question_id": "cbse_xi_keph2dd_c201_gen118",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Explain the differences in the stress-strain behavior of elastomers, such as rubber and aortic tissue, compared to metals, and discuss the underlying physical reasons for these differences.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen119"
+    "question_id": "cbse_xi_keph2dd_c201_gen119",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "The proportional limit and the yield point on a stress-strain curve are always the same.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen120"
+    "question_id": "cbse_xi_keph2dd_c201_gen120",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "A material that recovers its original shape completely after the removal of applied stress was behaving elastically. This statement is true.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen121"
+    "question_id": "cbse_xi_keph2dd_c201_gen121",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "A metal specimen in the elastic region follows Hooke's law. If an applied stress of 200 x 10^6 N m^-2 produces a strain of 0.001, calculate Young's modulus.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen122"
+    "question_id": "cbse_xi_keph2dd_c201_gen122",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "A test specimen with a cross-sectional area of 0.005 m^2 has an ultimate tensile strength of 400 x 10^6 N m^-2. Calculate the maximum force that the specimen can withstand before fracturing.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen123"
+    "question_id": "cbse_xi_keph2dd_c201_gen123",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "A wire, after being subjected to a load, shows a permanent set corresponding to a 2% strain. If the original length of the wire is 2 m, what is the permanent elongation in meters?",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen124"
+    "question_id": "cbse_xi_keph2dd_c201_gen124",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "For a material that initially behaves linearly, if the slope (dσ/dε) is 150 x 10^9 N m^-2, estimate the stress when the strain is 0.0025, assuming near linear behavior for small strains.",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "04_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen125"
+    "question_id": "cbse_xi_keph2dd_c201_gen125",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   }
 ]

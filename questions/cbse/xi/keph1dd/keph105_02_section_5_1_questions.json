@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen018"
+    "question_id": "cbse_xi_keph1dd_c105_gen018",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which property is NOT true for the scalar product?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen019"
+    "question_id": "cbse_xi_keph1dd_c105_gen019",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Given that A dot B equals A * (B cos(θ)), which diagram (from the provided Figure 5.1) best represents the projection of B onto A?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen020"
+    "question_id": "cbse_xi_keph1dd_c105_gen020",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Which of the following equations correctly represents the distributive property of the dot product?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen021"
+    "question_id": "cbse_xi_keph1dd_c105_gen021",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "When calculating the dot product of two vectors given in Cartesian form, which of the following formulas is used?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen022"
+    "question_id": "cbse_xi_keph1dd_c105_gen022",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "In physics, energy is defined as the capacity to do work. Explain this definition and contrast it with the everyday usage of the term.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen023"
+    "question_id": "cbse_xi_keph1dd_c105_gen023",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Describe the concept of the scalar product and discuss its physical significance in calculating work done by a force.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen024"
+    "question_id": "cbse_xi_keph1dd_c105_gen024",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "What does the equation A dot A = A squared imply about the vector A?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen025"
+    "question_id": "cbse_xi_keph1dd_c105_gen025",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Differentiate between the everyday usage of the term 'power' and its physics definition based on the reading.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen026"
+    "question_id": "cbse_xi_keph1dd_c105_gen026",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Derive the expression for the scalar product in Cartesian coordinates given two vectors A = (Ax i + Ay j + Az k) and B = (Bx i + By j + Bz k).",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen027"
+    "question_id": "cbse_xi_keph1dd_c105_gen027",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Discuss the importance of the scalar product in physics, including its mathematical properties and its applications, such as calculating work done.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen028"
+    "question_id": "cbse_xi_keph1dd_c105_gen028",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "The scalar product of two vectors results in a scalar quantity.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen029"
+    "question_id": "cbse_xi_keph1dd_c105_gen029",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "If two vectors are perpendicular, their scalar product is equal to the product of their magnitudes.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen030"
+    "question_id": "cbse_xi_keph1dd_c105_gen030",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "The dot product obeys the commutative property, i.e., A dot B equals B dot A.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen031"
+    "question_id": "cbse_xi_keph1dd_c105_gen031",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "A force F = (3 i + 4 j - 5 k) units acts on an object that moves along a displacement d = (5 i + 4 j + 3 k) units. Calculate the dot product F dot d, and determine the angle between F and d (use cos⁻¹ function).",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen032"
+    "question_id": "cbse_xi_keph1dd_c105_gen032",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Given vectors A = (2, -3, 4) and B = (-1, 0, 5), calculate the dot product A dot B.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen033"
+    "question_id": "cbse_xi_keph1dd_c105_gen033",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Find the scalar projection of vector B = (6, 8, 0) onto vector A = (3, 0, 0).",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen034"
+    "question_id": "cbse_xi_keph1dd_c105_gen034",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Compute the magnitude squared of vector A = (4, -2, 3) using the property that A dot A equals A squared.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen035"
+    "question_id": "cbse_xi_keph1dd_c105_gen035",
+    "section_name": "5.1 INTRODUCTION"
   },
   {
     "question_text": "Show that vectors P = (1, 2, 3) and Q = (4, -8, 4) are perpendicular by calculating their dot product.",
@@ -288,6 +306,7 @@
     "source": "generated",
     "chapter_id": "keph105",
     "section_id": "02_section_5_1",
-    "question_id": "cbse_xi_keph1dd_c105_gen036"
+    "question_id": "cbse_xi_keph1dd_c105_gen036",
+    "section_name": "5.1 INTRODUCTION"
   }
 ]

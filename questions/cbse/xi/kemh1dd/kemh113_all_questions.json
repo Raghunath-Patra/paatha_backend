@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen028"
+    "question_id": "cbse_xi_kemh1dd_c113_gen028",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "For any data set, the sum of deviations of all observations from the arithmetic mean is: ",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen029"
+    "question_id": "cbse_xi_kemh1dd_c113_gen029",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "In the context of grouped data, the mid-point of each class interval is used because:",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen030"
+    "question_id": "cbse_xi_kemh1dd_c113_gen030",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Why is the mean deviation not subject to further algebraic manipulation?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen031"
+    "question_id": "cbse_xi_kemh1dd_c113_gen031",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Define mean deviation in your own words and explain its use in measuring dispersion.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen032"
+    "question_id": "cbse_xi_kemh1dd_c113_gen032",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "What is the step-deviation method and why is it used when calculating mean and mean deviation for large data sets?",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen033"
+    "question_id": "cbse_xi_kemh1dd_c113_gen033",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Derive and explain why the sum of deviations of all observations from their arithmetic mean is zero.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen034"
+    "question_id": "cbse_xi_kemh1dd_c113_gen034",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Prove that the mean of the absolute deviations from any central value is always non-negative and state under what condition it becomes zero.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen035"
+    "question_id": "cbse_xi_kemh1dd_c113_gen035",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Calculate the mean deviation about the mean for the ungrouped data: 4, 7, 8, 9, 10, 12, 13, 17.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen036"
+    "question_id": "cbse_xi_kemh1dd_c113_gen036",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Find the mean deviation about the median for the ungrouped data: 13, 17, 16, 14, 11, 13, 10, 16, 11, 18, 12, 17.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen037"
+    "question_id": "cbse_xi_kemh1dd_c113_gen037",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Given the discrete frequency distribution below, calculate the mean deviation about the mean:\n\nx: 5, 10, 15, 20, 25\nFrequency (f): 7, 4, 6, 3, 5",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen038"
+    "question_id": "cbse_xi_kemh1dd_c113_gen038",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "For the following continuous frequency distribution, compute the mean deviation about the mean:\n\nIncome per day in ₹:\nClass intervals: 0–100, 100–200, 200–300, 300–400, 400–500, 500–600, 600–700, 700–800\nFrequency: 4, 8, 9, 10, 7, 5, 4, 3",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen039"
+    "question_id": "cbse_xi_kemh1dd_c113_gen039",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Calculate the mean deviation about the median for the following grouped data representing marks of girls:\n\nMarks (in intervals): 0–10, 10–20, 20–30, 30–40, 40–50, 50–60\nFrequency: 6, 8, 14, 16, 4, 2\n(Hint: First compute the median using the formula appropriate for continuous data.)",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "04_section_13_4",
-    "question_id": "cbse_xi_kemh1dd_c113_gen040"
+    "question_id": "cbse_xi_kemh1dd_c113_gen040",
+    "section_name": "13.4 Mean Deviation"
   },
   {
     "question_text": "Which measure of dispersion is defined as the difference between the maximum and minimum values of a dataset?",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen014"
+    "question_id": "cbse_xi_kemh1dd_c113_gen014",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Which of the following measures of dispersion is calculated based on the deviations of observations from the mean?",
@@ -237,7 +251,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen015"
+    "question_id": "cbse_xi_kemh1dd_c113_gen015",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Which of the following is a limitation of using range as a measure of dispersion?",
@@ -256,7 +271,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen016"
+    "question_id": "cbse_xi_kemh1dd_c113_gen016",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Batsman A has a scoring range of 117 runs while Batsman B has a range of 14 runs. What can you infer about the consistency of their scores?",
@@ -275,7 +291,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen017"
+    "question_id": "cbse_xi_kemh1dd_c113_gen017",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Define 'Range' in the context of measures of dispersion.",
@@ -289,7 +306,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen018"
+    "question_id": "cbse_xi_kemh1dd_c113_gen018",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Explain briefly why the range is not a complete measure of dispersion.",
@@ -303,7 +321,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen019"
+    "question_id": "cbse_xi_kemh1dd_c113_gen019",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Define 'Mean Deviation' in statistics.",
@@ -317,7 +336,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen020"
+    "question_id": "cbse_xi_kemh1dd_c113_gen020",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Define 'Standard Deviation' and state its importance.",
@@ -331,7 +351,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen021"
+    "question_id": "cbse_xi_kemh1dd_c113_gen021",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Derive the formula for the standard deviation for a dataset and explain each step in your derivation.",
@@ -345,7 +366,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen022"
+    "question_id": "cbse_xi_kemh1dd_c113_gen022",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Compare and contrast mean deviation and standard deviation as measures of dispersion. In your answer, discuss the advantages and limitations of each.",
@@ -359,7 +381,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen023"
+    "question_id": "cbse_xi_kemh1dd_c113_gen023",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Given the dataset: {3, 7, 7, 10, 12}, calculate the range.",
@@ -373,7 +396,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen024"
+    "question_id": "cbse_xi_kemh1dd_c113_gen024",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "For the dataset {5, 8, 10, 15, 17}, calculate the mean deviation from the mean.",
@@ -387,7 +411,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen025"
+    "question_id": "cbse_xi_kemh1dd_c113_gen025",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Compute the standard deviation for the dataset {2, 4, 6, 8, 10}.",
@@ -401,7 +426,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen026"
+    "question_id": "cbse_xi_kemh1dd_c113_gen026",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Consider the dataset of scores: {45, 52, 60, 65, 70, 75, 82}. Calculate the range, mean deviation from the mean, and standard deviation.",
@@ -415,7 +441,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "03_section_13_2",
-    "question_id": "cbse_xi_kemh1dd_c113_gen027"
+    "question_id": "cbse_xi_kemh1dd_c113_gen027",
+    "section_name": "13.2 Measures of Dispersion"
   },
   {
     "question_text": "Which of the following measures is used to describe the central or typical value of a data set?",
@@ -434,7 +461,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen001"
+    "question_id": "cbse_xi_kemh1dd_c113_gen001",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "In an even-numbered dataset, how is the median determined?",
@@ -453,7 +481,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen002"
+    "question_id": "cbse_xi_kemh1dd_c113_gen002",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Which of the following statements about data variability is true?",
@@ -472,7 +501,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen003"
+    "question_id": "cbse_xi_kemh1dd_c113_gen003",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "What is the standard form of the equation of an ellipse centered at the origin?",
@@ -491,7 +521,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen004"
+    "question_id": "cbse_xi_kemh1dd_c113_gen004",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Define 'measure of dispersion' and list two examples.",
@@ -505,7 +536,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen005"
+    "question_id": "cbse_xi_kemh1dd_c113_gen005",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Explain the difference between the mean and the median using the batsmen scores example discussed in the section.",
@@ -519,7 +551,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen006"
+    "question_id": "cbse_xi_kemh1dd_c113_gen006",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "What does the clustering of dots in a dot plot indicate about a dataset?",
@@ -533,7 +566,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen007"
+    "question_id": "cbse_xi_kemh1dd_c113_gen007",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Discuss why measures of central tendency might be insufficient to fully characterize a dataset, using the batsmen examples as an illustration. Include in your discussion an explanation of variability.",
@@ -547,7 +581,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen008"
+    "question_id": "cbse_xi_kemh1dd_c113_gen008",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Derive the steps to calculate the median for an even-numbered dataset and illustrate with an example of your choice.",
@@ -561,7 +596,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen009"
+    "question_id": "cbse_xi_kemh1dd_c113_gen009",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Batsman C scored the following runs in 8 matches: 45, 56, 78, 90, 34, 67, 50, 68. Calculate the mean and the median of these scores.",
@@ -575,7 +611,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen010"
+    "question_id": "cbse_xi_kemh1dd_c113_gen010",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Using the runs scored by Batsman A mentioned in the section (minimum = 0 and maximum = 117), compute the range of the scores.",
@@ -589,7 +626,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen011"
+    "question_id": "cbse_xi_kemh1dd_c113_gen011",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "Consider the dataset: 30, 50, 50, 60, 70, 80, 90, 100. First, compute the mean and median. Then, add an outlier value of 150 to the dataset, and compute the new mean and median. Which measure of central tendency is less affected by the outlier?",
@@ -603,7 +641,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen012"
+    "question_id": "cbse_xi_kemh1dd_c113_gen012",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "For the ellipse described in the section with the equation x²/a² + y²/b² = 1, if a = 5 and b = 3, verify whether the point (3,2) lies on the ellipse.",
@@ -617,7 +656,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "02_section_13_1",
-    "question_id": "cbse_xi_kemh1dd_c113_gen013"
+    "question_id": "cbse_xi_kemh1dd_c113_gen013",
+    "section_name": "13.1 Introduction"
   },
   {
     "question_text": "The mean and variance of eight observations are 9 and 9.25, respectively. If six of the observations are 6, 7, 10, 12, 12 and 13, find the remaining two observations.",
@@ -844,7 +884,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen041"
+    "question_id": "cbse_xi_kemh1dd_c113_gen041",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "Why do we take the square of deviations rather than their absolute values when measuring dispersion?",
@@ -863,7 +904,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen042"
+    "question_id": "cbse_xi_kemh1dd_c113_gen042",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "In a discrete frequency distribution, which formula represents the standard deviation?",
@@ -882,7 +924,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen043"
+    "question_id": "cbse_xi_kemh1dd_c113_gen043",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "In the step-deviation method, if x_i = A + h y_i, how is the standard deviation of the original variable x related to the standard deviation of the new variable y?",
@@ -901,7 +944,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen044"
+    "question_id": "cbse_xi_kemh1dd_c113_gen044",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "Define variance in your own words and state its mathematical formula.",
@@ -915,7 +959,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen045"
+    "question_id": "cbse_xi_kemh1dd_c113_gen045",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "What is the standard deviation and why is it preferred over the variance as a measure of dispersion?",
@@ -929,7 +974,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen046"
+    "question_id": "cbse_xi_kemh1dd_c113_gen046",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "Explain the advantage of using squared deviations (instead of absolute deviations) when measuring dispersion in data.",
@@ -943,7 +989,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen047"
+    "question_id": "cbse_xi_kemh1dd_c113_gen047",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "How does the variance of the step-deviations (derived from using an assumed mean and a scale factor) relate to the variance of the original data?",
@@ -957,7 +1004,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen048"
+    "question_id": "cbse_xi_kemh1dd_c113_gen048",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "Derive an alternative formula for variance starting from the definition σ² = (1/N) Σ f_i(x_i - x̄)² and show that it can be written as σ² = (1/N) Σ f_i x_i² - x̄².",
@@ -971,7 +1019,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen049"
+    "question_id": "cbse_xi_kemh1dd_c113_gen049",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "Discuss why the simple sum of squared deviations, Σ(x_i - x̄)², is not a proper measure of dispersion, and explain how dividing by n (or N for frequency distributions) resolves this issue.",
@@ -985,7 +1034,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen050"
+    "question_id": "cbse_xi_kemh1dd_c113_gen050",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "Calculate the mean, variance, and standard deviation for the data set: 6, 8, 10, 12, 14, 16, 18, 20, 22, 24.",
@@ -999,7 +1049,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen051"
+    "question_id": "cbse_xi_kemh1dd_c113_gen051",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "For the following frequency distribution, calculate the variance and standard deviation:\n\nxᵢ: 4, 8, 11, 17, 20, 24, 32\nfᵢ: 3, 5, 9, 5, 4, 3, 1",
@@ -1013,7 +1064,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen052"
+    "question_id": "cbse_xi_kemh1dd_c113_gen052",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "Using the following continuous frequency distribution, compute the mean, variance, and standard deviation:\n\nClasses: 30-40 (f=3), 40-50 (f=7), 50-60 (f=12), 60-70 (f=15), 70-80 (f=8), 80-90 (f=3), 90-100 (f=2). Use the class midpoints for calculations.",
@@ -1027,7 +1079,8 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen053"
+    "question_id": "cbse_xi_kemh1dd_c113_gen053",
+    "section_name": "13.5 Variance and Standard Deviation"
   },
   {
     "question_text": "Using the step-deviation method, calculate the mean, variance, and standard deviation for the following frequency distribution:\n\nClasses: 30-40, 40-50, 50-60, 60-70, 70-80, 80-90, 90-100;\nFrequencies: 3, 7, 12, 15, 8, 3, 2. Assume an A = 65 and h = 10.",
@@ -1041,6 +1094,7 @@
     "source": "generated",
     "chapter_id": "kemh113",
     "section_id": "05_section_13_5",
-    "question_id": "cbse_xi_kemh1dd_c113_gen054"
+    "question_id": "cbse_xi_kemh1dd_c113_gen054",
+    "section_name": "13.5 Variance and Standard Deviation"
   }
 ]

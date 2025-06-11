@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen014"
+    "question_id": "cbse_x_jemh1dd_c103_gen014",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "A pair of linear equations represents parallel lines (hence no solution) when the following condition holds:",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen015"
+    "question_id": "cbse_x_jemh1dd_c103_gen015",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Which one of the following conditions on the ratios of coefficients indicates that two linear equations are coincident (dependent)?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen016"
+    "question_id": "cbse_x_jemh1dd_c103_gen016",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Consider two linear equations. If they are inconsistent, what is the graphical representation of their lines?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen017"
+    "question_id": "cbse_x_jemh1dd_c103_gen017",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Define the following terms as used in the graphical solution of a pair of linear equations: 1) Consistent, 2) Inconsistent, 3) Dependent.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen018"
+    "question_id": "cbse_x_jemh1dd_c103_gen018",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Express the conditions for two lines to be (i) intersecting, (ii) coincident, and (iii) parallel, using the ratios a₁/a₂, b₁/b₂, and c₁/c₂.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen019"
+    "question_id": "cbse_x_jemh1dd_c103_gen019",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Given a pair of linear equations where the ratios are a₁/a₂ = 2/3, b₁/b₂ = 2/3, and c₁/c₂ = 5/6, determine the nature of the solution of these equations.",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen020"
+    "question_id": "cbse_x_jemh1dd_c103_gen020",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Prove that if a₁/a₂ = b₁/b₂ = c₁/c₂ for two linear equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0, then the two equations are dependent and have infinitely many solutions.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen021"
+    "question_id": "cbse_x_jemh1dd_c103_gen021",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Graphically solve the pair of equations: 2x - y = 1 and x + y = 3. Provide a detailed solution including the steps to plot the graphs and determine the point of intersection.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen022"
+    "question_id": "cbse_x_jemh1dd_c103_gen022",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Solve graphically the pair of equations: x - 2y = 0 and 3x + 4y = 20. Provide a step-by-step explanation of your solution including plotting of points.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen023"
+    "question_id": "cbse_x_jemh1dd_c103_gen023",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Using the graphical method, verify whether the pair of equations 5x - 8y + 1 = 0 and 3x - (24/5)y + 3/5 = 0 are coincident, and explain your findings.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen024"
+    "question_id": "cbse_x_jemh1dd_c103_gen024",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Champa bought some pants and skirts. The number of skirts is two less than twice the number of pants, and also four less than four times the number of pants. Form the equations and solve them graphically to find the number of pants and skirts purchased.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen025"
+    "question_id": "cbse_x_jemh1dd_c103_gen025",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   },
   {
     "question_text": "Graphically determine the point of intersection of the equations x + 3y = 6 and 2x - 3y = 12. Describe the steps taken to graph these equations and how the solution is verified.",
@@ -199,6 +211,7 @@
     "source": "generated",
     "chapter_id": "jemh103",
     "section_id": "02_section_3_2",
-    "question_id": "cbse_x_jemh1dd_c103_gen026"
+    "question_id": "cbse_x_jemh1dd_c103_gen026",
+    "section_name": "3.2 Graphical Method of Solution of a Pair of Linear Equations"
   }
 ]

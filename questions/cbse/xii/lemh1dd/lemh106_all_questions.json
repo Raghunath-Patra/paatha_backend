@@ -260,7 +260,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen001"
+    "question_id": "cbse_xii_lemh1dd_c106_gen001",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "In the context of rates of change, if dy/dx is negative at a point, what does this indicate about the behavior of the function y = f(x) at that point?",
@@ -279,7 +280,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen002"
+    "question_id": "cbse_xii_lemh1dd_c106_gen002",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "If the area of a circle is defined as A = πr², what is the derivative dA/dr?",
@@ -298,7 +300,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen003"
+    "question_id": "cbse_xii_lemh1dd_c106_gen003",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "The marginal cost is defined as the instantaneous rate of change of total cost with respect to production output. Which of the following best represents the marginal cost if C(x) is the total cost function?",
@@ -317,7 +320,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen004"
+    "question_id": "cbse_xii_lemh1dd_c106_gen004",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Define marginal revenue and briefly explain how it is calculated from the total revenue function R(x).",
@@ -331,7 +335,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen005"
+    "question_id": "cbse_xii_lemh1dd_c106_gen005",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "What is meant by a turning point on the graph of a function? Explain its significance in determining maximum or minimum values.",
@@ -345,7 +350,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen006"
+    "question_id": "cbse_xii_lemh1dd_c106_gen006",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Define the chain rule in your own words and state its mathematical formula.",
@@ -359,7 +365,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen007"
+    "question_id": "cbse_xii_lemh1dd_c106_gen007",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Explain with an example how the concept of rate of change applies when one quantity varies with respect to another, particularly in the context of physics or engineering.",
@@ -373,7 +380,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen008"
+    "question_id": "cbse_xii_lemh1dd_c106_gen008",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Derive the expression for the rate of change of the surface area S of a cube, where S = 6x², given that the volume V = x³ is increasing at a rate of dV/dt. Show all steps using the chain rule.",
@@ -387,7 +395,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen009"
+    "question_id": "cbse_xii_lemh1dd_c106_gen009",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Prove that if a function y = f(x) is differentiable at x = x₀, then the line tangent to the curve at (x₀, f(x₀)) has the slope f'(x₀). Provide a clear, step-by-step proof.",
@@ -401,7 +410,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen010"
+    "question_id": "cbse_xii_lemh1dd_c106_gen010",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A circle has an area A = πr². If the radius r is increasing at a constant rate of 2 cm/s, find the rate at which the area is increasing when r = 5 cm. Solve the problem step by step.",
@@ -415,7 +425,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen011"
+    "question_id": "cbse_xii_lemh1dd_c106_gen011",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "The volume of a cube is increasing at 9 cm³/s. Given that V = x³ and the surface area S = 6x², compute the rate at which the surface area is increasing when the edge length x = 10 cm. Show all your workings.",
@@ -429,7 +440,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen012"
+    "question_id": "cbse_xii_lemh1dd_c106_gen012",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A stone is dropped into a lake producing circular waves. If the radius of the wave increases at a constant rate of 4 cm/s, determine the rate at which the enclosed area is increasing when the radius is 10 cm. Provide a detailed solution.",
@@ -443,7 +455,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen013"
+    "question_id": "cbse_xii_lemh1dd_c106_gen013",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "A rectangle has its length decreasing at 3 cm/min and its width increasing at 2 cm/min. When the length is 10 cm and the width is 6 cm, determine (a) the rate of change of its perimeter and (b) the rate of change of its area. Include all calculations.",
@@ -457,7 +470,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen014"
+    "question_id": "cbse_xii_lemh1dd_c106_gen014",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "The total cost C(x) for producing x units is given by C(x) = 0.005x³ – 0.02x² + 30x + 5000. Calculate the marginal cost when 3 units are produced. Provide step-by-step calculations.",
@@ -471,7 +485,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "02_section_6_1",
-    "question_id": "cbse_xii_lemh1dd_c106_gen015"
+    "question_id": "cbse_xii_lemh1dd_c106_gen015",
+    "section_name": "6.1 Introduction"
   },
   {
     "question_text": "Show that the function given by f(x) = (ln x)/x has a maximum at x = e.",
@@ -1095,7 +1110,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen029"
+    "question_id": "cbse_xii_lemh1dd_c106_gen029",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "According to the First Derivative Test, if f'(x) changes sign from positive to negative as x increases through c, then x = c is a:",
@@ -1114,7 +1130,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen030"
+    "question_id": "cbse_xii_lemh1dd_c106_gen030",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "In the context of the Second Derivative Test, if f'(c) = 0 and f''(c) = 0, what can be concluded about point c?",
@@ -1133,7 +1150,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen031"
+    "question_id": "cbse_xii_lemh1dd_c106_gen031",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Which theorem guarantees that every continuous function on a closed interval [a, b] attains both its absolute maximum and absolute minimum values?",
@@ -1152,7 +1170,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen032"
+    "question_id": "cbse_xii_lemh1dd_c106_gen032",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Define a critical point of a function.",
@@ -1166,7 +1185,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen033"
+    "question_id": "cbse_xii_lemh1dd_c106_gen033",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "State the First Derivative Test for determining local extrema.",
@@ -1180,7 +1200,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen034"
+    "question_id": "cbse_xii_lemh1dd_c106_gen034",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Explain the difference between local extrema and absolute extrema.",
@@ -1194,7 +1215,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen035"
+    "question_id": "cbse_xii_lemh1dd_c106_gen035",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "What is the significance of turning points in sketching the graph of a function?",
@@ -1208,7 +1230,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen036"
+    "question_id": "cbse_xii_lemh1dd_c106_gen036",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Prove that if f is differentiable at an interior point c and has a local maximum (or local minimum) at c, then f′(c) = 0.",
@@ -1222,7 +1245,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen037"
+    "question_id": "cbse_xii_lemh1dd_c106_gen037",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Discuss why the converse of the theorem 'if f has a local extremum at c, then f′(c)=0 or f is not differentiable at c' is not true. Provide a counterexample to illustrate your point.",
@@ -1236,7 +1260,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen038"
+    "question_id": "cbse_xii_lemh1dd_c106_gen038",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "The profit from a grove of orange trees is modeled by P(x) = 100x – 2x², where x is the number of trees per acre. Find the number of trees per acre that maximizes the profit.",
@@ -1250,7 +1275,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen039"
+    "question_id": "cbse_xii_lemh1dd_c106_gen039",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Find the points of local extrema for the function f(x) = 2x³ – 6x² + 6x + 5.",
@@ -1264,7 +1290,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen040"
+    "question_id": "cbse_xii_lemh1dd_c106_gen040",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Find the absolute maximum and minimum values of the function f(x) = 2x³ – 15x² + 36x + 1 on the closed interval [1, 5].",
@@ -1278,7 +1305,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen041"
+    "question_id": "cbse_xii_lemh1dd_c106_gen041",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Find two positive numbers whose sum is 15 and for which the sum of their squares is minimized.",
@@ -1292,7 +1320,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "06_section_6_4",
-    "question_id": "cbse_xii_lemh1dd_c106_gen042"
+    "question_id": "cbse_xii_lemh1dd_c106_gen042",
+    "section_name": "6.4 Maxima and Minima"
   },
   {
     "question_text": "Show that the function given by f(x) = 3x + 17 is increasing on ℝ.",
@@ -1573,7 +1602,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen016"
+    "question_id": "cbse_xii_lemh1dd_c106_gen016",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "If f'(x) > 0 for every x in an interval, then which of the following is true?",
@@ -1592,7 +1622,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen017"
+    "question_id": "cbse_xii_lemh1dd_c106_gen017",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "For which function does f'(x) = 0 imply that the function is constant?",
@@ -1611,7 +1642,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen018"
+    "question_id": "cbse_xii_lemh1dd_c106_gen018",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Define what it means for a function to be strictly increasing over an interval, and provide an example.",
@@ -1625,7 +1657,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen019"
+    "question_id": "cbse_xii_lemh1dd_c106_gen019",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "State the first derivative test for determining if a function is increasing or decreasing on an interval.",
@@ -1639,7 +1672,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen020"
+    "question_id": "cbse_xii_lemh1dd_c106_gen020",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Differentiate the function f(x) = 7x - 3 and explain why f is increasing on ℝ.",
@@ -1653,7 +1687,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen021"
+    "question_id": "cbse_xii_lemh1dd_c106_gen021",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Prove using the Mean Value Theorem that if f'(x) > 0 for every x in (a, b), then f is increasing on [a, b].",
@@ -1667,7 +1702,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen022"
+    "question_id": "cbse_xii_lemh1dd_c106_gen022",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Given f(x) = x³ - 3x² + 4x, use the derivative test to determine the intervals where the function is increasing or decreasing. Justify your answer using critical points.",
@@ -1681,7 +1717,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen023"
+    "question_id": "cbse_xii_lemh1dd_c106_gen023",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Find the intervals in which the function f(x) = x² - 4x + 6 is increasing and decreasing.",
@@ -1695,7 +1732,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen024"
+    "question_id": "cbse_xii_lemh1dd_c106_gen024",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "Determine the increasing and decreasing intervals of f(x) = 4x³ - 6x² - 72x + 30 by finding its critical points.",
@@ -1709,7 +1747,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen025"
+    "question_id": "cbse_xii_lemh1dd_c106_gen025",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "For f(x) = sin(3x) on the interval [0, π/2], determine the intervals where the function is increasing and decreasing using its derivative.",
@@ -1723,7 +1762,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen026"
+    "question_id": "cbse_xii_lemh1dd_c106_gen026",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "For the function f(x) = sin x + cos x on [0, 2π], determine the intervals where f is increasing and decreasing using derivative analysis.",
@@ -1737,7 +1777,8 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen027"
+    "question_id": "cbse_xii_lemh1dd_c106_gen027",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   },
   {
     "question_text": "For the function f(x) = cos x on [0, 2π], determine the intervals where f is increasing and where it is decreasing.",
@@ -1751,6 +1792,7 @@
     "source": "generated",
     "chapter_id": "lemh106",
     "section_id": "04_section_6_3",
-    "question_id": "cbse_xii_lemh1dd_c106_gen028"
+    "question_id": "cbse_xii_lemh1dd_c106_gen028",
+    "section_name": "6.3 Increasing and Decreasing Functions"
   }
 ]

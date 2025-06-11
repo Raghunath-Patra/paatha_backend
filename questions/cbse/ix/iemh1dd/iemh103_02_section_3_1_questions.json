@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen001"
+    "question_id": "cbse_ix_iemh1dd_c103_gen001",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "In Fig. 3.2(b) showing a dot on a sheet of paper, which two distances are used to precisely locate the dot?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen002"
+    "question_id": "cbse_ix_iemh1dd_c103_gen002",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Which mathematician is credited with the development of the Cartesian system that underpins modern coordinate geometry?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen003"
+    "question_id": "cbse_ix_iemh1dd_c103_gen003",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Which of the following statements about locating a point in a plane is false?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen004"
+    "question_id": "cbse_ix_iemh1dd_c103_gen004",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Define what is meant by 'two independent pieces of information' when locating a point in a plane.",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen005"
+    "question_id": "cbse_ix_iemh1dd_c103_gen005",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Explain why the coordinate (5, 3) is not the same as (3, 5) in the context of a classroom seating plan.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen006"
+    "question_id": "cbse_ix_iemh1dd_c103_gen006",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "What is the Cartesian system and why is it essential for describing positions in a plane?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen007"
+    "question_id": "cbse_ix_iemh1dd_c103_gen007",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Describe how a seating plan activity, as presented in the text, helps in understanding the concept of coordinates.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen008"
+    "question_id": "cbse_ix_iemh1dd_c103_gen008",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Discuss the importance of using two independent pieces of information to uniquely determine a position in a plane. Use examples from the street plan and the dot on a paper to support your answer.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen009"
+    "question_id": "cbse_ix_iemh1dd_c103_gen009",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Derive how the position of a dot on a paper is determined by measuring its distances from two fixed, perpendicular lines. Provide a step-by-step explanation using the concept of ordered pairs.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen010"
+    "question_id": "cbse_ix_iemh1dd_c103_gen010",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Evaluate the benefits and potential limitations of using the Cartesian coordinate system in everyday tasks, such as mapping a classroom or planning a route in a neighborhood.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen011"
+    "question_id": "cbse_ix_iemh1dd_c103_gen011",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "In a classroom seating plan with 10 columns and 7 rows, if a student is seated at position (5, 3), how many rows must the student move upward to reach the top (assuming row 1 is at the bottom)?",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen012"
+    "question_id": "cbse_ix_iemh1dd_c103_gen012",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "A dot is positioned 5 cm from the left edge and 9 cm from the bottom edge of a paper. If a new dot is placed 3 cm to the right and 2 cm upward from the original dot, what are the new distances from the left and bottom edges?",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen013"
+    "question_id": "cbse_ix_iemh1dd_c103_gen013",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "A house is located at the intersection of the 2nd street and with house number 5. If streets and houses are 10 meters apart, calculate the straight-line distance from the intersection of the 1st street and house number 1 to this house.",
@@ -213,7 +226,8 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen014"
+    "question_id": "cbse_ix_iemh1dd_c103_gen014",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "In a classroom seating plan grid with 10 columns and 7 rows, if Sonia sits at (4, 1) and another student sits at (7, 5), calculate the horizontal and vertical differences between their positions and find the Euclidean distance between their desks (assuming each desk is 1 unit apart).",
@@ -227,6 +241,7 @@
     "source": "generated",
     "chapter_id": "iemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_ix_iemh1dd_c103_gen015"
+    "question_id": "cbse_ix_iemh1dd_c103_gen015",
+    "section_name": "3.1 Introduction"
   }
 ]

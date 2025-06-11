@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen037"
+    "question_id": "cbse_xi_keph2dd_c202_gen037",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "In an incompressible fluid flow, the equation Av = constant represents which of the following conservation laws?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen038"
+    "question_id": "cbse_xi_keph2dd_c202_gen038",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Which of the following is true about streamlines in a steady fluid flow?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen039"
+    "question_id": "cbse_xi_keph2dd_c202_gen039",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "In fluid dynamics, which of the following statements correctly distinguishes steady flow from turbulent flow?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen040"
+    "question_id": "cbse_xi_keph2dd_c202_gen040",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "When the cross-sectional area of a horizontal pipe decreases, what is the effect on the velocity of an incompressible fluid?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen041"
+    "question_id": "cbse_xi_keph2dd_c202_gen041",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Explain what is meant by a steady flow in a fluid system.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen042"
+    "question_id": "cbse_xi_keph2dd_c202_gen042",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "State the equation of continuity and explain its implication for incompressible fluids.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen043"
+    "question_id": "cbse_xi_keph2dd_c202_gen043",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Why are streamlines drawn closer together in regions where the fluid velocity is high?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen044"
+    "question_id": "cbse_xi_keph2dd_c202_gen044",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Describe how the paths of fluid particles differ between streamline (laminar) flow and turbulent flow.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen045"
+    "question_id": "cbse_xi_keph2dd_c202_gen045",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Discuss the significance of the equation of continuity in the design of piping systems for incompressible fluids, including its implications for changes in fluid velocity and pressure.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen046"
+    "question_id": "cbse_xi_keph2dd_c202_gen046",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Compare and contrast the characteristics of streamline (laminar) flow and turbulent flow, providing examples of phenomena or devices where each type of flow is commonly observed.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen047"
+    "question_id": "cbse_xi_keph2dd_c202_gen047",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Analyze a scenario where fluid flows from a wider pipe into a narrower one. Explain, using the continuity equation, how the velocity and pressure of the fluid change, and discuss any assumptions made in your analysis.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen048"
+    "question_id": "cbse_xi_keph2dd_c202_gen048",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "In steady fluid flow, the velocity of the fluid at any fixed point remains constant over time.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen049"
+    "question_id": "cbse_xi_keph2dd_c202_gen049",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Streamlines in a steady fluid flow can intersect each other.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen050"
+    "question_id": "cbse_xi_keph2dd_c202_gen050",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "According to the continuity equation, if the cross-sectional area of a pipe decreases, the velocity of an incompressible fluid decreases.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen051"
+    "question_id": "cbse_xi_keph2dd_c202_gen051",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "A horizontal pipe carrying an incompressible fluid (density = 1000 kg/m³) has a section with cross-sectional area of 0.02 m² where the fluid velocity is 3 m/s. The pipe then narrows to an area of 0.01 m². Calculate the new velocity in the narrower section using the continuity equation.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen052"
+    "question_id": "cbse_xi_keph2dd_c202_gen052",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "In a steady flow, three sections of a pipe have cross-sectional areas of 0.05 m², 0.03 m², and 0.02 m². If the velocity at the first section is 2 m/s and at the third section is 4 m/s, find the unknown velocity at the second section.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen053"
+    "question_id": "cbse_xi_keph2dd_c202_gen053",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "A fluid flows through a pipe that narrows from a cross-sectional area of 0.10 m² to 0.04 m². If the fluid speed in the wider section is 1.5 m/s, determine the speed in the narrower section and state whether the fluid experiences acceleration resulting in changes in pressure.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen054"
+    "question_id": "cbse_xi_keph2dd_c202_gen054",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "In a horizontal pipe, at section A the area is 0.08 m² and the fluid velocity is 2.5 m/s. At section B the area is 0.05 m². (a) Calculate the velocity at section B. (b) If the density is 1000 kg/m³, compute the mass flow rate in kg/s.",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen055"
+    "question_id": "cbse_xi_keph2dd_c202_gen055",
+    "section_name": "9.3 STREAMLINE FLOW"
   },
   {
     "question_text": "Water flows from a reservoir with a cross-sectional area of 0.5 m² and a speed of 0.8 m/s into a nozzle with an area of 0.1 m². (a) Calculate the speed of water in the nozzle. (b) Determine the increase in the water's kinetic energy per unit volume from the reservoir to the nozzle. (Assume water density is 1000 kg/m³.)",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "keph202",
     "section_id": "03_section_9_3",
-    "question_id": "cbse_xi_keph2dd_c202_gen056"
+    "question_id": "cbse_xi_keph2dd_c202_gen056",
+    "section_name": "9.3 STREAMLINE FLOW"
   }
 ]

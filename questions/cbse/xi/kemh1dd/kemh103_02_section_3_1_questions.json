@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen001"
+    "question_id": "cbse_xi_kemh1dd_c103_gen001",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Which of the following statements correctly defines an ellipse as mentioned in the text?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen002"
+    "question_id": "cbse_xi_kemh1dd_c103_gen002",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Which of the following is NOT mentioned as a modern application of trigonometry?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen003"
+    "question_id": "cbse_xi_kemh1dd_c103_gen003",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Define trigonometry in your own words and mention one practical application.",
@@ -68,7 +71,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen004"
+    "question_id": "cbse_xi_kemh1dd_c103_gen004",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Provide the definition of an ellipse and describe its key geometric property based on the textbook excerpt.",
@@ -82,7 +86,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen005"
+    "question_id": "cbse_xi_kemh1dd_c103_gen005",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Explain how the concept of trigonometric ratios in a right-angled triangle is generalized to trigonometric functions. Provide a brief explanation.",
@@ -96,7 +101,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen006"
+    "question_id": "cbse_xi_kemh1dd_c103_gen006",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Derive the standard algebraic equation of an ellipse given that its foci are at F₁(–c, 0) and F₂(c, 0) and the constant sum of distances from any point on the ellipse to these foci is 2a (where a > c > 0).",
@@ -110,7 +116,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen007"
+    "question_id": "cbse_xi_kemh1dd_c103_gen007",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "Using the Pythagorean theorem, provide a geometric proof that sin²θ + cos²θ = 1 for any acute angle θ in a right-angled triangle.",
@@ -124,7 +131,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen008"
+    "question_id": "cbse_xi_kemh1dd_c103_gen008",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "A surveyor stands 50 meters away from a building and measures the angle of elevation to the top as 30°. Calculate the height of the building. (Use tanθ = opposite/adjacent)",
@@ -138,7 +146,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen009"
+    "question_id": "cbse_xi_kemh1dd_c103_gen009",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "An ellipse has foci at (-3, 0) and (3, 0) with a constant sum of distances equal to 10. Determine the values of a and b in the ellipse’s equation.",
@@ -152,7 +161,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen010"
+    "question_id": "cbse_xi_kemh1dd_c103_gen010",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "In a 30°-60°-90° right triangle where the shortest side is 5 units, determine the lengths of the other two sides.",
@@ -166,7 +176,8 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen011"
+    "question_id": "cbse_xi_kemh1dd_c103_gen011",
+    "section_name": "3.1 Introduction"
   },
   {
     "question_text": "An ellipse is defined by the equation x²/9 + y²/4 = 1. Determine the coordinates of its foci.",
@@ -180,6 +191,7 @@
     "source": "generated",
     "chapter_id": "kemh103",
     "section_id": "02_section_3_1",
-    "question_id": "cbse_xi_kemh1dd_c103_gen012"
+    "question_id": "cbse_xi_kemh1dd_c103_gen012",
+    "section_name": "3.1 Introduction"
   }
 ]

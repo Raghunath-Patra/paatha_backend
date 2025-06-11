@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen053"
+    "question_id": "cbse_xi_keph1dd_c107_gen053",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "What property of ellipses is utilized to draw an ellipse using a string method?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen054"
+    "question_id": "cbse_xi_keph1dd_c107_gen054",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Kepler's Second Law states that a line joining a planet and the Sun sweeps out equal areas in equal intervals of time. Which conservation law is responsible for this behavior?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen055"
+    "question_id": "cbse_xi_keph1dd_c107_gen055",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "According to Kepler's Third Law, the square of a planet's time period of revolution is proportional to the cube of the semi-major axis of its orbit. Which of the following represents this relationship?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen056"
+    "question_id": "cbse_xi_keph1dd_c107_gen056",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "For a planet in an elliptical orbit, if the distances and speeds at perihelion (r_P, v_P) and aphelion (r_A, v_A) satisfy conservation of angular momentum, which of the following relationships is correct?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen057"
+    "question_id": "cbse_xi_keph1dd_c107_gen057",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Define 'semi-major axis' in the context of an ellipse describing a planetary orbit.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen058"
+    "question_id": "cbse_xi_keph1dd_c107_gen058",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Explain why the area swept by the radius vector in a given time interval is constant for a planet orbiting the Sun.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen059"
+    "question_id": "cbse_xi_keph1dd_c107_gen059",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Describe the difference between circular and elliptical orbits in relation to Kepler's laws.",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen060"
+    "question_id": "cbse_xi_keph1dd_c107_gen060",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Discuss how Kepler's laws of planetary motion marked a departure from the Copernican model and explain the implications of this change for our understanding of planetary orbits.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen061"
+    "question_id": "cbse_xi_keph1dd_c107_gen061",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Derive the relationship between the speeds of a planet at perihelion and aphelion using conservation of angular momentum, and explain how this affects the time taken to traverse different segments of its orbit.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen062"
+    "question_id": "cbse_xi_keph1dd_c107_gen062",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "True or False: Kepler's Second Law implies that the gravitational force acting on a planet does not always point directly toward the Sun.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen063"
+    "question_id": "cbse_xi_keph1dd_c107_gen063",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "True or False: The constant quotient in Kepler's Third Law (T²/a³) for all planets is a direct consequence of the gravitational force being a central force.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen064"
+    "question_id": "cbse_xi_keph1dd_c107_gen064",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Using Mercury's data with a semi-major axis a = 5.79 × 10^10 m (expressed in units of 10^10 m as 5.79) and time period T = 0.24 years, verify the value of the quotient Q = T²/a³. Show your calculations.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen065"
+    "question_id": "cbse_xi_keph1dd_c107_gen065",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Using Kepler's Third Law and the Earth as a reference (with a semi-major axis a = 15.0 × 10^10 m and time period T = 1 year), estimate the time period for Mars if its semi-major axis is 22.8 × 10^10 m.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen066"
+    "question_id": "cbse_xi_keph1dd_c107_gen066",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "A planet has a perihelion distance r_P = 1.0 × 10^11 m and a speed v_P = 3.0 × 10^4 m/s. If its aphelion distance is r_A = 1.5 × 10^11 m, calculate its speed at aphelion using the conservation of angular momentum.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen067"
+    "question_id": "cbse_xi_keph1dd_c107_gen067",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "Consider a planet in an elliptical orbit with a semi-major axis a = 2.0 × 10^11 m and eccentricity e = 0.1. Calculate the speed at aphelion if its speed at perihelion is 4.0 × 10^4 m/s. (Hint: Use r_P = a(1 - e) and r_A = a(1 + e)).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen068"
+    "question_id": "cbse_xi_keph1dd_c107_gen068",
+    "section_name": "7.2 KEPLER'S LAWS"
   },
   {
     "question_text": "If the area swept out by the radius vector in a small time interval Δt is given by (1/2) × r × v × Δt, calculate the area swept out in 1000 seconds for a planet with r = 1.0 × 10^11 m and v = 3.0 × 10^4 m/s.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "keph107",
     "section_id": "03_section_7_2",
-    "question_id": "cbse_xi_keph1dd_c107_gen069"
+    "question_id": "cbse_xi_keph1dd_c107_gen069",
+    "section_name": "7.2 KEPLER'S LAWS"
   }
 ]

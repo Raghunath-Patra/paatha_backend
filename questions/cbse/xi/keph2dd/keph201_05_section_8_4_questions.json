@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen126"
+    "question_id": "cbse_xi_keph2dd_c201_gen126",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "The yield point on a stress-strain curve is also known as the elastic limit. Which of the following best describes the yield point?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen127"
+    "question_id": "cbse_xi_keph2dd_c201_gen127",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "For a ductile material, the ultimate tensile strength and fracture point are far apart. Which of the following statement is true regarding their stress-strain curve?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen128"
+    "question_id": "cbse_xi_keph2dd_c201_gen128",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "What is the significance of the ultimate tensile strength in a stress-strain curve?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen129"
+    "question_id": "cbse_xi_keph2dd_c201_gen129",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Substances like rubber or the elastic tissue of the aorta, which can be stretched to several times their original length and still return to their original shape, are known as:",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen130"
+    "question_id": "cbse_xi_keph2dd_c201_gen130",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Define stress and strain as used in the context of material deformation.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen131"
+    "question_id": "cbse_xi_keph2dd_c201_gen131",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Explain the difference between elastic and plastic deformation according to the stress-strain curve.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen132"
+    "question_id": "cbse_xi_keph2dd_c201_gen132",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Why might the elastic tissue of the aorta not obey Hooke's law over most of its elastic region?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen133"
+    "question_id": "cbse_xi_keph2dd_c201_gen133",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Outline the steps you would take to experimentally obtain a stress-strain curve for a metal wire.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen134"
+    "question_id": "cbse_xi_keph2dd_c201_gen134",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Discuss how a stress-strain curve can be used to determine key mechanical properties such as Young's modulus, yield strength, and ultimate tensile strength. Provide a detailed explanation of each step involved.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen135"
+    "question_id": "cbse_xi_keph2dd_c201_gen135",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Evaluate the differences in stress-strain behavior between a metal and an elastomer, and discuss how these differences influence their respective applications.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen136"
+    "question_id": "cbse_xi_keph2dd_c201_gen136",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "True or False: In the elastic region of the stress-strain curve, the material always returns to its original dimensions after the load is removed.",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen137"
+    "question_id": "cbse_xi_keph2dd_c201_gen137",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "True or False: A material with ultimate tensile strength and fracture point close together is considered ductile because it undergoes significant plastic deformation.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen138"
+    "question_id": "cbse_xi_keph2dd_c201_gen138",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "A metal wire has a cross-sectional area of 1×10⁻⁴ m². If an applied force of 500 N produces a measurable strain in the wire, calculate the stress in the wire. Assuming the yield strength of the metal is 6×10⁶ N/m², indicate whether the strain is likely within the elastic region.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen139"
+    "question_id": "cbse_xi_keph2dd_c201_gen139",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "A metal sample exhibits a linear stress-strain behavior with a Young's modulus of 200 GPa. If an applied stress of 150 MPa is applied, calculate the strain produced in the material.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen140"
+    "question_id": "cbse_xi_keph2dd_c201_gen140",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "In a tensile test, a metal specimen initially 2 m long is stretched to 2.01 m at the yield point. Calculate the strain at the yield point. If the yield strength is 250 MPa, determine the ratio of stress to strain (which approximates Young's modulus) and express it in GPa.",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen141"
+    "question_id": "cbse_xi_keph2dd_c201_gen141",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   },
   {
     "question_text": "Consider a stress-strain curve where the stress increases from 0 to 400 MPa in the linear region as the strain increases from 0 to 0.002. Calculate Young's modulus for the material in GPa.",
@@ -260,6 +276,7 @@
     "source": "generated",
     "chapter_id": "keph201",
     "section_id": "05_section_8_4",
-    "question_id": "cbse_xi_keph2dd_c201_gen142"
+    "question_id": "cbse_xi_keph2dd_c201_gen142",
+    "section_name": "8.4 STRESS-STRAIN CURVE"
   }
 ]

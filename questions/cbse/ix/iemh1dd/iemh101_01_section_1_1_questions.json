@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen001"
+    "question_id": "cbse_ix_iemh1dd_c101_gen001",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Every integer m can be expressed as a rational number. Which of the following forms correctly represents this fact?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen002"
+    "question_id": "cbse_ix_iemh1dd_c101_gen002",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which of the following is not necessarily an integer?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen003"
+    "question_id": "cbse_ix_iemh1dd_c101_gen003",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Which type of number is not included in the collection of rational numbers Q?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen004"
+    "question_id": "cbse_ix_iemh1dd_c101_gen004",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Define rational numbers. What conditions must p and q satisfy in the expression p/q?",
@@ -87,7 +91,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen005"
+    "question_id": "cbse_ix_iemh1dd_c101_gen005",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Explain why the representation of rational numbers is not unique. Provide an example to support your answer.",
@@ -101,7 +106,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen006"
+    "question_id": "cbse_ix_iemh1dd_c101_gen006",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "What is the significance of stating that p and q are co-prime in the representation of a rational number?",
@@ -115,7 +121,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen007"
+    "question_id": "cbse_ix_iemh1dd_c101_gen007",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Prove that between any two rational numbers, there exist infinitely many rational numbers. In your answer, include a general algebraic argument.",
@@ -129,7 +136,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen008"
+    "question_id": "cbse_ix_iemh1dd_c101_gen008",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Using the number line concept, discuss how the set of integers extends the set of natural numbers. In your explanation, describe the role of zero and negative integers.",
@@ -143,7 +151,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen009"
+    "question_id": "cbse_ix_iemh1dd_c101_gen009",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Find five rational numbers between 2/3 and 1 using the method of averaging endpoints.",
@@ -157,7 +166,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen010"
+    "question_id": "cbse_ix_iemh1dd_c101_gen010",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Express −25 as a rational number in its simplest form and explain why the denominator 1 is appropriate.",
@@ -171,7 +181,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen011"
+    "question_id": "cbse_ix_iemh1dd_c101_gen011",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Convert the whole numbers 0, 5, and 12 into rational numbers and show that they can be written in the form p/q with q = 1.",
@@ -185,7 +196,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen012"
+    "question_id": "cbse_ix_iemh1dd_c101_gen012",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "List three rational numbers between −2 and −1 and justify your method for selecting them.",
@@ -199,7 +211,8 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen013"
+    "question_id": "cbse_ix_iemh1dd_c101_gen013",
+    "section_name": "1.1 Introduction"
   },
   {
     "question_text": "Find four rational numbers between 3/2 and 2 by first expressing both numbers with a common denominator.",
@@ -213,6 +226,7 @@
     "source": "generated",
     "chapter_id": "iemh101",
     "section_id": "01_section_1_1",
-    "question_id": "cbse_ix_iemh1dd_c101_gen014"
+    "question_id": "cbse_ix_iemh1dd_c101_gen014",
+    "section_name": "1.1 Introduction"
   }
 ]

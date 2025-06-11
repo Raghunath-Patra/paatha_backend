@@ -16,7 +16,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen224"
+    "question_id": "cbse_xii_leph1dd_c101_gen224",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "According to Gauss's law, what is implied if the net flux through a closed surface is zero?",
@@ -35,7 +36,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen225"
+    "question_id": "cbse_xii_leph1dd_c101_gen225",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Why is Gauss's law most useful when the charge distribution has symmetry?",
@@ -54,7 +56,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen226"
+    "question_id": "cbse_xii_leph1dd_c101_gen226",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Why should a Gaussian surface not pass through a discrete charge?",
@@ -73,7 +76,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen227"
+    "question_id": "cbse_xii_leph1dd_c101_gen227",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Which equation correctly represents Gauss’s law?",
@@ -92,7 +96,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen228"
+    "question_id": "cbse_xii_leph1dd_c101_gen228",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "State Gauss's law in your own words.",
@@ -106,7 +111,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen229"
+    "question_id": "cbse_xii_leph1dd_c101_gen229",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "List two important considerations when choosing a Gaussian surface.",
@@ -120,7 +126,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen230"
+    "question_id": "cbse_xii_leph1dd_c101_gen230",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "What role does the inverse square dependence in Coulomb's law play in Gauss's law?",
@@ -134,7 +141,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen231"
+    "question_id": "cbse_xii_leph1dd_c101_gen231",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Explain why the flux through the curved surface of a cylinder is zero when the electric field is parallel to the flat faces.",
@@ -148,7 +156,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen232"
+    "question_id": "cbse_xii_leph1dd_c101_gen232",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Discuss the derivation of the electric flux through a sphere enclosing a point charge q. Include all necessary steps and assumptions.",
@@ -162,7 +171,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen233"
+    "question_id": "cbse_xii_leph1dd_c101_gen233",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Explain how Gauss's law simplifies the calculation of the electric field for symmetric charge distributions. Provide specific examples.",
@@ -176,7 +186,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen234"
+    "question_id": "cbse_xii_leph1dd_c101_gen234",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Critically evaluate the limitations of Gauss's law. Under what circumstances is it not useful for calculating the electric field?",
@@ -190,7 +201,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen235"
+    "question_id": "cbse_xii_leph1dd_c101_gen235",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Gauss's law applies to any closed surface regardless of its shape or size.",
@@ -204,7 +216,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen236"
+    "question_id": "cbse_xii_leph1dd_c101_gen236",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "If a Gaussian surface encloses equal amounts of positive and negative charge, the net electric flux through it will be nonzero.",
@@ -218,7 +231,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen237"
+    "question_id": "cbse_xii_leph1dd_c101_gen237",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "The electric flux through a closed surface is solely determined by the charges inside the surface, regardless of any charges present outside.",
@@ -232,7 +246,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen238"
+    "question_id": "cbse_xii_leph1dd_c101_gen238",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "A sphere of radius 0.2 m encloses a point charge of 5 x 10^-9 C. Calculate the total electric flux through the surface of the sphere. Use epsilon naught = 8.854 x 10^-12 C^2/(N m^2).",
@@ -246,7 +261,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen239"
+    "question_id": "cbse_xii_leph1dd_c101_gen239",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "In Example 1.10, a cube with side 0.1 m is subjected to an electric field with x-component E_x = α x^(1/2) where α = 800 N/(C m^(1/2)). Calculate the net flux through the cube, given that the left face is at x = 0.1 m and the right face is at x = 0.2 m.",
@@ -260,7 +276,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen240"
+    "question_id": "cbse_xii_leph1dd_c101_gen240",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "Using the uniform electric field values from Example 1.11 (200 N/C for x > 0 and -200 N/C for x < 0), determine the net electric flux through a closed cylinder with flat faces of area π(0.05)^2 m^2 and length 0.2 m, where the field is parallel to the flat faces.",
@@ -274,7 +291,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen241"
+    "question_id": "cbse_xii_leph1dd_c101_gen241",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "If the measured net flux through a closed surface is 1.57 N m^2/C, calculate the total charge enclosed using Gauss's law. Use epsilon naught = 8.854 x 10^-12 C^2/(N m^2).",
@@ -288,7 +306,8 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen242"
+    "question_id": "cbse_xii_leph1dd_c101_gen242",
+    "section_name": "1.13 GAUSS'S LAW"
   },
   {
     "question_text": "A point charge Q is placed at the center of a spherical surface of radius 0.5 m. If an additional charge of -Q is placed outside the sphere, what is the net electric flux through the sphere?",
@@ -302,6 +321,7 @@
     "source": "generated",
     "chapter_id": "leph101",
     "section_id": "13_section_1_13",
-    "question_id": "cbse_xii_leph1dd_c101_gen243"
+    "question_id": "cbse_xii_leph1dd_c101_gen243",
+    "section_name": "1.13 GAUSS'S LAW"
   }
 ]
