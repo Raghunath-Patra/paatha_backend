@@ -1409,6 +1409,9 @@ async def get_specific_exercise_question(
 # SECTION QUESTION ENDPOINTS
 # =====================================================================================
 
+# FIXED SECTION ENDPOINTS FOR main.py
+# Replace the existing section endpoints with these corrected versions
+
 @app.get("/api/questions/{board}/{class_}/{subject}/{chapter}/section/{section}/random")
 async def get_random_section_question(
     board: str, 
@@ -1441,39 +1444,39 @@ async def get_random_section_question(
             subject.lower()
         )
         
-        logger.info(f"Searching for random section question with:")
-        logger.info(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/section-{section}")
-        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
-        logger.info(f"Section pattern for section_id: {section_pattern}")
-        
         clean_board = actual_board
         clean_class = actual_class
         clean_subject = actual_subject.replace('-', '_')
         clean_chapter = chapter.replace('chapter-', '')
         clean_section = section
         
-        # Create section pattern for database filtering
-        section_pattern = f"%section_{clean_chapter}_{clean_section}%"
-        
-        # Create section pattern for database filtering
-        section_pattern = f"%section_{clean_chapter}_{clean_section}%"
-        
+        # Create section pattern FIRST, before logging
         try:
             chapter_int = int(clean_chapter)
             section_int = int(clean_section)
             
+            # Use chapter % 100 for section pattern as requested
+            chapter_for_section = chapter_int % 100
+            
             # Filter by chapter number (like existing chapter endpoints)
             chapter_conditions = [
-                Question.chapter == chapter_int
+                Question.chapter == chapter_int,
+                Question.chapter == (100 + chapter_int)  # Handle both formats
             ]
             
             # Create section pattern for section_id column filtering
-            section_pattern = f"%section_{chapter_int}_{section_int}%"
+            section_pattern = f"%section_{chapter_for_section}_{section_int}%"
         except ValueError:
             chapter_conditions = [
                 Question.chapter == clean_chapter
             ]
             section_pattern = f"%section_{clean_chapter}_{clean_section}%"
+        
+        # NOW we can safely log with section_pattern defined
+        logger.info(f"Searching for random section question with:")
+        logger.info(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/section-{section}")
+        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        logger.info(f"Section pattern for section_id: {section_pattern}")
         
         # Query for section questions using both chapter and section_id filters
         query = db.query(Question).filter(
@@ -1583,30 +1586,35 @@ async def get_specific_section_question(
             subject.lower()
         )
         
-        logger.info(f"Fetching specific section question:")
-        logger.info(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/section-{section}/q/{question_id}")
-        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
-        logger.info(f"Section pattern for section_id: {section_pattern}")
-        
         clean_chapter = chapter.replace('chapter-', '')
         clean_section = section
         
+        # Create section pattern FIRST, before logging
         try:
             chapter_int = int(clean_chapter)
             section_int = int(clean_section)
             
+            # Use chapter % 100 for section pattern as requested
+            chapter_for_section = chapter_int % 100
+            
             # Filter by chapter number (like existing chapter endpoints)
             chapter_conditions = [
-                Question.chapter == chapter_int
+                Question.chapter == chapter_int,
+                Question.chapter == (100 + chapter_int)  # Handle both formats
             ]
             
             # Create section pattern for section_id column filtering
-            section_pattern = f"%section_{chapter_int}_{section_int}%"
+            section_pattern = f"%section_{chapter_for_section}_{section_int}%"
         except ValueError:
             chapter_conditions = [
                 Question.chapter == clean_chapter
             ]
             section_pattern = f"%section_{clean_chapter}_{clean_section}%"
+
+        logger.info(f"Fetching specific section question:")
+        logger.info(f"Original request: {board}/{class_}/{subject}/chapter-{chapter}/section-{section}/q/{question_id}")
+        logger.info(f"Mapped to: {actual_board}/{actual_class}/{actual_subject}")
+        logger.info(f"Section pattern for section_id: {section_pattern}")
 
         # Find section question by UUID using both chapter and section_id filters
         question = db.query(Question).filter(
@@ -1689,7 +1697,6 @@ async def get_specific_section_question(
             status_code=500,
             detail=f"Error retrieving section question: {str(e)}"
         )
-
 
 # =====================================================================================
 # SECTIONS INFO ENDPOINT (HYBRID: JSON FILE → DATABASE → DEFAULT)
