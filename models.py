@@ -88,6 +88,7 @@ class Question(Base):
     subject = Column(String, nullable=False)
     chapter = Column(Integer, nullable=False)
     category = Column(String, nullable=False)  # 'generated', 'in_chapter', 'exercise'
+    section_id = Column(Text, nullable=True)
     
     # Timestamps
     created_at = Column(DateTime(timezone=True), nullable=False, default=datetime.utcnow)
