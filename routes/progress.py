@@ -1290,3 +1290,266 @@ async def get_section_solved_questions(
             status_code=500,
             detail=f"Error retrieving section solved questions: {str(e)}"
         )
+
+# Add this endpoint to your progress.py file (append to the existing content)
+
+@router.get("/user/sections/{board}/{class_level}/{subject}/{chapter}")
+async def get_user_sections_progress(
+    board: str,
+    class_level: str,
+    subject: str,
+    chapter: str,
+    current_user: dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get user progress data per section for a specific chapter"""
+    try:
+        logger.info(f"Fetching sections progress for user {current_user['id']}: {board}/{class_level}/{subject}/chapter-{chapter}")
+        
+        # Map to source board/class/subject for shared subjects
+        mapped_board, mapped_class, mapped_subject = get_mapped_subject_info(
+            board.lower(), 
+            class_level.lower(), 
+            subject.lower()
+        )
+        
+        logger.info(f"Mapped to: {mapped_board}/{mapped_class}/{mapped_subject}")
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        chapter_int = int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        
+        # ================================
+        # STEP 1: GET SECTIONS INFO
+        # ================================
+        sections_info = []
+        
+        # Try JSON file first (similar to main.py sections endpoint)
+        try:
+            import os
+            import json
+            
+            formatted_subject = subject.lower()
+            base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # Go up from routes/ to root
+            file_path = os.path.join(
+                base_path,
+                "questions",
+                board.lower(),
+                class_level.lower(),
+                formatted_subject,
+                f"chapter-{chapter}",
+                "sections.json"
+            )
+            
+            logger.info(f"Looking for sections JSON at: {file_path}")
+            
+            if os.path.exists(file_path):
+                with open(file_path, 'r') as f:
+                    sections_data = json.load(f)
+                    sections_info = sections_data.get("sections", [])
+                    logger.info(f"Loaded {len(sections_info)} sections from JSON")
+            else:
+                # Try alternative path with underscores
+                alternative_subject = subject.lower().replace('-', '_')
+                alternative_path = os.path.join(
+                    base_path,
+                    "questions",
+                    board.lower(),
+                    class_level.lower(),
+                    alternative_subject,
+                    f"chapter-{chapter}",
+                    "sections.json"
+                )
+                
+                if os.path.exists(alternative_path):
+                    with open(alternative_path, 'r') as f:
+                        sections_data = json.load(f)
+                        sections_info = sections_data.get("sections", [])
+                        logger.info(f"Loaded {len(sections_info)} sections from alternative JSON")
+                        
+        except Exception as json_error:
+            logger.warning(f"Error reading sections JSON: {str(json_error)}")
+        
+        # Fallback to database if JSON not found
+        if not sections_info:
+            try:
+                sections_query = text("""
+                    SELECT section_number, section_name 
+                    FROM sections 
+                    WHERE board = :board 
+                      AND class_level = :class_level 
+                      AND subject = :subject 
+                      AND chapter = :chapter 
+                      AND is_active = true
+                    ORDER BY section_number
+                """)
+                
+                result = db.execute(sections_query, {
+                    "board": mapped_board,
+                    "class_level": mapped_class,
+                    "subject": mapped_subject,
+                    "chapter": chapter_int
+                }).fetchall()
+                
+                if result:
+                    sections_info = [
+                        {"number": row.section_number, "name": row.section_name}
+                        for row in result
+                    ]
+                    logger.info(f"Loaded {len(sections_info)} sections from database")
+                    
+            except Exception as db_error:
+                logger.warning(f"Error querying sections from database: {str(db_error)}")
+        
+        # Default sections if none found
+        if not sections_info:
+            sections_info = [
+                {"number": 1, "name": "Section 1"},
+                {"number": 2, "name": "Section 2"},
+                {"number": 3, "name": "Section 3"}
+            ]
+            logger.info("Using default sections")
+        
+        # ================================
+        # STEP 2: GET PROGRESS PER SECTION
+        # ================================
+        sections_progress = {}
+        
+        for section_info in sections_info:
+            section_number = section_info["number"]
+            section_name = section_info["name"]
+            
+            # Create section pattern for filtering questions
+            # Use chapter % 100 for section pattern (as seen in main.py)
+            chapter_for_section = chapter_int % 100 if isinstance(chapter_int, int) else chapter_int
+            section_pattern = f"%section_{chapter_for_section}_{section_number}%"
+            
+            # Query user attempts for this section
+            section_attempts_query = text("""
+                SELECT 
+                    COUNT(ua.id) as attempted,
+                    AVG(ua.score) as average_score
+                FROM user_attempts ua
+                JOIN questions q ON ua.question_id = q.id
+                WHERE ua.user_id = :user_id 
+                AND ua.board = :board 
+                AND ua.class_level = :class_level 
+                AND ua.subject = :subject 
+                AND ua.chapter = :chapter
+                AND q.section_id LIKE :section_pattern
+            """)
+            
+            section_result = db.execute(section_attempts_query, {
+                "user_id": current_user['id'],
+                "board": mapped_board,
+                "class_level": mapped_class,
+                "subject": mapped_subject,
+                "chapter": chapter_int,
+                "section_pattern": section_pattern
+            }).fetchone()
+            
+            # Query total questions available for this section
+            total_questions_query = text("""
+                SELECT COUNT(q.id) as total_questions
+                FROM questions q
+                WHERE q.board = :board 
+                AND q.class_level = :class_level 
+                AND q.subject = :subject 
+                AND q.chapter = :chapter
+                AND q.section_id LIKE :section_pattern
+            """)
+            
+            total_result = db.execute(total_questions_query, {
+                "board": mapped_board,
+                "class_level": mapped_class,
+                "subject": mapped_subject,
+                "chapter": chapter_int,
+                "section_pattern": section_pattern
+            }).fetchone()
+            
+            # Calculate progress for this section
+            attempted = section_result.attempted or 0
+            total_questions = total_result.total_questions or 0
+            average_score = float(section_result.average_score or 0)
+            
+            sections_progress[str(section_number)] = {
+                "section_name": section_name,
+                "attempted": attempted,
+                "total": max(total_questions, attempted),  # If we have attempts but no questions found, show at least the attempts
+                "averageScore": round(average_score, 2)
+            }
+            
+            logger.info(f"Section {section_number}: {attempted}/{total_questions} questions, avg score: {average_score:.2f}")
+        
+        # ================================
+        # STEP 3: GET OVERALL CHAPTER PROGRESS
+        # ================================
+        # Also include overall chapter progress for context
+        chapter_attempts_query = text("""
+            SELECT 
+                COUNT(ua.id) as attempted,
+                AVG(ua.score) as average_score
+            FROM user_attempts ua
+            WHERE ua.user_id = :user_id 
+            AND ua.board = :board 
+            AND ua.class_level = :class_level 
+            AND ua.subject = :subject 
+            AND ua.chapter = :chapter
+        """)
+        
+        chapter_result = db.execute(chapter_attempts_query, {
+            "user_id": current_user['id'],
+            "board": mapped_board,
+            "class_level": mapped_class,
+            "subject": mapped_subject,
+            "chapter": chapter_int
+        }).fetchone()
+        
+        # Query total questions for entire chapter
+        total_chapter_questions_query = text("""
+            SELECT COUNT(q.id) as total_questions
+            FROM questions q
+            WHERE q.board = :board 
+            AND q.class_level = :class_level 
+            AND q.subject = :subject 
+            AND q.chapter = :chapter
+        """)
+        
+        total_chapter_result = db.execute(total_chapter_questions_query, {
+            "board": mapped_board,
+            "class_level": mapped_class,
+            "subject": mapped_subject,
+            "chapter": chapter_int
+        }).fetchone()
+        
+        chapter_attempted = chapter_result.attempted or 0
+        chapter_total = total_chapter_result.total_questions or 0
+        chapter_average_score = float(chapter_result.average_score or 0)
+        
+        return {
+            "sections_progress": sections_progress,
+            "chapter_summary": {
+                "attempted": chapter_attempted,
+                "total": max(chapter_total, chapter_attempted),
+                "averageScore": round(chapter_average_score, 2)
+            },
+            "chapter_info": {
+                "board": board,
+                "class_level": class_level,
+                "subject": subject,
+                "chapter": chapter,
+                "mapped_to": {
+                    "board": mapped_board,
+                    "class_level": mapped_class,
+                    "subject": mapped_subject
+                }
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error fetching sections progress: {str(e)}")
+        import traceback
+        logger.error(traceback.format_exc())
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error fetching sections progress: {str(e)}"
+        )
