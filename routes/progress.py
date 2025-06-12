@@ -817,3 +817,325 @@ async def get_detailed_chapter_report(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error generating detailed report: {str(e)}"
         )
+
+@app.get("/user/performance-summary/{board}/{class_}/{subject}/{chapter}/section/{section}")
+async def get_section_performance_summary(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    section: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get performance summary for a section"""
+    try:
+        logger.info(f"Fetching section performance summary for user {current_user['id']}, chapter {chapter}, section {section}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # For section queries, filter by section-specific questions using join with Question table
+        clean_chapter_int = int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        section_pattern = f"%section_{clean_chapter}_{section}%"
+        
+        attempts_query = db.query(UserAttempt).join(Question, UserAttempt.question_id == Question.id).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == clean_chapter_int,
+            Question.section_id.like(section_pattern)
+        )
+        
+        attempts = attempts_query.all()
+        
+        # Now properly filtered by section using the section pattern
+        
+        if not attempts:
+            return {
+                "total_attempts": 0,
+                "average_score": 0,
+                "total_time": 0,
+                "unique_questions": 0,
+                "performance_breakdown": {
+                    "excellent": 0,
+                    "good": 0,
+                    "needs_improvement": 0
+                },
+                "date_range": {
+                    "first_attempt": None,
+                    "last_attempt": None
+                },
+                "section_info": {
+                    "board": board,
+                    "class_level": class_,
+                    "subject": subject,
+                    "chapter": chapter,
+                    "section": section
+                }
+            }
+        
+        # Calculate summary statistics (same as chapter)
+        total_attempts = len(attempts)
+        total_score = sum(attempt.score for attempt in attempts)
+        average_score = round(total_score / total_attempts, 1) if total_attempts > 0 else 0
+        total_time = sum(attempt.time_taken or 0 for attempt in attempts)
+        unique_questions = len(set(attempt.question_id for attempt in attempts))
+        
+        # Performance breakdown
+        excellent = sum(1 for attempt in attempts if attempt.score >= 8)
+        good = sum(1 for attempt in attempts if 6 <= attempt.score < 8)
+        needs_improvement = sum(1 for attempt in attempts if attempt.score < 6)
+        
+        # Date range
+        timestamps = [attempt.timestamp for attempt in attempts if attempt.timestamp]
+        first_attempt = min(timestamps).isoformat() if timestamps else None
+        last_attempt = max(timestamps).isoformat() if timestamps else None
+        
+        return {
+            "total_attempts": total_attempts,
+            "average_score": average_score,
+            "total_time": total_time,
+            "unique_questions": unique_questions,
+            "performance_breakdown": {
+                "excellent": excellent,
+                "good": good,
+                "needs_improvement": needs_improvement
+            },
+            "date_range": {
+                "first_attempt": first_attempt,
+                "last_attempt": last_attempt
+            },
+            "section_info": {
+                "board": board,
+                "class_level": class_,
+                "subject": subject,
+                "chapter": chapter,
+                "section": section
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting section performance summary: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving section performance summary: {str(e)}"
+        )
+
+@app.get("/user/performance-analytics/{board}/{class_}/{subject}/{chapter}/section/{section}")
+async def get_section_performance_analytics(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    section: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get performance analytics data for section charts"""
+    try:
+        logger.info(f"Fetching section performance analytics for user {current_user['id']}, chapter {chapter}, section {section}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # Query user attempts for this section with section pattern filtering
+        clean_chapter_int = int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        section_pattern = f"%section_{clean_chapter}_{section}%"
+        
+        attempts_query = db.query(UserAttempt).join(Question, UserAttempt.question_id == Question.id).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == clean_chapter_int,
+            Question.section_id.like(section_pattern)
+        ).order_by(UserAttempt.timestamp)
+        
+        attempts = attempts_query.all()
+        
+        # Now properly filtered by section using the section pattern
+        
+        if not attempts:
+            return {
+                "analytics_data": [],
+                "score_trends": [],
+                "category_performance": {},
+                "difficulty_breakdown": {},
+                "time_performance": []
+            }
+        
+        # Same analytics structure as chapter
+        analytics_data = []
+        for i, attempt in enumerate(attempts, 1):
+            analytics_data.append({
+                "attempt_number": i,
+                "score": attempt.score,
+                "time_taken": attempt.time_taken or 0,
+                "timestamp": attempt.timestamp.isoformat() if attempt.timestamp else "",
+                "difficulty": "Medium",
+                "type": "Section",
+                "bloom_level": "Apply",
+                "category": f"Section {section}"
+            })
+        
+        score_trends = []
+        for i, attempt in enumerate(attempts, 1):
+            score_trends.append({
+                "attempt": i,
+                "score": attempt.score,
+                "date": attempt.timestamp.isoformat() if attempt.timestamp else ""
+            })
+        
+        category_performance = {
+            f"Section {section}": {
+                "total_attempts": len(attempts),
+                "average_score": round(sum(a.score for a in attempts) / len(attempts), 1),
+                "best_score": max(a.score for a in attempts)
+            }
+        }
+        
+        difficulty_breakdown = {
+            "Easy": len([a for a in attempts if a.score >= 8]),
+            "Medium": len([a for a in attempts if 6 <= a.score < 8]),
+            "Hard": len([a for a in attempts if a.score < 6])
+        }
+        
+        time_performance = []
+        for attempt in attempts:
+            time_performance.append({
+                "time_taken": attempt.time_taken or 0,
+                "score": attempt.score,
+                "category": f"Section {section}"
+            })
+        
+        return {
+            "analytics_data": analytics_data,
+            "score_trends": score_trends,
+            "category_performance": category_performance,
+            "difficulty_breakdown": difficulty_breakdown,
+            "time_performance": time_performance
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting section performance analytics: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving section performance analytics: {str(e)}"
+        )
+
+@app.get("/user/solved-questions/{board}/{class_}/{subject}/{chapter}/section/{section}")
+async def get_section_solved_questions(
+    board: str, 
+    class_: str, 
+    subject: str, 
+    chapter: str,
+    section: str,
+    limit: int = 20,
+    offset: int = 0,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get detailed solved questions for a section"""
+    try:
+        logger.info(f"Fetching section solved questions for user {current_user['id']}, chapter {chapter}, section {section}")
+        
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board.lower(), 
+            class_.lower(), 
+            subject.lower()
+        )
+        
+        clean_chapter = chapter.replace('chapter-', '')
+        
+        # Query user attempts for this section with pagination and section pattern filtering
+        clean_chapter_int = int(clean_chapter) if clean_chapter.isdigit() else clean_chapter
+        section_pattern = f"%section_{clean_chapter}_{section}%"
+        
+        attempts_query = db.query(UserAttempt).join(Question, UserAttempt.question_id == Question.id).filter(
+            UserAttempt.user_id == current_user['id'],
+            UserAttempt.board == actual_board,
+            UserAttempt.class_level == actual_class,
+            UserAttempt.subject == actual_subject,
+            UserAttempt.chapter == clean_chapter_int,
+            Question.section_id.like(section_pattern)
+        ).order_by(UserAttempt.timestamp.desc())
+        
+        # Filter by section if needed (depends on your data structure)
+        # For now, using all chapter attempts
+        
+        total_count = attempts_query.count()
+        attempts = attempts_query.offset(offset).limit(limit).all()
+        
+        # Get question details for each attempt
+        detailed_attempts = []
+        for attempt in attempts:
+            question = db.query(Question).filter(Question.id == attempt.question_id).first()
+            
+            if question:
+                detailed_attempts.append({
+                    "question_id": str(attempt.question_id),
+                    "question_text": question.question_text,
+                    "user_answer": attempt.answer,
+                    "transcribed_text": attempt.transcribed_text,
+                    "correct_answer": question.correct_answer,
+                    "explanation": question.explanation,
+                    "score": attempt.score,
+                    "time_taken": attempt.time_taken or 0,
+                    "timestamp": attempt.timestamp.isoformat() if attempt.timestamp else "",
+                    "feedback": attempt.feedback,
+                    "metadata": {
+                        "questionNumber": f"S{section}.Q{len(detailed_attempts) + 1}",
+                        "source": f"Section {section}",
+                        "level": question.difficulty or "Medium",
+                        "type": question.type or "Section",
+                        "bloomLevel": question.bloom_level or "Apply",
+                        "statistics": {
+                            "totalAttempts": 1,
+                            "averageScore": attempt.score
+                        }
+                    }
+                })
+        
+        # Pagination info
+        has_more = (offset + limit) < total_count
+        next_offset = (offset + limit) if has_more else None
+        
+        return {
+            "attempts": detailed_attempts,
+            "pagination": {
+                "total": total_count,
+                "limit": limit,
+                "offset": offset,
+                "has_more": has_more,
+                "next_offset": next_offset
+            },
+            "section_info": {
+                "board": board,
+                "class_level": class_,
+                "subject": subject,
+                "chapter": chapter,
+                "section": section
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting section solved questions: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving section solved questions: {str(e)}"
+        )
