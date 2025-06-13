@@ -1473,60 +1473,44 @@ async def get_user_sections_progress(
         # STEP 3: GET OVERALL CHAPTER PROGRESS
         # ================================
         # Also include overall chapter progress for context
-        chapter_attempts_query = text("""
-            SELECT 
-                COUNT(ua.id) as attempted,
-                AVG(ua.score) as average_score
-            FROM user_attempts ua
-            WHERE ua.user_id = :user_id 
-            AND ua.board = :board 
-            AND ua.class_level = :class_level 
-            AND ua.subject = :subject 
-            AND ua.chapter = :chapter
-        """)
+        # chapter_attempts_query = text("""
+        #     SELECT 
+        #         COUNT(ua.id) as attempted,
+        #         AVG(ua.score) as average_score
+        #     FROM user_attempts ua
+        #     WHERE ua.user_id = :user_id 
+        #     AND ua.board = :board 
+        #     AND ua.class_level = :class_level 
+        #     AND ua.subject = :subject 
+        #     AND ua.chapter = :chapter
+        # """)
         
-        chapter_result = db.execute(chapter_attempts_query, {
-            "user_id": current_user['id'],
-            "board": mapped_board,
-            "class_level": mapped_class,
-            "subject": mapped_subject,
-            "chapter": chapter_int
-        }).fetchone()
+        # chapter_result = db.execute(chapter_attempts_query, {
+        #     "user_id": current_user['id'],
+        #     "board": mapped_board,
+        #     "class_level": mapped_class,
+        #     "subject": mapped_subject,
+        #     "chapter": chapter_int
+        # }).fetchone()
         
-        # Use helper function for total chapter questions as well
-        total_chapter_questions = 0
-        for section_info in sections_info:
-            section_total = get_section_questions_count_helper(
-                db=db,
-                board=mapped_board,
-                class_level=mapped_class,
-                subject=mapped_subject,
-                chapter=str(chapter_int),
-                section=str(section_info["number"])
-            )
-            total_chapter_questions += section_total
+        # # Use helper function for total chapter questions as well
+        # total_chapter_questions = 0
+        # for section_info in sections_info:
+        #     section_total = get_section_questions_count_helper(
+        #         db=db,
+        #         board=mapped_board,
+        #         class_level=mapped_class,
+        #         subject=mapped_subject,
+        #         chapter=str(chapter_int),
+        #         section=str(section_info["number"])
+        #     )
+        #     total_chapter_questions += section_total
         
-        chapter_attempted = chapter_result.attempted or 0
-        chapter_average_score = float(chapter_result.average_score or 0)
+        # chapter_attempted = chapter_result.attempted or 0
+        # chapter_average_score = float(chapter_result.average_score or 0)
         
         return {
-            "sections_progress": sections_progress,
-            "chapter_summary": {
-                "attempted": chapter_attempted,
-                "total": max(total_chapter_questions, chapter_attempted),
-                "averageScore": round(chapter_average_score, 2)
-            },
-            "chapter_info": {
-                "board": board,
-                "class_level": class_level,
-                "subject": subject,
-                "chapter": chapter,
-                "mapped_to": {
-                    "board": mapped_board,
-                    "class_level": mapped_class,
-                    "subject": mapped_subject
-                }
-            }
+            "sections_progress": sections_progress
         }
         
     except Exception as e:
