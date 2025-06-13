@@ -1405,8 +1405,8 @@ async def get_specific_exercise_question(
         )
 
 
-def get_section_questions_count(
-    db: Session = Depends(get_db),
+def get_section_questions_count_helper(
+    db: Session,
     board: str, 
     class_level: str, 
     subject: str, 
@@ -1414,35 +1414,35 @@ def get_section_questions_count(
     section: str
 ) -> int:
     """
-    Get total number of questions available in a specific section
-    Uses the same logic as main.py get_random_section_question
+    Helper function to get total number of questions available in a specific section
+    This function is designed to be called from other Python modules
     
     Args:
-        db: Database session
+        db: Database session (passed directly, not via FastAPI Depends)
         board: Board code (e.g., 'cbse')
         class_level: Class level (e.g., 'xi')
         subject: Subject code (e.g., 'kebo1dd')
-        chapter: Chapter number as string (e.g., 'chapter-1', 'chapter-2')
+        chapter: Chapter number as string (e.g., 'chapter-1', '1')
         section: Section number as string (e.g., '1', '2', '3')
     
     Returns:
         int: Total number of questions in the section
     """
     try:
-        # Map to source board/class/subject for shared subjects (using existing function)
-        mapped_board, mapped_class, mapped_subject = get_mapped_subject_info(
+        # Map to source board/class/subject for shared subjects
+        actual_board, actual_class, actual_subject = get_subject_mapping(
             board.lower(), 
             class_level.lower(), 
             subject.lower()
         )
         
-        clean_board = mapped_board
-        clean_class = mapped_class
-        clean_subject = mapped_subject.replace('-', '_')
+        clean_board = actual_board
+        clean_class = actual_class
+        clean_subject = actual_subject.replace('-', '_')
         clean_chapter = chapter.replace('chapter-', '')
         clean_section = section
         
-        # Create section pattern (same logic as main.py)
+        # Create section pattern (same logic as main.py section endpoints)
         try:
             chapter_int = int(clean_chapter)
             section_int = int(clean_section)
@@ -1464,6 +1464,8 @@ def get_section_questions_count(
             ]
             section_pattern = f"%section_{clean_chapter}_{clean_section}%"
         
+        logger.info(f"Counting section questions with pattern: {section_pattern}")
+        
         # Query for section questions using both chapter and section_id filters
         # (Same query logic as main.py get_random_section_question)
         query = db.query(Question).filter(
@@ -1475,31 +1477,35 @@ def get_section_questions_count(
         )
         
         count = query.count()
+        logger.info(f"Found {count} questions for section {section} in chapter {chapter}")
         
-        logger.info(f"Section questions count: {count} for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}/section-{clean_section}")
-        
-        # If no questions found in database, return a default/fallback count
-        # You can customize this based on your needs
+        # If no questions found, try fallback searches
         if count == 0:
-            # Option 1: Return a default number (e.g., 10 questions per section)
-            fallback_count = 10
-            logger.info(f"No questions found in database, using fallback count: {fallback_count}")
-            return fallback_count
+            # Fallback: try without board/class restrictions
+            fallback_query = db.query(Question).filter(
+                Question.subject == clean_subject,
+                or_(*chapter_conditions),
+                Question.section_id.like(section_pattern)
+            )
             
-            # Option 2: Try alternative query patterns
-            # Alternative patterns you might want to try:
-            # - Different section_id formats
-            # - Just chapter-based counting
-            # - File-based counting (if you have JSON files)
+            fallback_count = fallback_query.count()
+            logger.info(f"Fallback query found {fallback_count} questions")
+            
+            if fallback_count > 0:
+                return fallback_count
+            
+            # Final fallback - return reasonable default
+            logger.info("No questions found, using default count of 10")
+            return 10
         
         return count
         
     except Exception as e:
         logger.error(f"Error getting section questions count: {str(e)}")
-        # Return fallback count on error
-        return 10  # Default fallback
-
-
+        import traceback
+        logger.error(traceback.format_exc())
+        # Return reasonable default on error
+        return 10
 
 # =====================================================================================
 # SECTION QUESTION ENDPOINTS

@@ -9,6 +9,7 @@ from models import User, UserAttempt, Question, ChapterDefinition
 from typing import Dict, List, Any
 import logging
 import re
+from main import get_section_questions_count_helper
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -1291,8 +1292,6 @@ async def get_section_solved_questions(
             detail=f"Error retrieving section solved questions: {str(e)}"
         )
 
-# Add this endpoint to your progress.py file (append to the existing content)
-
 @router.get("/user/sections/{board}/{class_level}/{subject}/{chapter}")
 async def get_user_sections_progress(
     board: str,
@@ -1447,30 +1446,18 @@ async def get_user_sections_progress(
                 "section_pattern": section_pattern
             }).fetchone()
             
-
-            total_questions = get_section_questions_count()#call to function with parameters inside main.py
-            # Query total questions available for this section
-            # total_questions_query = text("""
-            #     SELECT COUNT(q.id) as total_questions
-            #     FROM questions q
-            #     WHERE q.board = :board 
-            #     AND q.class_level = :class_level 
-            #     AND q.subject = :subject 
-            #     AND q.chapter = :chapter
-            #     AND q.section_id LIKE :section_pattern
-            # """)
-            
-            # total_result = db.execute(total_questions_query, {
-            #     "board": mapped_board,
-            #     "class_level": mapped_class,
-            #     "subject": mapped_subject,
-            #     "chapter": chapter_int,
-            #     "section_pattern": section_pattern
-            # }).fetchone()
+            # FIXED: Use helper function from main.py to get total questions
+            total_questions = get_section_questions_count_helper(
+                db=db,
+                board=mapped_board,
+                class_level=mapped_class,
+                subject=mapped_subject,
+                chapter=str(chapter_int),
+                section=str(section_number)
+            )
             
             # Calculate progress for this section
             attempted = section_result.attempted or 0
-            total_questions = total_result.total_questions or 0
             average_score = float(section_result.average_score or 0)
             
             sections_progress[str(section_number)] = {
@@ -1506,32 +1493,27 @@ async def get_user_sections_progress(
             "chapter": chapter_int
         }).fetchone()
         
-        # Query total questions for entire chapter
-        total_chapter_questions_query = text("""
-            SELECT COUNT(q.id) as total_questions
-            FROM questions q
-            WHERE q.board = :board 
-            AND q.class_level = :class_level 
-            AND q.subject = :subject 
-            AND q.chapter = :chapter
-        """)
-        
-        total_chapter_result = db.execute(total_chapter_questions_query, {
-            "board": mapped_board,
-            "class_level": mapped_class,
-            "subject": mapped_subject,
-            "chapter": chapter_int
-        }).fetchone()
+        # Use helper function for total chapter questions as well
+        total_chapter_questions = 0
+        for section_info in sections_info:
+            section_total = get_section_questions_count_helper(
+                db=db,
+                board=mapped_board,
+                class_level=mapped_class,
+                subject=mapped_subject,
+                chapter=str(chapter_int),
+                section=str(section_info["number"])
+            )
+            total_chapter_questions += section_total
         
         chapter_attempted = chapter_result.attempted or 0
-        chapter_total = total_chapter_result.total_questions or 0
         chapter_average_score = float(chapter_result.average_score or 0)
         
         return {
             "sections_progress": sections_progress,
             "chapter_summary": {
                 "attempted": chapter_attempted,
-                "total": max(chapter_total, chapter_attempted),
+                "total": max(total_chapter_questions, chapter_attempted),
                 "averageScore": round(chapter_average_score, 2)
             },
             "chapter_info": {
