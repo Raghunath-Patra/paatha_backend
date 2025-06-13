@@ -1447,24 +1447,26 @@ async def get_user_sections_progress(
                 "section_pattern": section_pattern
             }).fetchone()
             
+
+            total_questions = get_section_questions_count()#call to function with parameters inside main.py
             # Query total questions available for this section
-            total_questions_query = text("""
-                SELECT COUNT(q.id) as total_questions
-                FROM questions q
-                WHERE q.board = :board 
-                AND q.class_level = :class_level 
-                AND q.subject = :subject 
-                AND q.chapter = :chapter
-                AND q.section_id LIKE :section_pattern
-            """)
+            # total_questions_query = text("""
+            #     SELECT COUNT(q.id) as total_questions
+            #     FROM questions q
+            #     WHERE q.board = :board 
+            #     AND q.class_level = :class_level 
+            #     AND q.subject = :subject 
+            #     AND q.chapter = :chapter
+            #     AND q.section_id LIKE :section_pattern
+            # """)
             
-            total_result = db.execute(total_questions_query, {
-                "board": mapped_board,
-                "class_level": mapped_class,
-                "subject": mapped_subject,
-                "chapter": chapter_int,
-                "section_pattern": section_pattern
-            }).fetchone()
+            # total_result = db.execute(total_questions_query, {
+            #     "board": mapped_board,
+            #     "class_level": mapped_class,
+            #     "subject": mapped_subject,
+            #     "chapter": chapter_int,
+            #     "section_pattern": section_pattern
+            # }).fetchone()
             
             # Calculate progress for this section
             attempted = section_result.attempted or 0

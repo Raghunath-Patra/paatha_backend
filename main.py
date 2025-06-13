@@ -1405,6 +1405,102 @@ async def get_specific_exercise_question(
         )
 
 
+def get_section_questions_count(
+    db: Session = Depends(get_db),
+    board: str, 
+    class_level: str, 
+    subject: str, 
+    chapter: str, 
+    section: str
+) -> int:
+    """
+    Get total number of questions available in a specific section
+    Uses the same logic as main.py get_random_section_question
+    
+    Args:
+        db: Database session
+        board: Board code (e.g., 'cbse')
+        class_level: Class level (e.g., 'xi')
+        subject: Subject code (e.g., 'kebo1dd')
+        chapter: Chapter number as string (e.g., 'chapter-1', 'chapter-2')
+        section: Section number as string (e.g., '1', '2', '3')
+    
+    Returns:
+        int: Total number of questions in the section
+    """
+    try:
+        # Map to source board/class/subject for shared subjects (using existing function)
+        mapped_board, mapped_class, mapped_subject = get_mapped_subject_info(
+            board.lower(), 
+            class_level.lower(), 
+            subject.lower()
+        )
+        
+        clean_board = mapped_board
+        clean_class = mapped_class
+        clean_subject = mapped_subject.replace('-', '_')
+        clean_chapter = chapter.replace('chapter-', '')
+        clean_section = section
+        
+        # Create section pattern (same logic as main.py)
+        try:
+            chapter_int = int(clean_chapter)
+            section_int = int(clean_section)
+            
+            # Use chapter % 100 for section pattern as in main.py
+            chapter_for_section = chapter_int % 100
+            
+            # Filter by chapter number (like existing chapter endpoints)
+            chapter_conditions = [
+                Question.chapter == chapter_int,
+                Question.chapter == (100 + chapter_int)  # Handle both formats
+            ]
+            
+            # Create section pattern for section_id column filtering
+            section_pattern = f"%section_{chapter_for_section}_{section_int}%"
+        except ValueError:
+            chapter_conditions = [
+                Question.chapter == clean_chapter
+            ]
+            section_pattern = f"%section_{clean_chapter}_{clean_section}%"
+        
+        # Query for section questions using both chapter and section_id filters
+        # (Same query logic as main.py get_random_section_question)
+        query = db.query(Question).filter(
+            Question.board == clean_board,
+            Question.class_level == clean_class,
+            Question.subject == clean_subject,
+            or_(*chapter_conditions),
+            Question.section_id.like(section_pattern)
+        )
+        
+        count = query.count()
+        
+        logger.info(f"Section questions count: {count} for {clean_board}/{clean_class}/{clean_subject}/chapter-{clean_chapter}/section-{clean_section}")
+        
+        # If no questions found in database, return a default/fallback count
+        # You can customize this based on your needs
+        if count == 0:
+            # Option 1: Return a default number (e.g., 10 questions per section)
+            fallback_count = 10
+            logger.info(f"No questions found in database, using fallback count: {fallback_count}")
+            return fallback_count
+            
+            # Option 2: Try alternative query patterns
+            # Alternative patterns you might want to try:
+            # - Different section_id formats
+            # - Just chapter-based counting
+            # - File-based counting (if you have JSON files)
+        
+        return count
+        
+    except Exception as e:
+        logger.error(f"Error getting section questions count: {str(e)}")
+        # Return fallback count on error
+        return 10  # Default fallback
+
+
+
 # =====================================================================================
 # SECTION QUESTION ENDPOINTS
 # =====================================================================================
