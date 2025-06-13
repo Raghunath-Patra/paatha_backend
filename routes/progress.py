@@ -9,7 +9,7 @@ from models import User, UserAttempt, Question, ChapterDefinition
 from typing import Dict, List, Any
 import logging
 import re
-from main import get_section_questions_count_helper
+from utils.questions import get_section_questions_count_helper
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
