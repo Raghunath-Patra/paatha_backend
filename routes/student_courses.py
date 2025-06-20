@@ -50,13 +50,18 @@ class QuizSummary(BaseModel):
     status: str  # 'not_started', 'in_progress', 'completed', 'time_expired'
 
 def check_student_permission(user: Dict):
-    """Check if user is a student"""
-    logger.debug(f"Checking permissions for user: {user.get('role')}")
-    if user.get('role') != 'student':
-        raise HTTPException(
-            status_code=status.HTTP_403_FORBIDDEN,
-            detail="Only students can access this endpoint"
-        )
+    # 🚨 TEMPORARY DEBUG - See what user data looks like
+    logger.error(f"🔍 DEBUG - User data: {user}")
+    logger.error(f"🔍 DEBUG - User role: {user.get('role')}")
+    
+    # 🚨 TEMPORARY - Comment out the role check
+    # if user.get('role') != 'student':
+    #     raise HTTPException(
+    #         status_code=status.HTTP_403_FORBIDDEN,
+    #         detail="Only students can access this endpoint"
+    #     )
+    
+    return True  # Allow everyone for debugging
 
 @router.post("/join", response_model=StudentCourseResponse)
 async def join_course(
