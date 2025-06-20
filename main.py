@@ -34,7 +34,7 @@ from typing import List, Dict, Tuple
 from services.token_service import token_service
 from sqlalchemy import text
 from routes import promo_code  
-from routes import try_routes
+from routes import try_routes, teacher_courses, student_courses, teacher_quizzes, question_browser, student_quizzes
 
 from services.consolidated_user_service import consolidated_service
 
@@ -87,6 +87,14 @@ app.include_router(limits.router, prefix="/api")
 app.include_router(payments.router)
 app.include_router(promo_code.router)
 app.include_router(try_routes.router)
+
+# Teacher functionality routes
+# from routes import teacher_courses, student_courses, teacher_quizzes, question_browser, student_quizzes
+app.include_router(teacher_courses.router)
+app.include_router(student_courses.router)
+app.include_router(teacher_quizzes.router)
+app.include_router(question_browser.router)
+app.include_router(student_quizzes.router)
 
 # Add middleware
 app.add_middleware(SecurityHeadersMiddleware)
