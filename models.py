@@ -322,7 +322,6 @@ class UserAttempt(Base):
         Index('idx_user_attempts_question', 'question_id'),
         Index('idx_user_attempts_created_at', 'created_at'),
         Index('idx_user_attempts_user_chapter', 'user_id', 'chapter'),
-        Index('idx_user_attempts_timestamp', 'timestamp'),
     )
 
 # Keep all other existing models
