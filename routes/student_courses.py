@@ -183,7 +183,6 @@ async def get_enrolled_courses(
     db: Session = Depends(get_db)
 ):
     """Get all courses the student is enrolled in"""
-    logger.error(f"Fetching enrolled courses: {str(e)}")
     try:
         check_student_permission(current_user)
         
