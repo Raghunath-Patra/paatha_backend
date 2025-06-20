@@ -10,7 +10,7 @@ from config.security import get_current_user
 from models import Course, CourseEnrollment, User, Quiz, QuizAttempt
 import logging
 
-router = APIRouter(prefix="/student/courses", tags=["student-courses"])
+router = APIRouter(prefix="api/student/courses", tags=["student-courses"])
 
 logger = logging.getLogger(__name__)
 
@@ -183,6 +183,7 @@ async def get_enrolled_courses(
     db: Session = Depends(get_db)
 ):
     """Get all courses the student is enrolled in"""
+    logger.error(f"Fetching enrolled courses: {str(e)}")
     try:
         check_student_permission(current_user)
         
