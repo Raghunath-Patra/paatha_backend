@@ -11,8 +11,22 @@ from datetime import datetime
 import uuid
 from config.database import Base
 
+# backend/models.py - Updated with AI questions integration
+
+from sqlalchemy import (
+    Column, String, Integer, Float, Text, Boolean, 
+    DateTime, ForeignKey, JSON, Enum as SQLEnum, 
+    Index, Date, CheckConstraint
+)
+from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy.orm import relationship, backref
+from sqlalchemy.sql import func
+from datetime import datetime
+import uuid
+from config.database import Base
+
 class User(Base):
-    __tablename__ = "profiles"  # Using "profiles" to match Supabase naming
+    __tablename__ = "profiles"
 
     # Primary Key
     id = Column(UUID(as_uuid=True), primary_key=True)
@@ -21,13 +35,22 @@ class User(Base):
     email = Column(String)
     full_name = Column(String)
     
+    # Role-based access control
+    role = Column(String(20), default="student", nullable=False)
+    
     # Academic Info
     board = Column(String, nullable=True)
     class_level = Column(String, nullable=True)
     
-    # Additional Profile Fields
+    # Teacher-specific fields
     institution_name = Column(String, nullable=True)
     phone_number = Column(String, nullable=True)
+    teaching_experience = Column(Integer, nullable=True)
+    qualification = Column(String, nullable=True)
+    subjects_taught = Column(JSON, nullable=True)
+    teacher_verified = Column(Boolean, default=False)
+    
+    # Additional Profile Fields
     mother_tongue = Column(String, nullable=True)
     primary_language = Column(String, nullable=True)
     location = Column(String, nullable=True)
@@ -63,8 +86,21 @@ class User(Base):
     subscriber_redemptions = relationship("PromoCodeRedemption",
                                        primaryjoin="User.id == PromoCodeRedemption.subscriber_id",
                                        backref="subscriber")
+    
+    # Teacher relationships
+    courses_taught = relationship("Course", back_populates="teacher", cascade="all, delete-orphan")
+    quizzes_created = relationship("Quiz", back_populates="teacher", cascade="all, delete-orphan")
+    
+    # Student relationships
+    course_enrollments = relationship("CourseEnrollment", 
+                                    primaryjoin="User.id == CourseEnrollment.student_id",
+                                    back_populates="student")
+    quiz_attempts = relationship("QuizAttempt", 
+                               primaryjoin="User.id == QuizAttempt.student_id",
+                               back_populates="student")
 
 class Question(Base):
+    """Existing AI-generated questions table"""
     __tablename__ = "questions"
 
     # Primary Key
@@ -87,7 +123,7 @@ class Question(Base):
     class_level = Column(String, nullable=False)
     subject = Column(String, nullable=False)
     chapter = Column(Integer, nullable=False)
-    category = Column(String, nullable=False)  # 'generated', 'in_chapter', 'exercise'
+    category = Column(String, nullable=False)
     section_id = Column(Text, nullable=True)
     
     # Timestamps
@@ -99,6 +135,459 @@ class Question(Base):
                             primaryjoin="Question.id == UserAttempt.question_id", 
                             back_populates="question", 
                             cascade="all, delete-orphan")
+    
+    # New relationship for quiz questions
+    quiz_questions = relationship("QuizQuestion", 
+                                primaryjoin="Question.id == QuizQuestion.ai_question_id",
+                                back_populates="ai_question")
+
+class Course(Base):
+    __tablename__ = "courses"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    
+    # Course details
+    course_name = Column(String(255), nullable=False)
+    course_code = Column(String(10), unique=True, nullable=False)
+    description = Column(Text, nullable=True)
+    
+    # Academic classification
+    board = Column(String(100), nullable=False)
+    class_level = Column(String(50), nullable=False)
+    subject = Column(String(100), nullable=False)
+    
+    # Course settings
+    is_active = Column(Boolean, default=True)
+    max_students = Column(Integer, default=100)
+    
+    # Timestamps
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    
+    # Relationships
+    teacher = relationship("User", back_populates="courses_taught")
+    enrollments = relationship("CourseEnrollment", back_populates="course", cascade="all, delete-orphan")
+    quizzes = relationship("Quiz", back_populates="course", cascade="all, delete-orphan")
+
+class CourseEnrollment(Base):
+    __tablename__ = "course_enrollments"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    course_id = Column(UUID(as_uuid=True), ForeignKey("courses.id", ondelete="CASCADE"), nullable=False)
+    student_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    
+    # Enrollment status
+    status = Column(String(20), default="active")
+    enrolled_at = Column(DateTime(timezone=True), server_default=func.now())
+    
+    # Performance tracking
+    total_quizzes_taken = Column(Integer, default=0)
+    average_score = Column(Float, default=0.0)
+    
+    # Relationships
+    course = relationship("Course", back_populates="enrollments")
+    student = relationship("User", back_populates="course_enrollments")
+    
+    # Unique constraint
+    __table_args__ = (
+        Index('idx_course_student', 'course_id', 'student_id', unique=True),
+    )
+
+class Quiz(Base):
+    __tablename__ = "quizzes"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    course_id = Column(UUID(as_uuid=True), ForeignKey("courses.id", ondelete="CASCADE"), nullable=False)
+    
+    # Quiz details
+    title = Column(String(255), nullable=False)
+    description = Column(Text, nullable=True)
+    instructions = Column(Text, nullable=True)
+    
+    # Quiz settings
+    time_limit = Column(Integer, nullable=True)  # Minutes
+    total_marks = Column(Integer, default=100)
+    passing_marks = Column(Integer, default=50)
+    attempts_allowed = Column(Integer, default=1)
+    
+    # Schedule
+    start_time = Column(DateTime(timezone=True), nullable=True)
+    end_time = Column(DateTime(timezone=True), nullable=True)
+    
+    # Status
+    is_published = Column(Boolean, default=False)
+    auto_grade = Column(Boolean, default=True)
+    
+    # Timestamps
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    
+    # Relationships
+    teacher = relationship("User", back_populates="quizzes_created")
+    course = relationship("Course", back_populates="quizzes")
+    questions = relationship("QuizQuestion", back_populates="quiz", cascade="all, delete-orphan")
+    attempts = relationship("QuizAttempt", back_populates="quiz", cascade="all, delete-orphan")
+
+class QuizQuestion(Base):
+    """Updated to handle both AI questions and custom questions"""
+    __tablename__ = "quiz_questions"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    quiz_id = Column(UUID(as_uuid=True), ForeignKey("quizzes.id", ondelete="CASCADE"), nullable=False)
+    
+    # Reference to AI-generated question (optional)
+    ai_question_id = Column(UUID(as_uuid=True), ForeignKey("questions.id", ondelete="SET NULL"), nullable=True)
+    
+    # Custom question fields (used when ai_question_id is NULL)
+    custom_question_text = Column(Text, nullable=True)
+    custom_question_type = Column(String(20), nullable=True)  # mcq, short_answer, essay
+    custom_options = Column(JSON, nullable=True)
+    custom_correct_answer = Column(Text, nullable=True)
+    custom_explanation = Column(Text, nullable=True)
+    
+    # Common fields
+    marks = Column(Integer, default=1)
+    order_index = Column(Integer, nullable=False)
+    question_source = Column(String(20), default='custom')  # 'ai_generated' or 'custom'
+    
+    # Timestamps
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    
+    # Relationships
+    quiz = relationship("Quiz", back_populates="questions")
+    ai_question = relationship("Question", back_populates="quiz_questions")
+    
+    # Check constraint to ensure data integrity
+    __table_args__ = (
+        CheckConstraint(
+            '(ai_question_id IS NOT NULL AND custom_question_text IS NULL) OR '
+            '(ai_question_id IS NULL AND custom_question_text IS NOT NULL AND '
+            'custom_question_type IS NOT NULL AND custom_correct_answer IS NOT NULL)',
+            name='check_question_source'
+        ),
+    )
+    
+    # Helper properties
+    @property
+    def question_text(self):
+        """Get question text from either AI question or custom"""
+        if self.ai_question:
+            return self.ai_question.question_text
+        return self.custom_question_text
+    
+    @property
+    def question_type(self):
+        """Get question type from either AI question or custom"""
+        if self.ai_question:
+            return self.ai_question.type
+        return self.custom_question_type
+    
+    @property
+    def options(self):
+        """Get options from either AI question or custom"""
+        if self.ai_question:
+            return self.ai_question.options
+        return self.custom_options
+    
+    @property
+    def correct_answer(self):
+        """Get correct answer from either AI question or custom"""
+        if self.ai_question:
+            return self.ai_question.correct_answer
+        return self.custom_correct_answer
+    
+    @property
+    def explanation(self):
+        """Get explanation from either AI question or custom"""
+        if self.ai_question:
+            return self.ai_question.explanation
+        return self.custom_explanation
+
+class QuizAttempt(Base):
+    __tablename__ = "quiz_attempts"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    quiz_id = Column(UUID(as_uuid=True), ForeignKey("quizzes.id", ondelete="CASCADE"), nullable=False)
+    student_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    
+    # Attempt details
+    attempt_number = Column(Integer, default=1)
+    answers = Column(JSON, nullable=False)  # Question ID -> Answer mapping
+    
+    # Scoring
+    total_marks = Column(Integer, default=0)
+    obtained_marks = Column(Float, default=0.0)
+    percentage = Column(Float, default=0.0)
+    
+    # Timing
+    started_at = Column(DateTime(timezone=True), server_default=func.now())
+    submitted_at = Column(DateTime(timezone=True), nullable=True)
+    time_taken = Column(Integer, nullable=True)  # Minutes
+    
+    # Status
+    status = Column(String(20), default="in_progress")  # in_progress, submitted, graded
+    is_auto_graded = Column(Boolean, default=False)
+    teacher_reviewed = Column(Boolean, default=False)
+    
+    # Relationships
+    quiz = relationship("Quiz", back_populates="attempts")
+    student = relationship("User", back_populates="quiz_attempts")
+    
+    # Indexes
+    __table_args__ = (
+        Index('idx_quiz_student_attempt', 'quiz_id', 'student_id', 'attempt_number'),
+    )
+
+class QuestionSearchFilter(Base):
+    """For saving teacher's common search filters for AI questions"""
+    __tablename__ = "question_search_filters"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    
+    # Filter details
+    filter_name = Column(String(255), nullable=False)
+    board = Column(String(100), nullable=True)
+    class_level = Column(String(50), nullable=True)
+    subject = Column(String(100), nullable=True)
+    chapter = Column(Integer, nullable=True)
+    difficulty = Column(String(50), nullable=True)
+    question_type = Column(String(50), nullable=True)
+    topic = Column(String(255), nullable=True)
+    bloom_level = Column(String(50), nullable=True)
+    category = Column(String(100), nullable=True)
+    
+    is_default = Column(Boolean, default=False)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    
+    # Relationships
+    teacher = relationship("User")
+
+# Keep all your existing models below this line...
+
+# ... rest of your existing models remain the same ...
+class ChapterDefinition(Base):
+    __tablename__ = "chapter_definitions"
+
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    board = Column(String, nullable=False)
+    class_level = Column(String, nullable=False)
+    subject_code = Column(String, nullable=False)
+    chapter_number = Column(Integer, nullable=False)
+    chapter_name = Column(String, nullable=False)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+
+    __table_args__ = (
+        Index('idx_chapter_lookup', 'board', 'class_level', 'subject_code'),
+    )
+
+class SubscriptionPlan(Base):
+    __tablename__ = "subscription_plans"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    name = Column(String, nullable=False, unique=True)
+    display_name = Column(String, nullable=False)
+    description = Column(Text, nullable=True)
+    
+    # Pricing
+    monthly_price = Column(Integer, nullable=False)
+    six_month_price = Column(Integer, nullable=True)
+    yearly_price = Column(Integer, nullable=True)
+    
+    # Limits
+    monthly_question_limit = Column(Integer, nullable=False)
+    daily_question_limit = Column(Integer, nullable=False)
+    monthly_chat_limit = Column(Integer, nullable=True)
+    requests_per_question = Column(Integer, default=1)
+    follow_up_questions_per_day = Column(Integer, default=1)
+    follow_up_questions_per_answer = Column(Integer, default=3)
+    
+    # Token limits
+    input_tokens_per_question = Column(Integer, default=6000)
+    output_tokens_per_question = Column(Integer, default=4000)
+    daily_input_token_limit = Column(Integer, default=18000)
+    daily_output_token_limit = Column(Integer, default=12000)
+    
+    # Features
+    features = Column(JSON, nullable=True)
+    is_active = Column(Boolean, default=True)
+    carry_forward = Column(Boolean, default=False)
+    
+    # Timestamps
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+
+class SubscriptionUserData(Base):
+    __tablename__ = "subscription_user_data"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    user_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    plan_id = Column(UUID(as_uuid=True), ForeignKey("subscription_plans.id"), nullable=True)
+    is_yearly = Column(Boolean, default=False)
+    
+    # Usage tracking
+    questions_used_this_month = Column(Integer, default=0)
+    questions_used_today = Column(Integer, default=0)
+    chat_requests_used_this_month = Column(Integer, default=0)
+    follow_up_questions_used_today = Column(Integer, default=0)
+    
+    # Reset dates
+    monthly_reset_date = Column(Date, nullable=True)
+    daily_reset_date = Column(Date, nullable=True)
+    
+    # Subscription timing
+    subscription_start_date = Column(DateTime(timezone=True), nullable=True)
+    subscription_expires_at = Column(DateTime(timezone=True), nullable=True)
+    
+    # Timestamps
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    
+    # Token-based usage tracking
+    daily_input_tokens_used = Column(Integer, default=0)
+    daily_output_tokens_used = Column(Integer, default=0)
+    token_bonus = Column(Integer, default=0)
+
+    __table_args__ = (
+        Index('idx_subscription_user_lookup', 'user_id'),
+    )
+
+class Payment(Base):
+    __tablename__ = "payments"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    user_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    amount = Column(Integer, nullable=False)
+    currency = Column(String, nullable=False, default="INR")
+    
+    # Razorpay details
+    razorpay_payment_id = Column(String, nullable=True)
+    razorpay_order_id = Column(String, nullable=True)
+    razorpay_signature = Column(String, nullable=True)
+    razorpay_subscription_id = Column(String, nullable=True)
+    
+    # Status
+    status = Column(String, nullable=False)
+    
+    # Subscription dates
+    premium_start_date = Column(DateTime(timezone=True), nullable=True)
+    premium_end_date = Column(DateTime(timezone=True), nullable=True)
+    
+    # Cancel data
+    canceled_at = Column(DateTime(timezone=True), nullable=True)
+    canceled_reason = Column(String, nullable=True)
+    
+    # Timestamps
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+
+class PromoCodeRedemption(Base):
+    __tablename__ = "promo_code_redemptions"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    marketing_partner_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    subscriber_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    subscription_amount = Column(Integer, nullable=False)
+    subscription_type = Column(String(20), nullable=False)
+    commission_amount = Column(Integer, nullable=False)
+    is_paid = Column(Boolean, default=False)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    
+    __table_args__ = (
+        Index('idx_promo_redemptions_partner', 'marketing_partner_id'),
+        Index('idx_promo_redemptions_subscriber', 'subscriber_id'),
+    )
+
+# class User(Base):
+#     __tablename__ = "profiles"  # Using "profiles" to match Supabase naming
+
+#     # Primary Key
+#     id = Column(UUID(as_uuid=True), primary_key=True)
+    
+#     # Basic Info
+#     email = Column(String)
+#     full_name = Column(String)
+    
+#     # Academic Info
+#     board = Column(String, nullable=True)
+#     class_level = Column(String, nullable=True)
+    
+#     # Additional Profile Fields
+#     institution_name = Column(String, nullable=True)
+#     phone_number = Column(String, nullable=True)
+#     mother_tongue = Column(String, nullable=True)
+#     primary_language = Column(String, nullable=True)
+#     location = Column(String, nullable=True)
+#     join_purpose = Column(String, nullable=True)
+    
+#     # Flags and Status
+#     is_active = Column(Boolean, server_default='true', nullable=False)
+#     is_verified = Column(Boolean, server_default='false', nullable=False)
+    
+#     # Timestamps
+#     created_at = Column(DateTime(timezone=True), server_default=func.now())
+#     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    
+#     # Subscription info
+#     is_premium = Column(Boolean, default=False)
+#     premium_start_date = Column(DateTime(timezone=True), nullable=True)
+#     premium_expires_at = Column(DateTime(timezone=True), nullable=True)
+#     subscription_plan_id = Column(UUID(as_uuid=True), nullable=True)
+    
+#     # Promo code fields
+#     promo_code = Column(String(20), unique=True, nullable=True)
+#     is_marketing_partner = Column(Boolean, default=False)
+#     token_bonus = Column(Integer, default=0)
+    
+#     # Relationships
+#     attempts = relationship("UserAttempt", 
+#                            primaryjoin="User.id == UserAttempt.user_id", 
+#                            back_populates="user", 
+#                            cascade="all, delete-orphan")
+#     marketing_redemptions = relationship("PromoCodeRedemption",
+#                                       primaryjoin="User.id == PromoCodeRedemption.marketing_partner_id",
+#                                       backref="marketing_partner")
+#     subscriber_redemptions = relationship("PromoCodeRedemption",
+#                                        primaryjoin="User.id == PromoCodeRedemption.subscriber_id",
+#                                        backref="subscriber")
+
+# class Question(Base):
+#     __tablename__ = "questions"
+
+#     # Primary Key
+#     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+#     human_readable_id = Column(String, unique=True, nullable=False)
+#     file_source = Column(String, nullable=False)
+    
+#     # Question content
+#     question_text = Column(Text, nullable=False)
+#     type = Column(String, nullable=False)
+#     difficulty = Column(String, nullable=False)
+#     options = Column(JSON)
+#     correct_answer = Column(Text, nullable=False)
+#     explanation = Column(Text)
+#     topic = Column(String)
+#     bloom_level = Column(String)
+    
+#     # Classification fields
+#     board = Column(String, nullable=False)
+#     class_level = Column(String, nullable=False)
+#     subject = Column(String, nullable=False)
+#     chapter = Column(Integer, nullable=False)
+#     category = Column(String, nullable=False)  # 'generated', 'in_chapter', 'exercise'
+#     section_id = Column(Text, nullable=True)
+    
+#     # Timestamps
+#     created_at = Column(DateTime(timezone=True), nullable=False, default=datetime.utcnow)
+#     updated_at = Column(DateTime(timezone=True), onupdate=datetime.utcnow)
+    
+#     # Relationships
+#     attempts = relationship("UserAttempt", 
+#                             primaryjoin="Question.id == UserAttempt.question_id", 
+#                             back_populates="question", 
+#                             cascade="all, delete-orphan")
 
 class UserAttempt(Base):
     __tablename__ = "user_attempts"

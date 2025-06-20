@@ -35,6 +35,7 @@ from services.token_service import token_service
 from sqlalchemy import text
 from routes import promo_code  
 from routes import try_routes
+from routes import teacher, student  # New teacher and student routes
 
 from services.consolidated_user_service import consolidated_service
 
@@ -87,6 +88,8 @@ app.include_router(limits.router, prefix="/api")
 app.include_router(payments.router)
 app.include_router(promo_code.router)
 app.include_router(try_routes.router)
+app.include_router(teacher.router)  # New teacher routes
+app.include_router(student.router)  # New student routes
 
 # Add middleware
 app.add_middleware(SecurityHeadersMiddleware)
@@ -97,6 +100,19 @@ class AnswerModel(BaseModel):
     question_id: str
     time_taken: Optional[int] = None
     image_data: Optional[str] = None  # Base64 encoded image
+
+
+# Additional teacher/student specific routes
+@app.get("/api/roles/available")
+async def get_available_roles():
+    """Get available user roles"""
+    return {
+        "roles": [
+            {"value": "student", "label": "Student"},
+            {"value": "teacher", "label": "Teacher"},
+            {"value": "admin", "label": "Administrator"}
+        ]
+    }
 
 def get_subject_mapping(board: str, class_: str, subject: str) -> Tuple[str, str, str]:
     """Get actual board/class/subject to use, considering shared subjects and handling code/display name variations"""
