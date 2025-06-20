@@ -51,6 +51,7 @@ class QuizSummary(BaseModel):
 
 def check_student_permission(user: Dict):
     """Check if user is a student"""
+    logger.debug(f"Checking permissions for user: {user.get('role')}")
     if user.get('role') != 'student':
         raise HTTPException(
             status_code=status.HTTP_403_FORBIDDEN,
