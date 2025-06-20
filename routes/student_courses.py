@@ -10,7 +10,7 @@ from config.security import get_current_user
 from models import Course, CourseEnrollment, User, Quiz, QuizAttempt
 import logging
 
-router = APIRouter(prefix="/api/student/courses", tags=["student-courses"])
+router = APIRouter(prefix="/student/courses", tags=["student-courses"])
 
 logger = logging.getLogger(__name__)
 
