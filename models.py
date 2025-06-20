@@ -284,7 +284,6 @@ class UserAttempt(Base):
     class_level = Column(String)
     subject = Column(String)
     chapter = Column(Integer)
-    timestamp = Column(DateTime(timezone=True), server_default=func.now())
     created_at = Column(DateTime(timezone=True), server_default=func.now())
 
     # Image processing fields
