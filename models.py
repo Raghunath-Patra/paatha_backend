@@ -1,11 +1,11 @@
-# backend/models.py - Updated with teacher functionality
+# backend/models.py - Fixed version to resolve SQLAlchemy recursion issues
 from sqlalchemy import (
     Column, String, Integer, Float, Text, Boolean, 
     DateTime, ForeignKey, JSON, Enum as SQLEnum, 
-    Index, Date, CheckConstraint
+    Index, Date, CheckConstraint, UniqueConstraint
 )
 from sqlalchemy.dialects.postgresql import UUID
-from sqlalchemy.orm import relationship, backref
+from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from datetime import datetime
 import uuid
@@ -59,206 +59,12 @@ class User(Base):
     is_marketing_partner = Column(Boolean, default=False)
     token_bonus = Column(Integer, default=0)
     
-    # Relationships - Student side
-    attempts = relationship("UserAttempt", 
-                           primaryjoin="User.id == UserAttempt.user_id", 
-                           back_populates="user", 
-                           cascade="all, delete-orphan")
-    marketing_redemptions = relationship("PromoCodeRedemption",
-                                      primaryjoin="User.id == PromoCodeRedemption.marketing_partner_id",
-                                      backref="marketing_partner")
-    subscriber_redemptions = relationship("PromoCodeRedemption",
-                                       primaryjoin="User.id == PromoCodeRedemption.subscriber_id",
-                                       backref="subscriber")
-    
-    # Teacher relationships
-    taught_courses = relationship("Course", back_populates="teacher", cascade="all, delete-orphan")
-    created_quizzes = relationship("Quiz", back_populates="teacher", cascade="all, delete-orphan")
-    search_filters = relationship("QuestionSearchFilter", back_populates="teacher", cascade="all, delete-orphan")
-    
-    # Student relationships
-    course_enrollments = relationship("CourseEnrollment", 
-                                    foreign_keys="CourseEnrollment.student_id",
-                                    back_populates="student")
-    quiz_attempts = relationship("QuizAttempt", back_populates="student", cascade="all, delete-orphan")
-
-class Course(Base):
-    __tablename__ = "courses"
-    
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
-    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
-    course_name = Column(String(255), nullable=False)
-    course_code = Column(String(10), unique=True, nullable=False)
-    description = Column(Text)
-    board = Column(String(100), nullable=False)
-    class_level = Column(String(50), nullable=False)
-    subject = Column(String(100), nullable=False)
-    is_active = Column(Boolean, default=True)
-    max_students = Column(Integer, default=100)
-    created_at = Column(DateTime(timezone=True), server_default=func.now())
-    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
-    
-    # Relationships
-    teacher = relationship("User", back_populates="taught_courses")
-    enrollments = relationship("CourseEnrollment", back_populates="course", cascade="all, delete-orphan")
-    quizzes = relationship("Quiz", back_populates="course", cascade="all, delete-orphan")
-    
     # Indexes
     __table_args__ = (
-        Index('idx_courses_teacher', 'teacher_id'),
-        Index('idx_courses_active', 'is_active'),
-        Index('idx_courses_board_class_subject', 'board', 'class_level', 'subject'),
+        Index('idx_profiles_role', 'role'),
+        Index('idx_profiles_email', 'email'),
+        Index('idx_profiles_promo_code', 'promo_code'),
     )
-
-class CourseEnrollment(Base):
-    __tablename__ = "course_enrollments"
-    
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
-    course_id = Column(UUID(as_uuid=True), ForeignKey("courses.id", ondelete="CASCADE"), nullable=False)
-    student_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
-    status = Column(String(20), default='active')
-    enrolled_at = Column(DateTime(timezone=True), server_default=func.now())
-    total_quizzes_taken = Column(Integer, default=0)
-    average_score = Column(Float, default=0.0)
-    
-    # Relationships
-    course = relationship("Course", back_populates="enrollments")
-    student = relationship("User", foreign_keys=[student_id], back_populates="course_enrollments")
-    
-    # Indexes
-    __table_args__ = (
-        Index('idx_course_enrollments_course', 'course_id'),
-        Index('idx_course_enrollments_student', 'student_id'),
-        # Ensure unique enrollment per student per course
-        {"unique": True, "name": "unique_course_student"}
-    )
-
-class Quiz(Base):
-    __tablename__ = "quizzes"
-    
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
-    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
-    course_id = Column(UUID(as_uuid=True), ForeignKey("courses.id", ondelete="CASCADE"), nullable=False)
-    title = Column(String(255), nullable=False)
-    description = Column(Text)
-    instructions = Column(Text)
-    time_limit = Column(Integer)  # Minutes
-    total_marks = Column(Integer, default=100)
-    passing_marks = Column(Integer, default=50)
-    attempts_allowed = Column(Integer, default=1)
-    start_time = Column(DateTime(timezone=True))
-    end_time = Column(DateTime(timezone=True))
-    is_published = Column(Boolean, default=False)
-    auto_grade = Column(Boolean, default=True)
-    created_at = Column(DateTime(timezone=True), server_default=func.now())
-    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
-    
-    # Relationships
-    teacher = relationship("User", back_populates="created_quizzes")
-    course = relationship("Course", back_populates="quizzes")
-    questions = relationship("QuizQuestion", back_populates="quiz", cascade="all, delete-orphan")
-    attempts = relationship("QuizAttempt", back_populates="quiz", cascade="all, delete-orphan")
-    
-    # Indexes
-    __table_args__ = (
-        Index('idx_quizzes_teacher', 'teacher_id'),
-        Index('idx_quizzes_course', 'course_id'),
-        Index('idx_quizzes_published', 'is_published'),
-    )
-
-class QuizQuestion(Base):
-    __tablename__ = "quiz_questions"
-    
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
-    quiz_id = Column(UUID(as_uuid=True), ForeignKey("quizzes.id", ondelete="CASCADE"), nullable=False)
-    
-    # Reference to existing AI-generated question (optional)
-    ai_question_id = Column(UUID(as_uuid=True), ForeignKey('questions.id', ondelete='SET NULL'))
-    
-    # Custom question fields (used when ai_question_id is NULL)
-    custom_question_text = Column(Text)
-    custom_question_type = Column(String(20))  # mcq, short_answer, essay
-    custom_options = Column(JSON)
-    custom_correct_answer = Column(Text)
-    custom_explanation = Column(Text)
-    
-    # Common fields for both types
-    marks = Column(Integer, default=1)
-    order_index = Column(Integer, nullable=False)
-    
-    # Source tracking
-    question_source = Column(String(20), default='custom')  # 'ai_generated' or 'custom'
-    
-    created_at = Column(DateTime(timezone=True), server_default=func.now())
-    
-    # Relationships
-    quiz = relationship("Quiz", back_populates="questions")
-    ai_question = relationship("Question")
-    
-    # Constraint to ensure either ai_question_id exists OR custom fields are filled
-    __table_args__ = (
-        CheckConstraint(
-            """(ai_question_id IS NOT NULL AND custom_question_text IS NULL) OR
-               (ai_question_id IS NULL AND custom_question_text IS NOT NULL AND 
-                custom_question_type IS NOT NULL AND custom_correct_answer IS NOT NULL)""",
-            name='check_question_source'
-        ),
-        Index('idx_quiz_questions_quiz', 'quiz_id'),
-        Index('idx_quiz_questions_ai_question', 'ai_question_id'),
-        Index('idx_quiz_questions_source', 'question_source'),
-    )
-
-class QuizAttempt(Base):
-    __tablename__ = "quiz_attempts"
-    
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
-    quiz_id = Column(UUID(as_uuid=True), ForeignKey("quizzes.id", ondelete="CASCADE"), nullable=False)
-    student_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
-    attempt_number = Column(Integer, default=1)
-    answers = Column(JSON, nullable=False)
-    total_marks = Column(Integer, default=0)
-    obtained_marks = Column(Float, default=0.0)
-    percentage = Column(Float, default=0.0)
-    started_at = Column(DateTime(timezone=True), server_default=func.now())
-    submitted_at = Column(DateTime(timezone=True))
-    time_taken = Column(Integer)  # Minutes
-    status = Column(String(20), default='in_progress')
-    is_auto_graded = Column(Boolean, default=False)
-    teacher_reviewed = Column(Boolean, default=False)
-    
-    # Relationships
-    quiz = relationship("Quiz", back_populates="attempts")
-    student = relationship("User", back_populates="quiz_attempts")
-    
-    # Indexes
-    __table_args__ = (
-        Index('idx_quiz_attempts_quiz', 'quiz_id'),
-        Index('idx_quiz_attempts_student', 'student_id'),
-        Index('idx_quiz_attempts_status', 'status'),
-    )
-
-class QuestionSearchFilter(Base):
-    __tablename__ = "question_search_filters"
-    
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
-    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
-    filter_name = Column(String(255), nullable=False)
-    board = Column(String(100))
-    class_level = Column(String(50))
-    subject = Column(String(100))
-    chapter = Column(Integer)
-    difficulty = Column(String(50))
-    question_type = Column(String(50))
-    topic = Column(String(255))
-    bloom_level = Column(String(50))
-    category = Column(String(100))
-    is_default = Column(Boolean, default=False)
-    created_at = Column(DateTime(timezone=True), server_default=func.now())
-    
-    # Relationships
-    teacher = relationship("User", back_populates="search_filters")
-
-# Keep all existing models from the original file
 
 class Question(Base):
     __tablename__ = "questions"
@@ -290,12 +96,6 @@ class Question(Base):
     created_at = Column(DateTime(timezone=True), nullable=False, default=datetime.utcnow)
     updated_at = Column(DateTime(timezone=True), onupdate=datetime.utcnow)
     
-    # Relationships
-    attempts = relationship("UserAttempt", 
-                            primaryjoin="Question.id == UserAttempt.question_id", 
-                            back_populates="question", 
-                            cascade="all, delete-orphan")
-    
     # Enhanced indexes for teacher question browsing
     __table_args__ = (
         Index('idx_questions_board_class_subject', 'board', 'class_level', 'subject'),
@@ -305,6 +105,164 @@ class Question(Base):
         Index('idx_questions_category', 'category'),
         Index('idx_questions_bloom_level', 'bloom_level'),
         Index('idx_questions_topic', 'topic'),
+    )
+
+class Course(Base):
+    __tablename__ = "courses"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    course_name = Column(String(255), nullable=False)
+    course_code = Column(String(10), unique=True, nullable=False)
+    description = Column(Text)
+    board = Column(String(100), nullable=False)
+    class_level = Column(String(50), nullable=False)
+    subject = Column(String(100), nullable=False)
+    is_active = Column(Boolean, default=True)
+    max_students = Column(Integer, default=100)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    
+    # Indexes
+    __table_args__ = (
+        Index('idx_courses_teacher', 'teacher_id'),
+        Index('idx_courses_active', 'is_active'),
+        Index('idx_courses_board_class_subject', 'board', 'class_level', 'subject'),
+        Index('idx_courses_code', 'course_code'),
+    )
+
+class CourseEnrollment(Base):
+    __tablename__ = "course_enrollments"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    course_id = Column(UUID(as_uuid=True), ForeignKey("courses.id", ondelete="CASCADE"), nullable=False)
+    student_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    status = Column(String(20), default='active')
+    enrolled_at = Column(DateTime(timezone=True), server_default=func.now())
+    total_quizzes_taken = Column(Integer, default=0)
+    average_score = Column(Float, default=0.0)
+    
+    # Indexes and constraints
+    __table_args__ = (
+        Index('idx_course_enrollments_course', 'course_id'),
+        Index('idx_course_enrollments_student', 'student_id'),
+        UniqueConstraint('course_id', 'student_id', name='unique_course_student'),
+    )
+
+class Quiz(Base):
+    __tablename__ = "quizzes"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    course_id = Column(UUID(as_uuid=True), ForeignKey("courses.id", ondelete="CASCADE"), nullable=False)
+    title = Column(String(255), nullable=False)
+    description = Column(Text)
+    instructions = Column(Text)
+    time_limit = Column(Integer)  # Minutes
+    total_marks = Column(Integer, default=100)
+    passing_marks = Column(Integer, default=50)
+    attempts_allowed = Column(Integer, default=1)
+    start_time = Column(DateTime(timezone=True))
+    end_time = Column(DateTime(timezone=True))
+    is_published = Column(Boolean, default=False)
+    auto_grade = Column(Boolean, default=True)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    
+    # Indexes
+    __table_args__ = (
+        Index('idx_quizzes_teacher', 'teacher_id'),
+        Index('idx_quizzes_course', 'course_id'),
+        Index('idx_quizzes_published', 'is_published'),
+        Index('idx_quizzes_active_time', 'start_time', 'end_time'),
+    )
+
+class QuizQuestion(Base):
+    __tablename__ = "quiz_questions"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    quiz_id = Column(UUID(as_uuid=True), ForeignKey("quizzes.id", ondelete="CASCADE"), nullable=False)
+    
+    # Reference to existing AI-generated question (optional)
+    ai_question_id = Column(UUID(as_uuid=True), ForeignKey('questions.id', ondelete='SET NULL'))
+    
+    # Custom question fields (used when ai_question_id is NULL)
+    custom_question_text = Column(Text)
+    custom_question_type = Column(String(20))  # mcq, short_answer, essay
+    custom_options = Column(JSON)
+    custom_correct_answer = Column(Text)
+    custom_explanation = Column(Text)
+    
+    # Common fields for both types
+    marks = Column(Integer, default=1)
+    order_index = Column(Integer, nullable=False)
+    
+    # Source tracking
+    question_source = Column(String(20), default='custom')  # 'ai_generated' or 'custom'
+    
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    
+    # Constraint to ensure either ai_question_id exists OR custom fields are filled
+    __table_args__ = (
+        CheckConstraint(
+            """(ai_question_id IS NOT NULL AND custom_question_text IS NULL) OR
+               (ai_question_id IS NULL AND custom_question_text IS NOT NULL AND 
+                custom_question_type IS NOT NULL AND custom_correct_answer IS NOT NULL)""",
+            name='check_question_source'
+        ),
+        Index('idx_quiz_questions_quiz', 'quiz_id'),
+        Index('idx_quiz_questions_ai_question', 'ai_question_id'),
+        Index('idx_quiz_questions_source', 'question_source'),
+        Index('idx_quiz_questions_order', 'quiz_id', 'order_index'),
+    )
+
+class QuizAttempt(Base):
+    __tablename__ = "quiz_attempts"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    quiz_id = Column(UUID(as_uuid=True), ForeignKey("quizzes.id", ondelete="CASCADE"), nullable=False)
+    student_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    attempt_number = Column(Integer, default=1)
+    answers = Column(JSON, nullable=False)
+    total_marks = Column(Integer, default=0)
+    obtained_marks = Column(Float, default=0.0)
+    percentage = Column(Float, default=0.0)
+    started_at = Column(DateTime(timezone=True), server_default=func.now())
+    submitted_at = Column(DateTime(timezone=True))
+    time_taken = Column(Integer)  # Minutes
+    status = Column(String(20), default='in_progress')
+    is_auto_graded = Column(Boolean, default=False)
+    teacher_reviewed = Column(Boolean, default=False)
+    
+    # Indexes
+    __table_args__ = (
+        Index('idx_quiz_attempts_quiz', 'quiz_id'),
+        Index('idx_quiz_attempts_student', 'student_id'),
+        Index('idx_quiz_attempts_status', 'status'),
+        Index('idx_quiz_attempts_student_quiz', 'student_id', 'quiz_id'),
+    )
+
+class QuestionSearchFilter(Base):
+    __tablename__ = "question_search_filters"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    teacher_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    filter_name = Column(String(255), nullable=False)
+    board = Column(String(100))
+    class_level = Column(String(50))
+    subject = Column(String(100))
+    chapter = Column(Integer)
+    difficulty = Column(String(50))
+    question_type = Column(String(50))
+    topic = Column(String(255))
+    bloom_level = Column(String(50))
+    category = Column(String(100))
+    is_default = Column(Boolean, default=False)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    
+    __table_args__ = (
+        Index('idx_search_filters_teacher', 'teacher_id'),
+        Index('idx_search_filters_default', 'is_default'),
     )
 
 class UserAttempt(Base):
@@ -326,6 +284,7 @@ class UserAttempt(Base):
     class_level = Column(String)
     subject = Column(String)
     chapter = Column(Integer)
+    timestamp = Column(DateTime(timezone=True), server_default=func.now())
     created_at = Column(DateTime(timezone=True), server_default=func.now())
 
     # Image processing fields
@@ -358,21 +317,16 @@ class UserAttempt(Base):
     output_tokens_used = Column(Integer, default=0)
     is_token_limit_reached = Column(Boolean, default=False)
 
-    # Relationships
-    user = relationship("User", 
-                        primaryjoin="UserAttempt.user_id == User.id", 
-                        back_populates="attempts")
-    question = relationship("Question", 
-                            primaryjoin="UserAttempt.question_id == Question.id", 
-                            back_populates="attempts")
-
     # Indexes
     __table_args__ = (
+        Index('idx_user_attempts_user', 'user_id'),
+        Index('idx_user_attempts_question', 'question_id'),
         Index('idx_user_attempts_created_at', 'created_at'),
         Index('idx_user_attempts_user_chapter', 'user_id', 'chapter'),
+        Index('idx_user_attempts_timestamp', 'timestamp'),
     )
 
-# Keep all other existing models (ChapterDefinition, QuestionFollowUp, SubscriptionPlan, etc.)
+# Keep all other existing models
 class ChapterDefinition(Base):
     __tablename__ = "chapter_definitions"
 
@@ -412,7 +366,7 @@ class SubscriptionPlan(Base):
     
     # Pricing
     monthly_price = Column(Integer, nullable=False)  # In paise (1/100 of rupee)
-    six_month_price = Column(Integer, nullable=True)  # Add this line
+    six_month_price = Column(Integer, nullable=True)
     yearly_price = Column(Integer, nullable=True)
     
     # Limits
@@ -455,6 +409,7 @@ class SubscriptionUserData(Base):
     # Reset dates
     monthly_reset_date = Column(Date, nullable=True)
     daily_reset_date = Column(Date, nullable=True)
+    tokens_reset_date = Column(Date, nullable=True)
     
     # Subscription timing
     subscription_start_date = Column(DateTime(timezone=True), nullable=True)
@@ -474,6 +429,7 @@ class SubscriptionUserData(Base):
     # Create indexes for faster lookups
     __table_args__ = (
         Index('idx_subscription_user_lookup', 'user_id'),
+        Index('idx_subscription_plan_lookup', 'plan_id'),
     )
 
 class Payment(Base):
@@ -504,6 +460,12 @@ class Payment(Base):
     # Timestamps
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    
+    __table_args__ = (
+        Index('idx_payments_user', 'user_id'),
+        Index('idx_payments_status', 'status'),
+        Index('idx_payments_razorpay_order', 'razorpay_order_id'),
+    )
 
 class PromoCodeRedemption(Base):
     __tablename__ = "promo_code_redemptions"
@@ -521,4 +483,52 @@ class PromoCodeRedemption(Base):
     __table_args__ = (
         Index('idx_promo_redemptions_partner', 'marketing_partner_id'),
         Index('idx_promo_redemptions_subscriber', 'subscriber_id'),
+        Index('idx_promo_redemptions_paid', 'is_paid'),
     )
+
+
+# IMPORTANT: Add relationships AFTER all classes are defined to avoid circular imports
+# This prevents the recursion issue we were experiencing
+
+# Add relationships to User
+User.attempts = relationship("UserAttempt", back_populates="user", cascade="all, delete-orphan")
+User.taught_courses = relationship("Course", back_populates="teacher", cascade="all, delete-orphan")
+User.created_quizzes = relationship("Quiz", back_populates="teacher", cascade="all, delete-orphan")
+User.search_filters = relationship("QuestionSearchFilter", back_populates="teacher", cascade="all, delete-orphan")
+User.course_enrollments = relationship("CourseEnrollment", back_populates="student", cascade="all, delete-orphan")
+User.quiz_attempts = relationship("QuizAttempt", back_populates="student", cascade="all, delete-orphan")
+User.marketing_redemptions = relationship("PromoCodeRedemption", 
+                                        foreign_keys=[PromoCodeRedemption.marketing_partner_id],
+                                        back_populates="marketing_partner")
+User.subscriber_redemptions = relationship("PromoCodeRedemption",
+                                         foreign_keys=[PromoCodeRedemption.subscriber_id], 
+                                         back_populates="subscriber")
+
+# Add relationships to other models
+Question.attempts = relationship("UserAttempt", back_populates="question", cascade="all, delete-orphan")
+
+Course.teacher = relationship("User", back_populates="taught_courses")
+Course.enrollments = relationship("CourseEnrollment", back_populates="course", cascade="all, delete-orphan")
+Course.quizzes = relationship("Quiz", back_populates="course", cascade="all, delete-orphan")
+
+CourseEnrollment.course = relationship("Course", back_populates="enrollments")
+CourseEnrollment.student = relationship("User", back_populates="course_enrollments")
+
+Quiz.teacher = relationship("User", back_populates="created_quizzes")
+Quiz.course = relationship("Course", back_populates="quizzes")
+Quiz.questions = relationship("QuizQuestion", back_populates="quiz", cascade="all, delete-orphan")
+Quiz.attempts = relationship("QuizAttempt", back_populates="quiz", cascade="all, delete-orphan")
+
+QuizQuestion.quiz = relationship("Quiz", back_populates="questions")
+QuizQuestion.ai_question = relationship("Question")
+
+QuizAttempt.quiz = relationship("Quiz", back_populates="attempts")
+QuizAttempt.student = relationship("User", back_populates="quiz_attempts")
+
+QuestionSearchFilter.teacher = relationship("User", back_populates="search_filters")
+
+UserAttempt.user = relationship("User", back_populates="attempts")
+UserAttempt.question = relationship("Question", back_populates="attempts")
+
+PromoCodeRedemption.marketing_partner = relationship("User", foreign_keys=[PromoCodeRedemption.marketing_partner_id])
+PromoCodeRedemption.subscriber = relationship("User", foreign_keys=[PromoCodeRedemption.subscriber_id])
