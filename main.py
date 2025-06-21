@@ -35,7 +35,7 @@ from services.token_service import token_service
 from sqlalchemy import text
 from routes import promo_code  
 from routes import try_routes, teacher_courses, student_courses, teacher_quizzes, question_browser, student_quizzes
-
+from routes import subjects_config
 from services.consolidated_user_service import consolidated_service
 
 
@@ -95,6 +95,7 @@ app.include_router(student_courses.router)
 app.include_router(teacher_quizzes.router)
 app.include_router(question_browser.router)
 app.include_router(student_quizzes.router)
+app.include_router(subjects_config.router)
 
 # Add middleware
 app.add_middleware(SecurityHeadersMiddleware)
