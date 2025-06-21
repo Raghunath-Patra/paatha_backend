@@ -56,7 +56,28 @@ class QuestionResponse(BaseModel):
     flagged_for_review: Optional[bool] = False
 
 class QuizSubmission(BaseModel):
-    responses: List[QuestionResponse]  # Changed from Dict to List of QuestionResponse
+    # Support both old and new formats
+    answers: Optional[Dict[str, Any]] = None  # Old format: question_id -> answer
+    responses: Optional[List[QuestionResponse]] = None  # New format
+    
+    def get_responses(self) -> List[QuestionResponse]:
+        """Convert old format to new format if needed"""
+        if self.responses:
+            return self.responses
+        elif self.answers:
+            # Convert old format to new format
+            return [
+                QuestionResponse(
+                    question_id=question_id,
+                    response=str(answer),
+                    time_spent=None,
+                    confidence_level=None,
+                    flagged_for_review=False
+                )
+                for question_id, answer in self.answers.items()
+            ]
+        else:
+            return []
 
 class AttemptResponse(BaseModel):
     id: str
@@ -329,6 +350,7 @@ async def start_quiz_attempt(
             quiz_id=quiz_id,
             student_id=current_user['id'],
             attempt_number=existing_attempts + 1,
+            answers={},  # Empty dict for backward compatibility
             total_marks=quiz.total_marks,
             started_at=get_india_time(),
             status='in_progress'
@@ -466,7 +488,8 @@ async def submit_quiz(
         questions_dict = {str(q.id): q for q in questions}
         
         # Create response lookup from submission
-        responses_dict = {resp.question_id: resp for resp in submission.responses}
+        responses_list = submission.get_responses()
+        responses_dict = {resp.question_id: resp for resp in responses_list}
         
         # Delete existing responses for this attempt (in case of resubmission)
         db.query(QuizResponse).filter(
