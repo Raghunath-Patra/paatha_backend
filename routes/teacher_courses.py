@@ -56,12 +56,12 @@ class StudentResponse(BaseModel):
 def check_teacher_permission(user: Dict):
     """Check if user is a teacher"""
     # Uncomment when role-based auth is implemented
-    # if user.get('role') != 'teacher':
-    #     raise HTTPException(
-    #         status_code=status.HTTP_403_FORBIDDEN,
-    #         detail="Only teachers can access this endpoint"
-    #     )
-    return True
+    if user.get('role') != 'teacher':
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Only teachers can access this endpoint"
+        )
+    # return True
 
 @router.post("/", response_model=CourseResponse)
 async def create_course(

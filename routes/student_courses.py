@@ -76,17 +76,15 @@ class QuizSummary(BaseModel):
 
 def check_student_permission(user: Dict):
     # 🚨 TEMPORARY DEBUG - See what user data looks like
-    logger.error(f"🔍 DEBUG - User data: {user}")
-    logger.error(f"🔍 DEBUG - User role: {user.get('role')}")
     
     # 🚨 TEMPORARY - Comment out the role check
-    # if user.get('role') != 'student':
-    #     raise HTTPException(
-    #         status_code=status.HTTP_403_FORBIDDEN,
-    #         detail="Only students can access this endpoint"
-    #     )
+    if user.get('role') != 'student':
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Only students can access this endpoint"
+        )
     
-    return True  # Allow everyone for debugging
+    # return True  # Allow everyone for debugging
 
 @router.post("/join", response_model=StudentCourseResponse)
 async def join_course(
