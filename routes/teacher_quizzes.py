@@ -1,4 +1,4 @@
-# backend/routes/teacher_quizzes.py
+# backend/routes/teacher_quizzes.py - FIXED VERSION with consistent datetime handling
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
@@ -8,12 +8,71 @@ from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
 from models import Quiz, QuizQuestion, QuizAttempt, Course, Question, User
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import logging
 
 router = APIRouter(prefix="/api/teacher/quizzes", tags=["teacher-quizzes"])
 
 logger = logging.getLogger(__name__)
+
+# FIXED: India timezone utilities
+def get_india_time():
+    """Get current datetime in India timezone (UTC+5:30)"""
+    utc_now = datetime.utcnow()
+    offset = timedelta(hours=5, minutes=30)
+    return utc_now + offset
+
+def get_india_date():
+    """Get current date in India timezone"""
+    return get_india_time().date()
+
+# FIXED: Consistent datetime parsing utility
+def parse_datetime_string(dt_string: str) -> datetime:
+    """
+    Parse datetime string consistently across the application.
+    Handles multiple formats:
+    - "2024-06-21T10:00" (datetime-local format from frontend)
+    - "2024-06-21T10:00:00Z" (ISO format with Z)
+    - "2024-06-21T10:00:00+00:00" (ISO format with timezone)
+    
+    All parsed datetimes are treated as India timezone (UTC+5:30)
+    """
+    if not dt_string:
+        return None
+    
+    try:
+        # Handle different formats
+        if dt_string.endswith('Z'):
+            # ISO format with Z - convert to India time
+            utc_dt = datetime.fromisoformat(dt_string.replace('Z', '+00:00'))
+            offset = timedelta(hours=5, minutes=30)
+            return utc_dt.replace(tzinfo=None) + offset
+        elif '+' in dt_string or dt_string.count('-') > 2:
+            # Already has timezone info - convert to India time
+            dt_with_tz = datetime.fromisoformat(dt_string)
+            utc_dt = dt_with_tz.astimezone(timezone.utc)
+            offset = timedelta(hours=5, minutes=30)
+            return utc_dt.replace(tzinfo=None) + offset
+        else:
+            # datetime-local format (no timezone) - assume India timezone
+            dt = datetime.fromisoformat(dt_string)
+            return dt  # Already in local timezone (India)
+    except ValueError as e:
+        logger.error(f"Error parsing datetime string '{dt_string}': {e}")
+        return None
+
+def ensure_india_timezone(dt):
+    """Ensure datetime is in India timezone"""
+    if dt is None:
+        return None
+    if dt.tzinfo is None:
+        # If naive, assume it's already in India timezone
+        return dt
+    else:
+        # Convert to India timezone
+        utc_dt = dt.astimezone(timezone.utc)
+        offset = timedelta(hours=5, minutes=30)
+        return utc_dt.replace(tzinfo=None) + offset
 
 # Pydantic models
 class QuizCreate(BaseModel):
@@ -148,13 +207,9 @@ async def create_quiz(
         # Verify course ownership
         course = verify_course_ownership(quiz_data.course_id, current_user['id'], db)
         
-        # Parse datetime strings
-        start_time = None
-        end_time = None
-        if quiz_data.start_time:
-            start_time = datetime.fromisoformat(quiz_data.start_time.replace('Z', '+00:00'))
-        if quiz_data.end_time:
-            end_time = datetime.fromisoformat(quiz_data.end_time.replace('Z', '+00:00'))
+        # FIXED: Parse datetime strings consistently
+        start_time = parse_datetime_string(quiz_data.start_time)
+        end_time = parse_datetime_string(quiz_data.end_time)
         
         # Create quiz
         new_quiz = Quiz(
@@ -384,15 +439,11 @@ async def update_quiz(
         # Update fields
         update_data = quiz_data.dict(exclude_unset=True)
         
-        # Handle datetime fields
-        if 'start_time' in update_data and update_data['start_time']:
-            update_data['start_time'] = datetime.fromisoformat(
-                update_data['start_time'].replace('Z', '+00:00')
-            )
-        if 'end_time' in update_data and update_data['end_time']:
-            update_data['end_time'] = datetime.fromisoformat(
-                update_data['end_time'].replace('Z', '+00:00')
-            )
+        # FIXED: Handle datetime fields consistently
+        if 'start_time' in update_data:
+            update_data['start_time'] = parse_datetime_string(update_data['start_time'])
+        if 'end_time' in update_data:
+            update_data['end_time'] = parse_datetime_string(update_data['end_time'])
         
         for field, value in update_data.items():
             setattr(quiz, field, value)
@@ -488,6 +539,7 @@ async def delete_quiz(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error deleting quiz: {str(e)}"
         )
+
 
 @router.get("/{quiz_id}/questions", response_model=List[QuestionResponse])
 async def get_quiz_questions(

@@ -8,11 +8,36 @@ from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
 from models import Course, CourseEnrollment, User, Quiz, QuizAttempt
+from datetime import datetime, timezone, timedelta
 import logging
 
 router = APIRouter(prefix="/api/student/courses", tags=["student-courses"])
 
 logger = logging.getLogger(__name__)
+
+# FIXED: India timezone utilities
+def get_india_time():
+    """Get current datetime in India timezone (UTC+5:30)"""
+    utc_now = datetime.utcnow()
+    offset = timedelta(hours=5, minutes=30)
+    return utc_now + offset
+
+def get_india_date():
+    """Get current date in India timezone"""
+    return get_india_time().date()
+
+def ensure_india_timezone(dt):
+    """Ensure datetime is in India timezone"""
+    if dt is None:
+        return None
+    if dt.tzinfo is None:
+        # If naive, assume it's already in India timezone
+        return dt
+    else:
+        # Convert to India timezone
+        utc_dt = dt.astimezone(timezone.utc)
+        offset = timedelta(hours=5, minutes=30)
+        return utc_dt.replace(tzinfo=None) + offset
 
 # Pydantic models
 class CourseJoinRequest(BaseModel):
@@ -330,13 +355,14 @@ async def get_course_quizzes(
                 else:
                     status_value = "in_progress"
             
-            # FIXED: Handle datetime comparison safely in Python
-            from datetime import datetime, timezone
-            now = datetime.now(timezone.utc)
+            # FIXED: Handle datetime comparison safely with India timezone
+            now = get_india_time()
+            start_time = ensure_india_timezone(quiz.start_time)
+            end_time = ensure_india_timezone(quiz.end_time)
             
-            if quiz.start_time and quiz.start_time.replace(tzinfo=timezone.utc) > now:
+            if start_time and start_time > now:
                 status_value = "not_started"
-            elif quiz.end_time and quiz.end_time.replace(tzinfo=timezone.utc) < now:
+            elif end_time and end_time < now:
                 status_value = "time_expired"
             
             results.append(QuizSummary(

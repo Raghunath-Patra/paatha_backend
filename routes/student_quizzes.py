@@ -8,7 +8,7 @@ from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
 from models import Quiz, QuizQuestion, QuizAttempt, CourseEnrollment, Question, User
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import json
 import logging
 
@@ -72,6 +72,31 @@ class AttemptResultResponse(BaseModel):
     questions_with_answers: List[Dict[str, Any]]
     summary: Dict[str, Any]
 
+# FIXED: India timezone utilities
+def get_india_time():
+    """Get current datetime in India timezone (UTC+5:30)"""
+    utc_now = datetime.utcnow()
+    offset = timedelta(hours=5, minutes=30)
+    return utc_now + offset
+
+def get_india_date():
+    """Get current date in India timezone"""
+    return get_india_time().date()
+
+def ensure_india_timezone(dt):
+    """Ensure datetime is in India timezone"""
+    if dt is None:
+        return None
+    if dt.tzinfo is None:
+        # If naive, assume it's already in India timezone
+        return dt
+    else:
+        # Convert to India timezone
+        utc_dt = dt.astimezone(timezone.utc)
+        offset = timedelta(hours=5, minutes=30)
+        return utc_dt.replace(tzinfo=None) + offset
+
+
 def check_student_permission(user: Dict):
     """Check if user is a student"""
     if user.get('role') != 'student':
@@ -96,17 +121,6 @@ def verify_enrollment(course_id: str, student_id: str, db: Session):
     
     return enrollment
 
-def get_timezone_aware_now():
-    """Get current datetime in UTC timezone"""
-    return datetime.now(timezone.utc)
-
-def ensure_timezone_aware(dt):
-    """Ensure datetime is timezone-aware"""
-    if dt is None:
-        return None
-    if dt.tzinfo is None:
-        return dt.replace(tzinfo=timezone.utc)
-    return dt
 
 @router.get("/{quiz_id}", response_model=QuizDetailResponse)
 async def get_quiz_details(
@@ -155,7 +169,7 @@ async def get_quiz_details(
         
         best_score = float(best_score_result) if best_score_result else None
         
-        # FIXED: Check if student can attempt with proper timezone handling
+        # FIXED: Check if student can attempt with proper India timezone handling
         can_attempt = True
         time_remaining = None
         
@@ -163,10 +177,10 @@ async def get_quiz_details(
         if my_attempts >= quiz_result.attempts_allowed:
             can_attempt = False
         
-        # FIXED: Check time constraints with timezone-aware comparisons
-        now = get_timezone_aware_now()
-        start_time = ensure_timezone_aware(quiz_result.start_time)
-        end_time = ensure_timezone_aware(quiz_result.end_time)
+        # FIXED: Check time constraints with India timezone comparisons
+        now = get_india_time()
+        start_time = ensure_india_timezone(quiz_result.start_time)
+        end_time = ensure_india_timezone(quiz_result.end_time)
         
         if start_time and now < start_time:
             can_attempt = False
@@ -243,10 +257,10 @@ async def start_quiz_attempt(
                 detail="You have reached the maximum number of attempts for this quiz"
             )
         
-        # FIXED: Check time constraints with proper timezone handling
-        now = get_timezone_aware_now()
-        start_time = ensure_timezone_aware(quiz.start_time)
-        end_time = ensure_timezone_aware(quiz.end_time)
+        # FIXED: Check time constraints with proper India timezone handling
+        now = get_india_time()
+        start_time = ensure_india_timezone(quiz.start_time)
+        end_time = ensure_india_timezone(quiz.end_time)
         
         if start_time and now < start_time:
             raise HTTPException(
@@ -293,7 +307,7 @@ async def start_quiz_attempt(
             attempt_number=existing_attempts + 1,
             answers={},
             total_marks=quiz.total_marks,
-            started_at=get_timezone_aware_now(),
+            started_at=get_india_time(),
             status='in_progress'
         )
         
@@ -471,18 +485,18 @@ async def submit_quiz(
         # Calculate percentage
         percentage = (total_score / max_possible_score * 100) if max_possible_score > 0 else 0
         
-        # FIXED: Calculate time taken with timezone-aware datetime
+        # FIXED: Calculate time taken with India timezone datetime
         time_taken = None
         if attempt.started_at:
-            started_at = ensure_timezone_aware(attempt.started_at)
-            now = get_timezone_aware_now()
+            started_at = ensure_india_timezone(attempt.started_at)
+            now = get_india_time()
             time_taken = int((now - started_at).total_seconds() / 60)
         
         # Update attempt
         attempt.answers = submission.answers
         attempt.obtained_marks = total_score
         attempt.percentage = percentage
-        attempt.submitted_at = get_timezone_aware_now()
+        attempt.submitted_at = get_india_time()
         attempt.time_taken = time_taken
         attempt.status = 'completed'
         attempt.is_auto_graded = quiz.auto_grade if quiz else True
