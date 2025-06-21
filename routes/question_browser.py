@@ -2,7 +2,7 @@
 
 from fastapi import APIRouter, Depends, HTTPException, status, Query
 from sqlalchemy.orm import Session
-from sqlalchemy import text, func, or_
+from sqlalchemy import Tuple, text, func, or_
 from typing import List, Dict, Optional
 from pydantic import BaseModel
 from config.database import get_db
@@ -47,11 +47,91 @@ def check_teacher_permission(user: Dict):
             detail="Only teachers can access this endpoint"
         )
 
-def get_subject_mapping(board: str, class_: str, subject: str):
-    """Get actual board/class/subject to use, considering shared subjects"""
-    # This function should match the one in main.py
-    # For now, return the original values - you can enhance this later
-    return board.lower(), class_.lower(), subject.lower()
+def get_subject_mapping(board: str, class_: str, subject: str) -> Tuple[str, str, str]:
+    """Get actual board/class/subject to use, considering shared subjects and handling code/display name variations"""
+    try:
+        from config.subjects import SUBJECT_CONFIG, SubjectType
+        
+        print(f"Original subject mapping request: {board}/{class_}/{subject}")
+        
+        # Try exact lookup from SUBJECT_CONFIG first
+        if board in SUBJECT_CONFIG:
+            board_config = SUBJECT_CONFIG[board]
+            if class_ in board_config.classes:
+                class_config = board_config.classes[class_]
+                
+                # First try code match
+                subject_obj = next(
+                    (s for s in class_config.subjects if s.code.lower() == subject.lower()),
+                    None
+                )
+                
+                # Then try name match with different formats
+                if not subject_obj:
+                    normalized_subject = subject.lower().replace('-', ' ').replace('_', ' ')
+                    subject_obj = next(
+                        (s for s in class_config.subjects if 
+                         s.name.lower() == normalized_subject or
+                         s.name.lower().replace(' ', '-') == subject.lower() or 
+                         s.name.lower().replace(' ', '_') == subject.lower()),
+                        None
+                    )
+                
+                if subject_obj and subject_obj.type == SubjectType.SHARED and subject_obj.shared_mapping:
+                    mapping = subject_obj.shared_mapping
+                    print(f"Found SHARED mapping in config: {mapping.source_board}/{mapping.source_class}/{mapping.source_subject}")
+                    return mapping.source_board, mapping.source_class, mapping.source_subject
+        
+        # If not found in config, check database
+        try:
+            from sqlalchemy import text
+            from config.database import SessionLocal
+            
+            db = SessionLocal()
+            try:
+                query = text("""
+                    SELECT s.source_board, s.source_class, s.source_subject 
+                    FROM subjects s
+                    JOIN class_levels cl ON s.class_level_id = cl.id
+                    JOIN boards b ON cl.board_id = b.id
+                    WHERE b.code = :board 
+                      AND cl.code = :class
+                      AND (s.code = :subject OR s.display_name = :subject_name)
+                      AND s.type = 'SHARED'
+                      AND s.source_board IS NOT NULL
+                """)
+                
+                normalized_subject_name = subject.replace('-', ' ').replace('_', ' ')
+                result = db.execute(query, {
+                    "board": board,
+                    "class": class_,
+                    "subject": subject,
+                    "subject_name": normalized_subject_name
+                }).fetchone()
+                
+                if result:
+                    print(f"Found SHARED mapping in database: {result.source_board}/{result.source_class}/{result.source_subject}")
+                    return result.source_board, result.source_class, result.source_subject
+            finally:
+                db.close()
+        except Exception as db_err:
+            print(f"Database lookup error: {str(db_err)}")
+        
+        # If no mapping found, return the original values
+        print(f"No mapping found, using original: {board}/{class_}/{subject}")
+        return board, class_, subject
+            
+    except Exception as e:
+        print(f"Error in get_subject_mapping: {str(e)}")
+        import traceback
+        print(traceback.format_exc())
+        return board, class_, subject
+
+# def get_subject_mapping(board: str, class_: str, subject: str):
+#     """Get actual board/class/subject to use, considering shared subjects"""
+#     # This function should match the one in main.py
+#     # For now, return the original values - you can enhance this later
+#     return board.lower(), class_.lower(), subject.lower()
 
 @router.get("/{board}/{class_level}/{subject}", response_model=QuestionBrowseResult)
 async def browse_questions(
