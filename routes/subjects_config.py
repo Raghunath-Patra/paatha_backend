@@ -35,7 +35,7 @@ class SubjectsConfigResponse(BaseModel):
 
 # If adding to main.py, use @app.get
 # If using separate file, use @router.get
-@router.get("/api/subjects-config", response_model=SubjectsConfigResponse)
+@router.get("/subjects-config", response_model=SubjectsConfigResponse)
 async def get_subjects_configuration(
     current_user: Dict = Depends(get_current_user)
 ):
@@ -95,7 +95,7 @@ async def get_subjects_configuration(
         )
 
 # Additional endpoint for just getting available subjects for a specific board/class
-@router.get("/api/subjects/{board}/{class_level}")
+@router.get("/subjects/{board}/{class_level}")
 async def get_subjects_for_class(
     board: str,
     class_level: str,
@@ -162,7 +162,7 @@ async def get_subjects_for_class(
         )
 
 # Endpoint to get just the boards (simpler version)
-@router.get("/api/boards-simple")
+@router.get("/boards-simple")
 async def get_boards_simple(
     current_user: Dict = Depends(get_current_user)
 ):
@@ -186,7 +186,7 @@ async def get_boards_simple(
         )
 
 # Endpoint to get classes for a specific board
-@router.get("/api/classes/{board}")
+@router.get("/classes/{board}")
 async def get_classes_for_board(
     board: str,
     current_user: Dict = Depends(get_current_user)
