@@ -1,4 +1,4 @@
-# backend/routes/student_quizzes.py - FIXED VERSION
+# backend/routes/student_quizzes.py - Updated to use QuizResponse table
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
@@ -7,7 +7,7 @@ from typing import List, Dict, Optional, Any
 from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
-from models import Quiz, QuizQuestion, QuizAttempt, CourseEnrollment, Question, User
+from models import Quiz, QuizQuestion, QuizAttempt, QuizResponse, CourseEnrollment, Question, User
 from datetime import datetime, timezone, timedelta
 import json
 import logging
@@ -48,8 +48,15 @@ class QuizQuestionResponse(BaseModel):
 class QuizAttemptCreate(BaseModel):
     quiz_id: str
 
+class QuestionResponse(BaseModel):
+    question_id: str
+    response: str
+    time_spent: Optional[int] = None
+    confidence_level: Optional[int] = None
+    flagged_for_review: Optional[bool] = False
+
 class QuizSubmission(BaseModel):
-    answers: Dict[str, Any]  # question_id -> answer
+    responses: List[QuestionResponse]  # Changed from Dict to List of QuestionResponse
 
 class AttemptResponse(BaseModel):
     id: str
@@ -65,7 +72,7 @@ class AttemptResponse(BaseModel):
     status: str
     is_auto_graded: bool
     teacher_reviewed: bool
-    answers: Optional[Dict[str, Any]]
+    responses: Optional[List[Dict[str, Any]]] = None  # Changed from answers to responses
 
 class AttemptResultResponse(BaseModel):
     attempt: AttemptResponse
@@ -96,7 +103,6 @@ def ensure_india_timezone(dt):
         offset = timedelta(hours=5, minutes=30)
         return utc_dt.replace(tzinfo=None) + offset
 
-
 def check_student_permission(user: Dict):
     """Check if user is a student"""
     if user.get('role') != 'student':
@@ -121,6 +127,24 @@ def verify_enrollment(course_id: str, student_id: str, db: Session):
     
     return enrollment
 
+def format_attempt_response(attempt, quiz_title: str, responses: List = None):
+    """Helper function to format attempt response"""
+    return AttemptResponse(
+        id=str(attempt.id),
+        quiz_id=str(attempt.quiz_id),
+        quiz_title=quiz_title,
+        attempt_number=attempt.attempt_number,
+        obtained_marks=attempt.obtained_marks,
+        total_marks=attempt.total_marks,
+        percentage=attempt.percentage,
+        started_at=attempt.started_at.isoformat(),
+        submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
+        time_taken=attempt.time_taken,
+        status=attempt.status,
+        is_auto_graded=attempt.is_auto_graded,
+        teacher_reviewed=attempt.teacher_reviewed,
+        responses=responses
+    )
 
 @router.get("/{quiz_id}", response_model=QuizDetailResponse)
 async def get_quiz_details(
@@ -169,7 +193,7 @@ async def get_quiz_details(
         
         best_score = float(best_score_result) if best_score_result else None
         
-        # FIXED: Check if student can attempt with proper India timezone handling
+        # Check if student can attempt with proper India timezone handling
         can_attempt = True
         time_remaining = None
         
@@ -177,7 +201,7 @@ async def get_quiz_details(
         if my_attempts >= quiz_result.attempts_allowed:
             can_attempt = False
         
-        # FIXED: Check time constraints with India timezone comparisons
+        # Check time constraints with India timezone comparisons
         now = get_india_time()
         start_time = ensure_india_timezone(quiz_result.start_time)
         end_time = ensure_india_timezone(quiz_result.end_time)
@@ -257,7 +281,7 @@ async def start_quiz_attempt(
                 detail="You have reached the maximum number of attempts for this quiz"
             )
         
-        # FIXED: Check time constraints with proper India timezone handling
+        # Check time constraints with proper India timezone handling
         now = get_india_time()
         start_time = ensure_india_timezone(quiz.start_time)
         end_time = ensure_india_timezone(quiz.end_time)
@@ -282,30 +306,29 @@ async def start_quiz_attempt(
         ).first()
         
         if existing_in_progress:
-            # Return existing attempt
-            return AttemptResponse(
-                id=str(existing_in_progress.id),
-                quiz_id=str(existing_in_progress.quiz_id),
-                quiz_title=quiz.title,
-                attempt_number=existing_in_progress.attempt_number,
-                obtained_marks=existing_in_progress.obtained_marks,
-                total_marks=existing_in_progress.total_marks,
-                percentage=existing_in_progress.percentage,
-                started_at=existing_in_progress.started_at.isoformat(),
-                submitted_at=existing_in_progress.submitted_at.isoformat() if existing_in_progress.submitted_at else None,
-                time_taken=existing_in_progress.time_taken,
-                status=existing_in_progress.status,
-                is_auto_graded=existing_in_progress.is_auto_graded,
-                teacher_reviewed=existing_in_progress.teacher_reviewed,
-                answers=existing_in_progress.answers
-            )
+            # Get existing responses for this attempt
+            existing_responses = db.query(QuizResponse).filter(
+                QuizResponse.attempt_id == existing_in_progress.id
+            ).all()
+            
+            responses_data = [
+                {
+                    "question_id": str(resp.question_id),
+                    "response": resp.response,
+                    "time_spent": resp.time_spent,
+                    "confidence_level": resp.confidence_level,
+                    "flagged_for_review": resp.flagged_for_review
+                }
+                for resp in existing_responses
+            ]
+            
+            return format_attempt_response(existing_in_progress, quiz.title, responses_data)
         
         # Create new attempt
         new_attempt = QuizAttempt(
             quiz_id=quiz_id,
             student_id=current_user['id'],
             attempt_number=existing_attempts + 1,
-            answers={},
             total_marks=quiz.total_marks,
             started_at=get_india_time(),
             status='in_progress'
@@ -315,22 +338,7 @@ async def start_quiz_attempt(
         db.commit()
         db.refresh(new_attempt)
         
-        return AttemptResponse(
-            id=str(new_attempt.id),
-            quiz_id=str(new_attempt.quiz_id),
-            quiz_title=quiz.title,
-            attempt_number=new_attempt.attempt_number,
-            obtained_marks=new_attempt.obtained_marks,
-            total_marks=new_attempt.total_marks,
-            percentage=new_attempt.percentage,
-            started_at=new_attempt.started_at.isoformat(),
-            submitted_at=new_attempt.submitted_at.isoformat() if new_attempt.submitted_at else None,
-            time_taken=new_attempt.time_taken,
-            status=new_attempt.status,
-            is_auto_graded=new_attempt.is_auto_graded,
-            teacher_reviewed=new_attempt.teacher_reviewed,
-            answers=new_attempt.answers
-        )
+        return format_attempt_response(new_attempt, quiz.title, [])
         
     except HTTPException as he:
         raise he
@@ -414,7 +422,7 @@ async def submit_quiz(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Submit quiz answers"""
+    """Submit quiz answers using QuizResponse table"""
     try:
         check_student_permission(current_user)
         
@@ -455,15 +463,28 @@ async def submit_quiz(
         """)
         
         questions = db.execute(query, {"quiz_id": quiz_id}).fetchall()
+        questions_dict = {str(q.id): q for q in questions}
         
-        # Grade the quiz (simple auto-grading)
+        # Create response lookup from submission
+        responses_dict = {resp.question_id: resp for resp in submission.responses}
+        
+        # Delete existing responses for this attempt (in case of resubmission)
+        db.query(QuizResponse).filter(
+            QuizResponse.attempt_id == attempt.id
+        ).delete()
+        
+        # Grade the quiz and create QuizResponse records
         total_score = 0
         max_possible_score = 0
         questions_with_answers = []
         
         for question in questions:
             max_possible_score += question.marks
-            student_answer = submission.answers.get(str(question.id), "")
+            question_id = str(question.id)
+            
+            # Get student response
+            student_response = responses_dict.get(question_id)
+            student_answer = student_response.response if student_response else ""
             correct_answer = question.correct_answer
             
             # Simple grading logic (can be enhanced)
@@ -477,8 +498,25 @@ async def submit_quiz(
             score = question.marks if is_correct else 0
             total_score += score
             
+            # Create QuizResponse record
+            quiz_response = QuizResponse(
+                quiz_id=quiz_id,
+                student_id=current_user['id'],
+                question_id=question.id,
+                attempt_id=attempt.id,
+                response=student_answer,
+                score=score,
+                is_correct=is_correct,
+                time_spent=student_response.time_spent if student_response else None,
+                confidence_level=student_response.confidence_level if student_response else None,
+                flagged_for_review=student_response.flagged_for_review if student_response else False,
+                answered_at=get_india_time()
+            )
+            
+            db.add(quiz_response)
+            
             questions_with_answers.append({
-                "question_id": str(question.id),
+                "question_id": question_id,
                 "question_text": question.question_text,
                 "question_type": question.question_type,
                 "options": question.options,
@@ -487,13 +525,16 @@ async def submit_quiz(
                 "explanation": question.explanation,
                 "marks": question.marks,
                 "score": score,
-                "is_correct": is_correct
+                "is_correct": is_correct,
+                "time_spent": student_response.time_spent if student_response else None,
+                "confidence_level": student_response.confidence_level if student_response else None,
+                "flagged_for_review": student_response.flagged_for_review if student_response else False
             })
         
         # Calculate percentage
         percentage = (total_score / max_possible_score * 100) if max_possible_score > 0 else 0
         
-        # FIXED: Calculate time taken with India timezone datetime
+        # Calculate time taken with India timezone datetime
         time_taken = None
         if attempt.started_at:
             started_at = ensure_india_timezone(attempt.started_at)
@@ -501,7 +542,6 @@ async def submit_quiz(
             time_taken = int((now - started_at).total_seconds() / 60)
         
         # Update attempt
-        attempt.answers = submission.answers
         attempt.obtained_marks = total_score
         attempt.percentage = percentage
         attempt.submitted_at = get_india_time()
@@ -531,23 +571,22 @@ async def submit_quiz(
             enrollment.average_score = float(avg_score) if avg_score else 0
             db.commit()
         
+        # Get all responses for the response data
+        responses_data = [
+            {
+                "question_id": qa["question_id"],
+                "response": qa["student_answer"],
+                "score": qa["score"],
+                "is_correct": qa["is_correct"],
+                "time_spent": qa["time_spent"],
+                "confidence_level": qa["confidence_level"],
+                "flagged_for_review": qa["flagged_for_review"]
+            }
+            for qa in questions_with_answers
+        ]
+        
         # Prepare response
-        attempt_response = AttemptResponse(
-            id=str(attempt.id),
-            quiz_id=str(attempt.quiz_id),
-            quiz_title=quiz.title,
-            attempt_number=attempt.attempt_number,
-            obtained_marks=attempt.obtained_marks,
-            total_marks=attempt.total_marks,
-            percentage=attempt.percentage,
-            started_at=attempt.started_at.isoformat(),
-            submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
-            time_taken=attempt.time_taken,
-            status=attempt.status,
-            is_auto_graded=attempt.is_auto_graded,
-            teacher_reviewed=attempt.teacher_reviewed,
-            answers=attempt.answers
-        )
+        attempt_response = format_attempt_response(attempt, quiz.title, responses_data)
         
         summary = {
             "total_questions": len(questions),
@@ -585,37 +624,35 @@ async def get_my_attempts(
         check_student_permission(current_user)
         
         # Get attempts with quiz info
-        query = text("""
-            SELECT 
-                qa.*,
-                q.title as quiz_title
-            FROM quiz_attempts qa
-            JOIN quizzes q ON qa.quiz_id = q.id
-            WHERE qa.student_id = :student_id
-            ORDER BY qa.started_at DESC
-        """)
+        attempts = db.query(QuizAttempt, Quiz.title).join(
+            Quiz, QuizAttempt.quiz_id == Quiz.id
+        ).filter(
+            QuizAttempt.student_id == current_user['id']
+        ).order_by(QuizAttempt.started_at.desc()).all()
         
-        attempts = db.execute(query, {"student_id": current_user['id']}).fetchall()
+        result = []
+        for attempt, quiz_title in attempts:
+            # Get responses for each attempt
+            responses = db.query(QuizResponse).filter(
+                QuizResponse.attempt_id == attempt.id
+            ).all()
+            
+            responses_data = [
+                {
+                    "question_id": str(resp.question_id),
+                    "response": resp.response,
+                    "score": resp.score,
+                    "is_correct": resp.is_correct,
+                    "time_spent": resp.time_spent,
+                    "confidence_level": resp.confidence_level,
+                    "flagged_for_review": resp.flagged_for_review
+                }
+                for resp in responses
+            ]
+            
+            result.append(format_attempt_response(attempt, quiz_title, responses_data))
         
-        return [
-            AttemptResponse(
-                id=str(attempt.id),
-                quiz_id=str(attempt.quiz_id),
-                quiz_title=attempt.quiz_title,
-                attempt_number=attempt.attempt_number,
-                obtained_marks=attempt.obtained_marks,
-                total_marks=attempt.total_marks,
-                percentage=attempt.percentage,
-                started_at=attempt.started_at.isoformat(),
-                submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
-                time_taken=attempt.time_taken,
-                status=attempt.status,
-                is_auto_graded=attempt.is_auto_graded,
-                teacher_reviewed=attempt.teacher_reviewed,
-                answers=attempt.answers
-            )
-            for attempt in attempts
-        ]
+        return result
         
     except HTTPException as he:
         raise he
@@ -632,7 +669,7 @@ async def get_attempt_results(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get detailed results for a specific attempt"""
+    """Get detailed results for a specific attempt using QuizResponse table"""
     try:
         check_student_permission(current_user)
         
@@ -651,10 +688,10 @@ async def get_attempt_results(
         # Get quiz
         quiz = db.query(Quiz).filter(Quiz.id == attempt.quiz_id).first()
         
-        # Get questions with answers
+        # Get responses with question details
         query = text("""
             SELECT 
-                qq.id,
+                qr.*,
                 qq.marks,
                 COALESCE(q.correct_answer, qq.custom_correct_answer) as correct_answer,
                 COALESCE(q.question_text, qq.custom_question_text) as question_text,
@@ -664,58 +701,58 @@ async def get_attempt_results(
                     WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
                     ELSE NULL
                 END as options,
-                COALESCE(q.explanation, qq.custom_explanation) as explanation
-            FROM quiz_questions qq
+                COALESCE(q.explanation, qq.custom_explanation) as explanation,
+                qq.order_index
+            FROM quiz_responses qr
+            JOIN quiz_questions qq ON qr.question_id = qq.id
             LEFT JOIN questions q ON qq.ai_question_id = q.id
-            WHERE qq.quiz_id = :quiz_id
+            WHERE qr.attempt_id = :attempt_id
             ORDER BY qq.order_index
         """)
         
-        questions = db.execute(query, {"quiz_id": attempt.quiz_id}).fetchall()
+        responses_with_questions = db.execute(query, {"attempt_id": attempt_id}).fetchall()
         
         questions_with_answers = []
         correct_count = 0
         
-        for question in questions:
-            student_answer = attempt.answers.get(str(question.id), "") if attempt.answers else ""
-            
-            # Determine if correct (simplified logic)
-            is_correct = str(student_answer).strip().lower() == str(question.correct_answer).strip().lower()
-            if is_correct:
+        for resp in responses_with_questions:
+            if resp.is_correct:
                 correct_count += 1
             
             questions_with_answers.append({
-                "question_id": str(question.id),
-                "question_text": question.question_text,
-                "question_type": question.question_type,
-                "options": question.options,
-                "student_answer": student_answer,
-                "correct_answer": question.correct_answer,
-                "explanation": question.explanation,
-                "marks": question.marks,
-                "score": question.marks if is_correct else 0,
-                "is_correct": is_correct
+                "question_id": str(resp.question_id),
+                "question_text": resp.question_text,
+                "question_type": resp.question_type,
+                "options": resp.options,
+                "student_answer": resp.response,
+                "correct_answer": resp.correct_answer,
+                "explanation": resp.explanation,
+                "marks": resp.marks,
+                "score": resp.score,
+                "is_correct": resp.is_correct,
+                "time_spent": resp.time_spent,
+                "confidence_level": resp.confidence_level,
+                "flagged_for_review": resp.flagged_for_review
             })
         
-        attempt_response = AttemptResponse(
-            id=str(attempt.id),
-            quiz_id=str(attempt.quiz_id),
-            quiz_title=quiz.title,
-            attempt_number=attempt.attempt_number,
-            obtained_marks=attempt.obtained_marks,
-            total_marks=attempt.total_marks,
-            percentage=attempt.percentage,
-            started_at=attempt.started_at.isoformat(),
-            submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
-            time_taken=attempt.time_taken,
-            status=attempt.status,
-            is_auto_graded=attempt.is_auto_graded,
-            teacher_reviewed=attempt.teacher_reviewed,
-            answers=attempt.answers
-        )
+        # Get all responses for the attempt response
+        responses_data = [
+            {
+                "question_id": str(resp.question_id),
+                "response": resp.response,
+                "score": resp.score,
+                "is_correct": resp.is_correct,
+                "time_spent": resp.time_spent,
+                "confidence_level": resp.confidence_level,
+                "flagged_for_review": resp.flagged_for_review
+            }
+            for resp in responses_with_questions
+        ]
+        
+        attempt_response = format_attempt_response(attempt, quiz.title, responses_data)
         
         summary = {
-            "total_questions": len(questions),
+            "total_questions": len(responses_with_questions),
             "correct_answers": correct_count,
             "total_marks": attempt.total_marks,
             "obtained_marks": attempt.obtained_marks,
@@ -737,4 +774,71 @@ async def get_attempt_results(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error getting attempt results: {str(e)}"
+        )
+
+# Additional endpoint for saving partial responses (useful for auto-save functionality)
+@router.post("/{quiz_id}/save-response")
+async def save_partial_response(
+    quiz_id: str,
+    response: QuestionResponse,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Save a single question response (for auto-save functionality)"""
+    try:
+        check_student_permission(current_user)
+        
+        # Get active attempt
+        attempt = db.query(QuizAttempt).filter(
+            QuizAttempt.quiz_id == quiz_id,
+            QuizAttempt.student_id == current_user['id'],
+            QuizAttempt.status == 'in_progress'
+        ).first()
+        
+        if not attempt:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="No active attempt found"
+            )
+        
+        # Check if response already exists
+        existing_response = db.query(QuizResponse).filter(
+            QuizResponse.attempt_id == attempt.id,
+            QuizResponse.question_id == response.question_id
+        ).first()
+        
+        if existing_response:
+            # Update existing response
+            existing_response.response = response.response
+            existing_response.time_spent = response.time_spent
+            existing_response.confidence_level = response.confidence_level
+            existing_response.flagged_for_review = response.flagged_for_review
+            existing_response.updated_at = get_india_time()
+        else:
+            # Create new response
+            new_response = QuizResponse(
+                quiz_id=quiz_id,
+                student_id=current_user['id'],
+                question_id=response.question_id,
+                attempt_id=attempt.id,
+                response=response.response,
+                time_spent=response.time_spent,
+                confidence_level=response.confidence_level,
+                flagged_for_review=response.flagged_for_review,
+                answered_at=get_india_time()
+            )
+            db.add(new_response)
+        
+        db.commit()
+        
+        return {"message": "Response saved successfully"}
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error saving partial response: {str(e)}")
+        db.rollback()
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error saving partial response: {str(e)}"
         )

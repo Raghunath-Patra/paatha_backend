@@ -484,6 +484,55 @@ class PromoCodeRedemption(Base):
         Index('idx_promo_redemptions_paid', 'is_paid'),
     )
 
+# Add this new model to your models.py file
+
+class QuizResponse(Base):
+    __tablename__ = "quiz_responses"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    quiz_id = Column(UUID(as_uuid=True), ForeignKey("quizzes.id", ondelete="CASCADE"), nullable=False)
+    student_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    question_id = Column(UUID(as_uuid=True), ForeignKey("quiz_questions.id", ondelete="CASCADE"), nullable=False)
+    attempt_id = Column(UUID(as_uuid=True), ForeignKey("quiz_attempts.id", ondelete="CASCADE"), nullable=False)
+    
+    # Response data
+    response = Column(Text, nullable=True)  # Student's answer
+    score = Column(Float, default=0.0)  # Score for this specific question
+    is_correct = Column(Boolean, nullable=True)  # Whether the answer is correct
+    
+    # Metadata
+    time_spent = Column(Integer, nullable=True)  # Seconds spent on this question
+    confidence_level = Column(Integer, nullable=True)  # 1-5 scale of student confidence
+    flagged_for_review = Column(Boolean, default=False)  # If student flagged this question
+    
+    # Timestamps
+    answered_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    
+    # Indexes and constraints
+    __table_args__ = (
+        Index('idx_quiz_responses_quiz', 'quiz_id'),
+        Index('idx_quiz_responses_student', 'student_id'),
+        Index('idx_quiz_responses_question', 'question_id'),
+        Index('idx_quiz_responses_attempt', 'attempt_id'),
+        Index('idx_quiz_responses_quiz_student_question', 'quiz_id', 'student_id', 'question_id'),
+        UniqueConstraint('attempt_id', 'question_id', name='unique_attempt_question'),
+    )
+
+# Update QuizAttempt model - remove the answers JSON field since we'll use QuizResponse
+# In your existing QuizAttempt model, you can remove or keep the answers field for backward compatibility
+# If keeping for backward compatibility, add a comment that it's deprecated
+
+# Add relationships after all classes are defined:
+Quiz.responses = relationship("QuizResponse", back_populates="quiz", cascade="all, delete-orphan")
+QuizQuestion.responses = relationship("QuizResponse", back_populates="question", cascade="all, delete-orphan")
+QuizAttempt.responses = relationship("QuizResponse", back_populates="attempt", cascade="all, delete-orphan")
+User.quiz_responses = relationship("QuizResponse", back_populates="student", cascade="all, delete-orphan")
+
+QuizResponse.quiz = relationship("Quiz", back_populates="responses")
+QuizResponse.student = relationship("User", back_populates="quiz_responses")
+QuizResponse.question = relationship("QuizQuestion", back_populates="responses")
+QuizResponse.attempt = relationship("QuizAttempt", back_populates="responses")
 
 # IMPORTANT: Add relationships AFTER all classes are defined to avoid circular imports
 # This prevents the recursion issue we were experiencing
