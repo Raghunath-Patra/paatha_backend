@@ -1,6 +1,6 @@
-# Add this to main.py or create a new routes/subjects_config.py file
+# routes/subjects_config.py - Fixed to match config/subjects.py structure
 
-from fastapi import APIRouter, Depends,  HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status
 from config.subjects import SUBJECT_CONFIG, SubjectType
 from config.security import get_current_user
 from typing import Dict, List, Optional
@@ -9,16 +9,16 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-# If creating a separate file, use this router
 router = APIRouter(prefix="/api", tags=["subjects-config"])
 
-# Pydantic models for response structure
+# Pydantic models for response structure (fixed to match actual Subject model)
 class SubjectInfo(BaseModel):
     code: str
-    name: str
-    display_name: str
-    type: str  # 'REGULAR' or 'SHARED'
+    name: str  # This IS the display name in the Subject model
+    type: str  # 'shared' or 'board_specific'
     shared_mapping: Optional[Dict[str, str]] = None
+    description: Optional[str] = None
+    icon: Optional[str] = None
 
 class ClassInfo(BaseModel):
     code: str
@@ -33,8 +33,6 @@ class BoardInfo(BaseModel):
 class SubjectsConfigResponse(BaseModel):
     boards: Dict[str, BoardInfo]
 
-# If adding to main.py, use @app.get
-# If using separate file, use @router.get
 @router.get("/subjects-config", response_model=SubjectsConfigResponse)
 async def get_subjects_configuration(
     current_user: Dict = Depends(get_current_user)
@@ -58,9 +56,10 @@ async def get_subjects_configuration(
                 for subject in class_config.subjects:
                     subject_info = SubjectInfo(
                         code=subject.code,
-                        name=subject.name,
-                        display_name=subject.display_name,
-                        type=subject.type.value if hasattr(subject.type, 'value') else str(subject.type)
+                        name=subject.name,  # name IS the display name
+                        type=subject.type.value,  # Convert enum to string
+                        description=subject.description,
+                        icon=subject.icon
                     )
                     
                     # Add shared mapping if it's a shared subject
@@ -94,7 +93,6 @@ async def get_subjects_configuration(
             detail=f"Error getting subjects configuration: {str(e)}"
         )
 
-# Additional endpoint for just getting available subjects for a specific board/class
 @router.get("/subjects/{board}/{class_level}")
 async def get_subjects_for_class(
     board: str,
@@ -126,9 +124,10 @@ async def get_subjects_for_class(
         for subject in class_config.subjects:
             subject_info = {
                 "code": subject.code,
-                "name": subject.name,
-                "display_name": subject.display_name,
-                "type": subject.type.value if hasattr(subject.type, 'value') else str(subject.type)
+                "name": subject.name,  # name IS the display name
+                "type": subject.type.value,
+                "description": subject.description,
+                "icon": subject.icon
             }
             
             if subject.type == SubjectType.SHARED and subject.shared_mapping:
@@ -161,7 +160,6 @@ async def get_subjects_for_class(
             detail=f"Error getting subjects: {str(e)}"
         )
 
-# Endpoint to get just the boards (simpler version)
 @router.get("/boards-simple")
 async def get_boards_simple(
     current_user: Dict = Depends(get_current_user)
@@ -185,7 +183,6 @@ async def get_boards_simple(
             detail=f"Error getting boards: {str(e)}"
         )
 
-# Endpoint to get classes for a specific board
 @router.get("/classes/{board}")
 async def get_classes_for_board(
     board: str,
@@ -226,4 +223,85 @@ async def get_classes_for_board(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error getting classes: {str(e)}"
+        )
+
+# Utility endpoint to resolve shared subject mappings
+@router.get("/subject-mapping/{board}/{class_level}/{subject_code}")
+async def get_subject_mapping(
+    board: str,
+    class_level: str,
+    subject_code: str,
+    current_user: Dict = Depends(get_current_user)
+):
+    """
+    Get the actual subject mapping for a given board/class/subject.
+    If it's a shared subject, returns the source mapping.
+    """
+    try:
+        board_lower = board.lower()
+        class_lower = class_level.lower()
+        
+        if board_lower not in SUBJECT_CONFIG:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail=f"Board '{board}' not found"
+            )
+        
+        board_config = SUBJECT_CONFIG[board_lower]
+        
+        if class_lower not in board_config.classes:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail=f"Class '{class_level}' not found for board '{board}'"
+            )
+        
+        class_config = board_config.classes[class_lower]
+        
+        # Find the subject
+        subject = None
+        for subj in class_config.subjects:
+            if subj.code == subject_code:
+                subject = subj
+                break
+        
+        if not subject:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail=f"Subject '{subject_code}' not found for {board}/{class_level}"
+            )
+        
+        # If it's a shared subject, return the mapping
+        if subject.type == SubjectType.SHARED and subject.shared_mapping:
+            return {
+                "subject": {
+                    "code": subject.code,
+                    "name": subject.name,
+                    "type": subject.type.value
+                },
+                "mapping": {
+                    "source_board": subject.shared_mapping.source_board,
+                    "source_class": subject.shared_mapping.source_class,
+                    "source_subject": subject.shared_mapping.source_subject
+                },
+                "actual_path": f"{subject.shared_mapping.source_board}/{subject.shared_mapping.source_class}/{subject.shared_mapping.source_subject}"
+            }
+        else:
+            # Board-specific subject
+            return {
+                "subject": {
+                    "code": subject.code,
+                    "name": subject.name,
+                    "type": subject.type.value
+                },
+                "mapping": None,
+                "actual_path": f"{board_lower}/{class_lower}/{subject_code}"
+            }
+            
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting subject mapping for {board}/{class_level}/{subject_code}: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error getting subject mapping: {str(e)}"
         )
