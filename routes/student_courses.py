@@ -1,4 +1,4 @@
-# backend/routes/student_courses.py
+# backend/routes/student_courses.py - FIXED VERSION
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
@@ -286,7 +286,7 @@ async def get_course_quizzes(
                 detail="You are not enrolled in this course"
             )
         
-        # Query quizzes with attempt statistics
+        # FIXED: Query quizzes with attempt statistics - removed problematic datetime comparison
         query = text("""
             SELECT 
                 q.id,
@@ -322,21 +322,22 @@ async def get_course_quizzes(
         
         results = []
         for quiz in quizzes:
-            # Determine quiz status
-            status = "not_started"
+            # FIXED: Determine quiz status in Python instead of SQL to avoid datetime issues
+            status_value = "not_started"
             if quiz.my_attempts > 0:
                 if quiz.my_attempts >= quiz.attempts_allowed:
-                    status = "completed"
+                    status_value = "completed"
                 else:
-                    status = "in_progress"
+                    status_value = "in_progress"
             
-            # Check time constraints
-            from datetime import datetime
-            now = datetime.utcnow()
-            if quiz.start_time and now < quiz.start_time:
-                status = "not_started"
-            elif quiz.end_time and now > quiz.end_time:
-                status = "time_expired"
+            # FIXED: Handle datetime comparison safely in Python
+            from datetime import datetime, timezone
+            now = datetime.now(timezone.utc)
+            
+            if quiz.start_time and quiz.start_time.replace(tzinfo=timezone.utc) > now:
+                status_value = "not_started"
+            elif quiz.end_time and quiz.end_time.replace(tzinfo=timezone.utc) < now:
+                status_value = "time_expired"
             
             results.append(QuizSummary(
                 id=str(quiz.id),
@@ -351,7 +352,7 @@ async def get_course_quizzes(
                 attempts_allowed=quiz.attempts_allowed,
                 my_attempts=quiz.my_attempts,
                 best_score=float(quiz.best_score) if quiz.best_score else None,
-                status=status
+                status=status_value
             ))
         
         return results
@@ -401,105 +402,4 @@ async def leave_course(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error leaving course: {str(e)}"
-        )
-
-# Add this endpoint to routes/student_courses.py
-
-@router.get("/{course_id}/quizzes", response_model=List[QuizSummary])
-async def get_course_quizzes(
-    course_id: str,
-    current_user: Dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Get all quizzes for a specific course that the student is enrolled in"""
-    try:
-        check_student_permission(current_user)
-        
-        # Verify student is enrolled in the course
-        enrollment = db.query(CourseEnrollment).filter(
-            CourseEnrollment.course_id == course_id,
-            CourseEnrollment.student_id == current_user['id'],
-            CourseEnrollment.status == 'active'
-        ).first()
-        
-        if not enrollment:
-            raise HTTPException(
-                status_code=status.HTTP_403_FORBIDDEN,
-                detail="You are not enrolled in this course"
-            )
-        
-        # Query quizzes with student's attempt information
-        query = text("""
-            SELECT 
-                q.id,
-                q.title,
-                q.description,
-                q.total_marks,
-                q.passing_marks,
-                q.time_limit,
-                q.is_published,
-                q.start_time,
-                q.end_time,
-                q.attempts_allowed,
-                COALESCE(attempt_count.attempts, 0) as my_attempts,
-                best_attempt.best_score,
-                CASE 
-                    WHEN q.is_published = false THEN 'not_published'
-                    WHEN COALESCE(attempt_count.attempts, 0) = 0 THEN 'not_started'
-                    WHEN COALESCE(attempt_count.attempts, 0) >= q.attempts_allowed THEN 'completed'
-                    WHEN q.end_time IS NOT NULL AND NOW() > q.end_time THEN 'time_expired'
-                    ELSE 'in_progress'
-                END as status
-            FROM quizzes q
-            LEFT JOIN (
-                SELECT 
-                    quiz_id,
-                    COUNT(*) as attempts
-                FROM quiz_attempts
-                WHERE student_id = :student_id
-                GROUP BY quiz_id
-            ) attempt_count ON q.id = attempt_count.quiz_id
-            LEFT JOIN (
-                SELECT 
-                    quiz_id,
-                    MAX(score) as best_score
-                FROM quiz_attempts
-                WHERE student_id = :student_id AND status = 'completed'
-                GROUP BY quiz_id
-            ) best_attempt ON q.id = best_attempt.quiz_id
-            WHERE q.course_id = :course_id
-            ORDER BY q.created_at DESC
-        """)
-        
-        quizzes = db.execute(query, {
-            "course_id": course_id,
-            "student_id": current_user['id']
-        }).fetchall()
-        
-        return [
-            QuizSummary(
-                id=str(quiz.id),
-                title=quiz.title,
-                description=quiz.description,
-                total_marks=quiz.total_marks,
-                passing_marks=quiz.passing_marks,
-                time_limit=quiz.time_limit,
-                is_published=quiz.is_published,
-                start_time=quiz.start_time.isoformat() if quiz.start_time else None,
-                end_time=quiz.end_time.isoformat() if quiz.end_time else None,
-                attempts_allowed=quiz.attempts_allowed,
-                my_attempts=quiz.my_attempts,
-                best_score=float(quiz.best_score) if quiz.best_score else None,
-                status=quiz.status
-            )
-            for quiz in quizzes
-        ]
-        
-    except HTTPException as he:
-        raise he
-    except Exception as e:
-        logger.error(f"Error fetching course quizzes: {str(e)}")
-        raise HTTPException(
-            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Error fetching course quizzes: {str(e)}"
         )
