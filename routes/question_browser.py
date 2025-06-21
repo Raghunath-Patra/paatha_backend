@@ -2,15 +2,15 @@
 
 from fastapi import APIRouter, Depends, HTTPException, status, Query
 from sqlalchemy.orm import Session
-from sqlalchemy import func, text, or_, and_
-from typing import List, Dict, Optional, Any
+from sqlalchemy import text, func, or_
+from typing import List, Dict, Optional
 from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
-from models import Question, QuestionSearchFilter
+from models import Question
 import logging
 
-router = APIRouter(prefix="/api/teacher/questions", tags=["question-browser"])
+router = APIRouter(prefix="/api/teacher/question-browser", tags=["question-browser"])
 
 logger = logging.getLogger(__name__)
 
@@ -25,59 +25,19 @@ class QuestionBrowseResponse(BaseModel):
     explanation: Optional[str]
     topic: Optional[str]
     bloom_level: Optional[str]
+    category: Optional[str]
     board: str
     class_level: str
     subject: str
-    chapter: int
-    category: str
-    human_readable_id: Optional[str]
-
-class QuestionFilters(BaseModel):
-    board: Optional[str] = None
-    class_level: Optional[str] = None
-    subject: Optional[str] = None
-    chapter: Optional[int] = None
-    difficulty: Optional[str] = None
-    question_type: Optional[str] = None
-    topic: Optional[str] = None
-    bloom_level: Optional[str] = None
-    category: Optional[str] = None
-    search_text: Optional[str] = None
-
-class SearchFilterCreate(BaseModel):
-    filter_name: str
-    board: Optional[str] = None
-    class_level: Optional[str] = None
-    subject: Optional[str] = None
-    chapter: Optional[int] = None
-    difficulty: Optional[str] = None
-    question_type: Optional[str] = None
-    topic: Optional[str] = None
-    bloom_level: Optional[str] = None
-    category: Optional[str] = None
-    is_default: bool = False
-
-class SearchFilterResponse(BaseModel):
-    id: str
-    filter_name: str
-    board: Optional[str]
-    class_level: Optional[str]
-    subject: Optional[str]
     chapter: Optional[int]
-    difficulty: Optional[str]
-    question_type: Optional[str]
-    topic: Optional[str]
-    bloom_level: Optional[str]
-    category: Optional[str]
-    is_default: bool
-    created_at: str
+    human_readable_id: Optional[str]
+    metadata: Optional[Dict]
 
-class QuestionStats(BaseModel):
-    total_questions: int
-    by_difficulty: Dict[str, int]
-    by_type: Dict[str, int]
-    by_category: Dict[str, int]
-    by_bloom_level: Dict[str, int]
+class QuestionBrowseResult(BaseModel):
+    questions: List[QuestionBrowseResponse]
+    total_count: int
+    filters_applied: Dict[str, str]
+    pagination: Dict[str, int]
 
 def check_teacher_permission(user: Dict):
     """Check if user is a teacher"""
@@ -87,69 +47,119 @@ def check_teacher_permission(user: Dict):
             detail="Only teachers can access this endpoint"
         )
 
-@router.get("/browse", response_model=List[QuestionBrowseResponse])
+def get_subject_mapping(board: str, class_: str, subject: str):
+    """Get actual board/class/subject to use, considering shared subjects"""
+    # This function should match the one in main.py
+    # For now, return the original values - you can enhance this later
+    return board.lower(), class_.lower(), subject.lower()
+
+@router.get("/{board}/{class_level}/{subject}", response_model=QuestionBrowseResult)
 async def browse_questions(
-    board: Optional[str] = Query(None),
-    class_level: Optional[str] = Query(None),
-    subject: Optional[str] = Query(None),
-    chapter: Optional[int] = Query(None),
-    difficulty: Optional[str] = Query(None),
-    question_type: Optional[str] = Query(None),
-    topic: Optional[str] = Query(None),
-    bloom_level: Optional[str] = Query(None),
-    category: Optional[str] = Query(None),
-    search_text: Optional[str] = Query(None),
-    page: int = Query(1, ge=1),
-    per_page: int = Query(20, ge=1, le=100),
+    board: str,
+    class_level: str,
+    subject: str,
+    # Query parameters for filtering
+    difficulty: Optional[str] = Query(None, description="Filter by difficulty: Easy, Medium, Hard"),
+    type: Optional[str] = Query(None, description="Filter by question type: MCQ, Short Answer, Long Answer"),
+    category: Optional[str] = Query(None, description="Filter by category: generated, in_chapter, exercise"),
+    chapter: Optional[int] = Query(None, description="Filter by chapter number"),
+    topic: Optional[str] = Query(None, description="Filter by topic"),
+    bloom_level: Optional[str] = Query(None, description="Filter by Bloom's taxonomy level"),
+    search: Optional[str] = Query(None, description="Search in question text"),
+    limit: Optional[int] = Query(50, ge=1, le=200, description="Number of questions to return"),
+    offset: Optional[int] = Query(0, ge=0, description="Number of questions to skip"),
+    # Authentication
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Browse AI-generated questions with filters and pagination"""
+    """
+    Browse questions available for adding to quizzes.
+    Supports filtering by difficulty, type, category, chapter, topic, etc.
+    """
     try:
         check_teacher_permission(current_user)
         
-        # Start with base query
-        query = db.query(Question)
+        # Map to actual board/class/subject (handle shared subjects)
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board, class_level, subject
+        )
+        
+        logger.info(f"Browsing questions for {actual_board}/{actual_class}/{actual_subject}")
+        
+        # Build base query
+        query = db.query(Question).filter(
+            Question.board == actual_board,
+            Question.class_level == actual_class,
+            Question.subject == actual_subject
+        )
         
         # Apply filters
-        if board:
-            query = query.filter(Question.board == board)
-        if class_level:
-            query = query.filter(Question.class_level == class_level)
-        if subject:
-            query = query.filter(Question.subject == subject)
-        if chapter is not None:
-            query = query.filter(Question.chapter == chapter)
+        filters_applied = {
+            "board": actual_board,
+            "class_level": actual_class,
+            "subject": actual_subject
+        }
+        
         if difficulty:
             query = query.filter(Question.difficulty == difficulty)
-        if question_type:
-            query = query.filter(Question.type == question_type)
-        if topic:
-            query = query.filter(Question.topic.ilike(f"%{topic}%"))
-        if bloom_level:
-            query = query.filter(Question.bloom_level == bloom_level)
+            filters_applied["difficulty"] = difficulty
+        
+        if type:
+            query = query.filter(Question.type == type)
+            filters_applied["type"] = type
+        
         if category:
             query = query.filter(Question.category == category)
-        if search_text:
+            filters_applied["category"] = category
+        
+        if chapter:
+            # Handle both base chapter and extended chapter formats
+            base_chapter = chapter
+            extended_chapter = 100 + chapter
             query = query.filter(
                 or_(
-                    Question.question_text.ilike(f"%{search_text}%"),
-                    Question.topic.ilike(f"%{search_text}%"),
-                    Question.explanation.ilike(f"%{search_text}%")
+                    Question.chapter == base_chapter,
+                    Question.chapter == extended_chapter
                 )
             )
+            filters_applied["chapter"] = str(chapter)
         
-        # Get total count for pagination
+        if topic:
+            query = query.filter(Question.topic.ilike(f"%{topic}%"))
+            filters_applied["topic"] = topic
+        
+        if bloom_level:
+            query = query.filter(Question.bloom_level == bloom_level)
+            filters_applied["bloom_level"] = bloom_level
+        
+        if search:
+            query = query.filter(Question.question_text.ilike(f"%{search}%"))
+            filters_applied["search"] = search
+        
+        # Get total count before pagination
         total_count = query.count()
         
-        # Apply pagination
-        offset = (page - 1) * per_page
-        questions = query.offset(offset).limit(per_page).all()
+        # Apply pagination and ordering
+        questions = query.order_by(
+            Question.difficulty,
+            Question.chapter,
+            Question.human_readable_id
+        ).offset(offset).limit(limit).all()
         
-        # Convert to response format
-        results = []
+        # Format response
+        question_responses = []
         for q in questions:
-            results.append(QuestionBrowseResponse(
+            # Parse category from human_readable_id if available
+            category_display = "Unknown"
+            if q.human_readable_id:
+                if "_g" in q.human_readable_id:
+                    category_display = "Generated"
+                elif "_ic" in q.human_readable_id:
+                    category_display = "In-Chapter"
+                elif "_ec" in q.human_readable_id:
+                    category_display = "Exercise"
+            
+            question_responses.append(QuestionBrowseResponse(
                 id=str(q.id),
                 question_text=q.question_text,
                 type=q.type,
@@ -159,15 +169,34 @@ async def browse_questions(
                 explanation=q.explanation,
                 topic=q.topic,
                 bloom_level=q.bloom_level,
+                category=category_display,
                 board=q.board,
                 class_level=q.class_level,
                 subject=q.subject,
                 chapter=q.chapter,
-                category=q.category,
-                human_readable_id=q.human_readable_id
+                human_readable_id=q.human_readable_id,
+                metadata={
+                    "file_source": q.file_source,
+                    "section_id": q.section_id
+                }
             ))
         
-        return results
+        pagination_info = {
+            "limit": limit,
+            "offset": offset,
+            "total": total_count,
+            "returned": len(question_responses),
+            "has_more": (offset + limit) < total_count
+        }
+        
+        logger.info(f"Found {total_count} questions, returning {len(question_responses)}")
+        
+        return QuestionBrowseResult(
+            questions=question_responses,
+            total_count=total_count,
+            filters_applied=filters_applied,
+            pagination=pagination_info
+        )
         
     except HTTPException as he:
         raise he
@@ -178,80 +207,102 @@ async def browse_questions(
             detail=f"Error browsing questions: {str(e)}"
         )
 
-@router.get("/stats", response_model=QuestionStats)
+@router.get("/{board}/{class_level}/{subject}/stats")
 async def get_question_stats(
-    board: Optional[str] = Query(None),
-    class_level: Optional[str] = Query(None),
-    subject: Optional[str] = Query(None),
+    board: str,
+    class_level: str,
+    subject: str,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get statistics about available questions"""
+    """Get statistics about available questions for the given board/class/subject"""
     try:
         check_teacher_permission(current_user)
         
-        # Build base query
-        base_query = db.query(Question)
-        
-        # Apply basic filters
-        if board:
-            base_query = base_query.filter(Question.board == board)
-        if class_level:
-            base_query = base_query.filter(Question.class_level == class_level)
-        if subject:
-            base_query = base_query.filter(Question.subject == subject)
-        
-        # Get total count
-        total_questions = base_query.count()
-        
-        # Get counts by difficulty
-        difficulty_stats = db.query(
-            Question.difficulty,
-            func.count(Question.id)
-        ).filter(
-            Question.id.in_(base_query.with_entities(Question.id))
-        ).group_by(Question.difficulty).all()
-        
-        by_difficulty = {item[0]: item[1] for item in difficulty_stats}
-        
-        # Get counts by type
-        type_stats = db.query(
-            Question.type,
-            func.count(Question.id)
-        ).filter(
-            Question.id.in_(base_query.with_entities(Question.id))
-        ).group_by(Question.type).all()
-        
-        by_type = {item[0]: item[1] for item in type_stats}
-        
-        # Get counts by category
-        category_stats = db.query(
-            Question.category,
-            func.count(Question.id)
-        ).filter(
-            Question.id.in_(base_query.with_entities(Question.id))
-        ).group_by(Question.category).all()
-        
-        by_category = {item[0]: item[1] for item in category_stats}
-        
-        # Get counts by bloom level
-        bloom_stats = db.query(
-            Question.bloom_level,
-            func.count(Question.id)
-        ).filter(
-            Question.id.in_(base_query.with_entities(Question.id)),
-            Question.bloom_level.isnot(None)
-        ).group_by(Question.bloom_level).all()
-        
-        by_bloom_level = {item[0]: item[1] for item in bloom_stats}
-        
-        return QuestionStats(
-            total_questions=total_questions,
-            by_difficulty=by_difficulty,
-            by_type=by_type,
-            by_category=by_category,
-            by_bloom_level=by_bloom_level
+        # Map to actual board/class/subject
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board, class_level, subject
         )
+        
+        # Get question statistics
+        stats_query = text("""
+            SELECT 
+                COUNT(*) as total_questions,
+                COUNT(DISTINCT chapter) as total_chapters,
+                COUNT(CASE WHEN difficulty = 'Easy' THEN 1 END) as easy_questions,
+                COUNT(CASE WHEN difficulty = 'Medium' THEN 1 END) as medium_questions,
+                COUNT(CASE WHEN difficulty = 'Hard' THEN 1 END) as hard_questions,
+                COUNT(CASE WHEN type = 'MCQ' THEN 1 END) as mcq_questions,
+                COUNT(CASE WHEN type = 'Short Answer' THEN 1 END) as short_answer_questions,
+                COUNT(CASE WHEN type = 'Long Answer' THEN 1 END) as long_answer_questions,
+                COUNT(CASE WHEN category = 'generated' THEN 1 END) as generated_questions,
+                COUNT(CASE WHEN category = 'in_chapter' THEN 1 END) as in_chapter_questions,
+                COUNT(CASE WHEN category = 'exercise' THEN 1 END) as exercise_questions
+            FROM questions 
+            WHERE board = :board AND class_level = :class_level AND subject = :subject
+        """)
+        
+        stats = db.execute(stats_query, {
+            "board": actual_board,
+            "class_level": actual_class,
+            "subject": actual_subject
+        }).fetchone()
+        
+        # Get available chapters
+        chapters_query = text("""
+            SELECT DISTINCT chapter 
+            FROM questions 
+            WHERE board = :board AND class_level = :class_level AND subject = :subject
+            ORDER BY chapter
+        """)
+        
+        chapters = db.execute(chapters_query, {
+            "board": actual_board,
+            "class_level": actual_class,
+            "subject": actual_subject
+        }).fetchall()
+        
+        # Get available topics
+        topics_query = text("""
+            SELECT DISTINCT topic 
+            FROM questions 
+            WHERE board = :board AND class_level = :class_level AND subject = :subject
+            AND topic IS NOT NULL
+            ORDER BY topic
+        """)
+        
+        topics = db.execute(topics_query, {
+            "board": actual_board,
+            "class_level": actual_class,
+            "subject": actual_subject
+        }).fetchall()
+        
+        return {
+            "subject_info": {
+                "board": actual_board,
+                "class_level": actual_class,
+                "subject": actual_subject
+            },
+            "total_questions": stats.total_questions if stats else 0,
+            "total_chapters": stats.total_chapters if stats else 0,
+            "difficulty_breakdown": {
+                "easy": stats.easy_questions if stats else 0,
+                "medium": stats.medium_questions if stats else 0,
+                "hard": stats.hard_questions if stats else 0
+            },
+            "type_breakdown": {
+                "mcq": stats.mcq_questions if stats else 0,
+                "short_answer": stats.short_answer_questions if stats else 0,
+                "long_answer": stats.long_answer_questions if stats else 0
+            },
+            "category_breakdown": {
+                "generated": stats.generated_questions if stats else 0,
+                "in_chapter": stats.in_chapter_questions if stats else 0,
+                "exercise": stats.exercise_questions if stats else 0
+            },
+            "available_chapters": [ch.chapter for ch in chapters] if chapters else [],
+            "available_topics": [t.topic for t in topics] if topics else []
+        }
         
     except HTTPException as he:
         raise he
@@ -262,247 +313,63 @@ async def get_question_stats(
             detail=f"Error getting question stats: {str(e)}"
         )
 
-@router.get("/filters", response_model=List[Dict[str, Any]])
-async def get_available_filters(
+@router.get("/{board}/{class_level}/{subject}/chapters")
+async def get_available_chapters(
+    board: str,
+    class_level: str,
+    subject: str,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get available filter options for question browsing"""
+    """Get list of chapters that have questions available"""
     try:
         check_teacher_permission(current_user)
         
-        # Get distinct values for each filter field
-        boards = db.query(Question.board).distinct().all()
-        class_levels = db.query(Question.class_level).distinct().all()
-        subjects = db.query(Question.subject).distinct().all()
-        difficulties = db.query(Question.difficulty).distinct().all()
-        types = db.query(Question.type).distinct().all()
-        categories = db.query(Question.category).distinct().all()
-        bloom_levels = db.query(Question.bloom_level).filter(
-            Question.bloom_level.isnot(None)
-        ).distinct().all()
+        # Map to actual board/class/subject
+        actual_board, actual_class, actual_subject = get_subject_mapping(
+            board, class_level, subject
+        )
         
-        return [
-            {
-                "field": "board",
-                "label": "Board",
-                "options": [{"value": item[0], "label": item[0].upper()} for item in boards]
-            },
-            {
-                "field": "class_level", 
-                "label": "Class Level",
-                "options": [{"value": item[0], "label": item[0].upper()} for item in class_levels]
-            },
-            {
-                "field": "subject",
-                "label": "Subject", 
-                "options": [{"value": item[0], "label": item[0].replace('_', ' ').title()} for item in subjects]
-            },
-            {
-                "field": "difficulty",
-                "label": "Difficulty",
-                "options": [{"value": item[0], "label": item[0].title()} for item in difficulties]
-            },
-            {
-                "field": "question_type",
-                "label": "Question Type",
-                "options": [{"value": item[0], "label": item[0]} for item in types]
-            },
-            {
-                "field": "category", 
-                "label": "Category",
-                "options": [{"value": item[0], "label": item[0].replace('_', ' ').title()} for item in categories]
-            },
-            {
-                "field": "bloom_level",
-                "label": "Bloom Level", 
-                "options": [{"value": item[0], "label": item[0].title()} for item in bloom_levels]
-            }
-        ]
+        # Get chapters with question counts
+        chapters_query = text("""
+            SELECT 
+                chapter,
+                COUNT(*) as question_count,
+                COUNT(CASE WHEN difficulty = 'Easy' THEN 1 END) as easy_count,
+                COUNT(CASE WHEN difficulty = 'Medium' THEN 1 END) as medium_count,
+                COUNT(CASE WHEN difficulty = 'Hard' THEN 1 END) as hard_count
+            FROM questions 
+            WHERE board = :board AND class_level = :class_level AND subject = :subject
+            GROUP BY chapter
+            ORDER BY chapter
+        """)
+        
+        chapters = db.execute(chapters_query, {
+            "board": actual_board,
+            "class_level": actual_class,
+            "subject": actual_subject
+        }).fetchall()
+        
+        return {
+            "chapters": [
+                {
+                    "chapter_number": ch.chapter,
+                    "total_questions": ch.question_count,
+                    "difficulty_breakdown": {
+                        "easy": ch.easy_count,
+                        "medium": ch.medium_count,
+                        "hard": ch.hard_count
+                    }
+                }
+                for ch in chapters
+            ]
+        }
         
     except HTTPException as he:
         raise he
     except Exception as e:
-        logger.error(f"Error getting filter options: {str(e)}")
+        logger.error(f"Error getting available chapters: {str(e)}")
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Error getting filter options: {str(e)}"
-        )
-
-@router.get("/{question_id}", response_model=QuestionBrowseResponse)
-async def get_question_details(
-    question_id: str,
-    current_user: Dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Get details of a specific question"""
-    try:
-        check_teacher_permission(current_user)
-        
-        question = db.query(Question).filter(Question.id == question_id).first()
-        
-        if not question:
-            raise HTTPException(
-                status_code=status.HTTP_404_NOT_FOUND,
-                detail="Question not found"
-            )
-        
-        return QuestionBrowseResponse(
-            id=str(question.id),
-            question_text=question.question_text,
-            type=question.type,
-            difficulty=question.difficulty,
-            options=question.options if question.options else None,
-            correct_answer=question.correct_answer,
-            explanation=question.explanation,
-            topic=question.topic,
-            bloom_level=question.bloom_level,
-            board=question.board,
-            class_level=question.class_level,
-            subject=question.subject,
-            chapter=question.chapter,
-            category=question.category,
-            human_readable_id=question.human_readable_id
-        )
-        
-    except HTTPException as he:
-        raise he
-    except Exception as e:
-        logger.error(f"Error getting question details: {str(e)}")
-        raise HTTPException(
-            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Error getting question details: {str(e)}"
-        )
-
-# Search filter management endpoints
-@router.post("/search-filters", response_model=SearchFilterResponse)
-async def create_search_filter(
-    filter_data: SearchFilterCreate,
-    current_user: Dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Create a saved search filter"""
-    try:
-        check_teacher_permission(current_user)
-        
-        new_filter = QuestionSearchFilter(
-            teacher_id=current_user['id'],
-            filter_name=filter_data.filter_name,
-            board=filter_data.board,
-            class_level=filter_data.class_level,
-            subject=filter_data.subject,
-            chapter=filter_data.chapter,
-            difficulty=filter_data.difficulty,
-            question_type=filter_data.question_type,
-            topic=filter_data.topic,
-            bloom_level=filter_data.bloom_level,
-            category=filter_data.category,
-            is_default=filter_data.is_default
-        )
-        
-        db.add(new_filter)
-        db.commit()
-        db.refresh(new_filter)
-        
-        return SearchFilterResponse(
-            id=str(new_filter.id),
-            filter_name=new_filter.filter_name,
-            board=new_filter.board,
-            class_level=new_filter.class_level,
-            subject=new_filter.subject,
-            chapter=new_filter.chapter,
-            difficulty=new_filter.difficulty,
-            question_type=new_filter.question_type,
-            topic=new_filter.topic,
-            bloom_level=new_filter.bloom_level,
-            category=new_filter.category,
-            is_default=new_filter.is_default,
-            created_at=new_filter.created_at.isoformat()
-        )
-        
-    except HTTPException as he:
-        raise he
-    except Exception as e:
-        logger.error(f"Error creating search filter: {str(e)}")
-        db.rollback()
-        raise HTTPException(
-            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Error creating search filter: {str(e)}"
-        )
-
-@router.get("/search-filters/", response_model=List[SearchFilterResponse])
-async def get_search_filters(
-    current_user: Dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Get all saved search filters for the teacher"""
-    try:
-        check_teacher_permission(current_user)
-        
-        filters = db.query(QuestionSearchFilter).filter(
-            QuestionSearchFilter.teacher_id == current_user['id']
-        ).order_by(QuestionSearchFilter.is_default.desc(), QuestionSearchFilter.created_at.desc()).all()
-        
-        return [
-            SearchFilterResponse(
-                id=str(filter_obj.id),
-                filter_name=filter_obj.filter_name,
-                board=filter_obj.board,
-                class_level=filter_obj.class_level,
-                subject=filter_obj.subject,
-                chapter=filter_obj.chapter,
-                difficulty=filter_obj.difficulty,
-                question_type=filter_obj.question_type,
-                topic=filter_obj.topic,
-                bloom_level=filter_obj.bloom_level,
-                category=filter_obj.category,
-                is_default=filter_obj.is_default,
-                created_at=filter_obj.created_at.isoformat()
-            )
-            for filter_obj in filters
-        ]
-        
-    except HTTPException as he:
-        raise he
-    except Exception as e:
-        logger.error(f"Error getting search filters: {str(e)}")
-        raise HTTPException(
-            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Error getting search filters: {str(e)}"
-        )
-
-@router.delete("/search-filters/{filter_id}")
-async def delete_search_filter(
-    filter_id: str,
-    current_user: Dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Delete a saved search filter"""
-    try:
-        check_teacher_permission(current_user)
-        
-        filter_obj = db.query(QuestionSearchFilter).filter(
-            QuestionSearchFilter.id == filter_id,
-            QuestionSearchFilter.teacher_id == current_user['id']
-        ).first()
-        
-        if not filter_obj:
-            raise HTTPException(
-                status_code=status.HTTP_404_NOT_FOUND,
-                detail="Search filter not found"
-            )
-        
-        db.delete(filter_obj)
-        db.commit()
-        
-        return {"message": "Search filter deleted successfully"}
-        
-    except HTTPException as he:
-        raise he
-    except Exception as e:
-        logger.error(f"Error deleting search filter: {str(e)}")
-        db.rollback()
-        raise HTTPException(
-            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Error deleting search filter: {str(e)}"
+            detail=f"Error getting available chapters: {str(e)}"
         )
