@@ -2,8 +2,8 @@
 
 from fastapi import APIRouter, Depends, HTTPException, status, Query
 from sqlalchemy.orm import Session
-from sqlalchemy import Tuple, text, func, or_
-from typing import List, Dict, Optional
+from sqlalchemy import text, func, or_
+from typing import List, Dict, Optional, Tuple
 from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
