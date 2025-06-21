@@ -373,7 +373,11 @@ async def get_quiz_questions(
                 qq.order_index,
                 COALESCE(q.question_text, qq.custom_question_text) as question_text,
                 COALESCE(q.type, qq.custom_question_type) as question_type,
-                COALESCE(q.options, qq.custom_options) as options
+                CASE 
+                    WHEN q.options IS NOT NULL THEN q.options::json
+                    WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
+                    ELSE NULL
+                END as options
             FROM quiz_questions qq
             LEFT JOIN questions q ON qq.ai_question_id = q.id
             WHERE qq.quiz_id = :quiz_id
@@ -438,7 +442,11 @@ async def submit_quiz(
                 COALESCE(q.correct_answer, qq.custom_correct_answer) as correct_answer,
                 COALESCE(q.question_text, qq.custom_question_text) as question_text,
                 COALESCE(q.type, qq.custom_question_type) as question_type,
-                COALESCE(q.options, qq.custom_options) as options,
+                CASE 
+                    WHEN q.options IS NOT NULL THEN q.options::json
+                    WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
+                    ELSE NULL
+                END as options,
                 COALESCE(q.explanation, qq.custom_explanation) as explanation
             FROM quiz_questions qq
             LEFT JOIN questions q ON qq.ai_question_id = q.id
@@ -651,7 +659,11 @@ async def get_attempt_results(
                 COALESCE(q.correct_answer, qq.custom_correct_answer) as correct_answer,
                 COALESCE(q.question_text, qq.custom_question_text) as question_text,
                 COALESCE(q.type, qq.custom_question_type) as question_type,
-                COALESCE(q.options, qq.custom_options) as options,
+                CASE 
+                    WHEN q.options IS NOT NULL THEN q.options::json
+                    WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
+                    ELSE NULL
+                END as options,
                 COALESCE(q.explanation, qq.custom_explanation) as explanation
             FROM quiz_questions qq
             LEFT JOIN questions q ON qq.ai_question_id = q.id
