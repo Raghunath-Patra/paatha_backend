@@ -1,4 +1,4 @@
-# backend/routes/student_quizzes.py
+# backend/routes/student_quizzes.py - FIXED VERSION
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
@@ -8,7 +8,7 @@ from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
 from models import Quiz, QuizQuestion, QuizAttempt, CourseEnrollment, Question, User
-from datetime import datetime
+from datetime import datetime, timezone
 import json
 import logging
 
@@ -96,6 +96,18 @@ def verify_enrollment(course_id: str, student_id: str, db: Session):
     
     return enrollment
 
+def get_timezone_aware_now():
+    """Get current datetime in UTC timezone"""
+    return datetime.now(timezone.utc)
+
+def ensure_timezone_aware(dt):
+    """Ensure datetime is timezone-aware"""
+    if dt is None:
+        return None
+    if dt.tzinfo is None:
+        return dt.replace(tzinfo=timezone.utc)
+    return dt
+
 @router.get("/{quiz_id}", response_model=QuizDetailResponse)
 async def get_quiz_details(
     quiz_id: str,
@@ -143,7 +155,7 @@ async def get_quiz_details(
         
         best_score = float(best_score_result) if best_score_result else None
         
-        # Check if student can attempt
+        # FIXED: Check if student can attempt with proper timezone handling
         can_attempt = True
         time_remaining = None
         
@@ -151,15 +163,18 @@ async def get_quiz_details(
         if my_attempts >= quiz_result.attempts_allowed:
             can_attempt = False
         
-        # Check time constraints
-        now = datetime.utcnow()
-        if quiz_result.start_time and now < quiz_result.start_time:
+        # FIXED: Check time constraints with timezone-aware comparisons
+        now = get_timezone_aware_now()
+        start_time = ensure_timezone_aware(quiz_result.start_time)
+        end_time = ensure_timezone_aware(quiz_result.end_time)
+        
+        if start_time and now < start_time:
             can_attempt = False
-        elif quiz_result.end_time:
-            if now > quiz_result.end_time:
+        elif end_time:
+            if now > end_time:
                 can_attempt = False
             else:
-                time_remaining = int((quiz_result.end_time - now).total_seconds() / 60)
+                time_remaining = int((end_time - now).total_seconds() / 60)
         
         return QuizDetailResponse(
             id=str(quiz_result.id),
@@ -228,15 +243,18 @@ async def start_quiz_attempt(
                 detail="You have reached the maximum number of attempts for this quiz"
             )
         
-        # Check time constraints
-        now = datetime.utcnow()
-        if quiz.start_time and now < quiz.start_time:
+        # FIXED: Check time constraints with proper timezone handling
+        now = get_timezone_aware_now()
+        start_time = ensure_timezone_aware(quiz.start_time)
+        end_time = ensure_timezone_aware(quiz.end_time)
+        
+        if start_time and now < start_time:
             raise HTTPException(
                 status_code=status.HTTP_400_BAD_REQUEST,
                 detail="Quiz has not started yet"
             )
         
-        if quiz.end_time and now > quiz.end_time:
+        if end_time and now > end_time:
             raise HTTPException(
                 status_code=status.HTTP_400_BAD_REQUEST,
                 detail="Quiz has ended"
@@ -275,7 +293,7 @@ async def start_quiz_attempt(
             attempt_number=existing_attempts + 1,
             answers={},
             total_marks=quiz.total_marks,
-            started_at=datetime.utcnow(),
+            started_at=get_timezone_aware_now(),
             status='in_progress'
         )
         
@@ -453,16 +471,18 @@ async def submit_quiz(
         # Calculate percentage
         percentage = (total_score / max_possible_score * 100) if max_possible_score > 0 else 0
         
-        # Calculate time taken
+        # FIXED: Calculate time taken with timezone-aware datetime
         time_taken = None
         if attempt.started_at:
-            time_taken = int((datetime.utcnow() - attempt.started_at).total_seconds() / 60)
+            started_at = ensure_timezone_aware(attempt.started_at)
+            now = get_timezone_aware_now()
+            time_taken = int((now - started_at).total_seconds() / 60)
         
         # Update attempt
         attempt.answers = submission.answers
         attempt.obtained_marks = total_score
         attempt.percentage = percentage
-        attempt.submitted_at = datetime.utcnow()
+        attempt.submitted_at = get_timezone_aware_now()
         attempt.time_taken = time_taken
         attempt.status = 'completed'
         attempt.is_auto_graded = quiz.auto_grade if quiz else True
