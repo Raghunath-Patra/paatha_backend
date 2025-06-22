@@ -932,7 +932,8 @@ async def get_attempt_results(
             "obtained_marks": attempt.obtained_marks,
             "percentage": attempt.percentage,
             "passed": attempt.percentage >= quiz.passing_marks,
-            "time_taken": attempt.time_taken
+            "time_taken": attempt.time_taken,
+            "ai_grading_used": attempt.is_auto_graded
         }
         
         return AttemptResultResponse(
