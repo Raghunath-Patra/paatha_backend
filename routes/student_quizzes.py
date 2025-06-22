@@ -1,9 +1,9 @@
-# backend/routes/student_quizzes.py - Updated to use QuizResponse table
+# backend/routes/student_quizzes.py - Updated with AI grading for text answers
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from sqlalchemy import text, func
-from typing import List, Dict, Optional, Any
+from typing import List, Dict, Optional, Any, Tuple
 from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
@@ -11,6 +11,14 @@ from models import Quiz, QuizQuestion, QuizAttempt, QuizResponse, CourseEnrollme
 from datetime import datetime, timezone, timedelta
 import json
 import logging
+import re
+import os
+from openai import OpenAI
+from dotenv import load_dotenv
+
+# Load environment variables and initialize OpenAI client
+load_dotenv()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 router = APIRouter(prefix="/api/student/quizzes", tags=["student-quizzes"])
 
@@ -166,6 +174,104 @@ def format_attempt_response(attempt, quiz_title: str, responses: List = None):
         teacher_reviewed=attempt.teacher_reviewed,
         responses=responses
     )
+
+def grade_quiz_answer_with_ai(user_answer: str, question_text: str, correct_answer: str, max_marks: int) -> Tuple[float, str, dict]:
+    """Grade quiz answer using AI with specific marks allocation"""
+    prompt = f"""
+    Grade this quiz answer for a student:
+
+    Question: "{question_text}"
+    Student's Answer: "{user_answer}"
+    Correct/Sample Answer: "{correct_answer}"
+    Maximum Marks: {max_marks}
+
+    Instructions:
+    1. Evaluate the student's answer against the correct answer
+    2. Consider partial credit for partially correct answers
+    3. Be fair but accurate in grading
+    4. Give marks out of {max_marks} (not out of 10)
+    
+    Grading Criteria:
+    - Full marks ({max_marks}) for completely correct answers
+    - Partial marks for answers showing understanding but with minor errors
+    - Zero marks for completely incorrect or irrelevant answers
+    - Accept equivalent expressions, synonyms, and alternative valid approaches
+    
+    For numerical answers:
+    - Accept mathematically equivalent forms
+    - Allow reasonable approximations
+    - Consider significant figures appropriately
+    
+    For descriptive answers:
+    - Focus on key concepts and understanding
+    - Accept alternative wording that conveys correct meaning
+    - Award partial credit for incomplete but correct information
+
+    Format your response exactly as follows:
+    Score: [score]/{max_marks}
+    Feedback: [brief feedback explaining the grade]
+    """
+    
+    try:
+        response = client.chat.completions.create(
+            messages=[{"role": "user", "content": prompt}],
+            model="gpt-4o-mini",
+            temperature=0.3  # Lower temperature for more consistent grading
+        )
+
+        content = response.choices[0].message.content.strip()
+        score, feedback = parse_quiz_grading_response(content, max_marks)
+        
+        # Convert usage to dict format
+        usage_dict = {
+            'prompt_tokens': response.usage.prompt_tokens,
+            'completion_tokens': response.usage.completion_tokens,
+            'total_tokens': response.usage.total_tokens
+        }
+        
+        return score, feedback, usage_dict
+        
+    except Exception as e:
+        logger.error(f"Error in AI quiz grading: {str(e)}")
+        # Return zero score with error feedback
+        return 0.0, f"Error in grading: {str(e)}", {'prompt_tokens': 0, 'completion_tokens': 0, 'total_tokens': 0}
+
+def parse_quiz_grading_response(response_content: str, max_marks: int) -> Tuple[float, str]:
+    """Parse AI grading response for quiz answers"""
+    score = 0.0
+    feedback = "Unable to parse feedback"
+    
+    # Look for score pattern with flexible formatting
+    score_patterns = [
+        rf"Score:\s*([\d.]+)\s*/{max_marks}",
+        rf"Score:\s*([\d.]+)\s*/\s*{max_marks}",
+        rf"Score:\s*([\d.]+)",
+        rf"Marks:\s*([\d.]+)"
+    ]
+    
+    score_match = None
+    for pattern in score_patterns:
+        score_match = re.search(pattern, response_content, re.IGNORECASE)
+        if score_match:
+            break
+    
+    if score_match:
+        try:
+            score = float(score_match.group(1).strip())
+            # Ensure score doesn't exceed max_marks
+            score = min(score, max_marks)
+        except (ValueError, IndexError):
+            score = 0.0
+    
+    # Extract feedback
+    feedback_match = re.search(r"Feedback:\s*(.*?)(?:\n|$)", response_content, re.IGNORECASE | re.DOTALL)
+    if feedback_match:
+        feedback = feedback_match.group(1).strip()
+    else:
+        # If no explicit feedback found, use the whole response as feedback
+        feedback = response_content
+    
+    return score, feedback
 
 @router.get("/{quiz_id}", response_model=QuizDetailResponse)
 async def get_quiz_details(
@@ -444,7 +550,7 @@ async def submit_quiz(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Submit quiz answers using QuizResponse table"""
+    """Submit quiz answers using QuizResponse table with AI grading for text answers"""
     try:
         check_student_permission(current_user)
         
@@ -500,6 +606,7 @@ async def submit_quiz(
         total_score = 0
         max_possible_score = 0
         questions_with_answers = []
+        total_ai_usage = {'prompt_tokens': 0, 'completion_tokens': 0, 'total_tokens': 0}
         
         for question in questions:
             max_possible_score += question.marks
@@ -510,15 +617,48 @@ async def submit_quiz(
             student_answer = student_response.response if student_response else ""
             correct_answer = question.correct_answer
             
-            # Simple grading logic (can be enhanced)
+            # Initialize grading variables
             is_correct = False
-            if question.question_type.lower() in ['mcq', 'multiple_choice']:
-                is_correct = str(student_answer).strip().lower() == str(correct_answer).strip().lower()
-            else:
-                # For text answers, do basic comparison
-                is_correct = str(student_answer).strip().lower() == str(correct_answer).strip().lower()
+            score = 0
+            feedback = ""
             
-            score = question.marks if is_correct else 0
+            # Grading logic based on question type
+            if question.question_type.lower() in ['mcq', 'multiple_choice', 'true/false']:
+                # MCQ/True-False: Direct comparison
+                is_correct = str(student_answer).strip().lower() == str(correct_answer).strip().lower()
+                score = question.marks if is_correct else 0
+                feedback = "Correct!" if is_correct else f"Incorrect. The correct answer is: {correct_answer}"
+            else:
+                # Text answers: Use AI grading
+                if student_answer.strip():  # Only grade if student provided an answer
+                    try:
+                        score, feedback, ai_usage = grade_quiz_answer_with_ai(
+                            student_answer,
+                            question.question_text,
+                            correct_answer,
+                            question.marks
+                        )
+                        
+                        # Accumulate AI token usage
+                        total_ai_usage['prompt_tokens'] += ai_usage.get('prompt_tokens', 0)
+                        total_ai_usage['completion_tokens'] += ai_usage.get('completion_tokens', 0)
+                        total_ai_usage['total_tokens'] += ai_usage.get('total_tokens', 0)
+                        
+                        # Determine if correct based on score (consider > 50% as correct)
+                        is_correct = score >= (question.marks * 0.5)
+                        
+                    except Exception as ai_error:
+                        logger.error(f"AI grading error for question {question_id}: {str(ai_error)}")
+                        # Fallback to basic comparison on AI error
+                        is_correct = str(student_answer).strip().lower() == str(correct_answer).strip().lower()
+                        score = question.marks if is_correct else 0
+                        feedback = f"Grading error occurred. Basic check: {'Correct' if is_correct else 'Incorrect'}"
+                else:
+                    # No answer provided
+                    score = 0
+                    feedback = "No answer provided"
+                    is_correct = False
+            
             total_score += score
             
             # Create QuizResponse record
@@ -549,6 +689,7 @@ async def submit_quiz(
                 "marks": question.marks,
                 "score": score,
                 "is_correct": is_correct,
+                "feedback": feedback,
                 "time_spent": student_response.time_spent if student_response else None,
                 "confidence_level": student_response.confidence_level if student_response else None,
                 "flagged_for_review": student_response.flagged_for_review if student_response else False
@@ -618,8 +759,13 @@ async def submit_quiz(
             "obtained_marks": total_score,
             "percentage": percentage,
             "passed": percentage >= quiz.passing_marks,
-            "time_taken": time_taken
+            "time_taken": time_taken,
+            "ai_grading_used": total_ai_usage['total_tokens'] > 0,
+            "ai_token_usage": total_ai_usage
         }
+        
+        logger.info(f"Quiz submitted successfully by user {current_user['id']}: "
+                   f"Score={total_score}/{max_possible_score}, AI tokens used={total_ai_usage['total_tokens']}")
         
         return AttemptResultResponse(
             attempt=attempt_response,
