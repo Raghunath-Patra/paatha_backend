@@ -162,6 +162,7 @@ class AttemptSummary(BaseModel):
     student_email: str
     attempt_number: int
     obtained_marks: float
+    total_marks: float
     percentage: float
     started_at: str
     submitted_at: Optional[str]
@@ -783,7 +784,7 @@ async def remove_question_from_quiz(
             detail=f"Error removing question from quiz: {str(e)}"
         )
 
-@router.get("/{quiz_id}/attempts", response_model=List[AttemptSummary])
+@router.get("/{quiz_id}/results", response_model=List[AttemptSummary])
 async def get_quiz_attempts(
     quiz_id: str,
     current_user: Dict = Depends(get_current_user),
@@ -827,6 +828,7 @@ async def get_quiz_attempts(
                 student_email=attempt.student_email,
                 attempt_number=attempt.attempt_number,
                 obtained_marks=attempt.obtained_marks,
+                total_marks=attempt.total_marks,
                 percentage=attempt.percentage,
                 started_at=attempt.started_at.isoformat(),
                 submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
