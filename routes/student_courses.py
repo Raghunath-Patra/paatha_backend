@@ -359,6 +359,7 @@ async def get_course_quizzes(
             start_time = ensure_india_timezone(quiz.start_time)
             end_time = ensure_india_timezone(quiz.end_time)
             
+            quiz_status_value = "in_progress"  # Default to in_progress
             if start_time and start_time > now:
                 quiz_status_value = "not_started"
             elif end_time and end_time < now:
