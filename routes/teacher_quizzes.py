@@ -797,13 +797,15 @@ async def remove_question_from_quiz(
             detail=f"Error removing question from quiz: {str(e)}"
         )
 
-@router.get("/{quiz_id}/results", response_model=QuizResultsResponse)
+# FIXED: Optimized quiz results endpoint in teacher_quizzes.py
+
+@router.get("/{quiz_id}/results")
 async def get_quiz_attempts(
     quiz_id: str,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get all attempts for a quiz with statistics"""
+    """Get all attempts for a quiz with statistics - OPTIMIZED VERSION"""
     try:
         check_teacher_permission(current_user)
         
@@ -819,65 +821,101 @@ async def get_quiz_attempts(
                 detail="Quiz not found"
             )
         
-        # Get attempts with student info
+        # OPTIMIZED: Single query to get attempts with student info and compute stats
         query = text("""
+            WITH attempt_data AS (
+                SELECT 
+                    qa.id,
+                    qa.student_id,
+                    COALESCE(u.full_name, 'Unknown Student') as student_name,
+                    u.email as student_email,
+                    qa.attempt_number,
+                    qa.obtained_marks,
+                    qa.total_marks,
+                    qa.percentage,
+                    qa.started_at,
+                    qa.submitted_at,
+                    qa.time_taken,
+                    qa.status,
+                    qa.is_auto_graded,
+                    qa.teacher_reviewed,
+                    CASE WHEN qa.status = 'completed' THEN 1 ELSE 0 END as is_completed,
+                    CASE WHEN qa.status = 'completed' AND qa.percentage >= :passing_percentage THEN 1 ELSE 0 END as is_passed
+                FROM quiz_attempts qa
+                LEFT JOIN profiles u ON qa.student_id = u.id
+                WHERE qa.quiz_id = :quiz_id
+            ),
+            stats_data AS (
+                SELECT 
+                    COUNT(*) as total_attempts,
+                    COUNT(DISTINCT student_id) as unique_students,
+                    COUNT(*) FILTER (WHERE is_completed = 1) as completed_attempts,
+                    COUNT(*) FILTER (WHERE is_passed = 1) as passed_attempts,
+                    COALESCE(AVG(percentage) FILTER (WHERE is_completed = 1), 0) as avg_score,
+                    COALESCE(MAX(percentage) FILTER (WHERE is_completed = 1), 0) as max_score,
+                    COALESCE(MIN(percentage) FILTER (WHERE is_completed = 1), 0) as min_score
+                FROM attempt_data
+            )
             SELECT 
-                qa.*,
-                u.full_name as student_name,
-                u.email as student_email
-            FROM quiz_attempts qa
-            JOIN profiles u ON qa.student_id = u.id
-            WHERE qa.quiz_id = :quiz_id
-            ORDER BY qa.started_at DESC
+                ad.*,
+                sd.total_attempts,
+                sd.unique_students,
+                sd.completed_attempts,
+                sd.passed_attempts,
+                sd.avg_score,
+                sd.max_score,
+                sd.min_score
+            FROM attempt_data ad
+            CROSS JOIN stats_data sd
+            ORDER BY ad.started_at DESC
         """)
         
-        attempts = db.execute(query, {"quiz_id": quiz_id}).fetchall()
+        # Calculate passing percentage
+        passing_percentage = (quiz.passing_marks / quiz.total_marks) * 100
         
-        # Format attempts
-        attempt_summaries = [
-            AttemptSummary(
-                id=str(attempt.id),
-                student_id=str(attempt.student_id),
-                student_name=attempt.student_name,
-                student_email=attempt.student_email,
-                attempt_number=attempt.attempt_number,
-                obtained_marks=attempt.obtained_marks,
-                total_marks=attempt.total_marks,
-                percentage=attempt.percentage,
-                started_at=attempt.started_at.isoformat(),
-                submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
-                time_taken=attempt.time_taken,
-                status=attempt.status,
-                is_auto_graded=attempt.is_auto_graded,
-                teacher_reviewed=attempt.teacher_reviewed
-            )
-            for attempt in attempts
-        ]
+        results = db.execute(query, {
+            "quiz_id": quiz_id,
+            "passing_percentage": passing_percentage
+        }).fetchall()
         
-        # Compute statistics
-        stats = None
-        if attempts:
-            completed_attempts = [a for a in attempts if a.status == 'completed']
-            unique_students = len(set(a.student_id for a in attempts))
-            
-            # Calculate passing percentage based on quiz passing marks
-            passing_percentage = (quiz.passing_marks / quiz.total_marks) * 100
-            passed_attempts = [a for a in completed_attempts if a.percentage >= passing_percentage]
-            
-            stats = QuizStats(
-                total_attempts=len(attempts),
-                unique_students=unique_students,
-                average_score=sum(a.percentage for a in completed_attempts) / len(completed_attempts) if completed_attempts else 0,
-                highest_score=max(a.percentage for a in completed_attempts) if completed_attempts else 0,
-                lowest_score=min(a.percentage for a in completed_attempts) if completed_attempts else 0,
-                pass_rate=(len(passed_attempts) / len(completed_attempts)) * 100 if completed_attempts else 0,
-                completion_rate=(len(completed_attempts) / len(attempts)) * 100 if attempts else 0
-            )
+        if not results:
+            # No attempts found
+            return []
         
-        return QuizResultsResponse(
-            attempts=attempt_summaries,
-            stats=stats
-        )
+        # Extract stats from first row (same for all rows due to CROSS JOIN)
+        first_row = results[0]
+        
+        # Format response as direct array for frontend compatibility
+        attempts = []
+        for row in results:
+            attempts.append({
+                "id": str(row.id),
+                "student_id": str(row.student_id),
+                "student_name": row.student_name,
+                "student_email": row.student_email,
+                "attempt_number": row.attempt_number,
+                "obtained_marks": float(row.obtained_marks),
+                "total_marks": float(row.total_marks),
+                "percentage": float(row.percentage),
+                "started_at": row.started_at.isoformat(),
+                "submitted_at": row.submitted_at.isoformat() if row.submitted_at else None,
+                "time_taken": row.time_taken,
+                "status": row.status,
+                "is_auto_graded": row.is_auto_graded,
+                "teacher_reviewed": row.teacher_reviewed,
+                # Include computed stats for frontend use
+                "_stats": {
+                    "total_attempts": first_row.total_attempts,
+                    "unique_students": first_row.unique_students,
+                    "average_score": float(first_row.avg_score),
+                    "highest_score": float(first_row.max_score),
+                    "lowest_score": float(first_row.min_score),
+                    "pass_rate": (first_row.passed_attempts / first_row.completed_attempts * 100) if first_row.completed_attempts > 0 else 0,
+                    "completion_rate": (first_row.completed_attempts / first_row.total_attempts * 100) if first_row.total_attempts > 0 else 0
+                } if row == first_row else None
+            })
+        
+        return attempts
         
     except HTTPException as he:
         raise he
