@@ -171,6 +171,19 @@ class AttemptSummary(BaseModel):
     is_auto_graded: bool
     teacher_reviewed: bool
 
+class QuizStats(BaseModel):
+    total_attempts: int
+    unique_students: int
+    average_score: float
+    highest_score: float
+    lowest_score: float
+    pass_rate: float
+    completion_rate: float
+
+class QuizResultsResponse(BaseModel):
+    attempts: List[AttemptSummary]
+    stats: Optional[QuizStats]
+
 def check_teacher_permission(user: Dict):
     """Check if user is a teacher"""
     if user.get('role') != 'teacher':
@@ -784,13 +797,13 @@ async def remove_question_from_quiz(
             detail=f"Error removing question from quiz: {str(e)}"
         )
 
-@router.get("/{quiz_id}/results", response_model=List[AttemptSummary])
+@router.get("/{quiz_id}/results", response_model=QuizResultsResponse)
 async def get_quiz_attempts(
     quiz_id: str,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get all attempts for a quiz"""
+    """Get all attempts for a quiz with statistics"""
     try:
         check_teacher_permission(current_user)
         
@@ -820,7 +833,8 @@ async def get_quiz_attempts(
         
         attempts = db.execute(query, {"quiz_id": quiz_id}).fetchall()
         
-        return [
+        # Format attempts
+        attempt_summaries = [
             AttemptSummary(
                 id=str(attempt.id),
                 student_id=str(attempt.student_id),
@@ -839,6 +853,31 @@ async def get_quiz_attempts(
             )
             for attempt in attempts
         ]
+        
+        # Compute statistics
+        stats = None
+        if attempts:
+            completed_attempts = [a for a in attempts if a.status == 'completed']
+            unique_students = len(set(a.student_id for a in attempts))
+            
+            # Calculate passing percentage based on quiz passing marks
+            passing_percentage = (quiz.passing_marks / quiz.total_marks) * 100
+            passed_attempts = [a for a in completed_attempts if a.percentage >= passing_percentage]
+            
+            stats = QuizStats(
+                total_attempts=len(attempts),
+                unique_students=unique_students,
+                average_score=sum(a.percentage for a in completed_attempts) / len(completed_attempts) if completed_attempts else 0,
+                highest_score=max(a.percentage for a in completed_attempts) if completed_attempts else 0,
+                lowest_score=min(a.percentage for a in completed_attempts) if completed_attempts else 0,
+                pass_rate=(len(passed_attempts) / len(completed_attempts)) * 100 if completed_attempts else 0,
+                completion_rate=(len(completed_attempts) / len(attempts)) * 100 if attempts else 0
+            )
+        
+        return QuizResultsResponse(
+            attempts=attempt_summaries,
+            stats=stats
+        )
         
     except HTTPException as he:
         raise he
