@@ -73,6 +73,7 @@ class QuizSummary(BaseModel):
     my_attempts: int
     best_score: Optional[float]
     status: str  # 'not_started', 'in_progress', 'completed', 'time_expired'
+    quiz_status_value: str  # 'not_started', 'in_progress', 'completed', 'time_expired'
 
 def check_student_permission(user: Dict):
     # 🚨 TEMPORARY DEBUG - See what user data looks like
@@ -359,9 +360,9 @@ async def get_course_quizzes(
             end_time = ensure_india_timezone(quiz.end_time)
             
             if start_time and start_time > now:
-                status_value = "not_started"
+                quiz_status_value = "not_started"
             elif end_time and end_time < now:
-                status_value = "time_expired"
+                quiz_status_value = "time_expired"
             
             results.append(QuizSummary(
                 id=str(quiz.id),
@@ -376,7 +377,8 @@ async def get_course_quizzes(
                 attempts_allowed=quiz.attempts_allowed,
                 my_attempts=quiz.my_attempts,
                 best_score=float(quiz.best_score) if quiz.best_score else None,
-                status=status_value
+                status=status_value,
+                quiz_status_value = quiz_status_value
             ))
         
         return results
