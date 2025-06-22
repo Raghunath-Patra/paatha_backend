@@ -846,3 +846,102 @@ async def get_quiz_attempts(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error fetching quiz attempts: {str(e)}"
         )
+    
+# Add this endpoint to your teacher_quizzes.py file
+
+class QuestionMarksUpdate(BaseModel):
+    marks: int
+
+@router.put("/{quiz_id}/questions/{question_id}/marks", response_model=QuestionResponse)
+async def update_question_marks(
+    quiz_id: str,
+    question_id: str,
+    marks_data: QuestionMarksUpdate,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Update marks for a specific question in a quiz"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify quiz ownership
+        quiz = db.query(Quiz).filter(
+            Quiz.id == quiz_id,
+            Quiz.teacher_id == current_user['id']
+        ).first()
+        
+        if not quiz:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Quiz not found"
+            )
+        
+        # Find and update question marks
+        question = db.query(QuizQuestion).filter(
+            QuizQuestion.id == question_id,
+            QuizQuestion.quiz_id == quiz_id
+        ).first()
+        
+        if not question:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Question not found in this quiz"
+            )
+        
+        # Validate marks
+        if marks_data.marks < 1 or marks_data.marks > 100:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Marks must be between 1 and 100"
+            )
+        
+        # Update marks
+        question.marks = marks_data.marks
+        db.commit()
+        db.refresh(question)
+        
+        # Get question details for response
+        if question.question_source == 'ai_generated' and question.ai_question_id:
+            ai_question = db.query(Question).filter(
+                Question.id == question.ai_question_id
+            ).first()
+            
+            return QuestionResponse(
+                id=str(question.id),
+                question_source=question.question_source,
+                marks=question.marks,
+                order_index=question.order_index,
+                question_text=ai_question.question_text if ai_question else "",
+                question_type=ai_question.type if ai_question else "",
+                options=ai_question.options if ai_question else None,
+                correct_answer=ai_question.correct_answer if ai_question else "",
+                explanation=ai_question.explanation if ai_question else None,
+                topic=ai_question.topic if ai_question else None,
+                difficulty=ai_question.difficulty if ai_question else None,
+                bloom_level=ai_question.bloom_level if ai_question else None
+            )
+        else:
+            return QuestionResponse(
+                id=str(question.id),
+                question_source=question.question_source,
+                marks=question.marks,
+                order_index=question.order_index,
+                question_text=question.custom_question_text or "",
+                question_type=question.custom_question_type or "",
+                options=question.custom_options,
+                correct_answer=question.custom_correct_answer or "",
+                explanation=question.custom_explanation,
+                topic=None,
+                difficulty=None,
+                bloom_level=None
+            )
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error updating question marks: {str(e)}")
+        db.rollback()
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error updating question marks: {str(e)}"
+        )
