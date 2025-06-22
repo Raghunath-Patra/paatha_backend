@@ -499,6 +499,7 @@ class QuizResponse(Base):
     response = Column(Text, nullable=True)  # Student's answer
     score = Column(Float, default=0.0)  # Score for this specific question
     is_correct = Column(Boolean, nullable=True)  # Whether the answer is correct
+    feedback = Column(Text, nullable=True)  # AI or manual feedback for the answer
     
     # Metadata
     time_spent = Column(Integer, nullable=True)  # Seconds spent on this question

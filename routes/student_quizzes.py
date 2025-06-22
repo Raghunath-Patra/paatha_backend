@@ -644,8 +644,8 @@ async def submit_quiz(
                         total_ai_usage['completion_tokens'] += ai_usage.get('completion_tokens', 0)
                         total_ai_usage['total_tokens'] += ai_usage.get('total_tokens', 0)
                         
-                        # Determine if correct based on score (consider > 50% as correct)
-                        is_correct = score >= (question.marks * 0.5)
+                        # Determine if correct based on score (consider > 80% as correct)
+                        is_correct = score >= (question.marks * 0.8)
                         
                     except Exception as ai_error:
                         logger.error(f"AI grading error for question {question_id}: {str(ai_error)}")
@@ -670,6 +670,7 @@ async def submit_quiz(
                 response=student_answer,
                 score=score,
                 is_correct=is_correct,
+                feedback=feedback,  # Store the feedback in database
                 time_spent=student_response.time_spent if student_response else None,
                 confidence_level=student_response.confidence_level if student_response else None,
                 flagged_for_review=student_response.flagged_for_review if student_response else False,
@@ -742,6 +743,7 @@ async def submit_quiz(
                 "response": qa["student_answer"],
                 "score": qa["score"],
                 "is_correct": qa["is_correct"],
+                "feedback": qa["feedback"],  # Include feedback
                 "time_spent": qa["time_spent"],
                 "confidence_level": qa["confidence_level"],
                 "flagged_for_review": qa["flagged_for_review"]
@@ -812,6 +814,7 @@ async def get_my_attempts(
                     "response": resp.response,
                     "score": resp.score,
                     "is_correct": resp.is_correct,
+                    "feedback": resp.feedback,  # Include feedback
                     "time_spent": resp.time_spent,
                     "confidence_level": resp.confidence_level,
                     "flagged_for_review": resp.flagged_for_review
@@ -899,6 +902,7 @@ async def get_attempt_results(
                 "marks": resp.marks,
                 "score": resp.score,
                 "is_correct": resp.is_correct,
+                "feedback": resp.feedback,  # Include stored feedback
                 "time_spent": resp.time_spent,
                 "confidence_level": resp.confidence_level,
                 "flagged_for_review": resp.flagged_for_review
@@ -911,6 +915,7 @@ async def get_attempt_results(
                 "response": resp.response,
                 "score": resp.score,
                 "is_correct": resp.is_correct,
+                "feedback": resp.feedback,  # Include stored feedback
                 "time_spent": resp.time_spent,
                 "confidence_level": resp.confidence_level,
                 "flagged_for_review": resp.flagged_for_review
