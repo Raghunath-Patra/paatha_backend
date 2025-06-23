@@ -604,7 +604,7 @@ async def get_course_practice_performance(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get practice performance for all students in a course"""
+    """Get practice performance for all students in a course - UUID FIXED"""
     try:
         check_teacher_permission(current_user)
         
@@ -644,15 +644,28 @@ async def get_course_practice_performance(
                 )
             )
         
-        student_ids = [str(student.id) for student in enrolled_students]
+        # Convert to string UUIDs and create SQL-safe list
+        student_uuids = [str(student.id) for student in enrolled_students]
+        student_uuid_placeholders = "'" + "','".join(student_uuids) + "'"
         
         # Normalize course details for matching
         course_board = normalize_board(course.board)
         course_class = normalize_class_level(course.class_level)
         course_subject = normalize_subject(course.subject)
         
-        # Build dynamic query for practice performance
-        base_query = """
+        # Generate class level alternatives
+        class_alternatives = {
+            'x': ['10', '10th'],
+            'xi': ['11', '11th'], 
+            'xii': ['12', '12th'],
+            'ix': ['9', '9th'],
+            'viii': ['8', '8th']
+        }
+        
+        alt1, alt2 = class_alternatives.get(course_class, ['', ''])[:2] if course_class in class_alternatives else ['', '']
+        
+        # Build the main query with fixed UUID handling
+        base_query = f"""
             SELECT 
                 ua.user_id,
                 u.full_name,
@@ -667,46 +680,32 @@ async def get_course_practice_performance(
                 MAX(ua.created_at) as latest_attempt
             FROM user_attempts ua
             JOIN profiles u ON ua.user_id = u.id
-            WHERE ua.user_id = ANY(:student_ids)
+            WHERE ua.user_id::text IN ({student_uuid_placeholders})
             AND (
-                (LOWER(ua.board) = :course_board OR :course_board = '' OR ua.board IS NULL)
+                (LOWER(COALESCE(ua.board, '')) = :course_board OR :course_board = '')
                 AND (
-                    LOWER(ua.class_level) = :course_class 
-                    OR LOWER(ua.class_level) = :course_class_alt1
-                    OR LOWER(ua.class_level) = :course_class_alt2
-                    OR :course_class = '' 
-                    OR ua.class_level IS NULL
+                    LOWER(COALESCE(ua.class_level, '')) = :course_class 
+                    OR LOWER(COALESCE(ua.class_level, '')) = :course_class_alt1
+                    OR LOWER(COALESCE(ua.class_level, '')) = :course_class_alt2
+                    OR :course_class = ''
                 )
                 AND (
-                    LOWER(ua.subject) = :course_subject
-                    OR LOWER(REPLACE(REPLACE(ua.subject, '-', ' '), '_', ' ')) = :course_subject
+                    LOWER(COALESCE(ua.subject, '')) = :course_subject
+                    OR LOWER(REPLACE(REPLACE(COALESCE(ua.subject, ''), '-', ' '), '_', ' ')) = :course_subject
                     OR :course_subject = ''
-                    OR ua.subject IS NULL
                 )
             )
         """
         
         # Add filters if specified
         if student_id:
-            base_query += " AND ua.user_id = :student_id"
+            base_query += f" AND ua.user_id::text = '{student_id}'"
         if chapter:
             base_query += " AND ua.chapter = :chapter"
             
         base_query += " GROUP BY ua.user_id, u.full_name, u.email, ua.chapter"
         
-        # Generate class level alternatives
-        class_alternatives = {
-            'x': ['10', '10th'],
-            'xi': ['11', '11th'], 
-            'xii': ['12', '12th'],
-            'ix': ['9', '9th'],
-            'viii': ['8', '8th']
-        }
-        
-        alt1, alt2 = class_alternatives.get(course_class, ['', ''])[:2] if course_class in class_alternatives else ['', '']
-        
         params = {
-            "student_ids": student_ids,
             "course_board": course_board,
             "course_class": course_class,
             "course_class_alt1": alt1,
@@ -714,8 +713,6 @@ async def get_course_practice_performance(
             "course_subject": course_subject
         }
         
-        if student_id:
-            params["student_id"] = student_id
         if chapter:
             params["chapter"] = chapter
             
@@ -784,7 +781,7 @@ async def get_course_practice_performance(
         for student_data in student_performance_map.values():
             avg_score = student_data['total_score'] / student_data['total_attempts'] if student_data['total_attempts'] > 0 else 0
             
-            # Simple trend calculation (could be enhanced)
+            # Simple trend calculation
             performance_trend = "stable"
             if avg_score >= 8:
                 performance_trend = "improving"
@@ -850,6 +847,7 @@ async def get_course_practice_performance(
             detail=f"Error fetching practice performance: {str(e)}"
         )
 
+
 @router.get("/{course_id}/practice-performance/student/{student_id}")
 async def get_student_detailed_practice_performance(
     course_id: str,
@@ -858,7 +856,7 @@ async def get_student_detailed_practice_performance(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get detailed practice performance for a specific student"""
+    """Get detailed practice performance for a specific student - UUID FIXED"""
     try:
         check_teacher_permission(current_user)
         
@@ -869,7 +867,7 @@ async def get_student_detailed_practice_performance(
             JOIN course_enrollments ce ON c.id = ce.course_id
             WHERE c.id = :course_id 
               AND c.teacher_id = :teacher_id
-              AND ce.student_id = :student_id
+              AND ce.student_id::text = :student_id
               AND ce.status = 'active'
         """)
         
@@ -890,8 +888,8 @@ async def get_student_detailed_practice_performance(
         course_class = normalize_class_level(course_info.class_level)
         course_subject = normalize_subject(course_info.subject)
         
-        # Get detailed attempt data
-        detail_query = """
+        # Get detailed attempt data with fixed UUID handling
+        detail_query = f"""
             SELECT 
                 ua.*,
                 q.question_text,
@@ -900,21 +898,19 @@ async def get_student_detailed_practice_performance(
                 q.type as question_type
             FROM user_attempts ua
             LEFT JOIN questions q ON ua.question_id = q.id
-            WHERE ua.user_id = :student_id
+            WHERE ua.user_id::text = '{student_id}'
             AND (
-                (LOWER(ua.board) = :course_board OR :course_board = '' OR ua.board IS NULL)
+                (LOWER(COALESCE(ua.board, '')) = :course_board OR :course_board = '')
                 AND (
-                    LOWER(ua.class_level) = :course_class 
-                    OR LOWER(ua.class_level) = :course_class_alt1
-                    OR LOWER(ua.class_level) = :course_class_alt2
-                    OR :course_class = '' 
-                    OR ua.class_level IS NULL
+                    LOWER(COALESCE(ua.class_level, '')) = :course_class 
+                    OR LOWER(COALESCE(ua.class_level, '')) = :course_class_alt1
+                    OR LOWER(COALESCE(ua.class_level, '')) = :course_class_alt2
+                    OR :course_class = ''
                 )
                 AND (
-                    LOWER(ua.subject) = :course_subject
-                    OR LOWER(REPLACE(REPLACE(ua.subject, '-', ' '), '_', ' ')) = :course_subject
+                    LOWER(COALESCE(ua.subject, '')) = :course_subject
+                    OR LOWER(REPLACE(REPLACE(COALESCE(ua.subject, ''), '-', ' '), '_', ' ')) = :course_subject
                     OR :course_subject = ''
-                    OR ua.subject IS NULL
                 )
             )
         """
@@ -936,7 +932,6 @@ async def get_student_detailed_practice_performance(
         alt1, alt2 = class_alternatives.get(course_class, ['', ''])[:2] if course_class in class_alternatives else ['', '']
         
         params = {
-            "student_id": student_id,
             "course_board": course_board,
             "course_class": course_class,
             "course_class_alt1": alt1,
