@@ -1,4 +1,4 @@
-# backend/routes/teacher_courses.py - ENHANCED VERSION with Practice Performance
+# backend/routes/teacher_courses.py - ENHANCED VERSION with Practice Performance and Subject Decoder
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
@@ -13,6 +13,35 @@ import logging
 router = APIRouter(prefix="/api/teacher/courses", tags=["teacher-courses"])
 
 logger = logging.getLogger(__name__)
+
+# NEW: Subject code decoder
+SUBJECT_CODE_TO_NAME = {
+    'iesc1dd': 'Science',
+    'hesc1dd': 'Science', 
+    'jesc1dd': 'Science',
+    'iemh1dd': 'Mathematics',
+    'jemh1dd': 'Mathematics',
+    'kemh1dd': 'Mathematics',
+    'lemh1dd': 'Mathematics (Part I)',
+    'lemh2dd': 'Mathematics (Part II)',
+    'hemh1dd': 'Mathematics',
+    'keph1dd': 'Physics (Part I)',
+    'keph2dd': 'Physics (Part II)',
+    'leph1dd': 'Physics (Part I)',
+    'leph2dd': 'Physics (Part II)',
+    'kech1dd': 'Chemistry (Part I)',
+    'kech2dd': 'Chemistry (Part II)',
+    'lech1dd': 'Chemistry (Part I)',
+    'lech2dd': 'Chemistry (Part II)',
+    'kebo1dd': 'Biology',
+    'lebo1dd': 'Biology'
+}
+
+def decode_subject_code(subject_code: str) -> str:
+    """Convert subject code to human-readable name"""
+    if not subject_code:
+        return ""
+    return SUBJECT_CODE_TO_NAME.get(subject_code.lower(), subject_code)
 
 # Existing models...
 class CourseCreate(BaseModel):
@@ -143,7 +172,7 @@ async def create_course(
             description=new_course.description,
             board=new_course.board,
             class_level=new_course.class_level,
-            subject=new_course.subject,
+            subject=decode_subject_code(new_course.subject),  # FIXED: Decode subject
             is_active=new_course.is_active,
             max_students=new_course.max_students,
             current_students=stats.current_students if stats else 0,
@@ -212,7 +241,7 @@ async def get_teacher_courses(
                 description=course.description,
                 board=course.board,
                 class_level=course.class_level,
-                subject=course.subject,
+                subject=decode_subject_code(course.subject),  # FIXED: Decode subject
                 is_active=course.is_active,
                 max_students=course.max_students,
                 current_students=course.current_students,
@@ -279,7 +308,7 @@ async def get_course_details(
             description=course.description,
             board=course.board,
             class_level=course.class_level,
-            subject=course.subject,
+            subject=decode_subject_code(course.subject),  # FIXED: Decode subject
             is_active=course.is_active,
             max_students=course.max_students,
             current_students=course.current_students,
@@ -341,7 +370,7 @@ async def update_course(
             description=course.description,
             board=course.board,
             class_level=course.class_level,
-            subject=course.subject,
+            subject=decode_subject_code(course.subject),  # FIXED: Decode subject
             is_active=course.is_active,
             max_students=course.max_students,
             current_students=stats.current_students if stats else 0,

@@ -1,4 +1,4 @@
-# backend/routes/student_courses.py - FIXED VERSION
+# backend/routes/student_courses.py - FIXED VERSION with Subject Decoder
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
@@ -38,6 +38,35 @@ def ensure_india_timezone(dt):
         utc_dt = dt.astimezone(timezone.utc)
         offset = timedelta(hours=5, minutes=30)
         return utc_dt.replace(tzinfo=None) + offset
+
+# NEW: Subject code decoder
+SUBJECT_CODE_TO_NAME = {
+    'iesc1dd': 'Science',
+    'hesc1dd': 'Science', 
+    'jesc1dd': 'Science',
+    'iemh1dd': 'Mathematics',
+    'jemh1dd': 'Mathematics',
+    'kemh1dd': 'Mathematics',
+    'lemh1dd': 'Mathematics (Part I)',
+    'lemh2dd': 'Mathematics (Part II)',
+    'hemh1dd': 'Mathematics',
+    'keph1dd': 'Physics (Part I)',
+    'keph2dd': 'Physics (Part II)',
+    'leph1dd': 'Physics (Part I)',
+    'leph2dd': 'Physics (Part II)',
+    'kech1dd': 'Chemistry (Part I)',
+    'kech2dd': 'Chemistry (Part II)',
+    'lech1dd': 'Chemistry (Part I)',
+    'lech2dd': 'Chemistry (Part II)',
+    'kebo1dd': 'Biology',
+    'lebo1dd': 'Biology'
+}
+
+def decode_subject_code(subject_code: str) -> str:
+    """Convert subject code to human-readable name"""
+    if not subject_code:
+        return ""
+    return SUBJECT_CODE_TO_NAME.get(subject_code.lower(), subject_code)
 
 # Pydantic models
 class CourseJoinRequest(BaseModel):
@@ -187,7 +216,7 @@ async def join_course(
             description=course.description,
             board=course.board,
             class_level=course.class_level,
-            subject=course.subject,
+            subject=decode_subject_code(course.subject),  # FIXED: Decode subject
             teacher_name=teacher.full_name if teacher else None,
             teacher_email=teacher.email if teacher else "",
             enrollment_status=enrollment.status,
@@ -266,7 +295,7 @@ async def get_enrolled_courses(
                 description=course.description,
                 board=course.board,
                 class_level=course.class_level,
-                subject=course.subject,
+                subject=decode_subject_code(course.subject),  # FIXED: Decode subject
                 teacher_name=course.teacher_name,
                 teacher_email=course.teacher_email,
                 enrollment_status=course.enrollment_status,
