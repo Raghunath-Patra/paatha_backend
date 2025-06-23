@@ -1024,3 +1024,172 @@ async def update_question_marks(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error updating question marks: {str(e)}"
         )
+    
+class TeacherAttemptResultResponse(BaseModel):
+    attempt: AttemptSummary
+    questions_with_answers: List[Dict[str, Any]]
+    summary: Dict[str, Any]
+    student_info: Dict[str, Any]
+
+@router.get("/{quiz_id}/students/{student_id}/attempts/{attempt_id}/results", response_model=TeacherAttemptResultResponse)
+async def get_teacher_attempt_results(
+    quiz_id: str,
+    student_id: str,  # NOW USING STUDENT ID
+    attempt_id: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get detailed results for a specific student attempt (teacher view) - FIXED VERSION"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify quiz ownership first
+        quiz = db.query(Quiz).filter(
+            Quiz.id == quiz_id,
+            Quiz.teacher_id == current_user['id']
+        ).first()
+        
+        if not quiz:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Quiz not found or you don't have permission"
+            )
+        
+        # FIXED: Get attempt and verify it belongs to BOTH the quiz AND the student
+        attempt = db.query(QuizAttempt).filter(
+            QuizAttempt.id == attempt_id,
+            QuizAttempt.quiz_id == quiz_id,
+            QuizAttempt.student_id == student_id  # ADDED: Validate student_id
+        ).first()
+        
+        if not attempt:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Attempt not found for this student and quiz combination"
+            )
+        
+        # FIXED: Get student info and verify the student exists
+        student = db.query(User).filter(
+            User.id == student_id,
+            User.role == 'student'  # Additional validation
+        ).first()
+        
+        if not student:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Student not found"
+            )
+        
+        # Get responses with question details using the same query as student endpoint
+        query = text("""
+            SELECT 
+                qr.*,
+                qq.marks,
+                COALESCE(q.correct_answer, qq.custom_correct_answer) as correct_answer,
+                COALESCE(q.question_text, qq.custom_question_text) as question_text,
+                COALESCE(q.type, qq.custom_question_type) as question_type,
+                CASE 
+                    WHEN q.options IS NOT NULL THEN q.options::json
+                    WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
+                    ELSE NULL
+                END as options,
+                COALESCE(q.explanation, qq.custom_explanation) as explanation,
+                qq.order_index
+            FROM quiz_responses qr
+            JOIN quiz_questions qq ON qr.question_id = qq.id
+            LEFT JOIN questions q ON qq.ai_question_id = q.id
+            WHERE qr.attempt_id = :attempt_id
+              AND qr.student_id = :student_id  -- ADDED: Additional validation
+              AND qr.quiz_id = :quiz_id        -- ADDED: Additional validation
+            ORDER BY qq.order_index
+        """)
+        
+        responses_with_questions = db.execute(query, {
+            "attempt_id": attempt_id,
+            "student_id": student_id,
+            "quiz_id": quiz_id
+        }).fetchall()
+        
+        questions_with_answers = []
+        correct_count = 0
+        
+        for resp in responses_with_questions:
+            if resp.is_correct:
+                correct_count += 1
+            
+            questions_with_answers.append({
+                "question_id": str(resp.question_id),
+                "question_text": resp.question_text,
+                "question_type": resp.question_type,
+                "options": resp.options,
+                "student_answer": resp.response,
+                "correct_answer": resp.correct_answer,
+                "explanation": resp.explanation,
+                "marks": resp.marks,
+                "score": resp.score,
+                "is_correct": resp.is_correct,
+                "feedback": resp.feedback,
+                "time_spent": resp.time_spent,
+                "confidence_level": resp.confidence_level,
+                "flagged_for_review": resp.flagged_for_review
+            })
+        
+        # Create attempt summary
+        attempt_summary = AttemptSummary(
+            id=str(attempt.id),
+            student_id=str(attempt.student_id),
+            student_name=student.full_name,
+            student_email=student.email,
+            attempt_number=attempt.attempt_number,
+            obtained_marks=attempt.obtained_marks,
+            total_marks=attempt.total_marks,
+            percentage=attempt.percentage,
+            started_at=attempt.started_at.isoformat(),
+            submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
+            time_taken=attempt.time_taken,
+            status=attempt.status,
+            is_auto_graded=attempt.is_auto_graded,
+            teacher_reviewed=attempt.teacher_reviewed
+        )
+        
+        # Create summary
+        summary = {
+            "total_questions": len(responses_with_questions),
+            "correct_answers": correct_count,
+            "total_marks": attempt.total_marks,
+            "obtained_marks": attempt.obtained_marks,
+            "percentage": attempt.percentage,
+            "passed": attempt.percentage >= quiz.passing_marks,
+            "time_taken": attempt.time_taken,
+            "ai_grading_used": attempt.is_auto_graded,
+            "quiz_title": quiz.title,
+            "quiz_passing_marks": quiz.passing_marks
+        }
+        
+        # Student info
+        student_info = {
+            "id": str(student.id),
+            "name": student.full_name,
+            "email": student.email,
+            "board": student.board or "",
+            "class_level": student.class_level or "",
+            "institution_name": student.institution_name or ""
+        }
+        
+        logger.info(f"Teacher {current_user['id']} accessed attempt {attempt_id} for student {student_id} in quiz {quiz_id}")
+        
+        return TeacherAttemptResultResponse(
+            attempt=attempt_summary,
+            questions_with_answers=questions_with_answers,
+            summary=summary,
+            student_info=student_info
+        )
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting teacher attempt results: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error getting attempt results: {str(e)}"
+        )
