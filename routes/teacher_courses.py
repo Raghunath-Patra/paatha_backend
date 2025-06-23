@@ -1,20 +1,20 @@
-# backend/routes/teacher_courses.py - FIXED VERSION
+# backend/routes/teacher_courses.py - ENHANCED VERSION with Practice Performance
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
-from sqlalchemy import func, text
+from sqlalchemy import func, text, and_, or_
 from typing import List, Dict, Optional
 from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
-from models import Course, CourseEnrollment, User, Quiz
+from models import Course, CourseEnrollment, User, Quiz, UserAttempt
 import logging
 
 router = APIRouter(prefix="/api/teacher/courses", tags=["teacher-courses"])
 
 logger = logging.getLogger(__name__)
 
-# Pydantic models
+# Existing models...
 class CourseCreate(BaseModel):
     course_name: str
     description: Optional[str] = None
@@ -53,15 +53,118 @@ class StudentResponse(BaseModel):
     total_quizzes_taken: int
     average_score: float
 
+# NEW: Practice Performance Models
+class StudentPracticePerformance(BaseModel):
+    student_id: str
+    student_name: Optional[str]
+    student_email: str
+    total_practice_attempts: int
+    average_practice_score: float  # Out of 10
+    total_practice_time: int  # In seconds
+    unique_questions_attempted: int
+    chapters_covered: List[int]
+    best_score: float
+    latest_attempt_date: Optional[str]
+    performance_trend: str  # "improving", "declining", "stable"
+
+class ChapterPerformance(BaseModel):
+    chapter: int
+    chapter_name: Optional[str] = None
+    total_attempts: int
+    average_score: float
+    student_count: int
+    best_score: float
+    worst_score: float
+
+class PracticePerformanceStats(BaseModel):
+    total_students_practiced: int
+    total_practice_attempts: int
+    overall_average_score: float
+    most_attempted_chapter: Optional[int]
+    best_performing_chapter: Optional[int]
+    chapters_covered: List[int]
+
+class StudentPracticeFilter(BaseModel):
+    student_id: Optional[str] = None
+    chapter: Optional[int] = None
+    date_from: Optional[str] = None
+    date_to: Optional[str] = None
+    min_score: Optional[float] = None
+    max_score: Optional[float] = None
+
+class CoursePracticePerformanceResponse(BaseModel):
+    students: List[StudentPracticePerformance]
+    chapters: List[ChapterPerformance]
+    stats: PracticePerformanceStats
+
+# Utility functions for normalization
+def normalize_class_level(class_level: str) -> str:
+    """Normalize class level to standard format"""
+    if not class_level:
+        return class_level
+    
+    class_mapping = {
+        # Class 10 variations
+        'x': 'x', '10': 'x', '10th': 'x', 'tenth': 'x',
+        # Class 11 variations  
+        'xi': 'xi', '11': 'xi', '11th': 'xi', 'eleventh': 'xi',
+        # Class 12 variations
+        'xii': 'xii', '12': 'xii', '12th': 'xii', 'twelfth': 'xii',
+        # Class 9 variations
+        'ix': 'ix', '9': 'ix', '9th': 'ix', 'ninth': 'ix',
+        # Class 8 variations
+        'viii': 'viii', '8': 'viii', '8th': 'viii', 'eighth': 'viii'
+    }
+    
+    normalized = class_level.lower().strip()
+    return class_mapping.get(normalized, class_level.lower())
+
+def normalize_subject(subject: str) -> str:
+    """Normalize subject name to standard format"""
+    if not subject:
+        return subject
+    
+    subject_mapping = {
+        # Physics variations
+        'physics': 'physics', 'phy': 'physics',
+        # Chemistry variations  
+        'chemistry': 'chemistry', 'chem': 'chemistry', 'che': 'chemistry',
+        # Mathematics variations
+        'mathematics': 'mathematics', 'maths': 'mathematics', 'math': 'mathematics',
+        # Science variations
+        'science': 'science', 'sci': 'science',
+        # Biology variations
+        'biology': 'biology', 'bio': 'biology'
+    }
+    
+    normalized = subject.lower().strip().replace('-', ' ').replace('_', ' ')
+    return subject_mapping.get(normalized, subject.lower())
+
+def normalize_board(board: str) -> str:
+    """Normalize board name to standard format"""
+    if not board:
+        return board
+    
+    board_mapping = {
+        'cbse': 'cbse',
+        'icse': 'icse', 
+        'isc': 'isc',
+        'state': 'state',
+        'ncert': 'cbse'  # NCERT usually maps to CBSE
+    }
+    
+    normalized = board.lower().strip()
+    return board_mapping.get(normalized, board.lower())
+
 def check_teacher_permission(user: Dict):
     """Check if user is a teacher"""
-    # Uncomment when role-based auth is implemented
     if user.get('role') != 'teacher':
         raise HTTPException(
             status_code=status.HTTP_403_FORBIDDEN,
             detail="Only teachers can access this endpoint"
         )
-    # return True
+
+# Existing endpoints... (keeping all the original ones)
 
 @router.post("/", response_model=CourseResponse)
 async def create_course(
@@ -73,12 +176,9 @@ async def create_course(
     try:
         check_teacher_permission(current_user)
         
-        # REMOVED: Manual course code generation (handled by DB trigger)
-        # Create course - course_code will be auto-generated by database trigger
         new_course = Course(
             teacher_id=current_user['id'],
             course_name=course_data.course_name,
-            # course_code is NOT set here - let DB trigger handle it
             description=course_data.description,
             board=course_data.board,
             class_level=course_data.class_level,
@@ -90,7 +190,6 @@ async def create_course(
         db.commit()
         db.refresh(new_course)
         
-        # ENHANCED: Use optimized query with joins instead of separate queries
         stats_query = text("""
             SELECT 
                 COALESCE(student_count, 0) as current_students,
@@ -107,7 +206,7 @@ async def create_course(
         return CourseResponse(
             id=str(new_course.id),
             course_name=new_course.course_name,
-            course_code=new_course.course_code,  # This will be populated by DB trigger
+            course_code=new_course.course_code,
             description=new_course.description,
             board=new_course.board,
             class_level=new_course.class_level,
@@ -139,7 +238,6 @@ async def get_teacher_courses(
     try:
         check_teacher_permission(current_user)
         
-        # ENHANCED: More efficient query leveraging database indexes
         query = text("""
             SELECT 
                 c.id,
@@ -211,7 +309,6 @@ async def get_course_details(
     try:
         check_teacher_permission(current_user)
         
-        # ENHANCED: Single query with all needed data (RLS-compatible)
         query = text("""
             SELECT 
                 c.id,
@@ -278,7 +375,6 @@ async def update_course(
     try:
         check_teacher_permission(current_user)
         
-        # ENHANCED: Verify ownership and update in single transaction
         course = db.query(Course).filter(
             Course.id == course_id,
             Course.teacher_id == current_user['id']
@@ -290,7 +386,6 @@ async def update_course(
                 detail="Course not found"
             )
         
-        # Update only provided fields
         update_data = course_data.dict(exclude_unset=True)
         for field, value in update_data.items():
             setattr(course, field, value)
@@ -298,7 +393,6 @@ async def update_course(
         db.commit()
         db.refresh(course)
         
-        # Get updated stats efficiently
         stats_query = text("""
             SELECT 
                 (SELECT COUNT(*) FROM course_enrollments WHERE course_id = :course_id AND status = 'active') as current_students,
@@ -343,7 +437,6 @@ async def delete_course(
     try:
         check_teacher_permission(current_user)
         
-        # ENHANCED: Check ownership and dependencies in single query
         check_query = text("""
             SELECT 
                 c.id,
@@ -364,14 +457,12 @@ async def delete_course(
                 detail="Course not found"
             )
         
-        # ENHANCED: Check for dependencies before deletion
         if result.enrollment_count > 0 or result.quiz_count > 0:
             raise HTTPException(
                 status_code=status.HTTP_400_BAD_REQUEST,
                 detail="Cannot delete course with existing enrollments or quizzes"
             )
         
-        # Safe to delete
         course = db.query(Course).filter(Course.id == course_id).first()
         db.delete(course)
         db.commit()
@@ -398,7 +489,6 @@ async def get_course_students(
     try:
         check_teacher_permission(current_user)
         
-        # ENHANCED: Verify ownership first, then get students
         course = db.query(Course).filter(
             Course.id == course_id,
             Course.teacher_id == current_user['id']
@@ -410,7 +500,6 @@ async def get_course_students(
                 detail="Course not found"
             )
         
-        # Get students with enrollment details (leveraging indexes)
         query = text("""
             SELECT 
                 u.id,
@@ -461,7 +550,6 @@ async def remove_student(
     try:
         check_teacher_permission(current_user)
         
-        # ENHANCED: Verify course ownership and enrollment in single query
         verify_query = text("""
             SELECT ce.id
             FROM course_enrollments ce
@@ -483,7 +571,6 @@ async def remove_student(
                 detail="Student not found in your course"
             )
         
-        # Remove enrollment
         delete_query = text("""
             DELETE FROM course_enrollments 
             WHERE course_id = :course_id AND student_id = :student_id
@@ -505,4 +592,395 @@ async def remove_student(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error removing student: {str(e)}"
+        )
+
+# NEW: Practice Performance Endpoints
+
+@router.get("/{course_id}/practice-performance", response_model=CoursePracticePerformanceResponse)
+async def get_course_practice_performance(
+    course_id: str,
+    student_id: Optional[str] = None,
+    chapter: Optional[int] = None,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get practice performance for all students in a course"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify course ownership
+        course = db.query(Course).filter(
+            Course.id == course_id,
+            Course.teacher_id == current_user['id']
+        ).first()
+        
+        if not course:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Course not found"
+            )
+        
+        # Get enrolled students
+        enrolled_students_query = text("""
+            SELECT u.id, u.full_name, u.email 
+            FROM course_enrollments ce
+            JOIN profiles u ON ce.student_id = u.id
+            WHERE ce.course_id = :course_id AND ce.status = 'active'
+        """)
+        
+        enrolled_students = db.execute(enrolled_students_query, {"course_id": course_id}).fetchall()
+        
+        if not enrolled_students:
+            return CoursePracticePerformanceResponse(
+                students=[],
+                chapters=[],
+                stats=PracticePerformanceStats(
+                    total_students_practiced=0,
+                    total_practice_attempts=0,
+                    overall_average_score=0.0,
+                    most_attempted_chapter=None,
+                    best_performing_chapter=None,
+                    chapters_covered=[]
+                )
+            )
+        
+        student_ids = [str(student.id) for student in enrolled_students]
+        
+        # Normalize course details for matching
+        course_board = normalize_board(course.board)
+        course_class = normalize_class_level(course.class_level)
+        course_subject = normalize_subject(course.subject)
+        
+        # Build dynamic query for practice performance
+        base_query = """
+            SELECT 
+                ua.user_id,
+                u.full_name,
+                u.email,
+                ua.chapter,
+                COUNT(*) as attempt_count,
+                AVG(ua.score) as avg_score,
+                MAX(ua.score) as max_score,
+                MIN(ua.score) as min_score,
+                SUM(COALESCE(ua.time_taken, 0)) as total_time,
+                COUNT(DISTINCT ua.question_id) as unique_questions,
+                MAX(ua.created_at) as latest_attempt
+            FROM user_attempts ua
+            JOIN profiles u ON ua.user_id = u.id
+            WHERE ua.user_id = ANY(:student_ids)
+            AND (
+                (LOWER(ua.board) = :course_board OR :course_board = '' OR ua.board IS NULL)
+                AND (
+                    LOWER(ua.class_level) = :course_class 
+                    OR LOWER(ua.class_level) = :course_class_alt1
+                    OR LOWER(ua.class_level) = :course_class_alt2
+                    OR :course_class = '' 
+                    OR ua.class_level IS NULL
+                )
+                AND (
+                    LOWER(ua.subject) = :course_subject
+                    OR LOWER(REPLACE(REPLACE(ua.subject, '-', ' '), '_', ' ')) = :course_subject
+                    OR :course_subject = ''
+                    OR ua.subject IS NULL
+                )
+            )
+        """
+        
+        # Add filters if specified
+        if student_id:
+            base_query += " AND ua.user_id = :student_id"
+        if chapter:
+            base_query += " AND ua.chapter = :chapter"
+            
+        base_query += " GROUP BY ua.user_id, u.full_name, u.email, ua.chapter"
+        
+        # Generate class level alternatives
+        class_alternatives = {
+            'x': ['10', '10th'],
+            'xi': ['11', '11th'], 
+            'xii': ['12', '12th'],
+            'ix': ['9', '9th'],
+            'viii': ['8', '8th']
+        }
+        
+        alt1, alt2 = class_alternatives.get(course_class, ['', ''])[:2] if course_class in class_alternatives else ['', '']
+        
+        params = {
+            "student_ids": student_ids,
+            "course_board": course_board,
+            "course_class": course_class,
+            "course_class_alt1": alt1,
+            "course_class_alt2": alt2,
+            "course_subject": course_subject
+        }
+        
+        if student_id:
+            params["student_id"] = student_id
+        if chapter:
+            params["chapter"] = chapter
+            
+        performance_data = db.execute(text(base_query), params).fetchall()
+        
+        # Process student performance
+        student_performance_map = {}
+        chapter_performance_map = {}
+        all_chapters = set()
+        
+        for row in performance_data:
+            student_id_key = str(row.user_id)
+            chapter_key = row.chapter
+            
+            # Track chapters
+            all_chapters.add(chapter_key)
+            
+            # Aggregate student data
+            if student_id_key not in student_performance_map:
+                student_performance_map[student_id_key] = {
+                    'student_id': student_id_key,
+                    'student_name': row.full_name,
+                    'student_email': row.email,
+                    'total_attempts': 0,
+                    'total_score': 0,
+                    'total_time': 0,
+                    'unique_questions': 0,
+                    'chapters': [],
+                    'best_score': 0,
+                    'latest_attempt': None
+                }
+            
+            student_data = student_performance_map[student_id_key]
+            student_data['total_attempts'] += row.attempt_count
+            student_data['total_score'] += row.avg_score * row.attempt_count
+            student_data['total_time'] += row.total_time
+            student_data['unique_questions'] += row.unique_questions
+            student_data['chapters'].append(chapter_key)
+            student_data['best_score'] = max(student_data['best_score'], row.max_score)
+            
+            if not student_data['latest_attempt'] or row.latest_attempt > student_data['latest_attempt']:
+                student_data['latest_attempt'] = row.latest_attempt
+            
+            # Aggregate chapter data
+            if chapter_key not in chapter_performance_map:
+                chapter_performance_map[chapter_key] = {
+                    'chapter': chapter_key,
+                    'total_attempts': 0,
+                    'total_score': 0,
+                    'student_count': 0,
+                    'best_score': 0,
+                    'worst_score': 10,
+                    'attempt_counts': []
+                }
+            
+            chapter_data = chapter_performance_map[chapter_key]
+            chapter_data['total_attempts'] += row.attempt_count
+            chapter_data['total_score'] += row.avg_score * row.attempt_count
+            chapter_data['student_count'] += 1
+            chapter_data['best_score'] = max(chapter_data['best_score'], row.max_score)
+            chapter_data['worst_score'] = min(chapter_data['worst_score'], row.min_score)
+            chapter_data['attempt_counts'].append(row.attempt_count)
+        
+        # Build student responses
+        students = []
+        for student_data in student_performance_map.values():
+            avg_score = student_data['total_score'] / student_data['total_attempts'] if student_data['total_attempts'] > 0 else 0
+            
+            # Simple trend calculation (could be enhanced)
+            performance_trend = "stable"
+            if avg_score >= 8:
+                performance_trend = "improving"
+            elif avg_score < 5:
+                performance_trend = "declining"
+            
+            students.append(StudentPracticePerformance(
+                student_id=student_data['student_id'],
+                student_name=student_data['student_name'],
+                student_email=student_data['student_email'],
+                total_practice_attempts=student_data['total_attempts'],
+                average_practice_score=round(avg_score, 2),
+                total_practice_time=student_data['total_time'],
+                unique_questions_attempted=student_data['unique_questions'],
+                chapters_covered=student_data['chapters'],
+                best_score=student_data['best_score'],
+                latest_attempt_date=student_data['latest_attempt'].isoformat() if student_data['latest_attempt'] else None,
+                performance_trend=performance_trend
+            ))
+        
+        # Build chapter responses
+        chapters = []
+        for chapter_data in chapter_performance_map.values():
+            avg_score = chapter_data['total_score'] / chapter_data['total_attempts'] if chapter_data['total_attempts'] > 0 else 0
+            
+            chapters.append(ChapterPerformance(
+                chapter=chapter_data['chapter'],
+                total_attempts=chapter_data['total_attempts'],
+                average_score=round(avg_score, 2),
+                student_count=chapter_data['student_count'],
+                best_score=chapter_data['best_score'],
+                worst_score=chapter_data['worst_score'] if chapter_data['worst_score'] < 10 else 0
+            ))
+        
+        # Calculate overall stats
+        total_attempts = sum(s.total_practice_attempts for s in students)
+        overall_avg = sum(s.average_practice_score * s.total_practice_attempts for s in students) / total_attempts if total_attempts > 0 else 0
+        
+        most_attempted_chapter = max(chapters, key=lambda x: x.total_attempts).chapter if chapters else None
+        best_performing_chapter = max(chapters, key=lambda x: x.average_score).chapter if chapters else None
+        
+        stats = PracticePerformanceStats(
+            total_students_practiced=len(students),
+            total_practice_attempts=total_attempts,
+            overall_average_score=round(overall_avg, 2),
+            most_attempted_chapter=most_attempted_chapter,
+            best_performing_chapter=best_performing_chapter,
+            chapters_covered=sorted(list(all_chapters))
+        )
+        
+        return CoursePracticePerformanceResponse(
+            students=students,
+            chapters=chapters,
+            stats=stats
+        )
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error fetching course practice performance: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error fetching practice performance: {str(e)}"
+        )
+
+@router.get("/{course_id}/practice-performance/student/{student_id}")
+async def get_student_detailed_practice_performance(
+    course_id: str,
+    student_id: str,
+    chapter: Optional[int] = None,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get detailed practice performance for a specific student"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify course ownership and student enrollment
+        verify_query = text("""
+            SELECT c.id, c.board, c.class_level, c.subject
+            FROM courses c
+            JOIN course_enrollments ce ON c.id = ce.course_id
+            WHERE c.id = :course_id 
+              AND c.teacher_id = :teacher_id
+              AND ce.student_id = :student_id
+              AND ce.status = 'active'
+        """)
+        
+        course_info = db.execute(verify_query, {
+            "course_id": course_id,
+            "teacher_id": current_user['id'],
+            "student_id": student_id
+        }).fetchone()
+        
+        if not course_info:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Course not found or student not enrolled"
+            )
+        
+        # Normalize course details
+        course_board = normalize_board(course_info.board)
+        course_class = normalize_class_level(course_info.class_level)
+        course_subject = normalize_subject(course_info.subject)
+        
+        # Get detailed attempt data
+        detail_query = """
+            SELECT 
+                ua.*,
+                q.question_text,
+                q.correct_answer,
+                q.difficulty,
+                q.type as question_type
+            FROM user_attempts ua
+            LEFT JOIN questions q ON ua.question_id = q.id
+            WHERE ua.user_id = :student_id
+            AND (
+                (LOWER(ua.board) = :course_board OR :course_board = '' OR ua.board IS NULL)
+                AND (
+                    LOWER(ua.class_level) = :course_class 
+                    OR LOWER(ua.class_level) = :course_class_alt1
+                    OR LOWER(ua.class_level) = :course_class_alt2
+                    OR :course_class = '' 
+                    OR ua.class_level IS NULL
+                )
+                AND (
+                    LOWER(ua.subject) = :course_subject
+                    OR LOWER(REPLACE(REPLACE(ua.subject, '-', ' '), '_', ' ')) = :course_subject
+                    OR :course_subject = ''
+                    OR ua.subject IS NULL
+                )
+            )
+        """
+        
+        if chapter:
+            detail_query += " AND ua.chapter = :chapter"
+            
+        detail_query += " ORDER BY ua.created_at DESC LIMIT 100"
+        
+        # Generate class level alternatives
+        class_alternatives = {
+            'x': ['10', '10th'],
+            'xi': ['11', '11th'], 
+            'xii': ['12', '12th'],
+            'ix': ['9', '9th'],
+            'viii': ['8', '8th']
+        }
+        
+        alt1, alt2 = class_alternatives.get(course_class, ['', ''])[:2] if course_class in class_alternatives else ['', '']
+        
+        params = {
+            "student_id": student_id,
+            "course_board": course_board,
+            "course_class": course_class,
+            "course_class_alt1": alt1,
+            "course_class_alt2": alt2,
+            "course_subject": course_subject
+        }
+        
+        if chapter:
+            params["chapter"] = chapter
+            
+        attempts = db.execute(text(detail_query), params).fetchall()
+        
+        # Format detailed response
+        detailed_attempts = []
+        for attempt in attempts:
+            detailed_attempts.append({
+                "id": str(attempt.id),
+                "question_id": str(attempt.question_id),
+                "question_text": attempt.question_text if hasattr(attempt, 'question_text') else None,
+                "user_answer": attempt.answer,
+                "correct_answer": attempt.correct_answer if hasattr(attempt, 'correct_answer') else None,
+                "score": attempt.score,
+                "max_score": 10,
+                "feedback": attempt.feedback,
+                "time_taken": attempt.time_taken,
+                "chapter": attempt.chapter,
+                "difficulty": attempt.difficulty if hasattr(attempt, 'difficulty') else None,
+                "question_type": attempt.question_type if hasattr(attempt, 'question_type') else None,
+                "attempted_at": attempt.created_at.isoformat()
+            })
+        
+        return {
+            "student_id": student_id,
+            "course_id": course_id,
+            "chapter_filter": chapter,
+            "total_attempts": len(detailed_attempts),
+            "attempts": detailed_attempts
+        }
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error fetching student detailed practice performance: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error fetching detailed practice performance: {str(e)}"
         )
