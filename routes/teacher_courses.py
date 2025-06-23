@@ -568,7 +568,11 @@ async def get_course_practice_performance(
 ):
     """Get practice performance for all students in a course - SIMPLIFIED VERSION"""
     try:
+        logger.info(f"Starting get_course_practice_performance for course_id: {course_id}, teacher_id: {current_user['id']}")
+        logger.info(f"Filters - student_id: {student_id}, chapter: {chapter}")
+        
         check_teacher_permission(current_user)
+        logger.debug("Teacher permission check passed")
         
         # Verify course ownership and get course details
         course_query = text("""
@@ -577,16 +581,20 @@ async def get_course_practice_performance(
             WHERE id = :course_id AND teacher_id = :teacher_id
         """)
         
+        logger.debug(f"Executing course query for course_id: {course_id}, teacher_id: {current_user['id']}")
         course = db.execute(course_query, {
             "course_id": course_id,
             "teacher_id": current_user['id']
         }).fetchone()
         
         if not course:
+            logger.warning(f"Course not found - course_id: {course_id}, teacher_id: {current_user['id']}")
             raise HTTPException(
                 status_code=status.HTTP_404_NOT_FOUND,
                 detail="Course not found"
             )
+        
+        logger.info(f"Course found - ID: {course.id}, Board: {course.board}, Class: {course.class_level}, Subject: {course.subject}")
         
         # Get enrolled students for this course
         enrolled_students_query = text("""
@@ -596,9 +604,15 @@ async def get_course_practice_performance(
             WHERE ce.course_id = :course_id AND ce.status = 'active'
         """)
         
+        logger.debug(f"Fetching enrolled students for course_id: {course_id}")
         enrolled_students = db.execute(enrolled_students_query, {"course_id": course_id}).fetchall()
         
+        logger.info(f"Found {len(enrolled_students)} enrolled students")
+        if len(enrolled_students) > 0:
+            logger.debug(f"Sample enrolled student: {enrolled_students[0].full_name} ({enrolled_students[0].student_id})")
+        
         if not enrolled_students:
+            logger.warning("No enrolled students found, returning empty response")
             return CoursePracticePerformanceResponse(
                 students=[],
                 chapters=[],
@@ -615,6 +629,8 @@ async def get_course_practice_performance(
         # Get student UUIDs for the query
         student_uuids = [str(student.student_id) for student in enrolled_students]
         student_uuid_placeholders = "'" + "','".join(student_uuids) + "'"
+        
+        logger.debug(f"Student UUIDs for query: {student_uuids[:3]}{'...' if len(student_uuids) > 3 else ''}")
         
         # Build the main query to fetch practice attempts
         base_query = f"""
@@ -641,8 +657,10 @@ async def get_course_practice_performance(
         # Add filters if specified
         if student_id:
             base_query += f" AND ua.user_id::text = '{student_id}'"
+            logger.info(f"Added student_id filter: {student_id}")
         if chapter:
             base_query += " AND ua.chapter = :chapter"
+            logger.info(f"Added chapter filter: {chapter}")
             
         base_query += " GROUP BY ua.user_id, u.full_name, u.email, ua.chapter"
         base_query += " ORDER BY u.full_name, ua.chapter"
@@ -657,14 +675,29 @@ async def get_course_practice_performance(
         if chapter:
             params["chapter"] = chapter
             
+        logger.info(f"Query parameters: {params}")
+        logger.debug(f"Executing performance query...")
+        
         performance_data = db.execute(text(base_query), params).fetchall()
+        
+        logger.info(f"Performance query returned {len(performance_data)} rows")
+        if len(performance_data) > 0:
+            logger.debug(f"Sample performance row: User: {performance_data[0].full_name}, Chapter: {performance_data[0].chapter}, Attempts: {performance_data[0].attempt_count}, Avg Score: {performance_data[0].avg_score}")
+        else:
+            logger.warning("No performance data found - checking if this is expected")
+            logger.debug(f"Query was looking for board: {course.board}, class: {course.class_level}, subject: {course.subject}")
         
         # Process student performance
         student_performance_map = {}
         chapter_performance_map = {}
         all_chapters = set()
         
-        for row in performance_data:
+        logger.debug("Starting data processing...")
+        
+        for i, row in enumerate(performance_data):
+            if i == 0:
+                logger.debug(f"Processing first row: {row.full_name}, Chapter {row.chapter}")
+            
             student_id_key = str(row.user_id)
             chapter_key = row.chapter
             
@@ -685,6 +718,7 @@ async def get_course_practice_performance(
                     'best_score': 0,
                     'latest_attempt': None
                 }
+                logger.debug(f"Created new student entry for: {row.full_name}")
             
             student_data = student_performance_map[student_id_key]
             student_data['total_attempts'] += row.attempt_count
@@ -707,6 +741,7 @@ async def get_course_practice_performance(
                     'best_score': 0,
                     'worst_score': 10
                 }
+                logger.debug(f"Created new chapter entry for: Chapter {chapter_key}")
             
             chapter_data = chapter_performance_map[chapter_key]
             chapter_data['total_attempts'] += row.attempt_count
@@ -715,8 +750,13 @@ async def get_course_practice_performance(
             chapter_data['best_score'] = max(chapter_data['best_score'], row.max_score)
             chapter_data['worst_score'] = min(chapter_data['worst_score'], row.min_score)
         
+        logger.info(f"Data processing complete. Students processed: {len(student_performance_map)}, Chapters found: {len(chapter_performance_map)}")
+        logger.info(f"All chapters discovered: {sorted(list(all_chapters))}")
+        
         # Build student responses
         students = []
+        logger.debug("Building student responses...")
+        
         for student_data in student_performance_map.values():
             avg_score = student_data['total_score'] / student_data['total_attempts'] if student_data['total_attempts'] > 0 else 0
             
@@ -727,7 +767,7 @@ async def get_course_practice_performance(
             elif avg_score < 5:
                 performance_trend = "declining"
             
-            students.append(StudentPracticePerformance(
+            student_performance = StudentPracticePerformance(
                 student_id=student_data['student_id'],
                 student_name=student_data['student_name'],
                 student_email=student_data['student_email'],
@@ -739,21 +779,29 @@ async def get_course_practice_performance(
                 best_score=student_data['best_score'],
                 latest_attempt_date=student_data['latest_attempt'].isoformat() if student_data['latest_attempt'] else None,
                 performance_trend=performance_trend
-            ))
+            )
+            
+            students.append(student_performance)
+            logger.debug(f"Added student: {student_data['student_name']} - {student_data['total_attempts']} attempts, avg: {avg_score:.2f}")
         
         # Build chapter responses
         chapters = []
+        logger.debug("Building chapter responses...")
+        
         for chapter_data in chapter_performance_map.values():
             avg_score = chapter_data['total_score'] / chapter_data['total_attempts'] if chapter_data['total_attempts'] > 0 else 0
             
-            chapters.append(ChapterPerformance(
+            chapter_performance = ChapterPerformance(
                 chapter=chapter_data['chapter'],
                 total_attempts=chapter_data['total_attempts'],
                 average_score=round(avg_score, 2),
                 student_count=chapter_data['student_count'],
                 best_score=chapter_data['best_score'],
                 worst_score=chapter_data['worst_score'] if chapter_data['worst_score'] < 10 else 0
-            ))
+            )
+            
+            chapters.append(chapter_performance)
+            logger.debug(f"Added chapter: {chapter_data['chapter']} - {chapter_data['total_attempts']} attempts, {chapter_data['student_count']} students, avg: {avg_score:.2f}")
         
         # Sort chapters by chapter number
         chapters.sort(key=lambda x: x.chapter)
@@ -765,6 +813,13 @@ async def get_course_practice_performance(
         most_attempted_chapter = max(chapters, key=lambda x: x.total_attempts).chapter if chapters else None
         best_performing_chapter = max(chapters, key=lambda x: x.average_score).chapter if chapters else None
         
+        logger.info(f"Final stats calculated:")
+        logger.info(f"  - Total students with practice data: {len(students)}")
+        logger.info(f"  - Total practice attempts: {total_attempts}")
+        logger.info(f"  - Overall average score: {overall_avg:.2f}")
+        logger.info(f"  - Most attempted chapter: {most_attempted_chapter}")
+        logger.info(f"  - Best performing chapter: {best_performing_chapter}")
+        
         stats = PracticePerformanceStats(
             total_students_practiced=len(students),
             total_practice_attempts=total_attempts,
@@ -774,21 +829,24 @@ async def get_course_practice_performance(
             chapters_covered=sorted(list(all_chapters))
         )
         
-        return CoursePracticePerformanceResponse(
+        response = CoursePracticePerformanceResponse(
             students=students,
             chapters=chapters,
             stats=stats
         )
         
+        logger.info(f"Successfully returning response with {len(students)} students and {len(chapters)} chapters")
+        return response
+        
     except HTTPException as he:
+        logger.error(f"HTTP Exception in get_course_practice_performance: {he.detail}")
         raise he
     except Exception as e:
-        logger.error(f"Error fetching course practice performance: {str(e)}")
+        logger.error(f"Unexpected error in get_course_practice_performance: {str(e)}", exc_info=True)
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error fetching practice performance: {str(e)}"
         )
-
 
 @router.get("/{course_id}/practice-performance/student/{student_id}")
 async def get_student_detailed_practice_performance(
