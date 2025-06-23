@@ -84,77 +84,10 @@ class PracticePerformanceStats(BaseModel):
     best_performing_chapter: Optional[int]
     chapters_covered: List[int]
 
-class StudentPracticeFilter(BaseModel):
-    student_id: Optional[str] = None
-    chapter: Optional[int] = None
-    date_from: Optional[str] = None
-    date_to: Optional[str] = None
-    min_score: Optional[float] = None
-    max_score: Optional[float] = None
-
 class CoursePracticePerformanceResponse(BaseModel):
     students: List[StudentPracticePerformance]
     chapters: List[ChapterPerformance]
     stats: PracticePerformanceStats
-
-# Utility functions for normalization
-def normalize_class_level(class_level: str) -> str:
-    """Normalize class level to standard format"""
-    if not class_level:
-        return class_level
-    
-    class_mapping = {
-        # Class 10 variations
-        'x': 'x', '10': 'x', '10th': 'x', 'tenth': 'x',
-        # Class 11 variations  
-        'xi': 'xi', '11': 'xi', '11th': 'xi', 'eleventh': 'xi',
-        # Class 12 variations
-        'xii': 'xii', '12': 'xii', '12th': 'xii', 'twelfth': 'xii',
-        # Class 9 variations
-        'ix': 'ix', '9': 'ix', '9th': 'ix', 'ninth': 'ix',
-        # Class 8 variations
-        'viii': 'viii', '8': 'viii', '8th': 'viii', 'eighth': 'viii'
-    }
-    
-    normalized = class_level.lower().strip()
-    return class_mapping.get(normalized, class_level.lower())
-
-def normalize_subject(subject: str) -> str:
-    """Normalize subject name to standard format"""
-    if not subject:
-        return subject
-    
-    subject_mapping = {
-        # Physics variations
-        'physics': 'physics', 'phy': 'physics',
-        # Chemistry variations  
-        'chemistry': 'chemistry', 'chem': 'chemistry', 'che': 'chemistry',
-        # Mathematics variations
-        'mathematics': 'mathematics', 'maths': 'mathematics', 'math': 'mathematics',
-        # Science variations
-        'science': 'science', 'sci': 'science',
-        # Biology variations
-        'biology': 'biology', 'bio': 'biology'
-    }
-    
-    normalized = subject.lower().strip().replace('-', ' ').replace('_', ' ')
-    return subject_mapping.get(normalized, subject.lower())
-
-def normalize_board(board: str) -> str:
-    """Normalize board name to standard format"""
-    if not board:
-        return board
-    
-    board_mapping = {
-        'cbse': 'cbse',
-        'icse': 'icse', 
-        'isc': 'isc',
-        'state': 'state',
-        'ncert': 'cbse'  # NCERT usually maps to CBSE
-    }
-    
-    normalized = board.lower().strip()
-    return board_mapping.get(normalized, board.lower())
 
 def check_teacher_permission(user: Dict):
     """Check if user is a teacher"""
@@ -604,15 +537,21 @@ async def get_course_practice_performance(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get practice performance for all students in a course - UUID FIXED"""
+    """Get practice performance for all students in a course - SIMPLIFIED VERSION"""
     try:
         check_teacher_permission(current_user)
         
-        # Verify course ownership
-        course = db.query(Course).filter(
-            Course.id == course_id,
-            Course.teacher_id == current_user['id']
-        ).first()
+        # Verify course ownership and get course details
+        course_query = text("""
+            SELECT id, board, class_level, subject
+            FROM courses 
+            WHERE id = :course_id AND teacher_id = :teacher_id
+        """)
+        
+        course = db.execute(course_query, {
+            "course_id": course_id,
+            "teacher_id": current_user['id']
+        }).fetchone()
         
         if not course:
             raise HTTPException(
@@ -620,9 +559,9 @@ async def get_course_practice_performance(
                 detail="Course not found"
             )
         
-        # Get enrolled students
+        # Get enrolled students for this course
         enrolled_students_query = text("""
-            SELECT u.id, u.full_name, u.email 
+            SELECT ce.student_id, u.full_name, u.email 
             FROM course_enrollments ce
             JOIN profiles u ON ce.student_id = u.id
             WHERE ce.course_id = :course_id AND ce.status = 'active'
@@ -644,27 +583,11 @@ async def get_course_practice_performance(
                 )
             )
         
-        # Convert to string UUIDs and create SQL-safe list
-        student_uuids = [str(student.id) for student in enrolled_students]
+        # Get student UUIDs for the query
+        student_uuids = [str(student.student_id) for student in enrolled_students]
         student_uuid_placeholders = "'" + "','".join(student_uuids) + "'"
         
-        # Normalize course details for matching
-        course_board = normalize_board(course.board)
-        course_class = normalize_class_level(course.class_level)
-        course_subject = normalize_subject(course.subject)
-        
-        # Generate class level alternatives
-        class_alternatives = {
-            'x': ['10', '10th'],
-            'xi': ['11', '11th'], 
-            'xii': ['12', '12th'],
-            'ix': ['9', '9th'],
-            'viii': ['8', '8th']
-        }
-        
-        alt1, alt2 = class_alternatives.get(course_class, ['', ''])[:2] if course_class in class_alternatives else ['', '']
-        
-        # Build the main query with fixed UUID handling
+        # Build the main query to fetch practice attempts
         base_query = f"""
             SELECT 
                 ua.user_id,
@@ -681,20 +604,9 @@ async def get_course_practice_performance(
             FROM user_attempts ua
             JOIN profiles u ON ua.user_id = u.id
             WHERE ua.user_id::text IN ({student_uuid_placeholders})
-            AND (
-                (LOWER(COALESCE(ua.board, '')) = :course_board OR :course_board = '')
-                AND (
-                    LOWER(COALESCE(ua.class_level, '')) = :course_class 
-                    OR LOWER(COALESCE(ua.class_level, '')) = :course_class_alt1
-                    OR LOWER(COALESCE(ua.class_level, '')) = :course_class_alt2
-                    OR :course_class = ''
-                )
-                AND (
-                    LOWER(COALESCE(ua.subject, '')) = :course_subject
-                    OR LOWER(REPLACE(REPLACE(COALESCE(ua.subject, ''), '-', ' '), '_', ' ')) = :course_subject
-                    OR :course_subject = ''
-                )
-            )
+            AND ua.board = :course_board
+            AND ua.class_level = :course_class
+            AND ua.subject = :course_subject
         """
         
         # Add filters if specified
@@ -704,13 +616,13 @@ async def get_course_practice_performance(
             base_query += " AND ua.chapter = :chapter"
             
         base_query += " GROUP BY ua.user_id, u.full_name, u.email, ua.chapter"
+        base_query += " ORDER BY u.full_name, ua.chapter"
         
+        # Set parameters
         params = {
-            "course_board": course_board,
-            "course_class": course_class,
-            "course_class_alt1": alt1,
-            "course_class_alt2": alt2,
-            "course_subject": course_subject
+            "course_board": course.board,
+            "course_class": course.class_level,
+            "course_subject": course.subject
         }
         
         if chapter:
@@ -764,8 +676,7 @@ async def get_course_practice_performance(
                     'total_score': 0,
                     'student_count': 0,
                     'best_score': 0,
-                    'worst_score': 10,
-                    'attempt_counts': []
+                    'worst_score': 10
                 }
             
             chapter_data = chapter_performance_map[chapter_key]
@@ -774,7 +685,6 @@ async def get_course_practice_performance(
             chapter_data['student_count'] += 1
             chapter_data['best_score'] = max(chapter_data['best_score'], row.max_score)
             chapter_data['worst_score'] = min(chapter_data['worst_score'], row.min_score)
-            chapter_data['attempt_counts'].append(row.attempt_count)
         
         # Build student responses
         students = []
@@ -796,7 +706,7 @@ async def get_course_practice_performance(
                 average_practice_score=round(avg_score, 2),
                 total_practice_time=student_data['total_time'],
                 unique_questions_attempted=student_data['unique_questions'],
-                chapters_covered=student_data['chapters'],
+                chapters_covered=list(set(student_data['chapters'])),  # Remove duplicates
                 best_score=student_data['best_score'],
                 latest_attempt_date=student_data['latest_attempt'].isoformat() if student_data['latest_attempt'] else None,
                 performance_trend=performance_trend
@@ -815,6 +725,9 @@ async def get_course_practice_performance(
                 best_score=chapter_data['best_score'],
                 worst_score=chapter_data['worst_score'] if chapter_data['worst_score'] < 10 else 0
             ))
+        
+        # Sort chapters by chapter number
+        chapters.sort(key=lambda x: x.chapter)
         
         # Calculate overall stats
         total_attempts = sum(s.total_practice_attempts for s in students)
@@ -856,11 +769,11 @@ async def get_student_detailed_practice_performance(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get detailed practice performance for a specific student - UUID FIXED"""
+    """Get detailed practice performance for a specific student - SIMPLIFIED VERSION"""
     try:
         check_teacher_permission(current_user)
         
-        # Verify course ownership and student enrollment
+        # Verify course ownership, student enrollment, and get course details
         verify_query = text("""
             SELECT c.id, c.board, c.class_level, c.subject
             FROM courses c
@@ -883,12 +796,7 @@ async def get_student_detailed_practice_performance(
                 detail="Course not found or student not enrolled"
             )
         
-        # Normalize course details
-        course_board = normalize_board(course_info.board)
-        course_class = normalize_class_level(course_info.class_level)
-        course_subject = normalize_subject(course_info.subject)
-        
-        # Get detailed attempt data with fixed UUID handling
+        # Get detailed attempt data with exact matching
         detail_query = f"""
             SELECT 
                 ua.*,
@@ -899,20 +807,9 @@ async def get_student_detailed_practice_performance(
             FROM user_attempts ua
             LEFT JOIN questions q ON ua.question_id = q.id
             WHERE ua.user_id::text = '{student_id}'
-            AND (
-                (LOWER(COALESCE(ua.board, '')) = :course_board OR :course_board = '')
-                AND (
-                    LOWER(COALESCE(ua.class_level, '')) = :course_class 
-                    OR LOWER(COALESCE(ua.class_level, '')) = :course_class_alt1
-                    OR LOWER(COALESCE(ua.class_level, '')) = :course_class_alt2
-                    OR :course_class = ''
-                )
-                AND (
-                    LOWER(COALESCE(ua.subject, '')) = :course_subject
-                    OR LOWER(REPLACE(REPLACE(COALESCE(ua.subject, ''), '-', ' '), '_', ' ')) = :course_subject
-                    OR :course_subject = ''
-                )
-            )
+            AND ua.board = :course_board
+            AND ua.class_level = :course_class
+            AND ua.subject = :course_subject
         """
         
         if chapter:
@@ -920,23 +817,10 @@ async def get_student_detailed_practice_performance(
             
         detail_query += " ORDER BY ua.created_at DESC LIMIT 100"
         
-        # Generate class level alternatives
-        class_alternatives = {
-            'x': ['10', '10th'],
-            'xi': ['11', '11th'], 
-            'xii': ['12', '12th'],
-            'ix': ['9', '9th'],
-            'viii': ['8', '8th']
-        }
-        
-        alt1, alt2 = class_alternatives.get(course_class, ['', ''])[:2] if course_class in class_alternatives else ['', '']
-        
         params = {
-            "course_board": course_board,
-            "course_class": course_class,
-            "course_class_alt1": alt1,
-            "course_class_alt2": alt2,
-            "course_subject": course_subject
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
         }
         
         if chapter:
