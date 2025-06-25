@@ -1,4 +1,4 @@
-# backend/routes/student_courses.py - FIXED VERSION with Subject Decoder
+# backend/routes/student_courses.py - TIMEZONE FIX
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
@@ -36,8 +36,24 @@ def ensure_india_timezone(dt):
     else:
         # Convert to India timezone
         utc_dt = dt.astimezone(timezone.utc)
-        offset = timedelta(hours=0, minutes=0)
+        offset = timedelta(hours=5, minutes=30)  # FIXED: Proper IST offset
         return utc_dt.replace(tzinfo=None) + offset
+
+# FIXED: Function to convert naive datetime to IST ISO string
+def to_ist_iso_string(dt):
+    """Convert naive datetime (assumed to be in IST) to ISO string with timezone info"""
+    if dt is None:
+        return None
+    
+    # If datetime is naive, assume it's in IST
+    if dt.tzinfo is None:
+        # Create IST timezone (UTC+5:30)
+        ist_tz = timezone(timedelta(hours=5, minutes=30))
+        # Add timezone info to the datetime
+        dt_with_tz = dt.replace(tzinfo=ist_tz)
+        return dt_with_tz.isoformat()
+    else:
+        return dt.isoformat()
 
 # NEW: Subject code decoder
 SUBJECT_CODE_TO_NAME = {
@@ -105,16 +121,11 @@ class QuizSummary(BaseModel):
     quiz_status_value: str  # 'not_started', 'in_progress', 'completed', 'time_expired'
 
 def check_student_permission(user: Dict):
-    # 🚨 TEMPORARY DEBUG - See what user data looks like
-    
-    # 🚨 TEMPORARY - Comment out the role check
     if user.get('role') != 'student':
         raise HTTPException(
             status_code=status.HTTP_403_FORBIDDEN,
             detail="Only students can access this endpoint"
         )
-    
-    # return True  # Allow everyone for debugging
 
 @router.post("/join", response_model=StudentCourseResponse)
 async def join_course(
@@ -216,7 +227,7 @@ async def join_course(
             description=course.description,
             board=course.board,
             class_level=course.class_level,
-            subject=decode_subject_code(course.subject),  # FIXED: Decode subject
+            subject=decode_subject_code(course.subject),
             teacher_name=teacher.full_name if teacher else None,
             teacher_email=teacher.email if teacher else "",
             enrollment_status=enrollment.status,
@@ -295,7 +306,7 @@ async def get_enrolled_courses(
                 description=course.description,
                 board=course.board,
                 class_level=course.class_level,
-                subject=decode_subject_code(course.subject),  # FIXED: Decode subject
+                subject=decode_subject_code(course.subject),
                 teacher_name=course.teacher_name,
                 teacher_email=course.teacher_email,
                 enrollment_status=course.enrollment_status,
@@ -339,7 +350,7 @@ async def get_course_quizzes(
                 detail="You are not enrolled in this course"
             )
         
-        # FIXED: Query quizzes with attempt statistics - removed problematic datetime comparison
+        # Query quizzes with attempt statistics
         query = text("""
             SELECT 
                 q.id,
@@ -375,7 +386,7 @@ async def get_course_quizzes(
         
         results = []
         for quiz in quizzes:
-            # FIXED: Determine quiz status in Python instead of SQL to avoid datetime issues
+            # Determine quiz status
             status_value = "not_started"
             if quiz.my_attempts > 0:
                 if quiz.my_attempts >= quiz.attempts_allowed:
@@ -383,10 +394,10 @@ async def get_course_quizzes(
                 else:
                     status_value = "in_progress"
             
-            # FIXED: Handle datetime comparison safely with India timezone
+            # Handle datetime comparison safely with India timezone
             now = get_india_time()
-            start_time = ensure_india_timezone(quiz.start_time)
-            end_time = ensure_india_timezone(quiz.end_time)
+            start_time = quiz.start_time
+            end_time = quiz.end_time
             
             quiz_status_value = "in_progress"  # Default to in_progress
             if start_time and start_time > now:
@@ -402,13 +413,14 @@ async def get_course_quizzes(
                 passing_marks=quiz.passing_marks,
                 time_limit=quiz.time_limit,
                 is_published=quiz.is_published,
-                start_time=quiz.start_time.isoformat() if quiz.start_time else None,
-                end_time=quiz.end_time.isoformat() if quiz.end_time else None,
+                # FIXED: Use the new function to properly format datetime with timezone
+                start_time=to_ist_iso_string(quiz.start_time),
+                end_time=to_ist_iso_string(quiz.end_time),
                 attempts_allowed=quiz.attempts_allowed,
                 my_attempts=quiz.my_attempts,
                 best_score=float(quiz.best_score) if quiz.best_score else None,
                 status=status_value,
-                quiz_status_value = quiz_status_value
+                quiz_status_value=quiz_status_value
             ))
         
         return results
