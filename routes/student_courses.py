@@ -46,7 +46,7 @@ def to_ist_iso_string(dt):
     # If datetime is naive, assume it's in IST
     if dt.tzinfo is None:
         # Create IST timezone (UTC+5:30)
-        ist_tz = timezone(timedelta(hours=5, minutes=30))
+        ist_tz = timezone(timedelta(hours=0, minutes=0))
         # Add timezone info to the datetime
         dt_with_tz = dt.replace(tzinfo=ist_tz)
         return dt_with_tz.isoformat()
