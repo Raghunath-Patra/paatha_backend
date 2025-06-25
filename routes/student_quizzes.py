@@ -129,7 +129,7 @@ def ensure_india_timezone(dt):
     else:
         # Convert to India timezone
         utc_dt = dt.astimezone(timezone.utc)
-        offset = timedelta(hours=5, minutes=30)
+        offset = timedelta(hours=0, minutes=0)
         return utc_dt.replace(tzinfo=None) + offset
 
 def check_student_permission(user: Dict):
