@@ -38,6 +38,20 @@ def ensure_india_timezone(dt):
         utc_dt = dt.astimezone(timezone.utc)
         offset = timedelta(hours=0, minutes=0)
         return utc_dt.replace(tzinfo=None) + offset
+def to_ist_iso_string(dt):
+    """Convert naive datetime (assumed to be in IST) to ISO string with timezone info"""
+    if dt is None:
+        return None
+    
+    # If datetime is naive, assume it's in IST
+    if dt.tzinfo is None:
+        # Create IST timezone (UTC+5:30)
+        ist_tz = timezone(timedelta(hours=5, minutes=30))
+        # Add timezone info to the datetime
+        dt_with_tz = dt.replace(tzinfo=ist_tz)
+        return dt_with_tz.isoformat()
+    else:
+        return dt.isoformat()
 
 # NEW: Subject code decoder
 SUBJECT_CODE_TO_NAME = {
@@ -402,8 +416,8 @@ async def get_course_quizzes(
                 passing_marks=quiz.passing_marks,
                 time_limit=quiz.time_limit,
                 is_published=quiz.is_published,
-                start_time=quiz.start_time if quiz.start_time else None,
-                end_time=quiz.end_time if quiz.end_time else None,
+                start_time=to_ist_iso_string(quiz.start_time),
+                end_time=to_ist_iso_string(quiz.end_time),
                 attempts_allowed=quiz.attempts_allowed,
                 my_attempts=quiz.my_attempts,
                 best_score=float(quiz.best_score) if quiz.best_score else None,
