@@ -2,6 +2,7 @@
 # Make sure httpx is included:
 httpx>=0.24.0
 
+Pillow==10.4.0
 
 tiktoken==0.5.2
 
