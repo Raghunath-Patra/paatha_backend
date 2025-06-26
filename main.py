@@ -37,6 +37,7 @@ from routes import promo_code
 from routes import try_routes, teacher_courses, student_courses, teacher_quizzes, question_browser, student_quizzes
 from routes import subjects_config
 from services.consolidated_user_service import consolidated_service
+from routes import image_upload
 
 
 logger = logging.getLogger(__name__)
@@ -96,6 +97,8 @@ app.include_router(teacher_quizzes.router)
 app.include_router(question_browser.router)
 app.include_router(student_quizzes.router)
 app.include_router(subjects_config.router)
+
+app.include_router(image_upload.router)
 
 # Add middleware
 app.add_middleware(SecurityHeadersMiddleware)
