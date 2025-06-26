@@ -34,7 +34,7 @@ class ImageService:
                         "content": [
                             {
                                 "type": "text", 
-                                "text": "Extract all content from this student's answer, including both handwritten text and descriptions of any drawings, diagrams, or visual elements."
+                                "text": "Extract all content from this student's answer, including both handwritten text and descriptions of any drawings, or diagrams."
                             },
                             {
                                 "type": "image_url",
