@@ -3,8 +3,9 @@ from fastapi import APIRouter, HTTPException, Depends, UploadFile, File
 from fastapi.security import HTTPBearer
 import base64
 import io
-from PIL import Image
 import logging
+import traceback
+from PIL import Image
 from services.image_service import image_service
 from config.database import get_db
 from config.security import get_current_user
@@ -93,6 +94,13 @@ async def process_image_for_text(
         try:
             extracted_text, usage_stats = image_service.process_image(image_base64)
             
+            # Ensure we have valid data types
+            if not isinstance(extracted_text, str):
+                extracted_text = str(extracted_text) if extracted_text else ""
+                
+            if not isinstance(usage_stats, dict):
+                usage_stats = {}
+            
             # Handle case where no text was extracted
             if not extracted_text or extracted_text.strip() == "":
                 extracted_text = "No text or readable content could be extracted from this image. The image may be too blurry, contain no text, or the handwriting may be unclear."
@@ -110,6 +118,9 @@ async def process_image_for_text(
             
         except Exception as e:
             logger.error(f"Error in image service: {str(e)}")
+            logger.error(f"Error type: {type(e)}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
+            
             # Check if it's an API-related error
             if "API" in str(e) or "openai" in str(e).lower():
                 raise HTTPException(
@@ -212,6 +223,13 @@ async def process_image_from_base64(
         try:
             extracted_text, usage_stats = image_service.process_image(final_base64)
             
+            # Ensure we have valid data types
+            if not isinstance(extracted_text, str):
+                extracted_text = str(extracted_text) if extracted_text else ""
+                
+            if not isinstance(usage_stats, dict):
+                usage_stats = {}
+            
             # Handle case where no text was extracted
             if not extracted_text or extracted_text.strip() == "":
                 extracted_text = "No text or readable content could be extracted from this image. Please try taking a clearer photo with better lighting."
@@ -229,6 +247,9 @@ async def process_image_from_base64(
             
         except Exception as e:
             logger.error(f"Error in image service for base64: {str(e)}")
+            logger.error(f"Error type: {type(e)}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
+            
             # Check if it's an API-related error
             if "API" in str(e) or "openai" in str(e).lower():
                 raise HTTPException(

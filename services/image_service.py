@@ -47,18 +47,44 @@ class ImageService:
                 ]
             )
             
-            # Extract text and usage statistics
-            extracted_content = response.choices[0].message.content
+            # Extract text content
+            extracted_content = ""
+            if response.choices and len(response.choices) > 0:
+                if hasattr(response.choices[0], 'message') and hasattr(response.choices[0].message, 'content'):
+                    extracted_content = response.choices[0].message.content or ""
+                elif isinstance(response.choices[0], dict):
+                    message = response.choices[0].get('message', {})
+                    extracted_content = message.get('content', '') if isinstance(message, dict) else ""
+            
+            # Extract usage statistics - handle both object and dict formats
             usage = {
-                'ocr_prompt_tokens': response.usage.prompt_tokens if response.usage else 0,
-                'ocr_completion_tokens': response.usage.completion_tokens if response.usage else 0,
-                'ocr_total_tokens': response.usage.total_tokens if response.usage else 0
+                'ocr_prompt_tokens': 0,
+                'ocr_completion_tokens': 0,
+                'ocr_total_tokens': 0
             }
+            
+            if hasattr(response, 'usage') and response.usage:
+                usage_data = response.usage
+                
+                # Handle both object attributes and dictionary access
+                if hasattr(usage_data, 'prompt_tokens'):
+                    # Object with attributes
+                    usage['ocr_prompt_tokens'] = usage_data.prompt_tokens or 0
+                    usage['ocr_completion_tokens'] = usage_data.completion_tokens or 0
+                    usage['ocr_total_tokens'] = usage_data.total_tokens or 0
+                elif isinstance(usage_data, dict):
+                    # Dictionary format
+                    usage['ocr_prompt_tokens'] = usage_data.get('prompt_tokens', 0)
+                    usage['ocr_completion_tokens'] = usage_data.get('completion_tokens', 0)
+                    usage['ocr_total_tokens'] = usage_data.get('total_tokens', 0)
             
             return extracted_content.strip(), usage
             
         except Exception as e:
             print(f"Error processing image with GPT-4O: {str(e)}")
+            # Log more details for debugging
+            print(f"Error type: {type(e)}")
+            print(f"Error args: {e.args}")
             return "", {}
 
 image_service = ImageService()
