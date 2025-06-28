@@ -661,8 +661,8 @@ async def submit_quiz(
             time_taken = int((now - started_at).total_seconds() / 60)
         
         # Update attempt - mark as completed but not graded
-        attempt.obtained_marks = None  # Will be calculated by auto-grading
-        attempt.percentage = None  # Will be calculated by auto-grading
+        attempt.obtained_marks = 0.0  # Will be updated by auto-grading
+        attempt.percentage = 0.0  # Will be updated by auto-grading
         attempt.submitted_at = get_india_time()
         attempt.time_taken = time_taken
         attempt.status = 'completed'
@@ -714,8 +714,8 @@ async def submit_quiz(
             "total_questions": len(questions),
             "submitted_answers": len([qa for qa in questions_with_answers if qa["student_answer"].strip()]),
             "total_marks": max_possible_score,
-            "obtained_marks": None,  # Not graded yet
-            "percentage": None,  # Not graded yet
+            "obtained_marks": 0.0,  # Not graded yet, will be updated
+            "percentage": 0.0,  # Not graded yet, will be updated
             "time_taken": time_taken,
             "grading_status": "pending",
             "grading_message": grading_message,
