@@ -28,7 +28,7 @@ from routes import limits
 from routes import payments
 from routes import subscriptions
 from services.subscription_service import subscription_service
-from datetime import datetime
+from datetime import datetime, timedelta
 from routes import chat
 from typing import List, Dict, Tuple  
 from services.token_service import token_service
@@ -38,6 +38,9 @@ from routes import try_routes, teacher_courses, student_courses, teacher_quizzes
 from routes import subjects_config
 from services.consolidated_user_service import consolidated_service
 from routes import image_upload
+from services.scheduler_service import scheduler_service
+from services.auto_grading_service import auto_grading_service
+import atexit
 
 
 logger = logging.getLogger(__name__)
@@ -102,6 +105,217 @@ app.include_router(image_upload.router)
 
 # Add middleware
 app.add_middleware(SecurityHeadersMiddleware)
+
+
+# =====================================================================================
+# SCHEDULER STARTUP/SHUTDOWN EVENTS
+# =====================================================================================
+
+@app.on_event("startup")
+async def startup_event():
+    """Start background services on application startup"""
+    try:
+        # Start the auto-grading scheduler
+        if os.getenv("ENABLE_AUTO_GRADING", "true").lower() == "true":
+            scheduler_service.start()
+            logger.info("✅ Auto-grading scheduler started")
+        else:
+            logger.info("⚠️ Auto-grading scheduler disabled via environment variable")
+    except Exception as e:
+        logger.error(f"❌ Error starting scheduler: {str(e)}")
+
+@app.on_event("shutdown")
+async def shutdown_event():
+    """Stop background services on application shutdown"""
+    try:
+        scheduler_service.stop()
+        logger.info("✅ Background services stopped")
+    except Exception as e:
+        logger.error(f"❌ Error stopping services: {str(e)}")
+
+# Register cleanup function for process termination
+def cleanup_scheduler():
+    """Cleanup function for graceful shutdown"""
+    try:
+        scheduler_service.stop()
+    except:
+        pass
+
+atexit.register(cleanup_scheduler)
+
+# =====================================================================================
+# AUTO-GRADING MONITORING AND CONTROL ENDPOINTS
+# =====================================================================================
+
+@app.get("/api/admin/auto-grading/status")
+async def get_auto_grading_status(
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get auto-grading service status (admin only)"""
+    try:
+        # Check if user is admin or teacher
+        if current_user.get('role') not in ['admin', 'teacher']:
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="Only admins and teachers can access auto-grading status"
+            )
+        
+        # Get scheduler status
+        scheduler_status = scheduler_service.get_job_status()
+        
+        # Get pending quizzes count
+        pending_quizzes = auto_grading_service.find_quizzes_to_grade(db)
+        
+        return {
+            "scheduler": scheduler_status,
+            "pending_quizzes": len(pending_quizzes),
+            "quiz_details": [
+                {
+                    "quiz_id": quiz["quiz_id"],
+                    "title": quiz["title"],
+                    "course_name": quiz["course_name"],
+                    "teacher_name": quiz["teacher_name"],
+                    "end_time": quiz["end_time"].isoformat() if quiz["end_time"] else None
+                }
+                for quiz in pending_quizzes[:10]  # Show first 10
+            ],
+            "environment": {
+                "auto_grading_enabled": os.getenv("ENABLE_AUTO_GRADING", "true"),
+                "grading_interval": os.getenv("AUTO_GRADING_INTERVAL_MINUTES", "10")
+            }
+        }
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting auto-grading status: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving auto-grading status: {str(e)}"
+        )
+
+@app.post("/api/admin/auto-grading/trigger")
+async def trigger_auto_grading_manually(
+    current_user: Dict = Depends(get_current_user)
+):
+    """Manually trigger auto-grading process (admin only)"""
+    try:
+        # Check if user is admin
+        if current_user.get('role') != 'admin':
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="Only admins can manually trigger auto-grading"
+            )
+        
+        # Trigger auto-grading
+        success = scheduler_service.trigger_auto_grading_now()
+        
+        if success:
+            return {
+                "message": "Auto-grading process triggered successfully",
+                "triggered_at": datetime.utcnow().isoformat(),
+                "estimated_start": (datetime.utcnow() + timedelta(seconds=5)).isoformat()
+            }
+        else:
+            raise HTTPException(
+                status_code=500,
+                detail="Failed to trigger auto-grading process"
+            )
+            
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error triggering auto-grading: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error triggering auto-grading: {str(e)}"
+        )
+
+@app.get("/api/teacher/my-quizzes/auto-grading-status")
+async def get_teacher_quiz_grading_status(
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get auto-grading status for teacher's quizzes"""
+    try:
+        # Check if user is teacher
+        if current_user.get('role') != 'teacher':
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="Only teachers can access this endpoint"
+            )
+        
+        # Get teacher's quizzes that are eligible for auto-grading
+        from sqlalchemy import text
+        
+        query = text("""
+            SELECT 
+                q.id,
+                q.title,
+                q.end_time,
+                q.auto_grade,
+                q.auto_graded_at,
+                c.course_name,
+                COUNT(qa.id) as total_submissions,
+                COUNT(CASE WHEN qa.is_auto_graded = true THEN 1 END) as graded_submissions,
+                COUNT(CASE WHEN qa.is_auto_graded = false OR qa.is_auto_graded IS NULL THEN 1 END) as pending_submissions
+            FROM quizzes q
+            JOIN courses c ON q.course_id = c.id
+            LEFT JOIN quiz_attempts qa ON q.id = qa.quiz_id AND qa.status = 'completed'
+            WHERE q.teacher_id = :teacher_id
+              AND q.is_published = true
+              AND q.auto_grade = true
+            GROUP BY q.id, q.title, q.end_time, q.auto_grade, q.auto_graded_at, c.course_name
+            ORDER BY q.end_time DESC
+            LIMIT 20
+        """)
+        
+        result = db.execute(query, {"teacher_id": current_user['id']}).fetchall()
+        
+        quizzes = []
+        for row in result:
+            quiz_ended = row.end_time and row.end_time < get_india_time()
+            
+            quizzes.append({
+                "quiz_id": str(row.id),
+                "title": row.title,
+                "course_name": row.course_name,
+                "end_time": row.end_time.isoformat() if row.end_time else None,
+                "quiz_ended": quiz_ended,
+                "auto_graded": row.auto_graded_at is not None,
+                "auto_graded_at": row.auto_graded_at.isoformat() if row.auto_graded_at else None,
+                "submissions": {
+                    "total": row.total_submissions or 0,
+                    "graded": row.graded_submissions or 0,
+                    "pending": row.pending_submissions or 0
+                },
+                "status": "graded" if row.auto_graded_at else ("pending" if quiz_ended else "active")
+            })
+        
+        return {
+            "quizzes": quizzes,
+            "summary": {
+                "total_quizzes": len(quizzes),
+                "graded_quizzes": len([q for q in quizzes if q["auto_graded"]]),
+                "pending_quizzes": len([q for q in quizzes if not q["auto_graded"] and q["quiz_ended"]])
+            }
+        }
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting teacher quiz grading status: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error retrieving quiz grading status: {str(e)}"
+        )
+
+def get_india_time():
+    """Get current datetime in India timezone (UTC+5:30)"""
+    utc_now = datetime.utcnow()
+    offset = timedelta(hours=5, minutes=30)
+    return utc_now + offset
 
 # Update the AnswerModel class
 class AnswerModel(BaseModel):

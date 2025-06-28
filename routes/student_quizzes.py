@@ -543,6 +543,9 @@ async def get_quiz_questions(
             detail=f"Error getting quiz questions: {str(e)}"
         )
 
+# Modified submit_quiz endpoint to remove immediate grading
+# Add this to replace the existing submit_quiz function in student_quizzes.py
+
 @router.post("/{quiz_id}/submit", response_model=AttemptResultResponse)
 async def submit_quiz(
     quiz_id: str,
@@ -550,7 +553,7 @@ async def submit_quiz(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Submit quiz answers using QuizResponse table with AI grading for text answers"""
+    """Submit quiz answers - saves responses for later auto-grading"""
     try:
         check_student_permission(current_user)
         
@@ -602,14 +605,11 @@ async def submit_quiz(
             QuizResponse.attempt_id == attempt.id
         ).delete()
         
-        # Grade the quiz and create QuizResponse records
-        total_score = 0
-        max_possible_score = 0
+        # Save responses WITHOUT grading (will be graded later by auto-grading service)
+        max_possible_score = sum(q.marks for q in questions)
         questions_with_answers = []
-        total_ai_usage = {'prompt_tokens': 0, 'completion_tokens': 0, 'total_tokens': 0}
         
         for question in questions:
-            max_possible_score += question.marks
             question_id = str(question.id)
             
             # Get student response
@@ -617,60 +617,16 @@ async def submit_quiz(
             student_answer = student_response.response if student_response else ""
             correct_answer = question.correct_answer
             
-            # Initialize grading variables
-            is_correct = False
-            score = 0
-            feedback = ""
-            
-            # Grading logic based on question type
-            if question.question_type.lower() in ['mcq', 'multiple_choice', 'true/false']:
-                # MCQ/True-False: Direct comparison
-                is_correct = str(student_answer).strip().lower() == str(correct_answer).strip().lower()
-                score = question.marks if is_correct else 0
-                feedback = "Correct!" if is_correct else f"Incorrect. The correct answer is: {correct_answer}"
-            else:
-                # Text answers: Use AI grading
-                if student_answer.strip():  # Only grade if student provided an answer
-                    try:
-                        score, feedback, ai_usage = grade_quiz_answer_with_ai(
-                            student_answer,
-                            question.question_text,
-                            correct_answer,
-                            question.marks
-                        )
-                        
-                        # Accumulate AI token usage
-                        total_ai_usage['prompt_tokens'] += ai_usage.get('prompt_tokens', 0)
-                        total_ai_usage['completion_tokens'] += ai_usage.get('completion_tokens', 0)
-                        total_ai_usage['total_tokens'] += ai_usage.get('total_tokens', 0)
-                        
-                        # Determine if correct based on score (consider > 80% as correct)
-                        is_correct = score >= (question.marks * 0.8)
-                        
-                    except Exception as ai_error:
-                        logger.error(f"AI grading error for question {question_id}: {str(ai_error)}")
-                        # Fallback to basic comparison on AI error
-                        is_correct = str(student_answer).strip().lower() == str(correct_answer).strip().lower()
-                        score = question.marks if is_correct else 0
-                        feedback = f"Grading error occurred. Basic check: {'Correct' if is_correct else 'Incorrect'}"
-                else:
-                    # No answer provided
-                    score = 0
-                    feedback = "No answer provided"
-                    is_correct = False
-            
-            total_score += score
-            
-            # Create QuizResponse record
+            # Create QuizResponse record WITHOUT scoring/grading
             quiz_response = QuizResponse(
                 quiz_id=quiz_id,
                 student_id=current_user['id'],
                 question_id=question.id,
                 attempt_id=attempt.id,
                 response=student_answer,
-                score=score,
-                is_correct=is_correct,
-                feedback=feedback,  # Store the feedback in database
+                score=None,  # Will be set by auto-grading
+                is_correct=None,  # Will be set by auto-grading
+                feedback=None,  # Will be set by auto-grading
                 time_spent=student_response.time_spent if student_response else None,
                 confidence_level=student_response.confidence_level if student_response else None,
                 flagged_for_review=student_response.flagged_for_review if student_response else False,
@@ -679,40 +635,39 @@ async def submit_quiz(
             
             db.add(quiz_response)
             
+            # Prepare response data for immediate return
             questions_with_answers.append({
                 "question_id": question_id,
                 "question_text": question.question_text,
                 "question_type": question.question_type,
                 "options": question.options,
                 "student_answer": student_answer,
-                "correct_answer": correct_answer,
+                "correct_answer": correct_answer,  # Show for immediate feedback
                 "explanation": question.explanation,
                 "marks": question.marks,
-                "score": score,
-                "is_correct": is_correct,
-                "feedback": feedback,
+                "score": None,  # Not graded yet
+                "is_correct": None,  # Not graded yet
+                "feedback": "Your answer has been submitted and will be graded automatically.",
                 "time_spent": student_response.time_spent if student_response else None,
                 "confidence_level": student_response.confidence_level if student_response else None,
                 "flagged_for_review": student_response.flagged_for_review if student_response else False
             })
         
-        # Calculate percentage
-        percentage = (total_score / max_possible_score * 100) if max_possible_score > 0 else 0
-        
-        # Calculate time taken with India timezone datetime
+        # Calculate time taken
         time_taken = None
         if attempt.started_at:
             started_at = ensure_india_timezone(attempt.started_at)
             now = get_india_time()
             time_taken = int((now - started_at).total_seconds() / 60)
         
-        # Update attempt
-        attempt.obtained_marks = total_score
-        attempt.percentage = percentage
+        # Update attempt - mark as completed but not graded
+        attempt.obtained_marks = None  # Will be calculated by auto-grading
+        attempt.percentage = None  # Will be calculated by auto-grading
         attempt.submitted_at = get_india_time()
         attempt.time_taken = time_taken
         attempt.status = 'completed'
-        attempt.is_auto_graded = quiz.auto_grade if quiz else True
+        attempt.is_auto_graded = False  # Will be set to True by auto-grading
+        attempt.teacher_reviewed = False  # Will be set to True by auto-grading
         
         db.commit()
         db.refresh(attempt)
@@ -725,25 +680,16 @@ async def submit_quiz(
         
         if enrollment:
             enrollment.total_quizzes_taken += 1
-            # Update average score
-            avg_score = db.query(func.avg(QuizAttempt.percentage)).filter(
-                QuizAttempt.student_id == current_user['id'],
-                QuizAttempt.quiz_id.in_(
-                    db.query(Quiz.id).filter(Quiz.course_id == quiz.course_id)
-                ),
-                QuizAttempt.status == 'completed'
-            ).scalar()
-            enrollment.average_score = float(avg_score) if avg_score else 0
             db.commit()
         
-        # Get all responses for the response data
+        # Prepare response data for submission confirmation
         responses_data = [
             {
                 "question_id": qa["question_id"],
                 "response": qa["student_answer"],
-                "score": qa["score"],
-                "is_correct": qa["is_correct"],
-                "feedback": qa["feedback"],  # Include feedback
+                "score": None,  # Not graded yet
+                "is_correct": None,  # Not graded yet
+                "feedback": "Submitted - awaiting auto-grading",
                 "time_spent": qa["time_spent"],
                 "confidence_level": qa["confidence_level"],
                 "flagged_for_review": qa["flagged_for_review"]
@@ -754,20 +700,30 @@ async def submit_quiz(
         # Prepare response
         attempt_response = format_attempt_response(attempt, quiz.title, responses_data)
         
+        # Determine when grading will happen
+        grading_message = "Your quiz has been submitted successfully!"
+        if quiz.auto_grade:
+            if quiz.end_time:
+                grading_message += f" It will be automatically graded after the quiz ends on {quiz.end_time.strftime('%Y-%m-%d %H:%M')}."
+            else:
+                grading_message += " It will be automatically graded shortly."
+        else:
+            grading_message += " Your teacher will grade it manually."
+        
         summary = {
             "total_questions": len(questions),
-            "correct_answers": sum(1 for q in questions_with_answers if q["is_correct"]),
+            "submitted_answers": len([qa for qa in questions_with_answers if qa["student_answer"].strip()]),
             "total_marks": max_possible_score,
-            "obtained_marks": total_score,
-            "percentage": percentage,
-            "passed": percentage >= quiz.passing_marks,
+            "obtained_marks": None,  # Not graded yet
+            "percentage": None,  # Not graded yet
             "time_taken": time_taken,
-            "ai_grading_used": total_ai_usage['total_tokens'] > 0,
-            "ai_token_usage": total_ai_usage
+            "grading_status": "pending",
+            "grading_message": grading_message,
+            "auto_grading_enabled": quiz.auto_grade
         }
         
-        logger.info(f"Quiz submitted successfully by user {current_user['id']}: "
-                   f"Score={total_score}/{max_possible_score}, AI tokens used={total_ai_usage['total_tokens']}")
+        logger.info(f"Quiz submission completed by user {current_user['id']}: "
+                   f"{len(responses_list)} responses submitted, awaiting auto-grading")
         
         return AttemptResultResponse(
             attempt=attempt_response,
@@ -784,6 +740,78 @@ async def submit_quiz(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error submitting quiz: {str(e)}"
         )
+
+
+# Also add this new endpoint to check grading status
+@router.get("/attempts/{attempt_id}/grading-status")
+async def get_grading_status(
+    attempt_id: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Check the grading status of a quiz attempt"""
+    try:
+        check_student_permission(current_user)
+        
+        # Get attempt
+        attempt = db.query(QuizAttempt).filter(
+            QuizAttempt.id == attempt_id,
+            QuizAttempt.student_id == current_user['id']
+        ).first()
+        
+        if not attempt:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Attempt not found"
+            )
+        
+        # Get quiz info
+        quiz = db.query(Quiz).filter(Quiz.id == attempt.quiz_id).first()
+        
+        # Check grading status
+        grading_status = {
+            "attempt_id": attempt_id,
+            "status": attempt.status,
+            "submitted_at": attempt.submitted_at.isoformat() if attempt.submitted_at else None,
+            "is_graded": attempt.is_auto_graded or attempt.teacher_reviewed,
+            "auto_graded": attempt.is_auto_graded,
+            "teacher_reviewed": attempt.teacher_reviewed,
+            "obtained_marks": attempt.obtained_marks,
+            "percentage": attempt.percentage,
+            "total_marks": attempt.total_marks
+        }
+        
+        # Add grading timeline info
+        if quiz:
+            now = get_india_time()
+            
+            if quiz.auto_grade and quiz.end_time:
+                if now < quiz.end_time:
+                    grading_status["message"] = f"Quiz will be auto-graded after {quiz.end_time.strftime('%Y-%m-%d %H:%M')}"
+                    grading_status["estimated_grading_time"] = quiz.end_time.isoformat()
+                elif not attempt.is_auto_graded:
+                    grading_status["message"] = "Quiz ended. Auto-grading in progress..."
+                else:
+                    grading_status["message"] = "Quiz has been graded"
+            elif quiz.auto_grade:
+                if not attempt.is_auto_graded:
+                    grading_status["message"] = "Auto-grading in progress..."
+                else:
+                    grading_status["message"] = "Quiz has been graded"
+            else:
+                grading_status["message"] = "Waiting for teacher to grade manually"
+        
+        return grading_status
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error getting grading status: {str(e)}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error getting grading status: {str(e)}"
+        )
+
 
 @router.get("/attempts/my-attempts", response_model=List[AttemptResponse])
 async def get_my_attempts(
