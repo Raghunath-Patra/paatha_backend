@@ -3,7 +3,6 @@
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
 from apscheduler.triggers.cron import CronTrigger
-from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta
 import logging
 import os
@@ -27,11 +26,7 @@ class SchedulerService:
             return
             
         try:
-            # Configure scheduler with thread pool
-            executors = {
-                'default': ThreadPoolExecutor(max_workers=3)
-            }
-            
+            # Simple scheduler configuration without custom executors
             job_defaults = {
                 'coalesce': True,          # Combine multiple pending executions into one
                 'max_instances': 1,        # Only one instance of each job at a time
@@ -39,7 +34,6 @@ class SchedulerService:
             }
             
             self.scheduler = BackgroundScheduler(
-                executors=executors,
                 job_defaults=job_defaults,
                 timezone='UTC'
             )
