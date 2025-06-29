@@ -798,13 +798,14 @@ async def remove_question_from_quiz(
         )
 
 # FIXED: Optimized quiz results endpoint in teacher_quizzes.py
+
 @router.get("/{quiz_id}/results")
 async def get_quiz_attempts(
     quiz_id: str,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get all attempts for a quiz with grading status awareness - UPDATED FOR AUTO-GRADING"""
+    """Get all attempts for a quiz with statistics - OPTIMIZED VERSION"""
     try:
         check_teacher_permission(current_user)
         
@@ -820,12 +821,7 @@ async def get_quiz_attempts(
                 detail="Quiz not found"
             )
         
-        # Check quiz timing and grading status
-        now = get_india_time()
-        quiz_ended = quiz.end_time and now > ensure_india_timezone(quiz.end_time)
-        quiz_auto_graded = quiz.auto_graded_at is not None
-        
-        # Get attempts with enhanced status information
+        # OPTIMIZED: Single query to get attempts with student info and compute stats
         query = text("""
             WITH attempt_data AS (
                 SELECT 
@@ -844,14 +840,7 @@ async def get_quiz_attempts(
                     qa.is_auto_graded,
                     qa.teacher_reviewed,
                     CASE WHEN qa.status = 'completed' THEN 1 ELSE 0 END as is_completed,
-                    CASE WHEN qa.status = 'completed' AND qa.percentage >= :passing_percentage THEN 1 ELSE 0 END as is_passed,
-                    -- Calculate grading status
-                    CASE 
-                        WHEN qa.status != 'completed' THEN 'incomplete'
-                        WHEN (qa.is_auto_graded = true OR qa.teacher_reviewed = true) THEN 'graded'
-                        WHEN :quiz_ended = true THEN 'pending_grading'
-                        ELSE 'quiz_active'
-                    END as grading_status
+                    CASE WHEN qa.status = 'completed' AND qa.percentage >= :passing_percentage THEN 1 ELSE 0 END as is_passed
                 FROM quiz_attempts qa
                 LEFT JOIN profiles u ON qa.student_id = u.id
                 WHERE qa.quiz_id = :quiz_id
@@ -862,11 +851,9 @@ async def get_quiz_attempts(
                     COUNT(DISTINCT student_id) as unique_students,
                     COUNT(*) FILTER (WHERE is_completed = 1) as completed_attempts,
                     COUNT(*) FILTER (WHERE is_passed = 1) as passed_attempts,
-                    COUNT(*) FILTER (WHERE grading_status = 'graded') as graded_attempts,
-                    COUNT(*) FILTER (WHERE grading_status = 'pending_grading') as pending_attempts,
-                    COALESCE(AVG(percentage) FILTER (WHERE grading_status = 'graded'), 0) as avg_score,
-                    COALESCE(MAX(percentage) FILTER (WHERE grading_status = 'graded'), 0) as max_score,
-                    COALESCE(MIN(percentage) FILTER (WHERE grading_status = 'graded'), 0) as min_score
+                    COALESCE(AVG(percentage) FILTER (WHERE is_completed = 1), 0) as avg_score,
+                    COALESCE(MAX(percentage) FILTER (WHERE is_completed = 1), 0) as max_score,
+                    COALESCE(MIN(percentage) FILTER (WHERE is_completed = 1), 0) as min_score
                 FROM attempt_data
             )
             SELECT 
@@ -875,8 +862,6 @@ async def get_quiz_attempts(
                 sd.unique_students,
                 sd.completed_attempts,
                 sd.passed_attempts,
-                sd.graded_attempts,
-                sd.pending_attempts,
                 sd.avg_score,
                 sd.max_score,
                 sd.min_score
@@ -890,121 +875,47 @@ async def get_quiz_attempts(
         
         results = db.execute(query, {
             "quiz_id": quiz_id,
-            "passing_percentage": passing_percentage,
-            "quiz_ended": quiz_ended
+            "passing_percentage": passing_percentage
         }).fetchall()
         
         if not results:
-            return {
-                "quiz_info": {
-                    "id": str(quiz.id),
-                    "title": quiz.title,
-                    "end_time": quiz.end_time.isoformat() if quiz.end_time else None,
-                    "quiz_ended": quiz_ended,
-                    "auto_graded": quiz_auto_graded,
-                    "auto_grade_enabled": quiz.auto_grade
-                },
-                "attempts": [],
-                "stats": {
-                    "total_attempts": 0,
-                    "unique_students": 0,
-                    "graded_attempts": 0,
-                    "pending_attempts": 0,
-                    "average_score": 0,
-                    "highest_score": 0,
-                    "lowest_score": 0,
-                    "pass_rate": 0,
-                    "completion_rate": 0
-                },
-                "grading_status": "no_attempts"
-            }
+            # No attempts found
+            return []
         
-        # Extract stats from first row
+        # Extract stats from first row (same for all rows due to CROSS JOIN)
         first_row = results[0]
         
-        # Format attempts with grading awareness
+        # Format response as direct array for frontend compatibility
         attempts = []
         for row in results:
-            # Determine what information to show based on grading status
-            if row.grading_status == 'graded':
-                # Show full results
-                display_marks = float(row.obtained_marks) if row.obtained_marks is not None else 0.0
-                display_percentage = float(row.percentage) if row.percentage is not None else 0.0
-                status_display = f"Graded - {display_percentage:.1f}%"
-                can_view_details = True
-            elif row.grading_status == 'pending_grading':
-                # Hide scores, show pending message
-                display_marks = 0.0
-                display_percentage = 0.0
-                status_display = "⏳ Auto-grading in progress"
-                can_view_details = False
-            elif row.grading_status == 'quiz_active':
-                # Quiz still active
-                display_marks = 0.0
-                display_percentage = 0.0
-                if quiz.end_time:
-                    time_left = int((ensure_india_timezone(quiz.end_time) - now).total_seconds() / 60)
-                    status_display = f"⏰ Quiz active ({time_left}min left)" if time_left > 0 else "⏰ Just ended"
-                else:
-                    status_display = "⏰ Quiz active"
-                can_view_details = False
-            else:
-                # Incomplete
-                display_marks = 0.0
-                display_percentage = 0.0
-                status_display = "Incomplete"
-                can_view_details = False
-            
             attempts.append({
                 "id": str(row.id),
                 "student_id": str(row.student_id),
                 "student_name": row.student_name,
                 "student_email": row.student_email,
                 "attempt_number": row.attempt_number,
-                "obtained_marks": display_marks,
+                "obtained_marks": float(row.obtained_marks),
                 "total_marks": float(row.total_marks),
-                "percentage": display_percentage,
+                "percentage": float(row.percentage),
                 "started_at": row.started_at.isoformat(),
                 "submitted_at": row.submitted_at.isoformat() if row.submitted_at else None,
                 "time_taken": row.time_taken,
-                "status": status_display,
+                "status": row.status,
                 "is_auto_graded": row.is_auto_graded,
                 "teacher_reviewed": row.teacher_reviewed,
-                "grading_status": row.grading_status,
-                "can_view_details": can_view_details
+                # Include computed stats for frontend use
+                "_stats": {
+                    "total_attempts": first_row.total_attempts,
+                    "unique_students": first_row.unique_students,
+                    "average_score": float(first_row.avg_score),
+                    "highest_score": float(first_row.max_score),
+                    "lowest_score": float(first_row.min_score),
+                    "pass_rate": (first_row.passed_attempts / first_row.completed_attempts * 100) if first_row.completed_attempts > 0 else 0,
+                    "completion_rate": (first_row.completed_attempts / first_row.total_attempts * 100) if first_row.total_attempts > 0 else 0
+                } if row == first_row else None
             })
         
-        # Create enhanced quiz info
-        quiz_info = {
-            "id": str(quiz.id),
-            "title": quiz.title,
-            "end_time": quiz.end_time.isoformat() if quiz.end_time else None,
-            "quiz_ended": quiz_ended,
-            "auto_graded": quiz_auto_graded,
-            "auto_grade_enabled": quiz.auto_grade,
-            "grading_message": _get_teacher_grading_message(quiz, quiz_ended, quiz_auto_graded, first_row.pending_attempts)
-        }
-        
-        # Calculate stats (only from graded attempts for meaningful metrics)
-        stats = {
-            "total_attempts": first_row.total_attempts,
-            "unique_students": first_row.unique_students,
-            "completed_attempts": first_row.completed_attempts,
-            "graded_attempts": first_row.graded_attempts,
-            "pending_attempts": first_row.pending_attempts,
-            "average_score": float(first_row.avg_score),
-            "highest_score": float(first_row.max_score),
-            "lowest_score": float(first_row.min_score),
-            "pass_rate": (first_row.passed_attempts / first_row.graded_attempts * 100) if first_row.graded_attempts > 0 else 0,
-            "completion_rate": (first_row.completed_attempts / first_row.total_attempts * 100) if first_row.total_attempts > 0 else 0
-        }
-        
-        return {
-            "quiz_info": quiz_info,
-            "attempts": attempts,
-            "stats": stats,
-            "grading_status": _determine_overall_grading_status(quiz, quiz_ended, quiz_auto_graded, first_row.pending_attempts, first_row.graded_attempts)
-        }
+        return attempts
         
     except HTTPException as he:
         raise he
@@ -1014,39 +925,8 @@ async def get_quiz_attempts(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error fetching quiz attempts: {str(e)}"
         )
-def _get_teacher_grading_message(quiz, quiz_ended: bool, quiz_auto_graded: bool, pending_count: int) -> str:
-    """Generate appropriate grading message for teacher"""
-    if not quiz_ended:
-        if quiz.end_time:
-            time_left = int((ensure_india_timezone(quiz.end_time) - get_india_time()).total_seconds() / 60)
-            return f"⏰ Quiz is still active ({time_left} minutes remaining)"
-        else:
-            return "⏰ Quiz is active (no end time set)"
     
-    if quiz_auto_graded:
-        return "✅ Auto-grading completed! All submissions have been graded."
-    
-    if pending_count > 0:
-        if quiz.auto_grade:
-            return f"🤖 Auto-grading in progress... {pending_count} submissions pending"
-        else:
-            return f"👨‍🏫 Manual grading required for {pending_count} submissions"
-    
-    return "✅ All submissions graded"
-
-def _determine_overall_grading_status(quiz, quiz_ended: bool, quiz_auto_graded: bool, pending_count: int, graded_count: int) -> str:
-    """Determine overall grading status for the quiz"""
-    if not quiz_ended:
-        return "quiz_active"
-    
-    if quiz_auto_graded or (pending_count == 0 and graded_count > 0):
-        return "grading_complete"
-    
-    if pending_count > 0:
-        return "grading_pending"
-    
-    return "no_submissions"
-
+# Add this endpoint to your teacher_quizzes.py file
 
 class QuestionMarksUpdate(BaseModel):
     marks: int
@@ -1151,15 +1031,15 @@ class TeacherAttemptResultResponse(BaseModel):
     summary: Dict[str, Any]
     student_info: Dict[str, Any]
 
-@router.get("/{quiz_id}/students/{student_id}/attempts/{attempt_id}/results")
+@router.get("/{quiz_id}/students/{student_id}/attempts/{attempt_id}/results", response_model=TeacherAttemptResultResponse)
 async def get_teacher_attempt_results(
     quiz_id: str,
-    student_id: str,
+    student_id: str,  # NOW USING STUDENT ID
     attempt_id: str,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get detailed results for a specific student attempt (teacher view) - UPDATED FOR AUTO-GRADING"""
+    """Get detailed results for a specific student attempt (teacher view) - FIXED VERSION"""
     try:
         check_teacher_permission(current_user)
         
@@ -1175,15 +1055,11 @@ async def get_teacher_attempt_results(
                 detail="Quiz not found or you don't have permission"
             )
         
-        # Check quiz timing and grading status
-        now = get_india_time()
-        quiz_ended = quiz.end_time and now > ensure_india_timezone(quiz.end_time)
-        
-        # Get attempt and verify it belongs to BOTH the quiz AND the student
+        # FIXED: Get attempt and verify it belongs to BOTH the quiz AND the student
         attempt = db.query(QuizAttempt).filter(
             QuizAttempt.id == attempt_id,
             QuizAttempt.quiz_id == quiz_id,
-            QuizAttempt.student_id == student_id
+            QuizAttempt.student_id == student_id  # ADDED: Validate student_id
         ).first()
         
         if not attempt:
@@ -1192,10 +1068,10 @@ async def get_teacher_attempt_results(
                 detail="Attempt not found for this student and quiz combination"
             )
         
-        # Get student info and verify the student exists
+        # FIXED: Get student info and verify the student exists
         student = db.query(User).filter(
             User.id == student_id,
-            User.role == 'student'
+            User.role == 'student'  # Additional validation
         ).first()
         
         if not student:
@@ -1204,22 +1080,110 @@ async def get_teacher_attempt_results(
                 detail="Student not found"
             )
         
-        # Check grading status
-        is_graded = attempt.is_auto_graded or attempt.teacher_reviewed
+        # Get responses with question details using the same query as student endpoint
+        query = text("""
+            SELECT 
+                qr.*,
+                qq.marks,
+                COALESCE(q.correct_answer, qq.custom_correct_answer) as correct_answer,
+                COALESCE(q.question_text, qq.custom_question_text) as question_text,
+                COALESCE(q.type, qq.custom_question_type) as question_type,
+                CASE 
+                    WHEN q.options IS NOT NULL THEN q.options::json
+                    WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
+                    ELSE NULL
+                END as options,
+                COALESCE(q.explanation, qq.custom_explanation) as explanation,
+                qq.order_index
+            FROM quiz_responses qr
+            JOIN quiz_questions qq ON qr.question_id = qq.id
+            LEFT JOIN questions q ON qq.ai_question_id = q.id
+            WHERE qr.attempt_id = :attempt_id
+              AND qr.student_id = :student_id  -- ADDED: Additional validation
+              AND qr.quiz_id = :quiz_id        -- ADDED: Additional validation
+            ORDER BY qq.order_index
+        """)
         
-        # Determine access permissions
-        if attempt.status != 'completed':
-            # Incomplete attempt - teachers can always view these
-            pass
-        elif not quiz_ended:
-            # Quiz still active - show basic info only
-            return _get_teacher_quiz_active_view(attempt, student, quiz)
-        elif quiz_ended and not is_graded:
-            # Quiz ended but not graded - show pending status
-            return _get_teacher_pending_grading_view(attempt, student, quiz)
+        responses_with_questions = db.execute(query, {
+            "attempt_id": attempt_id,
+            "student_id": student_id,
+            "quiz_id": quiz_id
+        }).fetchall()
         
-        # Quiz ended and graded (or incomplete) - show full results
-        return await _get_teacher_full_results(attempt, student, quiz, quiz_id, student_id, current_user, db)
+        questions_with_answers = []
+        correct_count = 0
+        
+        for resp in responses_with_questions:
+            if resp.is_correct:
+                correct_count += 1
+            
+            questions_with_answers.append({
+                "question_id": str(resp.question_id),
+                "question_text": resp.question_text,
+                "question_type": resp.question_type,
+                "options": resp.options,
+                "student_answer": resp.response,
+                "correct_answer": resp.correct_answer,
+                "explanation": resp.explanation,
+                "marks": resp.marks,
+                "score": resp.score,
+                "is_correct": resp.is_correct,
+                "feedback": resp.feedback,
+                "time_spent": resp.time_spent,
+                "confidence_level": resp.confidence_level,
+                "flagged_for_review": resp.flagged_for_review
+            })
+        
+        # Create attempt summary
+        attempt_summary = AttemptSummary(
+            id=str(attempt.id),
+            student_id=str(attempt.student_id),
+            student_name=student.full_name,
+            student_email=student.email,
+            attempt_number=attempt.attempt_number,
+            obtained_marks=attempt.obtained_marks,
+            total_marks=attempt.total_marks,
+            percentage=attempt.percentage,
+            started_at=attempt.started_at.isoformat(),
+            submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
+            time_taken=attempt.time_taken,
+            status=attempt.status,
+            is_auto_graded=attempt.is_auto_graded,
+            teacher_reviewed=attempt.teacher_reviewed
+        )
+        
+        # Create summary
+        summary = {
+            "total_questions": len(responses_with_questions),
+            "correct_answers": correct_count,
+            "total_marks": attempt.total_marks,
+            "obtained_marks": attempt.obtained_marks,
+            "percentage": attempt.percentage,
+            "passed": attempt.percentage >= quiz.passing_marks,
+            "time_taken": attempt.time_taken,
+            "ai_grading_used": attempt.is_auto_graded,
+            "quiz_title": quiz.title,
+            "quiz_passing_marks": quiz.passing_marks
+        }
+        
+        # Student info
+        student_info = {
+            "id": str(student.id),
+            "name": student.full_name,
+            "email": student.email,
+            "board": student.board or "",
+            "class_level": student.class_level or "",
+            "institution_name": student.institution_name or ""
+        }
+        
+        logger.info(f"Teacher {current_user['id']} accessed attempt {attempt_id} for student {student_id} in quiz {quiz_id}")
+        
+        return TeacherAttemptResultResponse(
+            attempt=attempt_summary,
+            questions_with_answers=questions_with_answers,
+            summary=summary,
+            student_info=student_info
+        )
         
     except HTTPException as he:
         raise he
@@ -1229,213 +1193,3 @@ async def get_teacher_attempt_results(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error getting attempt results: {str(e)}"
         )
-
-def _get_teacher_quiz_active_view(attempt, student, quiz):
-    """Return limited view when quiz is still active"""
-    now = get_india_time()
-    time_left = None
-    
-    if quiz.end_time:
-        time_left = int((ensure_india_timezone(quiz.end_time) - now).total_seconds() / 60)
-    
-    return {
-        "attempt": {
-            "id": str(attempt.id),
-            "student_id": str(attempt.student_id),
-            "student_name": student.full_name,
-            "student_email": student.email,
-            "attempt_number": attempt.attempt_number,
-            "obtained_marks": 0.0,  # Hidden
-            "total_marks": float(attempt.total_marks),
-            "percentage": 0.0,  # Hidden
-            "started_at": attempt.started_at.isoformat(),
-            "submitted_at": attempt.submitted_at.isoformat() if attempt.submitted_at else None,
-            "time_taken": attempt.time_taken,
-            "status": attempt.status,
-            "is_auto_graded": False,
-            "teacher_reviewed": False
-        },
-        "questions_with_answers": [{
-            "message": "⏰ Quiz is still active",
-            "details": f"Quiz ends in {time_left} minutes. Results will be available after grading." if time_left else "Quiz is active. Results will be available after grading.",
-            "status": "quiz_active"
-        }],
-        "summary": {
-            "total_questions": "Hidden until quiz ends",
-            "correct_answers": "Hidden until quiz ends",
-            "total_marks": attempt.total_marks,
-            "obtained_marks": "⏰ Quiz active",
-            "percentage": "⏰ Quiz active",
-            "passed": False,
-            "time_taken": attempt.time_taken,
-            "quiz_title": quiz.title,
-            "grading_status": "quiz_active",
-            "teacher_message": f"Quiz ends in {time_left} minutes" if time_left else "Quiz is active"
-        },
-        "student_info": {
-            "id": str(student.id),
-            "name": student.full_name,
-            "email": student.email,
-            "board": student.board or "",
-            "class_level": student.class_level or "",
-            "institution_name": student.institution_name or ""
-        }
-    }
-
-def _get_teacher_pending_grading_view(attempt, student, quiz):
-    """Return pending view when quiz ended but grading not complete"""
-    return {
-        "attempt": {
-            "id": str(attempt.id),
-            "student_id": str(attempt.student_id),
-            "student_name": student.full_name,
-            "student_email": student.email,
-            "attempt_number": attempt.attempt_number,
-            "obtained_marks": 0.0,  # Hidden until graded
-            "total_marks": float(attempt.total_marks),
-            "percentage": 0.0,  # Hidden until graded
-            "started_at": attempt.started_at.isoformat(),
-            "submitted_at": attempt.submitted_at.isoformat() if attempt.submitted_at else None,
-            "time_taken": attempt.time_taken,
-            "status": attempt.status,
-            "is_auto_graded": attempt.is_auto_graded,
-            "teacher_reviewed": attempt.teacher_reviewed
-        },
-        "questions_with_answers": [{
-            "message": "⏳ Grading in progress",
-            "details": "Quiz has ended and auto-grading is currently processing this submission.",
-            "status": "pending_grading",
-            "auto_grading": quiz.auto_grade,
-            "estimated_completion": "Results typically available within 10-15 minutes after quiz ends"
-        }],
-        "summary": {
-            "total_questions": "Pending grading",
-            "correct_answers": "Pending grading",
-            "total_marks": attempt.total_marks,
-            "obtained_marks": "⏳ Grading in progress",
-            "percentage": "⏳ Grading in progress",
-            "passed": False,
-            "time_taken": attempt.time_taken,
-            "quiz_title": quiz.title,
-            "grading_status": "pending",
-            "teacher_message": "Auto-grading in progress..." if quiz.auto_grade else "Manual grading required"
-        },
-        "student_info": {
-            "id": str(student.id),
-            "name": student.full_name,
-            "email": student.email,
-            "board": student.board or "",
-            "class_level": student.class_level or "",
-            "institution_name": student.institution_name or ""
-        }
-    }
-
-async def _get_teacher_full_results(attempt, student, quiz, quiz_id, student_id, current_user, db):
-    """Get complete results when grading is finished or for incomplete attempts"""
-    
-    # Get responses with question details using the same query as before
-    query = text("""
-        SELECT 
-            qr.*,
-            qq.marks,
-            COALESCE(q.correct_answer, qq.custom_correct_answer) as correct_answer,
-            COALESCE(q.question_text, qq.custom_question_text) as question_text,
-            COALESCE(q.type, qq.custom_question_type) as question_type,
-            CASE 
-                WHEN q.options IS NOT NULL THEN q.options::json
-                WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
-                ELSE NULL
-            END as options,
-            COALESCE(q.explanation, qq.custom_explanation) as explanation,
-            qq.order_index
-        FROM quiz_responses qr
-        JOIN quiz_questions qq ON qr.question_id = qq.id
-        LEFT JOIN questions q ON qq.ai_question_id = q.id
-        WHERE qr.attempt_id = :attempt_id
-          AND qr.student_id = :student_id
-          AND qr.quiz_id = :quiz_id
-        ORDER BY qq.order_index
-    """)
-    
-    responses_with_questions = db.execute(query, {
-        "attempt_id": attempt.id,
-        "student_id": student_id,
-        "quiz_id": quiz_id
-    }).fetchall()
-    
-    questions_with_answers = []
-    correct_count = 0
-    
-    for resp in responses_with_questions:
-        if resp.is_correct:
-            correct_count += 1
-        
-        questions_with_answers.append({
-            "question_id": str(resp.question_id),
-            "question_text": resp.question_text,
-            "question_type": resp.question_type,
-            "options": resp.options,
-            "student_answer": resp.response,
-            "correct_answer": resp.correct_answer,
-            "explanation": resp.explanation,
-            "marks": resp.marks,
-            "score": resp.score,
-            "is_correct": resp.is_correct,
-            "feedback": resp.feedback,
-            "time_spent": resp.time_spent,
-            "confidence_level": resp.confidence_level,
-            "flagged_for_review": resp.flagged_for_review
-        })
-    
-    # Create attempt summary
-    attempt_summary = {
-        "id": str(attempt.id),
-        "student_id": str(attempt.student_id),
-        "student_name": student.full_name,
-        "student_email": student.email,
-        "attempt_number": attempt.attempt_number,
-        "obtained_marks": attempt.obtained_marks or 0.0,
-        "total_marks": attempt.total_marks,
-        "percentage": attempt.percentage or 0.0,
-        "started_at": attempt.started_at.isoformat(),
-        "submitted_at": attempt.submitted_at.isoformat() if attempt.submitted_at else None,
-        "time_taken": attempt.time_taken,
-        "status": attempt.status,
-        "is_auto_graded": attempt.is_auto_graded,
-        "teacher_reviewed": attempt.teacher_reviewed
-    }
-    
-    # Create summary
-    is_graded = attempt.is_auto_graded or attempt.teacher_reviewed
-    summary = {
-        "total_questions": len(responses_with_questions),
-        "correct_answers": correct_count if is_graded else "Pending grading",
-        "total_marks": attempt.total_marks,
-        "obtained_marks": attempt.obtained_marks if is_graded else 0.0,
-        "percentage": attempt.percentage if is_graded else 0.0,
-        "passed": (attempt.percentage or 0) >= quiz.passing_marks,
-        "time_taken": attempt.time_taken,
-        "ai_grading_used": attempt.is_auto_graded,
-        "quiz_title": quiz.title,
-        "quiz_passing_marks": quiz.passing_marks,
-        "grading_status": "completed" if is_graded else "incomplete"
-    }
-    
-    # Student info
-    student_info = {
-        "id": str(student.id),
-        "name": student.full_name,
-        "email": student.email,
-        "board": student.board or "",
-        "class_level": student.class_level or "",
-        "institution_name": student.institution_name or ""
-    }
-    
-    logger.info(f"Teacher {current_user['id']} accessed attempt {attempt.id} for student {student_id} in quiz {quiz_id}")
-    
-    return {
-        "attempt": attempt_summary,
-        "questions_with_answers": questions_with_answers,
-        "summary": summary,
-        "student_info": student_info
-    }
