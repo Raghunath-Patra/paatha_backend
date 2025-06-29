@@ -168,6 +168,7 @@ class Quiz(Base):
     auto_grade = Column(Boolean, default=True)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+    auto_graded_at = Column(DateTime(timezone=True), nullable=True)
     
     # Indexes
     __table_args__ = (
