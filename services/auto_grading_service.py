@@ -286,7 +286,7 @@ class AutoGradingService:
         1. Evaluate the student's answer against the correct answer
         2. Consider partial credit for partially correct answers
         3. Be fair but accurate in grading
-        4. Give marks out of {max_marks} (not out of 10)
+        4. Give marks out of {max_marks}
         
         Grading Criteria:
         - Full marks ({max_marks}) for completely correct answers

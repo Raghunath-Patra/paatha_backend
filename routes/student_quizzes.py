@@ -741,15 +741,13 @@ async def submit_quiz(
             detail=f"Error submitting quiz: {str(e)}"
         )
 
-
-# Also add this new endpoint to check grading status
-@router.get("/attempts/{attempt_id}/grading-status")
-async def get_grading_status(
+@router.get("/attempts/{attempt_id}/results", response_model=AttemptResultResponse)
+async def get_attempt_results(
     attempt_id: str,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Check the grading status of a quiz attempt"""
+    """Get detailed results for a specific attempt - with auto-grading status handling"""
     try:
         check_student_permission(current_user)
         
@@ -765,92 +763,367 @@ async def get_grading_status(
                 detail="Attempt not found"
             )
         
-        # Get quiz info
+        # Get quiz with end time
         quiz = db.query(Quiz).filter(Quiz.id == attempt.quiz_id).first()
         
-        # Check grading status
-        grading_status = {
-            "attempt_id": attempt_id,
-            "status": attempt.status,
-            "submitted_at": attempt.submitted_at.isoformat() if attempt.submitted_at else None,
-            "is_graded": attempt.is_auto_graded or attempt.teacher_reviewed,
-            "auto_graded": attempt.is_auto_graded,
-            "teacher_reviewed": attempt.teacher_reviewed,
-            "obtained_marks": attempt.obtained_marks,
-            "percentage": attempt.percentage,
-            "total_marks": attempt.total_marks
-        }
+        # Check grading status and quiz timing
+        now = get_india_time()
+        quiz_ended = quiz.end_time and now > ensure_india_timezone(quiz.end_time)
+        is_graded = attempt.is_auto_graded or attempt.teacher_reviewed
         
-        # Add grading timeline info
-        if quiz:
-            now = get_india_time()
+        # Determine current status
+        if attempt.status != 'completed':
+            # Quiz not submitted yet
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Quiz not completed yet"
+            )
+        
+        # Get responses count for basic info
+        total_responses = db.query(QuizResponse).filter(
+            QuizResponse.attempt_id == attempt.id
+        ).count()
+        
+        # CASE 1: Quiz ended and graded - show full results
+        if quiz_ended and is_graded:
+            return await _get_full_attempt_results(attempt_id, quiz, attempt, current_user, db)
+        
+        # CASE 2: Quiz ended but not graded yet - show waiting message
+        elif quiz_ended and not is_graded:
+            return _get_pending_grading_results(attempt, quiz, total_responses)
+        
+        # CASE 3: Quiz still active - show waiting message
+        else:
+            return _get_quiz_active_results(attempt, quiz, total_responses)
             
-            if quiz.auto_grade and quiz.end_time:
-                if now < quiz.end_time:
-                    grading_status["message"] = f"Quiz will be auto-graded after {quiz.end_time.strftime('%Y-%m-%d %H:%M')}"
-                    grading_status["estimated_grading_time"] = quiz.end_time.isoformat()
-                elif not attempt.is_auto_graded:
-                    grading_status["message"] = "Quiz ended. Auto-grading in progress..."
-                else:
-                    grading_status["message"] = "Quiz has been graded"
-            elif quiz.auto_grade:
-                if not attempt.is_auto_graded:
-                    grading_status["message"] = "Auto-grading in progress..."
-                else:
-                    grading_status["message"] = "Quiz has been graded"
-            else:
-                grading_status["message"] = "Waiting for teacher to grade manually"
-        
-        return grading_status
-        
     except HTTPException as he:
         raise he
     except Exception as e:
-        logger.error(f"Error getting grading status: {str(e)}")
+        logger.error(f"Error getting attempt results: {str(e)}")
         raise HTTPException(
-            status_code=500,
-            detail=f"Error getting grading status: {str(e)}"
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error getting attempt results: {str(e)}"
         )
 
+async def _get_full_attempt_results(attempt_id: str, quiz, attempt, current_user: Dict, db: Session):
+    """Get complete results when grading is finished"""
+    
+    # Get responses with question details
+    query = text("""
+        SELECT 
+            qr.*,
+            qq.marks,
+            COALESCE(q.correct_answer, qq.custom_correct_answer) as correct_answer,
+            COALESCE(q.question_text, qq.custom_question_text) as question_text,
+            COALESCE(q.type, qq.custom_question_type) as question_type,
+            CASE 
+                WHEN q.options IS NOT NULL THEN q.options::json
+                WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
+                ELSE NULL
+            END as options,
+            COALESCE(q.explanation, qq.custom_explanation) as explanation,
+            qq.order_index
+        FROM quiz_responses qr
+        JOIN quiz_questions qq ON qr.question_id = qq.id
+        LEFT JOIN questions q ON qq.ai_question_id = q.id
+        WHERE qr.attempt_id = :attempt_id
+        ORDER BY qq.order_index
+    """)
+    
+    responses_with_questions = db.execute(query, {"attempt_id": attempt_id}).fetchall()
+    
+    questions_with_answers = []
+    correct_count = 0
+    
+    for resp in responses_with_questions:
+        if resp.is_correct:
+            correct_count += 1
+        
+        questions_with_answers.append({
+            "question_id": str(resp.question_id),
+            "question_text": resp.question_text,
+            "question_type": resp.question_type,
+            "options": resp.options,
+            "student_answer": resp.response,
+            "correct_answer": resp.correct_answer,
+            "explanation": resp.explanation,
+            "marks": resp.marks,
+            "score": resp.score,
+            "is_correct": resp.is_correct,
+            "feedback": resp.feedback,
+            "time_spent": resp.time_spent,
+            "confidence_level": resp.confidence_level,
+            "flagged_for_review": resp.flagged_for_review
+        })
+    
+    # Get all responses for the attempt response
+    responses_data = [
+        {
+            "question_id": str(resp.question_id),
+            "response": resp.response,
+            "score": resp.score,
+            "is_correct": resp.is_correct,
+            "feedback": resp.feedback,
+            "time_spent": resp.time_spent,
+            "confidence_level": resp.confidence_level,
+            "flagged_for_review": resp.flagged_for_review
+        }
+        for resp in responses_with_questions
+    ]
+    
+    attempt_response = format_attempt_response(attempt, quiz.title, responses_data)
+    
+    summary = {
+        "total_questions": len(responses_with_questions),
+        "correct_answers": correct_count,
+        "total_marks": attempt.total_marks,
+        "obtained_marks": attempt.obtained_marks,
+        "percentage": attempt.percentage,
+        "passed": attempt.percentage >= quiz.passing_marks,
+        "time_taken": attempt.time_taken,
+        "ai_grading_used": attempt.is_auto_graded,
+        "grading_status": "completed",
+        "grading_message": f"Quiz graded! You scored {attempt.obtained_marks}/{attempt.total_marks} ({attempt.percentage:.1f}%)"
+    }
+    
+    return AttemptResultResponse(
+        attempt=attempt_response,
+        questions_with_answers=questions_with_answers,
+        summary=summary
+    )
+
+def _get_pending_grading_results(attempt, quiz, total_responses: int):
+    """Return waiting message when quiz ended but grading is pending"""
+    
+    # Estimate grading completion
+    now = get_india_time()
+    
+    # Create minimal attempt response
+    attempt_response = AttemptResponse(
+        id=str(attempt.id),
+        quiz_id=str(attempt.quiz_id),
+        quiz_title=quiz.title,
+        attempt_number=attempt.attempt_number,
+        obtained_marks=0.0,  # Hidden until graded
+        total_marks=attempt.total_marks,
+        percentage=0.0,  # Hidden until graded
+        started_at=attempt.started_at.isoformat(),
+        submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
+        time_taken=attempt.time_taken,
+        status=attempt.status,
+        is_auto_graded=attempt.is_auto_graded,
+        teacher_reviewed=attempt.teacher_reviewed,
+        responses=[]  # Hide responses until graded
+    )
+    
+    # Create waiting message
+    grading_message = "🤖 Your quiz is being graded automatically! "
+    if quiz.auto_grade:
+        grading_message += "Results will be available shortly. The AI is currently reviewing your answers."
+    else:
+        grading_message += "Your teacher will grade it manually."
+    
+    questions_with_answers = [{
+        "message": "Quiz submitted successfully! ✅",
+        "details": f"Your {total_responses} answers have been submitted and are currently being graded.",
+        "status": "pending_grading",
+        "estimated_completion": "Results typically available within 10-15 minutes after quiz ends"
+    }]
+    
+    summary = {
+        "total_questions": total_responses,
+        "submitted_answers": total_responses,
+        "total_marks": attempt.total_marks,
+        "obtained_marks": "⏳ Grading in progress...",
+        "percentage": "⏳ Grading in progress...",
+        "time_taken": attempt.time_taken,
+        "grading_status": "pending",
+        "grading_message": grading_message,
+        "auto_grading_enabled": quiz.auto_grade,
+        "show_results": False
+    }
+    
+    return AttemptResultResponse(
+        attempt=attempt_response,
+        questions_with_answers=questions_with_answers,
+        summary=summary
+    )
+
+def _get_quiz_active_results(attempt, quiz, total_responses: int):
+    """Return waiting message when quiz is still active"""
+    
+    now = get_india_time()
+    time_until_end = None
+    
+    if quiz.end_time:
+        end_time = ensure_india_timezone(quiz.end_time)
+        if now < end_time:
+            time_until_end = int((end_time - now).total_seconds() / 60)
+    
+    # Create minimal attempt response
+    attempt_response = AttemptResponse(
+        id=str(attempt.id),
+        quiz_id=str(attempt.quiz_id),
+        quiz_title=quiz.title,
+        attempt_number=attempt.attempt_number,
+        obtained_marks=0.0,  # Hidden until quiz ends and graded
+        total_marks=attempt.total_marks,
+        percentage=0.0,  # Hidden until quiz ends and graded
+        started_at=attempt.started_at.isoformat(),
+        submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
+        time_taken=attempt.time_taken,
+        status=attempt.status,
+        is_auto_graded=False,
+        teacher_reviewed=False,
+        responses=[]  # Hide responses until quiz ends
+    )
+    
+    # Create waiting message based on quiz timing
+    if time_until_end:
+        grading_message = f"⏰ Quiz is still active! Results will be available after the quiz ends in {time_until_end} minutes."
+        if quiz.auto_grade:
+            grading_message += " Your quiz will be automatically graded once the time limit expires."
+    else:
+        grading_message = "⏰ Quiz is still active! Results will be available after the quiz ends."
+    
+    questions_with_answers = [{
+        "message": "Quiz submitted successfully! ✅",
+        "details": f"Your {total_responses} answers have been saved.",
+        "status": "quiz_active",
+        "waiting_reason": f"Quiz ends on {quiz.end_time.strftime('%Y-%m-%d at %H:%M')} (India time)" if quiz.end_time else "Quiz has no end time set",
+        "time_remaining": f"{time_until_end} minutes" if time_until_end else "Unknown"
+    }]
+    
+    summary = {
+        "total_questions": total_responses,
+        "submitted_answers": total_responses,
+        "total_marks": attempt.total_marks,
+        "obtained_marks": "⏰ Quiz still active",
+        "percentage": "⏰ Quiz still active",
+        "time_taken": attempt.time_taken,
+        "grading_status": "quiz_active",
+        "grading_message": grading_message,
+        "auto_grading_enabled": quiz.auto_grade,
+        "show_results": False,
+        "time_until_end": time_until_end
+    }
+    
+    return AttemptResultResponse(
+        attempt=attempt_response,
+        questions_with_answers=questions_with_answers,
+        summary=summary
+    )
 
 @router.get("/attempts/my-attempts", response_model=List[AttemptResponse])
 async def get_my_attempts(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get all quiz attempts for the current student"""
+    """Get all quiz attempts for the current student - with grading status awareness"""
     try:
         check_student_permission(current_user)
         
-        # Get attempts with quiz info
-        attempts = db.query(QuizAttempt, Quiz.title).join(
-            Quiz, QuizAttempt.quiz_id == Quiz.id
-        ).filter(
-            QuizAttempt.student_id == current_user['id']
-        ).order_by(QuizAttempt.started_at.desc()).all()
+        # Get attempts with quiz info and grading status
+        query = text("""
+            SELECT 
+                qa.*,
+                q.title as quiz_title,
+                q.end_time,
+                q.auto_grade,
+                q.passing_marks
+            FROM quiz_attempts qa
+            JOIN quizzes q ON qa.quiz_id = q.id
+            WHERE qa.student_id = :student_id
+            ORDER BY qa.started_at DESC
+        """)
+        
+        attempts = db.execute(query, {"student_id": current_user['id']}).fetchall()
         
         result = []
-        for attempt, quiz_title in attempts:
-            # Get responses for each attempt
-            responses = db.query(QuizResponse).filter(
+        now = get_india_time()
+        
+        for attempt in attempts:
+            # Check grading status
+            quiz_ended = attempt.end_time and now > ensure_india_timezone(attempt.end_time)
+            is_graded = attempt.is_auto_graded or attempt.teacher_reviewed
+            
+            # Get response count for this attempt
+            response_count = db.query(QuizResponse).filter(
                 QuizResponse.attempt_id == attempt.id
-            ).all()
+            ).count()
             
-            responses_data = [
-                {
-                    "question_id": str(resp.question_id),
-                    "response": resp.response,
-                    "score": resp.score,
-                    "is_correct": resp.is_correct,
-                    "feedback": resp.feedback,  # Include feedback
-                    "time_spent": resp.time_spent,
-                    "confidence_level": resp.confidence_level,
-                    "flagged_for_review": resp.flagged_for_review
-                }
-                for resp in responses
-            ]
+            # Determine what to show based on status
+            if attempt.status != 'completed':
+                # Incomplete attempt
+                display_marks = 0.0
+                display_percentage = 0.0
+                responses_data = []
+                status_message = "Incomplete"
+                
+            elif quiz_ended and is_graded:
+                # Fully graded - show real results
+                display_marks = attempt.obtained_marks
+                display_percentage = attempt.percentage
+                
+                # Get actual responses for graded attempts
+                responses = db.query(QuizResponse).filter(
+                    QuizResponse.attempt_id == attempt.id
+                ).all()
+                
+                responses_data = [
+                    {
+                        "question_id": str(resp.question_id),
+                        "response": resp.response,
+                        "score": resp.score,
+                        "is_correct": resp.is_correct,
+                        "feedback": resp.feedback,
+                        "time_spent": resp.time_spent,
+                        "confidence_level": resp.confidence_level,
+                        "flagged_for_review": resp.flagged_for_review
+                    }
+                    for resp in responses
+                ]
+                
+                # Check if passed
+                passed = attempt.percentage >= attempt.passing_marks
+                status_message = f"Graded - {'Passed' if passed else 'Failed'} ({attempt.percentage:.1f}%)"
+                
+            elif quiz_ended and not is_graded:
+                # Quiz ended but grading pending
+                display_marks = 0.0
+                display_percentage = 0.0
+                responses_data = []
+                status_message = "⏳ Grading in progress..."
+                
+            else:
+                # Quiz still active
+                display_marks = 0.0
+                display_percentage = 0.0
+                responses_data = []
+                if attempt.end_time:
+                    time_left = int((ensure_india_timezone(attempt.end_time) - now).total_seconds() / 60)
+                    status_message = f"⏰ Quiz active ({time_left}min left)" if time_left > 0 else "⏰ Quiz ended, grading soon"
+                else:
+                    status_message = "⏰ Quiz active"
             
-            result.append(format_attempt_response(attempt, quiz_title, responses_data))
+            attempt_response = AttemptResponse(
+                id=str(attempt.id),
+                quiz_id=str(attempt.quiz_id),
+                quiz_title=attempt.quiz_title,
+                attempt_number=attempt.attempt_number,
+                obtained_marks=display_marks,
+                total_marks=attempt.total_marks,
+                percentage=display_percentage,
+                started_at=attempt.started_at.isoformat(),
+                submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
+                time_taken=attempt.time_taken,
+                status=status_message,  # Enhanced status with grading info
+                is_auto_graded=attempt.is_auto_graded,
+                teacher_reviewed=attempt.teacher_reviewed,
+                responses=responses_data
+            )
+            
+            result.append(attempt_response)
         
         return result
         
@@ -863,120 +1136,109 @@ async def get_my_attempts(
             detail=f"Error getting student attempts: {str(e)}"
         )
 
-@router.get("/attempts/{attempt_id}/results", response_model=AttemptResultResponse)
-async def get_attempt_results(
+# Enhanced grading status endpoint
+@router.get("/attempts/{attempt_id}/grading-status")
+async def get_grading_status(
     attempt_id: str,
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get detailed results for a specific attempt using QuizResponse table"""
+    """Check the grading status of a quiz attempt - enhanced version"""
     try:
         check_student_permission(current_user)
         
-        # Get attempt
-        attempt = db.query(QuizAttempt).filter(
-            QuizAttempt.id == attempt_id,
-            QuizAttempt.student_id == current_user['id']
-        ).first()
+        # Get attempt with quiz info
+        query = text("""
+            SELECT 
+                qa.*,
+                q.title as quiz_title,
+                q.end_time,
+                q.auto_grade,
+                q.passing_marks
+            FROM quiz_attempts qa
+            JOIN quizzes q ON qa.quiz_id = q.id
+            WHERE qa.id = :attempt_id AND qa.student_id = :student_id
+        """)
         
-        if not attempt:
+        result = db.execute(query, {
+            "attempt_id": attempt_id,
+            "student_id": current_user['id']
+        }).fetchone()
+        
+        if not result:
             raise HTTPException(
                 status_code=status.HTTP_404_NOT_FOUND,
                 detail="Attempt not found"
             )
         
-        # Get quiz
-        quiz = db.query(Quiz).filter(Quiz.id == attempt.quiz_id).first()
+        # Check timing and grading status
+        now = get_india_time()
+        quiz_ended = result.end_time and now > ensure_india_timezone(result.end_time)
+        is_graded = result.is_auto_graded or result.teacher_reviewed
         
-        # Get responses with question details
-        query = text("""
-            SELECT 
-                qr.*,
-                qq.marks,
-                COALESCE(q.correct_answer, qq.custom_correct_answer) as correct_answer,
-                COALESCE(q.question_text, qq.custom_question_text) as question_text,
-                COALESCE(q.type, qq.custom_question_type) as question_type,
-                CASE 
-                    WHEN q.options IS NOT NULL THEN q.options::json
-                    WHEN qq.custom_options IS NOT NULL THEN qq.custom_options::json
-                    ELSE NULL
-                END as options,
-                COALESCE(q.explanation, qq.custom_explanation) as explanation,
-                qq.order_index
-            FROM quiz_responses qr
-            JOIN quiz_questions qq ON qr.question_id = qq.id
-            LEFT JOIN questions q ON qq.ai_question_id = q.id
-            WHERE qr.attempt_id = :attempt_id
-            ORDER BY qq.order_index
-        """)
+        # Calculate time estimates
+        time_until_end = None
+        estimated_grading_completion = None
         
-        responses_with_questions = db.execute(query, {"attempt_id": attempt_id}).fetchall()
+        if result.end_time:
+            end_time = ensure_india_timezone(result.end_time)
+            if now < end_time:
+                time_until_end = int((end_time - now).total_seconds() / 60)
+            elif not is_graded:
+                # Quiz ended, estimate grading completion (10-15 minutes after end)
+                estimated_completion = end_time + timedelta(minutes=15)
+                if now < estimated_completion:
+                    estimated_grading_completion = int((estimated_completion - now).total_seconds() / 60)
         
-        questions_with_answers = []
-        correct_count = 0
+        # Determine status and message
+        if result.status != 'completed':
+            status = "incomplete"
+            message = "Quiz not submitted yet"
+        elif quiz_ended and is_graded:
+            status = "graded"
+            passed = result.percentage >= result.passing_marks
+            message = f"✅ Graded! Score: {result.obtained_marks}/{result.total_marks} ({result.percentage:.1f}%) - {'Passed' if passed else 'Failed'}"
+        elif quiz_ended and not is_graded:
+            status = "pending_grading"
+            if result.auto_grade:
+                message = "🤖 Auto-grading in progress... Results will be available soon!"
+            else:
+                message = "👨‍🏫 Waiting for teacher to grade manually"
+        else:
+            status = "quiz_active"
+            if time_until_end:
+                message = f"⏰ Quiz is still active. Results will be available {time_until_end} minutes after quiz ends."
+            else:
+                message = "⏰ Quiz is still active. Results will be available after quiz ends."
         
-        for resp in responses_with_questions:
-            if resp.is_correct:
-                correct_count += 1
-            
-            questions_with_answers.append({
-                "question_id": str(resp.question_id),
-                "question_text": resp.question_text,
-                "question_type": resp.question_type,
-                "options": resp.options,
-                "student_answer": resp.response,
-                "correct_answer": resp.correct_answer,
-                "explanation": resp.explanation,
-                "marks": resp.marks,
-                "score": resp.score,
-                "is_correct": resp.is_correct,
-                "feedback": resp.feedback,  # Include stored feedback
-                "time_spent": resp.time_spent,
-                "confidence_level": resp.confidence_level,
-                "flagged_for_review": resp.flagged_for_review
-            })
-        
-        # Get all responses for the attempt response
-        responses_data = [
-            {
-                "question_id": str(resp.question_id),
-                "response": resp.response,
-                "score": resp.score,
-                "is_correct": resp.is_correct,
-                "feedback": resp.feedback,  # Include stored feedback
-                "time_spent": resp.time_spent,
-                "confidence_level": resp.confidence_level,
-                "flagged_for_review": resp.flagged_for_review
-            }
-            for resp in responses_with_questions
-        ]
-        
-        attempt_response = format_attempt_response(attempt, quiz.title, responses_data)
-        
-        summary = {
-            "total_questions": len(responses_with_questions),
-            "correct_answers": correct_count,
-            "total_marks": attempt.total_marks,
-            "obtained_marks": attempt.obtained_marks,
-            "percentage": attempt.percentage,
-            "passed": attempt.percentage >= quiz.passing_marks,
-            "time_taken": attempt.time_taken,
-            "ai_grading_used": attempt.is_auto_graded
+        grading_status = {
+            "attempt_id": attempt_id,
+            "quiz_title": result.quiz_title,
+            "status": status,
+            "submitted_at": result.submitted_at.isoformat() if result.submitted_at else None,
+            "is_graded": is_graded,
+            "auto_graded": result.is_auto_graded,
+            "teacher_reviewed": result.teacher_reviewed,
+            "obtained_marks": result.obtained_marks if is_graded else None,
+            "percentage": result.percentage if is_graded else None,
+            "total_marks": result.total_marks,
+            "message": message,
+            "quiz_ended": quiz_ended,
+            "time_until_end": time_until_end,
+            "estimated_grading_completion": estimated_grading_completion,
+            "can_view_results": quiz_ended and is_graded,
+            "quiz_end_time": result.end_time.isoformat() if result.end_time else None
         }
         
-        return AttemptResultResponse(
-            attempt=attempt_response,
-            questions_with_answers=questions_with_answers,
-            summary=summary
-        )
+        return grading_status
         
     except HTTPException as he:
         raise he
     except Exception as e:
-        logger.error(f"Error getting attempt results: {str(e)}")
+        logger.error(f"Error getting grading status: {str(e)}")
         raise HTTPException(
-            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Error getting attempt results: {str(e)}"
+            status_code=500,
+            detail=f"Error getting grading status: {str(e)}"
         )
 
 # Additional endpoint for saving partial responses (useful for auto-save functionality)
