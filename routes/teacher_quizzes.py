@@ -127,8 +127,8 @@ class QuizResponse(BaseModel):
     total_marks: int
     passing_marks: int
     attempts_allowed: int
-    start_time: Optional[str]
-    end_time: Optional[str]
+    start_time: Optional[datetime]
+    end_time: Optional[datetime]
     is_published: bool
     auto_grade: bool
     total_questions: int
@@ -334,8 +334,8 @@ async def get_teacher_quizzes(
                 total_marks=quiz.total_marks,
                 passing_marks=quiz.passing_marks,
                 attempts_allowed=quiz.attempts_allowed,
-                start_time= ensure_india_timezone(quiz.start_time) if quiz.start_time else None,
-                end_time=ensure_india_timezone(quiz.end_time) if quiz.end_time else None,
+                start_time= quiz.start_time if quiz.start_time else None,
+                end_time=quiz.end_time if quiz.end_time else None,
                 is_published=quiz.is_published,
                 auto_grade=quiz.auto_grade,
                 total_questions=quiz.total_questions,
