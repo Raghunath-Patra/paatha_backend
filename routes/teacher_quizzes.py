@@ -1159,7 +1159,7 @@ async def get_teacher_attempt_results(
             "total_marks": attempt.total_marks,
             "obtained_marks": attempt.obtained_marks,
             "percentage": attempt.percentage,
-            "passed": attempt.percentage >= quiz.passing_marks,
+            "passed": attempt.obtained_marks >= quiz.passing_marks,
             "time_taken": attempt.time_taken,
             "ai_grading_used": attempt.is_auto_graded,
             "quiz_title": quiz.title,
