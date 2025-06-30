@@ -879,7 +879,7 @@ async def _get_full_attempt_results(attempt_id: str, quiz, attempt, current_user
         "total_marks": attempt.total_marks,
         "obtained_marks": attempt.obtained_marks,
         "percentage": attempt.percentage,
-        "passed": attempt.percentage >= quiz.passing_marks,
+        "passed": attempt.obtained_marks >= quiz.passing_marks,
         "time_taken": attempt.time_taken,
         "ai_grading_used": attempt.is_auto_graded,
         "grading_status": "completed",
@@ -1085,7 +1085,7 @@ async def get_my_attempts(
                 ]
                 
                 # Check if passed
-                passed = attempt.percentage >= attempt.passing_marks
+                passed = attempt.obtained_marks >= attempt.passing_marks
                 status_message = f"Graded - {'Passed' if passed else 'Failed'} ({attempt.percentage:.1f}%)"
                 
             elif quiz_ended and not is_graded:
@@ -1196,7 +1196,7 @@ async def get_grading_status(
             message = "Quiz not submitted yet"
         elif quiz_ended and is_graded:
             status = "graded"
-            passed = result.percentage >= result.passing_marks
+            passed = result.obtained_marks >= result.passing_marks
             message = f"✅ Graded! Score: {result.obtained_marks}/{result.total_marks} ({result.percentage:.1f}%) - {'Passed' if passed else 'Failed'}"
         elif quiz_ended and not is_graded:
             status = "pending_grading"

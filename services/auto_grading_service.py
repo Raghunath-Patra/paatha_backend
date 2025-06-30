@@ -185,7 +185,7 @@ class AutoGradingService:
                             score, feedback, ai_usage = AutoGradingService._grade_text_answer_with_ai(
                                 student_answer, question_text, correct_answer, max_marks
                             )
-                            is_correct = score >= (max_marks * 0.8)
+                            is_correct = score >= (max_marks * 0.4) # 40% threshold for correctness
                             
                             # Accumulate AI token usage
                             total_ai_usage['prompt_tokens'] += ai_usage.get('prompt_tokens', 0)

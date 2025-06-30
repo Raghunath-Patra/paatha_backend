@@ -334,8 +334,8 @@ async def get_teacher_quizzes(
                 total_marks=quiz.total_marks,
                 passing_marks=quiz.passing_marks,
                 attempts_allowed=quiz.attempts_allowed,
-                start_time=quiz.start_time if quiz.start_time else None,
-                end_time=quiz.end_time if quiz.end_time else None,
+                start_time= ensure_india_timezone(quiz.start_time) if quiz.start_time else None,
+                end_time=ensure_india_timezone(quiz.end_time) if quiz.end_time else None,
                 is_published=quiz.is_published,
                 auto_grade=quiz.auto_grade,
                 total_questions=quiz.total_questions,
@@ -840,7 +840,7 @@ async def get_quiz_attempts(
                     qa.is_auto_graded,
                     qa.teacher_reviewed,
                     CASE WHEN qa.status = 'completed' THEN 1 ELSE 0 END as is_completed,
-                    CASE WHEN qa.status = 'completed' AND qa.percentage >= :passing_percentage THEN 1 ELSE 0 END as is_passed
+                    CASE WHEN qa.status = 'completed' AND qa.obtained_marks >= :passing_percentage THEN 1 ELSE 0 END as is_passed
                 FROM quiz_attempts qa
                 LEFT JOIN profiles u ON qa.student_id = u.id
                 WHERE qa.quiz_id = :quiz_id
@@ -871,7 +871,7 @@ async def get_quiz_attempts(
         """)
         
         # Calculate passing percentage
-        passing_percentage = (quiz.passing_marks / quiz.total_marks) * 100
+        passing_percentage = quiz.passing_marks
         
         results = db.execute(query, {
             "quiz_id": quiz_id,
