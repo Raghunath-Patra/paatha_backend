@@ -1173,7 +1173,7 @@ async def get_grading_status(
         
         # Check timing and grading status
         now = get_india_time()
-        quiz_ended = result.end_time and now > ensure_india_timezone(result.end_time)
+        quiz_ended = result.end_time and now > result.end_time
         is_graded = result.is_auto_graded or result.teacher_reviewed
         
         # Calculate time estimates
