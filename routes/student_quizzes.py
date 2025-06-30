@@ -95,8 +95,8 @@ class AttemptResponse(BaseModel):
     obtained_marks: float
     total_marks: int
     percentage: float
-    started_at: str
-    submitted_at: Optional[str]
+    started_at: datetime
+    submitted_at: Optional[datetime]
     time_taken: Optional[int]
     status: str
     is_auto_graded: bool
@@ -627,7 +627,7 @@ async def submit_quiz(
                 score=None,  # Will be set by auto-grading
                 is_correct=None,  # Will be set by auto-grading
                 feedback=None,  # Will be set by auto-grading
-                time_spent=student_response.time_spent if student_response else None,
+                time_spent=student_response.time_spent if student_response else None,   # Calculate time spent
                 confidence_level=student_response.confidence_level if student_response else None,
                 flagged_for_review=student_response.flagged_for_review if student_response else False,
                 answered_at=get_india_time()
@@ -1114,7 +1114,7 @@ async def get_my_attempts(
                 obtained_marks=display_marks,
                 total_marks=attempt.total_marks,
                 percentage=display_percentage,
-                started_at=attempt.started_at.isoformat(),
+                started_at=attempt.started_at,
                 submitted_at=attempt.submitted_at if attempt.submitted_at else None,
                 time_taken=attempt.time_taken,
                 status=status_message,  # Enhanced status with grading info
