@@ -81,10 +81,11 @@ class SchedulerService:
             )
             
             # Also add a cron job that runs at specific times (useful for peak hours)
-            # Run at minute 5, 15, 25, 35, 45, 55 of every hour
+            # Run at minute 5, 15, 25, 35, 45, 55 of every hour - currently set to run every hour at minute 5
+            # This can be adjusted based on peak usage times
             self.scheduler.add_job(
                 func=self._run_auto_grading_job,
-                trigger=CronTrigger(minute='5,15,25,35,45,55'),
+                trigger=CronTrigger(minute='5'), # Every hour at minute 5 
                 id='auto_grading_cron',
                 name='Auto Grade Quizzes (Scheduled)',
                 replace_existing=True
