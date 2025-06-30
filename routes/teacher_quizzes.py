@@ -840,7 +840,7 @@ async def get_quiz_attempts(
                     qa.is_auto_graded,
                     qa.teacher_reviewed,
                     CASE WHEN qa.status = 'completed' THEN 1 ELSE 0 END as is_completed,
-                    CASE WHEN qa.status = 'completed' AND qa.obtained_marks >= :passing_percentage THEN 1 ELSE 0 END as is_passed
+                    CASE WHEN qa.status = 'completed' AND qa.percentage >= :passing_percentage THEN 1 ELSE 0 END as is_passed
                 FROM quiz_attempts qa
                 LEFT JOIN profiles u ON qa.student_id = u.id
                 WHERE qa.quiz_id = :quiz_id
@@ -871,7 +871,7 @@ async def get_quiz_attempts(
         """)
         
         # Calculate passing percentage
-        passing_percentage = quiz.passing_marks
+        passing_percentage = (quiz.passing_marks / quiz.total_marks) * 100
         
         results = db.execute(query, {
             "quiz_id": quiz_id,
