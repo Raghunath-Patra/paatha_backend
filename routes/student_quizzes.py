@@ -1115,7 +1115,7 @@ async def get_my_attempts(
                 total_marks=attempt.total_marks,
                 percentage=display_percentage,
                 started_at=attempt.started_at.isoformat(),
-                submitted_at=attempt.submitted_at.isoformat() if attempt.submitted_at else None,
+                submitted_at=attempt.submitted_at if attempt.submitted_at else None,
                 time_taken=attempt.time_taken,
                 status=status_message,  # Enhanced status with grading info
                 is_auto_graded=attempt.is_auto_graded,
@@ -1173,7 +1173,7 @@ async def get_grading_status(
         
         # Check timing and grading status
         now = get_india_time()
-        quiz_ended = result.end_time and now > result.end_time
+        quiz_ended = result.end_time and now > ensure_india_timezone(result.end_time)
         is_graded = result.is_auto_graded or result.teacher_reviewed
         
         # Calculate time estimates
@@ -1227,7 +1227,7 @@ async def get_grading_status(
             "time_until_end": time_until_end,
             "estimated_grading_completion": estimated_grading_completion,
             "can_view_results": quiz_ended and is_graded,
-            "quiz_end_time": result.end_time.isoformat() if result.end_time else None
+            "quiz_end_time": result.end_time if result.end_time else None
         }
         
         return grading_status
