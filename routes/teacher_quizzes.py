@@ -71,7 +71,7 @@ def ensure_india_timezone(dt):
     else:
         # Convert to India timezone
         utc_dt = dt.astimezone(timezone.utc)
-        offset = timedelta(hours=5, minutes=30)
+        offset = timedelta(hours=0, minutes=0)
         return utc_dt.replace(tzinfo=None) + offset
 
 # Pydantic models
@@ -334,8 +334,8 @@ async def get_teacher_quizzes(
                 total_marks=quiz.total_marks,
                 passing_marks=quiz.passing_marks,
                 attempts_allowed=quiz.attempts_allowed,
-                start_time=quiz.start_time.isoformat() if quiz.start_time else None,
-                end_time=quiz.end_time.isoformat() if quiz.end_time else None,
+                start_time=quiz.start_time if quiz.start_time else None,
+                end_time=quiz.end_time if quiz.end_time else None,
                 is_published=quiz.is_published,
                 auto_grade=quiz.auto_grade,
                 total_questions=quiz.total_questions,
