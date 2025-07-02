@@ -1060,7 +1060,7 @@ async def get_my_attempts(
                 responses_data = []
                 status_message = "Incomplete"
                 
-            elif quiz_ended and is_graded:
+            elif is_graded:
                 # Fully graded - show real results
                 display_marks = attempt.obtained_marks
                 display_percentage = attempt.percentage
