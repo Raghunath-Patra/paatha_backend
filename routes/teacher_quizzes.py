@@ -1319,7 +1319,7 @@ async def end_quiz(
             )
         
         # Set end time to now
-        quiz.end_time = datetime.utcnow().isoformat().replace('T', ' ') + '+00'
+        quiz.end_time = get_india_time()
         db.commit()
         
         logger.info(f"Quiz {quiz_id} ended by teacher {current_user['id']}")
