@@ -785,7 +785,7 @@ async def get_attempt_results(
         ).count()
         
         # CASE 1: Quiz ended and graded - show full results
-        if quiz_ended and is_graded:
+        if is_graded:
             return await _get_full_attempt_results(attempt_id, quiz, attempt, current_user, db)
         
         # CASE 2: Quiz ended but not graded yet - show waiting message

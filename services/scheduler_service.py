@@ -93,7 +93,7 @@ class SchedulerService:
             
             logger.info(f"✅ Auto-grading jobs scheduled:")
             logger.info(f"   - Interval: Every {grading_interval_minutes} minutes")
-            logger.info(f"   - Cron: At minutes 5,15,25,35,45,55 of every hour")
+            logger.info(f"   - Cron: At minute 5 of every hour")
             
         except Exception as e:
             logger.error(f"❌ Error adding auto-grading job: {str(e)}")
