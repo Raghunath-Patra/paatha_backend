@@ -476,7 +476,7 @@ class AutoGradingService:
             AutoGradingService.mark_quiz_as_graded(quiz_id, db)
             
             # Commit all changes
-            db.commit()
+            # db.commit()
             
             logger.info(f"Completed auto-grading for quiz {quiz_id}: {graded_submissions} submissions graded, {total_tokens_used} tokens used")
             
