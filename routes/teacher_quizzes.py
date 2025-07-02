@@ -1288,3 +1288,50 @@ async def trigger_quiz_grading(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error triggering auto-grading: {str(e)}"
         )
+    
+@router.put("/{quiz_id}/end")
+async def end_quiz(
+    quiz_id: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """End a quiz and mark it as completed"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify quiz ownership
+        quiz = db.query(Quiz).filter(
+            Quiz.id == quiz_id,
+            Quiz.teacher_id == current_user['id']
+        ).first()
+        
+        if not quiz:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Quiz not found"
+            )
+        
+        # Check if quiz is already ended
+        if quiz.end_time:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Quiz is already ended"
+            )
+        
+        # Set end time to now
+        quiz.end_time = datetime.utcnow().isoformat().replace('T', ' ') + '+00'
+        db.commit()
+        
+        logger.info(f"Quiz {quiz_id} ended by teacher {current_user['id']}")
+        
+        return {"message": "Quiz ended successfully"}
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error ending quiz: {str(e)}")
+        db.rollback()
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error ending quiz: {str(e)}"
+        )
