@@ -1193,3 +1193,98 @@ async def get_teacher_attempt_results(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error getting attempt results: {str(e)}"
         )
+
+@router.post("/{quiz_id}/trigger-grading")
+async def trigger_quiz_grading(
+    quiz_id: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Manually trigger auto-grading for a specific quiz"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify quiz ownership
+        quiz = db.query(Quiz).filter(
+            Quiz.id == quiz_id,
+            Quiz.teacher_id == current_user['id']
+        ).first()
+        
+        if not quiz:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Quiz not found"
+            )
+        
+        # Check if quiz has auto-grading enabled
+        if not quiz.auto_grade:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="This quiz does not have auto-grading enabled"
+            )
+        
+        # Import auto-grading service
+        from services.auto_grading_service import auto_grading_service
+        
+        # Get course info for the quiz
+        course = db.query(Course).filter(Course.id == quiz.course_id).first()
+        
+        # Prepare quiz info for auto-grading
+        quiz_info = {
+            "quiz_id": str(quiz.id),
+            "title": quiz.title,
+            "course_id": str(quiz.course_id),
+            "teacher_id": str(quiz.teacher_id),
+            "teacher_name": current_user.get('full_name', 'Unknown'),
+            "teacher_email": current_user.get('email', ''),
+            "course_name": course.course_name if course else '',
+            "end_time": quiz.end_time,
+            "total_marks": quiz.total_marks
+        }
+        
+        # Check if there are ungraded submissions
+        ungraded_submissions = auto_grading_service.find_ungraded_submissions(quiz_id, db)
+        
+        if not ungraded_submissions:
+            auto_grading_service.mark_quiz_as_graded(quiz_id, db)
+            logger.info(f"No ungraded submissions found for quiz {quiz_id}. Marking as graded.")
+            return {
+                "success": True,
+                "message": "No ungraded submissions found for this quiz",
+                "graded_submissions": 0,
+                "total_tokens": 0
+            }
+        
+        logger.info(f"Manual grading triggered for quiz {quiz_id} by teacher {current_user['id']}")
+        
+        # Process auto-grading for this quiz
+        result = auto_grading_service.process_quiz_auto_grading(quiz_info, db)
+        
+        if result.get("error"):
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail=f"Auto-grading failed: {result['error']}"
+            )
+        
+        # Prepare success response
+        response = {
+            "success": True,
+            "message": f"Auto-grading completed successfully",
+            "quiz_title": quiz.title,
+            "graded_submissions": result.get("graded_submissions", 0),
+            "total_tokens": result.get("total_tokens", 0),
+            "processing_time": datetime.utcnow().isoformat()
+        }
+        
+        logger.info(f"Manual grading completed for quiz {quiz_id}: {result.get('graded_submissions', 0)} submissions graded")
+        
+        return response
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error triggering manual grading for quiz {quiz_id}: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error triggering auto-grading: {str(e)}"
+        )
