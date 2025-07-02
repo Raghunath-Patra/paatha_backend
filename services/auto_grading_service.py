@@ -433,6 +433,8 @@ class AutoGradingService:
                 "quiz_id": quiz_id
             })
             
+            # Commit all changes
+            db.commit()
             logger.info(f"Marked quiz {quiz_id} as auto-graded")
             
         except Exception as e:
