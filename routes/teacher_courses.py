@@ -57,9 +57,6 @@ class CourseUpdate(BaseModel):
     description: Optional[str] = None
     is_active: Optional[bool] = None
     max_students: Optional[int] = None
-    board: Optional[str] = None
-    class_level: Optional[str] = None
-    subject: Optional[str] = None
 
 class CourseResponse(BaseModel):
     id: str
