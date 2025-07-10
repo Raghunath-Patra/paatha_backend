@@ -598,7 +598,7 @@ async def get_student_notifications(
         
         # Remove limit and offset for count
         count_params = {k: v for k, v in params.items() if k not in ['limit', 'offset']}
-        total_count = db.execute(count_query, count_params).scalar()
+        total_count = db.execute(count_query, count_params).scalar() or 0
         
         # Format notifications
         formatted_notifications = []
