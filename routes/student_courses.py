@@ -10,6 +10,7 @@ from config.security import get_current_user
 from models import Course, CourseEnrollment, User, Quiz, QuizAttempt
 from datetime import datetime, timezone, timedelta
 import logging
+import json
 
 router = APIRouter(prefix="/api/student/courses", tags=["student-courses"])
 
@@ -117,6 +118,36 @@ class QuizSummary(BaseModel):
     best_score: Optional[float]
     status: str  # 'not_started', 'in_progress', 'completed', 'time_expired'
     quiz_status_value: str  # 'not_started', 'in_progress', 'completed', 'time_expired'
+
+class NotificationResponse(BaseModel):
+    id: str
+    type: str
+    scope: str
+    title: str
+    message: str
+    status: str
+    priority: str
+    metadata: Dict
+    created_at: str
+    expires_at: Optional[str]
+    responded_at: Optional[str]
+    course: Optional[Dict] = None
+    teacher: Optional[Dict] = None
+
+class NotificationListResponse(BaseModel):
+    notifications: List[NotificationResponse]
+    pagination: Dict
+    stats: Dict
+
+class NotificationResponseRequest(BaseModel):
+    response: str  # 'accepted', 'declined', 'read'
+    message: Optional[str] = None
+
+class NotificationResponseResult(BaseModel):
+    success: bool
+    message: str
+    enrollment_id: Optional[str] = None
+    error: Optional[str] = None
 
 def check_student_permission(user: Dict):
     # 🚨 TEMPORARY DEBUG - See what user data looks like
@@ -472,4 +503,439 @@ async def leave_course(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error leaving course: {str(e)}"
+        )
+    
+
+@router.get("/notifications", response_model=NotificationListResponse)
+async def get_student_notifications(
+    status: Optional[str] = None,
+    type: Optional[str] = None,
+    unread_only: bool = False,
+    limit: int = 20,
+    offset: int = 0,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get all notifications for the current student"""
+    try:
+        check_student_permission(current_user)
+        
+        # Build base query - includes both private notifications for this student 
+        # and public notifications for courses they're enrolled in
+        base_query = """
+            SELECT DISTINCT
+                n.id,
+                n.type,
+                n.scope,
+                n.title,
+                n.message,
+                n.status,
+                n.priority,
+                n.metadata,
+                n.created_at,
+                n.expires_at,
+                n.responded_at,
+                c.id as course_id,
+                c.course_name,
+                c.course_code,
+                t.id as teacher_id,
+                t.full_name as teacher_name,
+                t.email as teacher_email
+            FROM notifications n
+            JOIN courses c ON n.course_id = c.id
+            JOIN profiles t ON n.teacher_id = t.id
+            WHERE n.expires_at > NOW()
+            AND (
+                -- Private notifications for this student
+                (n.scope = 'private' AND n.student_id = :student_id)
+                OR 
+                -- Public notifications for courses they're enrolled in
+                (n.scope = 'public' AND EXISTS (
+                    SELECT 1 FROM course_enrollments ce 
+                    WHERE ce.student_id = :student_id 
+                    AND ce.course_id = n.course_id 
+                    AND ce.status = 'active'
+                ))
+            )
+        """
+        
+        # Add filters
+        where_conditions = []
+        params = {
+            "student_id": current_user['id'],
+            "limit": limit,
+            "offset": offset
+        }
+        
+        if status:
+            where_conditions.append("n.status = :status")
+            params["status"] = status
+        
+        if type:
+            where_conditions.append("n.type = :type")
+            params["type"] = type
+        
+        if unread_only:
+            where_conditions.append("n.status = 'pending'")
+        
+        # Add WHERE conditions if any
+        if where_conditions:
+            base_query += " AND " + " AND ".join(where_conditions)
+        
+        # Add ordering and pagination
+        notifications_query = text(base_query + """
+            ORDER BY n.created_at DESC
+            LIMIT :limit OFFSET :offset
+        """)
+        
+        notifications = db.execute(notifications_query, params).fetchall()
+        
+        # Get total count for pagination
+        count_query = text(base_query.replace(
+            "SELECT DISTINCT n.id, n.type, n.scope, n.title, n.message, n.status, n.priority, n.metadata, n.created_at, n.expires_at, n.responded_at, c.id as course_id, c.course_name, c.course_code, t.id as teacher_id, t.full_name as teacher_name, t.email as teacher_email",
+            "SELECT COUNT(DISTINCT n.id)"
+        ))
+        
+        # Remove limit and offset for count
+        count_params = {k: v for k, v in params.items() if k not in ['limit', 'offset']}
+        total_count = db.execute(count_query, count_params).scalar()
+        
+        # Format notifications
+        formatted_notifications = []
+        for notification in notifications:
+            formatted_notification = NotificationResponse(
+                id=str(notification.id),
+                type=notification.type,
+                scope=notification.scope,
+                title=notification.title,
+                message=notification.message,
+                status=notification.status,
+                priority=notification.priority,
+                metadata=json.loads(notification.metadata) if notification.metadata else {},
+                created_at=notification.created_at.isoformat(),
+                expires_at=notification.expires_at.isoformat() if notification.expires_at else None,
+                responded_at=notification.responded_at.isoformat() if notification.responded_at else None,
+                course={
+                    "id": str(notification.course_id),
+                    "course_name": notification.course_name,
+                    "course_code": notification.course_code
+                },
+                teacher={
+                    "id": str(notification.teacher_id),
+                    "full_name": notification.teacher_name,
+                    "email": notification.teacher_email
+                }
+            )
+            formatted_notifications.append(formatted_notification)
+        
+        # Get notification stats
+        stats_query = text("""
+            SELECT 
+                COUNT(DISTINCT n.id) as total_count,
+                COUNT(DISTINCT CASE WHEN n.status = 'pending' THEN n.id END) as unread_count,
+                COUNT(DISTINCT CASE WHEN n.type = 'course_invitation' AND n.status = 'pending' THEN n.id END) as pending_invitations,
+                COUNT(DISTINCT CASE WHEN n.type = 'public_notice' AND n.status = 'pending' THEN n.id END) as unread_notices
+            FROM notifications n
+            WHERE n.expires_at > NOW()
+            AND (
+                (n.scope = 'private' AND n.student_id = :student_id)
+                OR 
+                (n.scope = 'public' AND EXISTS (
+                    SELECT 1 FROM course_enrollments ce 
+                    WHERE ce.student_id = :student_id 
+                    AND ce.course_id = n.course_id 
+                    AND ce.status = 'active'
+                ))
+            )
+        """)
+        
+        stats = db.execute(stats_query, {"student_id": current_user['id']}).fetchone()
+        
+        return NotificationListResponse(
+            notifications=formatted_notifications,
+            pagination={
+                "total": total_count,
+                "limit": limit,
+                "offset": offset,
+                "has_more": (offset + limit) < total_count
+            },
+            stats={
+                "total_count": stats.total_count,
+                "unread_count": stats.unread_count,
+                "pending_invitations": stats.pending_invitations,
+                "unread_notices": stats.unread_notices
+            }
+        )
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error fetching student notifications: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error fetching notifications: {str(e)}"
+        )
+
+@router.patch("/notifications/{notification_id}/respond", response_model=NotificationResponseResult)
+async def respond_to_notification(
+    notification_id: str,
+    response_data: NotificationResponseRequest,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Respond to a notification (accept/decline invitation, mark as read)"""
+    try:
+        check_student_permission(current_user)
+        
+        # Validate response type
+        if response_data.response not in ['accepted', 'declined', 'read']:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Response must be 'accepted', 'declined', or 'read'"
+            )
+        
+        # Get the notification and verify ownership
+        notification_query = text("""
+            SELECT n.*, c.course_name, c.max_students
+            FROM notifications n
+            JOIN courses c ON n.course_id = c.id
+            WHERE n.id = :notification_id 
+            AND (
+                n.student_id = :student_id 
+                OR (n.scope = 'public' AND EXISTS (
+                    SELECT 1 FROM course_enrollments ce 
+                    WHERE ce.student_id = :student_id 
+                    AND ce.course_id = n.course_id 
+                    AND ce.status = 'active'
+                ))
+            )
+            AND n.expires_at > NOW()
+        """)
+        
+        notification = db.execute(notification_query, {
+            "notification_id": notification_id,
+            "student_id": current_user['id']
+        }).fetchone()
+        
+        if not notification:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Notification not found or expired"
+            )
+        
+        # Check if already responded
+        if notification.status in ['accepted', 'declined'] and response_data.response in ['accepted', 'declined']:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="You have already responded to this invitation"
+            )
+        
+        enrollment_id = None
+        
+        # Handle course invitation responses
+        if notification.type == 'course_invitation' and response_data.response == 'accepted':
+            # Check if student is already enrolled (race condition protection)
+            existing_enrollment = db.query(CourseEnrollment).filter(
+                CourseEnrollment.course_id == notification.course_id,
+                CourseEnrollment.student_id == current_user['id'],
+                CourseEnrollment.status == 'active'
+            ).first()
+            
+            if existing_enrollment:
+                # Update notification status anyway
+                update_notification_query = text("""
+                    UPDATE notifications 
+                    SET status = 'accepted', responded_at = NOW()
+                    WHERE id = :notification_id
+                """)
+                db.execute(update_notification_query, {"notification_id": notification_id})
+                db.commit()
+                
+                return NotificationResponseResult(
+                    success=True,
+                    message="You are already enrolled in this course",
+                    enrollment_id=str(existing_enrollment.id)
+                )
+            
+            # Check if course is full
+            current_enrollments = db.query(CourseEnrollment).filter(
+                CourseEnrollment.course_id == notification.course_id,
+                CourseEnrollment.status == 'active'
+            ).count()
+            
+            if current_enrollments >= notification.max_students:
+                raise HTTPException(
+                    status_code=status.HTTP_400_BAD_REQUEST,
+                    detail="Course is full and cannot accept new enrollments"
+                )
+            
+            # Create enrollment
+            new_enrollment = CourseEnrollment(
+                course_id=notification.course_id,
+                student_id=current_user['id'],
+                status='active'
+            )
+            
+            db.add(new_enrollment)
+            db.flush()  # Get the ID without committing
+            enrollment_id = str(new_enrollment.id)
+            
+            logger.info(f"Student {current_user['id']} accepted invitation and enrolled in course {notification.course_id}")
+        
+        # Update notification status
+        update_notification_query = text("""
+            UPDATE notifications 
+            SET status = :status, responded_at = NOW()
+            WHERE id = :notification_id
+        """)
+        
+        db.execute(update_notification_query, {
+            "status": response_data.response,
+            "notification_id": notification_id
+        })
+        
+        db.commit()
+        
+        # Create response message
+        if notification.type == 'course_invitation':
+            if response_data.response == 'accepted':
+                message = f"Successfully joined the course '{notification.course_name}'"
+            elif response_data.response == 'declined':
+                message = f"Declined invitation to '{notification.course_name}'"
+            else:
+                message = "Notification marked as read"
+        else:
+            message = "Notification updated successfully"
+        
+        logger.info(f"Student {current_user['id']} responded '{response_data.response}' to notification {notification_id}")
+        
+        return NotificationResponseResult(
+            success=True,
+            message=message,
+            enrollment_id=enrollment_id
+        )
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error responding to notification: {str(e)}")
+        db.rollback()
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error processing response: {str(e)}"
+        )
+
+@router.delete("/notifications/{notification_id}")
+async def dismiss_notification(
+    notification_id: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Dismiss/delete a notification (only for read notifications)"""
+    try:
+        check_student_permission(current_user)
+        
+        # Verify notification exists and belongs to student
+        notification_query = text("""
+            SELECT id, status, type
+            FROM notifications 
+            WHERE id = :notification_id 
+            AND (
+                student_id = :student_id 
+                OR (scope = 'public' AND EXISTS (
+                    SELECT 1 FROM course_enrollments ce 
+                    WHERE ce.student_id = :student_id 
+                    AND ce.course_id = notifications.course_id 
+                    AND ce.status = 'active'
+                ))
+            )
+        """)
+        
+        notification = db.execute(notification_query, {
+            "notification_id": notification_id,
+            "student_id": current_user['id']
+        }).fetchone()
+        
+        if not notification:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Notification not found"
+            )
+        
+        # Only allow dismissing read notifications or public notices
+        if notification.status == 'pending' and notification.type == 'course_invitation':
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Cannot dismiss pending course invitations. Please accept or decline first."
+            )
+        
+        # Delete the notification
+        delete_query = text("""
+            DELETE FROM notifications 
+            WHERE id = :notification_id
+        """)
+        
+        db.execute(delete_query, {"notification_id": notification_id})
+        db.commit()
+        
+        logger.info(f"Student {current_user['id']} dismissed notification {notification_id}")
+        
+        return {"message": "Notification dismissed successfully"}
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error dismissing notification: {str(e)}")
+        db.rollback()
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error dismissing notification: {str(e)}"
+        )
+
+@router.patch("/notifications/mark-all-read")
+async def mark_all_notifications_read(
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Mark all notifications as read for the current student"""
+    try:
+        check_student_permission(current_user)
+        
+        # Update all unread notifications to read (except pending invitations)
+        update_query = text("""
+            UPDATE notifications 
+            SET status = 'read', responded_at = NOW()
+            WHERE (
+                (scope = 'private' AND student_id = :student_id)
+                OR 
+                (scope = 'public' AND EXISTS (
+                    SELECT 1 FROM course_enrollments ce 
+                    WHERE ce.student_id = :student_id 
+                    AND ce.course_id = notifications.course_id 
+                    AND ce.status = 'active'
+                ))
+            )
+            AND status = 'pending' 
+            AND type != 'course_invitation'
+            AND expires_at > NOW()
+        """)
+        
+        result = db.execute(update_query, {"student_id": current_user['id']})
+        db.commit()
+        
+        updated_count = result.rowcount
+        
+        logger.info(f"Student {current_user['id']} marked {updated_count} notifications as read")
+        
+        return {
+            "message": f"Marked {updated_count} notifications as read",
+            "updated_count": updated_count
+        }
+        
+    except Exception as e:
+        logger.error(f"Error marking notifications as read: {str(e)}")
+        db.rollback()
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error marking notifications as read: {str(e)}"
         )

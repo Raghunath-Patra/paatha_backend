@@ -9,6 +9,7 @@ from config.database import get_db
 from config.security import get_current_user
 from models import Course, CourseEnrollment, User, Quiz, UserAttempt
 import logging
+import json
 
 router = APIRouter(prefix="/api/teacher/courses", tags=["teacher-courses"])
 
@@ -949,4 +950,424 @@ async def get_student_detailed_practice_performance(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error fetching detailed practice performance: {str(e)}"
+        )
+    
+# Add these imports to the top of teacher_courses.py (if not already present)
+from datetime import datetime, timezone, timedelta
+from sqlalchemy import and_, or_, exists
+from models import User, Course, CourseEnrollment, Quiz, UserAttempt
+import uuid
+
+# Add these Pydantic models after the existing ones in teacher_courses.py
+
+class CourseInvitationRequest(BaseModel):
+    student_email: str
+    course_name: str
+    teacher_name: str
+
+class PublicNoticeRequest(BaseModel):
+    title: str
+    message: str
+    priority: str = 'medium'
+
+class NotificationResponse(BaseModel):
+    success: bool
+    message: str
+    notification_id: Optional[str] = None
+    student_id: Optional[str] = None
+    error: Optional[str] = None
+
+# Add these endpoints at the end of teacher_courses.py
+
+@router.post("/{course_id}/invite-student", response_model=NotificationResponse)
+async def invite_student_to_course(
+    course_id: str,
+    invitation_data: CourseInvitationRequest,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Invite a student to join the course by email"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify teacher owns this course
+        course = db.query(Course).filter(
+            Course.id == course_id,
+            Course.teacher_id == current_user['id']
+        ).first()
+        
+        if not course:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Course not found or you don't have permission to access it"
+            )
+        
+        # Check if student exists and is actually a student
+        student = db.query(User).filter(
+            User.email == invitation_data.student_email,
+            User.role == 'student'
+        ).first()
+        
+        if not student:
+            return NotificationResponse(
+                success=False,
+                error="Student not found",
+                message="No student account found with this email address"
+            )
+        
+        # Check if student is already enrolled
+        existing_enrollment = db.query(CourseEnrollment).filter(
+            CourseEnrollment.course_id == course_id,
+            CourseEnrollment.student_id == student.id,
+            CourseEnrollment.status == 'active'
+        ).first()
+        
+        if existing_enrollment:
+            return NotificationResponse(
+                success=False,
+                error="Already enrolled",
+                message="Student is already enrolled in this course"
+            )
+        
+        # Check for existing pending invitation
+        from models import Base
+        
+        # Define notification model inline if not in models.py yet
+        if not hasattr(Base.metadata.tables, 'notifications'):
+            # Create a simple query using raw SQL for now
+            existing_invitation_query = text("""
+                SELECT id FROM notifications 
+                WHERE student_id = :student_id 
+                AND course_id = :course_id 
+                AND type = 'course_invitation'
+                AND status = 'pending'
+                AND expires_at > NOW()
+            """)
+            
+            existing_invitation = db.execute(existing_invitation_query, {
+                "student_id": str(student.id),
+                "course_id": course_id
+            }).fetchone()
+        else:
+            # Use ORM if notification model is available
+            from models import Notification
+            existing_invitation = db.query(Notification).filter(
+                Notification.student_id == student.id,
+                Notification.course_id == course_id,
+                Notification.type == 'course_invitation',
+                Notification.status == 'pending',
+                Notification.expires_at > datetime.utcnow()
+            ).first()
+        
+        if existing_invitation:
+            return NotificationResponse(
+                success=False,
+                error="Invitation pending",
+                message="A course invitation is already pending for this student"
+            )
+        
+        # Create the invitation notification
+        notification_id = str(uuid.uuid4())
+        
+        create_notification_query = text("""
+            INSERT INTO notifications (
+                id, teacher_id, student_id, course_id, type, scope,
+                title, message, metadata, created_at, expires_at
+            ) VALUES (
+                :notification_id, :teacher_id, :student_id, :course_id, 
+                'course_invitation', 'private', :title, :message, 
+                :metadata, NOW(), NOW() + INTERVAL '3 months'
+            )
+        """)
+        
+        title = f"Course Invitation: {invitation_data.course_name}"
+        message = f"{invitation_data.teacher_name} has invited you to join the course \"{invitation_data.course_name}\". Click to accept or decline this invitation."
+        
+        metadata = {
+            "course_name": invitation_data.course_name,
+            "teacher_name": invitation_data.teacher_name,
+            "invitation_type": "course_enrollment"
+        }
+        
+        db.execute(create_notification_query, {
+            "notification_id": notification_id,
+            "teacher_id": current_user['id'],
+            "student_id": str(student.id),
+            "course_id": course_id,
+            "title": title,
+            "message": message,
+            "metadata": json.dumps(metadata)
+        })
+        
+        db.commit()
+        
+        logger.info(f"Course invitation sent: teacher_id={current_user['id']}, student_id={student.id}, course_id={course_id}")
+        
+        return NotificationResponse(
+            success=True,
+            message="Invitation sent successfully",
+            notification_id=notification_id,
+            student_id=str(student.id)
+        )
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error inviting student to course: {str(e)}")
+        db.rollback()
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error sending invitation: {str(e)}"
+        )
+
+@router.post("/{course_id}/public-notice", response_model=NotificationResponse)
+async def send_public_notice(
+    course_id: str,
+    notice_data: PublicNoticeRequest,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Send a public notice to all students enrolled in the course"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify teacher owns this course
+        course = db.query(Course).filter(
+            Course.id == course_id,
+            Course.teacher_id == current_user['id']
+        ).first()
+        
+        if not course:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Course not found or you don't have permission to access it"
+            )
+        
+        # Validate input
+        if not notice_data.title.strip():
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Notice title is required"
+            )
+        
+        if not notice_data.message.strip():
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Notice message is required"
+            )
+        
+        if notice_data.priority not in ['low', 'medium', 'high']:
+            notice_data.priority = 'medium'
+        
+        # Get count of enrolled students for response
+        enrolled_count_query = text("""
+            SELECT COUNT(*) as student_count
+            FROM course_enrollments
+            WHERE course_id = :course_id AND status = 'active'
+        """)
+        
+        enrolled_count = db.execute(enrolled_count_query, {
+            "course_id": course_id
+        }).scalar()
+        
+        # Create the public notice notification
+        notification_id = str(uuid.uuid4())
+        
+        create_notice_query = text("""
+            INSERT INTO notifications (
+                id, teacher_id, student_id, course_id, type, scope,
+                title, message, priority, metadata, created_at, expires_at
+            ) VALUES (
+                :notification_id, :teacher_id, NULL, :course_id, 
+                'public_notice', 'public', :title, :message, :priority,
+                :metadata, NOW(), NOW() + INTERVAL '3 months'
+            )
+        """)
+        
+        metadata = {
+            "notice_type": "class_announcement",
+            "recipients_count": enrolled_count,
+            "course_name": course.course_name
+        }
+        
+        db.execute(create_notice_query, {
+            "notification_id": notification_id,
+            "teacher_id": current_user['id'],
+            "course_id": course_id,
+            "title": notice_data.title.strip(),
+            "message": notice_data.message.strip(),
+            "priority": notice_data.priority,
+            "metadata": json.dumps(metadata)
+        })
+        
+        db.commit()
+        
+        logger.info(f"Public notice sent: teacher_id={current_user['id']}, course_id={course_id}, recipients={enrolled_count}")
+        
+        return NotificationResponse(
+            success=True,
+            message=f"Notice sent to all {enrolled_count} students",
+            notification_id=notification_id
+        )
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error sending public notice: {str(e)}")
+        db.rollback()
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error sending notice: {str(e)}"
+        )
+
+@router.get("/{course_id}/notifications")
+async def get_course_notifications(
+    course_id: str,
+    status: Optional[str] = None,
+    type: Optional[str] = None,
+    limit: int = 50,
+    offset: int = 0,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get notifications for a course (for teacher management)"""
+    try:
+        check_teacher_permission(current_user)
+        
+        # Verify teacher owns this course
+        course = db.query(Course).filter(
+            Course.id == course_id,
+            Course.teacher_id == current_user['id']
+        ).first()
+        
+        if not course:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Course not found or you don't have permission to access it"
+            )
+        
+        # Build query with filters
+        where_conditions = ["teacher_id = :teacher_id", "course_id = :course_id"]
+        params = {
+            "teacher_id": current_user['id'],
+            "course_id": course_id,
+            "limit": limit,
+            "offset": offset
+        }
+        
+        if status:
+            where_conditions.append("status = :status")
+            params["status"] = status
+        
+        if type:
+            where_conditions.append("type = :type")
+            params["type"] = type
+        
+        where_clause = " AND ".join(where_conditions)
+        
+        # Get notifications with student details for private notifications
+        notifications_query = text(f"""
+            SELECT 
+                n.id,
+                n.type,
+                n.scope,
+                n.title,
+                n.message,
+                n.status,
+                n.priority,
+                n.metadata,
+                n.created_at,
+                n.expires_at,
+                n.responded_at,
+                u.id as student_id,
+                u.full_name as student_name,
+                u.email as student_email
+            FROM notifications n
+            LEFT JOIN profiles u ON n.student_id = u.id
+            WHERE {where_clause}
+            ORDER BY n.created_at DESC
+            LIMIT :limit OFFSET :offset
+        """)
+        
+        notifications = db.execute(notifications_query, params).fetchall()
+        
+        # Get total count
+        count_query = text(f"""
+            SELECT COUNT(*) 
+            FROM notifications 
+            WHERE {where_clause}
+        """)
+        
+        # Remove limit and offset from params for count query
+        count_params = {k: v for k, v in params.items() if k not in ['limit', 'offset']}
+        total_count = db.execute(count_query, count_params).scalar()
+        
+        # Format response
+        formatted_notifications = []
+        for notification in notifications:
+            formatted_notification = {
+                "id": str(notification.id),
+                "type": notification.type,
+                "scope": notification.scope,
+                "title": notification.title,
+                "message": notification.message,
+                "status": notification.status,
+                "priority": notification.priority,
+                "metadata": json.loads(notification.metadata) if notification.metadata else {},
+                "created_at": notification.created_at.isoformat(),
+                "expires_at": notification.expires_at.isoformat() if notification.expires_at else None,
+                "responded_at": notification.responded_at.isoformat() if notification.responded_at else None
+            }
+            
+            # Add student info for private notifications
+            if notification.student_id:
+                formatted_notification["student"] = {
+                    "id": str(notification.student_id),
+                    "full_name": notification.student_name,
+                    "email": notification.student_email
+                }
+            
+            formatted_notifications.append(formatted_notification)
+        
+        # Get stats
+        stats_query = text("""
+            SELECT 
+                COUNT(*) as total_sent,
+                COUNT(CASE WHEN status = 'pending' THEN 1 END) as pending,
+                COUNT(CASE WHEN status = 'accepted' THEN 1 END) as accepted,
+                COUNT(CASE WHEN status = 'declined' THEN 1 END) as declined,
+                COUNT(CASE WHEN status = 'read' THEN 1 END) as read
+            FROM notifications
+            WHERE teacher_id = :teacher_id AND course_id = :course_id
+        """)
+        
+        stats = db.execute(stats_query, {
+            "teacher_id": current_user['id'],
+            "course_id": course_id
+        }).fetchone()
+        
+        return {
+            "notifications": formatted_notifications,
+            "pagination": {
+                "total": total_count,
+                "limit": limit,
+                "offset": offset,
+                "has_more": (offset + limit) < total_count
+            },
+            "stats": {
+                "total_sent": stats.total_sent,
+                "pending": stats.pending,
+                "accepted": stats.accepted,
+                "declined": stats.declined,
+                "read": stats.read
+            }
+        }
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error fetching course notifications: {str(e)}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error fetching notifications: {str(e)}"
         )
