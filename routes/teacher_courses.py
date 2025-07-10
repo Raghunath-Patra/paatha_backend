@@ -3,7 +3,7 @@
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from sqlalchemy import func, text, and_, or_
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
 from pydantic import BaseModel
 from config.database import get_db
 from config.security import get_current_user
@@ -162,10 +162,10 @@ class PracticeSession(BaseModel):
     topics_covered: List[str]
 
 class PerformanceAnalytics(BaseModel):
-    weekly_trend: List[Dict[str, any]]
-    accuracy_by_topic: List[Dict[str, any]]
+    weekly_trend: List[Dict[str, Any]]
+    accuracy_by_topic: List[Dict[str, Any]]
     time_distribution: List[Dict[str, int]]
-    streak_info: Dict[str, any]
+    streak_info: Dict[str, Any]
 
 class StudentPracticeDetailsResponse(BaseModel):
     student: StudentPracticeDetail
