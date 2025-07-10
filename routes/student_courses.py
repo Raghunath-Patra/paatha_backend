@@ -593,6 +593,7 @@ async def get_student_notifications(
         logger.info(f"Query params: {params}")
         logger.info(f"Fetched {len(notifications)} notifications for student {current_user['id']}")
         logger.debug(f"Notifications query: {notifications_query}")
+        
         # Get total count for pagination
         count_query = text(base_query.replace(
             "SELECT DISTINCT n.id, n.type, n.scope, n.title, n.message, n.status, n.priority, n.metadata, n.created_at, n.expires_at, n.responded_at, c.id as course_id, c.course_name, c.course_code, t.id as teacher_id, t.full_name as teacher_name, t.email as teacher_email",
@@ -606,6 +607,24 @@ async def get_student_notifications(
         # Format notifications
         formatted_notifications = []
         for notification in notifications:
+            # Handle metadata properly - it might be a dict, string, or None
+            metadata = {}
+            if notification.metadata:
+                if isinstance(notification.metadata, dict):
+                    # Already a dict (PostgreSQL JSON column)
+                    metadata = notification.metadata
+                elif isinstance(notification.metadata, str):
+                    # String that needs parsing
+                    try:
+                        metadata = json.loads(notification.metadata)
+                    except (json.JSONDecodeError, TypeError):
+                        logger.warning(f"Failed to parse metadata for notification {notification.id}: {notification.metadata}")
+                        metadata = {}
+                else:
+                    # Some other type, log and use empty dict
+                    logger.warning(f"Unexpected metadata type for notification {notification.id}: {type(notification.metadata)}")
+                    metadata = {}
+            
             formatted_notification = NotificationResponse(
                 id=str(notification.id),
                 type=notification.type,
@@ -614,7 +633,7 @@ async def get_student_notifications(
                 message=notification.message,
                 status=notification.status,
                 priority=notification.priority,
-                metadata=json.loads(notification.metadata) if notification.metadata else {},
+                metadata=metadata,
                 created_at=notification.created_at.isoformat(),
                 expires_at=notification.expires_at.isoformat() if notification.expires_at else None,
                 responded_at=notification.responded_at.isoformat() if notification.responded_at else None,
@@ -622,12 +641,12 @@ async def get_student_notifications(
                     "id": str(notification.course_id),
                     "course_name": notification.course_name,
                     "course_code": notification.course_code
-                },
+                } if notification.course_id else None,
                 teacher={
                     "id": str(notification.teacher_id),
                     "full_name": notification.teacher_name,
                     "email": notification.teacher_email
-                }
+                } if notification.teacher_id else None
             )
             formatted_notifications.append(formatted_notification)
         
