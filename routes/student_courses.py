@@ -671,6 +671,7 @@ async def get_student_notifications(
         """)
         
         stats = db.execute(stats_query, {"student_id": current_user['id']}).fetchone()
+        total_count = int(total_count) if total_count is not None else 0
         
         return NotificationListResponse(
             notifications=formatted_notifications,
