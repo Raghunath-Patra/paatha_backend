@@ -588,6 +588,7 @@ async def get_student_notifications(
         """)
         
         notifications = db.execute(notifications_query, params).fetchall()
+        logger.info(f"Fetched {len(notifications)} notifications for student {current_user['id']}")
         
         # Get total count for pagination
         count_query = text(base_query.replace(
