@@ -396,41 +396,27 @@ async def delete_course(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Delete a course"""
+    """Delete a course and all related data"""
     try:
         check_teacher_permission(current_user)
         
-        check_query = text("""
-            SELECT 
-                c.id,
-                (SELECT COUNT(*) FROM course_enrollments WHERE course_id = c.id) as enrollment_count,
-                (SELECT COUNT(*) FROM quizzes WHERE course_id = c.id) as quiz_count
-            FROM courses c
-            WHERE c.id = :course_id AND c.teacher_id = :teacher_id
-        """)
+        # Find the course and verify ownership
+        course = db.query(Course).filter(
+            Course.id == course_id,
+            Course.teacher_id == current_user['id']
+        ).first()
         
-        result = db.execute(check_query, {
-            "course_id": course_id,
-            "teacher_id": current_user['id']
-        }).fetchone()
-        
-        if not result:
+        if not course:
             raise HTTPException(
                 status_code=status.HTTP_404_NOT_FOUND,
-                detail="Course not found"
+                detail="Course not found or you don't have permission to delete it"
             )
         
-        if result.enrollment_count > 0 or result.quiz_count > 0:
-            raise HTTPException(
-                status_code=status.HTTP_400_BAD_REQUEST,
-                detail="Cannot delete course with existing enrollments or quizzes"
-            )
-        
-        course = db.query(Course).filter(Course.id == course_id).first()
+        # Delete the course - cascade will handle all related data
         db.delete(course)
         db.commit()
         
-        return {"message": "Course deleted successfully"}
+        return {"message": "Course and all related data deleted successfully"}
         
     except HTTPException as he:
         raise he

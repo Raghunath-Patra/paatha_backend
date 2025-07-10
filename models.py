@@ -130,6 +130,9 @@ class Course(Base):
         Index('idx_courses_board_class_subject', 'board', 'class_level', 'subject'),
         Index('idx_courses_code', 'course_code'),
     )
+    # Relationships with cascade delete
+    enrollments = relationship("CourseEnrollment", cascade="all, delete-orphan")
+    quizzes = relationship("Quiz", cascade="all, delete-orphan")
 
 class CourseEnrollment(Base):
     __tablename__ = "course_enrollments"
@@ -148,6 +151,7 @@ class CourseEnrollment(Base):
         Index('idx_course_enrollments_student', 'student_id'),
         UniqueConstraint('course_id', 'student_id', name='unique_course_student'),
     )
+
 
 class Quiz(Base):
     __tablename__ = "quizzes"
@@ -177,6 +181,9 @@ class Quiz(Base):
         Index('idx_quizzes_published', 'is_published'),
         Index('idx_quizzes_active_time', 'start_time', 'end_time'),
     )
+    questions = relationship("QuizQuestion", cascade="all, delete-orphan")
+    attempts = relationship("QuizAttempt", cascade="all, delete-orphan")
+    responses = relationship("QuizResponse", cascade="all, delete-orphan")
 
 class QuizQuestion(Base):
     __tablename__ = "quiz_questions"
