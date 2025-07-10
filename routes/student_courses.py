@@ -508,7 +508,7 @@ async def leave_course(
 
 @router.get("/notifications", response_model=NotificationListResponse)
 async def get_student_notifications(
-    status: Optional[str] = None,
+    notification_status: Optional[str] = None,
     type: Optional[str] = None,
     unread_only: bool = False,
     limit: int = 20,
@@ -565,9 +565,9 @@ async def get_student_notifications(
             "offset": offset
         }
         
-        if status:
+        if notification_status:
             where_conditions.append("n.status = :status")
-            params["status"] = status
+            params["status"] = notification_status
         
         if type:
             where_conditions.append("n.type = :type")
