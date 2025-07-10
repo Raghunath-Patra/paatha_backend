@@ -119,6 +119,61 @@ class CoursePracticePerformanceResponse(BaseModel):
     chapters: List[ChapterPerformance]
     stats: PracticePerformanceStats
 
+# Add after the existing CoursePracticePerformanceResponse model
+class StudentPracticeDetail(BaseModel):
+    student_id: str
+    student_name: Optional[str]
+    student_email: str
+    total_practice_attempts: int
+    average_practice_score: float
+    total_practice_time: int
+    unique_questions_attempted: int
+    chapters_covered: List[int]
+    best_score: float
+    worst_score: float
+    latest_attempt_date: Optional[str]
+    performance_trend: str
+    streak_days: int
+    last_practice_date: Optional[str]
+    weekly_attempts: int
+    improvement_rate: float
+
+class ChapterDetail(BaseModel):
+    chapter: int
+    chapter_name: Optional[str] = None
+    attempts: int
+    average_score: float
+    best_score: float
+    worst_score: float
+    time_spent: int
+    questions_attempted: int
+    accuracy_rate: float
+    last_attempted: str
+    difficulty_distribution: Dict[str, int]
+
+class PracticeSession(BaseModel):
+    id: str
+    date: str
+    chapter: int
+    questions_attempted: int
+    score: float
+    time_spent: int
+    accuracy: float
+    topics_covered: List[str]
+
+class PerformanceAnalytics(BaseModel):
+    weekly_trend: List[Dict[str, any]]
+    accuracy_by_topic: List[Dict[str, any]]
+    time_distribution: List[Dict[str, int]]
+    streak_info: Dict[str, any]
+
+class StudentPracticeDetailsResponse(BaseModel):
+    student: StudentPracticeDetail
+    chapters: List[ChapterDetail]
+    recent_sessions: List[PracticeSession]
+    performance_analytics: PerformanceAnalytics
+    recommendations: List[str]
+
 def check_teacher_permission(user: Dict):
     """Check if user is a teacher"""
     if user.get('role') != 'teacher':
@@ -1376,4 +1431,492 @@ async def get_course_notifications(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error fetching notifications: {str(e)}"
+        )
+    
+@router.get("/{course_id}/students/{student_id}/practice-details", response_model=StudentPracticeDetailsResponse)
+async def get_student_practice_details(
+    course_id: str,
+    student_id: str,
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get comprehensive practice performance details for a specific student"""
+    try:
+        logger.info(f"Getting detailed practice performance for student {student_id} in course {course_id}")
+        
+        check_teacher_permission(current_user)
+        
+        # Verify course ownership and student enrollment
+        verify_query = text("""
+            SELECT c.id, c.board, c.class_level, c.subject, c.course_name,
+                   u.full_name, u.email
+            FROM courses c
+            JOIN course_enrollments ce ON c.id = ce.course_id
+            JOIN profiles u ON ce.student_id = u.id
+            WHERE c.id = :course_id 
+              AND c.teacher_id = :teacher_id
+              AND ce.student_id::text = :student_id
+              AND ce.status = 'active'
+        """)
+        
+        course_info = db.execute(verify_query, {
+            "course_id": course_id,
+            "teacher_id": current_user['id'],
+            "student_id": student_id
+        }).fetchone()
+        
+        if not course_info:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Course not found or student not enrolled"
+            )
+        
+        logger.info(f"Found student: {course_info.full_name} in course: {course_info.course_name}")
+        
+        # Get comprehensive student practice data
+        student_detail_query = text("""
+            WITH student_attempts AS (
+                SELECT 
+                    ua.user_id,
+                    ua.chapter,
+                    ua.score,
+                    ua.time_taken,
+                    ua.question_id,
+                    ua.created_at,
+                    q.difficulty,
+                    q.type as question_type,
+                    EXTRACT(WEEK FROM ua.created_at) as week_number,
+                    EXTRACT(YEAR FROM ua.created_at) as year_number,
+                    DATE(ua.created_at) as attempt_date
+                FROM user_attempts ua
+                LEFT JOIN questions q ON ua.question_id = q.id
+                WHERE ua.user_id::text = :student_id
+                AND ua.board = :course_board
+                AND ua.class_level = :course_class
+                AND ua.subject = :course_subject
+                ORDER BY ua.created_at DESC
+            ),
+            daily_stats AS (
+                SELECT 
+                    attempt_date,
+                    COUNT(*) as daily_attempts,
+                    AVG(score) as daily_avg_score
+                FROM student_attempts
+                GROUP BY attempt_date
+                ORDER BY attempt_date DESC
+            ),
+            weekly_stats AS (
+                SELECT 
+                    year_number,
+                    week_number,
+                    COUNT(*) as weekly_attempts,
+                    AVG(score) as weekly_avg_score,
+                    MIN(attempt_date) as week_start
+                FROM student_attempts
+                GROUP BY year_number, week_number
+                ORDER BY year_number DESC, week_number DESC
+                LIMIT 8
+            )
+            SELECT 
+                -- Basic student stats
+                (SELECT COUNT(*) FROM student_attempts) as total_attempts,
+                (SELECT AVG(score) FROM student_attempts) as avg_score,
+                (SELECT SUM(COALESCE(time_taken, 0)) FROM student_attempts) as total_time,
+                (SELECT COUNT(DISTINCT question_id) FROM student_attempts) as unique_questions,
+                (SELECT MAX(score) FROM student_attempts) as best_score,
+                (SELECT MIN(score) FROM student_attempts) as worst_score,
+                (SELECT MAX(created_at) FROM student_attempts) as latest_attempt,
+                (SELECT COUNT(DISTINCT chapter) FROM student_attempts) as chapters_count,
+                
+                -- Recent performance (last 10 attempts vs previous 10)
+                (SELECT AVG(score) FROM (
+                    SELECT score FROM student_attempts ORDER BY created_at DESC LIMIT 10
+                ) recent) as recent_avg,
+                (SELECT AVG(score) FROM (
+                    SELECT score FROM student_attempts ORDER BY created_at DESC LIMIT 20 OFFSET 10
+                ) previous) as previous_avg,
+                
+                -- Streak calculation
+                (SELECT COUNT(*) FROM daily_stats WHERE daily_attempts > 0) as practice_days,
+                
+                -- Weekly attempts
+                (SELECT AVG(weekly_attempts) FROM weekly_stats) as avg_weekly_attempts
+        """)
+        
+        student_stats = db.execute(student_detail_query, {
+            "student_id": student_id,
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
+        }).fetchone()
+        
+        if not student_stats or student_stats.total_attempts == 0:
+            # Return empty response for students with no practice data
+            return StudentPracticeDetailsResponse(
+                student=StudentPracticeDetail(
+                    student_id=student_id,
+                    student_name=course_info.full_name,
+                    student_email=course_info.email,
+                    total_practice_attempts=0,
+                    average_practice_score=0.0,
+                    total_practice_time=0,
+                    unique_questions_attempted=0,
+                    chapters_covered=[],
+                    best_score=0.0,
+                    worst_score=0.0,
+                    latest_attempt_date=None,
+                    performance_trend="stable",
+                    streak_days=0,
+                    last_practice_date=None,
+                    weekly_attempts=0,
+                    improvement_rate=0.0
+                ),
+                chapters=[],
+                recent_sessions=[],
+                performance_analytics=PerformanceAnalytics(
+                    weekly_trend=[],
+                    accuracy_by_topic=[],
+                    time_distribution=[],
+                    streak_info={"current_streak": 0, "longest_streak": 0, "streak_start": ""}
+                ),
+                recommendations=["Start practicing to see detailed analytics here!"]
+            )
+        
+        logger.info(f"Student has {student_stats.total_attempts} practice attempts")
+        
+        # Calculate performance trend
+        performance_trend = "stable"
+        if student_stats.recent_avg and student_stats.previous_avg:
+            if student_stats.recent_avg > student_stats.previous_avg + 0.5:
+                performance_trend = "improving"
+            elif student_stats.recent_avg < student_stats.previous_avg - 0.5:
+                performance_trend = "declining"
+        
+        # Calculate improvement rate
+        improvement_rate = 0.0
+        if student_stats.recent_avg and student_stats.previous_avg and student_stats.previous_avg > 0:
+            improvement_rate = ((student_stats.recent_avg - student_stats.previous_avg) / student_stats.previous_avg) * 100
+        
+        # Get chapters covered
+        chapters_query = text("""
+            SELECT DISTINCT chapter
+            FROM user_attempts
+            WHERE user_id::text = :student_id
+            AND board = :course_board
+            AND class_level = :course_class
+            AND subject = :course_subject
+            ORDER BY chapter
+        """)
+        
+        chapters_covered = [row.chapter for row in db.execute(chapters_query, {
+            "student_id": student_id,
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
+        }).fetchall()]
+        
+        # Build student detail object
+        student_detail = StudentPracticeDetail(
+            student_id=student_id,
+            student_name=course_info.full_name,
+            student_email=course_info.email,
+            total_practice_attempts=student_stats.total_attempts,
+            average_practice_score=round(student_stats.avg_score, 2) if student_stats.avg_score else 0,
+            total_practice_time=student_stats.total_time or 0,
+            unique_questions_attempted=student_stats.unique_questions or 0,
+            chapters_covered=chapters_covered,
+            best_score=student_stats.best_score or 0,
+            worst_score=student_stats.worst_score or 0,
+            latest_attempt_date=student_stats.latest_attempt.isoformat() if student_stats.latest_attempt else None,
+            performance_trend=performance_trend,
+            streak_days=student_stats.practice_days or 0,
+            last_practice_date=student_stats.latest_attempt.isoformat() if student_stats.latest_attempt else None,
+            weekly_attempts=round(student_stats.avg_weekly_attempts, 1) if student_stats.avg_weekly_attempts else 0,
+            improvement_rate=round(improvement_rate, 1)
+        )
+        
+        # Get detailed chapter performance
+        chapter_details_query = text("""
+            SELECT 
+                chapter,
+                COUNT(*) as attempts,
+                AVG(score) as avg_score,
+                MAX(score) as best_score,
+                MIN(score) as worst_score,
+                SUM(COALESCE(time_taken, 0)) as total_time,
+                COUNT(DISTINCT question_id) as questions_attempted,
+                MAX(created_at) as last_attempted,
+                COUNT(CASE WHEN q.difficulty = 'easy' THEN 1 END) as easy_count,
+                COUNT(CASE WHEN q.difficulty = 'medium' THEN 1 END) as medium_count,
+                COUNT(CASE WHEN q.difficulty = 'hard' THEN 1 END) as hard_count,
+                COUNT(CASE WHEN score >= 5 THEN 1 END) as correct_count
+            FROM user_attempts ua
+            LEFT JOIN questions q ON ua.question_id = q.id
+            WHERE ua.user_id::text = :student_id
+            AND ua.board = :course_board
+            AND ua.class_level = :course_class
+            AND ua.subject = :course_subject
+            GROUP BY chapter
+            ORDER BY chapter
+        """)
+        
+        chapter_results = db.execute(chapter_details_query, {
+            "student_id": student_id,
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
+        }).fetchall()
+        
+        chapters = []
+        for chapter in chapter_results:
+            accuracy_rate = (chapter.correct_count / chapter.attempts * 100) if chapter.attempts > 0 else 0
+            
+            chapter_detail = ChapterDetail(
+                chapter=chapter.chapter,
+                attempts=chapter.attempts,
+                average_score=round(chapter.avg_score, 2),
+                best_score=chapter.best_score,
+                worst_score=chapter.worst_score,
+                time_spent=chapter.total_time or 0,
+                questions_attempted=chapter.questions_attempted,
+                accuracy_rate=round(accuracy_rate, 1),
+                last_attempted=chapter.last_attempted.isoformat(),
+                difficulty_distribution={
+                    "easy": chapter.easy_count or 0,
+                    "medium": chapter.medium_count or 0,
+                    "hard": chapter.hard_count or 0
+                }
+            )
+            chapters.append(chapter_detail)
+        
+        # Get recent practice sessions (group by date and chapter)
+        recent_sessions_query = text("""
+            SELECT 
+                DATE(created_at) as session_date,
+                chapter,
+                COUNT(*) as questions_attempted,
+                AVG(score) as avg_score,
+                SUM(COALESCE(time_taken, 0)) as total_time,
+                COUNT(CASE WHEN score >= 5 THEN 1 END) as correct_answers,
+                string_agg(DISTINCT q.type, ', ') as topics_covered
+            FROM user_attempts ua
+            LEFT JOIN questions q ON ua.question_id = q.id
+            WHERE ua.user_id::text = :student_id
+            AND ua.board = :course_board
+            AND ua.class_level = :course_class
+            AND ua.subject = :course_subject
+            GROUP BY DATE(created_at), chapter
+            ORDER BY session_date DESC, chapter
+            LIMIT 20
+        """)
+        
+        session_results = db.execute(recent_sessions_query, {
+            "student_id": student_id,
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
+        }).fetchall()
+        
+        recent_sessions = []
+        for i, session in enumerate(session_results):
+            accuracy = (session.correct_answers / session.questions_attempted * 100) if session.questions_attempted > 0 else 0
+            topics = session.topics_covered.split(', ') if session.topics_covered else []
+            
+            practice_session = PracticeSession(
+                id=f"session_{i}_{session.session_date}_{session.chapter}",
+                date=session.session_date.isoformat(),
+                chapter=session.chapter,
+                questions_attempted=session.questions_attempted,
+                score=round(session.avg_score, 2),
+                time_spent=session.total_time or 0,
+                accuracy=round(accuracy, 1),
+                topics_covered=topics
+            )
+            recent_sessions.append(practice_session)
+        
+        # Get weekly performance trend
+        weekly_trend_query = text("""
+            SELECT 
+                TO_CHAR(DATE_TRUNC('week', created_at), 'Mon DD') as week_label,
+                COUNT(*) as attempts,
+                AVG(score) as avg_score
+            FROM user_attempts
+            WHERE user_id::text = :student_id
+            AND board = :course_board
+            AND class_level = :course_class
+            AND subject = :course_subject
+            AND created_at >= NOW() - INTERVAL '8 weeks'
+            GROUP BY DATE_TRUNC('week', created_at)
+            ORDER BY DATE_TRUNC('week', created_at) DESC
+            LIMIT 8
+        """)
+        
+        weekly_results = db.execute(weekly_trend_query, {
+            "student_id": student_id,
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
+        }).fetchall()
+        
+        weekly_trend = [
+            {
+                "week": week.week_label,
+                "score": round(week.avg_score, 2),
+                "attempts": week.attempts
+            }
+            for week in weekly_results
+        ]
+        
+        # Get accuracy by topic (question type)
+        topic_accuracy_query = text("""
+            SELECT 
+                COALESCE(q.type, 'Unknown') as topic,
+                COUNT(*) as total_attempts,
+                COUNT(CASE WHEN ua.score >= 5 THEN 1 END) as correct_attempts
+            FROM user_attempts ua
+            LEFT JOIN questions q ON ua.question_id = q.id
+            WHERE ua.user_id::text = :student_id
+            AND ua.board = :course_board
+            AND ua.class_level = :course_class
+            AND ua.subject = :course_subject
+            GROUP BY q.type
+            HAVING COUNT(*) >= 3
+            ORDER BY COUNT(*) DESC
+        """)
+        
+        topic_results = db.execute(topic_accuracy_query, {
+            "student_id": student_id,
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
+        }).fetchall()
+        
+        accuracy_by_topic = [
+            {
+                "topic": topic.topic,
+                "accuracy": round((topic.correct_attempts / topic.total_attempts * 100), 1) if topic.total_attempts > 0 else 0
+            }
+            for topic in topic_results
+        ]
+        
+        # Calculate streak info
+        streak_query = text("""
+            WITH daily_practice AS (
+                SELECT DISTINCT DATE(created_at) as practice_date
+                FROM user_attempts
+                WHERE user_id::text = :student_id
+                AND board = :course_board
+                AND class_level = :course_class
+                AND subject = :course_subject
+                ORDER BY practice_date DESC
+            ),
+            streak_calc AS (
+                SELECT 
+                    practice_date,
+                    practice_date - ROW_NUMBER() OVER (ORDER BY practice_date DESC)::int as streak_group
+                FROM daily_practice
+            )
+            SELECT 
+                COUNT(*) as streak_length,
+                MIN(practice_date) as streak_start,
+                MAX(practice_date) as streak_end
+            FROM streak_calc
+            WHERE streak_group = (
+                SELECT streak_group 
+                FROM streak_calc 
+                ORDER BY practice_date DESC 
+                LIMIT 1
+            )
+        """)
+        
+        streak_result = db.execute(streak_query, {
+            "student_id": student_id,
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
+        }).fetchone()
+        
+        # Get time distribution (practice hours)
+        time_distribution_query = text("""
+            SELECT 
+                EXTRACT(HOUR FROM created_at) as hour,
+                COUNT(*) as attempts
+            FROM user_attempts
+            WHERE user_id::text = :student_id
+            AND board = :course_board
+            AND class_level = :course_class
+            AND subject = :course_subject
+            GROUP BY EXTRACT(HOUR FROM created_at)
+            ORDER BY attempts DESC
+            LIMIT 10
+        """)
+        
+        time_results = db.execute(time_distribution_query, {
+            "student_id": student_id,
+            "course_board": course_info.board,
+            "course_class": course_info.class_level,
+            "course_subject": course_info.subject
+        }).fetchall()
+        
+        time_distribution = [
+            {"hour": int(time.hour), "attempts": time.attempts}
+            for time in time_results
+        ]
+        
+        # Build performance analytics
+        performance_analytics = PerformanceAnalytics(
+            weekly_trend=weekly_trend,
+            accuracy_by_topic=accuracy_by_topic,
+            time_distribution=time_distribution,
+            streak_info={
+                "current_streak": streak_result.streak_length if streak_result else 0,
+                "longest_streak": streak_result.streak_length if streak_result else 0,  # Could calculate this separately
+                "streak_start": streak_result.streak_start.isoformat() if streak_result and streak_result.streak_start else ""
+            }
+        )
+        
+        # Generate recommendations
+        recommendations = []
+        
+        if student_stats.avg_score < 5:
+            recommendations.append("Focus on fundamental concepts - current average is below passing threshold")
+        
+        if student_stats.practice_days < 5:
+            recommendations.append("Encourage more consistent daily practice for better retention")
+        
+        if len(chapters_covered) < 3:
+            recommendations.append("Explore more chapters to broaden knowledge base")
+        
+        if performance_trend == "declining":
+            recommendations.append("Recent performance shows decline - consider reviewing difficult topics")
+        
+        if student_stats.avg_weekly_attempts < 10:
+            recommendations.append("Increase practice frequency - aim for at least 2-3 sessions per week")
+        
+        # Check for chapters with low performance
+        weak_chapters = [ch for ch in chapters if ch.average_score < 5]
+        if weak_chapters:
+            chapter_list = ", ".join([f"Chapter {ch.chapter}" for ch in weak_chapters[:3]])
+            recommendations.append(f"Focus on improving performance in: {chapter_list}")
+        
+        if not recommendations:
+            recommendations.append("Great work! Keep maintaining this consistent practice pattern")
+        
+        logger.info(f"Successfully compiled detailed practice data for student {student_id}")
+        
+        return StudentPracticeDetailsResponse(
+            student=student_detail,
+            chapters=chapters,
+            recent_sessions=recent_sessions,
+            performance_analytics=performance_analytics,
+            recommendations=recommendations
+        )
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error fetching student practice details: {str(e)}", exc_info=True)
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error fetching student practice details: {str(e)}"
         )
