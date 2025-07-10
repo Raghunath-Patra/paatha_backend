@@ -1646,9 +1646,9 @@ async def get_student_practice_details(
                 SUM(COALESCE(ua.time_taken, 0)) as total_time,
                 COUNT(DISTINCT ua.question_id) as questions_attempted,
                 MAX(ua.created_at) as last_attempted,
-                COUNT(CASE WHEN q.difficulty = 'easy' THEN 1 END) as easy_count,
-                COUNT(CASE WHEN q.difficulty = 'medium' THEN 1 END) as medium_count,
-                COUNT(CASE WHEN q.difficulty = 'hard' THEN 1 END) as hard_count,
+                COUNT(CASE WHEN q.difficulty = 'Easy' THEN 1 END) as easy_count,
+                COUNT(CASE WHEN q.difficulty = 'Medium' THEN 1 END) as medium_count,
+                COUNT(CASE WHEN q.difficulty = 'Hard' THEN 1 END) as hard_count,
                 COUNT(CASE WHEN ua.score >= 5 THEN 1 END) as correct_count
             FROM user_attempts ua
             LEFT JOIN questions q ON ua.question_id = q.id
