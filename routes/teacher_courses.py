@@ -1007,7 +1007,9 @@ async def invite_student_to_course(
             User.email == invitation_data.student_email,
             User.role == 'student'
         ).first()
-        
+        logger.info(f"Inviting student: {invitation_data.student_email} to course: {course_id} by teacher: {current_user['id']}")
+        logger.debug(f"Found student: {student.full_name if student else 'None'}")
+        logger.debug(f"Student ID: {student.id if student else 'None'}")
         if not student:
             return NotificationResponse(
                 success=False,
@@ -1305,6 +1307,24 @@ async def get_course_notifications(
         # Format response
         formatted_notifications = []
         for notification in notifications:
+            # Handle metadata properly - it might be a dict, string, or None
+            metadata = {}
+            if notification.metadata:
+                if isinstance(notification.metadata, dict):
+                    # Already a dict (PostgreSQL JSON column)
+                    metadata = notification.metadata
+                elif isinstance(notification.metadata, str):
+                    # String that needs parsing
+                    try:
+                        metadata = json.loads(notification.metadata)
+                    except (json.JSONDecodeError, TypeError):
+                        logger.warning(f"Failed to parse metadata for notification {notification.id}: {notification.metadata}")
+                        metadata = {}
+                else:
+                    # Some other type, log and use empty dict
+                    logger.warning(f"Unexpected metadata type for notification {notification.id}: {type(notification.metadata)}")
+                    metadata = {}
+            
             formatted_notification = {
                 "id": str(notification.id),
                 "type": notification.type,
@@ -1313,7 +1333,7 @@ async def get_course_notifications(
                 "message": notification.message,
                 "status": notification.status,
                 "priority": notification.priority,
-                "metadata": json.loads(notification.metadata) if notification.metadata else {},
+                "metadata": metadata,
                 "created_at": notification.created_at.isoformat(),
                 "expires_at": notification.expires_at.isoformat() if notification.expires_at else None,
                 "responded_at": notification.responded_at.isoformat() if notification.responded_at else None
