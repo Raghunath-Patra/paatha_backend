@@ -520,8 +520,7 @@ async def get_student_notifications(
     try:
         check_student_permission(current_user)
         
-        # Build base query - includes both private notifications for this student 
-        # and public notifications for courses they're enrolled in
+        # Build base query
         base_query = """
             SELECT DISTINCT
                 n.id,
@@ -542,10 +541,10 @@ async def get_student_notifications(
                 t.full_name as teacher_name,
                 t.email as teacher_email
             FROM notifications n
-            JOIN courses c ON n.course_id = c.id
-            JOIN profiles t ON n.teacher_id = t.id
+            LEFT JOIN courses c ON n.course_id = c.id
+            LEFT JOIN profiles t ON n.teacher_id = t.id
             WHERE (
-                -- Private notifications for this student
+                -- Private notifications for this student (includes invitations)
                 (n.scope = 'private' AND n.student_id = :student_id)
                 OR 
                 -- Public notifications for courses they're enrolled in
@@ -588,8 +587,12 @@ async def get_student_notifications(
         """)
         
         notifications = db.execute(notifications_query, params).fetchall()
-        logger.info(f"Fetched {len(notifications)} notifications for student {current_user['id']}")
         
+        # Debug logging
+        logger.info(f"Current user ID: {current_user['id']}")
+        logger.info(f"Query params: {params}")
+        logger.info(f"Fetched {len(notifications)} notifications for student {current_user['id']}")
+        logger.debug(f"Notifications query: {notifications_query}")
         # Get total count for pagination
         count_query = text(base_query.replace(
             "SELECT DISTINCT n.id, n.type, n.scope, n.title, n.message, n.status, n.priority, n.metadata, n.created_at, n.expires_at, n.responded_at, c.id as course_id, c.course_name, c.course_code, t.id as teacher_id, t.full_name as teacher_name, t.email as teacher_email",
