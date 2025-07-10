@@ -544,8 +544,7 @@ async def get_student_notifications(
             FROM notifications n
             JOIN courses c ON n.course_id = c.id
             JOIN profiles t ON n.teacher_id = t.id
-            
-            AND (
+            WHERE (
                 -- Private notifications for this student
                 (n.scope = 'private' AND n.student_id = :student_id)
                 OR 
@@ -636,8 +635,7 @@ async def get_student_notifications(
                 COUNT(DISTINCT CASE WHEN n.type = 'course_invitation' AND n.status = 'pending' THEN n.id END) as pending_invitations,
                 COUNT(DISTINCT CASE WHEN n.type = 'public_notice' AND n.status = 'pending' THEN n.id END) as unread_notices
             FROM notifications n
-            
-            AND (
+            WHERE (
                 (n.scope = 'private' AND n.student_id = :student_id)
                 OR 
                 (n.scope = 'public' AND EXISTS (
@@ -660,10 +658,10 @@ async def get_student_notifications(
                 "has_more": (offset + limit) < total_count
             },
             stats={
-                "total_count": stats.total_count,
-                "unread_count": stats.unread_count,
-                "pending_invitations": stats.pending_invitations,
-                "unread_notices": stats.unread_notices
+                "total_count": stats.total_count or 0,
+                "unread_count": stats.unread_count or 0,
+                "pending_invitations": stats.pending_invitations or 0,
+                "unread_notices": stats.unread_notices or 0
             }
         )
         
@@ -675,7 +673,7 @@ async def get_student_notifications(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error fetching notifications: {str(e)}"
         )
-
+    
 @router.patch("/notifications/{notification_id}/respond", response_model=NotificationResponseResult)
 async def respond_to_notification(
     notification_id: str,
