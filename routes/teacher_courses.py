@@ -1599,13 +1599,13 @@ async def get_student_practice_details(
         
         # Get chapters covered
         chapters_query = text("""
-            SELECT DISTINCT chapter
-            FROM user_attempts
-            WHERE user_id::text = :student_id
-            AND board = :course_board
-            AND class_level = :course_class
-            AND subject = :course_subject
-            ORDER BY chapter
+            SELECT DISTINCT ua.chapter
+            FROM user_attempts ua
+            WHERE ua.user_id::text = :student_id
+            AND ua.board = :course_board
+            AND ua.class_level = :course_class
+            AND ua.subject = :course_subject
+            ORDER BY ua.chapter
         """)
         
         chapters_covered = [row.chapter for row in db.execute(chapters_query, {
@@ -1635,29 +1635,29 @@ async def get_student_practice_details(
             improvement_rate=round(improvement_rate, 1)
         )
         
-        # Get detailed chapter performance
+        # Get detailed chapter performance - FIXED: Use table prefixes
         chapter_details_query = text("""
             SELECT 
-                chapter,
+                ua.chapter,
                 COUNT(*) as attempts,
-                AVG(score) as avg_score,
-                MAX(score) as best_score,
-                MIN(score) as worst_score,
-                SUM(COALESCE(time_taken, 0)) as total_time,
-                COUNT(DISTINCT question_id) as questions_attempted,
-                MAX(created_at) as last_attempted,
+                AVG(ua.score) as avg_score,
+                MAX(ua.score) as best_score,
+                MIN(ua.score) as worst_score,
+                SUM(COALESCE(ua.time_taken, 0)) as total_time,
+                COUNT(DISTINCT ua.question_id) as questions_attempted,
+                MAX(ua.created_at) as last_attempted,
                 COUNT(CASE WHEN q.difficulty = 'easy' THEN 1 END) as easy_count,
                 COUNT(CASE WHEN q.difficulty = 'medium' THEN 1 END) as medium_count,
                 COUNT(CASE WHEN q.difficulty = 'hard' THEN 1 END) as hard_count,
-                COUNT(CASE WHEN score >= 5 THEN 1 END) as correct_count
+                COUNT(CASE WHEN ua.score >= 5 THEN 1 END) as correct_count
             FROM user_attempts ua
             LEFT JOIN questions q ON ua.question_id = q.id
             WHERE ua.user_id::text = :student_id
             AND ua.board = :course_board
             AND ua.class_level = :course_class
             AND ua.subject = :course_subject
-            GROUP BY chapter
-            ORDER BY chapter
+            GROUP BY ua.chapter
+            ORDER BY ua.chapter
         """)
         
         chapter_results = db.execute(chapter_details_query, {
@@ -1689,15 +1689,15 @@ async def get_student_practice_details(
             )
             chapters.append(chapter_detail)
         
-        # Get recent practice sessions (group by date and chapter)
+        # Get recent practice sessions (group by date and chapter) - FIXED: Use table prefixes
         recent_sessions_query = text("""
             SELECT 
-                DATE(created_at) as session_date,
-                chapter,
+                DATE(ua.created_at) as session_date,
+                ua.chapter,
                 COUNT(*) as questions_attempted,
-                AVG(score) as avg_score,
-                SUM(COALESCE(time_taken, 0)) as total_time,
-                COUNT(CASE WHEN score >= 5 THEN 1 END) as correct_answers,
+                AVG(ua.score) as avg_score,
+                SUM(COALESCE(ua.time_taken, 0)) as total_time,
+                COUNT(CASE WHEN ua.score >= 5 THEN 1 END) as correct_answers,
                 string_agg(DISTINCT q.type, ', ') as topics_covered
             FROM user_attempts ua
             LEFT JOIN questions q ON ua.question_id = q.id
@@ -1705,8 +1705,8 @@ async def get_student_practice_details(
             AND ua.board = :course_board
             AND ua.class_level = :course_class
             AND ua.subject = :course_subject
-            GROUP BY DATE(created_at), chapter
-            ORDER BY session_date DESC, chapter
+            GROUP BY DATE(ua.created_at), ua.chapter
+            ORDER BY session_date DESC, ua.chapter
             LIMIT 20
         """)
         
@@ -1734,20 +1734,20 @@ async def get_student_practice_details(
             )
             recent_sessions.append(practice_session)
         
-        # Get weekly performance trend
+        # Get weekly performance trend - FIXED: Use table prefixes
         weekly_trend_query = text("""
             SELECT 
-                TO_CHAR(DATE_TRUNC('week', created_at), 'Mon DD') as week_label,
+                TO_CHAR(DATE_TRUNC('week', ua.created_at), 'Mon DD') as week_label,
                 COUNT(*) as attempts,
-                AVG(score) as avg_score
-            FROM user_attempts
-            WHERE user_id::text = :student_id
-            AND board = :course_board
-            AND class_level = :course_class
-            AND subject = :course_subject
-            AND created_at >= NOW() - INTERVAL '8 weeks'
-            GROUP BY DATE_TRUNC('week', created_at)
-            ORDER BY DATE_TRUNC('week', created_at) DESC
+                AVG(ua.score) as avg_score
+            FROM user_attempts ua
+            WHERE ua.user_id::text = :student_id
+            AND ua.board = :course_board
+            AND ua.class_level = :course_class
+            AND ua.subject = :course_subject
+            AND ua.created_at >= NOW() - INTERVAL '8 weeks'
+            GROUP BY DATE_TRUNC('week', ua.created_at)
+            ORDER BY DATE_TRUNC('week', ua.created_at) DESC
             LIMIT 8
         """)
         
@@ -1767,7 +1767,7 @@ async def get_student_practice_details(
             for week in weekly_results
         ]
         
-        # Get accuracy by topic (question type)
+        # Get accuracy by topic (question type) - FIXED: Use table prefixes
         topic_accuracy_query = text("""
             SELECT 
                 COALESCE(q.type, 'Unknown') as topic,
@@ -1799,15 +1799,15 @@ async def get_student_practice_details(
             for topic in topic_results
         ]
         
-        # Calculate streak info
+        # Calculate streak info - FIXED: Use table prefixes
         streak_query = text("""
             WITH daily_practice AS (
-                SELECT DISTINCT DATE(created_at) as practice_date
-                FROM user_attempts
-                WHERE user_id::text = :student_id
-                AND board = :course_board
-                AND class_level = :course_class
-                AND subject = :course_subject
+                SELECT DISTINCT DATE(ua.created_at) as practice_date
+                FROM user_attempts ua
+                WHERE ua.user_id::text = :student_id
+                AND ua.board = :course_board
+                AND ua.class_level = :course_class
+                AND ua.subject = :course_subject
                 ORDER BY practice_date DESC
             ),
             streak_calc AS (
@@ -1836,17 +1836,17 @@ async def get_student_practice_details(
             "course_subject": course_info.subject
         }).fetchone()
         
-        # Get time distribution (practice hours)
+        # Get time distribution (practice hours) - FIXED: Use table prefixes
         time_distribution_query = text("""
             SELECT 
-                EXTRACT(HOUR FROM created_at) as hour,
+                EXTRACT(HOUR FROM ua.created_at) as hour,
                 COUNT(*) as attempts
-            FROM user_attempts
-            WHERE user_id::text = :student_id
-            AND board = :course_board
-            AND class_level = :course_class
-            AND subject = :course_subject
-            GROUP BY EXTRACT(HOUR FROM created_at)
+            FROM user_attempts ua
+            WHERE ua.user_id::text = :student_id
+            AND ua.board = :course_board
+            AND ua.class_level = :course_class
+            AND ua.subject = :course_subject
+            GROUP BY EXTRACT(HOUR FROM ua.created_at)
             ORDER BY attempts DESC
             LIMIT 10
         """)
