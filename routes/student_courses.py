@@ -544,7 +544,7 @@ async def get_student_notifications(
             FROM notifications n
             JOIN courses c ON n.course_id = c.id
             JOIN profiles t ON n.teacher_id = t.id
-            WHERE n.expires_at > NOW()
+            
             AND (
                 -- Private notifications for this student
                 (n.scope = 'private' AND n.student_id = :student_id)
@@ -636,7 +636,7 @@ async def get_student_notifications(
                 COUNT(DISTINCT CASE WHEN n.type = 'course_invitation' AND n.status = 'pending' THEN n.id END) as pending_invitations,
                 COUNT(DISTINCT CASE WHEN n.type = 'public_notice' AND n.status = 'pending' THEN n.id END) as unread_notices
             FROM notifications n
-            WHERE n.expires_at > NOW()
+            
             AND (
                 (n.scope = 'private' AND n.student_id = :student_id)
                 OR 
