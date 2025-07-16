@@ -1,5 +1,5 @@
 # backend/config/security.py
-from fastapi import HTTPException, Security, status, Depends
+from fastapi import HTTPException, Security, status, Depends,  Header
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from sqlalchemy.orm import Session
 from config.database import get_db
@@ -8,6 +8,8 @@ from dotenv import load_dotenv
 import httpx
 from passlib.context import CryptContext
 import logging
+from typing import Optional
+import secrets
 
 load_dotenv()
 
@@ -19,6 +21,26 @@ pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 security = HTTPBearer()
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_KEY")
+
+# Service-to-service authentication
+SERVICE_API_KEY = os.getenv("SERVICE_API_KEY")  # Add this to your env
+if not SERVICE_API_KEY:
+    SERVICE_API_KEY = secrets.token_urlsafe(32)  # Generate if not provided
+    print(f"⚠️ Generated SERVICE_API_KEY: {SERVICE_API_KEY}")
+
+async def verify_service_auth(x_service_key: Optional[str] = Header(None)):
+    """Verify service-to-service authentication"""
+    if not x_service_key or x_service_key != SERVICE_API_KEY:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Invalid service authentication"
+        )
+    return True
+
+# Optional: Create a dependency for service authentication
+async def get_service_auth(x_service_key: Optional[str] = Header(None)):
+    """Service authentication dependency"""
+    return await verify_service_auth(x_service_key)
 
 def verify_password(plain_password: str, hashed_password: str) -> bool:
     """Verify a password against its hash"""
