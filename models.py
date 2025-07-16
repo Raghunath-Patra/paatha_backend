@@ -58,13 +58,29 @@ class User(Base):
     promo_code = Column(String(20), unique=True, nullable=True)
     is_marketing_partner = Column(Boolean, default=False)
     token_bonus = Column(Integer, default=0)
-    
+    video_projects = relationship("VideoProject", back_populates="user")    
     # Indexes
     __table_args__ = (
         Index('idx_profiles_role', 'role'),
         Index('idx_profiles_email', 'email'),
         Index('idx_profiles_promo_code', 'promo_code'),
     )
+
+class VideoProject(Base):
+    __tablename__ = "video_projects"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    user_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id"), nullable=False)
+    project_id = Column(String, unique=True, nullable=False)  # ID from video service
+    title = Column(String, nullable=False)
+    description = Column(Text)
+    status = Column(String, default="created")  # created, processing, completed, failed
+    video_url = Column(String)
+    created_at = Column(DateTime, default=datetime.utcnow)
+    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+    
+    # Relationship to user profile
+    user = relationship("User", back_populates="video_projects")
 
 class Question(Base):
     __tablename__ = "questions"

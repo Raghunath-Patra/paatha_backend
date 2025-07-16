@@ -38,6 +38,7 @@ from routes import try_routes, teacher_courses, student_courses, teacher_quizzes
 from routes import subjects_config
 from services.consolidated_user_service import consolidated_service
 from routes import image_upload
+from routes import video_generation
 from services.scheduler_service import scheduler_service
 from services.auto_grading_service import auto_grading_service
 import atexit
@@ -56,7 +57,7 @@ app = FastAPI()
 
 # In-memory storage for active questions
 active_questions: Dict[str, dict] = {}
-
+VIDEO_SERVICE_URL = os.getenv("VIDEO_SERVICE_URL", "http://localhost:8001")  # Default to local service
 # In main.py, update the CORS middleware configuration
 app.add_middleware(
     CORSMiddleware,
@@ -68,7 +69,8 @@ app.add_middleware(
         "http://localhost:3000/",  # Local development
         "http://0.0.0.0:3000/",  # Your frontend URL
         "http://0.0.0.0:3000",  # Your frontend URL
-        "https://paatha-copy.vercel.app"
+        "https://paatha-copy.vercel.app",
+        VIDEO_SERVICE_URL
 
     ],
     allow_credentials=True,
@@ -91,6 +93,7 @@ app.include_router(limits.router, prefix="/api")
 app.include_router(payments.router)
 app.include_router(promo_code.router)
 app.include_router(try_routes.router)
+app.include_router(video_generation.router)
 
 # Teacher functionality routes
 # from routes import teacher_courses, student_courses, teacher_quizzes, question_browser, student_quizzes
