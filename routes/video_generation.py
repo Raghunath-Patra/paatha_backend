@@ -15,7 +15,7 @@ import asyncio
 
 logger = logging.getLogger(__name__)
 
-router = APIRouter(prefix="/api/video", tags=["video-generation"])
+router = APIRouter(prefix="/api/video-generator", tags=["video-generation"])
 
 VIDEO_SERVICE_URL = os.getenv("VIDEO_SERVICE_URL", "http://localhost:8001")
 SERVICE_API_KEY = os.getenv("SERVICE_API_KEY")
