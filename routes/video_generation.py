@@ -434,7 +434,7 @@ async def log_video_project(db: Session, user_id: str, project_data: Dict[Any, A
         logger.error(f"Error logging video project: {str(e)}")
         db.rollback()
 
-router.get("/project/{project_id}")
+@router.get("/project/{project_id}")
 async def get_project_details(
     project_id: str,
     current_user: dict = Depends(get_current_user),
@@ -505,7 +505,7 @@ async def get_project_details(
         logger.error(f"Error fetching project details: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Failed to fetch project details: {str(e)}")
 
-router.delete("/project/{project_id}")
+@router.delete("/project/{project_id}")
 async def delete_project(
     project_id: str,
     current_user: dict = Depends(get_current_user),
