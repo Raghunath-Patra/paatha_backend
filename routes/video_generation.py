@@ -23,7 +23,7 @@ async def debug_config(
 ):
     """Debug endpoint to check video service configuration"""
     return {
-        "user_id": current_user["id"],
+        "user_id": str(current_user["id"]),  # Convert UUID to string
         "user_role": current_user.get("role"),
         "video_service_url": VIDEO_SERVICE_URL,
         "service_key_configured": bool(SERVICE_API_KEY and SERVICE_API_KEY != "your-service-key-here"),
@@ -63,11 +63,15 @@ async def generate_script(
         
         body = await request.body()
         
-        # Add user context to the request
+        # Add user context to the request - CONVERT UUID TO STRING
+        user_id = str(current_user["id"])
+        user_email = current_user.get("email", "")
+        user_role = current_user.get("role", "student")
+        
         user_context = {
-            "user_id": current_user["id"],
-            "user_email": current_user["email"],
-            "user_role": current_user.get("role", "student")
+            "user_id": user_id,
+            "user_email": user_email,
+            "user_role": user_role
         }
         
         # Check if SERVICE_API_KEY is set
@@ -80,13 +84,13 @@ async def generate_script(
         
         async with httpx.AsyncClient(timeout=300.0) as client:
             try:
-                # Send both formats for compatibility
+                # Send both formats for compatibility - ALL VALUES MUST BE STRINGS
                 headers = {
                     "Content-Type": "application/json",
                     "X-Service-Key": SERVICE_API_KEY,
-                    "X-User-Id": current_user["id"],
-                    "X-User-Email": current_user["email"],
-                    "X-User-Role": current_user.get("role", "student"),
+                    "X-User-Id": user_id,  # Now a string
+                    "X-User-Email": user_email,
+                    "X-User-Role": user_role,
                     "X-User-Context": json.dumps(user_context)
                 }
                 
@@ -114,7 +118,7 @@ async def generate_script(
                 
                 # Log the project creation in your database if needed
                 project_data = response.json()
-                await log_video_project(db, current_user["id"], project_data)
+                await log_video_project(db, user_id, project_data)
                 
                 return project_data
                 
@@ -151,10 +155,15 @@ async def generate_video(
         
         body = await request.body()
         
+        # CONVERT UUID TO STRING
+        user_id = str(current_user["id"])
+        user_email = current_user.get("email", "")
+        user_role = current_user.get("role", "student")
+        
         user_context = {
-            "user_id": current_user["id"],
-            "user_email": current_user["email"],
-            "user_role": current_user.get("role", "student")
+            "user_id": user_id,
+            "user_email": user_email,
+            "user_role": user_role
         }
         
         # Check if SERVICE_API_KEY is set
@@ -167,13 +176,13 @@ async def generate_video(
         
         async with httpx.AsyncClient(timeout=600.0) as client:  # Longer timeout for video
             try:
-                # Send both formats for compatibility
+                # Send both formats for compatibility - ALL VALUES MUST BE STRINGS
                 headers = {
                     "Content-Type": "application/json",
                     "X-Service-Key": SERVICE_API_KEY,
-                    "X-User-Id": current_user["id"],
-                    "X-User-Email": current_user["email"],
-                    "X-User-Role": current_user.get("role", "student"),
+                    "X-User-Id": user_id,  # Now a string
+                    "X-User-Email": user_email,
+                    "X-User-Role": user_role,
                     "X-User-Context": json.dumps(user_context)
                 }
                 
@@ -234,11 +243,16 @@ async def get_user_projects(
         
         async with httpx.AsyncClient(timeout=30.0) as client:
             try:
+                # CONVERT UUID TO STRING - THIS IS THE FIX
+                user_id = str(current_user["id"])
+                user_email = current_user.get("email", "")
+                user_role = current_user.get("role", "student")
+                
                 headers = {
                     "X-Service-Key": SERVICE_API_KEY,
-                    "X-User-Id": current_user["id"],
-                    "X-User-Email": current_user.get("email", ""),
-                    "X-User-Role": current_user.get("role", "student")
+                    "X-User-Id": user_id,  # Now a string instead of UUID
+                    "X-User-Email": user_email,
+                    "X-User-Role": user_role
                 }
                 
                 logger.info(f"Making request to: {VIDEO_SERVICE_URL}/api/projects")
@@ -337,11 +351,16 @@ async def stream_video(
         
         async with httpx.AsyncClient() as client:
             try:
+                # CONVERT UUID TO STRING
+                user_id = str(current_user["id"])
+                user_email = current_user.get("email", "")
+                user_role = current_user.get("role", "student")
+                
                 headers = {
                     "X-Service-Key": SERVICE_API_KEY,
-                    "X-User-Id": current_user["id"],
-                    "X-User-Email": current_user["email"],
-                    "X-User-Role": current_user.get("role", "student")
+                    "X-User-Id": user_id,  # Now a string
+                    "X-User-Email": user_email,
+                    "X-User-Role": user_role
                 }
                 
                 response = await client.get(
@@ -401,7 +420,7 @@ async def log_video_project(db: Session, user_id: str, project_data: Dict[Any, A
         
         if 'project_id' in project_data:
             video_project = VideoProject(
-                user_id=user_id,
+                user_id=user_id,  # user_id is now a string
                 project_id=project_data['project_id'],
                 title=project_data.get('title', 'Untitled'),
                 description=project_data.get('description', ''),
