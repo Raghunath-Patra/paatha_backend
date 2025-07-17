@@ -16,6 +16,24 @@ router = APIRouter(prefix="/api/video-generator", tags=["video-generation"])
 VIDEO_SERVICE_URL = os.getenv("VIDEO_SERVICE_URL", "http://localhost:8001")
 SERVICE_API_KEY = os.getenv("SERVICE_API_KEY", "your-service-key-here")
 
+# Debug endpoint to check configuration
+@router.get("/debug/config")
+async def debug_config(
+    current_user: dict = Depends(get_current_user)
+):
+    """Debug endpoint to check video service configuration"""
+    return {
+        "user_id": current_user["id"],
+        "user_role": current_user.get("role"),
+        "video_service_url": VIDEO_SERVICE_URL,
+        "service_key_configured": bool(SERVICE_API_KEY and SERVICE_API_KEY != "your-service-key-here"),
+        "service_key_length": len(SERVICE_API_KEY) if SERVICE_API_KEY else 0,
+        "environment_vars": {
+            "VIDEO_SERVICE_URL": bool(os.getenv("VIDEO_SERVICE_URL")),
+            "SERVICE_API_KEY": bool(os.getenv("SERVICE_API_KEY"))
+        }
+    }
+
 def get_service_headers(user_context: Dict = None):
     """Get headers for video service requests"""
     headers = {
@@ -214,14 +232,17 @@ async def get_user_projects(
                 detail="Video service not properly configured"
             )
         
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(timeout=30.0) as client:
             try:
                 headers = {
                     "X-Service-Key": SERVICE_API_KEY,
                     "X-User-Id": current_user["id"],
-                    "X-User-Email": current_user["email"],
+                    "X-User-Email": current_user.get("email", ""),
                     "X-User-Role": current_user.get("role", "student")
                 }
+                
+                logger.info(f"Making request to: {VIDEO_SERVICE_URL}/api/projects")
+                logger.info(f"Request headers: {dict(headers)}")
                 
                 response = await client.get(
                     f"{VIDEO_SERVICE_URL}/api/projects",
@@ -231,23 +252,63 @@ async def get_user_projects(
                 logger.info(f"Video service response status: {response.status_code}")
                 
                 if response.status_code == 403:
-                    logger.error("403 Forbidden from video service - check SERVICE_API_KEY")
-                    raise HTTPException(
-                        status_code=403,
-                        detail="Access denied by video service. Check service configuration."
-                    )
+                    logger.error(f"403 Forbidden from video service")
+                    logger.error(f"Response text: {response.text}")
+                    # Return empty projects instead of error
+                    return {
+                        "success": True,
+                        "projects": [],
+                        "total": 0,
+                        "page": 1,
+                        "limit": 20,
+                        "message": "Access denied by video service"
+                    }
                 
                 if response.status_code != 200:
                     logger.error(f"Video service error: {response.status_code} - {response.text}")
-                    raise HTTPException(
-                        status_code=response.status_code,
-                        detail=f"Video service error: {response.text}"
-                    )
+                    # Return empty projects instead of error
+                    return {
+                        "success": True,
+                        "projects": [],
+                        "total": 0,
+                        "page": 1,
+                        "limit": 20,
+                        "message": f"Video service unavailable (Status: {response.status_code})"
+                    }
                 
                 return response.json()
                 
+            except httpx.ConnectError as e:
+                logger.error(f"Connection error to video service: {str(e)}")
+                return {
+                    "success": True,
+                    "projects": [],
+                    "total": 0,
+                    "page": 1,
+                    "limit": 20,
+                    "message": "Video service offline"
+                }
+            except httpx.TimeoutException as e:
+                logger.error(f"Timeout connecting to video service: {str(e)}")
+                return {
+                    "success": True,
+                    "projects": [],
+                    "total": 0,
+                    "page": 1,
+                    "limit": 20,
+                    "message": "Video service timeout"
+                }
             except httpx.HTTPStatusError as e:
                 logger.error(f"HTTP error from video service: {e.response.status_code} - {e.response.text}")
+                if e.response.status_code == 403:
+                    return {
+                        "success": True,
+                        "projects": [],
+                        "total": 0,
+                        "page": 1,
+                        "limit": 20,
+                        "message": "Access denied by video service"
+                    }
                 raise HTTPException(
                     status_code=e.response.status_code,
                     detail=f"Video service error: {e.response.text}"
