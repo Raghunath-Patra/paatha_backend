@@ -433,3 +433,74 @@ async def log_video_project(db: Session, user_id: str, project_data: Dict[Any, A
     except Exception as e:
         logger.error(f"Error logging video project: {str(e)}")
         db.rollback()
+
+router.get("/project/{project_id}")
+async def get_project_details(
+    project_id: str,
+    current_user: dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Get details of a specific video project"""
+    try:
+        # Check if SERVICE_API_KEY is set
+        if not SERVICE_API_KEY or SERVICE_API_KEY == "your-service-key-here":
+            logger.error("SERVICE_API_KEY not properly configured")
+            raise HTTPException(
+                status_code=500,
+                detail="Video service not properly configured"
+            )
+        
+        async with httpx.AsyncClient() as client:
+            try:
+                # CONVERT UUID TO STRING
+                user_id = str(current_user["id"])
+                user_email = current_user.get("email", "")
+                user_role = current_user.get("role", "student")
+                
+                headers = {
+                    "X-Service-Key": SERVICE_API_KEY,
+                    "X-User-Id": user_id,  # Now a string
+                    "X-User-Email": user_email,
+                    "X-User-Role": user_role
+                }
+                
+                response = await client.get(
+                    f"{VIDEO_SERVICE_URL}/api/project/{project_id}",
+                    headers=headers
+                )
+                
+                logger.info(f"Video service response status: {response.status_code}")
+                
+                if response.status_code == 403:
+                    logger.error("403 Forbidden from video service - check SERVICE_API_KEY")
+                    raise HTTPException(
+                        status_code=403,
+                        detail="Access denied by video service. Check service configuration."
+                    )
+                
+                if response.status_code != 200:
+                    logger.error(f"Video service error: {response.status_code} - {response.text}")
+                    raise HTTPException(
+                        status_code=response.status_code,
+                        detail=f"Video project not found or access denied"
+                    )
+                
+                return response.json()
+                
+            except httpx.HTTPStatusError as e:
+                logger.error(f"HTTP error from video service: {e.response.status_code} - {e.response.text}")
+                if e.response.status_code == 403:
+                    raise HTTPException(
+                        status_code=403,
+                        detail="Access denied by video service. Check service configuration."
+                    )
+                raise HTTPException(
+                    status_code=e.response.status_code,
+                    detail=f"Video service error: {e.response.text}"
+                )
+            
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error fetching project details: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Failed to fetch project details: {str(e)}")
