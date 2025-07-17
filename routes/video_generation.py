@@ -62,10 +62,20 @@ async def generate_script(
         
         async with httpx.AsyncClient(timeout=300.0) as client:
             try:
+                # Send both formats for compatibility
+                headers = {
+                    "Content-Type": "application/json",
+                    "X-Service-Key": SERVICE_API_KEY,
+                    "X-User-Id": current_user["id"],
+                    "X-User-Email": current_user["email"],
+                    "X-User-Role": current_user.get("role", "student"),
+                    "X-User-Context": json.dumps(user_context)
+                }
+                
                 response = await client.post(
                     f"{VIDEO_SERVICE_URL}/api/generate-script",
                     content=body,
-                    headers=get_service_headers(user_context)
+                    headers=headers
                 )
                 
                 logger.info(f"Video service response status: {response.status_code}")
@@ -139,10 +149,20 @@ async def generate_video(
         
         async with httpx.AsyncClient(timeout=600.0) as client:  # Longer timeout for video
             try:
+                # Send both formats for compatibility
+                headers = {
+                    "Content-Type": "application/json",
+                    "X-Service-Key": SERVICE_API_KEY,
+                    "X-User-Id": current_user["id"],
+                    "X-User-Email": current_user["email"],
+                    "X-User-Role": current_user.get("role", "student"),
+                    "X-User-Context": json.dumps(user_context)
+                }
+                
                 response = await client.post(
                     f"{VIDEO_SERVICE_URL}/api/generate-video",
                     content=body,
-                    headers=get_service_headers(user_context)
+                    headers=headers
                 )
                 
                 logger.info(f"Video service response status: {response.status_code}")
@@ -196,12 +216,16 @@ async def get_user_projects(
         
         async with httpx.AsyncClient() as client:
             try:
+                headers = {
+                    "X-Service-Key": SERVICE_API_KEY,
+                    "X-User-Id": current_user["id"],
+                    "X-User-Email": current_user["email"],
+                    "X-User-Role": current_user.get("role", "student")
+                }
+                
                 response = await client.get(
                     f"{VIDEO_SERVICE_URL}/api/projects",
-                    headers={
-                        "X-Service-Key": SERVICE_API_KEY,
-                        "X-User-Id": current_user["id"]
-                    }
+                    headers=headers
                 )
                 
                 logger.info(f"Video service response status: {response.status_code}")
@@ -252,12 +276,16 @@ async def stream_video(
         
         async with httpx.AsyncClient() as client:
             try:
+                headers = {
+                    "X-Service-Key": SERVICE_API_KEY,
+                    "X-User-Id": current_user["id"],
+                    "X-User-Email": current_user["email"],
+                    "X-User-Role": current_user.get("role", "student")
+                }
+                
                 response = await client.get(
                     f"{VIDEO_SERVICE_URL}/api/video/{project_id}",
-                    headers={
-                        "X-Service-Key": SERVICE_API_KEY,
-                        "X-User-Id": current_user["id"]
-                    }
+                    headers=headers
                 )
                 
                 logger.info(f"Video service response status: {response.status_code}")
