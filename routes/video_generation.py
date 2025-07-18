@@ -614,6 +614,76 @@ async def ai_modify_project_step(
         logger.error(f"Error AI modifying project step: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Failed to AI modify project step: {str(e)}")
 
+@router.post("/project/${project_id}/visual-function/${function_name}/ai-modify")
+async def ai_modify_visual_function(
+    project_id: str,
+    function_name: str,
+    request: Request,
+    current_user: dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """AI modify a visual function in a video project"""
+    try:
+        # Check if SERVICE_API_KEY is set
+        if not SERVICE_API_KEY or SERVICE_API_KEY == "your-service-key-here":
+            logger.error("SERVICE_API_KEY not properly configured")
+            raise HTTPException(
+                status_code=500,
+                detail="Video service not properly configured"
+            )
+        
+        body = await request.body()
+        
+        async with httpx.AsyncClient(timeout=300.0) as client:
+            try:
+                # CONVERT UUID TO STRING
+                user_id = str(current_user["id"])
+                user_email = current_user.get("email", "")
+                user_role = current_user.get("role", "student")
+                
+                headers = {
+                    "Content-Type": "application/json",
+                    "X-Service-Key": SERVICE_API_KEY,
+                    "X-User-Id": user_id,
+                    "X-User-Email": user_email,
+                    "X-User-Role": user_role
+                }
+                
+                response = await client.post(
+                    f"{VIDEO_SERVICE_URL}/api/project/{project_id}/visual-function/{function_name}/ai-modify",
+                    content=body,
+                    headers=headers
+                )
+                
+                logger.info(f"Video service response status: {response.status_code}")
+                
+                if response.status_code == 403:
+                    logger.error("403 Forbidden from video service - check SERVICE_API_KEY")
+                    raise HTTPException(
+                        status_code=403,
+                        detail="Access denied by video service. Check service configuration."
+                    )
+                
+                if response.status_code != 200:
+                    logger.error(f"Video service error: {response.status_code} - {response.text}")
+                    raise HTTPException(
+                        status_code=response.status_code,
+                        detail=f"Video service error: {response.text}"
+                    )
+                
+                return response.json()
+                
+            except httpx.HTTPStatusError as e:
+                logger.error(f"HTTP error from video service: {e.response.status_code} - {e.response.text}")
+                raise HTTPException(
+                    status_code=e.response.status_code,
+                    detail=f"Video service error: {e.response.text}"
+                )
+            
+    except httpx.TimeoutException:
+        logger.error("Video service timeout")
+        raise HTTPException(status_code=504, detail="Video service timeout")
+
 @router.get("/project/{project_id}/export-pdf")
 async def export_project_pdf(
     project_id: str,
