@@ -334,7 +334,7 @@ async def get_user_projects(
         logger.error(f"Error fetching projects: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Failed to fetch projects: {str(e)}")
 
-@router.get("/video/{project_id}")
+@router.get("/stream/{project_id}")
 async def stream_video(
     project_id: str,
     current_user: dict = Depends(get_current_user)
@@ -364,7 +364,7 @@ async def stream_video(
                 }
                 
                 response = await client.get(
-                    f"{VIDEO_SERVICE_URL}/api/video/{project_id}",
+                    f"{VIDEO_SERVICE_URL}/api/stream/{project_id}",
                     headers=headers
                 )
                 
@@ -409,6 +409,82 @@ async def stream_video(
     except Exception as e:
         logger.error(f"Error streaming video: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Failed to stream video: {str(e)}")
+
+@router.get("/download/{project_id}")
+async def download_video(
+    project_id: str,
+    current_user: dict = Depends(get_current_user)
+):
+    """Download video file"""
+    try:
+        # Check if SERVICE_API_KEY is set
+        if not SERVICE_API_KEY or SERVICE_API_KEY == "your-service-key-here":
+            logger.error("SERVICE_API_KEY not properly configured")
+            raise HTTPException(
+                status_code=500,
+                detail="Video service not properly configured"
+            )
+        
+        async with httpx.AsyncClient() as client:
+            try:
+                # CONVERT UUID TO STRING
+                user_id = str(current_user["id"])
+                user_email = current_user.get("email", "")
+                user_role = current_user.get("role", "student")
+                
+                headers = {
+                    "X-Service-Key": SERVICE_API_KEY,
+                    "X-User-Id": user_id,  # Now a string
+                    "X-User-Email": user_email,
+                    "X-User-Role": user_role
+                }
+                
+                response = await client.get(
+                    f"{VIDEO_SERVICE_URL}/api/download/{project_id}",
+                    headers=headers
+                )
+                
+                logger.info(f"Video service response status: {response.status_code}")
+                
+                if response.status_code == 403:
+                    logger.error("403 Forbidden from video service - check SERVICE_API_KEY")
+                    raise HTTPException(
+                        status_code=403,
+                        detail="Access denied by video service. Check service configuration."
+                    )
+                
+                if response.status_code != 200:
+                    logger.error(f"Video service error: {response.status_code} - {response.text}")
+                    raise HTTPException(
+                        status_code=response.status_code,
+                        detail="Video not found or access denied"
+                    )
+                
+                return StreamingResponse(
+                    response.iter_bytes(),
+                    media_type="video/mp4",
+                    headers={
+                        "Content-Disposition": f"attachment; filename=video_{project_id}.mp4"
+                    }
+                )
+                
+            except httpx.HTTPStatusError as e:
+                logger.error(f"HTTP error from video service: {e.response.status_code} - {e.response.text}")
+                if e.response.status_code == 403:
+                    raise HTTPException(
+                        status_code=403,
+                        detail="Access denied by video service. Check service configuration."
+                    )
+                raise HTTPException(
+                    status_code=e.response.status_code,
+                    detail=f"Video service error: {e.response.text}"
+                )
+            
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        logger.error(f"Error downloading video: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Failed to download video: {str  (e)}")
 
 # Helper function to log video projects
 async def log_video_project(db: Session, user_id: str, project_data: Dict[Any, Any]):
