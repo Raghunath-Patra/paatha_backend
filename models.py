@@ -58,7 +58,7 @@ class User(Base):
     promo_code = Column(String(20), unique=True, nullable=True)
     is_marketing_partner = Column(Boolean, default=False)
     token_bonus = Column(Integer, default=0)
-    video_projects = relationship("VideoProject", back_populates="user")    
+    projects = relationship("Project", back_populates="user")    
     # Indexes
     __table_args__ = (
         Index('idx_profiles_role', 'role'),
