@@ -614,7 +614,7 @@ async def ai_modify_project_step(
         logger.error(f"Error AI modifying project step: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Failed to AI modify project step: {str(e)}")
 
-@router.post("/project/${project_id}/visual-function/${function_name}/ai-modify")
+@router.post("/project/{project_id}/visual-function/{function_name}/ai-modify")
 async def ai_modify_visual_function(
     project_id: str,
     function_name: str,
