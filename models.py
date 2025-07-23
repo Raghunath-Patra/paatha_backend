@@ -589,6 +589,7 @@ class CreditUsage(Base):
     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     user_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
     project_id = Column(UUID(as_uuid=True), ForeignKey("projects.id", ondelete="CASCADE"), nullable=False)
+    user_credits_id = Column(UUID(as_uuid=True), ForeignKey("user_credits.id", ondelete="CASCADE"), nullable=True)
     credits_used = Column(Integer, nullable=False)
     used_at = Column(DateTime(timezone=True), server_default=func.now())
     
@@ -601,6 +602,7 @@ class CreditUsage(Base):
     __table_args__ = (
         Index('idx_credit_usage_user', 'user_id'),
         Index('idx_credit_usage_project', 'project_id'),
+        Index('idx_credit_usage_user_credits', 'user_credits_id'),
         Index('idx_credit_usage_date', 'used_at'),
     )
 
