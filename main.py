@@ -38,7 +38,7 @@ from routes import try_routes, teacher_courses, student_courses, teacher_quizzes
 from routes import subjects_config
 from services.consolidated_user_service import consolidated_service
 from routes import image_upload
-from routes import video_generation
+from routes import video_generation, video_credits
 from services.scheduler_service import scheduler_service
 from services.auto_grading_service import auto_grading_service
 import atexit
@@ -105,6 +105,7 @@ app.include_router(student_quizzes.router)
 app.include_router(subjects_config.router)
 
 app.include_router(image_upload.router)
+app.include_router(video_credits.router)
 
 # Add middleware
 app.add_middleware(SecurityHeadersMiddleware)
