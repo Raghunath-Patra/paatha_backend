@@ -55,7 +55,6 @@ class SubscriptionService:
                     "id": None,
                     "name": "free",
                     "display_name": "Free Plan",
-                    "carry_forward": False,
                     "daily_input_token_limit": 18000,
                     "daily_output_token_limit": 12000,
                     "input_tokens_per_question": 6000,
@@ -67,7 +66,6 @@ class SubscriptionService:
                     "id": None,
                     "name": "premium",
                     "display_name": "Premium Plan",
-                    "carry_forward": True,
                     "daily_input_token_limit": 36000,  # Increased for premium
                     "daily_output_token_limit": 24000,
                     "input_tokens_per_question": 12000,
@@ -85,7 +83,6 @@ class SubscriptionService:
                 "id": None,
                 "name": "free",
                 "display_name": "Free Plan",
-                "carry_forward": False,
                 "daily_input_token_limit": 18000,
                 "daily_output_token_limit": 12000,
                 "input_tokens_per_question": 6000,

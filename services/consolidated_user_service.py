@@ -58,7 +58,6 @@ class ConsolidatedUserService:
                         COALESCE(sp.id, free_plan.id) as plan_id,
                         COALESCE(sp.name, free_plan.name) as plan_name,
                         COALESCE(sp.display_name, free_plan.display_name) as display_name,
-                        COALESCE(sp.carry_forward, free_plan.carry_forward) as carry_forward,
                         COALESCE(sp.daily_input_token_limit, free_plan.daily_input_token_limit) as daily_input_token_limit,
                         COALESCE(sp.daily_output_token_limit, free_plan.daily_output_token_limit) as daily_output_token_limit,
                         COALESCE(sp.input_tokens_per_question, free_plan.input_tokens_per_question) as input_tokens_per_question,
@@ -156,7 +155,6 @@ class ConsolidatedUserService:
                 
                 # Status flags
                 "limit_reached": limit_reached,
-                "carry_forward": result.carry_forward,
                 "token_bonus": result.token_bonus,
                 
                 # Subscription info
@@ -199,7 +197,6 @@ class ConsolidatedUserService:
             "output_tokens_per_question": 4000,
             "input_token_buffer": 1000,
             "limit_reached": False,
-            "carry_forward": False,
             "token_bonus": 0,
             "is_yearly": False,
             "subscription_start_date": None,

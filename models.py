@@ -66,22 +66,6 @@ class User(Base):
         Index('idx_profiles_promo_code', 'promo_code'),
     )
 
-class VideoProject(Base):
-    __tablename__ = "video_projects"
-    
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
-    user_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id"), nullable=False)
-    project_id = Column(String, unique=True, nullable=False)  # ID from video service
-    title = Column(String, nullable=False)
-    description = Column(Text)
-    status = Column(String, default="created")  # created, processing, completed, failed
-    video_url = Column(String)
-    created_at = Column(DateTime, default=datetime.utcnow)
-    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
-    
-    # Relationship to user profile
-    user = relationship("User", back_populates="video_projects")
-
 class Question(Base):
     __tablename__ = "questions"
 
@@ -408,7 +392,6 @@ class SubscriptionPlan(Base):
     # Features
     features = Column(JSON, nullable=True)
     is_active = Column(Boolean, default=True)
-    carry_forward = Column(Boolean, default=False)
     
     # Timestamps
     created_at = Column(DateTime(timezone=True), server_default=func.now())
@@ -544,11 +527,88 @@ class QuizResponse(Base):
         UniqueConstraint('attempt_id', 'question_id', name='unique_attempt_question'),
     )
 
-# Update QuizAttempt model - remove the answers JSON field since we'll use QuizResponse
-# In your existing QuizAttempt model, you can remove or keep the answers field for backward compatibility
-# If keeping for backward compatibility, add a comment that it's deprecated
+class Project(Base):
+    __tablename__ = "projects"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    title = Column(Text, nullable=False)
+    input_content = Column(Text, nullable=True)
+    status = Column(String, nullable=False, default='input_only')  # input_only, script_ready, completed
+    user_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), server_default=func.now(), onupdate=func.now())
+    
+    # Relationships
+    user = relationship("User", back_populates="projects")
+    credit_usage = relationship("CreditUsage", back_populates="project")
+    
+    # Constraints
+    __table_args__ = (
+        Index('idx_projects_user', 'user_id'),
+        Index('idx_projects_status', 'status'),
+        CheckConstraint("status IN ('input_only', 'script_ready', 'completed')", name='check_project_status'),
+    )
 
-# Add relationships after all classes are defined:
+class CreditPackage(Base):
+    __tablename__ = "credit_packages"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    package_name = Column(String(100), nullable=False)
+    credits_amount = Column(Integer, nullable=False)
+    price_inr = Column(Integer, nullable=False)  # In paise, 0 for free
+    is_active = Column(Boolean, default=True)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    
+    # Relationships
+    user_credits = relationship("UserCredits", back_populates="package")
+
+class UserCredits(Base):
+    __tablename__ = "user_credits"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    user_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    available_credits = Column(Integer, nullable=False, default=0)
+    pack_id = Column(UUID(as_uuid=True), ForeignKey("credit_packages.id"), nullable=True)
+    purchased_at = Column(DateTime(timezone=True), server_default=func.now())
+    expires_at = Column(DateTime(timezone=True), nullable=True)
+    
+    # Relationships
+    user = relationship("User", back_populates="video_credits")
+    package = relationship("CreditPackage", back_populates="user_credits")
+    usage_records = relationship("CreditUsage", back_populates="user_credits")
+    
+    # Constraints
+    __table_args__ = (
+        Index('idx_user_credits_user', 'user_id'),
+        UniqueConstraint('user_id', name='unique_user_credits'),
+    )
+
+class CreditUsage(Base):
+    __tablename__ = "credit_usage"
+    
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    user_id = Column(UUID(as_uuid=True), ForeignKey("profiles.id", ondelete="CASCADE"), nullable=False)
+    project_id = Column(UUID(as_uuid=True), ForeignKey("projects.id", ondelete="CASCADE"), nullable=False)
+    credits_used = Column(Integer, nullable=False)
+    used_at = Column(DateTime(timezone=True), server_default=func.now())
+    
+    # Relationships
+    user = relationship("User")
+    project = relationship("Project", back_populates="credit_usage")
+    user_credits = relationship("UserCredits", back_populates="usage_records")
+    
+    # Indexes
+    __table_args__ = (
+        Index('idx_credit_usage_user', 'user_id'),
+        Index('idx_credit_usage_project', 'project_id'),
+        Index('idx_credit_usage_date', 'used_at'),
+    )
+
+# Add these relationships to existing User model
+User.video_credits = relationship("UserCredits", back_populates="user", uselist=False)
+User.credit_usage = relationship("CreditUsage", back_populates="user")
+User.projects = relationship("Project", back_populates="user")
+
 Quiz.responses = relationship("QuizResponse", back_populates="quiz", cascade="all, delete-orphan")
 QuizQuestion.responses = relationship("QuizResponse", back_populates="question", cascade="all, delete-orphan")
 QuizAttempt.responses = relationship("QuizResponse", back_populates="attempt", cascade="all, delete-orphan")

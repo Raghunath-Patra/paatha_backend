@@ -57,7 +57,6 @@ async def get_question_status(
             "output_tokens_per_question": 4000,
             "input_token_buffer": 1000,
             "limit_reached": False,
-            "carry_forward": False,
             "token_bonus": 0,
             "is_yearly": False,
             "subscription_start_date": None,
