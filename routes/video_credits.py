@@ -42,17 +42,22 @@ async def get_user_balance(
     current_user: Dict = Depends(get_current_user),
     db: Session = Depends(get_db)
 ):
-    """Get user's current credit balance"""
+    """Get user's current credit balance with new user detection"""
     try:
         user_credits = db.query(UserCredits).filter(
             UserCredits.user_id == current_user['id']
         ).first()
         
+        # Check if user is new (no credit record exists)
+        is_new_user = user_credits is None
+        
         if not user_credits:
             return {
                 "available_credits": 0,
                 "current_package": None,
-                "purchased_at": None
+                "purchased_at": None,
+                "is_new_user": True,
+                "eligible_for_bonus": True
             }
         
         # Get package details
@@ -66,11 +71,63 @@ async def get_user_balance(
                 "name": package.package_name if package else "Unknown",
                 "total_credits": package.credits_amount if package else 0
             } if package else None,
-            "purchased_at": user_credits.purchased_at.isoformat() if user_credits.purchased_at else None
+            "purchased_at": user_credits.purchased_at.isoformat() if user_credits.purchased_at else None,
+            "is_new_user": False,
+            "eligible_for_bonus": False
         }
     except Exception as e:
         logger.error(f"Error fetching user balance: {str(e)}")
         raise HTTPException(status_code=500, detail="Error fetching balance")
+
+@router.post("/claim-bonus")
+async def claim_free_bonus(
+    current_user: Dict = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """Claim free bonus credits for new users"""
+    try:
+        # Verify user is truly new (double-check)
+        existing_credits = db.query(UserCredits).filter(
+            UserCredits.user_id == current_user['id']
+        ).first()
+        
+        if existing_credits:
+            raise HTTPException(status_code=400, detail="User already has credits, not eligible for bonus")
+        
+        # Get free bonus package
+        free_package = db.query(CreditPackage).filter(
+            CreditPackage.price_inr == 0,
+            CreditPackage.is_active == True
+        ).first()
+        
+        if not free_package:
+            raise HTTPException(status_code=404, detail="Free bonus package not found")
+        
+        # Create credit record with bonus
+        user_credits = UserCredits(
+            user_id=current_user['id'],
+            available_credits=free_package.credits_amount,
+            pack_id=free_package.id
+        )
+        db.add(user_credits)
+        db.commit()
+        
+        logger.info(f"Granted {free_package.credits_amount} bonus credits to new user {current_user['id']}")
+        
+        return {
+            "success": True,
+            "message": f"Congratulations! You've received {free_package.credits_amount} free credits!",
+            "credits_granted": free_package.credits_amount,
+            "package_name": free_package.package_name,
+            "new_balance": free_package.credits_amount
+        }
+        
+    except HTTPException as he:
+        raise he
+    except Exception as e:
+        db.rollback()
+        logger.error(f"Error claiming bonus credits: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error claiming bonus: {str(e)}")
 
 @router.post("/create-order")
 async def create_credit_order(
