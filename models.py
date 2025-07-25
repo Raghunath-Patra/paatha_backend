@@ -454,6 +454,8 @@ class Payment(Base):
     # Status
     status = Column(String, nullable=False)  # created, completed, failed, canceled
     
+    notes = Column(JSON, nullable=True)  # Store plan_duration, service_type, etc.
+    
     # Subscription dates
     premium_start_date = Column(DateTime(timezone=True), nullable=True)
     premium_end_date = Column(DateTime(timezone=True), nullable=True)
